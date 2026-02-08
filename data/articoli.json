@@ -1,12 +1,103 @@
 {
-  "last_updated": "2026-02-08T07:09:23.416748+00:00",
+  "last_updated": "2026-02-08T13:13:45.842273+00:00",
   "items": [
+    {
+      "titolo": "NASA lancia Crew-12 l’11 febbraio, la ISS ha bisogno di rinforzi",
+      "descrizione": "La NASA lancia la missione Crew-12 l'11 febbraio, quattro giorni prima del previsto. Destinazione: Stazione Spaziale Internazionale. The post NASA lancia Crew-12 l’11 febbraio, la ISS ha bisogno di rinforzi appeared firs",
+      "link": "https://www.punto-informatico.it/nasa-lancia-crew-12-11-febbraio-iss-ha-bisogno-rinforzi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-08T12:03:52+00:00"
+    },
+    {
+      "titolo": "Honor Magic 8 Pro: ottime foto ma il prezzo è ancora elevato",
+      "descrizione": "Honor Magic 8 Pro è uno di quegli smartphone “concreti” che puntano dritto su ciò che conta davvero nell’uso quotidiano: schermo, fotocamere, autonomia e fluidità generale. Dal punto di vista...",
+      "link": "https://www.ilsole24ore.com/art/honor-magic-8-pro-ottime-foto-ma-prezzo-e-ancora-elevato-AI6mLJJB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-08T11:21:39+00:00"
+    },
+    {
+      "titolo": "Google ammazza l’editoria online, la colpa è delle AI Overview",
+      "descrizione": "Le AI Overview di Google hanno ridotto i clic sui siti web drasticamente. Secondo Ahrefs l'AI sta distruggendo il modello economico del web. The post Google ammazza l’editoria online, la colpa è delle AI Overview appeare",
+      "link": "https://www.punto-informatico.it/google-ammazza-editoria-online-colpa-ai-overview/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-08T11:10:26+00:00"
+    },
+    {
+      "titolo": "Warcraft, Overwatch, and Diablo studio Blizzard Entertainment hits 35 years old — marks its first milestone under Microsoft Gaming",
+      "descrizione": "Blizzard Entertainment is celebrating its 35th anniversary.",
+      "link": "https://www.tomshardware.com/video-games/warcraft-overwatch-and-diablo-studio-blizzard-entertainment-hits-35-years-old-marks-its-first-milestone-under-microsoft-gaming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-08T11:00:00+00:00"
+    },
+    {
+      "titolo": "Batterie stampate in 3D: energia su misura per droni e indossabili",
+      "descrizione": "Batterie stampate in 3D promettono più autonomia e design flessibile",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647576/batterie-stampate-3d-dispositivi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T10:05:00+00:00"
+    },
+    {
+      "titolo": "Nioh 3 e l’arte di morire bene nel Giappone dei demoni",
+      "descrizione": "Abbiamo provato il terzo capitolo della serie, sviluppato da Team Ninja e pubblicato da Koei Tecmo. E ci è piaciuto",
+      "link": "https://www.ilsole24ore.com/art/nioh-3-e-l-arte-morire-bene-giappone-demoni-AIpGstCB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-08T09:11:38+00:00"
+    },
+    {
+      "titolo": "Honor 600, il prossimo mid-range potrebbe avere una batteria impressionante",
+      "descrizione": "Ancora più capiente degli 8.000 mAh visti su Honor 500.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647573/honor-600-batteria-9000-mah-rumor-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T09:05:00+00:00"
+    },
+    {
+      "titolo": "Basta attendere anni: l'AI svela subito quanto durerà una batteria",
+      "descrizione": "Un sistema di AI riduce del 95% tempi ed energia per testare la durata delle batterie.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647570/ai-previsione-durata-batterie-50-cicli/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T08:05:00+00:00"
+    },
+    {
+      "titolo": "Nissan, il 2026 parte bene in Italia grazie alla spinta della Qashqai",
+      "descrizione": "Oltre 2.100 Nissan Qashqai vendute a gennaio, +49% rispetto allo stesso mese del 2025",
+      "link": "https://www.hdmotori.it/nissan-vendite-gennaio-2026-italia-qashqai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T08:00:31+00:00"
+    },
+    {
+      "titolo": "Hyundai Tucson 2027 cambia look, stile Santa Fe per la nuova generazione | Foto spia",
+      "descrizione": "La nuova generazione del SUV continua i test su strada in Germania. Le ultime foto spia mostrano un look con richiami a quello della Santa Fe",
+      "link": "https://www.hdmotori.it/hyundai-tucson-2027-novita-anticipazioni-foto-spia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T07:30:09+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare senza laser: la mossa che può tagliare i costi dell’energia del futuro",
+      "descrizione": "Un test negli USA mostra che la fusione può funzionare senza costosi laser",
+      "link": "https://www.hdblog.it/green/articoli/n647534/fusione-nucleare-senza-laser/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T07:05:00+00:00"
+    },
+    {
+      "titolo": "KIA EV5 vs Tesla Model Y, sfida tra SUV elettrici: confronto, versioni e prezzi",
+      "descrizione": "Mettiamo a confronto KIA EV5, new entry nel mercato italiano con la Tesla Model Y, vera best seller",
+      "link": "https://www.hdmotori.it/kia-ev5-vs-tesla-model-y-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T06:30:54+00:00"
+    },
     {
       "titolo": "Naviga 100% anonimo grazie a queste VPN in promo folle su Amazon",
       "descrizione": "Inizia subito a navigare 100% anonimo con i tuoi dispositivi grazie a queste VPN in promo folle su Amazon e accedi a internet illimitato. The post Naviga 100% anonimo grazie a queste VPN in promo folle su Amazon appeared",
       "link": "https://www.punto-informatico.it/naviga-100-anonimo-grazie-a-queste-vpn-in-promo-folle-su-amazon/",
       "fonte": "Punto Informatico",
       "data": "2026-02-08T06:00:47+00:00"
+    },
+    {
+      "titolo": "Xiaomi 15T Pro in offerta: potenza da flagship ma con un prezzo da mid-range",
+      "descrizione": "Lo Xiaomi 15T Pro raggiunge ora un ottimo prezzo diventando l'alternativa migliore ai top di gamma, con tanta qualità e una spesa nettamente inferiore a quella dei flagship.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n647571/xiaomi-15t-pro-offerta-psprfeb26/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-08T06:00:00+00:00"
     },
     {
       "titolo": "The HP Omen 17 gaming laptop gets my recommendation - especially at this price",
@@ -77,97 +168,6 @@
       "link": "https://www.hdblog.it/sicurezza/articoli/n647479/supermercato-butta-fuori-cliente-errore/",
       "fonte": "HDblog.it",
       "data": "2026-02-07T10:05:00+00:00"
-    },
-    {
-      "titolo": "BYD Great Tang, 7 posti e ricarica megawatt per il nuovo maxi SUV elettrico",
-      "descrizione": "Arriverà sul mercato entro la prima metà del 2026 e poggia sulla piattaforma Super e-platform che supporta la ricarica megawatt",
-      "link": "https://www.hdmotori.it/byd-great-tang-dimensioni-caratteristiche-motori/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T10:00:05+00:00"
-    },
-    {
-      "titolo": "7 Steps to Better Financial Health You Can Take Right Now",
-      "descrizione": "The beginning of the year is a great time to take a hard look at your expenses and savings. Take these concrete steps to fix up your finances in about a day.",
-      "link": "https://www.wired.com/story/your-annual-personal-finance-checklist/",
-      "fonte": "WIRED",
-      "data": "2026-02-07T10:00:00+00:00"
-    },
-    {
-      "titolo": "Offerta Omoda 5, da 99 euro al mese con finanziamento: cosa c'è da sapere",
-      "descrizione": "In caso di permuta o rottamazione e con finanziamento, il SUV si porta a casa con rate da 99 euro a fronte di un anticipo di 7.909 euro",
-      "link": "https://www.hdmotori.it/offerta-omoda-5-sconto-finanziamento-rate-interessi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T09:30:25+00:00"
-    },
-    {
-      "titolo": "Vivo X300 Ultra riceve una certificazione importante: il lancio si avvicina",
-      "descrizione": "Presto sarà lanciato in Cina e poi arriverà anche da noi.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647538/vivo-x300-ultra-specifiche-ricarica-lancio-globale/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T09:05:00+00:00"
-    },
-    {
-      "titolo": "Nasa conferma: mercoledì primo volo verso l’Iss dopo l’evacuazione medica",
-      "descrizione": "La Crew-12 partirà con un razzo Falcon 9 di SpaceX non prima delle 12 ora italiana",
-      "link": "https://www.ilsole24ore.com/art/nasa-conferma-mercoledi-primo-volo-l-iss-l-evacuazione-medica-AIYt3pIB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-07T08:54:56+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17, la batteria del modello globale sarà ridotta rispetto alla variante cinese",
-      "descrizione": "Il taglio delle batterie sul mercato globale non è una novità.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647531/xiaomi-17-batteria-ridotta-versione-globale-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T08:35:00+00:00"
-    },
-    {
-      "titolo": "Tesla Roadster, la supercar sta davvero arrivando? Elon Musk deposita un nuovo logo",
-      "descrizione": "Tesla ha depositato un nuovo logo per la Roadster che riaccende le discussioni sulla possibile presentazione di questa supercar",
-      "link": "https://www.hdmotori.it/tesla-roadster-logo-presentazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T08:30:49+00:00"
-    },
-    {
-      "titolo": "CarPlay cambia volto: Apple apre la strada ai chatbot AI in auto",
-      "descrizione": "Apple studia l’integrazione dei chatbot AI in CarPlay secondo indiscrezioni",
-      "link": "https://www.hdblog.it/apple/articoli/n647537/apple-carplay-chatbot-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T08:05:00+00:00"
-    },
-    {
-      "titolo": "Airbag Takata difettosi, ancora troppe le auto circolanti a rischio",
-      "descrizione": "Il Ministero delle Infrastrutture richiama l’attenzione sugli airbag Takata difettosi. In Italia circolano ancora 1,6 milioni di veicoli a rischio",
-      "link": "https://www.hdmotori.it/airbag-takata-avviso-ministero-infrastrutture/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T08:00:11+00:00"
-    },
-    {
-      "titolo": "Xiaomi 15: tanta potenza, dimensioni compatte e ora un prezzo da fascia media",
-      "descrizione": "Lo Xiaomi 15 è in offerta e con un nuovo coupon diventa il compatto da prendere nella fascia media del mercato, anche grazie allo Snapdragon 8 Elite.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n647547/xiaomi-15-offerta-prezzo-psprfeb26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T07:55:00+00:00"
-    },
-    {
-      "titolo": "WordPress: Claude può gestire blog e analytics, cosa cambia",
-      "descrizione": "Con il nuovo connettore MCP, WordPress permette a Claude di analizzare traffico, commenti, plugin e performance dei siti. The post WordPress: Claude può gestire blog e analytics, cosa cambia appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/wordpress-claude-puo-gestire-blog-analytics-cosa-cambia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-07T07:43:27+00:00"
-    },
-    {
-      "titolo": "Poco X8 Pro e Pro Max: prezzi europei svelati per errore sul sito ufficiale",
-      "descrizione": "Ecco quanto costeranno da noi nelle diverse configurazioni.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647539/poco-x8-pro-max-prezzo-europa-italia-quanto-costa/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T07:25:00+00:00"
-    },
-    {
-      "titolo": "iPad 12, nuove conferme per il supporto ad Apple Intelligence",
-      "descrizione": "Dovrebbe però essere sostanzialmente l'unica novità.",
-      "link": "https://www.hdblog.it/tablet/articoli/n647529/apple-ipad-12-intelligence-chip-a18-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T07:05:00+00:00"
     }
   ]
 }
