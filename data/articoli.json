@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-02-08T13:13:45.842273+00:00",
+  "last_updated": "2026-02-08T18:57:10.279614+00:00",
   "items": [
+    {
+      "titolo": "Attenzione a CrashFix: nuova variante di ClickFix",
+      "descrizione": "Microsoft ha descritto l'attacco CrashFix che simula il crash del browser per convincere l'utente ad eseguire il comando che installa un malware. The post Attenzione a CrashFix: nuova variante di ClickFix appeared first",
+      "link": "https://www.punto-informatico.it/attenzione-crashfix-nuova-variante-clickfix/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-08T18:19:20+00:00"
+    },
+    {
+      "titolo": "3D printing with one of the world’s hardest Tungsten-based materials is now possible — material’s incredible hardness made it difficult to additively manufacture",
+      "descrizione": "Scientists based at Hiroshima University have devised a novel way of 3D printing with one of hardest engineering materials used by industry.",
+      "link": "https://www.tomshardware.com/3d-printing/3d-printing-with-one-of-the-worlds-hardest-tungsten-based-materials-is-now-possible-materials-incredible-hardness-made-it-difficult-to-additively-manufacture",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-08T16:10:00+00:00"
+    },
+    {
+      "titolo": "Nvidia says it didn't use pirated books to train its AI models — company asking for Anna'a Archive suit to be dismissed",
+      "descrizione": "Nvidia is pushing back against claims that it trained AI models on pirated books, telling a federal court that alleged contact with Anna’s Archive doesn’t amount to proof of copyright infringement.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-annas-archive-contact-does-not-show-pirated-books-were-used-to-train-its-ai",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-08T14:41:10+00:00"
+    },
+    {
+      "titolo": "Key to ultra-dense next-gen data storage could be a new magnetic state found in twisted 2D materials — German researchers reveal 'super‑moiré' magnetic milestone",
+      "descrizione": "Researchers have identified unusual magnetism in twisted, two-dimensional chromium triiodide, revealing long-range spin textures that extend beyond the material’s underlying moiré pattern.",
+      "link": "https://www.tomshardware.com/pc-components/storage/german-researchers-uncover-long-range-magnetic-textures-in-twisted-2d-magnets",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-08T13:46:19+00:00"
+    },
+    {
+      "titolo": "Retro Apple Mac mod implements thermal printer floppy swap — machine also benefits from a Mac Mini brain transplant",
+      "descrizione": "A retro computer enthusiast has fitted a thermal printer into an ancient Apple Macintosh Plus.",
+      "link": "https://www.tomshardware.com/pc-components/case-mods/retro-apple-mac-mod-implements-thermal-printer-floppy-swap-machine-also-benefits-from-a-mac-mini-brain-transplant",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-08T13:17:19+00:00"
+    },
     {
       "titolo": "NASA lancia Crew-12 l’11 febbraio, la ISS ha bisogno di rinforzi",
       "descrizione": "La NASA lancia la missione Crew-12 l'11 febbraio, quattro giorni prima del previsto. Destinazione: Stazione Spaziale Internazionale. The post NASA lancia Crew-12 l’11 febbraio, la ISS ha bisogno di rinforzi appeared firs",
@@ -133,41 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/20-gigawatt-chinese-microwave-weapon-touted-as-starlinks-worst-nightmare-by-countrys-media-portable-5-ton-device-can-deliver-full-minute-destructive-bursts",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-07T14:07:26+00:00"
-    },
-    {
-      "titolo": "Legendary Windows dev codes demos and games for ancient ‘War Games’ monitor — interfaces with the HP1345a vector display using an ESP32 microcontroller",
-      "descrizione": "The ancient HP1345a vector display is now usable with a PC to USB serial connection and code shared on GitHub.",
-      "link": "https://www.tomshardware.com/monitors/legendary-windows-dev-codes-demos-and-games-for-ancient-war-games-monitor-interfaces-with-the-hp1345a-vector-display-using-an-esp32-microcontroller",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-07T12:30:00+00:00"
-    },
-    {
-      "titolo": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
-      "descrizione": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
-      "fonte": "WIRED",
-      "data": "2026-02-07T11:30:00+00:00"
-    },
-    {
-      "titolo": "Google Wallet sta per cambiare: filtrano altre novità in arrivo per l'interfaccia",
-      "descrizione": "L'obiettivo è rendere la schermata principale più chiara.",
-      "link": "https://www.hdblog.it/google/articoli/n647541/google-wallet-redesign-interfaccia-pass-novita-app/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T11:05:00+00:00"
-    },
-    {
-      "titolo": "Thermalright's LCD software for Windows ported to Linux — enthsuiast's full-fledged port supports a ton of models and enables RGB and LCD customization",
-      "descrizione": "A Linux enthusiast has ported the Windows version of Thermalright's AIO cooler control center software to Linux. Linux users can now control their AIO cooler screens directly from Linux.",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-ports-thermalrights-lcd-software-for-windows-to-linux-fully-fledged-port-supports-a-ton-of-models-and-enables-rgb-and-lcd-customization",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-07T11:00:00+00:00"
-    },
-    {
-      "titolo": "Supermercato butta fuori cliente per un errore con il riconoscimento facciale",
-      "descrizione": "Scenario orwelliano",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n647479/supermercato-butta-fuori-cliente-errore/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-07T10:05:00+00:00"
     }
   ]
 }
