@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-02-09T13:49:14.559960+00:00",
+  "last_updated": "2026-02-09T19:41:47.546373+00:00",
   "items": [
     {
-      "titolo": "Il 40% degli Android è vulnerabile: sei tra questi?",
-      "descrizione": "Il 40% dei dispositivi Android non riceve più update di sicurezza ed è vulnerabile a malware e spyware. Google consiglia di cambiare telefono. The post Il 40% degli Android è vulnerabile: sei tra questi? appeared first o",
-      "link": "https://www.punto-informatico.it/40-per-cento-android-vulnerabile-sei-tra-questi/",
+      "titolo": "Microsoft Word rimuove Invia a Kindle, l’alternativa gratuita",
+      "descrizione": "Word dice addio a Invia a Kindle, funzione che pochi usavano e che replicava un servizio già disponibile su Amazon. The post Microsoft Word rimuove Invia a Kindle, l’alternativa gratuita appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/microsoft-word-rimuove-invia-kindle-alternativa-gratuita/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-09T13:39:03+00:00"
+      "data": "2026-02-09T18:26:57+00:00"
     },
     {
-      "titolo": "Ferrari Luce è l’auto elettrica col design di Jony Ive",
-      "descrizione": "Ufficiali il nome e gli interni dell'elettrica Ferrari Luce: il design è stato studiato in collaborazione con Jony Ive e Marc Newson. The post Ferrari Luce è l’auto elettrica col design di Jony Ive appeared first on Punt",
-      "link": "https://www.punto-informatico.it/ferrari-luce/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T13:31:42+00:00"
+      "titolo": "Lenovo Legion Y700 2026, il quadro è sempre più completo",
+      "descrizione": "A livello ufficiale abbiamo le specifiche del display, a quello ufficioso i tagli di memoria.",
+      "link": "https://www.hdblog.it/tablet/articoli/n647748/lenovo-legion-y700-tablet-gaming-display-memorie/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T18:05:00+00:00"
     },
     {
-      "titolo": "Nvidia now produces three times as much code as before AI — specialized version of Cursor is being used by over 30,000 Nvidia engineers internally",
-      "descrizione": "Cursor, an AI-assisted development environment, essentially an IDE, is being used by Nvidia internally to boost coding efficiency. Cursor says the Green Team's internal code commits have tripled since its implementation",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-now-produces-three-times-as-much-code-as-before-ai-specialized-version-of-cursor-is-being-used-by-over-30-000-nvidia-engineers-internally",
+      "titolo": "Windows 11 rottama i vecchi driver: la tua stampante sopravviverà?",
+      "descrizione": "Windows 11 dice addio ai driver di stampa obsoleti V3 e V4. Le stampanti più datate rischiano di diventare soprammobili. The post Windows 11 rottama i vecchi driver: la tua stampante sopravviverà? appeared first on Punto",
+      "link": "https://www.punto-informatico.it/windows-11-rottama-vecchi-driver-stampante-sopravvivera/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T17:40:24+00:00"
+    },
+    {
+      "titolo": "Anthropic ha quasi concluso un altro finanziamento record: $20 mld",
+      "descrizione": "La maggior parte del capitale proverrebbe dai due partner principali: NVIDIA e Microsoft.",
+      "link": "https://www.hdblog.it/business/articoli/n647745/anthropic-finanziamento-record-20-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T17:35:00+00:00"
+    },
+    {
+      "titolo": "4 Linux distros that make Hyprland easy to try - and one is truly glorious",
+      "descrizione": "Hyprland is a hot topic among Linux users and will only continue to grow in popularity. But which distributions make this new(ish) desktop viable for the average user?",
+      "link": "https://www.zdnet.com/article/top-linux-distributions-hyprland/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T17:30:13+00:00"
+    },
+    {
+      "titolo": "Robot umanoidi cinesi sempre più reali: Dobot avvia la produzione di Atom",
+      "descrizione": "Dobot lancia il terzo lotto di Atom, robot umanoide pronto per le fabbriche del 2026.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647727/dobot-atom-robot-umanoide-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T17:30:00+00:00"
+    },
+    {
+      "titolo": "I tested 3 pairs of XR display glasses and didn't expect the winner to be this obvious",
+      "descrizione": "When it comes to Viture, RayNeo, and Xreal, polished spatial tracking beats both raw brightness and future promises.",
+      "link": "https://www.zdnet.com/article/i-tested-three-pairs-of-display-glasses-and-the-mid-range-one-is-the-clear-winner/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T17:21:00+00:00"
+    },
+    {
+      "titolo": "Samsung come iPhone 18? Un leak parla di fotocamera ad apertura variabile",
+      "descrizione": "Non è il primo rumor in tal senso.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647730/samsung-come-iphone-18-leak-fotocamera/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T17:05:00+00:00"
+    },
+    {
+      "titolo": "Snapdragon Elite X2 dà battaglia ad Apple M5 nei primi benchmark indipendenti",
+      "descrizione": "Come core CPU in sé Apple è ancora avanti, ma Qualcomm ha delle configurazioni più aggressive.",
+      "link": "https://www.hdblog.it/hardware/articoli/n647733/snapdragon-x2-elite-benchmark-vs-apple-m5/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T16:55:00+00:00"
+    },
+    {
+      "titolo": "Robot umanoidi saldatori entrano in fabbrica negli USA: il test in Louisiana",
+      "descrizione": "In Louisiana parte un test con robot umanoidi saldatori in una fabbrica d’acciaio.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n647611/robot-umanoidi-saldatori-louisiana/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T16:35:00+00:00"
+    },
+    {
+      "titolo": "E.ON Luce Drive Smarty: fino a 120€ di bonus se ricarichi l’auto elettrica",
+      "descrizione": "Con E.ON Luce Drive Smarty puoi avere un'offerta a tasso variabile perfetta per la ricarica domestica dell'auto elettrica. The post E.ON Luce Drive Smarty: fino a 120€ di bonus se ricarichi l’auto elettrica appeared firs",
+      "link": "https://www.punto-informatico.it/e-on-luce-drive-smarty-fino-a-120e-di-bonus-se-ricarichi-lauto-elettrica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T16:15:56+00:00"
+    },
+    {
+      "titolo": "Via libera alla fusione nucleare: progetto da 350 MW sull’ex centrale a carbone",
+      "descrizione": "Negli USA parte l’iter per una centrale a fusione da 350 MW su un sito ex carbone.",
+      "link": "https://www.hdblog.it/green/articoli/n647720/fusione-nucleare-licenza-350-mw-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T16:15:00+00:00"
+    },
+    {
+      "titolo": "XIAOMI TV F da 32″ è la smart TV ideale: SVENDUTA a 139€ su Amazon",
+      "descrizione": "XIAOMI TV F da 32\" è la smart TV 2026 nuova di zecca e dal prezzo piccolissimo grazie allo sconto in corso su Amazon. The post XIAOMI TV F da 32″ è la smart TV ideale: SVENDUTA a 139€ su Amazon appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/xiaomi-tv-f-da-32-e-la-smart-tv-ideale-svenduta-a-139e-su-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T16:11:22+00:00"
+    },
+    {
+      "titolo": "Energia PuntoFisso: prezzo fisso, zero sorprese per due anni",
+      "descrizione": "Energia PuntoFisso 24 Mesi di ENGIE offre prezzo bloccato su luce e gas, energia verde, gestione digitale e tranquillità dai rincari per famiglie attente risparmio. The post Energia PuntoFisso: prezzo fisso, zero sorpres",
+      "link": "https://www.punto-informatico.it/energia-puntofisso-prezzo-fisso-zero-sorprese-per-due-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T16:09:54+00:00"
+    },
+    {
+      "titolo": "Dreame protagonista al Super Bowl: robot \"per i campioni\"",
+      "descrizione": "Una pubblicità plurimilionaria",
+      "link": "https://www.hdblog.it/home/articoli/n647695/dreame-super-bowl-spot-robot-aspirapolvere/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T16:05:00+00:00"
+    },
+    {
+      "titolo": "Discord, verifica dell’età per tutti: cosa cambia e da quando",
+      "descrizione": "Dal mese prossimo, Discord attiverà la verifica dell'età in tutto il mondo: contenuti limitati di default con age gate per sbloccarli. The post Discord, verifica dell’età per tutti: cosa cambia e da quando appeared first",
+      "link": "https://www.punto-informatico.it/discord-verifica-eta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T15:45:40+00:00"
+    },
+    {
+      "titolo": "5 Linux servers that let you ditch the public cloud and reclaim your privacy - for free",
+      "descrizione": "European Union countries are moving away from American tech giants to run their own clouds and servers to control their digital destiny. You can do this, too. Here's how.",
+      "link": "https://www.zdnet.com/article/personal-digital-sovereignty-choices-free-linux-servers/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T15:42:47+00:00"
+    },
+    {
+      "titolo": "Auricolari open ear con traduttore istantaneo: la nuova frontiera (-76%)",
+      "descrizione": "Auricolari Bluetooth che indossi per parlare 164 lingue diverse: geniali e di ultima generazione ora in sconto su Amazon. The post Auricolari open ear con traduttore istantaneo: la nuova frontiera (-76%) appeared first o",
+      "link": "https://www.punto-informatico.it/auricolari-open-ear-con-traduttore-istantaneo-la-nuova-frontiera-76/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T15:39:49+00:00"
+    },
+    {
+      "titolo": "Social media: ban nei paesi europei, anche in Italia?",
+      "descrizione": "Molti paesi europei vogliono introdurre il divieto di accesso ai social media, ma la verifica dell'età non è efficace e il ban può essere aggirato. The post Social media: ban nei paesi europei, anche in Italia? appeared",
+      "link": "https://www.punto-informatico.it/social-media-ban-paesi-europei-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T15:33:31+00:00"
+    },
+    {
+      "titolo": "Oppo Find N6 promette bene: avrà la piega più lieve mai vista",
+      "descrizione": "La società inizia a parlare pubblicamente del device.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647715/oppo-find-n6-piega-riduzione-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T15:25:00+00:00"
+    },
+    {
+      "titolo": "Cosa cambia se Lega Serie A compra il Fantacalcio",
+      "descrizione": "Con un affare valutato in 40 milioni di euro, Lega Serie A potrebbe allungare le mani sul fantacalcio: cosa cambierebbe per chi ci gioca. The post Cosa cambia se Lega Serie A compra il Fantacalcio appeared first on Punto",
+      "link": "https://www.punto-informatico.it/lega-serie-a-fantacalcio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T15:21:17+00:00"
+    },
+    {
+      "titolo": "ChatGPT cambia pelle: oggi arrivano gli annunci pubblicitari nell’app",
+      "descrizione": "OpenAI avvia i test degli annunci su ChatGPT per gli utenti gratuiti e Go",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647709/chatgpt-pubblicita-test-openai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T15:15:00+00:00"
+    },
+    {
+      "titolo": "Spionaggio di alto profilo con Signal: come difendersi",
+      "descrizione": "Una campagna di spionaggio su Signal colpisce l'Europa: furto di account via ingegneria sociale; ecco cosa controllare per difendersi. The post Spionaggio di alto profilo con Signal: come difendersi appeared first on Pun",
+      "link": "https://www.punto-informatico.it/spionaggio-alto-profilo-signal-come-difendersi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-09T14:46:22+00:00"
+    },
+    {
+      "titolo": "US Air Force bans use of smart glasses among its troops — earphones and other Bluetooth devices also limited to official duties while in uniform",
+      "descrizione": "The U.S. Air Force is banning its personnel from using smart glasses while in uniform and limited the use of earbuds for official duties.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-air-force-bans-use-of-smart-glasses-among-its-troops-earbuds-and-other-bluetooth-devices-limited-to-official-duties",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-09T13:00:59+00:00"
-    },
-    {
-      "titolo": "WhatsApp, l'Ue notifica a Meta misure urgenti per riaprire agli assistenti AI rivali",
-      "descrizione": "La Commissione europea ha inviato a Meta Platforms una Statement of Objections",
-      "link": "https://www.hdblog.it/mercato/articoli/n647679/whatsapp-notifica-meta-misure-urgenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T12:40:00+00:00"
-    },
-    {
-      "titolo": "Honor Magic 9 series, dobbiamo aspettarci modifiche importanti al design per i rumor",
-      "descrizione": "Potrebbe sparire un elemento distintivo.",
-      "link": "https://www.hdblog.it/honor/articoli/n647671/honor-magic-9-series-design-novita-fotocamera/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T12:25:00+00:00"
-    },
-    {
-      "titolo": "Caso Horses, nuovo botta e risposta tra Epic e gli sviluppatori",
-      "descrizione": "Santa Ragione accusa Epic di aver detto cose false sul titolo e di averla ghostata, Epic difende la propria decisione.",
-      "link": "https://www.hdblog.it/games/articoli/n647673/horses-ban-polemica-epic-games/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T12:15:00+00:00"
-    },
-    {
-      "titolo": "Suzuki Across Plug-in si rinnova così: ecco tutte le novità del SUV",
-      "descrizione": "Il SUV plug-in di Suzuki si rinnova nel design e nella tecnologia",
-      "link": "https://www.hdmotori.it/suzuki-across-plug-in-2026-dimensioni-interni-motori-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T12:00:24+00:00"
-    },
-    {
-      "titolo": "Musk ci ripensa: colonizzeremo prima la Luna, poi Marte",
-      "descrizione": "Marte e la Luna sono distanti, bene che vada, 50 milioni di chilometri, ma possono arrivare a 400 milioni di chilometri nel caso stiano da parti opposte al Sole. Ma...",
-      "link": "https://www.ilsole24ore.com/art/musk-ci-ripensa-colonizzeremo-prima-luna-poi-marte-AIx6wGKB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-09T11:40:39+00:00"
-    },
-    {
-      "titolo": "Google conferma: Gemini arriva su Chrome nei Chromebook Plus",
-      "descrizione": "Si comincia dagli Stati Uniti: ecco cosa può fare.",
-      "link": "https://www.hdblog.it/portatili/articoli/n647663/google-gemini-chrome-chromebook-plus-funzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T11:35:00+00:00"
-    },
-    {
-      "titolo": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
-      "descrizione": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
-      "link": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
-      "fonte": "WIRED",
-      "data": "2026-02-09T11:30:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp non può bloccare i chatbot di terze parti",
-      "descrizione": "WhatsApp ha abusato della sua posizione dominante per danneggiare la concorrenza, quindi deve consentire l'uso dei chatbot di terze parti in WhatsApp. The post WhatsApp non può bloccare i chatbot di terze parti appeared",
-      "link": "https://www.punto-informatico.it/whatsapp-non-puo-bloccare-chatbot-terze-parti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T11:17:53+00:00"
-    },
-    {
-      "titolo": "Linux passa alla versione 7.0: Linus Torvalds conferma il salto dopo la 6.19",
-      "descrizione": "Si apre ufficialmente un nuovo ciclo di sviluppo del kernel",
-      "link": "https://www.hdblog.it/linux/articoli/n647662/linux-passa-versione-7-linus-torvalds-conferma/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T11:15:00+00:00"
-    },
-    {
-      "titolo": "Copilot invade Windows 11, ora appare durante gli aggiornamenti",
-      "descrizione": "Microsoft integra Copilot direttamente nelle schermate di installazione e aggiornamento di Windows 11, nell'interfaccia OOBE. The post Copilot invade Windows 11, ora appare durante gli aggiornamenti appeared first on Pun",
-      "link": "https://www.punto-informatico.it/copilot-invade-windows-11-appare-aggiornamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T11:03:29+00:00"
-    },
-    {
-      "titolo": "Redmi Watch 5 da 109 a 74€ solo su Amazon: batteria 24 giorni e monitoraggio salute",
-      "descrizione": "Redmi Watch 5 è lo smartwatch di Xiaomi in offerta speciale su Amazon a soli 74€ con batteria da 24 giorni di autonomia e monitoraggio salute. The post Redmi Watch 5 da 109 a 74€ solo su Amazon: batteria 24 giorni e moni",
-      "link": "https://www.punto-informatico.it/redmi-watch-5-da-109-a-74-euro-solo-su-amazon-batteria-24-giorni-monitoraggio-salute/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T11:00:53+00:00"
-    },
-    {
-      "titolo": "Samsung DeX: lo smartphone può davvero sostituire un PC nel 2026?",
-      "descrizione": "Abbiamo ri-provato Samsung DeX a inizio 2026 utilizzandolo per una settimana per capire se possa davvero sostituire un PC, ecco come è andata.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n647124/samsung-dex-smartphone-sostituire-pc/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T11:00:00+00:00"
-    },
-    {
-      "titolo": "Iran’s Digital Surveillance Machine Is Almost Complete",
-      "descrizione": "After more than 15 years of draconian measures, culminating in an ongoing internet shutdown, the Iranian regime seems to be staggering toward its digital surveillance endgame.",
-      "link": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
-      "fonte": "WIRED",
-      "data": "2026-02-09T11:00:00+00:00"
-    },
-    {
-      "titolo": "Intel quietly kills controversial 'pay as you go' chip licensing initiative — Software Defined Silicon GitHub repository was archived in November 2025, allegedly signaling the end of active development",
-      "descrizione": "Intel seemingly discontinues its 'Intel On Demand' technology that let its customers activate certain accelerators inside Xeon CPUs after purchase.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-kills-controversial-software-defined-silicon-initiative-github-repository-was-archived-in-november-2025-allegedly-signaling-the-end-of-active-development",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-09T10:54:51+00:00"
-    },
-    {
-      "titolo": "IBAN non italiani penalizzati: Agos Ducato multata dall’Antitrust",
-      "descrizione": "L’Autorità Garante della Concorrenza e del Mercato ha multato Agos Ducato per 800mila euro per aver discriminato gli IBAN SEPA esteri tra il 2014 e il 2023",
-      "link": "https://www.hdblog.it/mercato/articoli/n647658/agos-ducato-multa-iban-esteri/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T10:50:00+00:00"
-    },
-    {
-      "titolo": "Iscrizioni scuola 2026-27 con UNICA e SPID: ultimi giorni",
-      "descrizione": "Un rapido promemoria: rimangono solo pochi giorni per le iscrizioni online all'anno scolastico 2026-27 attraverso la piattaforma UNICA. The post Iscrizioni scuola 2026-27 con UNICA e SPID: ultimi giorni appeared first on",
-      "link": "https://www.punto-informatico.it/iscrizioni-scuola-2026-27-unica/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T10:47:54+00:00"
-    },
-    {
-      "titolo": "La Gen AI è arrivata anche nelle comunicazioni istituzionali italiane",
-      "descrizione": "L'abbiamo \"beccata\" sia nella cerimonia delle Olimpiadi sia nel racconto da parte della Polizia degli scontri di Torino degli scorsi giorni. Questo secondo caso è particolarmente pericoloso e...",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647653/gen-ai-istituzioni-italia-polizia-olimpiadi-slop/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T10:45:00+00:00"
-    },
-    {
-      "titolo": "Famiglia Pixel 10 in offerta speciale: sconto extra di 100€ su Amazon con questo codice",
-      "descrizione": "Occasione da non perdere valida fino al 12 febbraio.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n647660/famiglia-pixel-10-speciale-sconto-amazon-codice/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T10:43:00+00:00"
-    },
-    {
-      "titolo": "Un archivio ignorato svela segnali estremi da stelle vicine e pianeti alieni",
-      "descrizione": "Rianalisi di dati radio scopre potenti esplosioni magnetiche da stelle nane vicine",
-      "link": "https://www.hdblog.it/scienza/articoli/n647605/dati-radio-stelle-nane-attivita-magnetica/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T10:35:00+00:00"
-    },
-    {
-      "titolo": "Cliorama celebra a Milano la storia di successi della Renault Clio",
-      "descrizione": "Renault inaugura a Milano Cliorama, uno spazio esperienziale dedicato ai 35 anni di storia della Clio. L’iniziativa accompagna il lancio della nuova generazione",
-      "link": "https://www.hdmotori.it/renault-cliorama-campagna-marketing-lancio-nuova-clio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T10:30:58+00:00"
-    },
-    {
-      "titolo": "Canone 0 e sconto immediato per il POS Easy Mini di Axerve",
-      "descrizione": "Risparmi subito 30 euro e non dovrai mai pensare al canone mensile: richiedi subito il POS Easy Mini di Axerve, oggi è in promozione. The post Canone 0 e sconto immediato per il POS Easy Mini di Axerve appeared first on",
-      "link": "https://www.punto-informatico.it/fintech/canone-0-sconto-pos-easy-mini-axerve/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T10:13:50+00:00"
+      "data": "2026-02-09T14:39:23+00:00"
     }
   ]
 }

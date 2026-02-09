@@ -1,36 +1,20 @@
 {
-  "last_updated": "2026-02-09T13:49:18.066395+00:00",
+  "last_updated": "2026-02-09T19:41:51.341129+00:00",
   "items": [
     {
-      "titolo": "I migliori spot del Super Bowl: c’è tanta AI",
-      "descrizione": "Codex di OpenAI, Gemini di Google e il karaoke di Coinbase: una carrellata con i migliori spot trasmessi in occasione del Super Bowl. The post I migliori spot del Super Bowl: c’è tanta AI appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/migliori-spot-super-bowl/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T13:14:04+00:00",
+      "titolo": "ChatGPT ads start today: Here's what to expect - and which AIs don't have them",
+      "descrizione": "Wondering how ads will work in ChatGPT? Or which AIs are still ad-free? There aren't many. Here's a quick rundown.",
+      "link": "https://www.zdnet.com/article/chatgpt-starting-ads-which-ai-chatbots-are-ad-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T19:24:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot invade Windows 11, ora appare durante gli aggiornamenti",
-      "descrizione": "Microsoft integra Copilot direttamente nelle schermate di installazione e aggiornamento di Windows 11, nell'interfaccia OOBE. The post Copilot invade Windows 11, ora appare durante gli aggiornamenti appeared first on Pun",
-      "link": "https://www.punto-informatico.it/copilot-invade-windows-11-appare-aggiornamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T11:03:29+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "I migliori spot del Super Bowl: c’è tanta AI",
-      "descrizione": "Codex di OpenAI, Gemini di Google e il karaoke di Coinbase: una carrellata con i migliori spot trasmessi in occasione del Super Bowl. The post I migliori spot del Super Bowl: c’è tanta AI appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/migliori-spot-super-bowl/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-09T13:14:04+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
-      "descrizione": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
-      "link": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
-      "fonte": "WIRED",
-      "data": "2026-02-06T16:33:18+00:00",
+      "titolo": "Anthropic ha quasi concluso un altro finanziamento record: $20 mld",
+      "descrizione": "La maggior parte del capitale proverrebbe dai due partner principali: NVIDIA e Microsoft.",
+      "link": "https://www.hdblog.it/business/articoli/n647745/anthropic-finanziamento-record-20-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T17:35:00+00:00",
       "modello": "claude"
     }
   ]
