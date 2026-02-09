@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-02-08T18:57:14.429110+00:00",
+  "last_updated": "2026-02-09T03:22:17.118113+00:00",
   "items": [
     {
-      "titolo": "Nioh 3 e l’arte di morire bene nel Giappone dei demoni",
-      "descrizione": "Abbiamo provato il terzo capitolo della serie, sviluppato da Team Ninja e pubblicato da Koei Tecmo. E ci è piaciuto",
-      "link": "https://www.ilsole24ore.com/art/nioh-3-e-l-arte-morire-bene-giappone-demoni-AIpGstCB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-08T09:11:38+00:00",
+      "titolo": "I stopped using ChatGPT for everything: These AI models beat it at research, coding, and more",
+      "descrizione": "ChatGPT isn't the best at everything, believe it or not. So I found the best AI models for any job.",
+      "link": "https://www.zdnet.com/article/stop-using-chatgpt-ai-models-i-use-instead/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T02:18:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
-      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-07T06:03:23+00:00",
+      "titolo": "ChatGPT rallenta, Gemini e Grok accelerano. Il mercato degli LLM cresce ma Sam Altman non è più solo",
+      "descrizione": "I dati di Apptopia fotografano un mercato dell’intelligenza artificiale in piena espansione ma meno concentrato. OpenAI resta davanti, ma perde terreno mentre Google e xAI guadagnano utenti.",
+      "link": "https://www.ilsole24ore.com/art/chatgpt-rallenta-gemini-e-grok-accelerano-mercato-llm-cresce-ma-sam-altman-non-e-piu-solo-AIR2NqEB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-04T10:13:01+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "WordPress: Claude può gestire blog e analytics, cosa cambia",
-      "descrizione": "Con il nuovo connettore MCP, WordPress permette a Claude di analizzare traffico, commenti, plugin e performance dei siti. The post WordPress: Claude può gestire blog e analytics, cosa cambia appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/wordpress-claude-puo-gestire-blog-analytics-cosa-cambia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-07T07:43:27+00:00",
+      "titolo": "I tried a Claude Code rival that's local, open source, and completely free - how it went",
+      "descrizione": "I was curious if Block's Goose agent, paired with Ollama and the Qwen3-coder model, could really replace Claude Code. Here's how it worked.",
+      "link": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T02:16:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "I tried a Claude Code rival that's local, open source, and completely free - how it went",
+      "descrizione": "I was curious if Block's Goose agent, paired with Ollama and the Qwen3-coder model, could really replace Claude Code. Here's how it worked.",
+      "link": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose/",
+      "fonte": "Latest news",
+      "data": "2026-02-09T02:16:00+00:00",
+      "modello": "altri"
     }
   ]
 }

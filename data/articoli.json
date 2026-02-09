@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-08T18:57:10.279614+00:00",
+  "last_updated": "2026-02-09T03:22:12.537533+00:00",
   "items": [
+    {
+      "titolo": "Gestire le carte aziendali ora è più semplice con Wallester: l’iscrizione è gratuita",
+      "descrizione": "Per gestire le carte aziendali nel modo giusto è possibile puntare su Wallester, la piattaforma gratuita che semplifica la vita delle PMI. The post Gestire le carte aziendali ora è più semplice con Wallester: l’iscrizion",
+      "link": "https://www.punto-informatico.it/fintech/carte/gestire-le-carte-aziendali-ora-e-piu-semplice-con-wallester-liscrizione-e-gratuita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-08T20:30:54+00:00"
+    },
+    {
+      "titolo": "Connessione sicura e senza censura: Surfshark VPN ora costa 1,99 €/mese",
+      "descrizione": "Surfshark VPN è ora il servizio giusto per poter contare su una connessione sicura, protetta e senza tracciamento: il costo è di 1,99 euro al mese. The post Connessione sicura e senza censura: Surfshark VPN ora costa 1,9",
+      "link": "https://www.punto-informatico.it/connessione-sicura-e-senza-censura-surfshark-vpn-ora-costa-199-e-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-08T20:00:11+00:00"
+    },
     {
       "titolo": "Attenzione a CrashFix: nuova variante di ClickFix",
       "descrizione": "Microsoft ha descritto l'attacco CrashFix che simula il crash del browser per convincere l'utente ad eseguire il comando che installa un malware. The post Attenzione a CrashFix: nuova variante di ClickFix appeared first",
@@ -16,7 +30,7 @@
       "data": "2026-02-08T16:10:00+00:00"
     },
     {
-      "titolo": "Nvidia says it didn't use pirated books to train its AI models — company asking for Anna'a Archive suit to be dismissed",
+      "titolo": "Nvidia says it didn't use pirated books to train its AI models — company asking for Anna's Archive suit to be dismissed",
       "descrizione": "Nvidia is pushing back against claims that it trained AI models on pirated books, telling a federal court that alleged contact with Anna’s Archive doesn’t amount to proof of copyright infringement.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-annas-archive-contact-does-not-show-pirated-books-were-used-to-train-its-ai",
       "fonte": "Latest from Tom's Hardware",
@@ -135,39 +149,25 @@
       "data": "2026-02-08T06:00:00+00:00"
     },
     {
-      "titolo": "The HP Omen 17 gaming laptop gets my recommendation - especially at this price",
-      "descrizione": "The recent rise of RAM and GPU prices has made it hard to find good gaming laptop deals, but right now at Best Buy, you can save almost $1,100 on the HP Omen 17.",
-      "link": "https://www.zdnet.com/article/best-buy-hp-omen-17-gaming-laptop-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-08T02:07:00+00:00"
-    },
-    {
-      "titolo": "This 85-inch Sony Bravia TV dropped to less than $1,000 at Amazon - and I can vouch for it",
-      "descrizione": "The Sony Bravia 3 may be a base model LED TV, but it still offers plenty of premium-grade features. Amazon is selling an 85-inch version for just under $1,000.",
-      "link": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-08T02:06:00+00:00"
-    },
-    {
-      "titolo": "Are wind power generators actually viable at home? I tried one, and the results blew me away",
-      "descrizione": "When solar falls short, portable wind power like the Shine Turbine keeps devices running. Here's my verdict after a year of testing.",
-      "link": "https://www.zdnet.com/article/shine-turbine-kit-review/",
-      "fonte": "Latest news",
-      "data": "2026-02-08T02:02:00+00:00"
-    },
-    {
-      "titolo": "I replaced Google Maps with a free alternative that doesn't track me (or kill my phone battery)",
-      "descrizione": "Comaps features voice-guided directions and offline search, prioritizing privacy over the controversial practices Google Maps uses.",
-      "link": "https://www.zdnet.com/article/comaps-review-google-maps-alternative/",
-      "fonte": "Latest news",
-      "data": "2026-02-08T01:58:00+00:00"
-    },
-    {
       "titolo": "20-gigawatt Chinese microwave weapon touted as ‘Starlink’s worst nightmare’ by country's media — portable 5-ton device can deliver full-minute destructive bursts",
       "descrizione": "Scientists in China have developed an incredibly powerful microwave weapon capable of disrupting or damaging low-Earth orbit satellites.",
       "link": "https://www.tomshardware.com/tech-industry/20-gigawatt-chinese-microwave-weapon-touted-as-starlinks-worst-nightmare-by-countrys-media-portable-5-ton-device-can-deliver-full-minute-destructive-bursts",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-07T14:07:26+00:00"
+    },
+    {
+      "titolo": "Legendary Windows dev codes demos and games for ancient ‘War Games’ monitor — interfaces with the HP1345a vector display using an ESP32 microcontroller",
+      "descrizione": "The ancient HP1345a vector display is now usable with a PC to USB serial connection and code shared on GitHub.",
+      "link": "https://www.tomshardware.com/monitors/legendary-windows-dev-codes-demos-and-games-for-ancient-war-games-monitor-interfaces-with-the-hp1345a-vector-display-using-an-esp32-microcontroller",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-07T12:30:00+00:00"
+    },
+    {
+      "titolo": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
+      "descrizione": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
+      "fonte": "WIRED",
+      "data": "2026-02-07T11:30:00+00:00"
     }
   ]
 }
