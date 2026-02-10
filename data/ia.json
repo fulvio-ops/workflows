@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-02-10T13:55:29.994724+00:00",
+  "last_updated": "2026-02-10T19:33:47.646550+00:00",
   "items": [
     {
-      "titolo": "OpenAI non userà il brand \"io\" per il suo dispositivo AI: persa la causa",
-      "descrizione": "OpenAI vs iyO: la startup vince sul nome, Altman rinvia il lancio commerciale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647839/openai-rinuncia-brand-io-hardware/",
+      "titolo": "G.Skill patteggia una class action USA sulle velocità delle RAM DDR4 e DDR5",
+      "descrizione": "Alcuni utenti non avevano capito che le velocità reclamizzate sulla confezione si ottengono solo abilitando determinate funzionalità dal BIOS (EXPO o XMP).",
+      "link": "https://www.hdblog.it/hardware/articoli/n647906/g-skill-patteggia-class-action-velocita-ddr4-ddr5/",
       "fonte": "HDblog.it",
-      "data": "2026-02-10T11:40:00+00:00",
+      "data": "2026-02-10T17:50:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Translate \"convinto\" a diventare un chatbot stile Gemini",
-      "descrizione": "Con una semplice prompt injection, si possono superare i confini e i paletti imposti da Google.",
-      "link": "https://www.hdblog.it/google/articoli/n647844/google-translate-diventa-chatbot-prompt-injection/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-10T12:05:00+00:00",
+      "titolo": "Google Home, è possibile inviare foto e video a Gemini",
+      "descrizione": "Google potenzia Gemini nell'app Home, si potranno allegare foto e video alle richieste testuali per aiutare l'AI a capire meglio il contesto. The post Google Home, è possibile inviare foto e video a Gemini appeared first",
+      "link": "https://www.punto-informatico.it/google-home-inviare-foto-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-10T15:37:35+00:00",
       "modello": "gemini"
     },
     {
