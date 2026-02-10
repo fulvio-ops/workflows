@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-02-10T07:32:53.539707+00:00",
+  "last_updated": "2026-02-10T13:55:29.994724+00:00",
   "items": [
     {
-      "titolo": "Linux 6.19 è qui, ma la prossima versione sarà Linux 7.0",
-      "descrizione": "Linux 6.19 è l'ultimo capitolo prima del salto a Linux 7.0. Torvalds spiega perché, mentre il kernel regala nuova vita alle vecchie GPU AMD. The post Linux 6.19 è qui, ma la prossima versione sarà Linux 7.0 appeared firs",
-      "link": "https://www.punto-informatico.it/linux-6-19-e-qui-prossima-versione-sara-linux-7/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-10T06:09:55+00:00",
+      "titolo": "OpenAI non userà il brand \"io\" per il suo dispositivo AI: persa la causa",
+      "descrizione": "OpenAI vs iyO: la startup vince sul nome, Altman rinvia il lancio commerciale",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647839/openai-rinuncia-brand-io-hardware/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-10T11:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic ha quasi concluso un altro finanziamento record: $20 mld",
-      "descrizione": "La maggior parte del capitale proverrebbe dai due partner principali: NVIDIA e Microsoft.",
-      "link": "https://www.hdblog.it/business/articoli/n647745/anthropic-finanziamento-record-20-miliardi/",
+      "titolo": "Google Translate \"convinto\" a diventare un chatbot stile Gemini",
+      "descrizione": "Con una semplice prompt injection, si possono superare i confini e i paletti imposti da Google.",
+      "link": "https://www.hdblog.it/google/articoli/n647844/google-translate-diventa-chatbot-prompt-injection/",
       "fonte": "HDblog.it",
-      "data": "2026-02-09T17:35:00+00:00",
+      "data": "2026-02-10T12:05:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Arriva Claude Opus 4.6, l’intelligenza artificiale di Anthropic punta alle aziende",
+      "descrizione": "Contesto esteso, agenti collaborativi e integrazione nei flussi aziendali: la sfida a OpenAI e Google non è sullo spettacolo, ma sulla produttività reale delle imprese.",
+      "link": "https://www.ilsole24ore.com/art/arriva-claude-opus-46-l-intelligenza-artificiale-anthropic-punta-aziende-AIqJrSHB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-06T07:52:35+00:00",
       "modello": "claude"
     }
   ]
