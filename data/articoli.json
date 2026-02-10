@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-02-09T19:41:47.546373+00:00",
+  "last_updated": "2026-02-10T03:30:42.061249+00:00",
   "items": [
+    {
+      "titolo": "I found a free Google Maps alternative that doesn't track my location (or kill my phone battery)",
+      "descrizione": "Comaps features voice-guided directions and offline search, prioritizing privacy over the controversial practices of Google Maps.",
+      "link": "https://www.zdnet.com/article/comaps-review-google-maps-alternative/",
+      "fonte": "Latest news",
+      "data": "2026-02-10T01:46:00+00:00"
+    },
+    {
+      "titolo": "Your Windows PC has a secret recovery tool that's seriously useful - here's how to access it",
+      "descrizione": "If Windows ever has trouble launching, Recovery Drive lets you back up essential system files to an external USB drive to help Windows boot.",
+      "link": "https://www.zdnet.com/article/windows-10-11-secret-recovery-tool-how-to-find-it-and-use/",
+      "fonte": "Latest news",
+      "data": "2026-02-10T00:52:00+00:00"
+    },
+    {
+      "titolo": "Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake",
+      "descrizione": "Attorney general Raúl Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
+      "link": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
+      "fonte": "WIRED",
+      "data": "2026-02-09T23:54:47+00:00"
+    },
+    {
+      "titolo": "Load-balancing Ampinel adapter can save an Nvidia connector meltdown — new adapter is finally on sale after three-month delay",
+      "descrizione": "The Ampinel GPU power adapter finally goes on sale following a three-month delay, bringing real-time six-channel load balancing and meltdown prevention features",
+      "link": "https://www.tomshardware.com/pc-components/gpus/load-balancing-ampinel-adapter-can-save-an-nvidia-connector-meltdown-new-adapter-is-finally-on-sale-after-three-month-delay",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-09T20:03:00+00:00"
+    },
+    {
+      "titolo": "Samsung DeX: lo smartphone può davvero sostituire un PC nel 2026?",
+      "descrizione": "Abbiamo ri-provato Samsung DeX a inizio 2026 utilizzandolo per una settimana per capire se possa davvero sostituire un PC, ecco come è andata.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n647124/samsung-dex-smartphone-sostituire-pc/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T19:11:00+00:00"
+    },
     {
       "titolo": "Microsoft Word rimuove Invia a Kindle, l’alternativa gratuita",
       "descrizione": "Word dice addio a Invia a Kindle, funzione che pochi usavano e che replicava un servizio già disponibile su Amazon. The post Microsoft Word rimuove Invia a Kindle, l’alternativa gratuita appeared first on Punto Informati",
@@ -30,13 +65,6 @@
       "data": "2026-02-09T17:35:00+00:00"
     },
     {
-      "titolo": "4 Linux distros that make Hyprland easy to try - and one is truly glorious",
-      "descrizione": "Hyprland is a hot topic among Linux users and will only continue to grow in popularity. But which distributions make this new(ish) desktop viable for the average user?",
-      "link": "https://www.zdnet.com/article/top-linux-distributions-hyprland/",
-      "fonte": "Latest news",
-      "data": "2026-02-09T17:30:13+00:00"
-    },
-    {
       "titolo": "Robot umanoidi cinesi sempre più reali: Dobot avvia la produzione di Atom",
       "descrizione": "Dobot lancia il terzo lotto di Atom, robot umanoide pronto per le fabbriche del 2026.",
       "link": "https://www.hdblog.it/tecnologia/articoli/n647727/dobot-atom-robot-umanoide-produzione/",
@@ -44,11 +72,11 @@
       "data": "2026-02-09T17:30:00+00:00"
     },
     {
-      "titolo": "I tested 3 pairs of XR display glasses and didn't expect the winner to be this obvious",
-      "descrizione": "When it comes to Viture, RayNeo, and Xreal, polished spatial tracking beats both raw brightness and future promises.",
-      "link": "https://www.zdnet.com/article/i-tested-three-pairs-of-display-glasses-and-the-mid-range-one-is-the-clear-winner/",
-      "fonte": "Latest news",
-      "data": "2026-02-09T17:21:00+00:00"
+      "titolo": "Suzuki Across Plug-in si rinnova così: ecco tutte le novità del SUV",
+      "descrizione": "Il SUV plug-in di Suzuki si rinnova nel design e nella tecnologia",
+      "link": "https://www.hdmotori.it/suzuki-across-plug-in-2026-dimensioni-interni-motori-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-09T17:12:00+00:00"
     },
     {
       "titolo": "Samsung come iPhone 18? Un leak parla di fotocamera ad apertura variabile",
@@ -114,13 +142,6 @@
       "data": "2026-02-09T15:45:40+00:00"
     },
     {
-      "titolo": "5 Linux servers that let you ditch the public cloud and reclaim your privacy - for free",
-      "descrizione": "European Union countries are moving away from American tech giants to run their own clouds and servers to control their digital destiny. You can do this, too. Here's how.",
-      "link": "https://www.zdnet.com/article/personal-digital-sovereignty-choices-free-linux-servers/",
-      "fonte": "Latest news",
-      "data": "2026-02-09T15:42:47+00:00"
-    },
-    {
       "titolo": "Auricolari open ear con traduttore istantaneo: la nuova frontiera (-76%)",
       "descrizione": "Auricolari Bluetooth che indossi per parlare 164 lingue diverse: geniali e di ultima generazione ora in sconto su Amazon. The post Auricolari open ear con traduttore istantaneo: la nuova frontiera (-76%) appeared first o",
       "link": "https://www.punto-informatico.it/auricolari-open-ear-con-traduttore-istantaneo-la-nuova-frontiera-76/",
@@ -135,13 +156,6 @@
       "data": "2026-02-09T15:33:31+00:00"
     },
     {
-      "titolo": "Oppo Find N6 promette bene: avrà la piega più lieve mai vista",
-      "descrizione": "La società inizia a parlare pubblicamente del device.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647715/oppo-find-n6-piega-riduzione-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T15:25:00+00:00"
-    },
-    {
       "titolo": "Cosa cambia se Lega Serie A compra il Fantacalcio",
       "descrizione": "Con un affare valutato in 40 milioni di euro, Lega Serie A potrebbe allungare le mani sul fantacalcio: cosa cambierebbe per chi ci gioca. The post Cosa cambia se Lega Serie A compra il Fantacalcio appeared first on Punto",
       "link": "https://www.punto-informatico.it/lega-serie-a-fantacalcio/",
@@ -149,25 +163,11 @@
       "data": "2026-02-09T15:21:17+00:00"
     },
     {
-      "titolo": "ChatGPT cambia pelle: oggi arrivano gli annunci pubblicitari nell’app",
-      "descrizione": "OpenAI avvia i test degli annunci su ChatGPT per gli utenti gratuiti e Go",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647709/chatgpt-pubblicita-test-openai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-09T15:15:00+00:00"
-    },
-    {
       "titolo": "Spionaggio di alto profilo con Signal: come difendersi",
       "descrizione": "Una campagna di spionaggio su Signal colpisce l'Europa: furto di account via ingegneria sociale; ecco cosa controllare per difendersi. The post Spionaggio di alto profilo con Signal: come difendersi appeared first on Pun",
       "link": "https://www.punto-informatico.it/spionaggio-alto-profilo-signal-come-difendersi/",
       "fonte": "Punto Informatico",
       "data": "2026-02-09T14:46:22+00:00"
-    },
-    {
-      "titolo": "US Air Force bans use of smart glasses among its troops — earphones and other Bluetooth devices also limited to official duties while in uniform",
-      "descrizione": "The U.S. Air Force is banning its personnel from using smart glasses while in uniform and limited the use of earbuds for official duties.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-air-force-bans-use-of-smart-glasses-among-its-troops-earbuds-and-other-bluetooth-devices-limited-to-official-duties",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-09T14:39:23+00:00"
     }
   ]
 }
