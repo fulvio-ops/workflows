@@ -1,12 +1,54 @@
 {
-  "last_updated": "2026-02-10T19:33:43.726018+00:00",
+  "last_updated": "2026-02-11T03:27:02.054095+00:00",
   "items": [
+    {
+      "titolo": "These wireless speakers deliver gloriously smooth sound for any genre I threw at them",
+      "descrizione": "The SVS Prime Wireless Pro offers rich, immersive sound that audiophiles will appreciate, and it looks great.",
+      "link": "https://www.zdnet.com/article/svs-prime-wireless-pro-review/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T02:38:00+00:00"
+    },
+    {
+      "titolo": "Discord's new age ID rules are driving users away - here's where they're headed",
+      "descrizione": "Unverified users will soon need to upload a video selfie or official ID to remove age restrictions.",
+      "link": "https://www.zdnet.com/article/discord-age-verification-requirement/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T02:37:00+00:00"
+    },
+    {
+      "titolo": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+      "descrizione": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash.",
+      "link": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
+      "fonte": "WIRED",
+      "data": "2026-02-10T22:25:34+00:00"
+    },
+    {
+      "titolo": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
+      "descrizione": "Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it’s possible the Quad God can do more than four full rotations in the air.",
+      "link": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
+      "fonte": "WIRED",
+      "data": "2026-02-10T20:45:00+00:00"
+    },
     {
       "titolo": "Mai visto prima: NeN blocca il prezzo della luce per 10 anni (sì, fino al 2036)",
       "descrizione": "Con NeN paghi una rata fissa ogni mese calcolata sui tuoi consumi: e il prezzo della luce non cambia. The post Mai visto prima: NeN blocca il prezzo della luce per 10 anni (sì, fino al 2036) appeared first on Punto Infor",
       "link": "https://www.punto-informatico.it/mai-visto-prima-nen-blocca-il-prezzo-della-luce-per-10-anni-si-fino-al-2036/",
       "fonte": "Punto Informatico",
       "data": "2026-02-10T19:04:44+00:00"
+    },
+    {
+      "titolo": "Recensione LG StanByMe 2: la \"Smart TV\" senza filo su ruote che diventa un tablet",
+      "descrizione": "Abbiamo provato per qualche mese il nuovo LG StanByMe 2, un ibrido fra un monitor su stand con batteria integrata, un tablet ed una Smart TV. Il risultato? Un prodotto fantastico e con una bella...",
+      "link": "https://www.hdblog.it/tv/recensioni/n646332/recensione-lg-stanbyme-2-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-10T18:42:00+00:00"
+    },
+    {
+      "titolo": "Calabria, Sardegna e Sicilia in ginocchio dopo il ciclone: bollette sospese per 6 mesi",
+      "descrizione": "La decisione dell'ARERA.",
+      "link": "https://www.hdblog.it/green/articoli/n647813/arera-sospende-bollette-sud-italia-ciclone-harry/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-10T18:40:00+00:00"
     },
     {
       "titolo": "L’AI in sala operatoria confonde gli organi e crea problemi",
@@ -21,13 +63,6 @@
       "link": "https://www.punto-informatico.it/lanciare-un-sito-web-costa-troppo-con-hostinger-bastano-meno-di-3e-al-mese/",
       "fonte": "Punto Informatico",
       "data": "2026-02-10T18:05:50+00:00"
-    },
-    {
-      "titolo": "You can save $400 on a M4 MacBook Pro right now - but only for a limited time",
-      "descrizione": "Multiple variants of Apple's latest flagship laptop have received discounts in the days leading up to Presidents' Day.",
-      "link": "https://www.zdnet.com/article/apple-m4-macbook-pro-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-10T17:52:00+00:00"
     },
     {
       "titolo": "G.Skill patteggia una class action USA sulle velocità delle RAM DDR4 e DDR5",
@@ -58,25 +93,18 @@
       "data": "2026-02-10T17:31:33+00:00"
     },
     {
-      "titolo": "Why I still recommend the AirPods Pro 2 in 2026 - especially at this price",
-      "descrizione": "Apple's premium wireless earbuds remain among the best bang-for-buck earbuds out there.",
-      "link": "https://www.zdnet.com/article/why-i-still-recommend-the-airpods-pro-2-in-2026-especially-at-this-price/",
-      "fonte": "Latest news",
-      "data": "2026-02-10T17:27:00+00:00"
+      "titolo": "Nuova KIA EV2 alla prova del freddo estremo: ecco come si è comportata",
+      "descrizione": "Durante l’El Prix Winter Test Drive, la nuova KIA EV2 prototipo ha affrontato temperature sotto zero, percorrendo 310,6 km prima di fermarsi",
+      "link": "https://www.hdmotori.it/kia-ev2-test-autonomia-freddo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-10T17:13:00+00:00"
     },
     {
-      "titolo": "You can buy a 55-inch Fire TV for $180 on Amazon right now - no strings attached",
-      "descrizione": "Looking to upgrade or replace your TV? Budget shoppers should highly consider the 55-inch Insignia F50 for just $180.",
-      "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-10T17:24:00+00:00"
-    },
-    {
-      "titolo": "Discord's new age ID verification: How it works, internet reactions, and alternatives",
-      "descrizione": "Unverified users will soon need to upload a video selfie or official ID to remove age restrictions.",
-      "link": "https://www.zdnet.com/article/discord-age-verification-requirement/",
-      "fonte": "Latest news",
-      "data": "2026-02-10T17:11:00+00:00"
+      "titolo": "Jony Ive, i grandi schermi touch nelle auto sono la \"tecnologia sbagliata\"",
+      "descrizione": "Jony Ive dice la sua e afferma che all'interno delle auto sono ancora molto importanti i comandi fisici",
+      "link": "https://www.hdmotori.it/jony-ive-troppi-schermi-touch-auto-tecnologia-sbagliata/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-10T17:12:00+00:00"
     },
     {
       "titolo": "Safer Internet Day: aumentano le truffe per anziani",
@@ -91,13 +119,6 @@
       "link": "https://www.hdblog.it/android/articoli/n647896/telegram-throttling-limitazioni-russia-moderazione/",
       "fonte": "HDblog.it",
       "data": "2026-02-10T17:05:00+00:00"
-    },
-    {
-      "titolo": "Your PC's critical security certificates may be about to expire - how to check",
-      "descrizione": "Another crucial Windows expiration date is right around the corner for more than a billion PCs. Here's what you need to do now.",
-      "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
-      "fonte": "Latest news",
-      "data": "2026-02-10T17:00:39+00:00"
     },
     {
       "titolo": "Nuova terapia genica prova a ringiovanire i neuroni oculari",
@@ -135,20 +156,6 @@
       "data": "2026-02-10T15:37:35+00:00"
     },
     {
-      "titolo": "Motorola pronta a lanciare MA2, nuovo adattatore Android Auto wireless",
-      "descrizione": "Il gadget è stato avvisato presso la FCC. A quanto pare si passa a un cavo removibile, addio a quello integrato.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647883/motorola-ma2-android-auto-wireless-adattatore/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-10T15:35:00+00:00"
-    },
-    {
-      "titolo": "Paramount di nuovo all'attacco di Warner, ma il prezzo rimane invariato",
-      "descrizione": "Gli Ellison propongono condizioni un po' migliori, ma il prezzo ad azione rimane fisso a 30 dollari.",
-      "link": "https://www.hdblog.it/mercato/articoli/n647881/paramount-netflix-warner-bros-offerta/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-10T15:15:00+00:00"
-    },
-    {
       "titolo": "Harvard researchers develop novel 3D printing method for soft robotics — rotational multi-material method creates muscle-like structures that can be programmed to twist, lift, or bend",
       "descrizione": "Harvard researchers have developed a rotational 3D printing technique that can create malleable structures with built-in motion logic in a single, seamless step that could have a huge impact on the field of soft robotics",
       "link": "https://www.tomshardware.com/3d-printing/harvard-researchers-develop-novel-3d-printing-method-for-soft-robotics-rotational-multi-material-method-creates-muscle-like-structures-that-can-be-programmed-to-twist-lift-or-bend",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/sensore-mutande/",
       "fonte": "Punto Informatico",
       "data": "2026-02-10T14:55:42+00:00"
-    },
-    {
-      "titolo": "I chatbot AI giocano al dottore e uccidono i pazienti…",
-      "descrizione": "Una ricerca dimostra che i chatbot AI falliscono miseramente come medici. Diagnosi corrette solo in un terzo dei casi. The post I chatbot AI giocano al dottore e uccidono i pazienti… appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatbot-ai-giocano-dottore-uccidono-pazienti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-10T14:41:55+00:00"
     }
   ]
 }
