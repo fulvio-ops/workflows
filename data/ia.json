@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-02-11T07:19:47.561706+00:00",
+  "last_updated": "2026-02-11T13:50:53.860293+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Deep Research ora ha un lettore di report dedicato",
-      "descrizione": "OpenAI aggiorna Deep Research con un visualizzatore a tutto schermo per i report, indice dei contenuti navigabile e fonti personalizzabili. The post ChatGPT Deep Research ora ha un lettore di report dedicato appeared fir",
-      "link": "https://www.punto-informatico.it/chatgpt-deep-research-lettore-report-dedicato/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T06:08:11+00:00",
+      "titolo": "Gli attacchi hacker crescono rapidamente in Italia, grazie anche all'AI",
+      "descrizione": "Ci violano con l'AI, e ci colpiscono con i ransomware.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n647980/attacchi-hacker-italia-gennaio-2026-crescita-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T11:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Home, è possibile inviare foto e video a Gemini",
-      "descrizione": "Google potenzia Gemini nell'app Home, si potranno allegare foto e video alle richieste testuali per aiutare l'AI a capire meglio il contesto. The post Google Home, è possibile inviare foto e video a Gemini appeared first",
-      "link": "https://www.punto-informatico.it/google-home-inviare-foto-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-10T15:37:35+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "I tried to save $1,200 by vibe coding for free - and quickly regretted it",
-      "descrizione": "I wanted to believe this free AI coding tool could replace Claude Code. But it isn't ready for prime time yet.",
-      "link": "https://www.zdnet.com/article/free-ai-coding-tool-goose-vs-claude-code-not-ready/",
-      "fonte": "Latest news",
-      "data": "2026-02-11T02:17:23+00:00",
+      "titolo": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+      "descrizione": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+      "link": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+      "fonte": "WIRED",
+      "data": "2026-02-11T10:55:24+00:00",
       "modello": "claude"
     }
   ]
