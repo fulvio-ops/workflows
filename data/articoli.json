@@ -1,33 +1,166 @@
 {
-  "last_updated": "2026-02-11T13:50:50.388610+00:00",
+  "last_updated": "2026-02-11T19:29:27.412624+00:00",
   "items": [
+    {
+      "titolo": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+      "descrizione": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
+      "link": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+      "fonte": "WIRED",
+      "data": "2026-02-11T19:00:00+00:00"
+    },
+    {
+      "titolo": "La Stazione Spaziale Internazionale non verrà distrutta?",
+      "descrizione": "Alcuni politici statunitensi hanno chiesto alla NASA di valutare la possibilità di spostare la ISS ad un'altitudine maggiore invece di distruggerla. The post La Stazione Spaziale Internazionale non verrà distrutta? appea",
+      "link": "https://www.punto-informatico.it/stazione-spaziale-internazionale-non-verra-distrutta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T18:35:50+00:00"
+    },
+    {
+      "titolo": "Roku lets anyone watch local news for free: How to find your NBC, ABC, and CBS stations",
+      "descrizione": "The Roku Channel has hundreds of free live channels, including your local news affiliates.",
+      "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T18:30:12+00:00"
+    },
+    {
+      "titolo": "Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private",
+      "descrizione": "The financier recommended adding Margaret Thatcher to Tesla’s board, even though she had been dead for five years.",
+      "link": "https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/",
+      "fonte": "WIRED",
+      "data": "2026-02-11T18:11:45+00:00"
+    },
+    {
+      "titolo": "Un anno di servizio a partire da 40 centesimi: promo FLASH Aruba Hosting",
+      "descrizione": "Aruba Hosting lancia una promo FLASH fino al 18 febbraio: extra sconto del 60% sui servizi dominio e hosting, con il codice promo FEBBRAIO26. The post Un anno di servizio a partire da 40 centesimi: promo FLASH Aruba Host",
+      "link": "https://www.punto-informatico.it/un-anno-di-servizio-a-partire-da-40-centesimi-promo-flash-aruba-hosting/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T18:05:57+00:00"
+    },
+    {
+      "titolo": "Microsoft confirms Windows 11 26H1 will be for Arm devices only at launch — Snapdragon X2-powered devices officially shipping with 26H1",
+      "descrizione": "Microsoft has released an all-new version of Windows 11, 26H1, that is designed only to support the Snapdragon X2 and unnamed future bleeding-edge hardware. 26H1 will be device-specific, and PCs running Windows 11 25H2 c",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-confirms-windows-11-26h1-will-be-for-arm-devices-only-at-launch-snapdragon-x2-powered-devices-officially-shipping-with-26h1",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-11T17:56:10+00:00"
+    },
+    {
+      "titolo": "Cloud storage sicuro: le nuove offerte pCloud da non perdere",
+      "descrizione": "pCloud lancia nuove offerte sui piani Premium Lifetime, con sconti significativi, sicurezza avanzata e pagamento unico, per archiviare e gestire i file senza abbonamenti ricorrenti. The post Cloud storage sicuro: le nuov",
+      "link": "https://www.punto-informatico.it/cloud-storage-sicuro-le-nuove-offerte-pcloud-da-non-perdere/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T17:25:46+00:00"
+    },
+    {
+      "titolo": "Domotica: un affare da 700 miliardi di dollari che cambia le nostre vite",
+      "descrizione": "Non è una moda passeggera. Anzi.",
+      "link": "https://www.hdblog.it/domotica/articoli/n648045/domotica-mercato-700-miliardi-dollari-previsioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T17:20:00+00:00"
+    },
+    {
+      "titolo": "Attenzione al falso sito di 7-Zip: distribuisce malware",
+      "descrizione": "Un sito identico (ancora online) a quello legittimo di 7-Zip distribuisce installer fasulli che trasformano il computer in un proxy residenziale. The post Attenzione al falso sito di 7-Zip: distribuisce malware appeared",
+      "link": "https://www.punto-informatico.it/attenzione-falso-sito-7-zip-distribuisce-malware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T16:41:10+00:00"
+    },
+    {
+      "titolo": "Atlas entra in fabbrica: perché il robot umanoide ora fa sul serio",
+      "descrizione": "Atlas diventa un prodotto industriale grazie ad AI, affidabilità e design pensato per le fabbriche.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647890/atlas-robot-umanoide-boston-dynamics-industria/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T16:20:00+00:00"
+    },
+    {
+      "titolo": "Come vedere la RAI in diretta streaming dall’estero",
+      "descrizione": "Guardare la Rai in diretta streaming dall’estero non è sempre possibile. Capita spesso di aprire RaiPlay fuori dall’Italia senza protezione e di trovare il messaggio “Il contenuto non è disponibile nel tuo Paese”. Non è",
+      "link": "https://www.punto-informatico.it/rai-diretta-streaming-estero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T16:07:40+00:00"
+    },
+    {
+      "titolo": "Nothing, arriva la possibilità di generare mini app con l'AI | Solo Phone (3)",
+      "descrizione": "Avete un'idea per una mini-app o un widget ma non sapete programmare? Ecco l'iniziativa che fa per voi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648044/nothing-phone-3-essential-apps-playground-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T16:05:00+00:00"
+    },
+    {
+      "titolo": "Una nuova macchina porta il Giappone più vicino all’energia da fusione",
+      "descrizione": "Helical Fusion realizza una macchina chiave per bobine superconduttrici da fusione",
+      "link": "https://www.hdblog.it/green/articoli/n647914/helical-fusion-macchina-bobine-fusione/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:55:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro avrà il 5G via satellite? Spunta un'indiscrezione",
+      "descrizione": "Sarà vero? Il leak ne è convinto.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648014/iphone-18-pro-5g-via-satellite-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:45:00+00:00"
+    },
+    {
+      "titolo": "MSI Afterburner adds 16-pin power connector warning for its MPG AI PSUs — new update could save your expensive GPU from melting",
+      "descrizione": "The incendiary woes of the 16-pin power connector keep birthing new ways to prevent the inevitable. MSI's latest attempt is to sync its power supplies' active monitoring system with MSI Afterburner to deploy emergency po",
+      "link": "https://www.tomshardware.com/pc-components/gpus/msi-afterburner-adds-16-pin-power-connector-warning-for-its-mpg-ai-psus-new-update-could-save-your-expensive-gpu-from-melting",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-11T15:44:42+00:00"
+    },
+    {
+      "titolo": "Nuovo metodo rende stampabile il carburo di tungsteno senza fonderlo",
+      "descrizione": "Un team giapponese riesce a stampare in 3D il carburo di tungsteno senza scioglierlo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647759/stampa-3d-carburo-tungsteno-hiroshima/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:40:00+00:00"
+    },
+    {
+      "titolo": "Google Nest, un caso di rapimento in USA riaccende il dibattito sulla privacy",
+      "descrizione": "La videocamera era scollegata e non era attivo un abbonamento premium; e quindi com'è che il video è finito nelle mani dell'FBI?",
+      "link": "https://www.hdblog.it/google/articoli/n648040/google-nest-video-rapimento-privacy/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:35:00+00:00"
+    },
+    {
+      "titolo": "AI: ecco quanto la usano i giovani italiani",
+      "descrizione": "rispetto alla media europea",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647997/ai-trend-giovani-italiani-europei-utilizzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:25:00+00:00"
+    },
+    {
+      "titolo": "Elon Musk vuole costruire i satelliti AI sulla Luna",
+      "descrizione": "Durante un meeting con i dipendenti di xAI, Elon Musk ha dichiarato che vuole costruire i satelliti AI sulla Luna e lanciarli con una catapulta spaziale. The post Elon Musk vuole costruire i satelliti AI sulla Luna appea",
+      "link": "https://www.punto-informatico.it/elon-musk-vuole-costruire-satelliti-ai-luna/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T15:24:47+00:00"
+    },
+    {
+      "titolo": "Suzuki Burgman 400 Comfort, migliorano dotazioni e sicurezza",
+      "descrizione": "La nuova versione di uno dei modelli più iconici del marchio giapponese.",
+      "link": "https://www.hdmotori.it/nuovo-suzuki-burgman-400-comfort/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T15:00:55+00:00"
+    },
+    {
+      "titolo": "Grab this 75-inch Insignia QLED TV for less than $500 at Best Buy",
+      "descrizione": "Looking to upgrade your home theater on a tight budget? Right now during Best Buy's Presidents' Day sale, you can save $250 on the 75-inch Insignia QF Series QLED TV which brings the price to just $400.",
+      "link": "https://www.zdnet.com/article/best-buy-presidents-day-insignia-qf-tv-deal/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T14:31:16+00:00"
+    },
+    {
+      "titolo": "Ban di Telegram in Russia, censura secondo Pavel Durov",
+      "descrizione": "La Russia ha ristretto l'accesso a Telegram, in quanto l'azienda di Pavel Durov non ha implementato misure per prevenire frodi e attività criminali. The post Ban di Telegram in Russia, censura secondo Pavel Durov appeare",
+      "link": "https://www.punto-informatico.it/ban-telegram-russia-censura-pavel-durov/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-11T13:57:24+00:00"
+    },
     {
       "titolo": "Elon Musk sempre più solo. Altri due co-fondatori lasciano xAI",
       "descrizione": "Nel giro di due giorni xAI , la startup di intelligenza artificiale di Elon Musk , ha perso due dei suoi co-fondatori. Dopo meno di tre anni dal lancio della compagnia, Jimmy...",
       "link": "https://www.ilsole24ore.com/art/elon-musk-sempre-piu-solo-altri-due-co-fondatori-lasciano-xai-AIalxjMB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-11T13:31:37+00:00"
-    },
-    {
-      "titolo": "ACEA chiede a Bruxelles politiche più pragmatiche per il settore auto europeo",
-      "descrizione": "L’industria europea propone un modello a tre corsie.",
-      "link": "https://www.hdmotori.it/acea-lettera-leader-europei-revisione-regole-settore-auto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T12:30:54+00:00"
-    },
-    {
-      "titolo": "Blocco Note sotto attacco: una falla mette a rischio Windows",
-      "descrizione": "Vulnerabilità Remote Code Execution nel Blocco Note: ecco cosa si rischia.",
-      "link": "https://www.hdblog.it/windows/articoli/n647979/blocco-note-windows-falla-critica-codice-malevolo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T12:25:00+00:00"
-    },
-    {
-      "titolo": "Elon Musk vuole fabbricare sulla Luna i satelliti per l'AI nello spazio",
-      "descrizione": "Secondo il New York Times, Elon Musk avrebbe illustrato ai dipendenti di xAI il piano di costruire satelliti AI direttamente sulla Luna",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647989/musk-produzione-satelliti-ai-sulla-luna-xai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T12:20:00+00:00"
+      "data": "2026-02-11T13:31:00+00:00"
     },
     {
       "titolo": "Precompilata 2026 include anche le spese sportive dei figli",
@@ -35,139 +168,6 @@
       "link": "https://www.punto-informatico.it/precompilata-2026-include-anche-spese-sportive-figli/",
       "fonte": "Punto Informatico",
       "data": "2026-02-11T12:14:43+00:00"
-    },
-    {
-      "titolo": "Insta360 GO 3S la action cam 4K pronta all’azione, -50€ con coupon Amazon",
-      "descrizione": "L'action cam da acquistare in offerta su Amazon è la Insta360 Go 3S con kit completo e autonomia da 200 minuti. The post Insta360 GO 3S la action cam 4K pronta all’azione, -50€ con coupon Amazon appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/insta360-go-3s-la-action-cam-4k-pronta-allazione-50e-con-coupon-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T12:04:44+00:00"
-    },
-    {
-      "titolo": "Sony will ship its final Blu-ray recorders this month — exit from Japanese market the end of an era for the segment",
-      "descrizione": "Another rampart of the consumer optical media market has crumbled away with Sony closing down its Blu-ray disk recorder business.",
-      "link": "https://www.tomshardware.com/monitors/televisions/sony-will-ship-its-final-blu-ray-recorders-this-month-exit-from-japanese-market-the-end-of-an-era-for-the-segment",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-11T11:57:03+00:00"
-    },
-    {
-      "titolo": "Taglio delle emissioni entro il 2040, via libera del Parlamento UE",
-      "descrizione": "Gas serra giù del 90% rispetto ai valori del 1990.",
-      "link": "https://www.hdblog.it/green/articoli/n647981/clima-green-deal-eu-obiettivo-2040-approvato/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T11:50:00+00:00"
-    },
-    {
-      "titolo": "Google Foto può eliminare tutte le foto senza che voi lo vogliate davvero",
-      "descrizione": "La sventura di un utente che ha perso per sempre le foto di un viaggio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647984/google-foto-cancella-tutte-le-foto-come-evitarlo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T11:45:00+00:00"
-    },
-    {
-      "titolo": "I componenti smart home Ikea piacciono prima di tutto a chi li ha pensati",
-      "descrizione": "Del sensore di temperatura smart minimal Timmerflotte ha parlato un dirigente Ikea: lo adora",
-      "link": "https://www.hdblog.it/domotica/articoli/n647977/ikea-sensore-temperatura-come-e-nato-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T11:20:00+00:00"
-    },
-    {
-      "titolo": "Dash Cam 4K con visione 170° per auto SICURA con appena 59€ (Amazon)",
-      "descrizione": "Rendi la tua auto completa con la Dash Cam 4K anteriore e 1080p posteriore: kit completo da gestire via smartphone. The post Dash Cam 4K con visione 170° per auto SICURA con appena 59€ (Amazon) appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/dash-cam-4k-con-visione-170-per-auto-sicura-con-appena-59e-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T11:13:42+00:00"
-    },
-    {
-      "titolo": "Dai rifiuti industriali alle terre rare: una cartuccia 3D per l’estrazione",
-      "descrizione": "Una startup USA usa cartucce 3D per recuperare litio e terre rare dai rifiuti industriali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647886/cartuccia-3d-recupero-terre-rare-rifiuti/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T11:10:00+00:00"
-    },
-    {
-      "titolo": "Gli attacchi hacker crescono rapidamente in Italia, grazie anche all'AI",
-      "descrizione": "Ci violano con l'AI, e ci colpiscono con i ransomware.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n647980/attacchi-hacker-italia-gennaio-2026-crescita-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T11:05:00+00:00"
-    },
-    {
-      "titolo": "ZeroDayRAT, ecco il nuovo malware che può devastare smartphone Android e iOS",
-      "descrizione": "Il software è composto di una serie di moduli che possono fare un po' di tutto, dal furto dati al keylogging fino al furto di crypto e fondi dalla propria banca o fintech.",
-      "link": "https://www.hdblog.it/android/articoli/n647973/zerodayrat-malware-commerciale-piattaforma/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T10:55:00+00:00"
-    },
-    {
-      "titolo": "Brava Italia, la temperatura in casa è quasi giusta. Ma si può ancora ridurre la bolletta",
-      "descrizione": "Lo studio di tado°.",
-      "link": "https://www.hdblog.it/domotica/articoli/n647960/tado-termostato-temperatura-casa-risparmio-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T10:40:00+00:00"
-    },
-    {
-      "titolo": "Mazzer Philos Review (2026): Sweet, Zero-Retention Grinds",
-      "descrizione": "Mazzer Philos is a commercial-caliber coffee grinder made for the home countertop. And it made for some of the most delicious espresso I pulled this year.",
-      "link": "https://www.wired.com/review/mazzer-philos-coffee-grinder/",
-      "fonte": "WIRED",
-      "data": "2026-02-11T10:38:00+00:00"
-    },
-    {
-      "titolo": "Milano-Cortina 2026, i droni FPV hanno cambiato il modo di vedere le gare",
-      "descrizione": "Le telecamere arrivano direttamente dentro l’azione",
-      "link": "https://www.hdblog.it/droni/articoli/n647966/milano-cortina-2026-droni-fpv/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T10:35:00+00:00"
-    },
-    {
-      "titolo": "Rivian R2 è quasi pronto al debutto, a marzo i dettagli del SUV elettrico",
-      "descrizione": "Il conto alla rovescia è iniziato, il 12 marzo scopriremo i dettagli del nuovo Rivian R2 che in futuro arriverà anche in Europa",
-      "link": "https://www.hdmotori.it/rivian-r2-2026-test-specifiche-debutto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T10:30:15+00:00"
-    },
-    {
-      "titolo": "Un impulso da 22 milioni di ampere avvicina la fusione commerciale",
-      "descrizione": "Test record sulla fusione con impulsi ultrarapidi e target semplificati negli USA",
-      "link": "https://www.hdblog.it/green/articoli/n647916/fusione-impulso-22-milioni-ampere/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T10:25:00+00:00"
-    },
-    {
-      "titolo": "Redmi Watch 5 Active: dalle chiamate allo sport con appena 28€",
-      "descrizione": "Mettiti al polso il Redmi Watch 5 Active per avere tutto sotto controllo, e per gestire chiamate e notifiche, con appena 28€ circa su Amazon. The post Redmi Watch 5 Active: dalle chiamate allo sport con appena 28€ appear",
-      "link": "https://www.punto-informatico.it/redmi-watch-5-active-dalle-chiamate-allo-sport-con-appena-28e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T10:20:52+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S26: annuncio il 25 febbraio",
-      "descrizione": "Samsung ha comunicato che i nuovi Galaxy S26 verranno annunciati il 25 febbraio: ecco le principali specifiche previste per i tre smartphone. The post Samsung Galaxy S26: annuncio il 25 febbraio appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s26-annuncio-25-febbraio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T10:13:58+00:00"
-    },
-    {
-      "titolo": "Xiaomi 15T (12/256GB): niente rinunce e prezzo decisamente abbordabile",
-      "descrizione": "Xiaomi 15T, nella versione da 12GB di RAM e 256GB di memoria interna, offre un rapporto qualità prezzo super interessante. The post Xiaomi 15T (12/256GB): niente rinunce e prezzo decisamente abbordabile appeared first on",
-      "link": "https://www.punto-informatico.it/xiaomi-15t-12-256gb-niente-rinunce-prezzo-decisamente-abbordabile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T10:06:22+00:00"
-    },
-    {
-      "titolo": "Facebook anima la foto profilo con l’AI, come funziona",
-      "descrizione": "Facebook lancia la foto profilo animata con l'AI, l'immagine statica potrà salutare, lanciare coriandoli o indossare un cappellino da festa. The post Facebook anima la foto profilo con l’AI, come funziona appeared first",
-      "link": "https://www.punto-informatico.it/facebook-anima-foto-profilo-ai-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T09:59:38+00:00"
-    },
-    {
-      "titolo": "Google Pixel Buds 2a: chiamate cristalline anche in mezzo alla folla",
-      "descrizione": "Con gli auricolari wireless Google Pixel Buds 2a puoi ascoltare la musica senza disturbi e le chiamate saranno cristalline anche in mezzo alla folla. The post Google Pixel Buds 2a: chiamate cristalline anche in mezzo all",
-      "link": "https://www.punto-informatico.it/google-pixel-buds-2a-chiamate-cristalline-anche-mezzo-alla-folla/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T09:50:04+00:00"
     }
   ]
 }
