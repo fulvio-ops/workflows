@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-02-11T19:29:27.412624+00:00",
+  "last_updated": "2026-02-12T03:23:01.771877+00:00",
   "items": [
+    {
+      "titolo": "You can watch local news on Roku for free - no subscription or antenna required",
+      "descrizione": "The Roku Channel has hundreds of free live channels, including your local ABC, CBS, and NBC news affiliates.",
+      "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T22:21:00+00:00"
+    },
+    {
+      "titolo": "Steam Deck availability goes up in smoke — suddenly goes out of stock in US, Asia stores",
+      "descrizione": "Speculation has risen about component shortages.",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-deck-availability-goes-up-in-smoke-suddenly-goes-out-of-stock-in-us-asia-stores",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-11T21:45:44+00:00"
+    },
+    {
+      "titolo": "The best early Walmart sales for Presidents' Day",
+      "descrizione": "Presidents' Day sales are already live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
+      "link": "https://www.zdnet.com/article/best-early-walmart-deals-presidents-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-02-11T21:33:30+00:00"
+    },
+    {
+      "titolo": "The ICE Expansion Won’t Happen in the Dark",
+      "descrizione": "People have a right to know who their neighbors are, especially when it’s ICE.",
+      "link": "https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/",
+      "fonte": "WIRED",
+      "data": "2026-02-11T19:30:42+00:00"
+    },
     {
       "titolo": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
       "descrizione": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
@@ -9,18 +37,32 @@
       "data": "2026-02-11T19:00:00+00:00"
     },
     {
+      "titolo": "Galaxy S26, ci siamo: Samsung annuncia data e ora dell'evento di lancio Unpacked",
+      "descrizione": "Manca pochissimo: ecco quando e dove seguire la presentazione.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647909/samsung-galaxy-s26-unpacked-data-ora-italia-lancio/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T18:42:00+00:00"
+    },
+    {
+      "titolo": "Euro digitale sempre più vicino: funzionerà sia online che offline",
+      "descrizione": "Il Parlamento di Strasburgo approva due emendamenti importanti.",
+      "link": "https://www.hdblog.it/mercato/articoli/n647920/euro-digitale-parlamento-banca-centrale-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T18:41:00+00:00"
+    },
+    {
+      "titolo": "I componenti smart home Ikea piacciono prima di tutto a chi li ha pensati",
+      "descrizione": "Del sensore di temperatura smart minimal Timmerflotte ha parlato un dirigente Ikea: lo adora",
+      "link": "https://www.hdblog.it/domotica/articoli/n647977/ikea-sensore-temperatura-come-e-nato-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T18:40:00+00:00"
+    },
+    {
       "titolo": "La Stazione Spaziale Internazionale non verrà distrutta?",
       "descrizione": "Alcuni politici statunitensi hanno chiesto alla NASA di valutare la possibilità di spostare la ISS ad un'altitudine maggiore invece di distruggerla. The post La Stazione Spaziale Internazionale non verrà distrutta? appea",
       "link": "https://www.punto-informatico.it/stazione-spaziale-internazionale-non-verra-distrutta/",
       "fonte": "Punto Informatico",
       "data": "2026-02-11T18:35:50+00:00"
-    },
-    {
-      "titolo": "Roku lets anyone watch local news for free: How to find your NBC, ABC, and CBS stations",
-      "descrizione": "The Roku Channel has hundreds of free live channels, including your local news affiliates.",
-      "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
-      "fonte": "Latest news",
-      "data": "2026-02-11T18:30:12+00:00"
     },
     {
       "titolo": "Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private",
@@ -49,6 +91,13 @@
       "link": "https://www.punto-informatico.it/cloud-storage-sicuro-le-nuove-offerte-pcloud-da-non-perdere/",
       "fonte": "Punto Informatico",
       "data": "2026-02-11T17:25:46+00:00"
+    },
+    {
+      "titolo": "La nuova Volkswagen ID. Polo GTI 2026 si prepara al debutto: ecco le ultime foto spia",
+      "descrizione": "Ultimi test per la nuova Volkswagen ID. Polo GTI: 226 CV, trazione anteriore e batteria da 52 kWh",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-gti-2026-motore-anticipazioni-foto-spia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-11T17:21:00+00:00"
     },
     {
       "titolo": "Domotica: un affare da 700 miliardi di dollari che cambia le nostre vite",
@@ -107,27 +156,6 @@
       "data": "2026-02-11T15:44:42+00:00"
     },
     {
-      "titolo": "Nuovo metodo rende stampabile il carburo di tungsteno senza fonderlo",
-      "descrizione": "Un team giapponese riesce a stampare in 3D il carburo di tungsteno senza scioglierlo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647759/stampa-3d-carburo-tungsteno-hiroshima/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T15:40:00+00:00"
-    },
-    {
-      "titolo": "Google Nest, un caso di rapimento in USA riaccende il dibattito sulla privacy",
-      "descrizione": "La videocamera era scollegata e non era attivo un abbonamento premium; e quindi com'è che il video è finito nelle mani dell'FBI?",
-      "link": "https://www.hdblog.it/google/articoli/n648040/google-nest-video-rapimento-privacy/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T15:35:00+00:00"
-    },
-    {
-      "titolo": "AI: ecco quanto la usano i giovani italiani",
-      "descrizione": "rispetto alla media europea",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647997/ai-trend-giovani-italiani-europei-utilizzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T15:25:00+00:00"
-    },
-    {
       "titolo": "Elon Musk vuole costruire i satelliti AI sulla Luna",
       "descrizione": "Durante un meeting con i dipendenti di xAI, Elon Musk ha dichiarato che vuole costruire i satelliti AI sulla Luna e lanciarli con una catapulta spaziale. The post Elon Musk vuole costruire i satelliti AI sulla Luna appea",
       "link": "https://www.punto-informatico.it/elon-musk-vuole-costruire-satelliti-ai-luna/",
@@ -135,39 +163,11 @@
       "data": "2026-02-11T15:24:47+00:00"
     },
     {
-      "titolo": "Suzuki Burgman 400 Comfort, migliorano dotazioni e sicurezza",
-      "descrizione": "La nuova versione di uno dei modelli più iconici del marchio giapponese.",
-      "link": "https://www.hdmotori.it/nuovo-suzuki-burgman-400-comfort/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-11T15:00:55+00:00"
-    },
-    {
-      "titolo": "Grab this 75-inch Insignia QLED TV for less than $500 at Best Buy",
-      "descrizione": "Looking to upgrade your home theater on a tight budget? Right now during Best Buy's Presidents' Day sale, you can save $250 on the 75-inch Insignia QF Series QLED TV which brings the price to just $400.",
-      "link": "https://www.zdnet.com/article/best-buy-presidents-day-insignia-qf-tv-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-11T14:31:16+00:00"
-    },
-    {
       "titolo": "Ban di Telegram in Russia, censura secondo Pavel Durov",
       "descrizione": "La Russia ha ristretto l'accesso a Telegram, in quanto l'azienda di Pavel Durov non ha implementato misure per prevenire frodi e attività criminali. The post Ban di Telegram in Russia, censura secondo Pavel Durov appeare",
       "link": "https://www.punto-informatico.it/ban-telegram-russia-censura-pavel-durov/",
       "fonte": "Punto Informatico",
       "data": "2026-02-11T13:57:24+00:00"
-    },
-    {
-      "titolo": "Elon Musk sempre più solo. Altri due co-fondatori lasciano xAI",
-      "descrizione": "Nel giro di due giorni xAI , la startup di intelligenza artificiale di Elon Musk , ha perso due dei suoi co-fondatori. Dopo meno di tre anni dal lancio della compagnia, Jimmy...",
-      "link": "https://www.ilsole24ore.com/art/elon-musk-sempre-piu-solo-altri-due-co-fondatori-lasciano-xai-AIalxjMB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-11T13:31:00+00:00"
-    },
-    {
-      "titolo": "Precompilata 2026 include anche le spese sportive dei figli",
-      "descrizione": "Dal 2026 la dichiarazione precompilata includerà automaticamente le spese sportive dei figli tra 5 e 18 anni. Cosa cambia per le famiglie. The post Precompilata 2026 include anche le spese sportive dei figli appeared fir",
-      "link": "https://www.punto-informatico.it/precompilata-2026-include-anche-spese-sportive-figli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T12:14:43+00:00"
     }
   ]
 }
