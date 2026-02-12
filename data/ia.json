@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-02-12T13:45:25.747712+00:00",
+  "last_updated": "2026-02-12T19:29:04.737849+00:00",
   "items": [
     {
-      "titolo": "Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital",
-      "descrizione": "AI and microelectronics boom in China drives IPOs as investors put money both in AI startups and adjacent sectors.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-12T12:38:21+00:00",
+      "titolo": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+      "descrizione": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+      "link": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+      "fonte": "WIRED",
+      "data": "2026-02-12T19:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft 365 Copilot, le novità per PowerPoint, Outlook e Teams",
-      "descrizione": "Microsoft aggiorna la roadmap di 365 Copilot con nuove funzioni per PowerPoint, Outlook e la ricerca di persone su Teams, arriva la Modalità Agente. The post Microsoft 365 Copilot, le novità per PowerPoint, Outlook e Tea",
-      "link": "https://www.punto-informatico.it/microsoft-365-copilot-novita-powerpoint-outlook-teams/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T09:33:03+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Google Gemini sempre più usato per attacchi informatici",
-      "descrizione": "Google ha descritto alcuni attacchi informatici che abusano delle capacità di Gemini per eseguire varie attività illecite, tra cui il furto di dati. The post Google Gemini sempre più usato per attacchi informatici appear",
-      "link": "https://www.punto-informatico.it/google-gemini-attacchi-informatici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T10:21:41+00:00",
+      "titolo": "Google AI Mode, si comincia ad acquistare direttamente dalle ricerche",
+      "descrizione": "Una comodità o no?",
+      "link": "https://www.hdblog.it/google/articoli/n648162/google-ai-mode-acquistare-ricerche/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-12T14:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic promises to pay for electricity price increases due to it's AI data centers — firm to pay 100% of its grid infrastructure costs, produce new power sources as sector predicted to hit 50 GW in coming years",
-      "descrizione": "The company says that it will pay for the infrastructure upgrades needed for its power demand and that it will also find new sources to keep electricity prices down for the average consumer.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-promises-to-pay-for-electricity-price-increases-due-to-its-ai-data-centers-firm-to-pay-100-percent-of-its-grid-infrastructure-costs-produce-new-power-sources-as-sector-predicted-to-hit-50-gw-in-coming-years",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-12T12:46:20+00:00",
+      "titolo": "Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why",
+      "descrizione": "Anthropic has doled out four cool perks to free users, all of which were previously available only for paid subscribers.",
+      "link": "https://www.zdnet.com/article/claude-ais-free-updates-cancel-subscription/",
+      "fonte": "Latest news",
+      "data": "2026-02-12T17:31:00+00:00",
       "modello": "claude"
     }
   ]
