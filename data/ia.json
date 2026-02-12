@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-02-12T07:18:24.209536+00:00",
+  "last_updated": "2026-02-12T13:45:25.747712+00:00",
   "items": [
     {
-      "titolo": "La pubblicità arriva su ChatGPT gratis e Go: ecco i primi marchi",
-      "descrizione": "OpenAI lancia il programma pilota per la pubblicità su ChatGPT. Tra i primi marchi: Target, Adobe, Audible, Ford, Mazda e Williams-Sonoma. The post La pubblicità arriva su ChatGPT gratis e Go: ecco i primi marchi appeare",
-      "link": "https://www.punto-informatico.it/pubblicita-arriva-chatgpt-gratis-go-primi-marchi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T05:49:02+00:00",
+      "titolo": "Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital",
+      "descrizione": "AI and microelectronics boom in China drives IPOs as investors put money both in AI startups and adjacent sectors.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-12T12:38:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Il coach AI di Fitbit arriva su iPhone, ecco come funziona",
-      "descrizione": "Il coach AI di Fitbit alimentato da Gemini sbarca su iOS dopo il lancio esclusivo su Android. Serve Fitbit Premium e un dispositivo supportato. The post Il coach AI di Fitbit arriva su iPhone, ecco come funziona appeared",
-      "link": "https://www.punto-informatico.it/coach-ai-fitbit-arriva-iphone-ecco-come-funziona/",
+      "titolo": "Microsoft 365 Copilot, le novità per PowerPoint, Outlook e Teams",
+      "descrizione": "Microsoft aggiorna la roadmap di 365 Copilot con nuove funzioni per PowerPoint, Outlook e la ricerca di persone su Teams, arriva la Modalità Agente. The post Microsoft 365 Copilot, le novità per PowerPoint, Outlook e Tea",
+      "link": "https://www.punto-informatico.it/microsoft-365-copilot-novita-powerpoint-outlook-teams/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-11T17:32:55+00:00",
+      "data": "2026-02-12T09:33:03+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Gemini sempre più usato per attacchi informatici",
+      "descrizione": "Google ha descritto alcuni attacchi informatici che abusano delle capacità di Gemini per eseguire varie attività illecite, tra cui il furto di dati. The post Google Gemini sempre più usato per attacchi informatici appear",
+      "link": "https://www.punto-informatico.it/google-gemini-attacchi-informatici/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-12T10:21:41+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Perché Claude batte ChatGPT in cinque aree che contano davvero",
-      "descrizione": "Claude supera ChatGPT nella creazione di documenti, nel rispetto delle istruzioni e nella qualità della scrittura. 5 funzioni che fanno la differenza. The post Perché Claude batte ChatGPT in cinque aree che contano davve",
-      "link": "https://www.punto-informatico.it/perche-claude-batte-chatgpt-cinque-aree-contano-davvero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-11T16:30:01+00:00",
+      "titolo": "Anthropic promises to pay for electricity price increases due to it's AI data centers — firm to pay 100% of its grid infrastructure costs, produce new power sources as sector predicted to hit 50 GW in coming years",
+      "descrizione": "The company says that it will pay for the infrastructure upgrades needed for its power demand and that it will also find new sources to keep electricity prices down for the average consumer.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-promises-to-pay-for-electricity-price-increases-due-to-its-ai-data-centers-firm-to-pay-100-percent-of-its-grid-infrastructure-costs-produce-new-power-sources-as-sector-predicted-to-hit-50-gw-in-coming-years",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-12T12:46:20+00:00",
       "modello": "claude"
     }
   ]
