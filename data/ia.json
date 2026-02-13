@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-02-13T13:37:26.154397+00:00",
+  "last_updated": "2026-02-13T19:10:19.329642+00:00",
   "items": [
     {
-      "titolo": "Coding AI in tempo reale: cosa cambia con GPT-5.3-Codex-Spark",
-      "descrizione": "La variante Spark dell'ultimo modello OpenAI per il coding è molto più veloce: latenza ridotta al minimo per collaborare in tempo reale. The post Coding AI in tempo reale: cosa cambia con GPT-5.3-Codex-Spark appeared fir",
-      "link": "https://www.punto-informatico.it/gpt-5-3-codex-spark/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-13T13:17:52+00:00",
+      "titolo": "Rapidus targets mass 2nm chip production in 2027, quadruples capacity ramp up — company plans to scale to 25,000 wafer starts per month in just one year",
+      "descrizione": "Japan’s state-backed foundry Rapidus plans to begin production of 2nm-class semiconductors in the second half of its fiscal year 2027, with full-scale production expected in 2028.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-targets-2nm-mass-production-in-2027-with-a-four-times-capacity-ramp",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-13T16:53:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Documenti legge i riassunti ad alta voce con Gemini",
-      "descrizione": "Gemini su Google Documenti genera riassunti audio dei documenti con diverse voci AI e velocità regolabile. Ecco come funziona. The post Google Documenti legge i riassunti ad alta voce con Gemini appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/google-documenti-legge-riassunti-alta-voce-gemini/",
+      "titolo": "Chrome testa i “Progetti”: schede e chat Gemini nello stesso posto",
+      "descrizione": "Chrome potrebbe presto organizzare le tab verticali in Progetti, che combinano le schede correlate e le chat con Gemini. The post Chrome testa i “Progetti”: schede e chat Gemini nello stesso posto appeared first on Punto",
+      "link": "https://www.punto-informatico.it/chrome-testa-progetti-schede-chat-gemini-nello-stesso-posto/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-13T13:37:12+00:00",
+      "data": "2026-02-13T18:01:51+00:00",
       "modello": "gemini"
     },
     {
