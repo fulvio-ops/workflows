@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-02-13T03:23:21.904023+00:00",
+  "last_updated": "2026-02-13T07:16:33.141440+00:00",
   "items": [
+    {
+      "titolo": "La scalata di Hisense: secondo posto nei TV e crescita a doppia cifra nel bianco",
+      "descrizione": "Il mercato dell’elettronica di consumo italiana soffre di un persistente “mal di pancia” post-switch-off che non sembra trovare soluzione. Ciononostante, stiamo assistendo a una scalata che ha del sorprendente e...",
+      "link": "https://www.ilsole24ore.com/art/la-scalata-hisense-secondo-posto-tv-e-crescita-doppia-cifra-bianco-AIG8LJJB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-13T07:08:36+00:00"
+    },
+    {
+      "titolo": "Microsoft e OpenAI, c’eravamo tanto amati",
+      "descrizione": "Pronti all'addio: Microsoft si prepara per scaricare OpenAI, scegliendo di puntare su modelli addestrati internamente, ora è ufficiale. The post Microsoft e OpenAI, c’eravamo tanto amati appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/microsoft-openai-c-eravamo-tanto-amati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-13T07:08:31+00:00"
+    },
+    {
+      "titolo": "AppControl: l’app gratis che batte il Task Manager di Windows",
+      "descrizione": "AppControl è un'alternativa gratuita al Task Manager di Windows 11, con cronologia delle prestazioni fino a tre giorni e altre funzioni interessanti. The post AppControl: l’app gratis che batte il Task Manager di Windows",
+      "link": "https://www.punto-informatico.it/app-control-app-gratis-batte-task-manager-windows/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-13T06:37:19+00:00"
+    },
+    {
+      "titolo": "Tantissimi articoli virali sotto i 5€ su Amazon Haul",
+      "descrizione": "Tantissimi articoli virali su Amazon Haul ora sono in offerta speciale a meno di 5€: acquistali immediatamente prima che finiscano. The post Tantissimi articoli virali sotto i 5€ su Amazon Haul appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/tantissimi-articoli-virali-sotto-i-5e-su-amazon-haul/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-13T06:30:23+00:00"
+    },
+    {
+      "titolo": "Google Foto cambia interfaccia: arriva la toolbar flottante, si parte da iOS",
+      "descrizione": "Al momento non risulta attivo su Android",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648232/google-foto-cambia-interfaccia-toolbar/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-13T06:10:00+00:00"
+    },
+    {
+      "titolo": "Tecnologia sottocosto su Amazon: offerte a meno di 20€",
+      "descrizione": "Tutta la tecnologia che ami sottocosto su Amazon: abbiamo selezionato le migliori offerte a meno di 20€ da non perdere assolutamente. The post Tecnologia sottocosto su Amazon: offerte a meno di 20€ appeared first on Punt",
+      "link": "https://www.punto-informatico.it/tecnologia-sottocosto-su-amazon-offerte-a-meno-di-20e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-13T06:00:32+00:00"
+    },
+    {
+      "titolo": "Windows 11, ci risiamo: bug gravi anche con le patch di febbraio",
+      "descrizione": "Boot loop, internet che non funziona, installazioni fallite...",
+      "link": "https://www.hdblog.it/microsoft/articoli/n648215/windows-11-patch-tuesday-febbraio-bug-problemi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-13T05:45:00+00:00"
+    },
+    {
+      "titolo": "Anche su Kindle Scribe arriva l'AI: debutta Send to Alexa Plus",
+      "descrizione": "L'utente prende appunti, l'AI li elabora e crea riassunti, promemoria, appuntamenti e altro ancora.",
+      "link": "https://www.hdblog.it/amazon/articoli/n648213/amazon-kindle-scribe-send-to-alexa-plus/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-13T05:35:00+00:00"
+    },
     {
       "titolo": "The $3,500 Apple Vision Pro is finally getting an official YouTube app - and it's about time",
       "descrizione": "Whether it was Google's doing, Apple's, or both, you can now watch your usual YouTube content in visionOS, no strings attached.",
@@ -100,34 +156,6 @@
       "data": "2026-02-12T16:15:22+00:00"
     },
     {
-      "titolo": "Tesla sperimenta il V2G in Texas con il Cybertruck",
-      "descrizione": "Il programma si chiama Powershare Grid Support.",
-      "link": "https://www.hdmotori.it/tesla-cybertruck-progetto-ricrica-bidirezionale-v2g-texas/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T16:00:50+00:00"
-    },
-    {
-      "titolo": "Regensburg: riaffiora un santuario di Mithra di 2000 anni fa",
-      "descrizione": "A Regensburg scoperto il più antico santuario bavarese dedicato a Mithra",
-      "link": "https://www.hdblog.it/curiosita/articoli/n647930/santuario-mithra-regensburg-scoperta/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T15:55:00+00:00"
-    },
-    {
-      "titolo": "Dimissioni da xAI, parla Elon Musk: è una riorganizzazione",
-      "descrizione": "E ora sta assumendo.",
-      "link": "https://www.hdblog.it/business/articoli/n648173/dimissioni-xai-parla-elon-musk/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T15:45:00+00:00"
-    },
-    {
-      "titolo": "Skoda: su Enyaq ed Elroq il gaming con AirConsole, Skoda Play e l’integrazione di Spotify",
-      "descrizione": "Si ampliano i servizi digitali dedicati all'intrattenimento",
-      "link": "https://www.hdmotori.it/skoda-enyaq-elroq-piattaforma-gaming-airconsole-video-musica-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T15:30:37+00:00"
-    },
-    {
       "titolo": "Windows 11: Microsoft ci ridarà la vera barra delle applicazioni",
       "descrizione": "Microsoft prepara il ritorno della barra delle applicazioni spostabile e ridimensionabile in Windows 11: cosa sappiamo al momento. The post Windows 11: Microsoft ci ridarà la vera barra delle applicazioni appeared first",
       "link": "https://www.punto-informatico.it/windows-11-barra-applicazioni-mobile/",
@@ -140,34 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/gpus/msi-geforce-rtx-5090-lightning-z-review",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-12T15:26:07+00:00"
-    },
-    {
-      "titolo": "TotalAV Premium 2026: antivirus pluripremiato in sconto dell’80%",
-      "descrizione": "Con TotalAV Premium metti in cassaforte la tua sicurezza e privacy informatica. Al prezzo scontato di 19€ invece di 99€, per un anno. The post TotalAV Premium 2026: antivirus pluripremiato in sconto dell’80% appeared fir",
-      "link": "https://www.punto-informatico.it/totalav-premium-2026-antivirus-pluripremiato-in-sconto-dell80/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T15:21:40+00:00"
-    },
-    {
-      "titolo": "ZeroDayRAT: malware per accesso completo a iOS e Android",
-      "descrizione": "ZeroDayRAT è una piattaforma che permette ai cybercriminali senza competenze tecniche di eseguire attacchi contro i dispositivi Android e iOS. The post ZeroDayRAT: malware per accesso completo a iOS e Android appeared fi",
-      "link": "https://www.punto-informatico.it/zerodayrat-malware-accesso-completo-ios-android/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T15:19:53+00:00"
-    },
-    {
-      "titolo": "Sanremo influenza ciò che ascolti tutto l’anno: i numeri",
-      "descrizione": "C'è un filo diretto che collega il Festival di Sanremo all'andamento dell'industria discografica italiana: lo dimostrano i numeri di FIMI. The post Sanremo influenza ciò che ascolti tutto l’anno: i numeri appeared first",
-      "link": "https://www.punto-informatico.it/sanremo-musica-italiana-numeri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T14:55:09+00:00"
-    },
-    {
-      "titolo": "AirTag ma per Android con il set da 2pz a soli 15€ su Amazon: falli tuoi",
-      "descrizione": "Come gli AirTag di Apple, ma funzionano su Android con l'app di Google: geniali e super economici. The post AirTag ma per Android con il set da 2pz a soli 15€ su Amazon: falli tuoi appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/airtag-ma-per-android-con-il-set-da-2pz-a-soli-15e-su-amazon-falli-tuoi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T14:51:18+00:00"
     }
   ]
 }
