@@ -1,19 +1,54 @@
 {
-  "last_updated": "2026-02-12T19:29:00.582845+00:00",
+  "last_updated": "2026-02-13T03:23:21.904023+00:00",
   "items": [
+    {
+      "titolo": "The $3,500 Apple Vision Pro is finally getting an official YouTube app - and it's about time",
+      "descrizione": "Whether it was Google's doing, Apple's, or both, you can now watch your usual YouTube content in visionOS, no strings attached.",
+      "link": "https://www.zdnet.com/article/official-youtube-app-launch-apple-vision-pro/",
+      "fonte": "Latest news",
+      "data": "2026-02-13T02:35:00+00:00"
+    },
+    {
+      "titolo": "Applied Materials to pay $252 million penalty for selling chipmaking tools to banned Chinese firm — settles over alleged 56 tool exports to chipmaker SMIC following Entity List designation",
+      "descrizione": "Applied Materials must pay a $252 million civil penalty to settle allegations that it illegally exported semiconductor manufacturing equipment to SMIC subsidiaries.",
+      "link": "https://www.tomshardware.com/tech-industry/applied-materials-to-pay-252-million-bis-penalty",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-12T20:30:32+00:00"
+    },
+    {
+      "titolo": "Nvidia DGX Spark update cuts idle power by 32% or more — hot-plug detection on ConnectX NIC makes for a more efficient AI workstation",
+      "descrizione": "The latest software update for Nvidia's DGX Spark reduces idle power by 32% or more, thanks to better power management on its 200 Gbps ConnectX NIC.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-dgx-spark-update-cuts-idle-power-by-32-percent-or-more-hot-plug-detection-on-connectx-nic-makes-for-a-more-efficient-ai-workstation",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-12T20:15:26+00:00"
+    },
+    {
+      "titolo": "Waymo Asks the DC Public to Pressure Their City Officials",
+      "descrizione": "Stuck in regulatory limbo, the self-driving-vehicle developer is encouraging residents of Washington, DC, to message public officials to help get its robotaxis onto roads.",
+      "link": "https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/",
+      "fonte": "WIRED",
+      "data": "2026-02-12T20:00:15+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S26, S26+ e S26 Ultra: i render ufficiosi in tutte le varianti di colore",
+      "descrizione": "Pubblicati dal solito Evan Blass",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648142/samsung-galaxy-s26-render-ufficiosi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-12T18:35:00+00:00"
+    },
+    {
+      "titolo": "L'UE frena Temu e Shein: ufficiali dazi di almeno 3 euro sui piccoli pacchi",
+      "descrizione": "Spesso si pagherà più di 3 euro a pacchetto. Ecco perché e da quando",
+      "link": "https://www.hdblog.it/business/articoli/n648085/dazi-piccoli-pacchi-temu-shein-quanto-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-12T18:34:00+00:00"
+    },
     {
       "titolo": "Amazon Prime: record di consegne veloci in Italia",
       "descrizione": "Amazon ha consegnato oltre 230 milioni di prodotti in un giorno o in giornata nel 2025 ai clienti Prime, consentendo di risparmiare oltre 135 euro. The post Amazon Prime: record di consegne veloci in Italia appeared firs",
       "link": "https://www.punto-informatico.it/amazon-prime-record-consegne-veloci-italia/",
       "fonte": "Punto Informatico",
       "data": "2026-02-12T18:21:47+00:00"
-    },
-    {
-      "titolo": "My 5 favorite Discord alternatives - no ID verification required",
-      "descrizione": "If you want to take a stand against facial scans, check out my favorite Discord alternative platforms.",
-      "link": "https://www.zdnet.com/article/discord-alternatives-no-verification/",
-      "fonte": "Latest news",
-      "data": "2026-02-12T17:41:27+00:00"
     },
     {
       "titolo": "L'Europa lancia il potente Ariane 64 e porta in orbita 32 satelliti Amazon",
@@ -30,8 +65,8 @@
       "data": "2026-02-12T17:27:34+00:00"
     },
     {
-      "titolo": "Debutta Ariane 64 con quattro propulsori italiani: il razzo europeo più potente lancia 32 satelliti Amazon",
-      "descrizione": "È partito Ariane 64, il più potente razzo europeo di sempre, oggi al debutto in una nuova versione: a spingere in questa prima fase di lancio, per 2 minuti e...",
+      "titolo": "Missione compiuta per Ariane 64, il razzo europeo più potente con propulsori italiani: lanciati 32 satelliti Amazon",
+      "descrizione": "Il lancio è avvenuto alle 17:45 ora italiana dalla base di Kourou, in Guyana Francese, con a bordo 32 satelliti Leo , la costellazione di Amazon nata per offrire servizi...",
       "link": "https://www.ilsole24ore.com/art/partito-ariane-64-piu-potente-razzo-europeo-sempre-AI4jpSOB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-02-12T17:06:00+00:00"
@@ -42,13 +77,6 @@
       "link": "https://www.hdblog.it/hardware/articoli/n648196/nvidia-app-non-parte-soluzione-patch-fix/",
       "fonte": "HDblog.it",
       "data": "2026-02-12T17:05:00+00:00"
-    },
-    {
-      "titolo": "The official YouTube app is finally coming to Apple Vision Pro - and I'm elated",
-      "descrizione": "Whether it was Google's doing, Apple's, or both, you can now watch your usual YouTube content in visionOS, no strings attached.",
-      "link": "https://www.zdnet.com/article/official-youtube-app-launch-apple-vision-pro/",
-      "fonte": "Latest news",
-      "data": "2026-02-12T17:00:00+00:00"
     },
     {
       "titolo": "Cina sperimenta proiettili ipersonici Mach 6 sparati da cannoni navali",
@@ -128,20 +156,6 @@
       "data": "2026-02-12T15:19:53+00:00"
     },
     {
-      "titolo": "Amazon, nuova indagine per evasione: perquisite sede italiana e case di 7 dirigenti",
-      "descrizione": "Si ipotizza la presunta evasione fiscale di redditi prodotti in Italia e non dichiarati",
-      "link": "https://www.hdblog.it/amazon/articoli/n648176/amazon-nuova-indagine-evasione/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T15:10:00+00:00"
-    },
-    {
-      "titolo": "Sony WF-1000XM6 ufficiali: ANC più potente e chiamate migliori",
-      "descrizione": "Le Sony WF-1000XM6 offrono quattro microfoni per auricolare, sensore a conduzione ossea e design più sottile dell’11% per un comfort superiore",
-      "link": "https://www.hdblog.it/indossabili/articoli/n648140/sony-wf-1000xm6-caratteristiche-immagini-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T15:01:00+00:00"
-    },
-    {
       "titolo": "Sanremo influenza ciò che ascolti tutto l’anno: i numeri",
       "descrizione": "C'è un filo diretto che collega il Festival di Sanremo all'andamento dell'industria discografica italiana: lo dimostrano i numeri di FIMI. The post Sanremo influenza ciò che ascolti tutto l’anno: i numeri appeared first",
       "link": "https://www.punto-informatico.it/sanremo-musica-italiana-numeri/",
@@ -149,25 +163,11 @@
       "data": "2026-02-12T14:55:09+00:00"
     },
     {
-      "titolo": "Google AI Mode, si comincia ad acquistare direttamente dalle ricerche",
-      "descrizione": "Una comodità o no?",
-      "link": "https://www.hdblog.it/google/articoli/n648162/google-ai-mode-acquistare-ricerche/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T14:55:00+00:00"
-    },
-    {
       "titolo": "AirTag ma per Android con il set da 2pz a soli 15€ su Amazon: falli tuoi",
       "descrizione": "Come gli AirTag di Apple, ma funzionano su Android con l'app di Google: geniali e super economici. The post AirTag ma per Android con il set da 2pz a soli 15€ su Amazon: falli tuoi appeared first on Punto Informatico .",
       "link": "https://www.punto-informatico.it/airtag-ma-per-android-con-il-set-da-2pz-a-soli-15e-su-amazon-falli-tuoi/",
       "fonte": "Punto Informatico",
       "data": "2026-02-12T14:51:18+00:00"
-    },
-    {
-      "titolo": "Schermo in auto con soli 35€ grazie a questo sistema da 7″ touch (Amazon)",
-      "descrizione": "Rendi la tua auto nuova di zecca con uno schermo economico, touch e compatibile sia con iOS che Android. The post Schermo in auto con soli 35€ grazie a questo sistema da 7″ touch (Amazon) appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/schermo-in-auto-con-soli-35e-grazie-a-questo-sistema-da-7-touch-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-12T14:41:39+00:00"
     }
   ]
 }

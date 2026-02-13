@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-02-12T19:29:04.737849+00:00",
+  "last_updated": "2026-02-13T03:23:27.459041+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
-      "descrizione": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
-      "link": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
-      "fonte": "WIRED",
-      "data": "2026-02-12T19:00:00+00:00",
+      "titolo": "AI isn't getting smarter, it's getting more power hungry - and expensive",
+      "descrizione": "Frontier models such as OpenAI's GPT depend mostly on increasing computing power rather than smarter algorithms, according to a new MIT report. Here's why that matters.",
+      "link": "https://www.zdnet.com/article/ai-isnt-getting-smarter-its-getting-more-expensive-mit-report-finds/",
+      "fonte": "Latest news",
+      "data": "2026-02-13T02:01:02+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google AI Mode, si comincia ad acquistare direttamente dalle ricerche",
-      "descrizione": "Una comodità o no?",
-      "link": "https://www.hdblog.it/google/articoli/n648162/google-ai-mode-acquistare-ricerche/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-12T14:55:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why",
-      "descrizione": "Anthropic has doled out four cool perks to free users, all of which were previously available only for paid subscribers.",
-      "link": "https://www.zdnet.com/article/claude-ais-free-updates-cancel-subscription/",
-      "fonte": "Latest news",
-      "data": "2026-02-12T17:31:00+00:00",
+      "titolo": "9 prompt per trasformare Claude in un vero assistente personale",
+      "descrizione": "Procrastinazione, liste infinite di cose da fare e blocchi creativi, Claude Opus 4.6 può aiutare a superare gli ostacoli con i prompt giusti. The post 9 prompt per trasformare Claude in un vero assistente personale appea",
+      "link": "https://www.punto-informatico.it/9-prompt-trasformare-claude-vero-assistente-personale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-12T16:30:43+00:00",
       "modello": "claude"
     }
   ]
