@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-02-14T13:12:56.945346+00:00",
+  "last_updated": "2026-02-14T18:54:33.784258+00:00",
   "items": [
+    {
+      "titolo": "These XR glasses gave me a 200-inch OLED screen to work with - and just hit a new low price",
+      "descrizione": "XR glasses have become essential for my travels, and among all the pairs I've tested, the RayNeo Air 3S stands out as the best value.",
+      "link": "https://www.zdnet.com/article/rayneo-air-3s-review/",
+      "fonte": "Latest news",
+      "data": "2026-02-14T17:11:27+00:00"
+    },
+    {
+      "titolo": "Acer and Asus halt PC and laptop sales in Germany amid H.264 codec patent dispute — Nokia wins patent ruling, forcing tech giants to license HEVC codec",
+      "descrizione": "Acer's and Asus's use of HEVC on their laptops and desktop PCs is allegedly infringing on Nokia's patent. Because of this, a German court ruled that they cannot sell their products in Germany until the matter is settled.",
+      "link": "https://www.tomshardware.com/laptops/acer-and-asus-halt-pc-and-laptop-sales-in-germany-amid-h-264-codec-patent-dispute-nokia-wins-patent-ruling-forcing-tech-giants-to-license-hevc-codec",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-14T16:55:44+00:00"
+    },
+    {
+      "titolo": "Disney: pagamento milionario per violazione della privacy",
+      "descrizione": "Disney ha accettato di pagare 2,75 milioni di dollari per evitare il processo in seguito alla violazione della legge sulla privacy della California. The post Disney: pagamento milionario per violazione della privacy appe",
+      "link": "https://www.punto-informatico.it/disney-pagamento-milionario-violazione-privacy/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-14T16:48:19+00:00"
+    },
+    {
+      "titolo": "The best early Walmart sales for Presidents' Day",
+      "descrizione": "Presidents' Day sales are already live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
+      "link": "https://www.zdnet.com/article/best-early-walmart-deals-presidents-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-02-14T16:07:02+00:00"
+    },
+    {
+      "titolo": "Furto di password con false estensioni AI per Chrome",
+      "descrizione": "Estensioni fasulle di noti chatbot AI (alcune sono ancora sul Chrome Web Store) sono state usate per rubare credenziali e altri dati dal browser. The post Furto di password con false estensioni AI per Chrome appeared fir",
+      "link": "https://www.punto-informatico.it/furto-password-false-estensioni-ai-chrome/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-14T16:06:51+00:00"
+    },
+    {
+      "titolo": "Enthusiast scores watercooled dual Nvidia GTX Titan X GPUs for $86 — $1,000 older flagship graphics card with custom water cooling for a bargain",
+      "descrizione": "These dual Nvidia GTX Titan X GPUs in SLI are a solid upgrade for the user's current GTX 1650 GPU, provided they can make it work.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-scores-watercooled-dual-nvidia-gtx-titan-x-gpus-for-usd86-usd1-000-older-flagship-graphics-card-with-custom-water-cooling-for-a-bargain",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-14T15:34:28+00:00"
+    },
+    {
+      "titolo": "Intel fined $3 million by India’s antitrust regulator over discriminatory CPU warranty policy — says Intel abused its dominant position in the boxed processor market.",
+      "descrizione": "Following a complaint filed in 2016, the Competition Commission of India concluded that Intel’s India-only warranty rules were discriminatory compared to policies in other countries.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-fined-usd3-million-by-indias-antitrust-regulator-over-discriminatory-cpu-warranty-policy-says-intel-abused-its-dominant-position-in-the-boxed-processor-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-14T15:17:06+00:00"
+    },
+    {
+      "titolo": "Apple, non solo \"Fold\": test in corso anche su un iPhone pieghevole in formato \"flip\"",
+      "descrizione": "Apple starebbe testando anche un iPhone pieghevole con design a conchiglia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648388/apple-non-solo-fold-test-iphone-flip/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-14T14:25:00+00:00"
+    },
     {
       "titolo": "Engie ti blocca le bollette luce e gas per 24 mesi con i Carnival Days: tira coriandoli e risparmia!",
       "descrizione": "Passa ad Engie e blocca la bolletta di Luce e Gas per 24 mesi, senza rincari e senza sorprese. Approfitta dei Carnival Days e acchiappa la promo! The post Engie ti blocca le bollette luce e gas per 24 mesi con i Carnival",
@@ -65,6 +121,13 @@
       "data": "2026-02-14T10:46:38+00:00"
     },
     {
+      "titolo": "Apple, ecco quanti iPhone e iPad sono stati aggiornati a iOS 26 e iPadOS 26",
+      "descrizione": "Apple ha reso disponibili i dati ufficiali",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648376/apple-iphone-ipad-aggiornati-ios-26/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-14T10:40:00+00:00"
+    },
+    {
       "titolo": "Nuova Volkswagen T-Roc R, le ultime foto spia mostrano ulteriori dettagli del crossover",
       "descrizione": "Volkswagen sta portando avanti lo sviluppo della nuova T-Roc R, la versione più sportiva del crossover",
       "link": "https://www.hdmotori.it/volkswagen-t-roc-r-2027-motore-foto-spia-anticipazioni/",
@@ -100,74 +163,11 @@
       "data": "2026-02-14T08:55:00+00:00"
     },
     {
-      "titolo": "Apple, ecco quanti iPhone e iPad sono stati aggiornati a iOS 26 e iPadOS 26",
-      "descrizione": "Apple ha reso disponibili i dati ufficiali",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648376/apple-iphone-ipad-aggiornati-ios-26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T08:40:00+00:00"
-    },
-    {
       "titolo": "Fiat 600 Hybrid e Abarth 600e Milano Cortina 2026, la prova | Video",
       "descrizione": "Abbiamo provato l’edizione speciale Milano Cortina 2026 della Fiat 600 Hybrid da 145 CV e della più cattiba Abarth 600e",
       "link": "https://www.hdmotori.it/prove/fiat-600-hybrid-abarth-600e-milano-cortina-2026-prova-video/",
       "fonte": "HDblog.it",
       "data": "2026-02-14T08:30:48+00:00"
-    },
-    {
-      "titolo": "Realme GT 8 Pro: batteria infinita da 7000mAh e foto professionali",
-      "descrizione": "Il Realme GT 8 Pro è un top di gamma con batteria infinita da 7000mAh, uno scomparto camera per foto professionali e ora è in prmo su eBay. The post Realme GT 8 Pro: batteria infinita da 7000mAh e foto professionali appe",
-      "link": "https://www.punto-informatico.it/realme-gt-8-pro-batteria-infinita-da-7000mah-e-foto-professionali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T08:12:53+00:00"
-    },
-    {
-      "titolo": "«Sta succedendo qualcosa di grande sull’Ai, come il Covid». Il post è virale",
-      "descrizione": "C’è un passaggio, nel lungo post social che nei giorni scorsi ha guadagnato oltre 60 milioni di visualizzazioni, che ha colpito più delle cifre e delle previsioni: «Something big is...",
-      "link": "https://www.ilsole24ore.com/art/sta-succedendo-qualcosa-grande-sull-ai-post-virale-accende-dibattito-AIZbZnPB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-14T08:08:00+00:00"
-    },
-    {
-      "titolo": "Airbag Takata difettosi, campagna di richiamo: come verificare se una vettura è coinvolta",
-      "descrizione": "Campagne di richiamo attive per gli airbag Takata difettosi: come capire se la propria vettura è interessata",
-      "link": "https://www.hdmotori.it/come-verificare-campagna-richiamo-airbag-takata/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T08:00:04+00:00"
-    },
-    {
-      "titolo": "AI Overview sta distruggendo l'editoria? Nuova denuncia dei giornali",
-      "descrizione": "Questa volta a livello europeo",
-      "link": "https://www.hdblog.it/mercato/articoli/n648305/ai-overview-distrugge-editoria-denuncia-giornali/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T07:55:00+00:00"
-    },
-    {
-      "titolo": "Disney vs. ByteDance: Seedance 2.0 ha rubato i nostri personaggi",
-      "descrizione": "Disney invia una lettera di diffida a ByteDance accusando Seedance 2.0 di contenere una libreria piratata di personaggi Marvel e Star Wars. The post Disney vs. ByteDance: Seedance 2.0 ha rubato i nostri personaggi appear",
-      "link": "https://www.punto-informatico.it/disney-contro-bytedance-seedance-2-0-ha-rubato-nostri-personaggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T07:49:55+00:00"
-    },
-    {
-      "titolo": "Galaxy S25 FE: a questo prezzo è il mid-range Samsung su cui puntare",
-      "descrizione": "Il Samsung Galaxy S25 FE è in offerta con la variante da 256 GB che si conferma un best buy per la fascia media.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n648369/samsung-galaxy-s25-fe-256-gb-offerta-feb-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T07:40:00+00:00"
-    },
-    {
-      "titolo": "FIAT Topolino, debutta la versione Corallo: nuovo colore e display più grande",
-      "descrizione": "Per il quadriciclo elettrico arriva una nuova colorazione e soprattutto un nuovo quadro strumenti digitale più grande",
-      "link": "https://www.hdmotori.it/fiat-topolino-corallo-aggiornamento-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T07:30:32+00:00"
-    },
-    {
-      "titolo": "Galaxy S26 \"belli di notte\": Samsung punta su video notturni più luminosi",
-      "descrizione": "E lo suggerisce con una breve clip postata sui social.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648353/samsung-galaxy-s26-ultra-video-notturni-luminosita/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T07:15:00+00:00"
     }
   ]
 }
