@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-02-14T18:54:33.784258+00:00",
+  "last_updated": "2026-02-15T03:23:05.323748+00:00",
   "items": [
     {
-      "titolo": "These XR glasses gave me a 200-inch OLED screen to work with - and just hit a new low price",
-      "descrizione": "XR glasses have become essential for my travels, and among all the pairs I've tested, the RayNeo Air 3S stands out as the best value.",
-      "link": "https://www.zdnet.com/article/rayneo-air-3s-review/",
+      "titolo": "This 75-inch Insignia QLED TV just dropped to less than $500 at Best Buy",
+      "descrizione": "Looking to upgrade your home theater on a tight budget? Right now during Best Buy's Presidents' Day sale, you can save $250 on the 75-inch Insignia QF Series QLED TV which brings the price to just $400.",
+      "link": "https://www.zdnet.com/article/best-buy-presidents-day-insignia-qf-tv-deal/",
       "fonte": "Latest news",
-      "data": "2026-02-14T17:11:27+00:00"
+      "data": "2026-02-14T23:56:00+00:00"
+    },
+    {
+      "titolo": "This 85-inch Sony Bravia TV dropped to less than $1,000 at Amazon - and I can vouch for it",
+      "descrizione": "The Sony Bravia 3 may be a base model LED TV, but it still offers plenty of premium-grade features. Amazon is selling an 85-inch version for just under $1,000.",
+      "link": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
+      "fonte": "Latest news",
+      "data": "2026-02-14T23:50:00+00:00"
+    },
+    {
+      "titolo": "This 55-inch Fire TV is just $180 on Amazon right now",
+      "descrizione": "Looking to upgrade or replace your TV? Budget shoppers should highly consider the 55-inch Insignia F50 for just $180.",
+      "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
+      "fonte": "Latest news",
+      "data": "2026-02-14T23:48:00+00:00"
     },
     {
       "titolo": "Acer and Asus halt PC and laptop sales in Germany amid H.264 codec patent dispute — Nokia wins patent ruling, forcing tech giants to license HEVC codec",
@@ -21,13 +35,6 @@
       "link": "https://www.punto-informatico.it/disney-pagamento-milionario-violazione-privacy/",
       "fonte": "Punto Informatico",
       "data": "2026-02-14T16:48:19+00:00"
-    },
-    {
-      "titolo": "The best early Walmart sales for Presidents' Day",
-      "descrizione": "Presidents' Day sales are already live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
-      "link": "https://www.zdnet.com/article/best-early-walmart-deals-presidents-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T16:07:02+00:00"
     },
     {
       "titolo": "Furto di password con false estensioni AI per Chrome",
@@ -72,13 +79,6 @@
       "data": "2026-02-14T12:21:53+00:00"
     },
     {
-      "titolo": "I tried the best XR display glasses right now - the winning pair was not the most expensive",
-      "descrizione": "When it comes to Viture, RayNeo, and Xreal, polished spatial tracking beats both raw brightness and future promises.",
-      "link": "https://www.zdnet.com/article/xr-display-glasses-compared-viture-rayneo-xreal/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T12:00:58+00:00"
-    },
-    {
       "titolo": "In a blind test, audiophiles couldn't tell the difference between audio signals sent through copper wire, a banana, or wet mud — 'The mud should sound perfectly awful, but it doesn't,' notes the experiment creator",
       "descrizione": "An experiment revealed that people cannot differentiate between audio signals sent through premium audio cables, wet mud, and a banana.",
       "link": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
@@ -98,13 +98,6 @@
       "link": "https://www.punto-informatico.it/whatsapp-sposta-stati-cima-chat-novita/",
       "fonte": "Punto Informatico",
       "data": "2026-02-14T11:04:00+00:00"
-    },
-    {
-      "titolo": "5 everyday essentials I'd buy during Presidents' Day",
-      "descrizione": "Big sales are a great time to save on daily essentials. Here's what I'm eyeing, from beauty buys to home appliances.",
-      "link": "https://www.zdnet.com/article/5-everyday-essentials-id-buy-during-presidents-day/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T11:00:47+00:00"
     },
     {
       "titolo": "ENIAC, the world’s first general-purpose digital computer, turns 80 years old today — legendary hulking machine was 1,000x faster than its nearest rival",
@@ -168,6 +161,13 @@
       "link": "https://www.hdmotori.it/prove/fiat-600-hybrid-abarth-600e-milano-cortina-2026-prova-video/",
       "fonte": "HDblog.it",
       "data": "2026-02-14T08:30:48+00:00"
+    },
+    {
+      "titolo": "Realme GT 8 Pro: batteria infinita da 7000mAh e foto professionali",
+      "descrizione": "Il Realme GT 8 Pro è un top di gamma con batteria infinita da 7000mAh, uno scomparto camera per foto professionali e ora è in prmo su eBay. The post Realme GT 8 Pro: batteria infinita da 7000mAh e foto professionali appe",
+      "link": "https://www.punto-informatico.it/realme-gt-8-pro-batteria-infinita-da-7000mah-e-foto-professionali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-14T08:12:53+00:00"
     }
   ]
 }
