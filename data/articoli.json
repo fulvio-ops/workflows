@@ -1,12 +1,68 @@
 {
-  "last_updated": "2026-02-15T13:14:43.074172+00:00",
+  "last_updated": "2026-02-15T18:55:56.953819+00:00",
   "items": [
+    {
+      "titolo": "Esodo di massa da xAI: colpa di Elon Musk e Grok",
+      "descrizione": "Alcuni dipendenti di xAI hanno spiegato i motivi delle dimissioni, evidenziando le scelte di Elon Musk, tra cui l'eliminazione delle restrizioni per Grok. The post Esodo di massa da xAI: colpa di Elon Musk e Grok appeare",
+      "link": "https://www.punto-informatico.it/esodo-massa-xai-colpa-elon-musk-grok/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-15T17:51:36+00:00"
+    },
+    {
+      "titolo": "Octopus Energia: meno ansia per le bollette con la tariffa bloccata per 12 mesi",
+      "descrizione": "Scopri le tariffe di Octopus Energia e i vantaggi della tariffa fissa annuale. Prezzo bloccato, zero sorprese e più soldi da dedicare a piaceri e viaggi. The post Octopus Energia: meno ansia per le bollette con la tariff",
+      "link": "https://www.punto-informatico.it/octopus-energia-meno-ansia-per-le-bollette-con-la-tariffa-bloccata-per-12-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-15T16:50:20+00:00"
+    },
+    {
+      "titolo": "Nuova campagna di phishing adattivo: come funziona",
+      "descrizione": "Gli esperti del CERT-AgID hanno rilevato nuovi attacchi di phishing adattivo che permettono di ingannare le vittime e rubare le credenziali di login. The post Nuova campagna di phishing adattivo: come funziona appeared f",
+      "link": "https://www.punto-informatico.it/nuova-campagna-phishing-adattivo-come-funziona/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-15T16:25:41+00:00"
+    },
+    {
+      "titolo": "Samsung avvia produzione delle memorie HBM4 per chip AI",
+      "descrizione": "Samsung ha avviato la produzione di massa delle nuove HBM4 e iniziato le consegne ai clienti, tra cui NVIDIA (che le userà per i chip Vera Rubin). The post Samsung avvia produzione delle memorie HBM4 per chip AI appeared",
+      "link": "https://www.punto-informatico.it/samsung-avvia-produzione-memorie-hbm4-chip-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-15T15:21:31+00:00"
+    },
+    {
+      "titolo": "The best Walmart sales for Presidents' Day",
+      "descrizione": "Presidents' Day sales are live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
+      "link": "https://www.zdnet.com/article/best-walmart-deals-presidents-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-02-15T14:32:13+00:00"
+    },
+    {
+      "titolo": "Finally, a robot vacuum that cleans my dogs' hair reliably well",
+      "descrizione": "The Mova P50 Ultra is a standout vacuum and mop combo, priced competitively with its latest discount.",
+      "link": "https://www.zdnet.com/article/mova-p50-ultra-robot-vacuum-mop-review/",
+      "fonte": "Latest news",
+      "data": "2026-02-15T14:00:55+00:00"
+    },
+    {
+      "titolo": "CLS apre il suo Experience Center: l’automazione diventa ecosistema tra robot, AI e digital twin",
+      "descrizione": "Non un semplice showroom tecnologico ma un vero e proprio “laboratorio” in cui l’automazione prende forma davanti agli occhi del cliente, viene simulata, testata e adattata ai vincoli reali di...",
+      "link": "https://www.ilsole24ore.com/art/cls-apre-suo-experience-center-l-automazione-diventa-ecosistema-robot-e-digital-twin-AImxt7OB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-15T13:20:04+00:00"
+    },
     {
       "titolo": "M5Stack AI Pyramid charms with translucent, RGB infused tetrahedral shell and $199 price tag — but it is far more of an edge-AI appliance than a mini-PC",
       "descrizione": "IoT specialist M5Stack has released an affordable, alluring, translucent, RGB-infused, tetrahederal mini-PC dubbed the AI Pyramid Computing Box.",
       "link": "https://www.tomshardware.com/desktops/mini-pcs/m5stack-ai-pyramid-charms-with-translucent-rgb-infused-tetrahedral-shell-and-usd199-price-tag-but-it-is-far-more-of-an-edge-ai-appliance-than-a-mini-pc",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-15T13:05:23+00:00"
+    },
+    {
+      "titolo": "Frontier mappa le turbolenze con una precisione mai sperimentata",
+      "descrizione": "Simulazione record su Frontier con 35 trilioni di punti per studiare la turbolenza",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648407/frontier-supercomputer-turbolenza-3d/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T13:05:00+00:00"
     },
     {
       "titolo": "DXRacer Martian Pro Red Triangle review: Built for the fans",
@@ -87,7 +143,7 @@
     },
     {
       "titolo": "L’Ai non colpisce tutti allo stesso modo: così il mondo del lavoro si polarizza",
-      "descrizione": "L’ adozione dell’AI nel lavoro sta cambiando le regole del gioco, ma non tutte le professioni giocano la stessa partita. Secondo uno studio firmato da Bouke Klein Teeselink, del...",
+      "descrizione": "Gli effetti variano a seconda del tipo di compiti coinvolti, e del contesto politico - sociale e del livello di sviluppo digitale dei singoli Paesi",
       "link": "https://www.ilsole24ore.com/art/l-ai-non-colpisce-tutti-stesso-modo-cosi-mondo-lavoro-si-polarizza-AI4SgeQB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-02-15T08:59:58+00:00"
@@ -112,62 +168,6 @@
       "link": "https://www.hdmotori.it/offerta-mg-hs-hybrid-finanziamento-sconto-rate-interessi/",
       "fonte": "HDblog.it",
       "data": "2026-02-15T08:00:22+00:00"
-    },
-    {
-      "titolo": "Galaxy A57 e A37, Samsung sta per lanciarli: ora la conferma anche Google",
-      "descrizione": "Oltre ai Galaxy S26 in arrivo ci sono anche i nuovi medio gamma di Samsung",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648395/samsung-galaxy-a57-a37-lancio-specifiche-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T07:35:00+00:00"
-    },
-    {
-      "titolo": "Stop al minimalismo estremo, in Cina le auto dovranno avere comandi fisici per le funzioni di sicurezza",
-      "descrizione": "La Cina vuole che le funzioni di sicurezza essenziali delle auto siano controllate attraverso dei comandi fisici",
-      "link": "https://www.hdmotori.it/cina-pulsanti-fisici-interni-auto-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T07:30:17+00:00"
-    },
-    {
-      "titolo": "Citroen C3 Aircross vs Dacia Jogger, sfida tra auto a 7 posti: confronto e prezzi",
-      "descrizione": "Mettiamo a confronto due modelli che offrono spazio e fino a 7 posti per le famiglie numerose",
-      "link": "https://www.hdmotori.it/citroen-c3-aircross-vs-dacia-jogger-confronto-versioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T07:00:57+00:00"
-    },
-    {
-      "titolo": "Viaggio all’estero? Con Airalo resti connesso senza i costi di roaming",
-      "descrizione": "Con Airalo rimani connesso quando sei in viaggio all'estero senza spendere cifre folli, e non hai bisogno di acquistare SIM tradizionali. The post Viaggio all’estero? Con Airalo resti connesso senza i costi di roaming ap",
-      "link": "https://www.punto-informatico.it/viaggio-allestero-con-airalo-resti-connesso-senza-i-costi-di-roaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-15T06:52:24+00:00"
-    },
-    {
-      "titolo": "Un reattore nucleare da 500 kW sulla Luna: il piano NASA",
-      "descrizione": "Reattore nucleare da 500 kW sulla Luna entro il 2030 test guidati da INL",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648233/reattore-nucleare-luna-500-kw-2030/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T06:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova Suzuki Across Plug-In, interni e bagagliaio del SUV",
-      "descrizione": "La nuova generazione del SUV giapponese offre interni più moderni e con una migliore dotazione di tecnologia",
-      "link": "https://www.hdmotori.it/nuova-suzuki-across-plug-in-interni-bagagliaio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T06:30:56+00:00"
-    },
-    {
-      "titolo": "This 75-inch Insignia QLED TV just dropped to less than $500 at Best Buy",
-      "descrizione": "Looking to upgrade your home theater on a tight budget? Right now during Best Buy's Presidents' Day sale, you can save $250 on the 75-inch Insignia QF Series QLED TV which brings the price to just $400.",
-      "link": "https://www.zdnet.com/article/best-buy-presidents-day-insignia-qf-tv-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T23:56:00+00:00"
-    },
-    {
-      "titolo": "This 85-inch Sony Bravia TV dropped to less than $1,000 at Amazon - and I can vouch for it",
-      "descrizione": "The Sony Bravia 3 may be a base model LED TV, but it still offers plenty of premium-grade features. Amazon is selling an 85-inch version for just under $1,000.",
-      "link": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T23:50:00+00:00"
     }
   ]
 }
