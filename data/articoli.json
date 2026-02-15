@@ -1,12 +1,159 @@
 {
-  "last_updated": "2026-02-15T07:08:57.506965+00:00",
+  "last_updated": "2026-02-15T13:14:43.074172+00:00",
   "items": [
+    {
+      "titolo": "M5Stack AI Pyramid charms with translucent, RGB infused tetrahedral shell and $199 price tag — but it is far more of an edge-AI appliance than a mini-PC",
+      "descrizione": "IoT specialist M5Stack has released an affordable, alluring, translucent, RGB-infused, tetrahederal mini-PC dubbed the AI Pyramid Computing Box.",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/m5stack-ai-pyramid-charms-with-translucent-rgb-infused-tetrahedral-shell-and-usd199-price-tag-but-it-is-far-more-of-an-edge-ai-appliance-than-a-mini-pc",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-15T13:05:23+00:00"
+    },
+    {
+      "titolo": "DXRacer Martian Pro Red Triangle review: Built for the fans",
+      "descrizione": "The DXRacer Martian Pro is packed to the brim with features, and it comes with a price tag to match. But if you have the cash to burn, you’ll come out the other side a happy customer.",
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/dxracer-martian-pro-red-triangle-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-15T13:00:00+00:00"
+    },
+    {
+      "titolo": "Cloud storage company releases its 2025 hard drive reliability report — overall Annualized Failure Rate drops to 1.36%, 21 percentage points lower than last year",
+      "descrizione": "Backblaze just released its annual drive reliability report, with the company getting a 1.36% annualized failure rate for 2025. It says that this is its best result since 2022.",
+      "link": "https://www.tomshardware.com/pc-components/hdds/cloud-storage-company-releases-its-2025-hard-drive-reliability-report-overall-annualized-failure-rate-drops-to-1-36-percent-21-percentage-points-lower-than-last-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-15T12:57:30+00:00"
+    },
+    {
+      "titolo": "Honor Magic 7 Pro 5G: foto da paparazzo, impermeabile e batteria infinita",
+      "descrizione": "Oggi puoi avere l'Honor Magic 7 Pro 5G da 512GB a un ottimo prezzo e puoi goderti foto spettacolari, batteria infinita e impermeabilità. The post Honor Magic 7 Pro 5G: foto da paparazzo, impermeabile e batteria infinita",
+      "link": "https://www.punto-informatico.it/honor-magic-7-pro-5g-foto-da-paparazzo-impermeabile-batteria-infinita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-15T12:06:10+00:00"
+    },
+    {
+      "titolo": "The Nothing That Has the Potential to Be Anything",
+      "descrizione": "You can never truly empty a box. Why? Zero-point energy.",
+      "link": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
+      "fonte": "WIRED",
+      "data": "2026-02-15T12:00:00+00:00"
+    },
+    {
+      "titolo": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
+      "descrizione": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
+      "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+      "fonte": "WIRED",
+      "data": "2026-02-15T11:30:00+00:00"
+    },
+    {
+      "titolo": "Notorious 'Archive Today' website allegedly leads bizarre DDoS campaign against security blogger — Wikipedia considers removing all links to the Archive",
+      "descrizione": "Wikipedia may remove links to Archive Today due to DDoS spat",
+      "link": "https://www.tomshardware.com/software/search-engines/archive-today-allegedly-leads-bizarre-ddos-campaign-against-security-blogger-wikipedia-considers-removing-all-links-to-the-archive",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-15T11:20:00+00:00"
+    },
+    {
+      "titolo": "Missile ipersonico europeo a Mach 6: test record in Norvegia",
+      "descrizione": "Test riuscito in Norvegia per il primo missile ipersonico privato europeo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648404/missile-ipersonico-europa-mach-6-hypersonica/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T11:05:00+00:00"
+    },
+    {
+      "titolo": "AI, Fancy Footwear, and All the Other Gear Powering Olympic Bobsledding",
+      "descrizione": "Bobsledders rely a lot on specialized equipment to perform well and stay safe during the \"Formula 1 of ice.” Here’s a quick guide.",
+      "link": "https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/",
+      "fonte": "WIRED",
+      "data": "2026-02-15T11:00:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17 Ultra è tra i migliori cameraphone per DxOMark",
+      "descrizione": "Tra i migliori ma non il migliore: ecco perché.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648400/xiaomi-17-ultra-fotocamera-dxomark-test-classifica/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T10:05:00+00:00"
+    },
+    {
+      "titolo": "Tiny Mac look-a-like alarm clock transformed to run real Mac software",
+      "descrizione": "A vintage technology enthusiast has turned a miniature Mac-a-like desk toy alarm clock into a real Mac software running computer.",
+      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tiny-mac-look-a-like-alarm-clock-transformed-to-run-real-mac-software",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-15T10:00:00+00:00"
+    },
+    {
+      "titolo": "Oppo Find N6 si affaccia su Geekbench con uno Snapdragon 8 Elite Gen 5 particolare",
+      "descrizione": "Una variante del chip ancora non annunciata da Qualcomm.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648397/oppo-find-n6-chip-benchmark-snapdragon-7-core/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T09:05:00+00:00"
+    },
+    {
+      "titolo": "L’Ai non colpisce tutti allo stesso modo: così il mondo del lavoro si polarizza",
+      "descrizione": "L’ adozione dell’AI nel lavoro sta cambiando le regole del gioco, ma non tutte le professioni giocano la stessa partita. Secondo uno studio firmato da Bouke Klein Teeselink, del...",
+      "link": "https://www.ilsole24ore.com/art/l-ai-non-colpisce-tutti-stesso-modo-cosi-mondo-lavoro-si-polarizza-AI4SgeQB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-15T08:59:58+00:00"
+    },
+    {
+      "titolo": "GWM: la nuova strategia per conquistare l'Europa (e l'Italia)",
+      "descrizione": "GWM rilancia in Europa con ibridi e benzina, punta a 1 milione di vendite entro il 2030 e a una fabbrica da 300mila auto l’anno",
+      "link": "https://www.hdmotori.it/great-wall-motor-ritorno-europa-ibridi-benzina-2030/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T08:30:32+00:00"
+    },
+    {
+      "titolo": "Problemi al razzo SLS, Artemis II potrebbe slittare ancora",
+      "descrizione": "Perdite di idrogeno e nuovi test rinviano Artemis II.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648398/artemis-ii-perdite-idrogeno-sls/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T08:05:00+00:00"
+    },
+    {
+      "titolo": "Offerta MG HS Hybrid+, rate da 249 euro con finanziamento: cosa c'è da sapere",
+      "descrizione": "Con anticipo di 4.920 euro sarà possibile portarsi a casa MG HS Hybrid+ con rate da 249 euro al mese",
+      "link": "https://www.hdmotori.it/offerta-mg-hs-hybrid-finanziamento-sconto-rate-interessi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T08:00:22+00:00"
+    },
+    {
+      "titolo": "Galaxy A57 e A37, Samsung sta per lanciarli: ora la conferma anche Google",
+      "descrizione": "Oltre ai Galaxy S26 in arrivo ci sono anche i nuovi medio gamma di Samsung",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648395/samsung-galaxy-a57-a37-lancio-specifiche-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T07:35:00+00:00"
+    },
+    {
+      "titolo": "Stop al minimalismo estremo, in Cina le auto dovranno avere comandi fisici per le funzioni di sicurezza",
+      "descrizione": "La Cina vuole che le funzioni di sicurezza essenziali delle auto siano controllate attraverso dei comandi fisici",
+      "link": "https://www.hdmotori.it/cina-pulsanti-fisici-interni-auto-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T07:30:17+00:00"
+    },
+    {
+      "titolo": "Citroen C3 Aircross vs Dacia Jogger, sfida tra auto a 7 posti: confronto e prezzi",
+      "descrizione": "Mettiamo a confronto due modelli che offrono spazio e fino a 7 posti per le famiglie numerose",
+      "link": "https://www.hdmotori.it/citroen-c3-aircross-vs-dacia-jogger-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T07:00:57+00:00"
+    },
     {
       "titolo": "Viaggio all’estero? Con Airalo resti connesso senza i costi di roaming",
       "descrizione": "Con Airalo rimani connesso quando sei in viaggio all'estero senza spendere cifre folli, e non hai bisogno di acquistare SIM tradizionali. The post Viaggio all’estero? Con Airalo resti connesso senza i costi di roaming ap",
       "link": "https://www.punto-informatico.it/viaggio-allestero-con-airalo-resti-connesso-senza-i-costi-di-roaming/",
       "fonte": "Punto Informatico",
       "data": "2026-02-15T06:52:24+00:00"
+    },
+    {
+      "titolo": "Un reattore nucleare da 500 kW sulla Luna: il piano NASA",
+      "descrizione": "Reattore nucleare da 500 kW sulla Luna entro il 2030 test guidati da INL",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648233/reattore-nucleare-luna-500-kw-2030/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T06:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Suzuki Across Plug-In, interni e bagagliaio del SUV",
+      "descrizione": "La nuova generazione del SUV giapponese offre interni più moderni e con una migliore dotazione di tecnologia",
+      "link": "https://www.hdmotori.it/nuova-suzuki-across-plug-in-interni-bagagliaio/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-15T06:30:56+00:00"
     },
     {
       "titolo": "This 75-inch Insignia QLED TV just dropped to less than $500 at Best Buy",
@@ -21,153 +168,6 @@
       "link": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
       "fonte": "Latest news",
       "data": "2026-02-14T23:50:00+00:00"
-    },
-    {
-      "titolo": "This 55-inch Fire TV is just $180 on Amazon right now",
-      "descrizione": "Looking to upgrade or replace your TV? Budget shoppers should highly consider the 55-inch Insignia F50 for just $180.",
-      "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
-      "fonte": "Latest news",
-      "data": "2026-02-14T23:48:00+00:00"
-    },
-    {
-      "titolo": "Acer and Asus halt PC and laptop sales in Germany amid H.264 codec patent dispute — Nokia wins patent ruling, forcing tech giants to license HEVC codec",
-      "descrizione": "Acer's and Asus's use of HEVC on their laptops and desktop PCs is allegedly infringing on Nokia's patent. Because of this, a German court ruled that they cannot sell their products in Germany until the matter is settled.",
-      "link": "https://www.tomshardware.com/laptops/acer-and-asus-halt-pc-and-laptop-sales-in-germany-amid-h-264-codec-patent-dispute-nokia-wins-patent-ruling-forcing-tech-giants-to-license-hevc-codec",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-14T16:55:44+00:00"
-    },
-    {
-      "titolo": "Disney: pagamento milionario per violazione della privacy",
-      "descrizione": "Disney ha accettato di pagare 2,75 milioni di dollari per evitare il processo in seguito alla violazione della legge sulla privacy della California. The post Disney: pagamento milionario per violazione della privacy appe",
-      "link": "https://www.punto-informatico.it/disney-pagamento-milionario-violazione-privacy/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T16:48:19+00:00"
-    },
-    {
-      "titolo": "Furto di password con false estensioni AI per Chrome",
-      "descrizione": "Estensioni fasulle di noti chatbot AI (alcune sono ancora sul Chrome Web Store) sono state usate per rubare credenziali e altri dati dal browser. The post Furto di password con false estensioni AI per Chrome appeared fir",
-      "link": "https://www.punto-informatico.it/furto-password-false-estensioni-ai-chrome/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T16:06:51+00:00"
-    },
-    {
-      "titolo": "Enthusiast scores watercooled dual Nvidia GTX Titan X GPUs for $86 — $1,000 older flagship graphics card with custom water cooling for a bargain",
-      "descrizione": "These dual Nvidia GTX Titan X GPUs in SLI are a solid upgrade for the user's current GTX 1650 GPU, provided they can make it work.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-scores-watercooled-dual-nvidia-gtx-titan-x-gpus-for-usd86-usd1-000-older-flagship-graphics-card-with-custom-water-cooling-for-a-bargain",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-14T15:34:28+00:00"
-    },
-    {
-      "titolo": "Intel fined $3 million by India’s antitrust regulator over discriminatory CPU warranty policy — says Intel abused its dominant position in the boxed processor market.",
-      "descrizione": "Following a complaint filed in 2016, the Competition Commission of India concluded that Intel’s India-only warranty rules were discriminatory compared to policies in other countries.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-fined-usd3-million-by-indias-antitrust-regulator-over-discriminatory-cpu-warranty-policy-says-intel-abused-its-dominant-position-in-the-boxed-processor-market",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-14T15:17:06+00:00"
-    },
-    {
-      "titolo": "Apple, non solo \"Fold\": test in corso anche su un iPhone pieghevole in formato \"flip\"",
-      "descrizione": "Apple starebbe testando anche un iPhone pieghevole con design a conchiglia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648388/apple-non-solo-fold-test-iphone-flip/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T14:25:00+00:00"
-    },
-    {
-      "titolo": "Engie ti blocca le bollette luce e gas per 24 mesi con i Carnival Days: tira coriandoli e risparmia!",
-      "descrizione": "Passa ad Engie e blocca la bolletta di Luce e Gas per 24 mesi, senza rincari e senza sorprese. Approfitta dei Carnival Days e acchiappa la promo! The post Engie ti blocca le bollette luce e gas per 24 mesi con i Carnival",
-      "link": "https://www.punto-informatico.it/engie-ti-blocca-le-bollette-luce-e-gas-per-24-mesi-con-i-carnival-days-tira-coriandoli-e-risparmia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T12:45:08+00:00"
-    },
-    {
-      "titolo": "Attenzione all’add-in per Outlook: ruba l’account",
-      "descrizione": "Un cybercriminale ha sfruttato un add-in per Outlook non più aggiornato dallo sviluppatore per rubare le credenziali di oltre 4.000 account Microsoft. The post Attenzione all’add-in per Outlook: ruba l’account appeared f",
-      "link": "https://www.punto-informatico.it/attenzione-add-in-outlook-ruba-account/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T12:21:53+00:00"
-    },
-    {
-      "titolo": "In a blind test, audiophiles couldn't tell the difference between audio signals sent through copper wire, a banana, or wet mud — 'The mud should sound perfectly awful, but it doesn't,' notes the experiment creator",
-      "descrizione": "An experiment revealed that people cannot differentiate between audio signals sent through premium audio cables, wet mud, and a banana.",
-      "link": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-14T11:40:00+00:00"
-    },
-    {
-      "titolo": "Microsoft: ecco come si manipola la memoria dei chatbot",
-      "descrizione": "Microsoft ha scoperto un particolare tipo di attacco di prompt injection che permette di manipolare la memoria dei chatbot AI a scopo promozionale. The post Microsoft: ecco come si manipola la memoria dei chatbot appeare",
-      "link": "https://www.punto-informatico.it/microsoft-come-manipola-memoria-chatbot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T11:20:22+00:00"
-    },
-    {
-      "titolo": "WhatsApp sposta gli stati in cima alla chat, ecco la novità",
-      "descrizione": "WhatsApp ripensa la posizione degli stati nell'interfaccia, spostandoli nella barra superiore delle chat. La funzione è ancora in fase di sviluppo. The post WhatsApp sposta gli stati in cima alla chat, ecco la novità app",
-      "link": "https://www.punto-informatico.it/whatsapp-sposta-stati-cima-chat-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T11:04:00+00:00"
-    },
-    {
-      "titolo": "ENIAC, the world’s first general-purpose digital computer, turns 80 years old today — legendary hulking machine was 1,000x faster than its nearest rival",
-      "descrizione": "The Electronic Numerical Integrator and Computer (ENIAC) was unveiled to the public today in 1946.",
-      "link": "https://www.tomshardware.com/tech-industry/eniac-the-worlds-first-general-purpose-digital-computer-turns-80-years-old-today-legendary-hulking-machine-was-1-000x-faster-than-its-nearest-rival",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-14T11:00:00+00:00"
-    },
-    {
-      "titolo": "Claude elimina per errore 15 anni di ricordi dal computer",
-      "descrizione": "Un marito chiede a Claude di Anthropic di organizzare il PC della moglie e perde tutte le foto di famiglia degli ultimi 15 anni. The post Claude elimina per errore 15 anni di ricordi dal computer appeared first on Punto",
-      "link": "https://www.punto-informatico.it/claude-elimina-errore-15-anni-ricordi-computer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T10:46:38+00:00"
-    },
-    {
-      "titolo": "Apple, ecco quanti iPhone e iPad sono stati aggiornati a iOS 26 e iPadOS 26",
-      "descrizione": "Apple ha reso disponibili i dati ufficiali",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648376/apple-iphone-ipad-aggiornati-ios-26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T10:40:00+00:00"
-    },
-    {
-      "titolo": "Nuova Volkswagen T-Roc R, le ultime foto spia mostrano ulteriori dettagli del crossover",
-      "descrizione": "Volkswagen sta portando avanti lo sviluppo della nuova T-Roc R, la versione più sportiva del crossover",
-      "link": "https://www.hdmotori.it/volkswagen-t-roc-r-2027-motore-foto-spia-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T10:00:25+00:00"
-    },
-    {
-      "titolo": "Casio amplia la gamma Vintage con LA680WEL-1 in pelle",
-      "descrizione": "Casio lancia negli USA il Vintage LA680WEL-1 con pelle e design rétro.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n648358/casio-vintage-la680wel-1-pelle/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T09:55:00+00:00"
-    },
-    {
-      "titolo": "Mezzo miliardo su Apollo: la sfida di Google e Mercedes ai robot del futuro",
-      "descrizione": "Google e Mercedes finanziano Apollo, robot umanoide da 72 kg per fabbriche e logistica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648244/google-mercedes-apollo-robot-umanoide/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T09:15:00+00:00"
-    },
-    {
-      "titolo": "Airbnb integra l’AI, ecco cosa cambia per i viaggi",
-      "descrizione": "Il CEO Brian Chesky di Airbnb annuncia l'integrazione di strumenti AI per la ricerca, la pianificazione dei viaggi e il supporto clienti. The post Airbnb integra l’AI, ecco cosa cambia per i viaggi appeared first on Punt",
-      "link": "https://www.punto-informatico.it/airbnb-integra-ai-cosa-cambia-viaggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-14T09:13:09+00:00"
-    },
-    {
-      "titolo": "Microsoft sembra voler semplificare l'installazione di Windows 11",
-      "descrizione": "Gli update di Media Creation Tool diventano più frequenti.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n648333/microsoft-windows-11-media-creation-tool/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T08:55:00+00:00"
-    },
-    {
-      "titolo": "Fiat 600 Hybrid e Abarth 600e Milano Cortina 2026, la prova | Video",
-      "descrizione": "Abbiamo provato l’edizione speciale Milano Cortina 2026 della Fiat 600 Hybrid da 145 CV e della più cattiba Abarth 600e",
-      "link": "https://www.hdmotori.it/prove/fiat-600-hybrid-abarth-600e-milano-cortina-2026-prova-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T08:30:48+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-15T07:09:01.154060+00:00",
+  "last_updated": "2026-02-15T13:14:47.122231+00:00",
   "items": [
     {
-      "titolo": "Airbag Takata difettosi, campagna di richiamo: come verificare se una vettura è coinvolta",
-      "descrizione": "Campagne di richiamo attive per gli airbag Takata difettosi: come capire se la propria vettura è interessata",
-      "link": "https://www.hdmotori.it/come-verificare-campagna-richiamo-airbag-takata/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T08:00:04+00:00",
+      "titolo": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+      "descrizione": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+      "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+      "fonte": "WIRED",
+      "data": "2026-02-13T21:56:18+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude AI vola in classifica dopo il Super Bowl",
-      "descrizione": "Gli spot di Anthropic al Super Bowl spingono Claude tra le top 10 app negli Stati Uniti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648357/anthropic-claude-super-bowl-top-10/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-14T10:55:00+00:00",
+      "titolo": "Claude elimina per errore 15 anni di ricordi dal computer",
+      "descrizione": "Un marito chiede a Claude di Anthropic di organizzare il PC della moglie e perde tutte le foto di famiglia degli ultimi 15 anni. The post Claude elimina per errore 15 anni di ricordi dal computer appeared first on Punto",
+      "link": "https://www.punto-informatico.it/claude-elimina-errore-15-anni-ricordi-computer/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-14T10:46:38+00:00",
       "modello": "claude"
     }
   ]
