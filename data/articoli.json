@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-02-16T13:40:34.135500+00:00",
+  "last_updated": "2026-02-16T19:04:27.010788+00:00",
   "items": [
     {
-      "titolo": "IBM triples entry-level hires for 2026 despite AI adoption, bucking industry trends — Chief HR officer says that AI can do most entry-level jobs, but work still requires a human touch",
-      "descrizione": "IBM is tripling its entry-level hiring in the U.S. in 2026, according to a new report. This stands in stark contrast to many of the country’s largest firms, especially in the tech world, which have conducted large-scale",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ibm-triples-entry-level-hires-for-2026-despite-ai-adoption-bucking-industry-trends-chief-hr-officer-says-that-ai-can-do-most-entry-level-jobs-but-work-still-requires-a-human-touch",
+      "titolo": "Meta annuncia Manus Agents per Telegram",
+      "descrizione": "Manus Agents permette di creare agenti AI personalizzati che possono eseguire azioni all'interno delle app di messaggistica (la prima è Telegram). The post Meta annuncia Manus Agents per Telegram appeared first on Punto",
+      "link": "https://www.punto-informatico.it/meta-annuncia-manus-agents-telegram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T18:35:15+00:00"
+    },
+    {
+      "titolo": "Open Innovation: in Italia il mercato supera i 900 milioni",
+      "descrizione": "Secondo l’Osservatorio Open Innovation Lookout 2026 l’ecosistema è cresciuto di 160 milioni in un anno. Aumentano i player specializzati e si rafforzano i modelli di collaborazione tra imprese, startup e partner tecnolog",
+      "link": "https://www.ilsole24ore.com/art/open-innovation-italia-mercato-supera-900-milioni-AIBfuaMB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-16T18:21:00+00:00"
+    },
+    {
+      "titolo": "Firefox corregge il bug della nuova scheda che appariva vuota",
+      "descrizione": "Mozilla rilascia Firefox 147.0.4 per correggere il bug della nuova scheda che appariva vuota e una falla di sicurezza CVE-2026-02447. The post Firefox corregge il bug della nuova scheda che appariva vuota appeared first",
+      "link": "https://www.punto-informatico.it/firefox-corregge-bug-nuova-scheda-appariva-vuota/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T18:14:20+00:00"
+    },
+    {
+      "titolo": "Apple rilascia le prime Beta delle versioni 26.4 dei suoi OS | Novità per i podcast",
+      "descrizione": "C'è anche un primo accenno di supporto alla cifratura end-to-end per i messaggi RCS.",
+      "link": "https://www.hdblog.it/apple/articoli/n648576/ios-ipados-macos-26-4-novita-podcast-watchos-tvos/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T17:50:00+00:00"
+    },
+    {
+      "titolo": "Lavori sulla A14: come funziona il rimborso del pedaggio",
+      "descrizione": "Gli automobilisti potranno chiedere il rimborso del pedaggio in caso di ritardi dovuti ai lavori nella galleria Vinci sulla A14 tra Pedaso e Grottammare. The post Lavori sulla A14: come funziona il rimborso del pedaggio",
+      "link": "https://www.punto-informatico.it/lavori-a14-come-funziona-rimborso-pedaggio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T17:38:07+00:00"
+    },
+    {
+      "titolo": "FrostSkin è la borraccia smart che raffredda l'acqua all'istante",
+      "descrizione": "A breve su Kickstarter.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648564/borraccia-smart-raffredda-acqua-frostskin/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T17:10:00+00:00"
+    },
+    {
+      "titolo": "Crisi dei chip, PlayStation 6 potrebbe arrivare molto in ritardo",
+      "descrizione": "Il colosso nipponico potrebbe puntare al 2028 o addirittura al 2029, mentre l'idea iniziale era il 2027.",
+      "link": "https://www.hdblog.it/sony/articoli/n648573/sony--ps6-posticipo-crisi-chip-quando-previsioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T17:05:00+00:00"
+    },
+    {
+      "titolo": "Meta lancia Manus Agents, l'AI avanzata arriva nelle chat",
+      "descrizione": "Manus Agents arriva su Telegram con AI avanzata e task multi-step.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648568/meta-manus-agents-telegram/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T16:55:00+00:00"
+    },
+    {
+      "titolo": "Eclissi anulare di Sole, è la prima dell'anno: ecco quando",
+      "descrizione": "Che meraviglia!",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648557/eclissi-anulare-sole-anello-di-fuoco-antartide/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T16:45:00+00:00"
+    },
+    {
+      "titolo": "I Samsung Galaxy Book6 arrivano in Italia: ecco date, prezzi e configurazioni",
+      "descrizione": "Appuntamento al 25 febbraio per i preordini, 11 marzo per le consegne.",
+      "link": "https://www.hdblog.it/portatili/articoli/n648570/samsung-galaxy-book6-preordini-prezzi-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T16:35:00+00:00"
+    },
+    {
+      "titolo": "Come usare l’AI per scrivere il CV e ottenere più colloqui di lavoro",
+      "descrizione": "L'intelligenza artificiale può aiutare a scrivere un CV efficace, ma solo se si usa nel modo giusto. Ecco come in cinque step. The post Come usare l’AI per scrivere il CV e ottenere più colloqui di lavoro appeared first",
+      "link": "https://www.punto-informatico.it/come-usare-ai-scrivere-cv-ottenere-piu-colloqui-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T16:30:49+00:00"
+    },
+    {
+      "titolo": "Indagine su cloud e AI: Microsoft è monopolista?",
+      "descrizione": "La FTC ha accelerato l'indagine avviata a fine 2024 nei confronti di Microsoft che riguarda il legame tra Azure e software, tra cui Windows e Office. The post Indagine su cloud e AI: Microsoft è monopolista? appeared fir",
+      "link": "https://www.punto-informatico.it/indagine-cloud-ai-microsoft-monopolista/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T16:26:53+00:00"
+    },
+    {
+      "titolo": "This external disc drive can play 4K 3D Blu-rays, along with all your old CDs and DVDs, now for 43% off — TROPRO's media player is just $79.99",
+      "descrizione": "If you've been looking for a way to access your Blu-ray collection on PC without breaking the bank, TROPRO's external disc drive has got you covered. With up to 6X Blu-ray, 8X DVD, and 24X CD read/write speeds, it can pl",
+      "link": "https://www.tomshardware.com/pc-components/this-external-disc-drive-can-play-4k-3d-blu-rays-along-with-all-your-old-cds-and-dvds-now-for-43-percent-off-tropros-media-player-is-just-usd79-99",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-16T13:33:17+00:00"
+      "data": "2026-02-16T16:22:17+00:00"
     },
     {
-      "titolo": "La piattaforma dove le AI affittano gli esseri umani è un flop",
-      "descrizione": "La piattaforma RentAHuman conta 470.000 umani affittabili dalle AI, ma un giornalista di Wired l'ha provata e ha scoperto incarichi fantasma. The post La piattaforma dove le AI affittano gli esseri umani è un flop appear",
-      "link": "https://www.punto-informatico.it/piattaforma-dove-ai-affittano-esseri-umani-flop/",
+      "titolo": "Xiaomi 17 Series in Europa, ecco quando arriva. Ma niente Pro",
+      "descrizione": "Chi era curioso di provare il device con display secondario sul retro rimarrà deluso.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648561/xiaomi-17-ultra-quando-europa-modelli-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T16:05:00+00:00"
+    },
+    {
+      "titolo": "Micro reattori nucleari rimpiazzeranno il carbone: società italiana ci lavora",
+      "descrizione": "Terra Innovatum assicura la filiera del micro reattore SOLO da 1 MWe scalabile fino a 1 GW.",
+      "link": "https://www.hdblog.it/green/articoli/n648454/micro-reattori-nucleari-solo-terra-innovatum/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T15:55:00+00:00"
+    },
+    {
+      "titolo": "Così un robot da 3.800 euro svela i segreti della corsa",
+      "descrizione": "Creato in Michigan, TROT cambia forma per studiare la locomozione animale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648441/robot-modulare-studio-velocita-animali/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T15:40:00+00:00"
+    },
+    {
+      "titolo": "Preparati ai viaggi primaverili con Saily: eSIM per tutto il mondo a prezzi SUPER",
+      "descrizione": "Piani per oltre 200 destinazioni, a partire da 2,99 dollari al mese: le eSIM Saily sono pronte ad accompagnarti nei tuoi prossimi viaggi, risparmiando. The post Preparati ai viaggi primaverili con Saily: eSIM per tutto i",
+      "link": "https://www.punto-informatico.it/preparati-ai-viaggi-primaverili-con-saily-esim-per-tutto-il-mondo-a-prezzi-super/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-16T13:01:57+00:00"
+      "data": "2026-02-16T15:37:40+00:00"
     },
     {
-      "titolo": "MediaWorld oltre l’elettronica: arriva la sezione Viaggi",
-      "descrizione": "Attraverso la collaborazione con Bluvacanze, la catena dell'elettronica di consumo lancia la sezione MediaWorld Viaggi sull'e-commerce. The post MediaWorld oltre l’elettronica: arriva la sezione Viaggi appeared first on",
-      "link": "https://www.punto-informatico.it/mediaworld-viaggi/",
+      "titolo": "Vivo V60 Lite, c'è una nuova variante che cambia un solo dettaglio",
+      "descrizione": "Quel dettaglio è nel chip.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648548/vivo-v60-lite-4g-variante-snapdragon/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T15:35:00+00:00"
+    },
+    {
+      "titolo": "I've been reviewing laptops for years - these older models work great and will save you money",
+      "descrizione": "Even as newer models hit the market, these previous-model laptops deliver reliable performance and exceptional value - and some of them are on sale for Presidents' Day.",
+      "link": "https://www.zdnet.com/article/older-laptop-presidents-day-deals/",
+      "fonte": "Latest news",
+      "data": "2026-02-16T15:31:40+00:00"
+    },
+    {
+      "titolo": "11 surprisingly cheap gadgets that are worth every penny (especially while on sale)",
+      "descrizione": "Presidents' Day is here, but I'd buy these inexpensive gadgets any time of year. Here's why.",
+      "link": "https://www.zdnet.com/article/my-favorite-under-25-presidents-day-sales/",
+      "fonte": "Latest news",
+      "data": "2026-02-16T15:16:57+00:00"
+    },
+    {
+      "titolo": "Evento Apple del 4 marzo: i dispositivi che saranno annunciati",
+      "descrizione": "La mela morsicata sta distribuendo gli inviti a un evento organizzato per il 4 marzo: vedremo quasi certamente i nuovi laptop MacBook. The post Evento Apple del 4 marzo: i dispositivi che saranno annunciati appeared firs",
+      "link": "https://www.punto-informatico.it/evento-apple-4-marzo/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-16T12:52:44+00:00"
+      "data": "2026-02-16T15:06:41+00:00"
     },
     {
-      "titolo": "Apple rinnova SEED: arriva Sales Coach l'app per la formazione dei venditori",
-      "descrizione": "Apple sarebbe pronta a lanciare una versione rinnovata della propria app interna per la formazione dei venditori",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648520/apple-rinnova-app-seed-sales-coach/",
+      "titolo": "Porsche Panamera 2027, il restyling si avvicina: nuove foto spia",
+      "descrizione": "Dai test in Nord Europa arrivano nuovi dettagli sulla prossima versione.",
+      "link": "https://www.hdmotori.it/porsche-panamera-2027-foto-spia-restyling-test-prototipo/",
       "fonte": "HDblog.it",
-      "data": "2026-02-16T12:40:00+00:00"
+      "data": "2026-02-16T15:00:44+00:00"
     },
     {
-      "titolo": "Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep",
-      "descrizione": "The Saatva Memory Foam Hybrid has been chosen for Olympians. Could it be the one for you, too?",
-      "link": "https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/",
-      "fonte": "WIRED",
-      "data": "2026-02-16T12:31:00+00:00"
+      "titolo": "The best Walmart sales for Presidents' Day",
+      "descrizione": "Presidents' Day sales are live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
+      "link": "https://www.zdnet.com/article/best-walmart-deals-presidents-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-02-16T14:47:59+00:00"
     },
     {
-      "titolo": "Jaecoo 8 SHS-P, la nuova ammiraglia ibrida Plug-in sta arrivando: tanto comfort, tecnologia e lusso",
-      "descrizione": "Nei primi mesi del 2026 debutterà sul mercato la nuova Jaecoo 8 SHS-P che punta a diventare l'ammiraglia della gamma Jaecoo",
-      "link": "https://www.hdmotori.it/jaecoo-8-shs-p-dimensioni-interni-motori-prestazioni/",
+      "titolo": "Amazon Prime Air, drone si schianta contro condominio",
+      "descrizione": "Il video dell'impatto.",
+      "link": "https://www.hdblog.it/droni/articoli/n648530/amazon-drone-consegna-pacchi-incidente-video/",
       "fonte": "HDblog.it",
-      "data": "2026-02-16T12:30:44+00:00"
-    },
-    {
-      "titolo": "MediaWorld Viaggi: debutta in Italia il portale online per le vacanze",
-      "descrizione": "MediaWorld Viaggi si integra con il programma MediaWorld Club, offrendo promozioni dedicate e vantaggi esclusivi ai clienti fidelizzati",
-      "link": "https://www.hdblog.it/mercato/articoli/n648521/mediaworld-viaggi-cose-comparatore/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T12:15:00+00:00"
-    },
-    {
-      "titolo": "Hyundai è favorevole alle E-Car, ma vuole regole chiare dall’UE",
-      "descrizione": "La nuova categoria dovrebbe alleggerire alcune normative per ridurre i costi di produzione.",
-      "link": "https://www.hdmotori.it/hyundai-categoria-europea-m1e-citycar/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T12:00:32+00:00"
-    },
-    {
-      "titolo": "WINBOT W3 Omni provato: il robot lavavetri di Ecovacs che ricorda una lavatrice",
-      "descrizione": "Abbiamo provato l'ultimo robot lavavetri di Ecovacs, il Winbot W3 Omni che arriva con una stazione di ricarica e pulizia dei panni che ricorda una lavatrice: si chiama Vortex Wash e potrebbe essere...",
-      "link": "https://www.hdblog.it/home/recensioni/n647473/winbot-w3-recensione-test-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T12:00:00+00:00"
-    },
-    {
-      "titolo": "Ecco Sodiumfrostglow, la torcia che funziona anche a 40 gradi sotto zero",
-      "descrizione": "A quelle temperature la batteria mantiene una carica residua dell'88%, grazie alla formulazione agli ioni di sodio. Una comune Li-ion scende ad appena il 15%.",
-      "link": "https://www.hdblog.it/home/articoli/n648519/torcia-batteria-ioni-sodio-freddo-estremo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:45:00+00:00"
-    },
-    {
-      "titolo": "Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for age of PC shortages",
-      "descrizione": "A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts.",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-16T11:45:00+00:00"
-    },
-    {
-      "titolo": "Ericsson e Leonardo testano le capacità del 5G su navi della Marina",
-      "descrizione": "Il progetto rientra nell’iniziativa europea EDF 5G COMPAD e ha visto l’installazione di una rete 5G SA autonoma a bordo delle navi San Giorgio e Raimondo Montecuccoli",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n648518/5g-sicuro-in-mare-marina-militare-ericcson-leonardo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:40:00+00:00"
-    },
-    {
-      "titolo": "Streaming e telefonia, cosa gradiscono gli utenti: Netflix in testa, Iliad guida il mobile",
-      "descrizione": "L’indagine annuale di Altroconsumo fotografa un equilibrio tra costo, qualità e semplicità,",
-      "link": "https://www.hdblog.it/tim/articoli/n648515/streaming-telefonia-netflix-iliad-mobile/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:35:00+00:00"
-    },
-    {
-      "titolo": "Waymo migliora la guida autonoma dei robotaxi",
-      "descrizione": "Waymo ha presentato ufficialmente la sesta generazione di Driver, l'intelligenza artificiale che governa i veicoli a guida autonoma (robotaxi). The post Waymo migliora la guida autonoma dei robotaxi appeared first on Pun",
-      "link": "https://www.punto-informatico.it/waymo-migliora-guida-autonoma-robotaxi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T11:33:43+00:00"
-    },
-    {
-      "titolo": "Portafoglio perso? Mai più con Air Card a 19€ per Android e iOS",
-      "descrizione": "L'Air Card di VOCOLinc ti permette di tracciare la posizione del tuo portafoglio con successo: prezzo mini su Amazon. The post Portafoglio perso? Mai più con Air Card a 19€ per Android e iOS appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/portafoglio-perso-mai-piu-con-air-card-a-19e-per-android-e-ios/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T11:33:41+00:00"
-    },
-    {
-      "titolo": "IT-Wallet e app IO: 10,1 milioni di italiani usano i documenti digitali",
-      "descrizione": "IT-Wallet diventa sempre più usato dagli italiani, ma non sostituisce i documenti fisici",
-      "link": "https://www.hdblog.it/mercato/articoli/n648509/io-app-it-wallet-10-milioni-documenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:15:00+00:00"
-    },
-    {
-      "titolo": "Caricatore per Apple Watch geniale: a soli 10€ è un’occasione Amazon",
-      "descrizione": "Ripristina la batteria del tuo Apple Watch con il perfetto caricatore: da usare anche in viaggio senza problemi, ora su Amazon. The post Caricatore per Apple Watch geniale: a soli 10€ è un’occasione Amazon appeared first",
-      "link": "https://www.punto-informatico.it/caricatore-per-apple-watch-geniale-a-soli-10e-e-unoccasione-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T11:12:27+00:00"
-    },
-    {
-      "titolo": "150 anni fa nasceva il telefono, lo strumento che ha creato il \"nostro\" mondo",
-      "descrizione": "Senza il telefono non ci sarebbe stato pressoché nulla di quello che oggi diamo per scontato, dall’AI agli smartphone, passando per internet e il mondo per come lo conosciamo",
-      "link": "https://www.hdblog.it/curiosita/articoli/n648511/telefono-150-anni-invenzione-bell-meucci/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:10:00+00:00"
-    },
-    {
-      "titolo": "Caviar, arrivano le edizioni di iPhone 17 Pro dedicate a San Valentino",
-      "descrizione": "Prezzo di partenza \"solo\" 10.400 dollari.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648512/caviar-iphone-17-pro-max-san-valentino/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T11:05:00+00:00"
-    },
-    {
-      "titolo": "Apple regala gli sfondi per l’Anno del Cavallo: come scaricarli",
-      "descrizione": "Apple ha pubblicato gli sfondi ufficiali gratuiti per l'Anno del Cavallo 2026, disponibili per iPhone, iPad, Mac e Apple Watch. The post Apple regala gli sfondi per l’Anno del Cavallo: come scaricarli appeared first on P",
-      "link": "https://www.punto-informatico.it/apple-regala-sfondi-anno-cavallo-come-scaricarli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T11:03:56+00:00"
-    },
-    {
-      "titolo": "Smart TV Samsung? Rimpiazza il telecomando con meno di 9€ (funziona subito)",
-      "descrizione": "Rimpiazza il vecchio telecomando Samsung con questo modello che non ha bisogno di programmazione in offerta su Amazon. The post Smart TV Samsung? Rimpiazza il telecomando con meno di 9€ (funziona subito) appeared first o",
-      "link": "https://www.punto-informatico.it/smart-tv-samsung-rimpiazza-il-telecomando-con-meno-di-9e-funziona-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T11:01:36+00:00"
-    },
-    {
-      "titolo": "Fritz!Box 4630 ufficiale: l'hub domestico Wi-Fi 7 affidabile per tutti | PREZZO",
-      "descrizione": "È relativamente economico, per gli standard dell'apprezzata azienda tedesca. Già disponibile in Italia",
-      "link": "https://www.hdblog.it/home/articoli/n648506/fritzbox-4630-hub-economico-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T10:55:00+00:00"
-    },
-    {
-      "titolo": "C’è chi continua a vendere e comprare DVD pirata",
-      "descrizione": "Amazon ha vinto la sua battaglia: siti offline, domini trasferiti e 6 milioni di indennizzo; affossato il network che vendeva DVD pirata. The post C’è chi continua a vendere e comprare DVD pirata appeared first on Punto",
-      "link": "https://www.punto-informatico.it/dvd-pirata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-16T10:54:37+00:00"
-    },
-    {
-      "titolo": "DJI Romo, grave falla permette di controllare migliaia di robot",
-      "descrizione": "Senza nemmeno violare i server DJI. Misure di sicurezza mal implementate. A quanto pare la falla si è risolta.",
-      "link": "https://www.hdblog.it/dji/articoli/n648507/dji-romo-falla-sicurezza-server-controllo-remoto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-16T10:45:00+00:00"
+      "data": "2026-02-16T14:45:00+00:00"
     }
   ]
 }
