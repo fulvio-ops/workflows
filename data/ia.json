@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T03:21:05.210397+00:00",
+  "last_updated": "2026-02-16T07:31:26.839757+00:00",
   "items": [
     {
       "titolo": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Arriva Claude Opus 4.6, l’intelligenza artificiale di Anthropic punta alle aziende",
-      "descrizione": "Contesto esteso, agenti collaborativi e integrazione nei flussi aziendali: la sfida a OpenAI e Google non è sullo spettacolo, ma sulla produttività reale delle imprese.",
-      "link": "https://www.ilsole24ore.com/art/arriva-claude-opus-46-l-intelligenza-artificiale-anthropic-punta-aziende-AIqJrSHB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-06T07:52:35+00:00",
+      "titolo": "Il Pentagono vuole Claude senza limiti, Anthropic dice no",
+      "descrizione": "Anthropic si oppone al Pentagono che vuole usare Claude senza restrizioni per scopi militari. A rischio il contratto da 200 milioni di dollari. The post Il Pentagono vuole Claude senza limiti, Anthropic dice no appeared",
+      "link": "https://www.punto-informatico.it/pentagono-vuole-claude-senza-limiti-anthropic-dice-no/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T06:04:52+00:00",
       "modello": "claude"
     }
   ]

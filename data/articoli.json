@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-02-16T03:21:00.486524+00:00",
+  "last_updated": "2026-02-16T07:31:23.448063+00:00",
   "items": [
+    {
+      "titolo": "Jwiki è come Wikipedia, ma per il caso Epstein: cosa trovi",
+      "descrizione": "L'archivio degli Epstein Files indicizzato in un'interfaccia che replica quella di Wikipedia: cosa trovi (e cosa non trovi) su Jwiki. The post Jwiki è come Wikipedia, ma per il caso Epstein: cosa trovi appeared first on",
+      "link": "https://www.punto-informatico.it/jwiki/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T07:28:54+00:00"
+    },
+    {
+      "titolo": "Laser AI su UGV: l’India sorprende con il sistema più compatto",
+      "descrizione": "India testa un laser AI da 2 kW su robot terrestre diesel compatto.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648433/india-laser-ai-ugv/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T06:20:00+00:00"
+    },
+    {
+      "titolo": "Web hosting IONOS a 0€ per 12 mesi: dominio, SSL e assistenza 24/7 inclusi",
+      "descrizione": "IONOS offre hosting europeo con 99,99% uptime, dominio e SSL inclusi, assistenza italiana 24/7 e primo anno gratis su piano selezionato con 120€ di sconto. The post Web hosting IONOS a 0€ per 12 mesi: dominio, SSL e assi",
+      "link": "https://www.punto-informatico.it/web-hosting-ionos-a-0e-per-12-mesi-dominio-ssl-e-assistenza-24-7-inclusi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T06:07:09+00:00"
+    },
+    {
+      "titolo": "Honor MagicPad 4, annuncio a sorpresa: arriva in Italia il 2 marzo",
+      "descrizione": "Potente e sottile: ecco cosa sappiamo.",
+      "link": "https://www.hdblog.it/tablet/articoli/n648430/honor-magicpad-4-lancio-italia-coupon-data-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T06:05:00+00:00"
+    },
+    {
+      "titolo": "I più venduti su Amazon Haul a prezzi stracciati",
+      "descrizione": "I prodotti più venduti su Amazon Haul in questo momento li trovi a prezzi stracciati in offerta speciale: approfittane prima che finiscano. The post I più venduti su Amazon Haul a prezzi stracciati appeared first on Punt",
+      "link": "https://www.punto-informatico.it/i-piu-venduti-su-amazon-haul-a-prezzi-stracciati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-16T06:00:52+00:00"
+    },
+    {
+      "titolo": "iOS 27, Apple lavora su pulizia del codice per migliorare prestazioni e autonomia",
+      "descrizione": "Apple starebbe lavorando a un riordino interno del sistema operativo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648437/ios-27-apple-pulizia-codice/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-16T06:00:00+00:00"
+    },
     {
       "titolo": "Imparare una lingua straniera ora è facile: super prezzo per il piano Lifetime di Babbel",
       "descrizione": "Con Babbel è possibile imparare facilmente una lingua straniera: per tutti i nuovi utenti il piano Lifetime è in offerta con un prezzo super. The post Imparare una lingua straniera ora è facile: super prezzo per il piano",
@@ -126,48 +168,6 @@
       "link": "https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/",
       "fonte": "WIRED",
       "data": "2026-02-15T11:00:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17 Ultra è tra i migliori cameraphone per DxOMark",
-      "descrizione": "Tra i migliori ma non il migliore: ecco perché.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648400/xiaomi-17-ultra-fotocamera-dxomark-test-classifica/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T10:05:00+00:00"
-    },
-    {
-      "titolo": "Tiny Mac look-a-like alarm clock transformed to run real Mac software",
-      "descrizione": "A vintage technology enthusiast has turned a miniature Mac-a-like desk toy alarm clock into a real Mac software running computer.",
-      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tiny-mac-look-a-like-alarm-clock-transformed-to-run-real-mac-software",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-15T10:00:00+00:00"
-    },
-    {
-      "titolo": "Oppo Find N6 si affaccia su Geekbench con uno Snapdragon 8 Elite Gen 5 particolare",
-      "descrizione": "Una variante del chip ancora non annunciata da Qualcomm.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648397/oppo-find-n6-chip-benchmark-snapdragon-7-core/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T09:05:00+00:00"
-    },
-    {
-      "titolo": "L’Ai non colpisce tutti allo stesso modo: così il mondo del lavoro si polarizza",
-      "descrizione": "Gli effetti variano a seconda del tipo di compiti coinvolti, e del contesto politico - sociale e del livello di sviluppo digitale dei singoli Paesi",
-      "link": "https://www.ilsole24ore.com/art/l-ai-non-colpisce-tutti-stesso-modo-cosi-mondo-lavoro-si-polarizza-AI4SgeQB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-15T08:59:58+00:00"
-    },
-    {
-      "titolo": "GWM: la nuova strategia per conquistare l'Europa (e l'Italia)",
-      "descrizione": "GWM rilancia in Europa con ibridi e benzina, punta a 1 milione di vendite entro il 2030 e a una fabbrica da 300mila auto l’anno",
-      "link": "https://www.hdmotori.it/great-wall-motor-ritorno-europa-ibridi-benzina-2030/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T08:30:32+00:00"
-    },
-    {
-      "titolo": "Problemi al razzo SLS, Artemis II potrebbe slittare ancora",
-      "descrizione": "Perdite di idrogeno e nuovi test rinviano Artemis II.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648398/artemis-ii-perdite-idrogeno-sls/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-15T08:05:00+00:00"
     }
   ]
 }
