@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-17T13:40:29.985986+00:00",
+  "last_updated": "2026-02-17T19:16:25.514368+00:00",
   "items": [
     {
-      "titolo": "Power Bank INIU da 10000mAh: leggero, potente e super economico",
-      "descrizione": "Il Power Bank INIU da 10000 mAh è leggero, potente, ha una ricarica rapida e costa solo 18 euro circa su Amazon, un vero affare. The post Power Bank INIU da 10000mAh: leggero, potente e super economico appeared first on",
-      "link": "https://www.punto-informatico.it/power-bank-iniu-10000mah-leggero-potente-super-economico/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-17T09:34:49+00:00",
+      "titolo": "How ChatGPT's new Lockdown Mode protects you from cyberattacks - and why it's not for everyone",
+      "descrizione": "The new security option is designed to thwart prompt-injection attacks that aim to steal your confidential data.",
+      "link": "https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/",
+      "fonte": "Latest news",
+      "data": "2026-02-17T17:59:16+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude per attività militari, Anthropic contro il Pentagono",
-      "descrizione": "Anthropic non vuole che Claude venga usato per armi autonome e sorveglianza di massa, quindi il Pentagono potrebbe inserire l'azienda in una blacklist. The post Claude per attività militari, Anthropic contro il Pentagono",
-      "link": "https://www.punto-informatico.it/claude-attivita-militari-anthropic-contro-pentagono/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-17T09:55:18+00:00",
+      "titolo": "Claude Sonnet 4.6 delivers frontier-level AI for free and cheap-seat users",
+      "descrizione": "Anthropic is positioning Sonnet 4.6 as a practical daily driver. In many cases, it's even faster than Opus 4.6.",
+      "link": "https://www.zdnet.com/article/claude-sonnet-4-6-delivers-frontier-level-ai-for-free-and-cheap-seat-users/",
+      "fonte": "Latest news",
+      "data": "2026-02-17T18:00:30+00:00",
       "modello": "claude"
     }
   ]
