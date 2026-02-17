@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-17T03:15:02.370236+00:00",
+  "last_updated": "2026-02-17T07:16:56.929964+00:00",
   "items": [
     {
-      "titolo": "SoftBank’s $4.2bn OpenAI gain lifts quarterly profits as AI exposure deepens — company swings back to profitability in Q3 results",
-      "descrizione": "SoftBank swung back to profitability in its fiscal third quarter, reporting net income of 248.6 billion yuan — roughly $1.6 billion — for the three months ending December.",
-      "link": "https://www.tomshardware.com/tech-industry/softbank-4-2-bn-openai-gain-lifts-quarterly-profit-as-ai-exposure-deepens",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-16T17:29:15+00:00",
+      "titolo": "ChatGPT: arriva la Lockdown Mode contro gli attacchi hacker",
+      "descrizione": "OpenAI lancia la Lockdown Mode in ChatGPT per proteggere utenti e aziende dagli attacchi di prompt injection. Limita le connessioni esterne. The post ChatGPT: arriva la Lockdown Mode contro gli attacchi hacker appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-lockdown-mode-contro-attacchi-hacker/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-17T05:41:04+00:00",
       "modello": "chatgpt"
     }
   ]
