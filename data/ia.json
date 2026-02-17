@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-02-17T07:16:56.929964+00:00",
+  "last_updated": "2026-02-17T13:40:29.985986+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: arriva la Lockdown Mode contro gli attacchi hacker",
-      "descrizione": "OpenAI lancia la Lockdown Mode in ChatGPT per proteggere utenti e aziende dagli attacchi di prompt injection. Limita le connessioni esterne. The post ChatGPT: arriva la Lockdown Mode contro gli attacchi hacker appeared f",
-      "link": "https://www.punto-informatico.it/chatgpt-lockdown-mode-contro-attacchi-hacker/",
+      "titolo": "Power Bank INIU da 10000mAh: leggero, potente e super economico",
+      "descrizione": "Il Power Bank INIU da 10000 mAh è leggero, potente, ha una ricarica rapida e costa solo 18 euro circa su Amazon, un vero affare. The post Power Bank INIU da 10000mAh: leggero, potente e super economico appeared first on",
+      "link": "https://www.punto-informatico.it/power-bank-iniu-10000mah-leggero-potente-super-economico/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-17T05:41:04+00:00",
+      "data": "2026-02-17T09:34:49+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Tech tinkerer gets Gemini to help him 'vibe code' an x86 motherboard design — bot help was impressive, but project still required human awareness and intervention",
+      "descrizione": "Tech thinkerer gets Gemini to help him design an x86 motherboard",
+      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tech-tinkerer-gets-gemini-to-help-him-design-an-x86-motherboard-from-scratch-bot-help-was-impressive-but-project-still-required-human-awareness-and-intervention",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-17T11:40:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude per attività militari, Anthropic contro il Pentagono",
+      "descrizione": "Anthropic non vuole che Claude venga usato per armi autonome e sorveglianza di massa, quindi il Pentagono potrebbe inserire l'azienda in una blacklist. The post Claude per attività militari, Anthropic contro il Pentagono",
+      "link": "https://www.punto-informatico.it/claude-attivita-militari-anthropic-contro-pentagono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-17T09:55:18+00:00",
+      "modello": "claude"
     }
   ]
 }
