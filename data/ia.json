@@ -1,29 +1,45 @@
 {
-  "last_updated": "2026-02-18T13:41:58.239077+00:00",
+  "last_updated": "2026-02-18T19:16:32.705084+00:00",
   "items": [
     {
-      "titolo": "ChatGPT più sicurezza con la Lockdown Mode: cos'è e a chi serve davvero",
-      "descrizione": "Arriva anche un sistema di etichette che segnala le funzionalità considerate a rischio elevato.",
-      "link": "https://www.hdblog.it/business/articoli/n648785/chatgpt-rafforza-sicurezza-lockdown-mode/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:25:00+00:00",
+      "titolo": "This local AI quickly replaced Ollama on my Mac - here's why",
+      "descrizione": "If you're going to use AI, running it locally is the way to go, and GPT4All makes is surprisingly easy.",
+      "link": "https://www.zdnet.com/article/local-ai-gpt4all-replaced-ollama-mac-why/",
+      "fonte": "Latest news",
+      "data": "2026-02-18T17:30:35+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google I/O 2026: si parte il 19 maggio, cosa aspettarsi",
-      "descrizione": "Google I/O 2026 si terrà il 19 e 20 maggio. L'evento sarà incentrato sulle novità di Gemini, Android e le funzioni AI. Al via le iscrizioni. The post Google I/O 2026: si parte il 19 maggio, cosa aspettarsi appeared first",
-      "link": "https://www.punto-informatico.it/google-i-o-2026-si-parte-19-maggio-cosa-aspettarsi/",
+      "titolo": "Bug in Microsoft 365: Copilot riassume email confidenziali",
+      "descrizione": "Un bug presente in Microsoft 365 Copilot che ha permesso all’assistente di riassumere email confidenziali, ignorando le policy di Data Loss Prevention. The post Bug in Microsoft 365: Copilot riassume email confidenziali",
+      "link": "https://www.punto-informatico.it/bug-microsoft-365-copilot-riassume-email-confidenziali/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-18T10:00:54+00:00",
+      "data": "2026-02-18T18:16:08+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google integra Lyria 3 nell’app Gemini per generare musica",
+      "descrizione": "Google espande le capacità creative dell'app Gemini con Lyria 3, il modello che permette di generare musica a partire da testo, immagini e video. The post Google integra Lyria 3 nell’app Gemini per generare musica appear",
+      "link": "https://www.punto-informatico.it/google-integra-lyria-3-app-gemini-generare-musica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T17:20:46+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Sonnet 4.6 delivers frontier-level AI for free and cheap-seat users",
-      "descrizione": "Anthropic is positioning Sonnet 4.6 as a practical daily driver. In many cases, it's even faster than Opus 4.6.",
-      "link": "https://www.zdnet.com/article/claude-sonnet-4-6-delivers-frontier-level-ai-for-free-and-cheap-seat-users/",
-      "fonte": "Latest news",
-      "data": "2026-02-17T18:00:30+00:00",
+      "titolo": "9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro",
+      "descrizione": "ChatGPT è stato il primo chatbot, ma Claude Opus 4.6 lo ha superato in scrittura naturale, memoria estesa, ragionamento adattivo, ecc. The post 9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro appeared first on",
+      "link": "https://www.punto-informatico.it/9-motivi-claude-opus-4-6-supera-chatgpt-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T16:30:58+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "This local AI quickly replaced Ollama on my Mac - here's why",
+      "descrizione": "If you're going to use AI, running it locally is the way to go, and GPT4All makes is surprisingly easy.",
+      "link": "https://www.zdnet.com/article/local-ai-gpt4all-replaced-ollama-mac-why/",
+      "fonte": "Latest news",
+      "data": "2026-02-18T17:30:35+00:00",
+      "modello": "altri"
     }
   ]
 }

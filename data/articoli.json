@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-02-18T13:41:54.653389+00:00",
+  "last_updated": "2026-02-18T19:16:29.463419+00:00",
   "items": [
     {
-      "titolo": "FIAT Topolino XS, ecco l'idea di Wini Camacho per la mobilità: c'è anche la versione Abarth",
-      "descrizione": "La FIAT Topolino XS è un concept digitale di una microcar del futuro pensata per muoversi agilmente in città e non solo",
-      "link": "https://www.hdmotori.it/fiat-topolino-xs-abarth-microcar-wini-camacho/",
+      "titolo": "Bug in Microsoft 365: Copilot riassume email confidenziali",
+      "descrizione": "Un bug presente in Microsoft 365 Copilot che ha permesso all’assistente di riassumere email confidenziali, ignorando le policy di Data Loss Prevention. The post Bug in Microsoft 365: Copilot riassume email confidenziali",
+      "link": "https://www.punto-informatico.it/bug-microsoft-365-copilot-riassume-email-confidenziali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T18:16:08+00:00"
+    },
+    {
+      "titolo": "Amazon, uno dei peggiori crolli in borsa di sempre: $450 mld in fumo",
+      "descrizione": "L'annuncio negli scorsi giorni dell'intenzione di spendere ben 200 miliardi di dollari quasi tutti nell'AI in un solo anno ha lasciato un po' di stucco gli investitori.",
+      "link": "https://www.hdblog.it/amazon/articoli/n648852/amazon-crollo-borsa-ai-investimenti/",
       "fonte": "HDblog.it",
-      "data": "2026-02-18T12:30:16+00:00"
+      "data": "2026-02-18T18:10:00+00:00"
+    },
+    {
+      "titolo": "Amazon Fire TV, in distribuzione negli USA un profondo restyling dell'interfaccia",
+      "descrizione": "Si parte dagli USA e da un numero limitato di dispositivi. Nei prossimi mesi l'espansione anche in altri mercati.",
+      "link": "https://www.hdblog.it/tv/articoli/n648851/amazon-fire-tv-restyling-interfaccia-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T17:40:00+00:00"
+    },
+    {
+      "titolo": "Microsoft ora è 100% con energia rinnovabile: i piani per il futuro",
+      "descrizione": "L'obiettivo è \"carbon negative\".",
+      "link": "https://www.hdblog.it/microsoft/articoli/n648841/microsoft--energia-rinnovabile-piani-futuro/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T17:25:00+00:00"
+    },
+    {
+      "titolo": "A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft",
+      "descrizione": "A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited.",
+      "link": "https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/",
+      "fonte": "WIRED",
+      "data": "2026-02-18T17:22:10+00:00"
+    },
+    {
+      "titolo": "Google integra Lyria 3 nell’app Gemini per generare musica",
+      "descrizione": "Google espande le capacità creative dell'app Gemini con Lyria 3, il modello che permette di generare musica a partire da testo, immagini e video. The post Google integra Lyria 3 nell’app Gemini per generare musica appear",
+      "link": "https://www.punto-informatico.it/google-integra-lyria-3-app-gemini-generare-musica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T17:20:46+00:00"
+    },
+    {
+      "titolo": "The best Android phones of 2026: Expert tested and reviewed",
+      "descrizione": "We tested the best Android phones that offer bright and ultra-smooth displays, reliable battery life, versatile cameras, and standout software.",
+      "link": "https://www.zdnet.com/article/best-android-phone/",
+      "fonte": "Latest news",
+      "data": "2026-02-18T17:01:12+00:00"
+    },
+    {
+      "titolo": "Ecco Lyria 3: Google con Gemini porta la musica generativa negli smartphone",
+      "descrizione": "Con Lyria 3 integrato in Gemini basta una frase, un’immagine o un documento per ottenere una traccia completa, testi inclusi e filigrana anti-deepfake",
+      "link": "https://www.ilsole24ore.com/art/ecco-lyria-3-google-gemini-porta-musica-generativa-smartphone-AI24tDUB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-18T16:43:59+00:00"
+    },
+    {
+      "titolo": "Nearly half of PC gamers prefer DLSS 4.5 over AMD's FSR and even native rendering — Nvidia scores clean sweep in blind test of six titles",
+      "descrizione": "In a new blind test featuring six different games, users heavily preferred the image quality of DLSS 4.5 and crowned it as the best against FSR 4 and native rendering. Nvidia walked away with 48.2% of all votes, with nat",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nearly-half-of-pc-gamers-prefer-dlss-4-5-over-amds-fsr-and-even-native-rendering-nvidia-scores-clean-sweep-in-blind-test-of-six-titles",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-18T16:41:11+00:00"
+    },
+    {
+      "titolo": "9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro",
+      "descrizione": "ChatGPT è stato il primo chatbot, ma Claude Opus 4.6 lo ha superato in scrittura naturale, memoria estesa, ragionamento adattivo, ecc. The post 9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro appeared first on",
+      "link": "https://www.punto-informatico.it/9-motivi-claude-opus-4-6-supera-chatgpt-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T16:30:58+00:00"
+    },
+    {
+      "titolo": "Shelly è pronta a entrare nel settore delle videocamere di sorveglianza",
+      "descrizione": "I dettagli sono ancora molto scarsi, ma una promessa è già chiarissima: niente abbonamenti, niente cloud obbligatorio.",
+      "link": "https://www.hdblog.it/domotica/articoli/n648838/shelly-camera-videosorveglianza/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T16:25:00+00:00"
+    },
+    {
+      "titolo": "HONOR Magic8 Lite: resistente con elevata autonomia",
+      "descrizione": "HONOR Magic8 Lite è uno smartphone di fascia media con schermo da 6,79 pollici, processore Snapdragon 6 Gen 4, 8 GB di RAM e 256/512 GB di storage. The post HONOR Magic8 Lite: resistente con elevata autonomia appeared fi",
+      "link": "https://www.punto-informatico.it/honor-magic8-lite-resistente-elevata-autonomia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T16:23:48+00:00"
+    },
+    {
+      "titolo": "BlueBird 6 dispiega l’antenna spaziale più grande mai vista",
+      "descrizione": "BlueBird 6 dispiega l’antenna più grande in orbita bassa per 4G e 5G diretti su smartphone.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648719/bluebird-6-antenna-spazio-leo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T16:20:00+00:00"
+    },
+    {
+      "titolo": "Edifici a energia zero? L’AI li progetta in tempo reale",
+      "descrizione": "Un gemello digitale con AI simula energia e comfort nei zero energy building in tempo reale.",
+      "link": "https://www.hdblog.it/home/articoli/n648810/ai-gemello-digitale-zero-energy-building/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T15:55:00+00:00"
+    },
+    {
+      "titolo": "Scout rimanda tutto al 2028. E non sarà elettrica",
+      "descrizione": "Politiche USA, Rivian e problemi meccanici tra le cause dei nuovi ritardi",
+      "link": "https://www.hdmotori.it/scout-usa-rinvio-2028/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T15:30:56+00:00"
+    },
+    {
+      "titolo": "F-35: ministro olandese vuole craccare il software",
+      "descrizione": "Il Ministro della Difesa olandese ha dichiarato che il software degli F-35 può essere modificato come avviene con gli iPhone per non dipendere dagli USA. The post F-35: ministro olandese vuole craccare il software appear",
+      "link": "https://www.punto-informatico.it/f-35-ministro-olandese-vuole-craccare-software/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T15:15:41+00:00"
+    },
+    {
+      "titolo": "Kawasaki e l'innovativo motore ibrido gas-idrogeno",
+      "descrizione": "Kawasaki avvia ordini per il primo motore a gas al 30% idrogeno.",
+      "link": "https://www.hdblog.it/green/articoli/n648817/kawasaki-motore-gas-30-idrogeno/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T15:10:00+00:00"
+    },
+    {
+      "titolo": "Linux su Mac con chip Apple M3: progressi concreti, ma nessuna data di rilascio",
+      "descrizione": "Asahi Linux avanza sul supporto ai Mac con chip M3: tastiera, Wi-Fi e archiviazione già funzionano, ma il rilascio ufficiale non è ancora vicino. The post Linux su Mac con chip Apple M3: progressi concreti, ma nessuna da",
+      "link": "https://www.punto-informatico.it/linux-su-mac-con-chip-apple-m3-progressi-concreti-ma-nessuna-data-di-rilascio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T15:04:47+00:00"
+    },
+    {
+      "titolo": "Pixel 10a è ufficiale: cosa cambia per il mid-range di Google",
+      "descrizione": "Tutto quello che c'è da sapere su Pixel 10a, il nuovo smartphone di Google: stesso processore del 9a, tanta AI e Android sempre aggiornato. The post Pixel 10a è ufficiale: cosa cambia per il mid-range di Google appeared",
+      "link": "https://www.punto-informatico.it/pixel-10a-e-ufficiale-cosa-cambia-per-il-mid-range-di-google/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T15:00:54+00:00"
+    },
+    {
+      "titolo": "Elegoo Centauri Carbon 2 Review: A Four-Color Variant",
+      "descrizione": "Elegoo promised a color add-on, but instead gave us a whole new printer.",
+      "link": "https://www.tomshardware.com/3d-printing/elegoo-centauri-carbon-2-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-18T15:00:00+00:00"
+    },
+    {
+      "titolo": "Nvidia sells off final Arm shares, but licensing deals will continue — $140 million stake sold, equating to 1.1 million shares",
+      "descrizione": "Nvidia has sold off the last of its shares in Arm Holdings, some six years after it attempted to buy the company outright for $40 billion, but was stopped by EU and UK regulators. The sale amounts to 1.1 million shares w",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-sells-off-final-arm-shares-but-licensing-deals-will-continue-usd140-million-stake-sold-equating-to-1-1-million-shares",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-18T14:24:09+00:00"
+    },
+    {
+      "titolo": "Perplexity: niente più pubblicità, alla faccia di ChatGPT",
+      "descrizione": "Perplexity fa marcia indietro sulle pubblicità e si schiera con Anthropic. L'azienda punta su abbonamenti e clienti business. The post Perplexity: niente più pubblicità, alla faccia di ChatGPT appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/perplexity-niente-piu-pubblicita-alla-faccia-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T14:21:42+00:00"
+    },
+    {
+      "titolo": "Il vero segnale di rinascimento industriale? Il numero di startup da 1 milione, non i miliardi investiti",
+      "descrizione": "Per parlare seriamente di rinascimento industriale delle startup dovremmo smettere di inseguire la retorica dei miliardi investiti e concentrare l’attenzione su una metrica diversa, meno appariscente ma più predittiva: i",
+      "link": "https://www.ilsole24ore.com/art/il-vero-segnale-rinascimento-industriale-numero-startup-1-milione-non-miliardi-investiti-AI6huMUB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-18T13:51:00+00:00"
     },
     {
       "titolo": "Save $600 on this RTX 5080-powered Alienware gaming PC, down to its best price in months — just $2,399.99 for 4K-capable rig equipped with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD",
@@ -14,160 +168,6 @@
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd600-on-this-rtx-5080-powered-alienware-gaming-pc-down-to-its-best-price-in-months-just-usd2-399-99-for-4k-capable-rig-equipped-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-18T12:12:14+00:00"
-    },
-    {
-      "titolo": "Data storage Guinness World Record broken by QR code pixels measuring just 49nm — 1.98 sq micrometer size is smaller than bacteria, can only be read with an electron microscope",
-      "descrizione": "A collaboration between TU Wien and Cerabyte has established a new Guinness World Record for creating and reading the smallest ever QR codes.",
-      "link": "https://www.tomshardware.com/pc-components/storage/data-storage-guinness-world-record-broken-by-qr-code-measuring-just-49nm-pixels-1-98-sq-micrometer-size-is-smaller-than-bacteria-can-only-be-read-with-an-electron-microscope",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T12:05:35+00:00"
-    },
-    {
-      "titolo": "Perplexity si distanzia dalla pubblicità nell'AI: compromette la fiducia degli utenti",
-      "descrizione": "Magari se ne riparlerà in futuro, ma per ora si punta a rendere il servizio allettante ai consumatori (soprattutto quelli business e Pro).",
-      "link": "https://www.hdblog.it/mercato/articoli/n648794/perplexity-pubblicita-ai-chatbot-abbandono/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T12:05:00+00:00"
-    },
-    {
-      "titolo": "Pacchi da Temu e Shein: la tassa da 2 euro è già un fallimento?",
-      "descrizione": "La tassa italiana di 2 euro sui pacchi extra-UE viene aggirata, le merci atterrano in altri aeroporti europei e arrivano in Italia via terra. The post Pacchi da Temu e Shein: la tassa da 2 euro è già un fallimento? appea",
-      "link": "https://www.punto-informatico.it/pacchi-temu-shein-tassa-2-euro-fallimento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T12:03:40+00:00"
-    },
-    {
-      "titolo": "Mansory Carbonado X, una Revuelto da oltre 1.100 CV interamente in carbonio",
-      "descrizione": "Carrozzeria quasi interamente rifatta in carbonio forgiato e potenza complessiva che raggiunge i 1.104 CV",
-      "link": "https://www.hdmotori.it/mansory-carbonado-x-lamborghini-revuelto-carbonio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T12:00:25+00:00"
-    },
-    {
-      "titolo": "F1 e Moto GP 2026 le punte della stagione motori Sky: calendario e coperture",
-      "descrizione": "La stagione 2026 di Formula 1 prenderà il via l’8 marzo all’Albert Park di Melbourne, con la nuova rivoluzione tecnica varata dalla FIA",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n648790/sky-f1-motogp-2026-stagione-motori-now/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:45:00+00:00"
-    },
-    {
-      "titolo": "$1,000 bought an RTX 5080 in November 2025, now it only buys an RTX 5070 Ti — report shows 15% average global price hike across Nvidia, AMD & Intel GPUs",
-      "descrizione": "Nvidia's RTX 5090 is the most overpriced GPU in the world, selling at 65% above its MSRP while AMD's RX 9070 XT saw the smallest price hike of just 7% worldwide. India has been hit the worse with extreme price surges, wh",
-      "link": "https://www.tomshardware.com/pc-components/gpus/usd1-000-bought-an-rtx-5080-in-november-2025-now-it-only-buys-an-rtx-5070-ti-report-shows-15-percent-average-global-price-hike-across-nvidia-amd-and-intel-gpus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T11:40:00+00:00"
-    },
-    {
-      "titolo": "Social media: ban anche in Germania, manca solo l’Italia",
-      "descrizione": "Anche la Germania si unisce ai paesi europei che vogliono impedire ai minori di accedere ai social media, in quanto pericolosi per la salute mentale. The post Social media: ban anche in Germania, manca solo l’Italia appe",
-      "link": "https://www.punto-informatico.it/social-media-ban-anche-germania-manca-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T11:36:32+00:00"
-    },
-    {
-      "titolo": "I TV da 130\" costeranno almeno il 50% in più di quelli da 116\" | Counterpoint",
-      "descrizione": "Se non altro i costi degli OLED stanno cominciando a scendere in modo importante.",
-      "link": "https://www.hdblog.it/tv/articoli/n648788/tv-pannelli-costi-produzione-oled-lcd/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:35:00+00:00"
-    },
-    {
-      "titolo": "F1, più della metà delle monoposto non ha ancora l’omologazione FIA",
-      "descrizione": "Petronas, ExxonMobil e Aramco non hanno ancora superato i controlli FIA per i carburanti sostenibili",
-      "link": "https://www.hdmotori.it/f1-omologazione-carburanti-problema/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:30:09+00:00"
-    },
-    {
-      "titolo": "Are Mushroom Supplements Worth Taking? (2026)",
-      "descrizione": "We spoke with registered dietitians and tested popular formulas to break down the research behind functional fungi.",
-      "link": "https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/",
-      "fonte": "WIRED",
-      "data": "2026-02-18T11:30:00+00:00"
-    },
-    {
-      "titolo": "Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow — company sees perf-per-watt improvements of up to 2X in some CPU workloads",
-      "descrizione": "As part of a broad partnership announced today, Nvidia says Meta will deploy its Arm-powered Grace server CPUs as standalone platforms in production data centers to boost performance-per-watt in certain workloads.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T11:20:00+00:00"
-    },
-    {
-      "titolo": "15mila euro spariti in pochi minuti: la truffa bancaria dal lieto fine",
-      "descrizione": "\"Riottenere i soldi è possibile\", spiega l'associazione Codici: basta trovare la forza di superare la vergogna",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n648780/truffa-bancaria-riavere-denaro/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:10:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 supporta finalmente MIDI 2.0, i musicisti ringraziano",
-      "descrizione": "Windows 11 supporta finalmente lo standard MIDI 2.0 con un'infrastruttura unificata che modernizza anche il MIDI 1.0. The post Windows 11 supporta finalmente MIDI 2.0, i musicisti ringraziano appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/windows-11-supporta-finalmente-midi-2-0-musicisti-ringraziano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T11:05:48+00:00"
-    },
-    {
-      "titolo": "Rog Xbox Ally scende di prezzo con l'extra sconto di eBay",
-      "descrizione": "In controtendenza rispetto a quanto sta accadendo al modello X in Giappone (per ora).",
-      "link": "https://www.hdblog.it/ebay/offerte/n648777/rog-xbox-ally-offerta-feb26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:02:00+00:00"
-    },
-    {
-      "titolo": "Nuova Opel Corsa Yes: dotazioni, motori e prezzi dell'edizione speciale",
-      "descrizione": "Disponibile in Italia la nuova Corsa Yes Special Edition con una più ricca dotazione e motori benzina o ibridi",
-      "link": "https://www.hdmotori.it/opel-corsa-yes-dotazioni-motori-prezzi-edizione-speciale/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T11:00:34+00:00"
-    },
-    {
-      "titolo": "Ericsson potenzia le capacità 5G di Windows 11 per le aziende",
-      "descrizione": "Una piattaforma che permette ai PC idonei di essere sempre connessi a prescindere da SIM e rete disponibile.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n648776/windows-11-5g-piattaforma-ericsson/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T10:55:00+00:00"
-    },
-    {
-      "titolo": "Le cuffie sono tossiche? Studio mostra i potenziali pericoli sulla nostra salute",
-      "descrizione": "Sotto esame l'uso quotidiano delle cuffie.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n648757/cuffie-tossiche-sostanze-chimiche-studio-salute/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T10:50:00+00:00"
-    },
-    {
-      "titolo": "Microreattore nucleare USA, via libera chiave al Kaleidos",
-      "descrizione": "Il DOE approva il microreattore Kaleidos di Radiant per i test finali.",
-      "link": "https://www.hdblog.it/green/articoli/n648718/microreattore-nucleare-usa-via-libera-chiave-al-kaleidos/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T10:45:00+00:00"
-    },
-    {
-      "titolo": "Snapchat lancia il programma di abbonamento ai creator: tratterrà il 40%",
-      "descrizione": "Lo scopo è quello di creare un nuovo flusso di ricavi costanti",
-      "link": "https://www.hdblog.it/mercato/articoli/n648775/snapchat-programma-abbonamento-creator/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T10:40:00+00:00"
-    },
-    {
-      "titolo": "Google I/O 2026: si parte il 19 maggio, cosa aspettarsi",
-      "descrizione": "Google I/O 2026 si terrà il 19 e 20 maggio. L'evento sarà incentrato sulle novità di Gemini, Android e le funzioni AI. Al via le iscrizioni. The post Google I/O 2026: si parte il 19 maggio, cosa aspettarsi appeared first",
-      "link": "https://www.punto-informatico.it/google-i-o-2026-si-parte-19-maggio-cosa-aspettarsi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T10:00:54+00:00"
-    },
-    {
-      "titolo": "Blink Outdoor 2K+ da oggi in Italia: prezzo e punti di forza",
-      "descrizione": "Debutto in Italia per Blink Outdoor 2K+, la nuova videocamera esterna con video 2K, visione notturna avanzata e autonomia fino a 2 anni. The post Blink Outdoor 2K+ da oggi in Italia: prezzo e punti di forza appeared firs",
-      "link": "https://www.punto-informatico.it/blink-outdoor-2k-plus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T09:48:19+00:00"
-    },
-    {
-      "titolo": "Engie Luce in offerta: prezzo bloccato per 2 anni e energia 100% verde",
-      "descrizione": "L'offerta scade domani 19 febbraio: occasione da non perdere. The post Engie Luce in offerta: prezzo bloccato per 2 anni e energia 100% verde appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/engie-luce-in-offerta-prezzo-bloccato-per-2-anni-e-energia-100-verde/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T09:47:53+00:00"
     }
   ]
 }
