@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-02-17T19:16:21.739790+00:00",
+  "last_updated": "2026-02-18T03:18:42.441973+00:00",
   "items": [
     {
-      "titolo": "How ChatGPT's new Lockdown Mode protects you from cyberattacks - and why it's not for everyone",
-      "descrizione": "The new security option is designed to thwart prompt-injection attacks that aim to steal your confidential data.",
-      "link": "https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/",
-      "fonte": "Latest news",
-      "data": "2026-02-17T17:59:16+00:00"
+      "titolo": "AMD denies report of MI455X delays as Nvidia VR200 systems are rumored to arrive early — company says Helios systems 'on target for 2H 2026'",
+      "descrizione": "AMD's Helios rack-scale solution based on the MI455X accelerators, the company's major hope for AI market, may slip to 2027, whereas Nvidia may speed up roll out of the Vera Rubin platform if the latest market rumors are",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-denies-report-of-mi455x-delays-as-nvidia-vr200-systems-are-rumored-to-arrive-early-company-says-helios-systems-on-target-for-2h-2026",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-17T20:56:10+00:00"
+    },
+    {
+      "titolo": "The Curling Controversy at the Winter Olympics Isn’t What You Think",
+      "descrizione": "After Swedish curler Oskar Eriksson accused Canadian vice-skip Marc Kennedy of cheating last week, everyone has become an expert in curling rules. They’re missing the point.",
+      "link": "https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/",
+      "fonte": "WIRED",
+      "data": "2026-02-17T19:15:12+00:00"
+    },
+    {
+      "titolo": "Recensione Honor Magic8 Lite, super autonomia e resiste 'quasi' a tutto!",
+      "descrizione": "Abbiamo messo sotto torchio il nuovo Magic8 Lite di Honor. Se volete sapere come se l'è cavata qui trovate il resoconto!",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n648475/honor-magic8-lite-tet-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-17T18:50:00+00:00"
+    },
+    {
+      "titolo": "Il Governo prepara il decreto Bollette: cosa si prospetta per famiglie e imprese",
+      "descrizione": "Le misure prevedono aiuti anche per chi ha ISEE fino a 25mila euro, con uno stanziamento complessivo di 315 milioni di euro",
+      "link": "https://www.hdblog.it/green/articoli/n648655/decreto-bollette-bonus-ipotesi-risparmio/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-17T18:49:00+00:00"
     },
     {
       "titolo": "MTerra Solar, grande traguardo per il maxi impianto fotovoltaico/BESS nelle Filippine",
@@ -28,6 +49,20 @@
       "link": "https://www.hdblog.it/indossabili/articoli/n648692/casio-g-shock-metallo-rosso-europa/",
       "fonte": "HDblog.it",
       "data": "2026-02-17T17:15:00+00:00"
+    },
+    {
+      "titolo": "Attenzione alle truffe delle finte società di autonoleggio: ecco come difendersi",
+      "descrizione": "L'Associazione Nazionale Industria dell’Autonoleggio fornisce alcuni suggerimenti su come evitare di cadere nelle truffe",
+      "link": "https://www.hdmotori.it/attenzione-truffe-finte-societa-autonoleggio-come-difendersi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-17T17:12:00+00:00"
+    },
+    {
+      "titolo": "Novità Citroen Berlingo 2026, arriva il diesel: allestimenti e prezzi",
+      "descrizione": "Si amplia la gamma della Citroen Berlingo con la reintroduzione del motore diesel per chi cerca una maggiore flessibilità d'uso",
+      "link": "https://www.hdmotori.it/citroen-berlingo-2026-diesel-allestimenti-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-17T17:11:00+00:00"
     },
     {
       "titolo": "Contenuti sessuali: indagine su X, Meta e TikTok",
@@ -72,13 +107,6 @@
       "data": "2026-02-17T16:12:38+00:00"
     },
     {
-      "titolo": "Recensione Honor Magic8 Lite, super autonomia e resiste 'quasi' a tutto!",
-      "descrizione": "Abbiamo messo sotto torchio il nuovo Magic8 Lite di Honor. Se volete sapere come se l'è cavata qui trovate il resoconto!",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n648475/honor-magic8-lite-tet-prova-prezzo-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-17T16:00:00+00:00"
-    },
-    {
       "titolo": "Prime Video lancia La casa degli spiriti: data e dettagli",
       "descrizione": "La casa degli spiriti debutta su Prime Video il 29 aprile",
       "link": "https://www.hdblog.it/amazon/articoli/n648596/serie-la-casa-degli-spiriti-data-uscita/",
@@ -121,13 +149,6 @@
       "data": "2026-02-17T14:50:00+00:00"
     },
     {
-      "titolo": "Kohler al KBIS 2026: c'è anche un water smart con bidet integrato",
-      "descrizione": "Tante soluzioni per risparmiare acqua.",
-      "link": "https://www.hdblog.it/home/articoli/n648668/kohler-novita-smart-cucina-bagno-wc-kbis-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-17T14:25:00+00:00"
-    },
-    {
       "titolo": "Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents",
       "descrizione": "Forum members have discussed their discomfort with mass deportation efforts, debate how federal agents have interacted with civilians, and complain about their working conditions.",
       "link": "https://www.wired.com/story/hsi-forum-ice-agents/",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/video-games/console-gaming/sony-considering-playstation-6-delay-to-2029-while-nintendo-could-hike-switch-2-price-according-to-report-memory-and-storage-chip-shortage-now-impacting-products-outside-of-ram-storage-and-gpus",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-17T13:21:05+00:00"
-    },
-    {
-      "titolo": "John Valentine, il medico con milioni di follower non esiste, è un’AI",
-      "descrizione": "John Valentine ha milioni di follower e dà consigli medici sui social, ma non esiste, è un avatar generato dall'AI. The post John Valentine, il medico con milioni di follower non esiste, è un’AI appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/john-valentine-medico-milioni-follower-non-esiste-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-17T12:37:56+00:00"
-    },
-    {
-      "titolo": "Hera Hybrid Special: l’offerta luce e gas che si adatta ai tuoi consumi",
-      "descrizione": "L'offerta Hera Hybrid Special combina i vantaggi del prezzo fisso con quelli del prezzo variabile: ecco come funziona. The post Hera Hybrid Special: l’offerta luce e gas che si adatta ai tuoi consumi appeared first on Pu",
-      "link": "https://www.punto-informatico.it/hera-hybrid-special-lofferta-luce-e-gas-che-si-adatta-ai-tuoi-consumi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-17T12:12:45+00:00"
-    },
-    {
-      "titolo": "Deepfake sessuali di Grok: indagine su X in Irlanda",
-      "descrizione": "Il garante della privacy irlandese ha avviato un'indagine nei confronti di X che riguarda le immagini sessuali generate da Grok e condivise dagli utenti. The post Deepfake sessuali di Grok: indagine su X in Irlanda appea",
-      "link": "https://www.punto-informatico.it/deepfake-sessuali-di-grok-indagine-su-x-in-irlanda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-17T11:52:09+00:00"
     }
   ]
 }
