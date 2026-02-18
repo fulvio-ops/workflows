@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T03:18:50.313310+00:00",
+  "last_updated": "2026-02-18T07:17:23.256544+00:00",
   "items": [
     {
       "titolo": "ChatGPT's new Lockdown Mode can stop prompt injection - here's how it works",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Sonnet 4.6 delivers frontier-level AI for free and cheap-seat users",
-      "descrizione": "Anthropic is positioning Sonnet 4.6 as a practical daily driver. In many cases, it's even faster than Opus 4.6.",
-      "link": "https://www.zdnet.com/article/claude-sonnet-4-6-delivers-frontier-level-ai-for-free-and-cheap-seat-users/",
-      "fonte": "Latest news",
-      "data": "2026-02-17T18:00:30+00:00",
+      "titolo": "Claude Sonnet 4.6: coding migliore e finestra di contesto enorme",
+      "descrizione": "Anthropic lancia Sonnet 4.6 con una finestra di contesto da un milione di token e prestazioni migliorate su coding e prompt. The post Claude Sonnet 4.6: coding migliore e finestra di contesto enorme appeared first on Pun",
+      "link": "https://www.punto-informatico.it/claude-sonnet-4-6-coding-migliore-finestra-contesto-enorme/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-18T06:06:37+00:00",
       "modello": "claude"
     }
   ]
