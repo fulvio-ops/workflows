@@ -1,45 +1,37 @@
 {
-  "last_updated": "2026-02-19T07:17:07.279056+00:00",
+  "last_updated": "2026-02-19T13:43:38.225058+00:00",
   "items": [
     {
-      "titolo": "10 ChatGPT pro tips for better results (and less back and forth)",
-      "descrizione": "Want better ChatGPT answers? It all starts with your prompts. Here's how to optimize your inputs.",
-      "link": "https://www.zdnet.com/article/10-chatgpt-prompt-tricks-i-use-to-get-the-best-results-faster/",
-      "fonte": "Latest news",
-      "data": "2026-02-19T02:01:07+00:00",
+      "titolo": "OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation — Parties offering up cash include Nvidia, Microsoft, SoftBank, and more",
+      "descrizione": "OpenAI may be about to secure as much as $100 billion in funding, which will go some way to offsetting the $1.4 trillion is has pledged to expend over the next eight years. This round of investment is said to come from o",
+      "link": "https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-19T12:43:15+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Bug in Microsoft 365: Copilot riassume email confidenziali",
-      "descrizione": "Un bug presente in Microsoft 365 Copilot che ha permesso all’assistente di riassumere email confidenziali, ignorando le policy di Data Loss Prevention. The post Bug in Microsoft 365: Copilot riassume email confidenziali",
-      "link": "https://www.punto-informatico.it/bug-microsoft-365-copilot-riassume-email-confidenziali/",
+      "titolo": "Grok e Copilot usati per il controllo remoto dei malware",
+      "descrizione": "Grok e Microsoft Copilot possono essere sfruttati come canali di comando e controllo per malware, aggirando i sistemi di sicurezza tradizionali. The post Grok e Copilot usati per il controllo remoto dei malware appeared",
+      "link": "https://www.punto-informatico.it/grok-copilot-usati-controllo-remoto-malware/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-18T18:16:08+00:00",
+      "data": "2026-02-19T10:30:06+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "L'AI di Gemini ora può generare anche canzoni col nuovo modello Lyria 3",
-      "descrizione": "Avete già provato la nuova funzione?",
-      "link": "https://www.hdblog.it/google/articoli/n648858/gemini-come-creare-canzoni-lyria-3-ai-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T05:55:00+00:00",
+      "titolo": "Ecco Lyria 3: Google con Gemini porta la musica generativa negli smartphone",
+      "descrizione": "Con Lyria 3 integrato in Gemini basta una frase, un’immagine o un documento per ottenere una traccia completa, testi inclusi e filigrana anti-deepfake",
+      "link": "https://www.ilsole24ore.com/art/ecco-lyria-3-google-gemini-porta-musica-generativa-smartphone-AI24tDUB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-18T16:43:59+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro",
-      "descrizione": "ChatGPT è stato il primo chatbot, ma Claude Opus 4.6 lo ha superato in scrittura naturale, memoria estesa, ragionamento adattivo, ecc. The post 9 motivi per cui Claude Opus 4.6 supera ChatGPT nel lavoro appeared first on",
-      "link": "https://www.punto-informatico.it/9-motivi-claude-opus-4-6-supera-chatgpt-lavoro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T16:30:58+00:00",
+      "titolo": "OpenAI hires 'genius' OpenClaw creator, but popular AI assistant will remain open source — Sam Altman says creator will work on 'smart agents' in new role",
+      "descrizione": "OpenAI has hired the creator of popular agentic AI tool OpenClaw, but has decided to keep the project open source. Despite its old Claude-inspired name, Anthropic threatened Steinberger with legal action ahead of multipl",
+      "link": "https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-17T17:06:14+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "This local AI quickly replaced Ollama on my Mac - here's why",
-      "descrizione": "If you're going to use AI, running it locally is the way to go, and GPT4All makes is surprisingly easy.",
-      "link": "https://www.zdnet.com/article/local-ai-gpt4all-replaced-ollama-mac-why/",
-      "fonte": "Latest news",
-      "data": "2026-02-18T17:30:35+00:00",
-      "modello": "altri"
     }
   ]
 }
