@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-02-18T19:16:29.463419+00:00",
+  "last_updated": "2026-02-19T03:17:18.075260+00:00",
   "items": [
+    {
+      "titolo": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
+      "descrizione": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+      "fonte": "WIRED",
+      "data": "2026-02-19T02:04:13+00:00"
+    },
+    {
+      "titolo": "This Defense Company Made AI Agents That Blow Things Up",
+      "descrizione": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+      "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+      "fonte": "WIRED",
+      "data": "2026-02-18T19:47:15+00:00"
+    },
+    {
+      "titolo": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+      "descrizione": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+      "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+      "fonte": "WIRED",
+      "data": "2026-02-18T19:24:55+00:00"
+    },
+    {
+      "titolo": "Meta, Zuckerberg si scusa per filtro Instagram under 13 che non ha funzionato",
+      "descrizione": "Nell’ambito di un processo contro diverse piattaforme, il numero uno di Meta Mark Zuckerberg si è scusato del fatto che il filtro di Instagram per individuare e quindi bloccare l’accesso...",
+      "link": "https://www.ilsole24ore.com/art/meta-zuckerberg-si-scusa-filtro-instagram-under-13-che-non-ha-funzionato-AIbwQ0UB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-18T19:17:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel 10A provato: c'è una sola differenza dal 9A e migliora l'autonomia",
+      "descrizione": "Abbiamo provato in anteprima il nuovo Google Pixel 10A: pochissimi cambiamenti dalla precedente generazione ma alcuni fondamentali come il \"nuovo\" modem che garantisce una migliore connettività.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n648021/google-pixel-10a-anteprima-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T18:22:00+00:00"
+    },
+    {
+      "titolo": "Carta Acquisti, ecco i nuovi requisiti per avere il bonus di 80 euro ogni due mesi",
+      "descrizione": "Per anziani e genitori di bimbi piccoli in condizioni disagiate.",
+      "link": "https://www.hdblog.it/mercato/articoli/n648732/carta-acquisti-come-averla-2026-isee/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T18:21:00+00:00"
+    },
+    {
+      "titolo": "15mila euro spariti in pochi minuti: la truffa bancaria dal lieto fine",
+      "descrizione": "\"Riottenere i soldi è possibile\", spiega l'associazione Codici: basta trovare la forza di superare la vergogna",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n648780/truffa-bancaria-riavere-denaro/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T18:20:00+00:00"
+    },
     {
       "titolo": "Bug in Microsoft 365: Copilot riassume email confidenziali",
       "descrizione": "Un bug presente in Microsoft 365 Copilot che ha permesso all’assistente di riassumere email confidenziali, ignorando le policy di Data Loss Prevention. The post Bug in Microsoft 365: Copilot riassume email confidenziali",
@@ -42,6 +91,20 @@
       "link": "https://www.punto-informatico.it/google-integra-lyria-3-app-gemini-generare-musica/",
       "fonte": "Punto Informatico",
       "data": "2026-02-18T17:20:46+00:00"
+    },
+    {
+      "titolo": "Nuova Toyota Yaris, le prime anticipazioni: in futuro ci sarà una versione elettrica",
+      "descrizione": "Toyota Yaris si prepara alla prossima generazione e grazie ad una piattaforma multienergia in futuro sarà proposta anche in versione elettrica",
+      "link": "https://www.hdmotori.it/toyota-yaris-2028-anticipazioni-nuova-generazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T17:12:00+00:00"
+    },
+    {
+      "titolo": "FIAT Topolino XS, ecco l'idea di Wini Camacho per la mobilità : c'è anche la versione Abarth",
+      "descrizione": "La FIAT Topolino XS è un concept digitale di una microcar del futuro pensata per muoversi agilmente in città e non solo",
+      "link": "https://www.hdmotori.it/fiat-topolino-xs-abarth-microcar-wini-camacho/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-18T17:11:00+00:00"
     },
     {
       "titolo": "The best Android phones of 2026: Expert tested and reviewed",
@@ -105,69 +168,6 @@
       "link": "https://www.hdmotori.it/scout-usa-rinvio-2028/",
       "fonte": "HDblog.it",
       "data": "2026-02-18T15:30:56+00:00"
-    },
-    {
-      "titolo": "F-35: ministro olandese vuole craccare il software",
-      "descrizione": "Il Ministro della Difesa olandese ha dichiarato che il software degli F-35 può essere modificato come avviene con gli iPhone per non dipendere dagli USA. The post F-35: ministro olandese vuole craccare il software appear",
-      "link": "https://www.punto-informatico.it/f-35-ministro-olandese-vuole-craccare-software/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T15:15:41+00:00"
-    },
-    {
-      "titolo": "Kawasaki e l'innovativo motore ibrido gas-idrogeno",
-      "descrizione": "Kawasaki avvia ordini per il primo motore a gas al 30% idrogeno.",
-      "link": "https://www.hdblog.it/green/articoli/n648817/kawasaki-motore-gas-30-idrogeno/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-18T15:10:00+00:00"
-    },
-    {
-      "titolo": "Linux su Mac con chip Apple M3: progressi concreti, ma nessuna data di rilascio",
-      "descrizione": "Asahi Linux avanza sul supporto ai Mac con chip M3: tastiera, Wi-Fi e archiviazione già funzionano, ma il rilascio ufficiale non è ancora vicino. The post Linux su Mac con chip Apple M3: progressi concreti, ma nessuna da",
-      "link": "https://www.punto-informatico.it/linux-su-mac-con-chip-apple-m3-progressi-concreti-ma-nessuna-data-di-rilascio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T15:04:47+00:00"
-    },
-    {
-      "titolo": "Pixel 10a è ufficiale: cosa cambia per il mid-range di Google",
-      "descrizione": "Tutto quello che c'è da sapere su Pixel 10a, il nuovo smartphone di Google: stesso processore del 9a, tanta AI e Android sempre aggiornato. The post Pixel 10a è ufficiale: cosa cambia per il mid-range di Google appeared",
-      "link": "https://www.punto-informatico.it/pixel-10a-e-ufficiale-cosa-cambia-per-il-mid-range-di-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T15:00:54+00:00"
-    },
-    {
-      "titolo": "Elegoo Centauri Carbon 2 Review: A Four-Color Variant",
-      "descrizione": "Elegoo promised a color add-on, but instead gave us a whole new printer.",
-      "link": "https://www.tomshardware.com/3d-printing/elegoo-centauri-carbon-2-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T15:00:00+00:00"
-    },
-    {
-      "titolo": "Nvidia sells off final Arm shares, but licensing deals will continue — $140 million stake sold, equating to 1.1 million shares",
-      "descrizione": "Nvidia has sold off the last of its shares in Arm Holdings, some six years after it attempted to buy the company outright for $40 billion, but was stopped by EU and UK regulators. The sale amounts to 1.1 million shares w",
-      "link": "https://www.tomshardware.com/tech-industry/nvidia-sells-off-final-arm-shares-but-licensing-deals-will-continue-usd140-million-stake-sold-equating-to-1-1-million-shares",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T14:24:09+00:00"
-    },
-    {
-      "titolo": "Perplexity: niente più pubblicità, alla faccia di ChatGPT",
-      "descrizione": "Perplexity fa marcia indietro sulle pubblicità e si schiera con Anthropic. L'azienda punta su abbonamenti e clienti business. The post Perplexity: niente più pubblicità, alla faccia di ChatGPT appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/perplexity-niente-piu-pubblicita-alla-faccia-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-18T14:21:42+00:00"
-    },
-    {
-      "titolo": "Il vero segnale di rinascimento industriale? Il numero di startup da 1 milione, non i miliardi investiti",
-      "descrizione": "Per parlare seriamente di rinascimento industriale delle startup dovremmo smettere di inseguire la retorica dei miliardi investiti e concentrare l’attenzione su una metrica diversa, meno appariscente ma più predittiva: i",
-      "link": "https://www.ilsole24ore.com/art/il-vero-segnale-rinascimento-industriale-numero-startup-1-milione-non-miliardi-investiti-AI6huMUB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-18T13:51:00+00:00"
-    },
-    {
-      "titolo": "Save $600 on this RTX 5080-powered Alienware gaming PC, down to its best price in months — just $2,399.99 for 4K-capable rig equipped with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD",
-      "descrizione": "This Alienware Aurora pre-built gaming PC is back down to near-Black Friday pricing right now, scoring you an Nvidia GeForce RTX 5080 GPU, 24-core Intel Core Ultra 285 CPU, 32GB of DDR5 RAM and a 1TB SSD for just $2,399.",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd600-on-this-rtx-5080-powered-alienware-gaming-pc-down-to-its-best-price-in-months-just-usd2-399-99-for-4k-capable-rig-equipped-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-18T12:12:14+00:00"
     }
   ]
 }
