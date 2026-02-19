@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-19T13:43:38.225058+00:00",
+  "last_updated": "2026-02-19T19:10:53.056886+00:00",
   "items": [
     {
-      "titolo": "OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation — Parties offering up cash include Nvidia, Microsoft, SoftBank, and more",
-      "descrizione": "OpenAI may be about to secure as much as $100 billion in funding, which will go some way to offsetting the $1.4 trillion is has pledged to expend over the next eight years. This round of investment is said to come from o",
-      "link": "https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-19T12:43:15+00:00",
+      "titolo": "Chatbot in crisi: la domanda semplice che manda in tilt l’AI",
+      "descrizione": "Un test virale dimostra che i chatbot AI ragionano sulle parole, ma fanno fatica a capire le intenzioni degli utenti. The post Chatbot in crisi: la domanda semplice che manda in tilt l’AI appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/chatbot-crisi-domanda-semplice-manda-titlt-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T17:50:12+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Grok e Copilot usati per il controllo remoto dei malware",
-      "descrizione": "Grok e Microsoft Copilot possono essere sfruttati come canali di comando e controllo per malware, aggirando i sistemi di sicurezza tradizionali. The post Grok e Copilot usati per il controllo remoto dei malware appeared",
-      "link": "https://www.punto-informatico.it/grok-copilot-usati-controllo-remoto-malware/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-19T10:30:06+00:00",
+      "titolo": "Edge just got a useful AI tool that Chrome doesn't have - here's how to try it",
+      "descrizione": "A new AI-powered feature in Edge uses Copilot to summarize and answer questions about your PDF files directly in the browser.",
+      "link": "https://www.zdnet.com/article/edge-just-got-a-useful-ai-tool-that-chrome-doesnt-have-heres-how-to-try-it/",
+      "fonte": "Latest news",
+      "data": "2026-02-19T15:42:27+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Ecco Lyria 3: Google con Gemini porta la musica generativa negli smartphone",
-      "descrizione": "Con Lyria 3 integrato in Gemini basta una frase, un’immagine o un documento per ottenere una traccia completa, testi inclusi e filigrana anti-deepfake",
-      "link": "https://www.ilsole24ore.com/art/ecco-lyria-3-google-gemini-porta-musica-generativa-smartphone-AI24tDUB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-18T16:43:59+00:00",
+      "titolo": "Google's Gemini 3.1 Pro is here, and it just doubled its reasoning score",
+      "descrizione": "The latest Gemini model makes impressive strides in benchmarks, but forthcoming models could give it a reality check.",
+      "link": "https://www.zdnet.com/article/google-gemini-3-1-pro-release-ai-model/",
+      "fonte": "Latest news",
+      "data": "2026-02-19T18:09:31+00:00",
       "modello": "gemini"
     },
     {

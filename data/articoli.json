@@ -1,19 +1,124 @@
 {
-  "last_updated": "2026-02-19T13:43:26.220109+00:00",
+  "last_updated": "2026-02-19T19:10:49.720197+00:00",
   "items": [
+    {
+      "titolo": "Half of all cyberattacks start in your browser: 10 essential tips for staying safe",
+      "descrizione": "New research finds that 48% of cyberattacks involve your web browser - and AI is only making matters worse. Follow these best practices to protect yourself.",
+      "link": "https://www.zdnet.com/article/browser-security-tips-stay-safe/",
+      "fonte": "Latest news",
+      "data": "2026-02-19T18:56:35+00:00"
+    },
+    {
+      "titolo": "Acer and Asus shut down support for PC and laptops in wake of patent dispute ruling, drivers and updates inaccessible to existing customers — German website finds a workaround",
+      "descrizione": "Asus and Acer bring German websites down, leaving users without support or downloads due to the companies' recent spat with Nokia over the HEVC codec.",
+      "link": "https://www.tomshardware.com/pc-components/acer-and-asus-shut-down-support-for-pc-and-laptops-in-wake-of-patent-dispute-ruling-drivers-and-updates-inaccessible-to-existing-customers-german-website-finds-a-workaround",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-19T18:23:31+00:00"
+    },
+    {
+      "titolo": "Microsoft's new Windows 11 speed test is just a link to Ookla's Speedtest via Bing — button housed in the taskbar in latest Insider Preview build",
+      "descrizione": "Amidst endless complaints over the instability and bloating nature of Windows 11, Microsoft's latest insider builds add new emojis and a taskbar feature for its beta testers. Now, you can check your internet speed by rig",
+      "link": "https://www.tomshardware.com/software/windows/microsofts-new-windows-11-speed-test-is-just-a-link-to-ooklas-speedtest-via-bing-button-housed-in-the-taskbar-in-latest-insider-preview-build",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-19T17:27:21+00:00"
+    },
+    {
+      "titolo": "Microsoft Project Silica: vetro per conservare i dati",
+      "descrizione": "Microsoft ha annuncia progressi per Project Silica, la tecnologia di archiviazione dati su vetro progettata per garantire conservazione a lungo termine. The post Microsoft Project Silica: vetro per conservare i dati appe",
+      "link": "https://www.punto-informatico.it/microsoft-project-silica-vetro-conservare-dati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T16:57:41+00:00"
+    },
+    {
+      "titolo": "Waymo confessa di controllare i robotaxi con operatori dall'estero. È polemica",
+      "descrizione": "Sicurezza, sovranità e distopia: tanti gli elementi che fanno discutere.",
+      "link": "https://www.hdmotori.it/polemiche-operatori-guida-autonoma-waymo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T16:30:46+00:00"
+    },
+    {
+      "titolo": "“Riassumi” è il prompt AI più sopravvalutato, cosa chiedere davvero",
+      "descrizione": "Chiedere di riassumere è la richiesta più comune e meno efficace con i chatbot. Ecco il prompt che cambia la qualità dell'analisi. The post “Riassumi” è il prompt AI più sopravvalutato, cosa chiedere davvero appeared fir",
+      "link": "https://www.punto-informatico.it/riassumi-prompt-ai-piu-sopravvalutato-cosa-chiedere-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T16:30:35+00:00"
+    },
+    {
+      "titolo": "Gaffe di Microsoft, pubblica un grafico \"AI Slop\" su GitHub",
+      "descrizione": "La notizia ha circolato rapidamente su internet grazie anche all'autore del grafico originale.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n648994/microsoft-github-grafico-ai-slop-gaffe/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T16:15:00+00:00"
+    },
+    {
+      "titolo": "Ferrari si prepara al lancio di 5 modelli nel 2026: ecco cosa sappiamo!",
+      "descrizione": "Si è recentemente chiuso un anno molto positivo per Ferrari che vuole replicarsi nel 2026 con l'uscita di ben 5 modelli",
+      "link": "https://www.hdmotori.it/ferrari-produzione-2026-modelli-in-arrivo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T16:00:04+00:00"
+    },
+    {
+      "titolo": "Philips? Svende le cuffie Over Ear Bluetooth a soli 49€: sono TOP",
+      "descrizione": "Le cuffie Over Ear e Bluetooth di Philips sono pazzesche: 70h di autonomia, cancellazione del rumore e prezzo mini su Amazon. The post Philips? Svende le cuffie Over Ear Bluetooth a soli 49€: sono TOP appeared first on P",
+      "link": "https://www.punto-informatico.it/philips-svende-le-cuffie-over-ear-bluetooth-a-soli-49e-sono-top/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T15:45:26+00:00"
+    },
+    {
+      "titolo": "Il robot kung fu che vola: la Cina sorprende ancora",
+      "descrizione": "Il robot Expedition A3 esegue acrobazie kung fu senza effetti speciali",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648938/agibot-expedition-a3-robot-kung-fu/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T15:40:00+00:00"
+    },
+    {
+      "titolo": "Spazio eolico e satelliti, il Regno Unito punta al sole orbitale",
+      "descrizione": "Studio UK: solare dallo spazio fino a 2 GW via parchi eolici offshore",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n648939/uk-solare-spazio-parchi-eolici/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T15:15:00+00:00"
+    },
+    {
+      "titolo": "Lo smartwatch più elegante è di Xiaomi: 4 versioni in offerta Amazon",
+      "descrizione": "XiaomI S4 Watch è lo smartwatch che non sembra tale: elegante, bello e in offerta su Amazon proprio ora. The post Lo smartwatch più elegante è di Xiaomi: 4 versioni in offerta Amazon appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/lo-smartwatch-piu-elegante-e-di-xiaomi-4-versioni-in-offerta-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T14:53:52+00:00"
+    },
+    {
+      "titolo": "La Formula 1 al cinema: rivoluzione o trovata di marketing?",
+      "descrizione": "Cinque gare del mondiale di Formula 1 saranno trasmesse in diretta nei cinema, grazie a un accordo tra Apple e IMAX: c'è anche Monza. The post La Formula 1 al cinema: rivoluzione o trovata di marketing? appeared first on",
+      "link": "https://www.punto-informatico.it/formula-1-cinema/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T14:52:25+00:00"
+    },
+    {
+      "titolo": "La via sostenibile dei satelliti in legno",
+      "descrizione": "Dopo la sperimentazione giapponese, è in preparazione il progetto del finlandese Wisa woodsat con strumenti di Esa",
+      "link": "https://www.ilsole24ore.com/art/la-via-sostenibile-satelliti-legno-AIJOE0RB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-19T14:40:35+00:00"
+    },
+    {
+      "titolo": "L’AI è pronta per la matematica? Gemini alla prova con 700 problemi irrisolti",
+      "descrizione": "Da qualche mese una raccolta online di problemi matematici è diventata il banco di prova per testare le capacità astratte dell’intelligenza artificiale.",
+      "link": "https://www.ilsole24ore.com/art/l-ai-e-pronta-la-matematica-gemini-prova-700-problemi-irrisolti-AIISIXOB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-19T14:31:34+00:00"
+    },
+    {
+      "titolo": "Le email segrete di Ring: dalla ricerca dei cani ai criminali",
+      "descrizione": "Alcune email svelano il progetto di Ring: trasformare Search Party da una tecnologia per ritrovare cani a strumento per la lotta al crimine. The post Le email segrete di Ring: dalla ricerca dei cani ai criminali appeared",
+      "link": "https://www.punto-informatico.it/email-segrete-ring-ricerca-cani-criminali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-19T14:19:42+00:00"
+    },
     {
       "titolo": "Router TP-Link usati per spiare gli utenti, denuncia in Texas",
       "descrizione": "Il Procuratore Generale del Texas ha denunciato TP-Link perché avrebbe permesso al Partito Comunista Cinese di accedere ai dispositivi degli utenti. The post Router TP-Link usati per spiare gli utenti, denuncia in Texas",
       "link": "https://www.punto-informatico.it/router-tp-link-usati-spiare-utenti-denuncia-texas/",
       "fonte": "Punto Informatico",
       "data": "2026-02-19T13:18:33+00:00"
-    },
-    {
-      "titolo": "Usare l’AI per creare password è un errore che può costarti caro",
-      "descrizione": "Codici apparentemente complessi nascondono pattern ripetitivi e un'entropia troppo bassa: attenzione all'uso dell'AI per generare password. The post Usare l’AI per creare password è un errore che può costarti caro appear",
-      "link": "https://www.punto-informatico.it/ai-creare-password-errore/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-19T13:14:27+00:00"
     },
     {
       "titolo": "Quantum teleportation demonstrated over existing fiber networks — Deutsche Telekom’s T‑Labs used commercially available Qunnect hardware for the demo, claims 90% average accuracy",
@@ -30,86 +135,16 @@
       "data": "2026-02-19T12:43:15+00:00"
     },
     {
-      "titolo": "Discord, massiccio esodo di utenti: tanti tornano su TeamSpeak",
-      "descrizione": "L'annuncio della verifica dell'età sta facendo parecchio male a Discord... E parecchio bene alla vecchia rivale.",
-      "link": "https://www.hdblog.it/games/articoli/n648962/discord-esodo-utenti-teamspeak-verifica-eta/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T12:25:00+00:00"
-    },
-    {
-      "titolo": "La crisi dei chip giova alle vecchie GPU: una RTX 3090 viene cercata il 600% in più",
-      "descrizione": "Le ricerche di GeForce RTX 3090 sono aumentate del 600% nell’ultimo anno sulla piattaforma Subito",
-      "link": "https://www.hdblog.it/hardware/articoli/n648958/gpu-prezzi-nvidia-seconda-mano/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T12:15:00+00:00"
-    },
-    {
-      "titolo": "QR code, ecco il più piccolo al mondo: nuove possibilità per archiviazione dei dati",
-      "descrizione": "Un QR code così piccolo da poter essere letto solo con un microscopio elettronico.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648953/qr-code-piccolo-mondo-prospettive/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T12:10:00+00:00"
-    },
-    {
-      "titolo": "WiFi 7 a casa: sistema mesh TP-Link da 3 pezzi in crollo di 100 euro",
-      "descrizione": "Il potentissimo sistema Mesh che risolve qualsiasi problema di connessione.",
-      "link": "https://www.hdblog.it/hardware/offerte/n648960/wifi-7-a-casa-sistema-mesh-tp-link-super-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T12:05:00+00:00"
-    },
-    {
-      "titolo": "Trump revoca gli incentivi alla produzione di auto elettriche",
-      "descrizione": "Trump smantella i pilastri della transizione elettrica negli USA, eliminando la norma di incentivazione alla produzione di auto a batteria",
-      "link": "https://www.hdmotori.it/trump-revoca-incentivi-auto-elettriche/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T12:00:16+00:00"
-    },
-    {
-      "titolo": "Amazfit T-Rex Ultra 2 ufficiale: resistente, leggero e batteria infinita | PREZZO Italia",
-      "descrizione": "Con GPS e flash integrati.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n648951/amazfit-t-rex-ultra-2-specifiche-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T11:50:00+00:00"
-    },
-    {
-      "titolo": "Eufy: il rilevatore di fumo compatto e smart arriva in Europa",
-      "descrizione": "Eufy Smoke Alarm E10 è disponibile in Europa con tecnologia fotoelettrica per ridurre i falsi allarmi rispetto ai sensori ionici",
-      "link": "https://www.hdblog.it/home/articoli/n648952/eufy-il-rilevatore-di-fumo-compatto-e-smart-arriva-in-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T11:45:00+00:00"
-    },
-    {
-      "titolo": "Aruba lancia Simyousoon, la eSIM smart per viaggiare rimanendo connessi",
-      "descrizione": "L’app Simyousoon per Android e iOS consente di monitorare consumi, ricaricare e gestire il piano dati in tempo reale",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648943/esim-viaggi-aruba-simyousoon/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T11:25:00+00:00"
-    },
-    {
-      "titolo": "Monster Hunter Wilds su in arrivo su Switch 2? C'è una prova concreta",
-      "descrizione": "Un'immagine tutorial sembra confermare il porting per la console Nintendo",
-      "link": "https://www.hdblog.it/nintendo/articoli/n648941/monster-hunter-wilds-switch-2-indizio-concreto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T11:15:00+00:00"
-    },
-    {
-      "titolo": "La Cina abbatte i limiti: 3.700 km di rete quantistica",
-      "descrizione": "Rete quantistica fino a 3.700 km senza nodi fidati grazie a chip industriali.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648875/cina-rete-quantistica/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T11:10:00+00:00"
+      "titolo": "A 16-year-old intern helped Netgear catch scammers in India for $800 — Culprits would pose as Netgear employees & sell fake support packages to customers",
+      "descrizione": "After scammers were successfully able to phish their way through Netgear customers for months, the company was forced to adopt a more unconventional cybersecurity measure: a 16-year-old intern named Wyatt. He was able to",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/a-16-year-old-intern-helped-netgear-catch-scammers-in-india-for-usd800-culprits-would-pose-as-netgear-employees-and-sell-fake-support-packages-to-customers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-19T11:00:00+00:00"
     },
     {
       "titolo": "China brain computer interface outfit accelerates to human trials in quest to outpace Neuralink — mix of government backing and investor enthusiasm speeds time to market for NeuroXess",
       "descrizione": "China could overtake the US in brain computer interface (BCI) technology leadership thanks to streamlined planning, regulatory approval, and financing.",
       "link": "https://www.tomshardware.com/peripherals/wearable-tech/china-brain-computer-interface-outfit-accelerates-to-human-trials-in-quest-to-outpace-neuralink-mix-of-government-backing-and-investor-enthusiasm-speeds-time-to-market-for-neuroxess",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-19T11:00:00+00:00"
-    },
-    {
-      "titolo": "A 16-year-old intern helped Netgear catch scammers in India for $800 — Culprits would pose as Netgear employees & sell fake support packages to customers",
-      "descrizione": "After scammers were successfully able to phish their way through Netgear customers for months, the company was forced to adopt a more unconventional cybersecurity measure: a 16-year-old intern named Wyatt. He was able to",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/a-16-year-old-intern-helped-netgear-catch-scammers-in-india-for-usd800-culprits-would-pose-as-netgear-employees-and-sell-fake-support-packages-to-customers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-19T11:00:00+00:00"
     },
@@ -121,53 +156,18 @@
       "data": "2026-02-19T11:00:00+00:00"
     },
     {
-      "titolo": "Addio ai vecchi metodi contro la calvizie: allo studio un sistema per i normali cappelli",
-      "descrizione": "Nei test di laboratorio su cellule coltivate, il dispositivo ha mostrato una riduzione dell’invecchiamento dei follicoli",
-      "link": "https://www.hdblog.it/scienza/articoli/n648933/calvizie-cappello-crescita-capelli/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T10:55:00+00:00"
-    },
-    {
-      "titolo": "Microsoft Teams cambia i link: ora chiede quale browser usare (e spinge su Edge)",
-      "descrizione": "L’utente sarà chiamato a scegliere esplicitamente quale browser utilizzare",
-      "link": "https://www.hdblog.it/microsoft/articoli/n648947/microsoft-teams-cambia-link-browser/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T10:50:00+00:00"
-    },
-    {
-      "titolo": "Stai ancora pagando l’ADSL? Sei tra i pochi, non conviene più",
-      "descrizione": "Crescono FTTH e FWA, scendono FTTC e ADSL: lo stato attuale della connettività in Italia; addio rame, benvenuta fibra (finalmente). The post Stai ancora pagando l’ADSL? Sei tra i pochi, non conviene più appeared first on",
-      "link": "https://www.punto-informatico.it/stai-ancora-pagando-adsl/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-19T10:45:50+00:00"
-    },
-    {
-      "titolo": "Riappare una misteriosa scala nel palazzo romano di Colonia",
-      "descrizione": "A Colonia trovata una rara scala romana collegata al Reno e un altare privato.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n648895/colonia-scala-romana-praetorium/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T10:35:00+00:00"
-    },
-    {
-      "titolo": "CMF Watch 3 Pro: design inimitabile, batteria gigante e microfono per chiamate",
-      "descrizione": "Il meraviglioso CMF Watch 3 Pro ha un design inimitabile, una batteria che arriva fino a tredici giorni e un microfono per le chiamate. The post CMF Watch 3 Pro: design inimitabile, batteria gigante e microfono per chiam",
-      "link": "https://www.punto-informatico.it/cmf-watch-3-pro-design-inimitabile-batteria-gigante-microfono-per-chiamate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-19T10:34:57+00:00"
-    },
-    {
-      "titolo": "Gas a 0,36€ e luce bloccata per un anno: la nuova offerta Octopus",
-      "descrizione": "Octopus Energy rinnova la propria offerta a tariffa fissa con delle nuove condizioni. The post Gas a 0,36€ e luce bloccata per un anno: la nuova offerta Octopus appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/gas-a-036e-e-luce-bloccata-per-un-anno-la-nuova-offerta-octopus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-19T10:32:20+00:00"
-    },
-    {
       "titolo": "Bowers & Wilkins Px7 S3 Review: Stronger Build, Sweeter Sound",
       "descrizione": "Bowers & Wilkins’ latest Px7 headphones keep sound and style at the forefront, with brilliant results.",
       "link": "https://www.wired.com/review/bowers-and-wilkins-px7-s3/",
       "fonte": "WIRED",
       "data": "2026-02-19T10:30:00+00:00"
+    },
+    {
+      "titolo": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
+      "descrizione": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+      "fonte": "WIRED",
+      "data": "2026-02-19T02:04:13+00:00"
     }
   ]
 }
