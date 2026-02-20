@@ -1,12 +1,40 @@
 {
-  "last_updated": "2026-02-19T19:10:49.720197+00:00",
+  "last_updated": "2026-02-20T03:12:06.486360+00:00",
   "items": [
+    {
+      "titolo": "Finally, I found a smart ring that looks like actual jewelry (without the trade-offs)",
+      "descrizione": "Oura's new Ring 4 Ceramic ditches the bland metallics for a gorgeous zirconia ceramic finish in four colors.",
+      "link": "https://www.zdnet.com/article/oura-ring-4-ceramic-review/",
+      "fonte": "Latest news",
+      "data": "2026-02-20T02:25:48+00:00"
+    },
+    {
+      "titolo": "Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past",
+      "descrizione": "The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer.",
+      "link": "https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/",
+      "fonte": "WIRED",
+      "data": "2026-02-19T20:45:40+00:00"
+    },
     {
       "titolo": "Half of all cyberattacks start in your browser: 10 essential tips for staying safe",
       "descrizione": "New research finds that 48% of cyberattacks involve your web browser - and AI is only making matters worse. Follow these best practices to protect yourself.",
       "link": "https://www.zdnet.com/article/browser-security-tips-stay-safe/",
       "fonte": "Latest news",
       "data": "2026-02-19T18:56:35+00:00"
+    },
+    {
+      "titolo": "Garmin brevetta un sistema per stimare la glicemia direttamente dallo smartwatch",
+      "descrizione": "Un brevetto non garantisce l’arrivo di una funzione concreta sugli smartwatch",
+      "link": "https://www.hdblog.it/indossabili/articoli/n648890/garmin-brevetta-sistema-stima-glicemia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T18:31:00+00:00"
+    },
+    {
+      "titolo": "Detrazioni, da marzo non servirà la ricevuta del POS. E c'è un piano carta zero",
+      "descrizione": "Il calendario carta zero prevede l’avvio il 1° gennaio 2027 per la grande distribuzione, nel 2028 per le imprese sopra una certa soglia di fatturato e nel 2029 per tutti gli esercenti.",
+      "link": "https://www.hdblog.it/green/articoli/n648906/ricevute-pos-addio-obbligo-conservare/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T18:30:00+00:00"
     },
     {
       "titolo": "Acer and Asus shut down support for PC and laptops in wake of patent dispute ruling, drivers and updates inaccessible to existing customers — German website finds a workaround",
@@ -16,11 +44,25 @@
       "data": "2026-02-19T18:23:31+00:00"
     },
     {
+      "titolo": "Apple denunciata negli USA per le immagini pedopornografiche su iCloud",
+      "descrizione": "Il procuratore generale della Virginia dell'Ovest sostiene che non implementando uno strumento di controllo automatico Apple abbia sostanzialmente fornito ai pedofili una piattaforma sicura per...",
+      "link": "https://www.hdblog.it/apple/articoli/n649020/apple-denuncia-usa-immagini-pedopornografiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T18:15:00+00:00"
+    },
+    {
       "titolo": "Microsoft's new Windows 11 speed test is just a link to Ookla's Speedtest via Bing — button housed in the taskbar in latest Insider Preview build",
       "descrizione": "Amidst endless complaints over the instability and bloating nature of Windows 11, Microsoft's latest insider builds add new emojis and a taskbar feature for its beta testers. Now, you can check your internet speed by rig",
       "link": "https://www.tomshardware.com/software/windows/microsofts-new-windows-11-speed-test-is-just-a-link-to-ooklas-speedtest-via-bing-button-housed-in-the-taskbar-in-latest-insider-preview-build",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-19T17:27:21+00:00"
+    },
+    {
+      "titolo": "FIAT Giga Panda 2026, il nuovo SUV sta arrivando: sarà ibrido ed elettrico",
+      "descrizione": "La nuova FIAT Giga Panda arriverà nel 2026 come SUV globale lungo circa 4,5 metri. Condividerà la piattaforma Smart Car con Grande Panda",
+      "link": "https://www.hdmotori.it/fiat-giga-panda-2026-anteprima-cosa-sappiamo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-19T17:12:00+00:00"
     },
     {
       "titolo": "Microsoft Project Silica: vetro per conservare i dati",
@@ -63,20 +105,6 @@
       "link": "https://www.punto-informatico.it/philips-svende-le-cuffie-over-ear-bluetooth-a-soli-49e-sono-top/",
       "fonte": "Punto Informatico",
       "data": "2026-02-19T15:45:26+00:00"
-    },
-    {
-      "titolo": "Il robot kung fu che vola: la Cina sorprende ancora",
-      "descrizione": "Il robot Expedition A3 esegue acrobazie kung fu senza effetti speciali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648938/agibot-expedition-a3-robot-kung-fu/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T15:40:00+00:00"
-    },
-    {
-      "titolo": "Spazio eolico e satelliti, il Regno Unito punta al sole orbitale",
-      "descrizione": "Studio UK: solare dallo spazio fino a 2 GW via parchi eolici offshore",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n648939/uk-solare-spazio-parchi-eolici/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-19T15:15:00+00:00"
     },
     {
       "titolo": "Lo smartwatch più elegante è di Xiaomi: 4 versioni in offerta Amazon",
@@ -135,39 +163,11 @@
       "data": "2026-02-19T12:43:15+00:00"
     },
     {
-      "titolo": "A 16-year-old intern helped Netgear catch scammers in India for $800 — Culprits would pose as Netgear employees & sell fake support packages to customers",
-      "descrizione": "After scammers were successfully able to phish their way through Netgear customers for months, the company was forced to adopt a more unconventional cybersecurity measure: a 16-year-old intern named Wyatt. He was able to",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/a-16-year-old-intern-helped-netgear-catch-scammers-in-india-for-usd800-culprits-would-pose-as-netgear-employees-and-sell-fake-support-packages-to-customers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-19T11:00:00+00:00"
-    },
-    {
       "titolo": "China brain computer interface outfit accelerates to human trials in quest to outpace Neuralink — mix of government backing and investor enthusiasm speeds time to market for NeuroXess",
       "descrizione": "China could overtake the US in brain computer interface (BCI) technology leadership thanks to streamlined planning, regulatory approval, and financing.",
       "link": "https://www.tomshardware.com/peripherals/wearable-tech/china-brain-computer-interface-outfit-accelerates-to-human-trials-in-quest-to-outpace-neuralink-mix-of-government-backing-and-investor-enthusiasm-speeds-time-to-market-for-neuroxess",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-19T11:00:00+00:00"
-    },
-    {
-      "titolo": "Inside the Gay Tech Mafia",
-      "descrizione": "Gay men have long been rumored to run Silicon Valley. WIRED investigates.",
-      "link": "https://www.wired.com/story/inside-the-gay-tech-mafia/",
-      "fonte": "WIRED",
-      "data": "2026-02-19T11:00:00+00:00"
-    },
-    {
-      "titolo": "Bowers & Wilkins Px7 S3 Review: Stronger Build, Sweeter Sound",
-      "descrizione": "Bowers & Wilkins’ latest Px7 headphones keep sound and style at the forefront, with brilliant results.",
-      "link": "https://www.wired.com/review/bowers-and-wilkins-px7-s3/",
-      "fonte": "WIRED",
-      "data": "2026-02-19T10:30:00+00:00"
-    },
-    {
-      "titolo": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
-      "descrizione": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday.",
-      "link": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
-      "fonte": "WIRED",
-      "data": "2026-02-19T02:04:13+00:00"
     }
   ]
 }

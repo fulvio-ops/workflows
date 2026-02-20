@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T19:10:53.056886+00:00",
+  "last_updated": "2026-02-20T03:12:09.721907+00:00",
   "items": [
     {
       "titolo": "Chatbot in crisi: la domanda semplice che manda in tilt l’AI",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Edge just got a useful AI tool that Chrome doesn't have - here's how to try it",
-      "descrizione": "A new AI-powered feature in Edge uses Copilot to summarize and answer questions about your PDF files directly in the browser.",
-      "link": "https://www.zdnet.com/article/edge-just-got-a-useful-ai-tool-that-chrome-doesnt-have-heres-how-to-try-it/",
-      "fonte": "Latest news",
-      "data": "2026-02-19T15:42:27+00:00",
-      "modello": "copilot"
-    },
-    {
       "titolo": "Google's Gemini 3.1 Pro is here, and it just doubled its reasoning score",
       "descrizione": "The latest Gemini model makes impressive strides in benchmarks, but forthcoming models could give it a reality check.",
       "link": "https://www.zdnet.com/article/google-gemini-3-1-pro-release-ai-model/",
       "fonte": "Latest news",
-      "data": "2026-02-19T18:09:31+00:00",
+      "data": "2026-02-19T18:09:00+00:00",
       "modello": "gemini"
     },
     {
