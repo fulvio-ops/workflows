@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-20T13:34:33.616245+00:00",
+  "last_updated": "2026-02-20T19:07:34.688032+00:00",
   "items": [
     {
-      "titolo": "OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation — Parties offering up cash include Nvidia, Microsoft, SoftBank, and more",
-      "descrizione": "OpenAI may be about to secure as much as $100 billion in funding, which will go some way to offsetting the $1.4 trillion is has pledged to expend over the next eight years. This round of investment is said to come from o",
-      "link": "https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-19T12:43:15+00:00",
+      "titolo": "ChatGPT con Malwarebytes verifica truffe e link sospetti",
+      "descrizione": "Malwarebytes è disponibile come app integrata su ChatGPT. Basta incollare un messaggio, un link o un'email sospetta per ottenere un'analisi. The post ChatGPT con Malwarebytes verifica truffe e link sospetti appeared firs",
+      "link": "https://www.punto-informatico.it/chatgpt-malwarebytes-verifica-truffe-link-sospetti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T17:37:43+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "PromptSpy: primo malware Android con AI integrata",
-      "descrizione": "PromptSpy sfrutta il modello Gemini di Google per rilevare gli elementi dell'interfaccia Android e mantenere l'esecuzione anche dopo il riavvio. The post PromptSpy: primo malware Android con AI integrata appeared first o",
-      "link": "https://www.punto-informatico.it/promptspy-primo-malware-android-ai-integrata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T11:43:18+00:00",
+      "titolo": "I tested Google Docs' new AI audio summaries, and they're a massive time-saver",
+      "descrizione": "Sit back and relax while Gemini reads you the summary of a document in Google Docs.",
+      "link": "https://www.zdnet.com/article/gemini-google-docs-audio-summary/",
+      "fonte": "Latest news",
+      "data": "2026-02-20T17:44:48+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI hires 'genius' OpenClaw creator, but popular AI assistant will remain open source — Sam Altman says creator will work on 'smart agents' in new role",
-      "descrizione": "OpenAI has hired the creator of popular agentic AI tool OpenClaw, but has decided to keep the project open source. Despite its old Claude-inspired name, Anthropic threatened Steinberger with legal action ahead of multipl",
-      "link": "https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-17T17:06:14+00:00",
+      "titolo": "AI Safety Meets the War Machine",
+      "descrizione": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+      "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+      "fonte": "WIRED",
+      "data": "2026-02-20T17:00:00+00:00",
       "modello": "claude"
     }
   ]

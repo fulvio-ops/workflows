@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-02-20T13:34:30.514432+00:00",
+  "last_updated": "2026-02-20T19:07:30.613552+00:00",
   "items": [
+    {
+      "titolo": "AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB is the final stand, as even the RTX 5050 falls",
+      "descrizione": "The MSI GeForce RTX 5060 Ti 8G Ventus 2X OC Plus and the Gigabyte GeForce RTX 5060 Ti WindForce 8G are the only Blackwell-based graphics cards still at their MSRPs.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-20T18:57:34+00:00"
+    },
+    {
+      "titolo": "The Best Chairs and Desks from Branch Are on Sale (We’ve Tested Them All)",
+      "descrizione": "Branch makes excellent office essentials, and our top picks are discounted.",
+      "link": "https://www.wired.com/story/branch-deals-february-2026/",
+      "fonte": "WIRED",
+      "data": "2026-02-20T18:18:35+00:00"
+    },
+    {
+      "titolo": "Google AI Mode: AGCOM invierà segnalazione all’UE",
+      "descrizione": "Il Presidente di AGCOM ha comunicato che verrà inviata una segnalazione alla Commissione UE su AI Mode, in quanto limita il diritto all'informazione. The post Google AI Mode: AGCOM invierà segnalazione all’UE appeared fi",
+      "link": "https://www.punto-informatico.it/google-ai-mode-agcom-segnalazione-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T17:44:05+00:00"
+    },
+    {
+      "titolo": "U.S. Supreme Court shoots down President Trump’s tariffs — Consumer Technology Association hails 'victory for all Americans,' calls for swift refunds to retailers (update)",
+      "descrizione": "The Supreme Court told the Trump administration that the term \"regulate\" in the IEEPA does not give White House authority to impose tariffs on imports.",
+      "link": "https://www.tomshardware.com/tech-industry/u-s-supreme-court-shoots-down-president-trumps-tariffs-consumer-technology-association-hails-victory-for-all-americans-calls-for-swift-refunds-to-retailers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-20T17:26:42+00:00"
+    },
+    {
+      "titolo": "Microsoft's Project Silica write-once storage could store terabytes of data for over 10,000 years — company explores two physical glass storage methods, so the glass-clad future of storage isn't coming anytime soon",
+      "descrizione": "Microsoft's Project Silica now explores two different methods to store data on glass medium, but neither is close enough for commercialization.",
+      "link": "https://www.tomshardware.com/pc-components/storage/project-silica",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-20T17:12:19+00:00"
+    },
+    {
+      "titolo": "Acer and Asus shut down support for PC and laptops in wake of patent dispute ruling, drivers and updates inaccessible to existing customers — German website finds a workaround (Update)",
+      "descrizione": "Asus and Acer bring German websites down, leaving users without support or downloads due to the companies' recent spat with Nokia over the HEVC codec.",
+      "link": "https://www.tomshardware.com/pc-components/acer-and-asus-shut-down-support-for-pc-and-laptops-in-wake-of-patent-dispute-ruling-drivers-and-updates-inaccessible-to-existing-customers-german-website-finds-a-workaround",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-20T16:58:55+00:00"
+    },
+    {
+      "titolo": "ElevenLabs e l’album dei cloni: se il diritto d’autore sposa l’algoritmo",
+      "descrizione": "Un album con voci sintetiche generata dall’AI: siamo difronte all’innovazione o forse un preavviso spaventoso di quello che ci attende?",
+      "link": "https://www.ilsole24ore.com/art/elevenlabs-e-l-album-cloni-se-diritto-d-autore-sposa-l-algoritmo-AIQd5BXB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-20T16:57:12+00:00"
+    },
+    {
+      "titolo": "Perseverance trova la strada su Marte senza GPS",
+      "descrizione": "Grazie alla tecnologia Mars Global Localization, il rover Perseverance può calcolare la sua posizione su Marte senza ricevere comandi dalla Terra. The post Perseverance trova la strada su Marte senza GPS appeared first o",
+      "link": "https://www.punto-informatico.it/perseverance-trova-strada-marte-senza-gps/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T16:47:39+00:00"
+    },
+    {
+      "titolo": "Supreme Court Rules Most of Donald Trump’s Tariffs Are Illegal",
+      "descrizione": "In a 6-3 ruling, justices upended the Trump administration’s signature economic policy, potentially putting the US government on the hook for at least $175 billion in tariff refunds.",
+      "link": "https://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
+      "fonte": "WIRED",
+      "data": "2026-02-20T16:32:58+00:00"
+    },
+    {
+      "titolo": "NotebookLM e ChatGPT, perché insieme funzionano meglio",
+      "descrizione": "NotebookLM e ChatGPT non sono rivali, usati insieme diventano un sistema potente per fare ricerca, studiare e scrivere meglio. The post NotebookLM e ChatGPT, perché insieme funzionano meglio appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/notebooklm-chatgpt-perche-insieme-funzionano-meglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T16:30:00+00:00"
+    },
+    {
+      "titolo": "iPhone, una custodia ad hoc per potenziare la connettività satellitare?",
+      "descrizione": "Potrebbe essere la chiave per sbloccare sistemi di comunicazione (e quindi funzionalità) più avanzati.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n649132/apple-custodia-satellite-brevetto/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T16:05:00+00:00"
+    },
+    {
+      "titolo": "Ecobonus 2026 per motocicli e quadricicli elettrici: facciamo chiarezza",
+      "descrizione": "Tutte le regole aggiornate dettagliatamente per accedere all'Ecobonus 2026 su moto, scooter e quadricicli elettrici",
+      "link": "https://www.hdmotori.it/incentivi-2026-motocicli-quadricicli-elettrici/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T16:00:48+00:00"
+    },
+    {
+      "titolo": "Crisi delle memorie, un produttore di WC tecnologici potrebbe avere la soluzione",
+      "descrizione": "Noto marchio giapponese di sanitari ultra-tech",
+      "link": "https://www.hdblog.it/hardware/articoli/n649109/crisi-memorie-soluzione-wc-toto/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T15:20:00+00:00"
+    },
+    {
+      "titolo": "OpenAI's Sam Altman warns that firms are using 'AI washing' to mask layoffs across the globe — AI boss calls out corporate excuses while warning of 'palpable' job disruption ahead",
+      "descrizione": "In an interview at the India AI Impact Summit, OpenAI CEO Sam Altman mentioned his belief that AI is being used by businesses to explain unrelated layoffs, but that the technology will cause an impact in the near future.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-sam-altman-warns-that-firms-are-using-ai-washing-to-mask-layoffs-across-the-globe-ai-boss-calls-out-corporate-excuses-while-warning-of-palpable-job-disruption-ahead",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-20T15:18:53+00:00"
+    },
+    {
+      "titolo": "Tessera sanitaria di nuovo sotto attacco: attenzione al phishing",
+      "descrizione": "Un'email sulla tessera sanitaria può trasformarsi in un furto di identità: come riconoscere il phishing segnalato dalla Polizia Postale. The post Tessera sanitaria di nuovo sotto attacco: attenzione al phishing appeared",
+      "link": "https://www.punto-informatico.it/tessera-sanitaria-sotto-attacco-phishing/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T15:06:50+00:00"
+    },
+    {
+      "titolo": "Proteggiti dai rincari per 24 mesi: la nuova tariffa 100% luce verde di Engie",
+      "descrizione": "Engie ha rinnovato la propria offerta con cui bloccare il prezzo della luce per due anni. The post Proteggiti dai rincari per 24 mesi: la nuova tariffa 100% luce verde di Engie appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/proteggiti-dai-rincari-per-24-mesi-la-nuova-tariffa-100-luce-verde-di-engie/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T14:53:49+00:00"
+    },
+    {
+      "titolo": "Down WINDTRE e molti altri servizi: tutti gli aggiornamenti",
+      "descrizione": "Reti e servizi down in questo venerdì: linee fisse e mobile fuori uso per i clienti WINDTRE, migliaia di segnalazioni, cosa sta succedendo? The post Down WINDTRE e molti altri servizi: tutti gli aggiornamenti appeared fi",
+      "link": "https://www.punto-informatico.it/windtre-down-20022026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T14:35:42+00:00"
+    },
+    {
+      "titolo": "Photoshoot di Google per creare foto professionali dei prodotti",
+      "descrizione": "Google lancia Photoshoot. Basta scattare una foto col telefono e l'AI genera immagini professionali dei prodotti per e-commerce e campagne marketing. The post Photoshoot di Google per creare foto professionali dei prodot",
+      "link": "https://www.punto-informatico.it/photoshoot-google-creare-foto-professionali-prodotti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T14:21:59+00:00"
+    },
+    {
+      "titolo": "Micron 9650: primo SSD PCIe 6.0 per data center",
+      "descrizione": "Micron 9650 è il primo SSD per data center al mondo con interfaccia PCIe 6.0 (capacità fino a 30,72 TB e velocità in lettura fino a 28.000 MB/s). The post Micron 9650: primo SSD PCIe 6.0 per data center appeared first on",
+      "link": "https://www.punto-informatico.it/micron-9650-primo-ssd-pcie-6-data-center/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T14:18:42+00:00"
+    },
+    {
+      "titolo": "Tessera elettorale nell’app IO: Assoutenti vuole anche CIE",
+      "descrizione": "Bene la tessera elettorale, si faccia lo stesso con la carta di identità elettronica: Assoutenti sulle evoluzioni di IT-Wallet nell'app IO. The post Tessera elettorale nell’app IO: Assoutenti vuole anche CIE appeared fir",
+      "link": "https://www.punto-informatico.it/app-io-tessera-elettorale-assoutenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-20T13:49:21+00:00"
+    },
+    {
+      "titolo": "Apple porta la Formula 1 al cinema: Monza e altri 4 GP sugli schermi IMAX degli USA",
+      "descrizione": "Norris e compagnia nuovamente al cinema, ma questa volta in diretta.",
+      "link": "https://www.hdblog.it/apple/articoli/n649111/apple-tv-cinema-imax-formula-1-diretta/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T13:35:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi si prepara al lancio di Xiaomi 17 e 17 Ultra con una promo dedicata",
+      "descrizione": "Prodotti in omaggio, coupon, Mi Points, vantaggi permuta e ulteriori privilegi esclusivi.",
+      "link": "https://www.hdblog.it/xiaomi/offerte/n649108/xiaomi-17-e-17-ultra-promo-lancio/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T13:33:00+00:00"
+    },
+    {
+      "titolo": "Down su vari servizi, problemi ai DNS di Google: cosa sta accadendo | In risoluzione",
+      "descrizione": "Nelle ultime ore si è registrato un aumento improvviso e marcato delle segnalazioni di disservizi che coinvolgono diverse piattaforme e servizi, con Wind Tre tra i più segnalati, ma...",
+      "link": "https://www.hdblog.it/h3g/articoli/n649114/windtre-down-segnalazioni-disserviz/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T13:27:00+00:00"
+    },
     {
       "titolo": "eCampus multata dal Garante Privacy per il riconoscimento facciale",
       "descrizione": "Il Garante Privacy ha sanzionato l'Università eCampus per l'utilizzo del riconoscimento facciale nelle attività di formazione online. The post eCampus multata dal Garante Privacy per il riconoscimento facciale appeared f",
       "link": "https://www.punto-informatico.it/ecampus-multa-garante-privacy-riconoscimento-facciale/",
       "fonte": "Punto Informatico",
       "data": "2026-02-20T13:14:57+00:00"
-    },
-    {
-      "titolo": "$20 million lost in 'jackpotting' ATM malware attacks in 2025, FBI reports — scheme forces machines to spit out cash, targets banks and ATM operators",
-      "descrizione": "The FBI released a public warning, saying that ATM \"jackpotting\" incidents have exponentially increased in 2025.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/usd20-million-lost-in-jackpotting-atm-malware-attacks-in-2025-fbi-reports-scheme-forces-machines-to-spit-out-cash-targets-banks-and-atm-operators",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T12:50:16+00:00"
-    },
-    {
-      "titolo": "F24 su PagoPA: tasse e contributi si pagheranno via app IO",
-      "descrizione": "L'F24 sarà integrato nel circuito PagoPA entro il 2028. IVA, IRPEF, IMU e altri tributi si potranno pagare via app IO e canali digitali. The post F24 su PagoPA: tasse e contributi si pagheranno via app IO appeared first",
-      "link": "https://www.punto-informatico.it/f24-pagopa-tasse-contributi-si-pagheranno-via-app-io/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T12:36:07+00:00"
-    },
-    {
-      "titolo": "This iBuyPower gaming PC with a 7800X3D and RTX 5070 Ti is an absolute steal for just $1,999 right now — huge $450 saving on this 4K-capable rig with 32GB of DDR5 RAM and a 1TB SSD",
-      "descrizione": "Just $1,999.99 right now can you score you this iBuyPower gaming PC withan epic set of specs, including an AMD Ryzen 7 7800X3D CPU, Nvidia GeForce RTX 5070 Ti GPU with 16GB VRAM, 32GB of DDR5 RAM, and a 1TB SSD.",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-ti-is-an-absolute-steal-for-just-usd1-999-right-now-huge-usd450-saving-on-this-4k-capable-rig-with-32gb-of-ddr5-ram-and-a-1tb-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T12:09:47+00:00"
-    },
-    {
-      "titolo": "La morsa dell'inquinamento da auto si allenta, ma l'Italia viaggia a due velocità",
-      "descrizione": "L'Italia è il paese dell'Ue più densamente motorizzato, tuttavia, i dati sull'inquinamento da auto sono in miglioramento",
-      "link": "https://www.hdmotori.it/inquinamento-auto-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T12:00:41+00:00"
-    },
-    {
-      "titolo": "Horizon Worlds di Meta diventa un’app mobile e sfida Roblox",
-      "descrizione": "Il metaverso VR di Meta fa retromarcia. Horizon Worlds si separa da Quest e diventa un'app mobile per competere con Roblox e Fortnite. The post Horizon Worlds di Meta diventa un’app mobile e sfida Roblox appeared first o",
-      "link": "https://www.punto-informatico.it/horizon-worlds-meta-diventa-app-mobile-sfida-roblox/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T11:56:16+00:00"
-    },
-    {
-      "titolo": "PromptSpy: primo malware Android con AI integrata",
-      "descrizione": "PromptSpy sfrutta il modello Gemini di Google per rilevare gli elementi dell'interfaccia Android e mantenere l'esecuzione anche dopo il riavvio. The post PromptSpy: primo malware Android con AI integrata appeared first o",
-      "link": "https://www.punto-informatico.it/promptspy-primo-malware-android-ai-integrata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T11:43:18+00:00"
-    },
-    {
-      "titolo": "Le tre nuove Philips Hue Turaco illuminano il giardino con più potenza | PREZZI",
-      "descrizione": "Le Philips Hue Turaco integrano la nuova sorgente A60 fino a 1.100 lumen, con luce bianca e colorata regolabile tramite app Hue",
-      "link": "https://www.hdblog.it/philips/articoli/n649102/philips-hue-turaco-lampade-esterno-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T11:40:00+00:00"
-    },
-    {
-      "titolo": "One UI 9, spunta la nuova opzione Ask AI di Samsung: come funziona",
-      "descrizione": "Un potenziamento del browser di Samsung.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649098/samsung-one-ui-9-ask-ai-funzione-galaxy-s26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T11:35:00+00:00"
-    },
-    {
-      "titolo": "Hyundai e Changan puntano sul litio-lega: batterie oltre ogni limite",
-      "descrizione": "Gangfeng avvia la produzione di batterie solido-liquide da 650 Wh/kg e testa i primi pacchi completamente allo stato solido per il futuro dei BEV.",
-      "link": "https://www.hdmotori.it/batterie-lega-litio-gangfeng-nuova-tecnologia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T11:30:31+00:00"
-    },
-    {
-      "titolo": "Ring, la dichiarazione per le polemiche sull'ipotesi di sorveglianza di massa",
-      "descrizione": "La società tenta di spegnere le polemiche, ma non è che l'intervento sia particolarmente incisivo.",
-      "link": "https://www.hdblog.it/amazon/articoli/n649103/amazon-ring-polemiche-sorveglianza-quartiere/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T11:25:00+00:00"
-    },
-    {
-      "titolo": "California bill would restrict 3D printer sales to state-approved models to prevent printing gun parts — joins Washington and NY on legal offensive",
-      "descrizione": "California 3D printer control bill would restrict sale to DOJ-approved models",
-      "link": "https://www.tomshardware.com/3d-printing/california-bill-for-gun-part-printing-control-on-3d-printers-would-restrict-sale-to-doj-approved-models-sunny-state-joins-washington-and-ny-on-legal-offensive",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T11:20:00+00:00"
-    },
-    {
-      "titolo": "Opera celebra i suoi 30 anni con un'esperienza interattiva ricca di nostalgia",
-      "descrizione": "Web Rewind: l'omaggio di Opera alla storia di Internet tra animazioni ed era Flash",
-      "link": "https://www.hdblog.it/curiosita/articoli/n649099/opera-sito-celebrativo-30-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T11:05:00+00:00"
-    },
-    {
-      "titolo": "The state of China's decade-long semiconductor push: still a decade behind, despite hundreds of billions spent and significant progress — examining the original 'Made in China 2025' initiative",
-      "descrizione": "After 10 years and hundreds of billions of investments, China's semiconductor supply chain is still decades behind chip supply chain in America and Taiwan.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-decade-long-semiconductor-push-still-a-decade-behind-despite-hundreds-of-billions-spent-and-significant-progress-examining-the-original-made-in-china-2025-initiative",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T11:01:27+00:00"
-    },
-    {
-      "titolo": "JBL Wave Flex 2: libertà di muoversi con la sicurezza di un audio premium",
-      "descrizione": "Con le splendide cuffiette Bluetooth JBL Wave Flex 2 avrai la completa libertà di movimento, un audio straordinario e un'ottima autonomia. The post JBL Wave Flex 2: libertà di muoversi con la sicurezza di un audio premiu",
-      "link": "https://www.punto-informatico.it/jbl-wave-flex-2-liberta-di-muoversi-con-sicurezza-di-audio-premium/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T10:55:33+00:00"
-    },
-    {
-      "titolo": "BBVA valorizza il conto corrente con il 3% di remunerazione per 6 mesi",
-      "descrizione": "A cui si aggiunge il 3% di cashback sulle spese effettuate con la carta di debito associata al conto corrente. The post BBVA valorizza il conto corrente con il 3% di remunerazione per 6 mesi appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/fintech/conti/bbva-valorizza-il-conto-corrente-con-il-3-per-cento-di-remunerazione-per-6-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T10:44:46+00:00"
-    },
-    {
-      "titolo": "Babbel: 60 euro di sconto immediato sul piano a vita fino al 1° marzo",
-      "descrizione": "Vuoi imparare una lingua? Con Babbel è più semplice e ora costa anche molto meno: fino al 1 marzo, sconto di 60 euro sul piano a vita. The post Babbel: 60 euro di sconto immediato sul piano a vita fino al 1° marzo appear",
-      "link": "https://www.punto-informatico.it/babbel-60-euro-di-sconto-immediato-sul-piano-a-vita-fino-al-1-marzo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T10:43:42+00:00"
-    },
-    {
-      "titolo": "AI e privacy: DuckDuckGo lancia l’editor immagini anonimo",
-      "descrizione": "Il tool di DuckDuckGo ora permette l'editing delle immagini con l'AI, garantendo il rispetto della privacy: lo abbiamo messo alla prova. The post AI e privacy: DuckDuckGo lancia l’editor immagini anonimo appeared first o",
-      "link": "https://www.punto-informatico.it/duck-ai-editing-immagini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T10:36:21+00:00"
-    },
-    {
-      "titolo": "Zaino da viaggio 40x20x25 a 15€: viaggi aerei sereni e senza costi extra",
-      "descrizione": "Meno di 16€ per l'ormai celebre zaino da viaggio 40×20×25 centimetri utilizzabile con Ryanair e altre compagnie aeree low cost.",
-      "link": "https://www.hdblog.it/amazon/offerte/n649094/zaino-da-viaggio-402025-promozione/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T10:35:00+00:00"
-    },
-    {
-      "titolo": "ASUS e Acer: dopo lo stop alle vendite in Germania, vanno offline i siti di supporto",
-      "descrizione": "Anche solo scaricare i driver diventa sempre più difficile",
-      "link": "https://www.hdblog.it/asus/articoli/n649085/asus-acer-germania-stop-siti-supporto-driver/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T10:35:00+00:00"
-    },
-    {
-      "titolo": "Streaming illegale, nuova operazione anti pirateria: identificati oltre 100 utenti",
-      "descrizione": "Scattano le multe",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n649092/streaming-illegale-100-utenti-identificati/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T10:25:00+00:00"
-    },
-    {
-      "titolo": "Poco X8 Pro e Pro Max, immagini prima del lancio: ecco come saranno",
-      "descrizione": "Le immagini trapelate dei nuovi Poco X8 Pro e X8 Pro Max mostrano design moderno con foro centrale e doppia fotocamera posteriore",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649091/poco-x8-pro-max-5g-immagini-colori-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T10:20:00+00:00"
-    },
-    {
-      "titolo": "Alexa, ecco i comandi speciali per il Festival di Sanremo",
-      "descrizione": "Amazon Alexa attiva funzioni dedicate al Festival di Sanremo 2026 con comandi vocali per pagelle, pronostici e promemoria",
-      "link": "https://www.hdblog.it/amazon/articoli/n649083/sanremo-alexa-comandi-echo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T10:10:00+00:00"
-    },
-    {
-      "titolo": "Boeing Starliner: gravi errori tecnici e organizzativi",
-      "descrizione": "Il report della NASA evidenzia gravi errori tecnici e decisionali in merito alla missione CFT con due astronauti a bordo della navicella Starliner. The post Boeing Starliner: gravi errori tecnici e organizzativi appeared",
-      "link": "https://www.punto-informatico.it/boeing-starliner-gravi-errori-tecnici-organizzativi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T10:07:20+00:00"
     }
   ]
 }
