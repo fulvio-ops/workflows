@@ -1,19 +1,40 @@
 {
-  "last_updated": "2026-02-20T19:07:30.613552+00:00",
+  "last_updated": "2026-02-21T02:49:05.143518+00:00",
   "items": [
     {
-      "titolo": "AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB is the final stand, as even the RTX 5050 falls",
+      "titolo": "14 surprising ways to use your iPhone's USB-C port - beyond just charging",
+      "descrizione": "USB-C turns your iPhone into a hub for work, media, and storage. Sure, you can use Bluetooth, Wi-Fi, or MagSafe. But USB-C has clear advantages.",
+      "link": "https://www.zdnet.com/article/iphone-usb-c-port-uses-beyond-charging/",
+      "fonte": "Latest news",
+      "data": "2026-02-20T20:10:00+00:00"
+    },
+    {
+      "titolo": "I satelliti in rientro (anche quelli di Musk) inquinano l’alta atmosfera terrestre, ed è un pericolo serio",
+      "descrizione": "Se ti passa un razzo sopra la testa, mentre sta ricadendo sulla Terra, in genere sei contento che non ti sia venuto addosso, è una reazione normale. Ma per i...",
+      "link": "https://www.ilsole24ore.com/art/i-satelliti-rientro-anche-quelli-musk-inquinano-l-alta-atmosfera-terrestre-ed-e-pericolo-serio-AIlo5yWB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-20T19:17:12+00:00"
+    },
+    {
+      "titolo": "AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB makes the final stand, as even the RTX 5050 falls",
       "descrizione": "The MSI GeForce RTX 5060 Ti 8G Ventus 2X OC Plus and the Gigabyte GeForce RTX 5060 Ti WindForce 8G are the only Blackwell-based graphics cards still at their MSRPs.",
       "link": "https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-20T18:57:34+00:00"
     },
     {
-      "titolo": "The Best Chairs and Desks from Branch Are on Sale (We’ve Tested Them All)",
+      "titolo": "The Best Chairs and Desks From Branch Are On Sale (We've Tested Them All)",
       "descrizione": "Branch makes excellent office essentials, and our top picks are discounted.",
       "link": "https://www.wired.com/story/branch-deals-february-2026/",
       "fonte": "WIRED",
       "data": "2026-02-20T18:18:35+00:00"
+    },
+    {
+      "titolo": "AMD e Splave, record assoluto di overclock GPU con una Radeon RX 9060 XT",
+      "descrizione": "Quasi 4,8 GHz. I 5 GHz cominciano a fare capolino all'orizzonte...",
+      "link": "https://www.hdblog.it/hardware/articoli/n649149/amd-radeon-rx-9060-xt-splave-record-overclock/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-20T18:08:00+00:00"
     },
     {
       "titolo": "Google AI Mode: AGCOM invierà segnalazione all’UE",
@@ -147,27 +168,6 @@
       "link": "https://www.hdblog.it/apple/articoli/n649111/apple-tv-cinema-imax-formula-1-diretta/",
       "fonte": "HDblog.it",
       "data": "2026-02-20T13:35:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi si prepara al lancio di Xiaomi 17 e 17 Ultra con una promo dedicata",
-      "descrizione": "Prodotti in omaggio, coupon, Mi Points, vantaggi permuta e ulteriori privilegi esclusivi.",
-      "link": "https://www.hdblog.it/xiaomi/offerte/n649108/xiaomi-17-e-17-ultra-promo-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T13:33:00+00:00"
-    },
-    {
-      "titolo": "Down su vari servizi, problemi ai DNS di Google: cosa sta accadendo | In risoluzione",
-      "descrizione": "Nelle ultime ore si è registrato un aumento improvviso e marcato delle segnalazioni di disservizi che coinvolgono diverse piattaforme e servizi, con Wind Tre tra i più segnalati, ma...",
-      "link": "https://www.hdblog.it/h3g/articoli/n649114/windtre-down-segnalazioni-disserviz/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T13:27:00+00:00"
-    },
-    {
-      "titolo": "eCampus multata dal Garante Privacy per il riconoscimento facciale",
-      "descrizione": "Il Garante Privacy ha sanzionato l'Università eCampus per l'utilizzo del riconoscimento facciale nelle attività di formazione online. The post eCampus multata dal Garante Privacy per il riconoscimento facciale appeared f",
-      "link": "https://www.punto-informatico.it/ecampus-multa-garante-privacy-riconoscimento-facciale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T13:14:57+00:00"
     }
   ]
 }
