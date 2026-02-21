@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-21T13:11:55.712440+00:00",
+  "last_updated": "2026-02-21T18:55:08.041081+00:00",
   "items": [
+    {
+      "titolo": "Steam Deck shortage goes global — Valve's handheld console now out of stock in Europe, Canada, the US, and Japan",
+      "descrizione": "The handheld console is still available in Australia, the U.K., Hong Kong, South Korea, and Taiwan. But will they run out of stock in the near future, too?",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-deck-shortage-goes-global-valves-handheld-console-now-out-of-stock-in-europe-canada-the-us-and-japan",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-21T17:34:01+00:00"
+    },
+    {
+      "titolo": "Persona: sistema di sorveglianza con verifica dell’età",
+      "descrizione": "Tre ricercatori hanno scoperto oltre 2.450 file con dati sensibili ottenuti attraverso il software di verifica dell'età di Persona usato da Discord. The post Persona: sistema di sorveglianza con verifica dell’età appeare",
+      "link": "https://www.punto-informatico.it/persona-sistema-sorveglianza-verifica-eta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T17:30:42+00:00"
+    },
     {
       "titolo": "India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China — agreement spans from rare earths to chipmaking tools",
       "descrizione": "With new fabs under development and a growing focus on skilled talent, India’s inclusion in Pax Silica points to a long-term effort by the U.S. and its partners to accelerate capacity building.",
@@ -154,20 +168,6 @@
       "link": "https://www.hdmotori.it/changan-deepal-s05-dimensioni-interni-motori-dotazioni-prezzi/",
       "fonte": "HDblog.it",
       "data": "2026-02-21T06:30:22+00:00"
-    },
-    {
-      "titolo": "14 surprising ways to use your iPhone's USB-C port - beyond just charging",
-      "descrizione": "USB-C turns your iPhone into a hub for work, media, and storage. Sure, you can use Bluetooth, Wi-Fi, or MagSafe. But USB-C has clear advantages.",
-      "link": "https://www.zdnet.com/article/iphone-usb-c-port-uses-beyond-charging/",
-      "fonte": "Latest news",
-      "data": "2026-02-20T20:10:00+00:00"
-    },
-    {
-      "titolo": "I satelliti in rientro (anche quelli di Musk) inquinano l’alta atmosfera terrestre, ed è un pericolo serio",
-      "descrizione": "Se ti passa un razzo sopra la testa, mentre sta ricadendo sulla Terra, in genere sei contento che non ti sia venuto addosso, è una reazione normale. Ma per i...",
-      "link": "https://www.ilsole24ore.com/art/i-satelliti-rientro-anche-quelli-musk-inquinano-l-alta-atmosfera-terrestre-ed-e-pericolo-serio-AIlo5yWB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-20T19:17:12+00:00"
     }
   ]
 }
