@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-02-21T07:02:36.893625+00:00",
+  "last_updated": "2026-02-21T13:11:59.719003+00:00",
   "items": [
     {
-      "titolo": "ChatGPT con Malwarebytes verifica truffe e link sospetti",
-      "descrizione": "Malwarebytes è disponibile come app integrata su ChatGPT. Basta incollare un messaggio, un link o un'email sospetta per ottenere un'analisi. The post ChatGPT con Malwarebytes verifica truffe e link sospetti appeared firs",
-      "link": "https://www.punto-informatico.it/chatgpt-malwarebytes-verifica-truffe-link-sospetti/",
+      "titolo": "OpenAI: il primo gadget sarà uno smart speaker con fotocamera?",
+      "descrizione": "Il primo gadget di OpenAI sarà uno speaker smart con fotocamera e riconoscimento facciale. In arrivo nel 2027 al prezzo di 200-300 dollari. The post OpenAI: il primo gadget sarà uno smart speaker con fotocamera? appeared",
+      "link": "https://www.punto-informatico.it/openai-primo-gadget-smart-speaker-fotocamera/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-20T17:37:43+00:00",
+      "data": "2026-02-21T10:00:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tested Google Docs' new AI audio summaries, and they're a massive time-saver",
-      "descrizione": "Sit back and relax while Gemini reads you the summary of a document in Google Docs.",
-      "link": "https://www.zdnet.com/article/gemini-google-docs-audio-summary/",
-      "fonte": "Latest news",
-      "data": "2026-02-20T17:44:48+00:00",
+      "titolo": "Malware Android usa Gemini per adattarsi, Google rassicura",
+      "descrizione": "PromptSpy è il primo malware Android a sfruttare l'AI. Google conferma che nessuna app infetta è presente sul Play Store. The post Malware Android usa Gemini per adattarsi, Google rassicura appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/malware-android-usa-gemini-adattarsi-google-rassicura/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T11:38:11+00:00",
       "modello": "gemini"
     },
     {

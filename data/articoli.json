@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-21T07:02:31.781131+00:00",
+  "last_updated": "2026-02-21T13:11:55.712440+00:00",
   "items": [
+    {
+      "titolo": "India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China — agreement spans from rare earths to chipmaking tools",
+      "descrizione": "With new fabs under development and a growing focus on skilled talent, India’s inclusion in Pax Silica points to a long-term effort by the U.S. and its partners to accelerate capacity building.",
+      "link": "https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-21T12:40:00+00:00"
+    },
+    {
+      "titolo": "Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' — Tempest AI's retro-futuristic dashboard code shared to Github",
+      "descrizione": "Dave Plummer created Tempest AI to play the classic Atari game, but he also built a dashboard which imagines what Task Manager should look like if he were still in charge of it.",
+      "link": "https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-21T12:20:00+00:00"
+    },
+    {
+      "titolo": "Servizi di Amazon offline a dicembre per colpa di Kiro?",
+      "descrizione": "Secondo le fonti del Financial Times, le due interruzioni dei servizi cloud di Amazon avvenuti a dicembre sarebbero stati causati dall'agente AI Kiro. The post Servizi di Amazon offline a dicembre per colpa di Kiro? appe",
+      "link": "https://www.punto-informatico.it/servizi-amazon-offline-dicembre-colpa-kiro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T12:05:14+00:00"
+    },
+    {
+      "titolo": "Wikipedia officially blacklists all links to Archive Today over bizarre DDOS attack and manipulated archives — website operator caught tweaking their own archive",
+      "descrizione": "Wikipedia officially blacklists all links to Archive Today",
+      "link": "https://www.tomshardware.com/software/search-engines/wikipedia-officially-blacklists-all-links-to-archive-today-website-operator-caught-tweaking-their-own-archive",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-21T12:00:00+00:00"
+    },
+    {
+      "titolo": "Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online",
+      "descrizione": "From pins to mascots to Swatch watches, memorabilia from the Milano Cortina Games is showing up on sites like eBay and Vinted.",
+      "link": "https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/",
+      "fonte": "WIRED",
+      "data": "2026-02-21T12:00:00+00:00"
+    },
+    {
+      "titolo": "Contadino dice no ai data center e rinuncia a 15 milioni di dollari",
+      "descrizione": "Un contadino americano rifiuta 15 milioni di dollari per non cedere la sua fattoria a un data center AI. La sua storia è diventata virale. The post Contadino dice no ai data center e rinuncia a 15 milioni di dollari appe",
+      "link": "https://www.punto-informatico.it/contadino-dice-no-data-center-rinuncia-15-milioni-dollari/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T11:10:08+00:00"
+    },
+    {
+      "titolo": "Windows 11: novità per menu contestuale e impostazioni",
+      "descrizione": "Microsoft ha rilasciato nuove versioni preliminari di Windows 11 con novità e miglioramenti per menu contestuale in Esplora file e impostazioni. The post Windows 11: novità per menu contestuale e impostazioni appeared fi",
+      "link": "https://www.punto-informatico.it/windows-11-novita-menu-contestuale-impostazioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T10:57:14+00:00"
+    },
+    {
+      "titolo": "Windows 11: su Paint arriva la rotazione libera, finalmente!",
+      "descrizione": "Paint su Windows 11 aggiunge la rotazione libera dopo anni di richieste. Forme, testo e selezioni possono ora essere ruotati a qualsiasi angolo. The post Windows 11: su Paint arriva la rotazione libera, finalmente! appea",
+      "link": "https://www.punto-informatico.it/windows-11-paint-rotazione-libera/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T10:12:44+00:00"
+    },
+    {
+      "titolo": "OpenAI: il primo gadget sarà uno smart speaker con fotocamera?",
+      "descrizione": "Il primo gadget di OpenAI sarà uno speaker smart con fotocamera e riconoscimento facciale. In arrivo nel 2027 al prezzo di 200-300 dollari. The post OpenAI: il primo gadget sarà uno smart speaker con fotocamera? appeared",
+      "link": "https://www.punto-informatico.it/openai-primo-gadget-smart-speaker-fotocamera/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T10:00:21+00:00"
+    },
+    {
+      "titolo": "Riciclo batterie auto elettriche, un mercato pronto a decollare: business da 70 miliardi",
+      "descrizione": "Il riciclo delle batterie delle auto elettriche è destinato a esplodere: secondo le stime di McKinsey il mercato arriverà a valere 70 miliardi di dollari",
+      "link": "https://www.hdmotori.it/riciclo-batterie-auto-elettriche-crescita-mercato/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T09:30:27+00:00"
+    },
+    {
+      "titolo": "Android 17 metterà ordine in Google Contatti con un'interfaccia più pulita",
+      "descrizione": "Sbirciamo in anteprima alcune novità in cantiere.",
+      "link": "https://www.hdblog.it/google/articoli/n649155/android-17-google-contatti-interfaccia-chiamata/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T09:05:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen Tiguan, foto spia mostrano una possibile nuova versione R da 333 CV",
+      "descrizione": "Le foto spia mostrano quella che potrebbe essere la nuova versione R della Volkswagen Tiguan",
+      "link": "https://www.hdmotori.it/volkswagen-tiguan-r-2026-foto-spia-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T09:00:42+00:00"
+    },
+    {
+      "titolo": "MacBook Air M4 da 15'': con lo sconto Amazon risparmi 220€",
+      "descrizione": "Il MacBook Air M4 da 15'' con 16GB di memoria unificata e 256GB di SSD è scontato di 220€ su Amazon. Il notebook ideale per studenti e professionisti che hanno bisogno di una macchina leggera da...",
+      "link": "https://www.hdblog.it/portatili/offerte/n649172/macbook-air-m4-15-sconto-amazon-220e/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T08:57:00+00:00"
+    },
+    {
+      "titolo": "HUAWEI WATCH FIT SE: ottimo rapporto qualità prezzo (39€)",
+      "descrizione": "Il HUAWEI WATCH FIT SE ha il GPS integrato, 9 giorni di autonomia, sensori precisi e ora sicuramente un ottimo rapporto qualità prezzo. The post HUAWEI WATCH FIT SE: ottimo rapporto qualità prezzo (39€) appeared first on",
+      "link": "https://www.punto-informatico.it/huawei-watch-fit-se-ottimo-rapporto-qualita-prezzo-39e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-21T08:32:48+00:00"
+    },
+    {
+      "titolo": "Nuova Mazda CX-6e, al via i preordini: tutto su allestimenti, dotazioni e prezzi del SUV elettrico",
+      "descrizione": "Il nuovo SUV elettrico arriverà nelle concessionarie Italia la prossima estate: ecco tutti i dettagli su allestimenti e dotazioni",
+      "link": "https://www.hdmotori.it/mazda-cx-6e-dimensioni-interni-motori-allestimenti-dotazioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T08:30:37+00:00"
+    },
+    {
+      "titolo": "Windows XP, la mitica collina \"Bliss\" oggi è ancora uguale a 30 anni fa",
+      "descrizione": "Un redditor fortunato ha scattato una foto che sembra quasi una fotocopia di quella dei tempi.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n649151/windows-xp-bliss-foto-oggi-30-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T08:25:00+00:00"
+    },
+    {
+      "titolo": "Apple Watch Series 11 torna al minimo su Amazon con l'offerta del weekend",
+      "descrizione": "Apple Watch Series 11 è in offerta su Amazon e tocca oggi il suo prezzo minimo storico con la variante da 42 mm.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n649169/apple-watch-series-11-amazon-feb2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T07:50:00+00:00"
+    },
+    {
+      "titolo": "Zeekr X, il crossover elettrico arriva in Italia: tutte le versioni",
+      "descrizione": "Il crossover elettrico Zeekr X arriva sul mercato italiano: piattaforma SEA, tre varianti e autonomia fino a 446 km",
+      "link": "https://www.hdmotori.it/zeekr-x-dimensioni-interni-motori-prestazioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T07:30:11+00:00"
+    },
+    {
+      "titolo": "Microsoft, seconda gaffe sull'AI nel giro di pochi giorni",
+      "descrizione": "Il colosso di Redmond ha sostanzialmente piratato tutta la saga dei libri di Harry Potter.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n649150/microsoft-gaffe-ai-harry-potter-pirateria/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T07:20:00+00:00"
+    },
+    {
+      "titolo": "Jeep Compass vs Toyota RAV4, sfida tra SUV: quale preferite?",
+      "descrizione": "Mettiamo a confronto due SUV di ultima generazione che offrono spazio, comfort e tecnologia",
+      "link": "https://www.hdmotori.it/jeep-compass-vs-toyota-rav4-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T07:00:03+00:00"
+    },
+    {
+      "titolo": "Terremoto Xbox: Phil Spencer e Sarah Bond lasciano, inizia l'era di Asha Sharma",
+      "descrizione": "Abbandona anche Sarah Bond. Spencer sembra intenzionato ad andare in pensione, Bond invece sembra intenzionata ad andare avanti.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n649152/microsoft-xbox-gaming-phil-spencer-sarah-bond/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T06:50:00+00:00"
+    },
+    {
+      "titolo": "Changan Deepal S05, tutte le versioni e i prezzi del nuovo SUV elettrico",
+      "descrizione": "Changan Deepal S05 parte in Italia da 36.990 euro per la versione con singolo motore e la trazione posteriore",
+      "link": "https://www.hdmotori.it/changan-deepal-s05-dimensioni-interni-motori-dotazioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-21T06:30:22+00:00"
+    },
     {
       "titolo": "14 surprising ways to use your iPhone's USB-C port - beyond just charging",
       "descrizione": "USB-C turns your iPhone into a hub for work, media, and storage. Sure, you can use Bluetooth, Wi-Fi, or MagSafe. But USB-C has clear advantages.",
@@ -14,160 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/i-satelliti-rientro-anche-quelli-musk-inquinano-l-alta-atmosfera-terrestre-ed-e-pericolo-serio-AIlo5yWB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-02-20T19:17:12+00:00"
-    },
-    {
-      "titolo": "AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB makes the final stand, as even the RTX 5050 falls",
-      "descrizione": "The MSI GeForce RTX 5060 Ti 8G Ventus 2X OC Plus and the Gigabyte GeForce RTX 5060 Ti WindForce 8G are the only Blackwell-based graphics cards still at their MSRPs.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T18:57:34+00:00"
-    },
-    {
-      "titolo": "The Best Chairs and Desks From Branch Are On Sale (We've Tested Them All)",
-      "descrizione": "Branch makes excellent office essentials, and our top picks are discounted.",
-      "link": "https://www.wired.com/story/branch-deals-february-2026/",
-      "fonte": "WIRED",
-      "data": "2026-02-20T18:18:35+00:00"
-    },
-    {
-      "titolo": "AMD e Splave, record assoluto di overclock GPU con una Radeon RX 9060 XT",
-      "descrizione": "Quasi 4,8 GHz. I 5 GHz cominciano a fare capolino all'orizzonte...",
-      "link": "https://www.hdblog.it/hardware/articoli/n649149/amd-radeon-rx-9060-xt-splave-record-overclock/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T18:08:00+00:00"
-    },
-    {
-      "titolo": "Google AI Mode: AGCOM invierà segnalazione all’UE",
-      "descrizione": "Il Presidente di AGCOM ha comunicato che verrà inviata una segnalazione alla Commissione UE su AI Mode, in quanto limita il diritto all'informazione. The post Google AI Mode: AGCOM invierà segnalazione all’UE appeared fi",
-      "link": "https://www.punto-informatico.it/google-ai-mode-agcom-segnalazione-ue/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T17:44:05+00:00"
-    },
-    {
-      "titolo": "U.S. Supreme Court shoots down President Trump’s tariffs — Consumer Technology Association hails 'victory for all Americans,' calls for swift refunds to retailers (update)",
-      "descrizione": "The Supreme Court told the Trump administration that the term \"regulate\" in the IEEPA does not give White House authority to impose tariffs on imports.",
-      "link": "https://www.tomshardware.com/tech-industry/u-s-supreme-court-shoots-down-president-trumps-tariffs-consumer-technology-association-hails-victory-for-all-americans-calls-for-swift-refunds-to-retailers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T17:26:42+00:00"
-    },
-    {
-      "titolo": "Microsoft's Project Silica write-once storage could store terabytes of data for over 10,000 years — company explores two physical glass storage methods, so the glass-clad future of storage isn't coming anytime soon",
-      "descrizione": "Microsoft's Project Silica now explores two different methods to store data on glass medium, but neither is close enough for commercialization.",
-      "link": "https://www.tomshardware.com/pc-components/storage/project-silica",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T17:12:19+00:00"
-    },
-    {
-      "titolo": "Acer and Asus shut down support for PC and laptops in wake of patent dispute ruling, drivers and updates inaccessible to existing customers — German website finds a workaround (Update)",
-      "descrizione": "Asus and Acer bring German websites down, leaving users without support or downloads due to the companies' recent spat with Nokia over the HEVC codec.",
-      "link": "https://www.tomshardware.com/pc-components/acer-and-asus-shut-down-support-for-pc-and-laptops-in-wake-of-patent-dispute-ruling-drivers-and-updates-inaccessible-to-existing-customers-german-website-finds-a-workaround",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T16:58:55+00:00"
-    },
-    {
-      "titolo": "ElevenLabs e l’album dei cloni: se il diritto d’autore sposa l’algoritmo",
-      "descrizione": "Un album con voci sintetiche generata dall’AI: siamo difronte all’innovazione o forse un preavviso spaventoso di quello che ci attende?",
-      "link": "https://www.ilsole24ore.com/art/elevenlabs-e-l-album-cloni-se-diritto-d-autore-sposa-l-algoritmo-AIQd5BXB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-20T16:57:12+00:00"
-    },
-    {
-      "titolo": "Perseverance trova la strada su Marte senza GPS",
-      "descrizione": "Grazie alla tecnologia Mars Global Localization, il rover Perseverance può calcolare la sua posizione su Marte senza ricevere comandi dalla Terra. The post Perseverance trova la strada su Marte senza GPS appeared first o",
-      "link": "https://www.punto-informatico.it/perseverance-trova-strada-marte-senza-gps/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T16:47:39+00:00"
-    },
-    {
-      "titolo": "Supreme Court Rules Most of Donald Trump’s Tariffs Are Illegal",
-      "descrizione": "In a 6-3 ruling, justices upended the Trump administration’s signature economic policy, potentially putting the US government on the hook for at least $175 billion in tariff refunds.",
-      "link": "https://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
-      "fonte": "WIRED",
-      "data": "2026-02-20T16:32:58+00:00"
-    },
-    {
-      "titolo": "NotebookLM e ChatGPT, perché insieme funzionano meglio",
-      "descrizione": "NotebookLM e ChatGPT non sono rivali, usati insieme diventano un sistema potente per fare ricerca, studiare e scrivere meglio. The post NotebookLM e ChatGPT, perché insieme funzionano meglio appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/notebooklm-chatgpt-perche-insieme-funzionano-meglio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T16:30:00+00:00"
-    },
-    {
-      "titolo": "iPhone, una custodia ad hoc per potenziare la connettività satellitare?",
-      "descrizione": "Potrebbe essere la chiave per sbloccare sistemi di comunicazione (e quindi funzionalità) più avanzati.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649132/apple-custodia-satellite-brevetto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T16:05:00+00:00"
-    },
-    {
-      "titolo": "Ecobonus 2026 per motocicli e quadricicli elettrici: facciamo chiarezza",
-      "descrizione": "Tutte le regole aggiornate dettagliatamente per accedere all'Ecobonus 2026 su moto, scooter e quadricicli elettrici",
-      "link": "https://www.hdmotori.it/incentivi-2026-motocicli-quadricicli-elettrici/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T16:00:48+00:00"
-    },
-    {
-      "titolo": "Crisi delle memorie, un produttore di WC tecnologici potrebbe avere la soluzione",
-      "descrizione": "Noto marchio giapponese di sanitari ultra-tech",
-      "link": "https://www.hdblog.it/hardware/articoli/n649109/crisi-memorie-soluzione-wc-toto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T15:20:00+00:00"
-    },
-    {
-      "titolo": "OpenAI's Sam Altman warns that firms are using 'AI washing' to mask layoffs across the globe — AI boss calls out corporate excuses while warning of 'palpable' job disruption ahead",
-      "descrizione": "In an interview at the India AI Impact Summit, OpenAI CEO Sam Altman mentioned his belief that AI is being used by businesses to explain unrelated layoffs, but that the technology will cause an impact in the near future.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-sam-altman-warns-that-firms-are-using-ai-washing-to-mask-layoffs-across-the-globe-ai-boss-calls-out-corporate-excuses-while-warning-of-palpable-job-disruption-ahead",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-20T15:18:53+00:00"
-    },
-    {
-      "titolo": "Tessera sanitaria di nuovo sotto attacco: attenzione al phishing",
-      "descrizione": "Un'email sulla tessera sanitaria può trasformarsi in un furto di identità: come riconoscere il phishing segnalato dalla Polizia Postale. The post Tessera sanitaria di nuovo sotto attacco: attenzione al phishing appeared",
-      "link": "https://www.punto-informatico.it/tessera-sanitaria-sotto-attacco-phishing/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T15:06:50+00:00"
-    },
-    {
-      "titolo": "Proteggiti dai rincari per 24 mesi: la nuova tariffa 100% luce verde di Engie",
-      "descrizione": "Engie ha rinnovato la propria offerta con cui bloccare il prezzo della luce per due anni. The post Proteggiti dai rincari per 24 mesi: la nuova tariffa 100% luce verde di Engie appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/proteggiti-dai-rincari-per-24-mesi-la-nuova-tariffa-100-luce-verde-di-engie/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T14:53:49+00:00"
-    },
-    {
-      "titolo": "Down WINDTRE e molti altri servizi: tutti gli aggiornamenti",
-      "descrizione": "Reti e servizi down in questo venerdì: linee fisse e mobile fuori uso per i clienti WINDTRE, migliaia di segnalazioni, cosa sta succedendo? The post Down WINDTRE e molti altri servizi: tutti gli aggiornamenti appeared fi",
-      "link": "https://www.punto-informatico.it/windtre-down-20022026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T14:35:42+00:00"
-    },
-    {
-      "titolo": "Photoshoot di Google per creare foto professionali dei prodotti",
-      "descrizione": "Google lancia Photoshoot. Basta scattare una foto col telefono e l'AI genera immagini professionali dei prodotti per e-commerce e campagne marketing. The post Photoshoot di Google per creare foto professionali dei prodot",
-      "link": "https://www.punto-informatico.it/photoshoot-google-creare-foto-professionali-prodotti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T14:21:59+00:00"
-    },
-    {
-      "titolo": "Micron 9650: primo SSD PCIe 6.0 per data center",
-      "descrizione": "Micron 9650 è il primo SSD per data center al mondo con interfaccia PCIe 6.0 (capacità fino a 30,72 TB e velocità in lettura fino a 28.000 MB/s). The post Micron 9650: primo SSD PCIe 6.0 per data center appeared first on",
-      "link": "https://www.punto-informatico.it/micron-9650-primo-ssd-pcie-6-data-center/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T14:18:42+00:00"
-    },
-    {
-      "titolo": "Tessera elettorale nell’app IO: Assoutenti vuole anche CIE",
-      "descrizione": "Bene la tessera elettorale, si faccia lo stesso con la carta di identità elettronica: Assoutenti sulle evoluzioni di IT-Wallet nell'app IO. The post Tessera elettorale nell’app IO: Assoutenti vuole anche CIE appeared fir",
-      "link": "https://www.punto-informatico.it/app-io-tessera-elettorale-assoutenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-20T13:49:21+00:00"
-    },
-    {
-      "titolo": "Apple porta la Formula 1 al cinema: Monza e altri 4 GP sugli schermi IMAX degli USA",
-      "descrizione": "Norris e compagnia nuovamente al cinema, ma questa volta in diretta.",
-      "link": "https://www.hdblog.it/apple/articoli/n649111/apple-tv-cinema-imax-formula-1-diretta/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-20T13:35:00+00:00"
     }
   ]
 }
