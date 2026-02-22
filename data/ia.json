@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-02-22T07:07:30.643023+00:00",
+  "last_updated": "2026-02-22T13:13:29.262578+00:00",
   "items": [
     {
-      "titolo": "OpenAI: il primo gadget sarà uno smart speaker con fotocamera?",
-      "descrizione": "Il primo gadget di OpenAI sarà uno speaker smart con fotocamera e riconoscimento facciale. In arrivo nel 2027 al prezzo di 200-300 dollari. The post OpenAI: il primo gadget sarà uno smart speaker con fotocamera? appeared",
-      "link": "https://www.punto-informatico.it/openai-primo-gadget-smart-speaker-fotocamera/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-21T10:00:21+00:00",
+      "titolo": "Arriva Google Pixel 10a: la fotografia con l’Ai vale più dei megapixel?",
+      "descrizione": "Google punta a conquistare gli smartphone di fascia media: a 549 euro non alza i prezzi e scommette sulla fotografia computazionale.",
+      "link": "https://www.ilsole24ore.com/art/arriva-google-pixel-10a-fotografia-l-ai-vale-piu-megapixel-AIPY5FTB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-22T10:42:24+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
+      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
+      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-22T12:20:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Malware Android usa Gemini per adattarsi, Google rassicura",
