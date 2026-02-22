@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-02-22T13:13:25.167513+00:00",
+  "last_updated": "2026-02-22T18:55:21.940691+00:00",
   "items": [
+    {
+      "titolo": "Apple annuncerà almeno 5 prodotti in 3 giorni",
+      "descrizione": "Apple dovrebbe annunciare nuovi MacBook, iPad e iPhone 17e (tra il 2 e 4 marzo) che verranno mostrati alla stampa a New York, Londra e Shanghai. The post Apple annuncerà almeno 5 prodotti in 3 giorni appeared first on Pu",
+      "link": "https://www.punto-informatico.it/apple-annuncera-almeno-5-prodotti-3-giorni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-22T17:37:09+00:00"
+    },
+    {
+      "titolo": "VPN da usare in viaggio: ecco la scelta migliore da attivare oggi",
+      "descrizione": "Con l'offerta in corso, NordVPN è la soluzione giusta per attivare una nuova VPN da usare in viaggio, per navigare in sicurezza e senza blocchi. The post VPN da usare in viaggio: ecco la scelta migliore da attivare oggi",
+      "link": "https://www.punto-informatico.it/vpn-da-usare-in-viaggio-ecco-la-scelta-migliore-da-attivare-oggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-22T17:27:12+00:00"
+    },
+    {
+      "titolo": "Pedopornografia su iCloud: denuncia per Apple",
+      "descrizione": "Apple ha ricevuto una denuncia dal Procuratore Generale del West Virginia per non aver impedito la distribuzione di materiale pedopornografico con iCloud. The post Pedopornografia su iCloud: denuncia per Apple appeared f",
+      "link": "https://www.punto-informatico.it/pedopornografia-icloud-denuncia-apple/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-22T15:36:50+00:00"
+    },
+    {
+      "titolo": "Immagini non consensuali: rimozione entro 48 ore o multa",
+      "descrizione": "Il governo del Regno Unito presenterà una legge che impone alle piattaforme di rimuovere le immagini non consensuali entro 48 ore dalla segnalazione. The post Immagini non consensuali: rimozione entro 48 ore o multa appe",
+      "link": "https://www.punto-informatico.it/immagini-non-consensuali-rimozione-entro-48-ore-multa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-22T14:43:07+00:00"
+    },
     {
       "titolo": "Dell's new prebuilt PC has special custom power connector for Nvidia GPU — even large OEMs apparently fear the 16-pin power connector meltdowns",
       "descrizione": "Dell's solution to the 16-pin connector overheating issues seems to bea custom connector to lock it into place. At least, that's what the OEM has done in a new prebuilt featuring the RTX 5070 Ti. The 12V-2x6 connector is",
@@ -44,7 +72,7 @@
       "data": "2026-02-22T11:05:00+00:00"
     },
     {
-      "titolo": "Colorado could ban 3D printers not under its surveillance to prevent creating gun parts — fourth state to propose new bans is expanding firearms laws to regulate digital files",
+      "titolo": "Colorado law could force surveillance for 3D printers to prevent use for making gun parts — fourth state to propose new bans is expanding firearms laws to regulate digital files",
       "descrizione": "Colorado is joining the growing list of states attempting to crack down on the manufacture of 3D printed “ghost guns,” joining New York, Washington, and California on a quest to expand firearms laws to regulate digital f",
       "link": "https://www.tomshardware.com/3d-printing/colorado-could-ban-3d-printers-not-under-its-surveillance-to-prevent-creating-gun-parts-fourth-state-to-propose-new-bans-is-expanding-firearms-laws-to-regulate-digital-files",
       "fonte": "Latest from Tom's Hardware",
@@ -140,34 +168,6 @@
       "link": "https://www.hdmotori.it/hyundai-ioniq-9-tecnologia-active-road-noise-control/",
       "fonte": "HDblog.it",
       "data": "2026-02-22T08:30:30+00:00"
-    },
-    {
-      "titolo": "Xiaomi 15T da 256GB crolla su Amazon al minimo storico (-40%)",
-      "descrizione": "Il meraviglioso Xiaomi 15T da 256GB è in offerta su Amazon al 40% e dunque lo potrai ottenere al prezzo più basso finora registrato. The post Xiaomi 15T da 256GB crolla su Amazon al minimo storico (-40%) appeared first o",
-      "link": "https://www.punto-informatico.it/xiaomi-15t-da-256gb-crolla-su-amazon-al-minimo-storico-40/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-22T08:27:27+00:00"
-    },
-    {
-      "titolo": "Altman difende i consumi dell’AI: Anche gli umani usano l’energia",
-      "descrizione": "Sam Altman difende l'impatto ambientale dell'AI e lo paragona al costo energetico di addestrare un essere umano per 20 anni. The post Altman difende i consumi dell’AI: Anche gli umani usano l’energia appeared first on Pu",
-      "link": "https://www.punto-informatico.it/altman-difende-consumi-ai-anche-umani-usano-energia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-22T08:05:00+00:00"
-    },
-    {
-      "titolo": "KIA EV4 alla prova del freddo estremo: ecco come si è comportata",
-      "descrizione": "Nei test invernali tra i più severi d’Europa, la KIA EV4 ha dimostrato una buona efficienza",
-      "link": "https://www.hdmotori.it/kia-ev4-test-autonomia-freddo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-22T08:00:56+00:00"
-    },
-    {
-      "titolo": "Oppo Find X9 Ultra e Vivo X300 Ultra, coppia di leak: puntano sulle fotocamere",
-      "descrizione": "Si prospettano due cameraphone di livello.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649195/oppo-find-x9-ultra-e-vivo-x300-ultra-zoom-200-mp/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-22T07:55:00+00:00"
     }
   ]
 }

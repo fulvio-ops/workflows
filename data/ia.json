@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T13:13:29.262578+00:00",
+  "last_updated": "2026-02-22T18:55:26.598432+00:00",
   "items": [
     {
       "titolo": "Arriva Google Pixel 10a: la fotografia con l’Ai vale più dei megapixel?",
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Malware Android usa Gemini per adattarsi, Google rassicura",
-      "descrizione": "PromptSpy è il primo malware Android a sfruttare l'AI. Google conferma che nessuna app infetta è presente sul Play Store. The post Malware Android usa Gemini per adattarsi, Google rassicura appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/malware-android-usa-gemini-adattarsi-google-rassicura/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-21T11:38:11+00:00",
+      "titolo": "I tested Google Docs' new AI audio summaries, and they're a massive time-saver",
+      "descrizione": "Sit back and relax while Gemini reads you the summary of a document in Google Docs.",
+      "link": "https://www.zdnet.com/article/gemini-google-docs-audio-summary/",
+      "fonte": "Latest news",
+      "data": "2026-02-20T17:44:48+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI Safety Meets the War Machine",
-      "descrizione": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
-      "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-      "fonte": "WIRED",
-      "data": "2026-02-20T17:00:00+00:00",
+      "titolo": "Claude Code Security trova e corregge bug nel software",
+      "descrizione": "Claude Code Security è la capacità dell'agente AI che consente di trovare le vulnerabilità nel software e suggerire le patch (applicate solo da umani). The post Claude Code Security trova e corregge bug nel software appe",
+      "link": "https://www.punto-informatico.it/claude-code-security-trova-corregge-bug-software/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-22T16:34:22+00:00",
       "modello": "claude"
     }
   ]
