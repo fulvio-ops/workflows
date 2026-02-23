@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-23T07:32:42.890091+00:00",
+  "last_updated": "2026-02-23T13:43:11.573616+00:00",
   "items": [
     {
-      "titolo": "Quanta energia consuma l'AI? Altman ridimensiona numeri e chiarisce priorità",
-      "descrizione": "Il CEO di OpenAI ha respinto con toni netti alcune delle accuse più ricorrenti",
-      "link": "https://www.hdblog.it/green/articoli/n649238/quanta-energia-consuma-ai-altman-ridimensiona/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-23T06:05:00+00:00",
+      "titolo": "US exports from Taiwan now exceed exports from China for the first time in decades — AI gold rush fuels 93.5% jump in advanced system exports",
+      "descrizione": "Recent trade statistics indicate that Taiwan now supplies more goods to the U.S. than China does, but this is only a part of the picture, as Taiwan is rapidly increasing its exports to everywhere in the world.",
+      "link": "https://www.tomshardware.com/tech-industry/taiwan-exports-leapfrog-china",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-23T13:19:29+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code Security trova e corregge bug nel software",
-      "descrizione": "Claude Code Security è la capacità dell'agente AI che consente di trovare le vulnerabilità nel software e suggerire le patch (applicate solo da umani). The post Claude Code Security trova e corregge bug nel software appe",
-      "link": "https://www.punto-informatico.it/claude-code-security-trova-corregge-bug-software/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-22T16:34:22+00:00",
+      "titolo": "User accidentally gains control of over 6,700 robot vacuums while tinkering with their own device to enable control with a PlayStation controller — security flaw reveals floor plans and live video feeds",
+      "descrizione": "An AI strategist used Claude Code to reverse engineer his robot vacuum and control it with a PlayStation controller, but it accidentally gave him control of thousands of similar devices spread all across the world.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/user-accidentally-gains-control-of-over-6-700-robot-vacuums-while-tinkering-with-their-own-device-to-enable-control-with-a-playstation-controller-security-flaw-reveals-floor-plans-and-live-video-feeds",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-23T11:00:00+00:00",
       "modello": "claude"
     }
   ]
