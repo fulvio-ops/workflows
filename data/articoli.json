@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-22T18:55:21.940691+00:00",
+  "last_updated": "2026-02-23T03:20:46.563149+00:00",
   "items": [
+    {
+      "titolo": "Your iPhone's USB-C port is surprisingly versatile - 14 features beyond charging",
+      "descrizione": "USB-C turns your iPhone into a hub for work, media, and storage. Here's how it can do more than just power up your device.",
+      "link": "https://www.zdnet.com/article/iphone-usb-c-port-uses-beyond-charging/",
+      "fonte": "Latest news",
+      "data": "2026-02-23T02:37:00+00:00"
+    },
+    {
+      "titolo": "Goodbye, VirtualBox - I found a better, more reliable VM manager for Linux",
+      "descrizione": "Virt-Manager is a free and easy-to-install virtual machine manager. Here's how it compares to the popular VirtualBox.",
+      "link": "https://www.zdnet.com/article/virt-manager-better-vm-manager-than-virtualbox/",
+      "fonte": "Latest news",
+      "data": "2026-02-23T02:21:00+00:00"
+    },
     {
       "titolo": "Apple annuncerà almeno 5 prodotti in 3 giorni",
       "descrizione": "Apple dovrebbe annunciare nuovi MacBook, iPad e iPhone 17e (tra il 2 e 4 marzo) che verranno mostrati alla stampa a New York, Londra e Shanghai. The post Apple annuncerà almeno 5 prodotti in 3 giorni appeared first on Pu",
@@ -49,13 +63,6 @@
       "link": "https://www.hdblog.it/green/articoli/n649205/trump-centrali-carbone-limiti-mercurio/",
       "fonte": "HDblog.it",
       "data": "2026-02-22T11:35:00+00:00"
-    },
-    {
-      "titolo": "I made the ultimate Windows keyboard shortcut guide (and they'll work for anyone)",
-      "descrizione": "These essential keyboard shortcuts can save you tons of time, and some of them were even new to me.",
-      "link": "https://www.zdnet.com/article/best-windows-keyboard-shortcuts/",
-      "fonte": "Latest news",
-      "data": "2026-02-22T11:30:38+00:00"
     },
     {
       "titolo": "Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip — \"MTT AI Book\" can run Windows, seems to have adopted Arm before Nvidia's N1X",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/su-dazn-e-una-domenica-da-champions-in-campo-napoli-milan-e-roma/",
       "fonte": "Punto Informatico",
       "data": "2026-02-22T08:33:23+00:00"
-    },
-    {
-      "titolo": "Hyundai Ioniq 9: tanta tecnologia a supporto del viaggio. Ecco la cancellazione del rumore",
-      "descrizione": "Hyundai Ioniq 9 è ammiraglia in gamma, ma anche un pozzo tecnologico con le sue soluzioni come l'Active Road Noise Control",
-      "link": "https://www.hdmotori.it/hyundai-ioniq-9-tecnologia-active-road-noise-control/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-22T08:30:30+00:00"
     }
   ]
 }
