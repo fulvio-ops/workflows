@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-23T13:43:11.573616+00:00",
+  "last_updated": "2026-02-23T19:33:19.860738+00:00",
   "items": [
     {
-      "titolo": "US exports from Taiwan now exceed exports from China for the first time in decades — AI gold rush fuels 93.5% jump in advanced system exports",
-      "descrizione": "Recent trade statistics indicate that Taiwan now supplies more goods to the U.S. than China does, but this is only a part of the picture, as Taiwan is rapidly increasing its exports to everywhere in the world.",
-      "link": "https://www.tomshardware.com/tech-industry/taiwan-exports-leapfrog-china",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T13:19:29+00:00",
+      "titolo": "ChatGPT, in arrivo un piano \"intermedio\" tra Plus e Pro da 100 dollari?",
+      "descrizione": "Per ora non c'è niente di ufficiale ma gli indizi sono piuttosto concreti.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n649397/chatgpt-nuovo-piano-abbonamento-pro-lite/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-23T18:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
-      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
-      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-22T12:20:00+00:00",
+      "titolo": "Microsoft: “Copilot è la migliore app di produttività di Windows”",
+      "descrizione": "Microsoft pubblica una classifica delle migliori app di produttività di Windows mettendo Copilot al primo posto sopra Esplora File. The post Microsoft: “Copilot è la migliore app di produttività di Windows” appeared firs",
+      "link": "https://www.punto-informatico.it/microsoft-copilot-migliore-app-produttivita-windows/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-23T17:37:44+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "L’AI è pronta per la matematica? Gemini alla prova con 700 problemi irrisolti",
-      "descrizione": "Da qualche mese una raccolta online di problemi matematici è diventata il banco di prova per testare le capacità astratte dell’intelligenza artificiale.",
-      "link": "https://www.ilsole24ore.com/art/l-ai-e-pronta-la-matematica-gemini-prova-700-problemi-irrisolti-AIISIXOB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-19T14:31:34+00:00",
+      "titolo": "Come usare Lyria 3 su Gemini per creare canzoni su misura",
+      "descrizione": "Lyria 3 è il nuovo strumento musicale integrato in Gemini che genera brani originali a partire da un semplice prompt. Ecco come usarlo. The post Come usare Lyria 3 su Gemini per creare canzoni su misura appeared first on",
+      "link": "https://www.punto-informatico.it/come-usare-lyria-3-gemini-creare-canzoni-su-misura/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-23T16:30:47+00:00",
       "modello": "gemini"
     },
     {
