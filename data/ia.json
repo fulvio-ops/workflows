@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T03:15:34.588106+00:00",
+  "last_updated": "2026-02-24T07:17:33.310718+00:00",
   "items": [
     {
       "titolo": "ChatGPT, in arrivo un piano \"intermedio\" tra Plus e Pro da 100 dollari?",
@@ -26,19 +26,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
-      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T21:27:30+00:00",
+      "titolo": "Anthropic accusa DeepSeek di aver usato Claude per la sua AI",
+      "descrizione": "Anthropic accusa DeepSeek e altre aziende cinesi di aver usato Claude su scala industriale per addestrare i propri modelli AI. The post Anthropic accusa DeepSeek di aver usato Claude per la sua AI appeared first on Punto",
+      "link": "https://www.punto-informatico.it/anthropic-accusa-deepseek-ha-usato-claude-sua-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-24T05:54:59+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
-      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T21:27:30+00:00",
+      "titolo": "Anthropic accusa DeepSeek di aver usato Claude per la sua AI",
+      "descrizione": "Anthropic accusa DeepSeek e altre aziende cinesi di aver usato Claude su scala industriale per addestrare i propri modelli AI. The post Anthropic accusa DeepSeek di aver usato Claude per la sua AI appeared first on Punto",
+      "link": "https://www.punto-informatico.it/anthropic-accusa-deepseek-ha-usato-claude-sua-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-24T05:54:59+00:00",
       "modello": "altri"
     }
   ]
