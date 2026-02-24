@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-02-24T07:17:33.310718+00:00",
+  "last_updated": "2026-02-24T13:44:43.191827+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, in arrivo un piano \"intermedio\" tra Plus e Pro da 100 dollari?",
-      "descrizione": "Per ora non c'è niente di ufficiale ma gli indizi sono piuttosto concreti.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n649397/chatgpt-nuovo-piano-abbonamento-pro-lite/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-23T18:05:00+00:00",
+      "titolo": "ChatGPT e Gemini si bevono le bufale online, la dimostrazione",
+      "descrizione": "Un giornalista della BBC ha scritto un blog pieno di fatti inventati e in meno di 24 ore ChatGPT e Gemini li spacciavano come verità. The post ChatGPT e Gemini si bevono le bufale online, la dimostrazione appeared first",
+      "link": "https://www.punto-informatico.it/chatgpt-gemini-si-bevono-bufale-online-dimostrazione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-24T12:54:36+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft: “Copilot è la migliore app di produttività di Windows”",
-      "descrizione": "Microsoft pubblica una classifica delle migliori app di produttività di Windows mettendo Copilot al primo posto sopra Esplora File. The post Microsoft: “Copilot è la migliore app di produttività di Windows” appeared firs",
-      "link": "https://www.punto-informatico.it/microsoft-copilot-migliore-app-produttivita-windows/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-23T17:37:44+00:00",
+      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
+      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
+      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-22T12:20:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Come usare Lyria 3 su Gemini per creare canzoni su misura",
-      "descrizione": "Lyria 3 è il nuovo strumento musicale integrato in Gemini che genera brani originali a partire da un semplice prompt. Ecco come usarlo. The post Come usare Lyria 3 su Gemini per creare canzoni su misura appeared first on",
-      "link": "https://www.punto-informatico.it/come-usare-lyria-3-gemini-creare-canzoni-su-misura/",
+      "titolo": "ChatGPT e Gemini si bevono le bufale online, la dimostrazione",
+      "descrizione": "Un giornalista della BBC ha scritto un blog pieno di fatti inventati e in meno di 24 ore ChatGPT e Gemini li spacciavano come verità. The post ChatGPT e Gemini si bevono le bufale online, la dimostrazione appeared first",
+      "link": "https://www.punto-informatico.it/chatgpt-gemini-si-bevono-bufale-online-dimostrazione/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-23T16:30:47+00:00",
+      "data": "2026-02-24T12:54:36+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic accusa DeepSeek di aver usato Claude per la sua AI",
-      "descrizione": "Anthropic accusa DeepSeek e altre aziende cinesi di aver usato Claude su scala industriale per addestrare i propri modelli AI. The post Anthropic accusa DeepSeek di aver usato Claude per la sua AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/anthropic-accusa-deepseek-ha-usato-claude-sua-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-24T05:54:59+00:00",
+      "titolo": "Anthropic's new AI tool can write 67-year-old COBOL code, which sends 115-year-old IBM's stock tumbling by 13% — IBM stock has worst day in 26 years, down 25% MoM and counting",
+      "descrizione": "IBM stock takes a 13% whiplash after Anthropic announces COBOL AI tooling",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/ibm-stock-takes-a-13-percent-whiplash-after-anthropic-announces-an-ai-tool-for-writing-cobol-code-stock-has-worst-day-since-2000-and-is-down-25-percent-mom-and-counting",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-24T12:00:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Anthropic accusa DeepSeek di aver usato Claude per la sua AI",
-      "descrizione": "Anthropic accusa DeepSeek e altre aziende cinesi di aver usato Claude su scala industriale per addestrare i propri modelli AI. The post Anthropic accusa DeepSeek di aver usato Claude per la sua AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/anthropic-accusa-deepseek-ha-usato-claude-sua-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-24T05:54:59+00:00",
+      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
+      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-23T21:27:30+00:00",
       "modello": "altri"
     }
   ]
