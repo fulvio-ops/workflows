@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T13:44:43.191827+00:00",
+  "last_updated": "2026-02-24T19:18:58.813809+00:00",
   "items": [
     {
       "titolo": "ChatGPT e Gemini si bevono le bufale online, la dimostrazione",
@@ -10,35 +10,35 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
-      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
-      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-22T12:20:00+00:00",
+      "titolo": "Copilot quietly grabs your data from other Microsoft products now - here's how to opt out",
+      "descrizione": "A new setting in Copilot will access data from Bing, MSN, Edge, and other services. You can disable this if you're worried about your privacy.",
+      "link": "https://www.zdnet.com/article/copilot-data-other-microsoft-products-opt-out/",
+      "fonte": "Latest news",
+      "data": "2026-02-24T17:38:52+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "ChatGPT e Gemini si bevono le bufale online, la dimostrazione",
-      "descrizione": "Un giornalista della BBC ha scritto un blog pieno di fatti inventati e in meno di 24 ore ChatGPT e Gemini li spacciavano come verità. The post ChatGPT e Gemini si bevono le bufale online, la dimostrazione appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-gemini-si-bevono-bufale-online-dimostrazione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-24T12:54:36+00:00",
+      "titolo": "You can turn off Gemini in Gmail, Photos, Chrome, and more - here's how",
+      "descrizione": "There are simple ways to remove Google's AI tools from your favorite apps. The settings are buried but easy to disable.",
+      "link": "https://www.zdnet.com/article/turn-off-gemini-in-google-apps-gmail-photos-chrome/",
+      "fonte": "Latest news",
+      "data": "2026-02-24T18:02:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's new AI tool can write 67-year-old COBOL code, which sends 115-year-old IBM's stock tumbling by 13% — IBM stock has worst day in 26 years, down 25% MoM and counting",
-      "descrizione": "IBM stock takes a 13% whiplash after Anthropic announces COBOL AI tooling",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/ibm-stock-takes-a-13-percent-whiplash-after-anthropic-announces-an-ai-tool-for-writing-cobol-code-stock-has-worst-day-since-2000-and-is-down-25-percent-mom-and-counting",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-24T12:00:00+00:00",
+      "titolo": "Claude Cowork si collega a Google Workspace e WordPress",
+      "descrizione": "Anthropic aggiorna Claude Cowork con integrazioni per Google Workspace, e WordPress, più nuovi plug-in per HR, design, finanza e ingegneria. The post Claude Cowork si collega a Google Workspace e WordPress appeared first",
+      "link": "https://www.punto-informatico.it/claude-cowork-si-collega-google-workspace-wordpress/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-24T18:55:48+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
-      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T21:27:30+00:00",
+      "titolo": "DeepSeek ha usato le GPU Blackwell aggirando il ban",
+      "descrizione": "DeepSeek avrebbe aggirato le regole degli Stati Uniti sulle esportazioni e usato le GPU Blackwell di NVIDIA per l'addestramento del nuovo modello V4. The post DeepSeek ha usato le GPU Blackwell aggirando il ban appeared",
+      "link": "https://www.punto-informatico.it/deepseek-gpu-blackwell-ban/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-24T13:58:57+00:00",
       "modello": "altri"
     }
   ]
