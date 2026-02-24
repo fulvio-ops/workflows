@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T19:33:19.860738+00:00",
+  "last_updated": "2026-02-24T03:15:34.588106+00:00",
   "items": [
     {
       "titolo": "ChatGPT, in arrivo un piano \"intermedio\" tra Plus e Pro da 100 dollari?",
@@ -26,12 +26,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "User accidentally gains control of over 6,700 robot vacuums while tinkering with their own device to enable control with a PlayStation controller — security flaw reveals floor plans and live video feeds",
-      "descrizione": "An AI strategist used Claude Code to reverse engineer his robot vacuum and control it with a PlayStation controller, but it accidentally gave him control of thousands of similar devices spread all across the world.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/user-accidentally-gains-control-of-over-6-700-robot-vacuums-while-tinkering-with-their-own-device-to-enable-control-with-a-playstation-controller-security-flaw-reveals-floor-plans-and-live-video-feeds",
+      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
+      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T11:00:00+00:00",
+      "data": "2026-02-23T21:27:30+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
+      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-23T21:27:30+00:00",
+      "modello": "altri"
     }
   ]
 }

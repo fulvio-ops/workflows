@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-02-23T19:33:16.751479+00:00",
+  "last_updated": "2026-02-24T03:15:31.337496+00:00",
   "items": [
     {
-      "titolo": "Come nasce Jmail, il progetto web che ha permesso di esplorare i documenti del caso Epstein",
+      "titolo": "Why I swapped Wi-Fi for MoCA - the low-cost networking fix for dead zones",
+      "descrizione": "MoCA 2.5 is a recommended alternative to Wi-Fi networks that leverage old coaxial cables to enable high-speed internet.",
+      "link": "https://www.zdnet.com/article/what-is-moca-2-5-improve-internet/",
+      "fonte": "Latest news",
+      "data": "2026-02-23T22:02:00+00:00"
+    },
+    {
+      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
+      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-23T21:27:30+00:00"
+    },
+    {
+      "titolo": "Your best Google weather app alternatives (and what I recommend instead)",
+      "descrizione": "Missing Google's weather app? I found three reliable weather apps for Android, but there's an even better option.",
+      "link": "https://www.zdnet.com/article/best-alternatives-to-google-weather/",
+      "fonte": "Latest news",
+      "data": "2026-02-23T20:01:14+00:00"
+    },
+    {
+      "titolo": "Jmail: l’interfaccia web che fa consultare tutti i documenti desecretati su Epstein",
       "descrizione": "Così l’AI trasforma gli archivi giudiziari in interfacce navigabili",
       "link": "https://www.ilsole24ore.com/art/come-nasce-jmail-progetto-web-che-ha-permesso-esplorare-documenti-caso-epstein-AI1laeaB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-23T19:09:27+00:00"
+      "data": "2026-02-23T19:09:00+00:00"
     },
     {
       "titolo": "German data center giant hikes prices up to 37% starting April 1 — Hetzner cites rising hardware costs for price increases",
@@ -147,27 +168,6 @@
       "link": "https://www.hdblog.it/microsoft/articoli/n649327/xbox-craig-cincotta-dettagli/",
       "fonte": "HDblog.it",
       "data": "2026-02-23T16:35:00+00:00"
-    },
-    {
-      "titolo": "Come usare Lyria 3 su Gemini per creare canzoni su misura",
-      "descrizione": "Lyria 3 è il nuovo strumento musicale integrato in Gemini che genera brani originali a partire da un semplice prompt. Ecco come usarlo. The post Come usare Lyria 3 su Gemini per creare canzoni su misura appeared first on",
-      "link": "https://www.punto-informatico.it/come-usare-lyria-3-gemini-creare-canzoni-su-misura/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-23T16:30:47+00:00"
-    },
-    {
-      "titolo": "I ricercatori del MIT hanno stampato un motore elettrico in tre ore con materiali economici",
-      "descrizione": "La tecnologia sviluppata potrebbe ridurre la dipendenza dalle catene di fornitura globali e rivoluzionare la produzione di componenti industriali.",
-      "link": "https://www.hdmotori.it/mit-stampa-3d-motore/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-23T16:30:40+00:00"
-    },
-    {
-      "titolo": "Oppo Find X9S, piattaforma hardware confermata da MediaTek",
-      "descrizione": "SoC \"quasi flagship\" per smartphone quasi flagship.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649370/oppo-find-x9s-conferma-chip-processore-mediatek/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-23T16:25:00+00:00"
     }
   ]
 }
