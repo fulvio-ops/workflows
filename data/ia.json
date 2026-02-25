@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-02-25T13:44:32.414841+00:00",
+  "last_updated": "2026-02-25T19:28:52.560439+00:00",
   "items": [
     {
-      "titolo": "This simple ChatGPT trick helps you spot scams before you click or respond",
-      "descrizione": "With Malwarebytes, ChatGPT can scan any number, email, or link to help keep you safe.",
-      "link": "https://www.zdnet.com/article/chatgpt-scam-detector-malwarebytes/",
-      "fonte": "Latest news",
-      "data": "2026-02-25T13:12:00+00:00",
+      "titolo": "Simulazione di guerra: chatbot scelgono armi nucleari",
+      "descrizione": "Durante le simulazioni effettuate da un ricercatore, i modelli di OpenAI, Google e Anthropic hanno consigliano l'uso delle armi nucleari nel 95% dei casi. The post Simulazione di guerra: chatbot scelgono armi nucleari ap",
+      "link": "https://www.punto-informatico.it/simulazione-guerra-chatbot-scelgono-armi-nucleari/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-25T18:13:10+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft 365 Copilot, migliorano sicurezza e trasparenza, ecco come",
-      "descrizione": "In arrivo la possibilità di inserire il logo dell'azienda nell'app per ridurre il rischio di phishing, e qualche novità per le regole sul watermarking obbligatorio delle funzioni AI.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n649655/microsoft-365-copilot-sicurezza-trasparenza-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-25T11:35:00+00:00",
+      "titolo": "Edge aprirà Copilot in automatico cliccando i link di Outlook",
+      "descrizione": "Edge aprirà Copilot in automatico quando si clicca un link da Outlook. L'AI riassumerà la pagina e suggerirà azioni. Arriverà a maggio. The post Edge aprirà Copilot in automatico cliccando i link di Outlook appeared firs",
+      "link": "https://www.punto-informatico.it/edge-aprira-copilot-automatico-cliccando-link-outlook/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-25T17:09:38+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "L’AI è pronta per la matematica? Gemini alla prova con 700 problemi irrisolti",
-      "descrizione": "Da qualche mese una raccolta online di problemi matematici è diventata il banco di prova per testare le capacità astratte dell’intelligenza artificiale.",
-      "link": "https://www.ilsole24ore.com/art/l-ai-e-pronta-la-matematica-gemini-prova-700-problemi-irrisolti-AIISIXOB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-19T14:31:34+00:00",
+      "titolo": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
+      "descrizione": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
+      "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
+      "fonte": "WIRED",
+      "data": "2026-02-25T18:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Ultimatum per Anthropic: deve rimuovere le restrizioni AI",
-      "descrizione": "Anthropic dovrà consentire il libero uso di Claude per scopi militari, altrimenti verrà obbligata da una legge o perderà il contratto da 200 milioni. The post Ultimatum per Anthropic: deve rimuovere le restrizioni AI app",
-      "link": "https://www.punto-informatico.it/ultimatum-anthropic-deve-rimuovere-restrizioni-ai/",
+      "titolo": "Simulazione di guerra: chatbot scelgono armi nucleari",
+      "descrizione": "Durante le simulazioni effettuate da un ricercatore, i modelli di OpenAI, Google e Anthropic hanno consigliano l'uso delle armi nucleari nel 95% dei casi. The post Simulazione di guerra: chatbot scelgono armi nucleari ap",
+      "link": "https://www.punto-informatico.it/simulazione-guerra-chatbot-scelgono-armi-nucleari/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-25T09:05:25+00:00",
+      "data": "2026-02-25T18:13:10+00:00",
       "modello": "claude"
     },
     {
