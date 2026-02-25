@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-02-25T07:18:15.681252+00:00",
+  "last_updated": "2026-02-25T13:44:32.414841+00:00",
   "items": [
     {
-      "titolo": "How I turned ChatGPT into a scam detector using the new Malwarebytes integration - for free",
-      "descrizione": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe.",
-      "link": "https://www.zdnet.com/article/how-to-use-malwarebytes-in-chatgpt-flags-scams-for-free/",
+      "titolo": "This simple ChatGPT trick helps you spot scams before you click or respond",
+      "descrizione": "With Malwarebytes, ChatGPT can scan any number, email, or link to help keep you safe.",
+      "link": "https://www.zdnet.com/article/chatgpt-scam-detector-malwarebytes/",
       "fonte": "Latest news",
-      "data": "2026-02-25T01:01:25+00:00",
+      "data": "2026-02-25T13:12:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
-      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
-      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-22T12:20:00+00:00",
+      "titolo": "Microsoft 365 Copilot, migliorano sicurezza e trasparenza, ecco come",
+      "descrizione": "In arrivo la possibilità di inserire il logo dell'azienda nell'app per ridurre il rischio di phishing, e qualche novità per le regole sul watermarking obbligatorio delle funzioni AI.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n649655/microsoft-365-copilot-sicurezza-trasparenza-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-25T11:35:00+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Cowork si collega a Google Workspace e WordPress",
-      "descrizione": "Anthropic aggiorna Claude Cowork con integrazioni per Google Workspace, e WordPress, più nuovi plug-in per HR, design, finanza e ingegneria. The post Claude Cowork si collega a Google Workspace e WordPress appeared first",
-      "link": "https://www.punto-informatico.it/claude-cowork-si-collega-google-workspace-wordpress/",
+      "titolo": "Ultimatum per Anthropic: deve rimuovere le restrizioni AI",
+      "descrizione": "Anthropic dovrà consentire il libero uso di Claude per scopi militari, altrimenti verrà obbligata da una legge o perderà il contratto da 200 milioni. The post Ultimatum per Anthropic: deve rimuovere le restrizioni AI app",
+      "link": "https://www.punto-informatico.it/ultimatum-anthropic-deve-rimuovere-restrizioni-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-24T18:55:48+00:00",
+      "data": "2026-02-25T09:05:25+00:00",
       "modello": "claude"
     },
     {
