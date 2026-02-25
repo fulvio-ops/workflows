@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-24T19:18:58.813809+00:00",
+  "last_updated": "2026-02-25T03:16:56.545311+00:00",
   "items": [
+    {
+      "titolo": "How I turned ChatGPT into a scam detector using the new Malwarebytes integration - for free",
+      "descrizione": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe.",
+      "link": "https://www.zdnet.com/article/how-to-use-malwarebytes-in-chatgpt-flags-scams-for-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-25T01:01:25+00:00",
+      "modello": "chatgpt"
+    },
+    {
+      "titolo": "Intel shifts customer support to AI-powered assistant after scaling back phone support — “Ask Intel” system built on Microsoft Copilot Studio",
+      "descrizione": "Intel has launched what it’s calling “Ask Intel,” a new AI-powered support assistant built with Microsoft Copilot Studio.",
+      "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-22T12:20:00+00:00",
+      "modello": "copilot"
+    },
     {
       "titolo": "ChatGPT e Gemini si bevono le bufale online, la dimostrazione",
       "descrizione": "Un giornalista della BBC ha scritto un blog pieno di fatti inventati e in meno di 24 ore ChatGPT e Gemini li spacciavano come verità. The post ChatGPT e Gemini si bevono le bufale online, la dimostrazione appeared first",
       "link": "https://www.punto-informatico.it/chatgpt-gemini-si-bevono-bufale-online-dimostrazione/",
       "fonte": "Punto Informatico",
       "data": "2026-02-24T12:54:36+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Copilot quietly grabs your data from other Microsoft products now - here's how to opt out",
-      "descrizione": "A new setting in Copilot will access data from Bing, MSN, Edge, and other services. You can disable this if you're worried about your privacy.",
-      "link": "https://www.zdnet.com/article/copilot-data-other-microsoft-products-opt-out/",
-      "fonte": "Latest news",
-      "data": "2026-02-24T17:38:52+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "You can turn off Gemini in Gmail, Photos, Chrome, and more - here's how",
-      "descrizione": "There are simple ways to remove Google's AI tools from your favorite apps. The settings are buried but easy to disable.",
-      "link": "https://www.zdnet.com/article/turn-off-gemini-in-google-apps-gmail-photos-chrome/",
-      "fonte": "Latest news",
-      "data": "2026-02-24T18:02:00+00:00",
       "modello": "gemini"
     },
     {

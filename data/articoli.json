@@ -1,12 +1,40 @@
 {
-  "last_updated": "2026-02-24T19:18:55.119778+00:00",
+  "last_updated": "2026-02-25T03:16:52.328583+00:00",
   "items": [
+    {
+      "titolo": "How to get more iPhone storage almost immediately - 8 simple ways (and most are free)",
+      "descrizione": "Running out of iPhone space? Don't panic-buy a new phone or more iCloud+. Here's how to free up space fast.",
+      "link": "https://www.zdnet.com/article/how-to-get-more-iphone-storage-for-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-25T02:21:00+00:00"
+    },
+    {
+      "titolo": "The latest delivery scam has 'carriers' calling to return your phone - don't fall for it",
+      "descrizione": "Here's how to protect yourself from this new twist on a classic social engineering scam.",
+      "link": "https://www.zdnet.com/article/new-phone-return-scam-carrier-call-warning/",
+      "fonte": "Latest news",
+      "data": "2026-02-25T01:46:00+00:00"
+    },
     {
       "titolo": "What is MoCA 2.5? This low-cost network solution replaced my Wi-Fi and fixed dead zones",
       "descrizione": "MoCA 2.5 is a recommended alternative to Wi-Fi networks that leverage old coaxial cables to enable high-speed internet.",
       "link": "https://www.zdnet.com/article/what-is-moca-2-5-improve-internet/",
       "fonte": "Latest news",
       "data": "2026-02-24T19:14:00+00:00"
+    },
+    {
+      "titolo": "Riprova Vivo X200 FE: prezzo finalmente giusto e OriginOS 6 cambiano \"tutto\"",
+      "descrizione": "Abbiamo deciso di provare di nuovo Vivo X200 FE ora che costa molto di meno e si è aggiornato con la OriginOS 6. Assomiglia ancora di più ad un iPhone ma \"copiando\" nel modo giusto e migliorando...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n649207/vivo-x200-fe-riprova-prezzo-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-24T19:01:00+00:00"
+    },
+    {
+      "titolo": "Recensione Roborock Saros 20: il robot che supera ostacoli e piccoli scalini",
+      "descrizione": "Il nuovo Roborock Soros 20 combina potenza e tecnologie avanzate per garantirci pavimenti perfettamente lavati ed aspirati. Ne scopriamo pregi e difetti nella recensione completa.",
+      "link": "https://www.hdblog.it/home/recensioni/n649209/recensione-roborock-soros-20-il-robot-perfetto/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-24T19:00:00+00:00"
     },
     {
       "titolo": "Claude Cowork si collega a Google Workspace e WordPress",
@@ -86,13 +114,6 @@
       "data": "2026-02-24T16:45:00+00:00"
     },
     {
-      "titolo": "I refused to buy a new PC: How 0patch is keeping my Windows 10 machine secure in 2026",
-      "descrizione": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Here's my verdict after months of testing.",
-      "link": "https://www.zdnet.com/article/0patch-review/",
-      "fonte": "Latest news",
-      "data": "2026-02-24T16:45:00+00:00"
-    },
-    {
       "titolo": "Compressore d’aria? Quello di Xiaomi torna in GRAN sconto con i suoi 150PSI",
       "descrizione": "Il compressore d'aria portatile di Xiaomi è una certezza in auto e non solo: 6 modlaità e prezzo in offerta Amazon. The post Compressore d’aria? Quello di Xiaomi torna in GRAN sconto con i suoi 150PSI appeared first on P",
       "link": "https://www.punto-informatico.it/compressore-daria-quello-di-xiaomi-torna-in-gran-sconto-con-i-suoi-150psi/",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-govt-warned-nvidia-ceo-jensen-huang-tim-cook-and-lisa-su-that-china-could-invade-taiwan-by-2027-apple-ceo-reportedly-said-he-sleeps-with-one-eye-open",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-24T16:15:41+00:00"
-    },
-    {
-      "titolo": "ProducerAI, la piattaforma di creazione musicale entra a far parte di Google",
-      "descrizione": "L'accesso ai migliori modelli di Mountain View permetterà alla piattaforma di crescere, dicono i fondatori.",
-      "link": "https://www.hdblog.it/google/articoli/n649548/google-compra-producerai-piattaforma-musica-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-24T16:15:00+00:00"
-    },
-    {
-      "titolo": "Qualcomm's 2019-vintage AI100 chip finally scores a major deployment — Saudi Arabia's Humain takes delivery of 1,024 systems",
-      "descrizione": "Qualcomm's 2019-vintage AI100 chip finally scores a major deployment",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomms-2019-vintage-ai100-chip-finally-scores-a-major-deployment-saudi-arabias-humain-takes-delivery-of-1-024-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-24T16:09:40+00:00"
-    },
-    {
-      "titolo": "Resident Evil Requiem spremerà le tecnologie di NVIDIA: con lui altri 3 titoli",
-      "descrizione": "Il RE più tecnologico che mai.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n649527/resident-evil-requiem-tecnologie-nvidia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-24T16:05:00+00:00"
     }
   ]
 }
