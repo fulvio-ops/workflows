@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-02-25T19:28:49.310991+00:00",
+  "last_updated": "2026-02-26T03:12:18.327842+00:00",
   "items": [
+    {
+      "titolo": "GNOME 50 is a brilliant release - but I had to look twice to see why",
+      "descrizione": "This latest (still beta) version of the Linux desktop is faster, smoother, and prettier.",
+      "link": "https://www.zdnet.com/article/i-tested-gnome-50-beta-release/",
+      "fonte": "Latest news",
+      "data": "2026-02-26T03:00:48+00:00"
+    },
+    {
+      "titolo": "Nvidia delivers first Vera Rubin AI GPU samples to customers — 88-core Vera CPU paired with Rubin GPUs with 288 GB of HBM4 memory apiece",
+      "descrizione": "Nvidia begins to ship samples of its Vera Rubin platforms for AI to partners, on track for revenue shipments in the second half of the year.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-delivers-first-vera-rubin-ai-gpu-samples-to-customers-88-core-vera-cpu-paired-with-rubin-gpus-with-288-gb-of-hbm4-memory-apiece",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-26T01:14:00+00:00"
+    },
+    {
+      "titolo": "Everyone Speaks Incel Now",
+      "descrizione": "After migrating from misogynist forums to social media feeds, terms like “looksmaxxing” and “mogged” are now impossible to avoid.",
+      "link": "https://www.wired.com/story/everyone-speaks-incel-now/",
+      "fonte": "WIRED",
+      "data": "2026-02-25T20:59:50+00:00"
+    },
+    {
+      "titolo": "Anteprima Samsung Galaxy S26: Privacy Display, Galaxy AI \"2.0\" e chipset diversi",
+      "descrizione": "Abbiamo provato in anteprima i nuovi Samsung Galaxy S26, S26+ e S26 Ultra. Privacy Display, nuovo Exynos a 2nm, Galaxy AI 2.0 e tante novità software: vi raccontiamo cosa cambia davvero. Vale...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n649353/anteprima-samsung-galaxy-s26/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-25T18:45:00+00:00"
+    },
+    {
+      "titolo": "Ho provato 70mai A810S e mi sono accorto di aver sempre voluto una dashcam",
+      "descrizione": "Il mondo delle dashcam mi ha sempre lasciato un po' interdetto, nel senso che non ho mai capito se volessi davvero averne una in auto o no. Beh, nelle ultime due settimane la 70mai A810S ha...",
+      "link": "https://www.hdmotori.it/ho-provato-70mai-a810s-e-mi-sono-accorto-di-aver-sempre-voluto-una-dashcam/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-25T18:44:00+00:00"
+    },
+    {
+      "titolo": "Samsung, ufficiali i nuovi Galaxy S26: caratteristiche, prezzi e promo di lancio",
+      "descrizione": "Samsung ha annunciato i suoi nuovi Galaxy S26, Galaxy S26 Plus e Galaxy S26 Ultra,",
+      "link": "https://www.hdblog.it/smartphone/articoli/n648310/galaxy-s26-ufficiali-prezzi-promozioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-25T18:43:00+00:00"
+    },
     {
       "titolo": "Simulazione di guerra: chatbot scelgono armi nucleari",
       "descrizione": "Durante le simulazioni effettuate da un ricercatore, i modelli di OpenAI, Google e Anthropic hanno consigliano l'uso delle armi nucleari nel 95% dei casi. The post Simulazione di guerra: chatbot scelgono armi nucleari ap",
@@ -72,20 +114,6 @@
       "data": "2026-02-25T17:05:00+00:00"
     },
     {
-      "titolo": "Anteprima Samsung Galaxy S26: Privacy Display, Galaxy AI \"2.0\" e chipset diversi",
-      "descrizione": "Abbiamo provato in anteprima i nuovi Samsung Galaxy S26, S26+ e S26 Ultra. Privacy Display, nuovo Exynos a 2nm, Galaxy AI 2.0 e tante novità software: vi raccontiamo cosa cambia davvero. Vale...",
-      "link": "https://www.hdblog.it/smartphone/speciali/n649353/anteprima-samsung-galaxy-s26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-25T17:01:00+00:00"
-    },
-    {
-      "titolo": "Samsung, ufficiali i nuovi Galaxy S26: caratteristiche, prezzi e promo di lancio",
-      "descrizione": "Samsung ha annunciato i suoi nuovi Galaxy S26, Galaxy S26 Plus e Galaxy S26 Ultra,",
-      "link": "https://www.hdblog.it/smartphone/articoli/n648310/galaxy-s26-ufficiali-prezzi-promozioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-25T17:01:00+00:00"
-    },
-    {
       "titolo": "Galaxy Buds4 e 4 Pro ufficiali: più qualità e comfort per gli auricolari Samsung | Prezzi",
       "descrizione": "Open-type i primi, in-ear i secondi.",
       "link": "https://www.hdblog.it/indossabili/articoli/n649457/samsung-galaxy-buds4-pro-caratteristiche-prezzo-it/",
@@ -98,13 +126,6 @@
       "link": "https://www.punto-informatico.it/dji-denuncia-fcc-usa-ban-droni/",
       "fonte": "Punto Informatico",
       "data": "2026-02-25T16:59:11+00:00"
-    },
-    {
-      "titolo": "Nuovo materiale quantistico produce idrogeno con sole e acqua",
-      "descrizione": "Nuovo materiale quantistico produce idrogeno solo con sole e acqua.",
-      "link": "https://www.hdblog.it/green/articoli/n649538/idrogeno-solare-materiale-quantistico/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-25T16:45:00+00:00"
     },
     {
       "titolo": "Gemini 3.1 Pro non è un chatbot qualsiasi: 7 prompt lo dimostrano",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/ai-slop-sanremo/",
       "fonte": "Punto Informatico",
       "data": "2026-02-25T15:21:28+00:00"
-    },
-    {
-      "titolo": "Deliveroo come Glovo: rider sfruttati con l’algoritmo",
-      "descrizione": "Deliveroo Italia è finita sotto controllo giudiziario per lo sfruttamento dei rider attraverso un algoritmo e retribuzioni sotto la soglia di povertà. The post Deliveroo come Glovo: rider sfruttati con l’algoritmo appear",
-      "link": "https://www.punto-informatico.it/deliveroo-come-glovo-rider-sfruttati-algoritmo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-25T14:51:20+00:00"
-    },
-    {
-      "titolo": "Il tablet più sottile al mondo è HONOR MagicPad 4: solo 4,8 mm",
-      "descrizione": "Sbriciolato il tetto dei 5 mm: il nuovo HONOR MagicPad 4 sta per diventare ufficialmente il tablet più sottile al mondo con i suoi 4,8 mm. The post Il tablet più sottile al mondo è HONOR MagicPad 4: solo 4,8 mm appeared",
-      "link": "https://www.punto-informatico.it/tablet-piu-sottile-al-mondo-honor-magicpad-4/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-25T14:33:36+00:00"
-    },
-    {
-      "titolo": "Nvidia still hasn’t sold a single H200 to China nearly three months after getting the green light from the White House — U.S. Commerce official says department hasn’t approved any sales during a House hearing",
-      "descrizione": "U.S. Department of Commerce Assistant Secretary for export enforcement David Peters said that his agency has not approved a single H200 export license since President Donald Trump allowed Nvidia to sell them to China.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-still-hasnt-sold-a-single-h200-to-china-nearly-three-months-after-getting-the-green-light-from-the-white-house-u-s-commerce-official-says-department-hasnt-approved-any-sales-during-a-house-hearing",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-25T13:26:56+00:00"
     }
   ]
 }
