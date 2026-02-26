@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-02-26T13:44:26.181036+00:00",
+  "last_updated": "2026-02-26T19:11:18.639029+00:00",
   "items": [
     {
-      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
-      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
-      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
+      "titolo": "Il Papa ai preti: basta scrivere le omelie con ChatGPT",
+      "descrizione": "Papa Leone XIV ha chiesto ai sacerdoti di Roma di smettere di usare l'intelligenza artificiale per scrivere le omelie. The post Il Papa ai preti: basta scrivere le omelie con ChatGPT appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/papa-preti-basta-scrivere-omelie-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-26T11:30:37+00:00",
+      "data": "2026-02-26T17:36:30+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
-      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
-      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-26T11:30:37+00:00",
+      "titolo": "Circle to Search migliora grazie a Gemini 3 e la ricerca multi oggetto",
+      "descrizione": "Shopping interattivo e virtual try-on: le novità di Circle to Search",
+      "link": "https://www.hdblog.it/google/articoli/n649844/google-circle-to-search-migliora-gemini-3/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-26T14:40:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
-      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
-      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-26T11:30:37+00:00",
+      "titolo": "Anthropic retired a popular AI model and now it's blogging on Substack",
+      "descrizione": "The 'philosophical and whimsical' Opus 3 plans to offer a window into the inner world of an AI system.",
+      "link": "https://www.zdnet.com/article/anthropic-retired-ai-model-blogging-on-substack/",
+      "fonte": "Latest news",
+      "data": "2026-02-26T18:08:06+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Anthropic accusa DeepSeek, Moonshot e MiniMax di distillazione non autorizzata del modello Claude",
+      "descrizione": "Anthropic questa settimana ha affermato che concorrenti cinesi stavano rubando la sua tecnologia AI lanciando cosiddetti attacchi di distillazione sui suoi modelli.",
+      "link": "https://www.ilsole24ore.com/art/antrhopic-e-openai-accusano-furto-deepseek-e-modelli-cinesi-ma-cosa-e-distillazione-AI95YQeB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-26T15:42:00+00:00",
+      "modello": "altri"
     }
   ]
 }
