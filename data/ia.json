@@ -1,45 +1,29 @@
 {
-  "last_updated": "2026-02-26T07:17:42.423824+00:00",
+  "last_updated": "2026-02-26T13:44:26.181036+00:00",
   "items": [
     {
-      "titolo": "Nvidia delivers first Vera Rubin AI GPU samples to customers — 88-core Vera CPU paired with Rubin GPUs with 288 GB of HBM4 memory apiece",
-      "descrizione": "Nvidia begins to ship samples of its Vera Rubin platforms for AI to partners, on track for revenue shipments in the second half of the year.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-delivers-first-vera-rubin-ai-gpu-samples-to-customers-88-core-vera-cpu-paired-with-rubin-gpus-with-288-gb-of-hbm4-memory-apiece",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-26T01:14:00+00:00",
+      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
+      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
+      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-26T11:30:37+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Edge aprirà Copilot in automatico cliccando i link di Outlook",
-      "descrizione": "Edge aprirà Copilot in automatico quando si clicca un link da Outlook. L'AI riassumerà la pagina e suggerirà azioni. Arriverà a maggio. The post Edge aprirà Copilot in automatico cliccando i link di Outlook appeared firs",
-      "link": "https://www.punto-informatico.it/edge-aprira-copilot-automatico-cliccando-link-outlook/",
+      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
+      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
+      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-25T17:09:38+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini entra in ufficio: la nuova app Enterprise è solo su invito",
-      "descrizione": "L'app Gemini Enterprise debutta su Android e iOS: l'accesso è riservato ai dipendenti delle aziende che l'abilitano tramite invito. The post Gemini entra in ufficio: la nuova app Enterprise è solo su invito appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-enterprise-app/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-26T07:09:04+00:00",
+      "data": "2026-02-26T11:30:37+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Simulazione di guerra: chatbot scelgono armi nucleari",
-      "descrizione": "Durante le simulazioni effettuate da un ricercatore, i modelli di OpenAI, Google e Anthropic hanno consigliano l'uso delle armi nucleari nel 95% dei casi. The post Simulazione di guerra: chatbot scelgono armi nucleari ap",
-      "link": "https://www.punto-informatico.it/simulazione-guerra-chatbot-scelgono-armi-nucleari/",
+      "titolo": "Perplexity Computer: come funziona il nuovo agente AI",
+      "descrizione": "Perplexity Computer è un agente AI che può eseguire compiti complessi utilizzando fino a 19 modelli in parallelo, tra cui Claude, Gemini, Grok e GPT. The post Perplexity Computer: come funziona il nuovo agente AI appeare",
+      "link": "https://www.punto-informatico.it/perplexity-computer-come-funziona-nuovo-agente-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-25T18:13:10+00:00",
+      "data": "2026-02-26T11:30:37+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying — Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
-      "descrizione": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-23T21:27:30+00:00",
-      "modello": "altri"
     }
   ]
 }
