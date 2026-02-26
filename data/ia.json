@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T03:12:21.525148+00:00",
+  "last_updated": "2026-02-26T07:17:42.423824+00:00",
   "items": [
     {
       "titolo": "Nvidia delivers first Vera Rubin AI GPU samples to customers — 88-core Vera CPU paired with Rubin GPUs with 288 GB of HBM4 memory apiece",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
-      "descrizione": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
-      "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
-      "fonte": "WIRED",
-      "data": "2026-02-25T18:00:00+00:00",
+      "titolo": "Gemini entra in ufficio: la nuova app Enterprise è solo su invito",
+      "descrizione": "L'app Gemini Enterprise debutta su Android e iOS: l'accesso è riservato ai dipendenti delle aziende che l'abilitano tramite invito. The post Gemini entra in ufficio: la nuova app Enterprise è solo su invito appeared firs",
+      "link": "https://www.punto-informatico.it/gemini-enterprise-app/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-26T07:09:04+00:00",
       "modello": "gemini"
     },
     {
