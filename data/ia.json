@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-02-27T03:09:54.829076+00:00",
+  "last_updated": "2026-02-27T07:13:24.455051+00:00",
   "items": [
     {
-      "titolo": "Il Papa ai preti: basta scrivere le omelie con ChatGPT",
-      "descrizione": "Papa Leone XIV ha chiesto ai sacerdoti di Roma di smettere di usare l'intelligenza artificiale per scrivere le omelie. The post Il Papa ai preti: basta scrivere le omelie con ChatGPT appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/papa-preti-basta-scrivere-omelie-chatgpt/",
+      "titolo": "Google Traduttore con Gemini capisce modi di dire ed espressioni",
+      "descrizione": "Grazie a Gemini, Google Traduttore può interpretare modi di dire, espressioni colloquiali e sfumature di tono. Disponibile su Android e iOS. The post Google Traduttore con Gemini capisce modi di dire ed espressioni appea",
+      "link": "https://www.punto-informatico.it/google-traduttore-gemini-capisce-modi-di-dire-espressioni/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-26T17:36:30+00:00",
+      "data": "2026-02-27T05:40:51+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Your Google Chat history can now be searched by Gemini - how it works",
-      "descrizione": "The new Workspace feature could save you from scrolling through days' worth of messages.",
-      "link": "https://www.zdnet.com/article/gemini-can-now-search-your-work-google-chat/",
-      "fonte": "Latest news",
-      "data": "2026-02-26T20:22:01+00:00",
+      "titolo": "Copilot Tasks gestisce email e slide con il suo computer nel cloud",
+      "descrizione": "Copilot Tasks è un agente AI che usa un proprio computer nel cloud per completare attività come organizzare email e creare presentazioni. The post Copilot Tasks gestisce email e slide con il suo computer nel cloud appear",
+      "link": "https://www.punto-informatico.it/copilot-tasks-gestisce-email-slide-computer-cloud/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-27T06:07:24+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Traduttore con Gemini capisce modi di dire ed espressioni",
+      "descrizione": "Grazie a Gemini, Google Traduttore può interpretare modi di dire, espressioni colloquiali e sfumature di tono. Disponibile su Android e iOS. The post Google Traduttore con Gemini capisce modi di dire ed espressioni appea",
+      "link": "https://www.punto-informatico.it/google-traduttore-gemini-capisce-modi-di-dire-espressioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-27T05:40:51+00:00",
       "modello": "gemini"
     },
     {
