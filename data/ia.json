@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-02-27T07:13:24.455051+00:00",
+  "last_updated": "2026-02-27T13:33:38.374257+00:00",
   "items": [
     {
-      "titolo": "Google Traduttore con Gemini capisce modi di dire ed espressioni",
-      "descrizione": "Grazie a Gemini, Google Traduttore può interpretare modi di dire, espressioni colloquiali e sfumature di tono. Disponibile su Android e iOS. The post Google Traduttore con Gemini capisce modi di dire ed espressioni appea",
-      "link": "https://www.punto-informatico.it/google-traduttore-gemini-capisce-modi-di-dire-espressioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-27T05:40:51+00:00",
+      "titolo": "OpenAI Announces Major Expansion of London Office",
+      "descrizione": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
+      "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
+      "fonte": "WIRED",
+      "data": "2026-02-26T15:56:01+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot Tasks gestisce email e slide con il suo computer nel cloud",
-      "descrizione": "Copilot Tasks è un agente AI che usa un proprio computer nel cloud per completare attività come organizzare email e creare presentazioni. The post Copilot Tasks gestisce email e slide con il suo computer nel cloud appear",
-      "link": "https://www.punto-informatico.it/copilot-tasks-gestisce-email-slide-computer-cloud/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-27T06:07:24+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Google Traduttore con Gemini capisce modi di dire ed espressioni",
-      "descrizione": "Grazie a Gemini, Google Traduttore può interpretare modi di dire, espressioni colloquiali e sfumature di tono. Disponibile su Android e iOS. The post Google Traduttore con Gemini capisce modi di dire ed espressioni appea",
-      "link": "https://www.punto-informatico.it/google-traduttore-gemini-capisce-modi-di-dire-espressioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-27T05:40:51+00:00",
+      "titolo": "I Galaxy S26 ti fanno scegliere l’assistente AI che preferisci",
+      "descrizione": "Galaxy S26 amplia l’esperienza AI con Gemini capace di svolgere attività in background, come prenotare un Uber o riordinare cibo. Le funzioni agentiche saranno inizialmente disponibili in USA e Corea",
+      "link": "https://www.hdblog.it/smartphone/articoli/n649967/galaxy-s26-ultra-plus-perplexity-bixby-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-27T11:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
-      "descrizione": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
-      "fonte": "WIRED",
-      "data": "2026-02-26T23:20:36+00:00",
+      "titolo": "Anthropic non rimuoverà le restrizioni di Claude per uso militare",
+      "descrizione": "Dario Amodei (CEO di Anthropic) ha comunicato che l'azienda non accetterà i nuovi termini contrattuali del Dipartimento della Difesa per l'uso di Claude. The post Anthropic non rimuoverà le restrizioni di Claude per uso",
+      "link": "https://www.punto-informatico.it/anthropic-non-rimuovera-restrizioni-claude-uso-militare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-27T08:50:09+00:00",
       "modello": "claude"
     },
     {
