@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T19:11:18.639029+00:00",
+  "last_updated": "2026-02-27T03:09:54.829076+00:00",
   "items": [
     {
       "titolo": "Il Papa ai preti: basta scrivere le omelie con ChatGPT",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Circle to Search migliora grazie a Gemini 3 e la ricerca multi oggetto",
-      "descrizione": "Shopping interattivo e virtual try-on: le novità di Circle to Search",
-      "link": "https://www.hdblog.it/google/articoli/n649844/google-circle-to-search-migliora-gemini-3/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-26T14:40:00+00:00",
+      "titolo": "Your Google Chat history can now be searched by Gemini - how it works",
+      "descrizione": "The new Workspace feature could save you from scrolling through days' worth of messages.",
+      "link": "https://www.zdnet.com/article/gemini-can-now-search-your-work-google-chat/",
+      "fonte": "Latest news",
+      "data": "2026-02-26T20:22:01+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic retired a popular AI model and now it's blogging on Substack",
-      "descrizione": "The 'philosophical and whimsical' Opus 3 plans to offer a window into the inner world of an AI system.",
-      "link": "https://www.zdnet.com/article/anthropic-retired-ai-model-blogging-on-substack/",
-      "fonte": "Latest news",
-      "data": "2026-02-26T18:08:06+00:00",
+      "titolo": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+      "descrizione": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+      "fonte": "WIRED",
+      "data": "2026-02-26T23:20:36+00:00",
       "modello": "claude"
     },
     {

@@ -1,12 +1,54 @@
 {
-  "last_updated": "2026-02-26T19:11:15.836991+00:00",
+  "last_updated": "2026-02-27T03:09:50.860880+00:00",
   "items": [
+    {
+      "titolo": "Nvidia rolls back its latest driver update — Game Ready Driver 595.59 reportedly causes fan issues on RTX 3000, 4000, and 5000-series GPUs",
+      "descrizione": "GeForce Game Ready Driver 595.59 is said to disable one of the fans on Nvidia RTX 30-series and newer GPUs, even without third-party apps like MSI Afterburner.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-rolls-back-its-latest-driver-update-game-ready-driver-595-59-reportedly-causes-fan-issues-on-rtx-3000-4000-and-5000-series-gpus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-26T20:29:22+00:00"
+    },
+    {
+      "titolo": "Hosting WordPress a prezzi minuscoli con la promo Aruba Hosting",
+      "descrizione": "Scopri la promo Aruba Hosting WordPress con AI integrata: prezzi da 11,90 euro per il primo anno, con dominio incluso e tanti strumenti aggiuntivi. The post Hosting WordPress a prezzi minuscoli con la promo Aruba Hosting",
+      "link": "https://www.punto-informatico.it/hosting-wordpress-a-prezzi-minuscoli-con-la-promo-aruba-hosting/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-26T20:26:32+00:00"
+    },
+    {
+      "titolo": "Nel 2036 l’umanità sarà al servizio dell’Ai. Lo spot che arriva dal futuro",
+      "descrizione": "In un video dell’agenzia “AiCandy” la fatica umana alimenta le macchine. Un nuovo modello di business nelle mani di Elon Musk, Jeff Bezos e Sam Altman",
+      "link": "https://www.ilsole24ore.com/art/nel-2036-l-umanita-sara-servizio-dell-ai-spot-che-arriva-futuro-AI8PrXeB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-26T19:37:33+00:00"
+    },
     {
       "titolo": "Mare Fuori 6: quando esce e come vedere gli episodi, anche dall’estero",
       "descrizione": "Ecco quando esce e dove vedere, anche in streaming dall'estero, Mare Fuori 6, con i nuovi episodi che sono pronti al debutto ufficiale. The post Mare Fuori 6: quando esce e come vedere gli episodi, anche dall’estero appe",
       "link": "https://www.punto-informatico.it/mare-fuori-6-quando-esce-e-come-vedere-gli-episodi-anche-dallestero/",
       "fonte": "Punto Informatico",
       "data": "2026-02-26T18:49:42+00:00"
+    },
+    {
+      "titolo": "Recensione Huawei FreeBuds Pro 5, migliora l'ANC e le chiamate sono sempre al top!",
+      "descrizione": "Ho provato le nuove Huawei FreeBuds Pro 5 e sono, probabilmente, tra le migliori true-wireless che possiate comprare oggi",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n649756/huawei-freebuds-pro-5-prezzo-offerta-test-prova/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-26T18:37:00+00:00"
+    },
+    {
+      "titolo": "Copia privata, aumenta la tassa per i device fisici e si paga anche per il cloud",
+      "descrizione": "Il Ministro della cultura ha firmato il decreto.",
+      "link": "https://www.hdblog.it/mercato/articoli/n649808/copia-privata-rincari-tassa-cloud-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-26T18:35:00+00:00"
+    },
+    {
+      "titolo": "Terre rare e semiconduttori: la tregua USA - Cina non basta, l’industria dei chip trema",
+      "descrizione": "Le terre rare sono il nuovo petrolio.",
+      "link": "https://www.hdblog.it/hardware/articoli/n649879/terre-rare-semiconduttori-crisi-chip-cina-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-26T18:15:00+00:00"
     },
     {
       "titolo": "Come scatta Honor Magic V6? Lo vediamo nelle prime foto ufficiali",
@@ -126,48 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/antrhopic-e-openai-accusano-furto-deepseek-e-modelli-cinesi-ma-cosa-e-distillazione-AI95YQeB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-02-26T15:42:00+00:00"
-    },
-    {
-      "titolo": "How to make your GNOME desktop look like Windows 11 (if that's your jam)",
-      "descrizione": "If this Linux desktop feels too minimal or unfamiliar, you can easily customize its look and feel. Here's how.",
-      "link": "https://www.zdnet.com/article/how-to-make-gnome-like-windows-11/",
-      "fonte": "Latest news",
-      "data": "2026-02-26T15:28:22+00:00"
-    },
-    {
-      "titolo": "Samsung Care+ inizia ad offrire sostituzioni invece di riparazioni",
-      "descrizione": "Per il momento solo in UK.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649839/samsung-care-plus-sostituzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-26T15:15:00+00:00"
-    },
-    {
-      "titolo": "Google Vids, arrivano il supporto all'italiano e gli avatar \"cartoon\"",
-      "descrizione": "Più flessibilità per impiegare Vids in vari contesti e casi d'uso.",
-      "link": "https://www.hdblog.it/google/articoli/n649852/google-vids-workspace-italiano-avatar-cartoon/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-26T15:05:00+00:00"
-    },
-    {
-      "titolo": "Anthropic aggiorna Claude Code e acquisisce Vercept",
-      "descrizione": "Anthropic ha annunciato la funzionalità Remote Control per Claude Code, la pianificazione delle attività ricorrenti con Cowork e l'acquisizione di Vercept. The post Anthropic aggiorna Claude Code e acquisisce Vercept app",
-      "link": "https://www.punto-informatico.it/anthropic-aggiorna-claude-code-acquisisce-vercept/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-26T14:45:30+00:00"
-    },
-    {
-      "titolo": "Nvidia warns of constrained supply of gaming GPUs, potentially signaling higher prices and shortages to come — 'we do believe for a couple of quarters it is going to be very tight'",
-      "descrizione": "Jensen Huang expects the supply of gaming hardware to be insufficient in the next two quarters and has limited visibility beyond that.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-warns-of-constrained-supply-of-gaming-gpus-we-do-believe-for-a-couple-of-quarters-it-is-going-to-be-very-tight",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-26T14:42:23+00:00"
-    },
-    {
-      "titolo": "Burger King usa l’AI per insegnare la gentilezza allo staff",
-      "descrizione": "Patty è il nuovo chatbot AI di Burger King che analizza le interazioni con i clienti e promuovere scambi più cordiali nei ristoranti. The post Burger King usa l’AI per insegnare la gentilezza allo staff appeared first on",
-      "link": "https://www.punto-informatico.it/burger-king-ai-insegnare-gentilezza-staff/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-26T14:33:14+00:00"
     }
   ]
 }
