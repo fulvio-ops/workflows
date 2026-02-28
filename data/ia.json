@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-28T13:07:30.029255+00:00",
+  "last_updated": "2026-02-28T18:50:06.590259+00:00",
   "items": [
     {
-      "titolo": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion — AI startup now valued at $730 billion",
-      "descrizione": "$50 billion from Amazon, $30 billion from Nvidia, and $30 billion from SoftBank, with additional investors expected to join as the round progresses.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-28T12:20:00+00:00",
+      "titolo": "OpenAI: accordo con il Pentagono senza restrizioni AI?",
+      "descrizione": "OpenAI ha sottoscritto un contratto con il Dipartimento della Difesa, quindi i suoi modelli potrebbero sostituire quelli di Anthropic per uso militare. The post OpenAI: accordo con il Pentagono senza restrizioni AI? appe",
+      "link": "https://www.punto-informatico.it/openai-accordo-pentagono-senza-restrizioni-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-28T17:50:22+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "AI chatbots used tactical nuclear weapons in 95% of AI war games, launched strategic strikes three times — researcher put GPT-5.2, Claude Sonnet 4, and Gemini 3 against each other, with at least one model using a tactica",
-      "descrizione": "A researcher made three different AI LLMs the heads of state of nuclear-powered nations and made them face off with each other using historical scenarios. Out of the total of 21 matches, 20 ended with a tactical nuke det",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/llms-used-tactical-nuclear-weapons-in-95-percent-of-ai-war-games-launched-strategic-strikes-three-times-researcher-pitted-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-with-at-least-one-model-using-a-tactical-nuke-in-20-out-of-21-matches",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-26T11:00:00+00:00",
+      "titolo": "Su Gemini diventa molto più comodo importare immagini e video",
+      "descrizione": "Una novità semplice ma pratica: cosa cambia.",
+      "link": "https://www.hdblog.it/google/articoli/n650058/google-gemini-come-condividere-foto-video-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-28T14:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Ban di Claude negli USA: Anthropic denuncia il governo",
-      "descrizione": "Il Dipartimento della Difesa designerà Anthropic come \"supply chain risk\", quindi l'azienda californiana porterà il governo statunitense in tribunale. The post Ban di Claude negli USA: Anthropic denuncia il governo appea",
-      "link": "https://www.punto-informatico.it/ban-claude-usa-anthropic-denuncia-governo/",
+      "titolo": "OpenAI: accordo con il Pentagono senza restrizioni AI?",
+      "descrizione": "OpenAI ha sottoscritto un contratto con il Dipartimento della Difesa, quindi i suoi modelli potrebbero sostituire quelli di Anthropic per uso militare. The post OpenAI: accordo con il Pentagono senza restrizioni AI? appe",
+      "link": "https://www.punto-informatico.it/openai-accordo-pentagono-senza-restrizioni-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-28T11:46:05+00:00",
+      "data": "2026-02-28T17:50:22+00:00",
       "modello": "claude"
     },
     {
