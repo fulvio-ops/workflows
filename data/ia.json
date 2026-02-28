@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-28T06:57:06.664334+00:00",
+  "last_updated": "2026-02-28T13:07:30.029255+00:00",
   "items": [
     {
-      "titolo": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-      "descrizione": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-      "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "fonte": "WIRED",
-      "data": "2026-02-27T19:07:28+00:00",
+      "titolo": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion — AI startup now valued at $730 billion",
+      "descrizione": "$50 billion from Amazon, $30 billion from Nvidia, and $30 billion from SoftBank, with additional investors expected to join as the round progresses.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-28T12:20:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-      "descrizione": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-      "fonte": "WIRED",
-      "data": "2026-02-28T03:30:41+00:00",
+      "titolo": "Ban di Claude negli USA: Anthropic denuncia il governo",
+      "descrizione": "Il Dipartimento della Difesa designerà Anthropic come \"supply chain risk\", quindi l'azienda californiana porterà il governo statunitense in tribunale. The post Ban di Claude negli USA: Anthropic denuncia il governo appea",
+      "link": "https://www.punto-informatico.it/ban-claude-usa-anthropic-denuncia-governo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-28T11:46:05+00:00",
       "modello": "claude"
     },
     {
