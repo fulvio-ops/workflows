@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T02:40:21.923631+00:00",
+  "last_updated": "2026-02-28T06:57:06.664334+00:00",
   "items": [
     {
       "titolo": "OpenAI Fires an Employee for Prediction Market Insider Trading",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Trump bans Anthropic AI from federal agencies after firm refuses to unlock capabilities — Anthropic cites risks of autonomous military applications, mass domestic surveillance",
-      "descrizione": "\"We don’t need it, we don’t want it, and will not do business with them again,\" said Trump.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-orders-federal-agencies-to-ditch-woke-claude",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-27T22:27:26+00:00",
+      "titolo": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "descrizione": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "fonte": "WIRED",
+      "data": "2026-02-28T03:30:41+00:00",
       "modello": "claude"
     },
     {
