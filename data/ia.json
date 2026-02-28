@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-27T19:04:06.777980+00:00",
+  "last_updated": "2026-02-28T02:40:21.923631+00:00",
   "items": [
     {
-      "titolo": "Amazon invests $50 billion in OpenAI, comitting to 2 gigawatts of Trainium silicon — AWS to become exclusive cloud distributor for Frontier enterprise platform",
-      "descrizione": "The investment is part of a $110 billion funding round that values OpenAI at $730 billion pre-money, with Nvidia and SoftBank each contributing $30 billion.",
-      "link": "https://www.tomshardware.com/tech-industry/amazon-invests-50-billion-in-openai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-27T17:53:32+00:00",
+      "titolo": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "descrizione": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+      "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "fonte": "WIRED",
+      "data": "2026-02-27T19:07:28+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude won't be allowed to engage in mass surveillance or power fully autonomous weapons — Anthropic refuses to lower AI guardrails for the Pentagon",
-      "descrizione": "Anthropic CEO has pushed back strongly against the Pentagon's requests to remove AI guardrails from Claude. Anthropic takes a concrete stance against mass surveillance and autonomous killing machines, arguing that the fo",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-wont-be-allowed-to-engage-in-mass-surveillance-or-power-fully-autonomous-weapons-anthropic-refuses-to-lower-ai-guardrails-for-the-pentagon",
+      "titolo": "Trump bans Anthropic AI from federal agencies after firm refuses to unlock capabilities — Anthropic cites risks of autonomous military applications, mass domestic surveillance",
+      "descrizione": "\"We don’t need it, we don’t want it, and will not do business with them again,\" said Trump.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-orders-federal-agencies-to-ditch-woke-claude",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-27T17:06:04+00:00",
+      "data": "2026-02-27T22:27:26+00:00",
       "modello": "claude"
     },
     {
