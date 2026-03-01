@@ -1,12 +1,131 @@
 {
-  "last_updated": "2026-03-01T07:04:47.954467+00:00",
+  "last_updated": "2026-03-01T13:10:19.729996+00:00",
   "items": [
     {
-      "titolo": "Best of MWC 2026: Live updates on phones, concepts, and innovations we're seeing",
-      "descrizione": "It's the weekend before Mobile World Congress, and we've already got a full slate of announcements from Xiaomi, Honor, and more.",
-      "link": "https://www.zdnet.com/article/mwc-02-28-26-live-blog/",
+      "titolo": "Best of MWC 2026: Live updates on phones, concepts, and robots we're seeing",
+      "descrizione": "It's the weekend before Mobile World Congress, and we've got a full slate of announcements from Xiaomi, Honor, and more.",
+      "link": "https://www.zdnet.com/article/mwc-03-01-26-live-blog/",
       "fonte": "Latest news",
-      "data": "2026-02-28T18:12:00+00:00"
+      "data": "2026-03-01T13:00:59+00:00"
+    },
+    {
+      "titolo": "Oricio BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging",
+      "descrizione": "Orico's BookDrive P10Plus feels solid and has a magnetic back for snapping onto smartphones, as well as a 100w passthrough charging port. But its performance is lacking in one key area – especially for professional users",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/oricio-bookdrive-p10plus-512gb-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-01T13:00:00+00:00"
+    },
+    {
+      "titolo": "Enthusiast runs desktop PC off 56 AA batteries — Intel computer lasts less than 5 minutes while playing Minesweeper",
+      "descrizione": "YouTube creator ScuffedBits experimented with a desktop PC and AA batteries just to see how many they needed to run and for how long will a desktop PC last on AA battery power alone.",
+      "link": "https://www.tomshardware.com/desktops/enthusiast-runs-desktop-pc-off-56-aa-batteries-intel-computer-lasts-less-than-5-minutes-while-playing-minesweeper",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-01T12:57:55+00:00"
+    },
+    {
+      "titolo": "Honor lancia MagicPad 4 e svela MagicBook Pro 14: specifiche e prezzi",
+      "descrizione": "Il tablet arriva domani, 2 marzo, in Italia. Del laptop sappiamo ancora poco.",
+      "link": "https://www.hdblog.it/tablet/articoli/n650081/honor-magicpad-4-magicbook-pro-14-prezzi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-01T12:00:00+00:00"
+    },
+    {
+      "titolo": "Honor Magic V6 è ufficiale: ancora più potente e sottile ma con batteria super",
+      "descrizione": "Un pieghevole completo sotto tutti gli aspetti.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650080/honor-magic-v6-ufficiale-specifiche-lancio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-01T12:00:00+00:00"
+    },
+    {
+      "titolo": "The Nvidia GeForce3 launched 25 years ago — underappreciated at launch, its impact shaped the industry",
+      "descrizione": "Technological evolution rarely looks important in the moment. In fact, sometimes it even looks like a regression.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-01T11:40:00+00:00"
+    },
+    {
+      "titolo": "California introduces age verification law for all operating systems, including Linux and SteamOS — user age verified during OS account setup",
+      "descrizione": "The law's broad definition of an \"operating system provider\" pulls in not just Windows, macOS, Android, and iOS, but Linux distributions and Valve's SteamOS.",
+      "link": "https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-01T11:20:00+00:00"
+    },
+    {
+      "titolo": "I tested Xiaomi's matte-glass tablet for a month, and it effectively replaced my iPad",
+      "descrizione": "The Xiaomi Pad 8 Pro Matte Glass variant has an anti-reflective screen, a flagship processor, and upgraded accessories to take on the iPads.",
+      "link": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-01T11:15:44+00:00"
+    },
+    {
+      "titolo": "Make the Most of Chrome's Toolbar by Customizing It to Your Liking",
+      "descrizione": "There are plenty of ways to customize Chrome to make it easier to navigate the web, manage your tasks, and make your workflow more efficient.",
+      "link": "https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/",
+      "fonte": "WIRED",
+      "data": "2026-03-01T11:00:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Pad 8: due tablet per la massima produttività",
+      "descrizione": "Xiaomi Pad 8 e Pad 8 Pro sono tablet di fascia medio-alta con schermo da 11,2 pollici, processori Snapdragon, 8/12 GB di RAM, 128/256/512 GB di storage. The post Xiaomi Pad 8: due tablet per la massima produttività appea",
+      "link": "https://www.punto-informatico.it/xiaomi-pad-8-due-tablet-massima-produttivita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T10:30:49+00:00"
+    },
+    {
+      "titolo": "Suite di cybersecurity a marzo: il nuovo mese inizia con l’offerta di Surfshark",
+      "descrizione": "Fino all'87% di sconto sui piani della durata di due anni più tre mesi extra di servizio in regalo e una garanzia di rimborso di 30 giorni. The post Suite di cybersecurity a marzo: il nuovo mese inizia con l’offerta di S",
+      "link": "https://www.punto-informatico.it/suite-di-cybersecurity-a-marzo-il-nuovo-mese-inizia-con-offerta-di-surfshark/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T10:20:05+00:00"
+    },
+    {
+      "titolo": "Migliora il CV imparando una lingua con Babbel e approfitta del 20% di sconto",
+      "descrizione": "Impara una lingua con Babbel e apri le porte al lavoro dei tuoi sogni. Lezioni pratiche: approfitta del 20% di sconto sui piani. The post Migliora il CV imparando una lingua con Babbel e approfitta del 20% di sconto appe",
+      "link": "https://www.punto-informatico.it/migliora-il-cv-imparando-una-lingua-con-babbel-e-approfitta-del-20-di-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T10:19:45+00:00"
+    },
+    {
+      "titolo": "Luce e gas più convenienti a marzo: ecco le tariffe concorrenziali di Octopus",
+      "descrizione": "Sono valide per quanti sottoscriveranno una nuova fornitura a prezzo fisso entro martedì 3 marzo sul sito di Octopus. The post Luce e gas più convenienti a marzo: ecco le tariffe concorrenziali di Octopus appeared first",
+      "link": "https://www.punto-informatico.it/luce-e-gas-piu-convenienti-a-marzo-ecco-le-tariffe-concorrenziali-di-octopus/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T10:01:05+00:00"
+    },
+    {
+      "titolo": "Windows 11: novità per sicurezza e audio condiviso",
+      "descrizione": "Microsoft ha rilasciato tre versioni preliminari di Windows 11 con vari miglioramenti, tra cui quelli per sicurezza dei file batch e audio condiviso. The post Windows 11: novità per sicurezza e audio condiviso appeared f",
+      "link": "https://www.punto-informatico.it/windows-11-novita-sicurezza-audio-condiviso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T09:30:47+00:00"
+    },
+    {
+      "titolo": "pCloud lancia i piani a vita scontati: fino a 10 TB di spazio cloud",
+      "descrizione": "Con pCloud hai uno spazio cloud per sempre, senza abbonamenti mensili che si rinnovano. Il tutto ora in super sconto: scopri le promo. The post pCloud lancia i piani a vita scontati: fino a 10 TB di spazio cloud appeared",
+      "link": "https://www.punto-informatico.it/pcloud-lancia-i-piani-a-vita-scontati-fino-a-10-tb-di-spazio-cloud/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T09:10:22+00:00"
+    },
+    {
+      "titolo": "Come fa le foto OnePlus 15T? Lo zoom messo alla prova in alcuni scatti ufficiali",
+      "descrizione": "Niente grandangolare, ma c'è lo zoom ottico.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650083/oneplus-15t-zoom-periscopico-fotocamera-test-prova/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-01T09:10:00+00:00"
+    },
+    {
+      "titolo": "Blocco del traffico: il retrofit può essere davvero una soluzione?",
+      "descrizione": "Con le normative sempre più stringenti per la circolazione delle auto più datate, cominciano ad aumentare le proposte retrofit non solo per elettrificare ma anche per...",
+      "link": "https://www.hdmotori.it/retrofit-elettrico-ibrido-circolazione-omologazione-costi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-01T08:30:49+00:00"
+    },
+    {
+      "titolo": "Smartphone, prezzi in salita ma la ripartenza passa anche dall’AI",
+      "descrizione": "Parla Carlo Barlocco, Executive Director & General Manager di Motorola a poche ore dal Mobile World Congress di Barcellonache sul mercato mobile in Italia ha raggiunto il 12% della quota di mercato",
+      "link": "https://www.ilsole24ore.com/art/smartphone-prezzi-salita-ma-ripartenza-passa-anche-dall-ai-AIMdp9bB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T07:14:20+00:00"
     },
     {
       "titolo": "Poco X8 Pro, specifiche confermate dalle prime immagini della confezione",
@@ -49,125 +168,6 @@
       "link": "https://www.punto-informatico.it/xiaomi-17-ultra-super-smartphone-fotocamere-leica/",
       "fonte": "Punto Informatico",
       "data": "2026-02-28T16:35:38+00:00"
-    },
-    {
-      "titolo": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
-      "descrizione": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
-      "link": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
-      "fonte": "WIRED",
-      "data": "2026-02-28T15:58:09+00:00"
-    },
-    {
-      "titolo": "OpenAI riceve 110 miliardi da Amazon, NVIDIA e SoftBank",
-      "descrizione": "OpenAI riceverà 50 miliardi di dollari da Amazon, 30 miliardi da SoftBank e 30 miliardi da NVIDIA, mantenendo l'attuale accordo con Microsoft. The post OpenAI riceve 110 miliardi da Amazon, NVIDIA e SoftBank appeared fir",
-      "link": "https://www.punto-informatico.it/openai-riceve-110-miliardi-amazon-nvidia-softbank/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-28T15:26:35+00:00"
-    },
-    {
-      "titolo": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
-      "descrizione": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real time.",
-      "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
-      "fonte": "WIRED",
-      "data": "2026-02-28T15:12:51+00:00"
-    },
-    {
-      "titolo": "In Patagonia riemerge Alnashetri, il dinosauro di due chili",
-      "descrizione": "In Patagonia scoperto un minuscolo dinosauro di due chili vissuto 90 milioni di anni fa.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n649891/alnashetri-argentina-dinosauro-piu-piccolo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T14:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia il 17 Ultra e una edizione speciale Leica: tutte le novità",
-      "descrizione": "Il focus è sulle foto. Che non è una novità per l’evoluzione che hanno avuto gli smartphone, ma la spinta, anche come comunicazione e posizionamento, è decisa. Xiaomi rilancia la...",
-      "link": "https://www.ilsole24ore.com/art/xiaomi-lancia-17-ultra-e-edizione-speciale-leica-tutte-novita-AI6xF3gB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-28T14:46:00+00:00"
-    },
-    {
-      "titolo": "Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone",
-      "descrizione": "The latest Xiaomi flagship is a beast and comes in a specially co-designed Leica edition that’s picture-perfect.",
-      "link": "https://www.wired.com/review/xiaomi-17-ultra-leitzphone/",
-      "fonte": "WIRED",
-      "data": "2026-02-28T14:32:00+00:00"
-    },
-    {
-      "titolo": "Paramount acquisisce WBD per 110 miliardi di dollari",
-      "descrizione": "Paramount ha annunciato l'acquisizione di Warner Bros. Discovery per circa 110 miliardi di dollari, ma devono essere superati alcuni ostacoli. The post Paramount acquisisce WBD per 110 miliardi di dollari appeared first",
-      "link": "https://www.punto-informatico.it/paramount-acquisisce-wbd-110-miliardi-dollari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-28T14:14:42+00:00"
-    },
-    {
-      "titolo": "Su Gemini diventa molto più comodo importare immagini e video",
-      "descrizione": "Una novità semplice ma pratica: cosa cambia.",
-      "link": "https://www.hdblog.it/google/articoli/n650058/google-gemini-come-condividere-foto-video-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T14:05:00+00:00"
-    },
-    {
-      "titolo": "Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value — user expected RMA replacement but gets hit with a loss instead",
-      "descrizione": "Silicon Power reportedly charged a 15% depreciation fee while refunding a user their 16GB (2x8GB) DDR4-3200 RAM, meaning they'll only receive $46.72, which isn't even enough to buy a single 8GB DDR4-3200 RAM stick at cur",
-      "link": "https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-28T13:52:42+00:00"
-    },
-    {
-      "titolo": "Xiaomi Pad 8 Series ufficiale: tablet ultra sottili, il Pro è anche Matte Glass | PREZZI",
-      "descrizione": "Tante promo al lancio.",
-      "link": "https://www.hdblog.it/tablet/articoli/n649999/xiaomi-pad-8-pro-matte-glass-specifiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:33:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Tag ufficiale, compatibile anche con iOS! C'è anche il power bank slim | PROMO",
-      "descrizione": "Xiaomi porta in Italia Xiaomi Tag, tracker compatibile sia con Apple Find My che con Google Find Hub. Alternativa ad AirTag e Moto Tag, offre autonomia di oltre un anno e certificazione IP67",
-      "link": "https://www.hdblog.it/android/articoli/n650003/xiaomi-tag-power-bank-magnetico-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:32:00+00:00"
-    },
-    {
-      "titolo": "Recensione Xiaomi 17 Ultra: un vero zoom ottico, nuovo HDR e qualche pubblicità",
-      "descrizione": "Abbiamo messo le mani sul nuovo Xiaomi 17 Ultra che finalmente arriva in Italia e porta con sé un teleobiettivo con vero zoom ed un sensore principale con una sorta di HDR hardware nativo. Non...",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n650035/recensione-xiaomi-17-ultra-test-prova-foto/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:31:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Watch 5 e REDMI Buds 8 Pro ufficiali in Italia: dettagli, prezzi e promo",
-      "descrizione": "Le novità indossabili annunciate a Barcellona.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n649952/xiaomi-watch-5-redmi-buds-8-pro-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:31:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Electric Scooter 6 Series, la nuova frontiera del monopattino",
-      "descrizione": "Xiaomi presenta la Electric Scooter 6 Series, la nuova famiglia di monopattini elettrici progettata per ogni tipo di rider",
-      "link": "https://www.hdmotori.it/xiaomi-electric-scooter-6-series/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:30:01+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17, Ultra e Leica Leitzphone ufficiali: caratteristiche, prezzi e promo",
-      "descrizione": "La nuova Xiaomi 17 Series arriva sul mercato europeo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n649955/xiaomi-17-ultra-leica-leitzphone-ufficiali/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:30:00+00:00"
-    },
-    {
-      "titolo": "Honor 600, i primi rumor promettono bene: batteria enorme e fotocamera da 200 MP",
-      "descrizione": "Indiscrezioni anche su chip e altri dettagli.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650052/honor-600-specifiche-batteria-fotocamera-chip-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T13:05:00+00:00"
-    },
-    {
-      "titolo": "7 AI coding techniques I use to ship real, reliable products - fast",
-      "descrizione": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
-      "link": "https://www.zdnet.com/article/ai-coding-techniques/",
-      "fonte": "Latest news",
-      "data": "2026-02-28T13:00:00+00:00"
     }
   ]
 }
