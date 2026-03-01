@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-01T13:10:23.035884+00:00",
+  "last_updated": "2026-03-01T18:51:34.764250+00:00",
   "items": [
     {
-      "titolo": "OpenAI: accordo con il Pentagono senza restrizioni AI?",
-      "descrizione": "OpenAI ha sottoscritto un contratto con il Dipartimento della Difesa, quindi i suoi modelli potrebbero sostituire quelli di Anthropic per uso militare. The post OpenAI: accordo con il Pentagono senza restrizioni AI? appe",
-      "link": "https://www.punto-informatico.it/openai-accordo-pentagono-senza-restrizioni-ai/",
+      "titolo": "Accordo OpenAI-Pentagono: più restrizioni per uso militare",
+      "descrizione": "OpenAI ha specificato che i suoi modelli AI non potranno essere usati per sorveglianza di massa, controllo armi autonome e decisioni ad alto rischio. The post Accordo OpenAI-Pentagono: più restrizioni per uso militare ap",
+      "link": "https://www.punto-informatico.it/accordo-openai-pentagono-restrizioni-uso-militare/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-28T17:50:22+00:00",
+      "data": "2026-03-01T17:12:43+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Su Gemini diventa molto più comodo importare immagini e video",
-      "descrizione": "Una novità semplice ma pratica: cosa cambia.",
-      "link": "https://www.hdblog.it/google/articoli/n650058/google-gemini-come-condividere-foto-video-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T14:05:00+00:00",
+      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
+      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T18:27:28+00:00",
       "modello": "gemini"
     },
     {

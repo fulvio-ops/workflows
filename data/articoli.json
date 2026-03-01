@@ -1,17 +1,66 @@
 {
-  "last_updated": "2026-03-01T13:10:19.729996+00:00",
+  "last_updated": "2026-03-01T18:51:30.446248+00:00",
   "items": [
     {
       "titolo": "Best of MWC 2026: Live updates on phones, concepts, and robots we're seeing",
       "descrizione": "It's the weekend before Mobile World Congress, and we've got a full slate of announcements from Xiaomi, Honor, and more.",
       "link": "https://www.zdnet.com/article/mwc-03-01-26-live-blog/",
       "fonte": "Latest news",
-      "data": "2026-03-01T13:00:59+00:00"
+      "data": "2026-03-01T18:34:00+00:00"
     },
     {
-      "titolo": "Oricio BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging",
+      "titolo": "The Apple Watch missed my hypertension - but this blood pressure wearable caught it immediately",
+      "descrizione": "The Hilo is a new monitor that takes blood pressure readings throughout the day and alerts you when something is amiss, but it's not perfect.",
+      "link": "https://www.zdnet.com/article/hilo-blood-pressure-monitor-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-01T18:29:00+00:00"
+    },
+    {
+      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
+      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T18:27:28+00:00"
+    },
+    {
+      "titolo": "Accordo OpenAI-Pentagono: più restrizioni per uso militare",
+      "descrizione": "OpenAI ha specificato che i suoi modelli AI non potranno essere usati per sorveglianza di massa, controllo armi autonome e decisioni ad alto rischio. The post Accordo OpenAI-Pentagono: più restrizioni per uso militare ap",
+      "link": "https://www.punto-informatico.it/accordo-openai-pentagono-restrizioni-uso-militare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T17:12:43+00:00"
+    },
+    {
+      "titolo": "Honor al MWC 2026 spariglia le carte con lo smartphone-robot",
+      "descrizione": "Lo smartphone che integra capacità motorie e percezione spaziale attraverso un sistema gimbal ultracompatto è la star della presentazione della casa cinese che annuncia anche il nuovo super pieghevole Magic V6",
+      "link": "https://www.ilsole24ore.com/art/honor-mwc-2026-spariglia-carte-lo-smartphone-robot-AIlefFiB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T16:33:00+00:00"
+    },
+    {
+      "titolo": "MWC 2026: HONOR annuncia Robot Phone e Magic V6",
+      "descrizione": "HONOR Robot Phone ha una fotocamera da 200 megapixel montata su un braccio robotico, mentre HONOR Magic V6 è il nuovo smartphone pieghevole. The post MWC 2026: HONOR annuncia Robot Phone e Magic V6 appeared first on Punt",
+      "link": "https://www.punto-informatico.it/mwc-2026-honor-annuncia-robot-phone-magic-v6/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T15:49:19+00:00"
+    },
+    {
+      "titolo": "Xiaomi Watch 5: gesture EMC, Gemini e Wear OS 6",
+      "descrizione": "Xiaomi Watch 5 ha un display AMOLED da 1,54 pollici, due processori e sensori EMG che consentono di eseguire gesture senza toccare lo schermo. The post Xiaomi Watch 5: gesture EMC, Gemini e Wear OS 6 appeared first on Pu",
+      "link": "https://www.punto-informatico.it/xiaomi-watch-5-gesture-emc-gemini-wear-os-6/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-01T14:33:23+00:00"
+    },
+    {
+      "titolo": "‘200,000 living human neurons’ on a microchip demonstrated playing Doom — Cortical Labs CL1 video shows the gameplay and explains how the neurons learn the game",
+      "descrizione": "Australia’s Cortical Labs has demonstrated its 'body in a box' CL1 biological computer playing Doom.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/200-000-living-human-neurons-on-a-microchip-demonstrated-playing-doom-cortical-labs-cl1-video-shows-the-gameplay-and-explains-how-the-neurons-learn-the-game",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-01T13:35:36+00:00"
+    },
+    {
+      "titolo": "Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging",
       "descrizione": "Orico's BookDrive P10Plus feels solid and has a magnetic back for snapping onto smartphones, as well as a 100w passthrough charging port. But its performance is lacking in one key area – especially for professional users",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/oricio-bookdrive-p10plus-512gb-review",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-01T13:00:00+00:00"
     },
@@ -119,55 +168,6 @@
       "link": "https://www.hdmotori.it/retrofit-elettrico-ibrido-circolazione-omologazione-costi/",
       "fonte": "HDblog.it",
       "data": "2026-03-01T08:30:49+00:00"
-    },
-    {
-      "titolo": "Smartphone, prezzi in salita ma la ripartenza passa anche dall’AI",
-      "descrizione": "Parla Carlo Barlocco, Executive Director & General Manager di Motorola a poche ore dal Mobile World Congress di Barcellonache sul mercato mobile in Italia ha raggiunto il 12% della quota di mercato",
-      "link": "https://www.ilsole24ore.com/art/smartphone-prezzi-salita-ma-ripartenza-passa-anche-dall-ai-AIMdp9bB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-01T07:14:20+00:00"
-    },
-    {
-      "titolo": "Poco X8 Pro, specifiche confermate dalle prime immagini della confezione",
-      "descrizione": "C'è chi ci ha già messo le mani sopra: cosa sappiamo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650075/poco-x8-pro-max-specifiche-confezione-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T17:55:00+00:00"
-    },
-    {
-      "titolo": "Pokémon Presents, arriva la decima generazione: Vento e Onda e tutte le novità",
-      "descrizione": "Pokémon festeggia il trentennale con il primo trailer della decima generazione su Switch 2.",
-      "link": "https://www.hdblog.it/games/articoli/n650069/pokemon-presents-vento-onda-annunci-novita-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-28T17:40:00+00:00"
-    },
-    {
-      "titolo": "Babbel: il metodo per parlare subito una nuova lingua con il 20% di sconto",
-      "descrizione": "Impara una nuova lingua con Babbel e approfitta del 20% di sconto su tutti i piani. Lezioni brevi, personalizzate e divertenti, e progressi rapidi. The post Babbel: il metodo per parlare subito una nuova lingua con il 20",
-      "link": "https://www.punto-informatico.it/babbel-il-metodo-per-parlare-subito-una-nuova-lingua-con-il-20-di-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-28T17:30:30+00:00"
-    },
-    {
-      "titolo": "I thought this 245W charging station was excessive, but it's an office essential for me now",
-      "descrizione": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
-      "link": "https://www.zdnet.com/article/baseus-nomos-nh21-power-station-review/",
-      "fonte": "Latest news",
-      "data": "2026-02-28T17:28:00+00:00"
-    },
-    {
-      "titolo": "OpenAI strikes deal with Pentagon following Claude blacklisting — Anthropic to challenge supply chain risk designation in court",
-      "descrizione": "Altman’s announcement came not long after President Trump “ordered” every federal agency to immediately stop using Anthropic's technology.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-strikes-deal-with-pentagon-following-claude-blacklisting",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-28T16:38:04+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17 Ultra: super smartphone con fotocamere Leica",
-      "descrizione": "Xiaomi 17 Ultra ha uno schermo da 6,9 pollici, processore Snapdragon 8 Elite Gen 5, 16 GB di RAM e fotocamere sviluppate in collaborazione con Leica. The post Xiaomi 17 Ultra: super smartphone con fotocamere Leica appear",
-      "link": "https://www.punto-informatico.it/xiaomi-17-ultra-super-smartphone-fotocamere-leica/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-28T16:35:38+00:00"
     }
   ]
 }
