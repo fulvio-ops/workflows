@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-02T07:16:38.408151+00:00",
+  "last_updated": "2026-03-02T13:35:56.493178+00:00",
   "items": [
     {
-      "titolo": "Accordo OpenAI-Pentagono: più restrizioni per uso militare",
-      "descrizione": "OpenAI ha specificato che i suoi modelli AI non potranno essere usati per sorveglianza di massa, controllo armi autonome e decisioni ad alto rischio. The post Accordo OpenAI-Pentagono: più restrizioni per uso militare ap",
-      "link": "https://www.punto-informatico.it/accordo-openai-pentagono-restrizioni-uso-militare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-01T17:12:43+00:00",
+      "titolo": "Lenovo al MWC con tantissimi computer consumer e business",
+      "descrizione": "Una rapida carrellata di tutti i dispositivi che la società cinese ha portato in fiera.",
+      "link": "https://www.hdblog.it/portatili/articoli/n650166/lenovo-mwc-novita-business-consumer-gaming/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T12:35:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "AMD Ryzen AI 400 e 400 Pro ufficiali: i Copilot+PC arrivano anche su desktop",
+      "descrizione": "Non sono sostituti dei Ryzen 9000!",
+      "link": "https://www.hdblog.it/hardware/articoli/n650157/amd-mwc-2026-ryzen-ai-400-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T11:15:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
@@ -18,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude primo nell’App Store dopo lo scontro con il Pentagono",
-      "descrizione": "Lo scontro tra Anthropic e il Pentagono su armi autonome e sorveglianza ha portato Claude al primo posto nell'App Store USA. The post Claude primo nell’App Store dopo lo scontro con il Pentagono appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/claude-primo-app-store-dopo-scontro-pentagono/",
+      "titolo": "Claude down il 2 marzo: tutti gli aggiornamenti",
+      "descrizione": "Problemi per Claude, il servizio AI è down: Anthropic è al lavoro per risolvere il disguido, per ora il chatbot è inaccessibile. The post Claude down il 2 marzo: tutti gli aggiornamenti appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/claude-down-02032026/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T05:49:13+00:00",
+      "data": "2026-03-02T13:25:33+00:00",
       "modello": "claude"
     },
     {
