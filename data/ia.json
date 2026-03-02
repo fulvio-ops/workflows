@@ -1,45 +1,29 @@
 {
-  "last_updated": "2026-03-02T13:35:56.493178+00:00",
+  "last_updated": "2026-03-02T19:07:30.210891+00:00",
   "items": [
     {
-      "titolo": "Lenovo al MWC con tantissimi computer consumer e business",
-      "descrizione": "Una rapida carrellata di tutti i dispositivi che la società cinese ha portato in fiera.",
-      "link": "https://www.hdblog.it/portatili/articoli/n650166/lenovo-mwc-novita-business-consumer-gaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T12:35:00+00:00",
+      "titolo": "I chatbot AI peggiorano le malattie mentali, l’ennesima conferma",
+      "descrizione": "I chatbot come ChatGPT rafforzano i deliri e aggravano depressione, autolesionismo e disturbi alimentari nei pazienti vulnerabili. The post I chatbot AI peggiorano le malattie mentali, l’ennesima conferma appeared first",
+      "link": "https://www.punto-informatico.it/chatbot-ai-peggiorano-malattie-mentali-ennesima-conferma/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-02T16:48:45+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "AMD Ryzen AI 400 e 400 Pro ufficiali: i Copilot+PC arrivano anche su desktop",
-      "descrizione": "Non sono sostituti dei Ryzen 9000!",
-      "link": "https://www.hdblog.it/hardware/articoli/n650157/amd-mwc-2026-ryzen-ai-400-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T11:15:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
-      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
-      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-01T18:27:28+00:00",
+      "titolo": "This high-severity Chrome Gemini vulnerability lets malicious extensions spy on your PC",
+      "descrizione": "A bug in Google Chrome's Gemini AI feature could expose your data or allow attackers to monitor you. Here's how to stay protected.",
+      "link": "https://www.zdnet.com/article/gemini-live-chrome-bug-hijacks-ai/",
+      "fonte": "Latest news",
+      "data": "2026-03-02T14:53:13+00:00",
       "modello": "gemini"
     },
     {
       "titolo": "Claude down il 2 marzo: tutti gli aggiornamenti",
-      "descrizione": "Problemi per Claude, il servizio AI è down: Anthropic è al lavoro per risolvere il disguido, per ora il chatbot è inaccessibile. The post Claude down il 2 marzo: tutti gli aggiornamenti appeared first on Punto Informatic",
+      "descrizione": "Problemi in corso per Claude, il servizio AI è down: Anthropic è al lavoro per risolvere il disguido, per ora il chatbot è inaccessibile. The post Claude down il 2 marzo: tutti gli aggiornamenti appeared first on Punto I",
       "link": "https://www.punto-informatico.it/claude-down-02032026/",
       "fonte": "Punto Informatico",
       "data": "2026-03-02T13:25:33+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Anthropic accusa DeepSeek, Moonshot e MiniMax di distillazione non autorizzata del modello Claude",
-      "descrizione": "Anthropic questa settimana ha affermato che concorrenti cinesi stavano rubando la sua tecnologia AI lanciando cosiddetti attacchi di distillazione sui suoi modelli.",
-      "link": "https://www.ilsole24ore.com/art/antrhopic-e-openai-accusano-furto-deepseek-e-modelli-cinesi-ma-cosa-e-distillazione-AI95YQeB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-26T15:42:00+00:00",
-      "modello": "altri"
     }
   ]
 }

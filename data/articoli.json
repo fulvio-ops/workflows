@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-02T13:35:53.590034+00:00",
+  "last_updated": "2026-03-02T19:07:25.517407+00:00",
   "items": [
+    {
+      "titolo": "Nvidia’s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam’s number one GPU — but there are questions about why",
+      "descrizione": "The latest Steam Hardware & Software Survey for February 2026 has shown that the GeForce RTX 5070 has become the platform's most popular gaming graphics card, but there are some doubts about the survey methodology.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-02T19:05:33+00:00"
+    },
+    {
+      "titolo": "Nvidia releases new GeForce 595.71 driver to fix serious fan control bug — new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working",
+      "descrizione": "A new Nvidia GPU driver, 595.71, has been released which resolves issues in its since-recalled 595.59 driver which reportedly caused some graphics card fans to stop working.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-releases-new-geforce-595-71-driver-to-fix-serious-fan-control-bug-new-update-resolves-issues-for-rtx-30-40-and-50-series-gpus-that-reportedly-stopped-some-fans-from-working",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-02T17:56:21+00:00"
+    },
+    {
+      "titolo": "Anche l'Europa spinge sul 6G: al MWC annunciati nuovi investimenti",
+      "descrizione": "116 milioni di euro spalmati su una ventina di progetti.",
+      "link": "https://www.hdblog.it/business/articoli/n650231/unione-europea-investimenti-6g-mwc/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T17:55:00+00:00"
+    },
+    {
+      "titolo": "NebiOS turns your Linux desktop into a Google Workspace alternative - with one caveat",
+      "descrizione": "If the developers stick with it, NebiOS has the potential to become something truly special.",
+      "link": "https://www.zdnet.com/article/nebios-linux-distro-google-workspace-alternative-cloud-caveat/",
+      "fonte": "Latest news",
+      "data": "2026-03-02T17:47:00+00:00"
+    },
+    {
+      "titolo": "Amazon aumenta notevolmente gli investimenti in Spagna per cloud e AI",
+      "descrizione": "Praticamente si raddoppia il piano originale, passando a più di 33 miliardi di dollari.",
+      "link": "https://www.hdblog.it/amazon/articoli/n650229/amazon-aws-investimenti-spagna-mwc-barcellona/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T17:35:00+00:00"
+    },
     {
       "titolo": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
       "descrizione": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts.",
       "link": "https://www.zdnet.com/article/mwc-03-02-26-live-blog/",
       "fonte": "Latest news",
-      "data": "2026-03-02T13:29:00+00:00"
+      "data": "2026-03-02T17:34:43+00:00"
     },
     {
-      "titolo": "Benzina e diesel in aumento: controlla la media della tue regione",
-      "descrizione": "Primi rincari alla pompa, controlla i prezzi medi regionali di benzina, diesel, GPL e metano pubblicati ogni giorno dal Ministero. The post Benzina e diesel in aumento: controlla la media della tue regione appeared first",
-      "link": "https://www.punto-informatico.it/benzina-diesel-prezzi-medi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T13:22:08+00:00"
-    },
-    {
-      "titolo": "Cave-inspired 3D printed Japanese home touted as earthquake resistant — two-story house first of its kind to be granted seismic compliance certificate",
-      "descrizione": "Construction of the first government approved two-story 3D printed home has been completed in Japan. The design is 'cave-inspired.'",
-      "link": "https://www.tomshardware.com/3d-printing/cave-inspired-3d-printed-japanese-home-touted-as-earthquake-resistant-two-storey-house-first-of-its-kind-to-be-granted-seismic-compliance-certificate",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T12:41:15+00:00"
-    },
-    {
-      "titolo": "Ford Model T: lo storico modello del 1913 rinasce in mattonici LEGO",
-      "descrizione": "La leggendaria Model T rinasce in versione Lego Icons: un omaggio fedele al 1913 che celebra l’auto che ha portato la mobilità nelle case di milioni di persone.",
-      "link": "https://www.hdmotori.it/ford-model-t-storico-modello-1913-lego/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T12:30:50+00:00"
-    },
-    {
-      "titolo": "Eufy presenta nuovi robot per casa e prato al MWC 2026",
-      "descrizione": "Le novità Eufy al MWC 2026 puntano su automazione domestica e semplicità d’uso, tra robot aspirapolvere, tosaerba intelligente e dispositivi per la cura personale. Prezzi e disponibilità in...",
-      "link": "https://www.hdblog.it/home/articoli/n650164/anker-eufy-robot-novita-mwc-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T12:15:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi e BYD: vendite crollate a febbraio, ma non è crisi. Ecco perché",
-      "descrizione": "I dati di BYD e Xiaomi parlano di una riduzione delle vendite, ma il quadro complessivo è meno negativo.",
-      "link": "https://www.hdmotori.it/xiaomi-byd-vendite-crollate-febbraio-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T12:00:57+00:00"
-    },
-    {
-      "titolo": "A Former Top Trump Official Is Going After Prediction Markets",
-      "descrizione": "As the battle over prediction markets rages on, Mick Mulvaney is leading a new coalition that calls these platforms illegal gambling.",
-      "link": "https://www.wired.com/story/former-top-trump-official-launches-coalition-to-protect-americans-from-prediction-markets/",
-      "fonte": "WIRED",
-      "data": "2026-03-02T12:00:00+00:00"
-    },
-    {
-      "titolo": "Oltre 390 TB di storia del gaming a rischio: la crisi dei chip colpisce Myrient",
-      "descrizione": "Costi insostenibili e abusi degli utenti: le ragioni dietro la chiusura di Myrient",
-      "link": "https://www.hdblog.it/games/articoli/n650161/myrient-chiusura-imminente-crisi-chip/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T11:50:00+00:00"
-    },
-    {
-      "titolo": "Sonos Play, in arrivo un nuovo speaker portatile compatto | Rumor",
-      "descrizione": "Pare che Sonos sia in procinto a lanciare un nuovo speaker portatile: il dispositivo, chiamato semplicemente Sonos Play, è stato svelato per errore dal sito canadese di Best Buy, uno dei...",
-      "link": "https://www.hdblog.it/domotica/articoli/n650165/sonos-play-speaker-smart-compatto-portatile/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T11:45:00+00:00"
-    },
-    {
-      "titolo": "Resident Evil Requiem ha il punteggio utenti più alto di sempre su Metacritic",
-      "descrizione": "Il pubblico è entusiasta dell'ultimo capitolo della storica saga horror.",
-      "link": "https://www.hdblog.it/games/articoli/n650143/resident-evil-requiem-metacritic-punteggio-user/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T11:40:00+00:00"
-    },
-    {
-      "titolo": "Motorola edge 70 fusion: funzionalità AI e super batteria",
-      "descrizione": "Il Motorola edge 70 fusion ha uno schermo AMOLED da 6,78 pollici, 8 GB di RAM, 256 GB di storage, batteria fino a 7.000 mAh e varie funzionalità AI. The post Motorola edge 70 fusion: funzionalità AI e super batteria appe",
-      "link": "https://www.punto-informatico.it/motorola-edge-70-fusion-funzionalita-ai-super-batteria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T11:38:37+00:00"
-    },
-    {
-      "titolo": "Santander e Mastercard testano il primo pagamento europeo gestito da agente AI",
-      "descrizione": "Primo pagamento end-to-end in tempo reale in Europa eseguito da un agente di intelligenza artificiale",
-      "link": "https://www.hdblog.it/business/articoli/n650159/santander-mastercard-pagamento-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T11:25:00+00:00"
-    },
-    {
-      "titolo": "Privacy, Samsung alza lo scudo, Apple difende il modello. La sfida è sui dati",
-      "descrizione": "Nel 2026 la sfida tra Apple e Samsung si sposta sulla protezione dei dati. Samsung introduce uno scudo hardware nel display, mentre Apple rafforza la sua storica strategia sulla privacy.",
-      "link": "https://www.ilsole24ore.com/art/privacy-samsung-alza-scudo-apple-difende-modello-sfida-e-strategica-AIGtshiB",
+      "titolo": "Alla fiera della tecnologia si parla (anche) di come usarne meno",
+      "descrizione": "BARCELLONA_ A pochi metri dallo stand dove due robot stanno cucinando per mostrare al pubblico le capacità degli automi, la star di Breaking Bad Aaron Paul, insieme a Kaiwen Tang,...",
+      "link": "https://www.ilsole24ore.com/art/alla-fiera-tecnologia-si-parla-anche-come-usarne-meno-AI8Yb6iB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-02T11:25:00+00:00"
+      "data": "2026-03-02T17:33:00+00:00"
     },
     {
-      "titolo": "AMD Ryzen AI 400 e 400 Pro ufficiali: i Copilot+PC arrivano anche su desktop",
-      "descrizione": "Non sono sostituti dei Ryzen 9000!",
-      "link": "https://www.hdblog.it/hardware/articoli/n650157/amd-mwc-2026-ryzen-ai-400-pro/",
+      "titolo": "Dacia Evader: arriva nel 2026 il piccolo crossover elettrico da 18.000 euro",
+      "descrizione": "Il nuovo modello urbano 100% elettrico sarà derivato dalla Renault Twigo, ma si distinguerà per lo stile da crossover. Autonomia di circa 250 chilometri.",
+      "link": "https://www.hdmotori.it/dacia-evader-arriva-nel-2026-il-piccolo-crossover-elettrico-da-18-000-euro/",
       "fonte": "HDblog.it",
-      "data": "2026-03-02T11:15:00+00:00"
+      "data": "2026-03-02T17:30:21+00:00"
     },
     {
-      "titolo": "Motorola razr fold al MWC 2026: specifiche e prezzo",
-      "descrizione": "Motorola ha svelato il nuovo razr fold, primo smartphone pieghevole del produttore con fattore di forma a libretto, dopo molti modelli a conchiglia. The post Motorola razr fold al MWC 2026: specifiche e prezzo appeared f",
-      "link": "https://www.punto-informatico.it/motorola-razr-fold-mwc-2026-specifiche-prezzo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T10:57:41+00:00"
-    },
-    {
-      "titolo": "La ZTL a Roma diventa a pagamento per le auto elettriche dal 1 luglio, è ufficiale",
-      "descrizione": "La nuova regolamentazione che riguarda le auto elettriche nella ZTL di Roma entrerà in vigore a partire dal prossimo 1 luglio 2026.",
-      "link": "https://www.hdmotori.it/ztl-roma-pagamento-auto-elettriche-1-luglio/",
+      "titolo": "Motorola, partnership con GrapheneOS ufficiale al MWC 2026",
+      "descrizione": "Arriverà addirittura uno smartphone \"nativo GrapheneOS\", e alcune feature avanzate potrebbero essere rese disponibili anche sui modelli regolari.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650227/motorola-partnership-grapheneos-mwc/",
       "fonte": "HDblog.it",
-      "data": "2026-03-02T10:30:09+00:00"
+      "data": "2026-03-02T17:25:00+00:00"
     },
     {
-      "titolo": "When the Internet Goes Dark, the Truth Goes With It",
-      "descrizione": "Palestinian journalist Plestia Alaqad on bearing witness, the fragile power of social media, and why documenting lived reality matters more than ever.",
-      "link": "https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/",
-      "fonte": "WIRED",
-      "data": "2026-03-02T10:30:00+00:00"
-    },
-    {
-      "titolo": "Qualcomm lancia nuovo chip per i gadget AI indossabili",
-      "descrizione": "Qualcomm ha annunciato lo Snapdragon Wear Elite, un chip a 3nm progettato per spille, ciondoli e gadget AI indossabili con NPU integrata. The post Qualcomm lancia nuovo chip per i gadget AI indossabili appeared first on",
-      "link": "https://www.punto-informatico.it/qualcomm-nuovo-chip-gadget-ai-indossabili/",
+      "titolo": "Qualcomm annuncia i primi prodotti Wi-Fi 8 per l’era AI",
+      "descrizione": "Qualcomm ha svelato i primi prodotti Wi-Fi 8, tra cui FastConnect 8800 Mobile che supporta anche Bluetooth 7.0, Ultra Wideband 802.15.4ab e Thread 1.5. The post Qualcomm annuncia i primi prodotti Wi-Fi 8 per l’era AI app",
+      "link": "https://www.punto-informatico.it/qualcomm-annuncia-primi-prodotti-wi-fi-8-era-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T10:29:41+00:00"
+      "data": "2026-03-02T17:22:14+00:00"
     },
     {
-      "titolo": "Ricarica con stile e silenzio in aereo: le novità Anker e Soundcore del MWC 2026",
-      "descrizione": "Anker presenta al MWC 2026 la Prime Wireless Charging Station con Qi2 a 25W, tecnologia MagGo e raffreddamento attivo AirCool. Debuttano anche le cuffie Soundcore Space 2 con ANC",
-      "link": "https://www.hdblog.it/eventi/articoli/n650150/anker-soundcore-novita-ricarica-mwc-2026/",
+      "titolo": "Transcend 260S 2TB SSD Review: A Dependable Alternative PCIe 5.0 Contender",
+      "descrizione": "The Transcend 260S is not a record-setter but it does deliver consistent performance in what should be a reliable package.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/transcend-260s-2tb-ssd-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-02T17:16:23+00:00"
+    },
+    {
+      "titolo": "Energia nucleare sulla Luna: il piano USA prende forma",
+      "descrizione": "Lockheed Martin sviluppa reattori nucleari da 5-10 kW per la futura base lunare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650113/lockheed-martin-reattore-nucleare-luna/",
       "fonte": "HDblog.it",
-      "data": "2026-03-02T10:25:00+00:00"
+      "data": "2026-03-02T17:15:00+00:00"
     },
     {
-      "titolo": "Corning annuncia Gorilla Glass Ceramic 3: il vetro pensato per durare nel tempo",
-      "descrizione": "Fa il suo debutto sul motorola razr fold",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650148/corning-annuncia-gorilla-glass-ceramic-3/",
+      "titolo": "Paramount+ e HBO Max diventeranno un'unica piattaforma di streaming",
+      "descrizione": "HBO manterrà la propria identità e direzione editoriale, comunque.",
+      "link": "https://www.hdblog.it/mercato/articoli/n650221/hbo-paramount-plus-piattaforma-streaming-unica/",
       "fonte": "HDblog.it",
-      "data": "2026-03-02T10:10:00+00:00"
+      "data": "2026-03-02T17:05:00+00:00"
     },
     {
-      "titolo": "Oral-B Pro 3 Design Edition con custodia da viaggio a metà prezzo",
-      "descrizione": "Approfitta dello sconto del 50% su Amazon per avere il mitico spazzolino elettrico Oral-B Pro 3 Design Edition con custodia da viaggio. The post Oral-B Pro 3 Design Edition con custodia da viaggio a metà prezzo appeared",
-      "link": "https://www.punto-informatico.it/oral-b-pro-3-design-edition-con-custodia-da-viaggio-meta-prezzo/",
+      "titolo": "Luce e gas in aumento? Questa è la soluzione per bloccare il prezzo e risparmiare",
+      "descrizione": "Con la nuova offerta luce e gas di Engie è possiible bloccare il prezzo fino a 24 mesi e proteggersi dai rincari del mercato energetico. The post Luce e gas in aumento? Questa è la soluzione per bloccare il prezzo e risp",
+      "link": "https://www.punto-informatico.it/luce-e-gas-in-aumento-questa-e-la-soluzione-per-bloccare-il-prezzo-e-risparmiare/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T09:40:39+00:00"
+      "data": "2026-03-02T16:54:02+00:00"
     },
     {
-      "titolo": "Facebook invasa da video AI di guaritori che curano malattie inventate",
-      "descrizione": "Chi ultimamente non ha scrollato i Reel di Facebook o è stato casualmente risparmiato dall’algoritmo, potrebbe essersi perso un fenomeno inquietante: un’ondata di video AI con guaritori spirituali che curano malattie imp",
-      "link": "https://www.punto-informatico.it/facebook-video-ai-guaritori-curano-malattie-inventate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T09:40:08+00:00"
+      "titolo": "Exploring the future of Artificial Intelligence — today's models, tomorrow's agents, and the big privacy problem",
+      "descrizione": "The world of AI is getting more complex, and we assess the current state of LLMs, what makes them tick, and explore the risks and features that companies are looking to integrate in the future.",
+      "link": "https://www.tomshardware.com/future-of-ai",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-02T16:51:26+00:00"
     },
     {
-      "titolo": "Nella guerra di oggi, anche i data center sono nel mirino",
-      "descrizione": "Colpita un'infrastruttura AWS negli Emirati Arabi Uniti: i data center emergono come potenziali nuovi bersagli nei conflitti moderni. The post Nella guerra di oggi, anche i data center sono nel mirino appeared first on P",
-      "link": "https://www.punto-informatico.it/guerra-data-center-sono-nel-mirino/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T09:28:40+00:00"
+      "titolo": "Nissan sarà venduta? Il CEO Ivan Espinosa non esclude del tutto la possibilità",
+      "descrizione": "Un'eventualità ancora lontana, ma considerando la crisi interna al marchio giapponese non è da escludere del tutto.",
+      "link": "https://www.hdmotori.it/nissan-venduta-ceo-espinosa/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T16:30:40+00:00"
     },
     {
-      "titolo": "Elegante, autonomia enorme e oltre 160 app: Amazfit Active 2 al minimo storico",
-      "descrizione": "Oggi puoi metterti al polso il meraviglioso Amazfit Active 2, uno smartwatch elegante con autonomia enorme e oltre 160 modalità sportive. The post Elegante, autonomia enorme e oltre 160 app: Amazfit Active 2 al minimo st",
-      "link": "https://www.punto-informatico.it/elegante-autonomia-enorme-oltre-160-app-amazfit-active-2-minimo-storico/",
+      "titolo": "Motorola scende in campo con FIFA Heroes",
+      "descrizione": "Una delle iniziative del brand legate ai prossimo mondiali di cui sarà Official Smartphone Partner.",
+      "link": "https://www.hdblog.it/motorola/articoli/n650214/motorola-fifa-heroes-partnership-gioco-mobile-razr/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T16:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11: Microsoft aggiorna Registry.pol e potenzia i Criteri di Gruppo",
+      "descrizione": "Novità per gli amministratori di sistema: il debug GPP sbarca sulle policy locali di Windows",
+      "link": "https://www.hdblog.it/microsoft/articoli/n650197/windows-11-aggiornamento-criteri-gruppo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T16:05:00+00:00"
+    },
+    {
+      "titolo": "ISSCC 2026: Rebellions details industry's first quad-chiplet AI solution with UCIe interconnects — claims Rebel100 AI accelerator equals the power of Nvidia H200 with lower power envelope",
+      "descrizione": "Rebellions details how it developed one of the world's first quad-chiplet AI accelerator with UCIe interconnects and how it did not use all of the technologies that the UCIe 1.0 specifications includes.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/isscc-2026-rebellions-ucie-rebel-100",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-02T16:03:23+00:00"
+    },
+    {
+      "titolo": "AMD annuncia nuovi processori Ryzen AI 400 per PC",
+      "descrizione": "AMD ha annunciato nuovi processori Ryzen AI 400 per PC desktop (eredi della serie 8000G) che possono essere installati su schede madri con socket AM5. The post AMD annuncia nuovi processori Ryzen AI 400 per PC appeared f",
+      "link": "https://www.punto-informatico.it/amd-annuncia-nuovi-processori-ryzen-ai-400-pc/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T09:23:20+00:00"
+      "data": "2026-03-02T16:01:05+00:00"
+    },
+    {
+      "titolo": "Airalo: la eSIM smart per viaggiare connessi senza spendere una fortuna",
+      "descrizione": "Grazie ad Airalo puoi connetterti ovunque all'estero con una eSIM digitale, decisamente meno costa del roaming e più comoda di quelle fisiche. The post Airalo: la eSIM smart per viaggiare connessi senza spendere una fort",
+      "link": "https://www.punto-informatico.it/airalo-la-esim-smart-per-viaggiare-connessi-senza-spendere-una-fortuna/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-02T15:53:09+00:00"
+    },
+    {
+      "titolo": "Missili e attacchi informatici: fuoco incrociato sull’Iran",
+      "descrizione": "Nelle stesse ore degli attacchi aerei, un'azione informatica ha sabotato un'applicazione utilizzata dai fedeli iraniani per la preghiera. The post Missili e attacchi informatici: fuoco incrociato sull’Iran appeared first",
+      "link": "https://www.punto-informatico.it/missili-attacchi-informatici-fuoco-incrociato-iran/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-02T15:41:53+00:00"
+    },
+    {
+      "titolo": "Carlo Verdone torna alla regia con Scuola di seduzione",
+      "descrizione": "Il nuovo film di Carlo Verdone arriva il 1° aprile su Paramount+.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n650176/carlo-verdone-scuola-di-seduzione-paramount-plus/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T15:40:00+00:00"
+    },
+    {
+      "titolo": "Land Rover Defender, nel 2027 in arrivo una versione più compatta",
+      "descrizione": "Piattaforma EMA, powertrain elettrico e nome ancora da definire per piccola Defender che, secondo le indiscrezioni, arriverà l'anno prossimo.",
+      "link": "https://www.hdmotori.it/land-rover-defender-compatto-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T15:30:53+00:00"
     }
   ]
 }
