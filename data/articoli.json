@@ -1,12 +1,61 @@
 {
-  "last_updated": "2026-03-02T19:07:25.517407+00:00",
+  "last_updated": "2026-03-03T03:14:52.618372+00:00",
   "items": [
+    {
+      "titolo": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+      "descrizione": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+      "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+      "fonte": "WIRED",
+      "data": "2026-03-03T01:06:01+00:00"
+    },
+    {
+      "titolo": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
+      "descrizione": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts.",
+      "link": "https://www.zdnet.com/article/mwc-03-02-26-live-blog/",
+      "fonte": "Latest news",
+      "data": "2026-03-02T21:22:00+00:00"
+    },
+    {
+      "titolo": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
+      "descrizione": "How Kalshi decided to settle a market tied to Iran’s supreme leader prompted anger among traders who felt the rules weren’t clear.",
+      "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
+      "fonte": "WIRED",
+      "data": "2026-03-02T20:08:38+00:00"
+    },
+    {
+      "titolo": "Ditching ChatGPT for Claude? How to easily transfer your memories and preferences",
+      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it.",
+      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+      "fonte": "Latest news",
+      "data": "2026-03-02T19:59:00+00:00"
+    },
     {
       "titolo": "Nvidia’s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam’s number one GPU — but there are questions about why",
       "descrizione": "The latest Steam Hardware & Software Survey for February 2026 has shown that the GeForce RTX 5070 has become the platform's most popular gaming graphics card, but there are some doubts about the survey methodology.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-02T19:05:33+00:00"
+    },
+    {
+      "titolo": "Apple annuncia il nuovo iPhone 17e con chip A19 e supporto MagSafe | Prezzi",
+      "descrizione": "Una proposta più accessibile, senza rinunciare a dotazioni tecniche di livello elevato",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650178/apple-annuncia-il-nuovo-iphone-17e/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T18:32:00+00:00"
+    },
+    {
+      "titolo": "iPad Air con M4 ufficiale: il nuovo tablet Apple è più potente che mai | PREZZI",
+      "descrizione": "Caratteristiche e dettagli.",
+      "link": "https://www.hdblog.it/tablet/articoli/n650177/apple-ipad-air-m4-11-13-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T18:31:00+00:00"
+    },
+    {
+      "titolo": "Vienna, famiglia italiana lasciata in strada: Booking.com condannata a pagare",
+      "descrizione": "La piattaforma è stata considerata inadempiente per non aver fornito supporto.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n650189/booking-com-hotel-risarcimento-famiglia-italiana/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-02T18:30:00+00:00"
     },
     {
       "titolo": "Nvidia releases new GeForce 595.71 driver to fix serious fan control bug — new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working",
@@ -35,13 +84,6 @@
       "link": "https://www.hdblog.it/amazon/articoli/n650229/amazon-aws-investimenti-spagna-mwc-barcellona/",
       "fonte": "HDblog.it",
       "data": "2026-03-02T17:35:00+00:00"
-    },
-    {
-      "titolo": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
-      "descrizione": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts.",
-      "link": "https://www.zdnet.com/article/mwc-03-02-26-live-blog/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T17:34:43+00:00"
     },
     {
       "titolo": "Alla fiera della tecnologia si parla (anche) di come usarne meno",
@@ -126,48 +168,6 @@
       "link": "https://www.hdblog.it/microsoft/articoli/n650197/windows-11-aggiornamento-criteri-gruppo/",
       "fonte": "HDblog.it",
       "data": "2026-03-02T16:05:00+00:00"
-    },
-    {
-      "titolo": "ISSCC 2026: Rebellions details industry's first quad-chiplet AI solution with UCIe interconnects — claims Rebel100 AI accelerator equals the power of Nvidia H200 with lower power envelope",
-      "descrizione": "Rebellions details how it developed one of the world's first quad-chiplet AI accelerator with UCIe interconnects and how it did not use all of the technologies that the UCIe 1.0 specifications includes.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/isscc-2026-rebellions-ucie-rebel-100",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T16:03:23+00:00"
-    },
-    {
-      "titolo": "AMD annuncia nuovi processori Ryzen AI 400 per PC",
-      "descrizione": "AMD ha annunciato nuovi processori Ryzen AI 400 per PC desktop (eredi della serie 8000G) che possono essere installati su schede madri con socket AM5. The post AMD annuncia nuovi processori Ryzen AI 400 per PC appeared f",
-      "link": "https://www.punto-informatico.it/amd-annuncia-nuovi-processori-ryzen-ai-400-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T16:01:05+00:00"
-    },
-    {
-      "titolo": "Airalo: la eSIM smart per viaggiare connessi senza spendere una fortuna",
-      "descrizione": "Grazie ad Airalo puoi connetterti ovunque all'estero con una eSIM digitale, decisamente meno costa del roaming e più comoda di quelle fisiche. The post Airalo: la eSIM smart per viaggiare connessi senza spendere una fort",
-      "link": "https://www.punto-informatico.it/airalo-la-esim-smart-per-viaggiare-connessi-senza-spendere-una-fortuna/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T15:53:09+00:00"
-    },
-    {
-      "titolo": "Missili e attacchi informatici: fuoco incrociato sull’Iran",
-      "descrizione": "Nelle stesse ore degli attacchi aerei, un'azione informatica ha sabotato un'applicazione utilizzata dai fedeli iraniani per la preghiera. The post Missili e attacchi informatici: fuoco incrociato sull’Iran appeared first",
-      "link": "https://www.punto-informatico.it/missili-attacchi-informatici-fuoco-incrociato-iran/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T15:41:53+00:00"
-    },
-    {
-      "titolo": "Carlo Verdone torna alla regia con Scuola di seduzione",
-      "descrizione": "Il nuovo film di Carlo Verdone arriva il 1° aprile su Paramount+.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n650176/carlo-verdone-scuola-di-seduzione-paramount-plus/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T15:40:00+00:00"
-    },
-    {
-      "titolo": "Land Rover Defender, nel 2027 in arrivo una versione più compatta",
-      "descrizione": "Piattaforma EMA, powertrain elettrico e nome ancora da definire per piccola Defender che, secondo le indiscrezioni, arriverà l'anno prossimo.",
-      "link": "https://www.hdmotori.it/land-rover-defender-compatto-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T15:30:53+00:00"
     }
   ]
 }

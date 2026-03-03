@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-02T19:07:30.210891+00:00",
+  "last_updated": "2026-03-03T03:14:56.471031+00:00",
   "items": [
     {
-      "titolo": "I chatbot AI peggiorano le malattie mentali, l’ennesima conferma",
-      "descrizione": "I chatbot come ChatGPT rafforzano i deliri e aggravano depressione, autolesionismo e disturbi alimentari nei pazienti vulnerabili. The post I chatbot AI peggiorano le malattie mentali, l’ennesima conferma appeared first",
-      "link": "https://www.punto-informatico.it/chatbot-ai-peggiorano-malattie-mentali-ennesima-conferma/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T16:48:45+00:00",
+      "titolo": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+      "descrizione": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+      "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+      "fonte": "WIRED",
+      "data": "2026-03-03T01:06:01+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "This high-severity Chrome Gemini vulnerability lets malicious extensions spy on your PC",
-      "descrizione": "A bug in Google Chrome's Gemini AI feature could expose your data or allow attackers to monitor you. Here's how to stay protected.",
-      "link": "https://www.zdnet.com/article/gemini-live-chrome-bug-hijacks-ai/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T14:53:13+00:00",
+      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
+      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T18:27:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude down il 2 marzo: tutti gli aggiornamenti",
-      "descrizione": "Problemi in corso per Claude, il servizio AI è down: Anthropic è al lavoro per risolvere il disguido, per ora il chatbot è inaccessibile. The post Claude down il 2 marzo: tutti gli aggiornamenti appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/claude-down-02032026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-02T13:25:33+00:00",
+      "titolo": "Ditching ChatGPT for Claude? How to easily transfer your memories and preferences",
+      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it.",
+      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+      "fonte": "Latest news",
+      "data": "2026-03-02T19:59:00+00:00",
       "modello": "claude"
     }
   ]
