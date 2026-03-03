@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T03:14:56.471031+00:00",
+  "last_updated": "2026-03-03T07:11:19.919838+00:00",
   "items": [
     {
       "titolo": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Ditching ChatGPT for Claude? How to easily transfer your memories and preferences",
-      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it.",
-      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T19:59:00+00:00",
+      "titolo": "Claude lancia strumento per importare i dati da altri chatbot AI",
+      "descrizione": "Anthropic amplia la memoria di Claude e introduce uno strumento per importare i dati da altre AI per rendere il passaggio più semplice. The post Claude lancia strumento per importare i dati da altri chatbot AI appeared f",
+      "link": "https://www.punto-informatico.it/claude-strumento-importare-dati-da-altri-chatbot-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T06:10:05+00:00",
       "modello": "claude"
     }
   ]

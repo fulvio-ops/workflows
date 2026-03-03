@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-03-03T03:14:52.618372+00:00",
+  "last_updated": "2026-03-03T07:11:16.014316+00:00",
   "items": [
+    {
+      "titolo": "App IO, ci sono novità: informativa privacy e servizi preferiti",
+      "descrizione": "Aggiornamento per l'informativa privacy e introduzione di un elenco dedicato ai servizi preferiti: cosa cambia per gli utenti dell'app IO. The post App IO, ci sono novità: informativa privacy e servizi preferiti appeared",
+      "link": "https://www.punto-informatico.it/app-io-novita-informativa-privacy-servizi-preferiti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T07:08:34+00:00"
+    },
+    {
+      "titolo": "Claude lancia strumento per importare i dati da altri chatbot AI",
+      "descrizione": "Anthropic amplia la memoria di Claude e introduce uno strumento per importare i dati da altre AI per rendere il passaggio più semplice. The post Claude lancia strumento per importare i dati da altri chatbot AI appeared f",
+      "link": "https://www.punto-informatico.it/claude-strumento-importare-dati-da-altri-chatbot-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T06:10:05+00:00"
+    },
+    {
+      "titolo": "Apple rilascia le terze beta di iOS 26.4, iPadOS 26.4 e watchOS 26.4: le novità",
+      "descrizione": "La beta 3 di macOS 26.4 manca ancora all'appello",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650240/apple-rilascia-terze-beta-ios-ipados/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T06:10:00+00:00"
+    },
+    {
+      "titolo": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "descrizione": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-03-03T06:00:00+00:00"
+    },
     {
       "titolo": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
       "descrizione": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/luce-e-gas-in-aumento-questa-e-la-soluzione-per-bloccare-il-prezzo-e-risparmiare/",
       "fonte": "Punto Informatico",
       "data": "2026-03-02T16:54:02+00:00"
-    },
-    {
-      "titolo": "Exploring the future of Artificial Intelligence — today's models, tomorrow's agents, and the big privacy problem",
-      "descrizione": "The world of AI is getting more complex, and we assess the current state of LLMs, what makes them tick, and explore the risks and features that companies are looking to integrate in the future.",
-      "link": "https://www.tomshardware.com/future-of-ai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T16:51:26+00:00"
-    },
-    {
-      "titolo": "Nissan sarà venduta? Il CEO Ivan Espinosa non esclude del tutto la possibilità",
-      "descrizione": "Un'eventualità ancora lontana, ma considerando la crisi interna al marchio giapponese non è da escludere del tutto.",
-      "link": "https://www.hdmotori.it/nissan-venduta-ceo-espinosa/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T16:30:40+00:00"
-    },
-    {
-      "titolo": "Motorola scende in campo con FIFA Heroes",
-      "descrizione": "Una delle iniziative del brand legate ai prossimo mondiali di cui sarà Official Smartphone Partner.",
-      "link": "https://www.hdblog.it/motorola/articoli/n650214/motorola-fifa-heroes-partnership-gioco-mobile-razr/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T16:25:00+00:00"
-    },
-    {
-      "titolo": "Windows 11: Microsoft aggiorna Registry.pol e potenzia i Criteri di Gruppo",
-      "descrizione": "Novità per gli amministratori di sistema: il debug GPP sbarca sulle policy locali di Windows",
-      "link": "https://www.hdblog.it/microsoft/articoli/n650197/windows-11-aggiornamento-criteri-gruppo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T16:05:00+00:00"
     }
   ]
 }
