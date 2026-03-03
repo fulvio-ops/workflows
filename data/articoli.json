@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-03T07:11:16.014316+00:00",
+  "last_updated": "2026-03-03T13:33:43.712241+00:00",
   "items": [
     {
-      "titolo": "App IO, ci sono novità: informativa privacy e servizi preferiti",
-      "descrizione": "Aggiornamento per l'informativa privacy e introduzione di un elenco dedicato ai servizi preferiti: cosa cambia per gli utenti dell'app IO. The post App IO, ci sono novità: informativa privacy e servizi preferiti appeared",
-      "link": "https://www.punto-informatico.it/app-io-novita-informativa-privacy-servizi-preferiti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-03T07:08:34+00:00"
-    },
-    {
-      "titolo": "Claude lancia strumento per importare i dati da altri chatbot AI",
-      "descrizione": "Anthropic amplia la memoria di Claude e introduce uno strumento per importare i dati da altre AI per rendere il passaggio più semplice. The post Claude lancia strumento per importare i dati da altri chatbot AI appeared f",
-      "link": "https://www.punto-informatico.it/claude-strumento-importare-dati-da-altri-chatbot-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-03T06:10:05+00:00"
-    },
-    {
-      "titolo": "Apple rilascia le terze beta di iOS 26.4, iPadOS 26.4 e watchOS 26.4: le novità",
-      "descrizione": "La beta 3 di macOS 26.4 manca ancora all'appello",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650240/apple-rilascia-terze-beta-ios-ipados/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-03T06:10:00+00:00"
-    },
-    {
-      "titolo": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "descrizione": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-03-03T06:00:00+00:00"
-    },
-    {
-      "titolo": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
-      "descrizione": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
-      "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
-      "fonte": "WIRED",
-      "data": "2026-03-03T01:06:01+00:00"
-    },
-    {
-      "titolo": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
-      "descrizione": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts.",
-      "link": "https://www.zdnet.com/article/mwc-03-02-26-live-blog/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T21:22:00+00:00"
-    },
-    {
-      "titolo": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
-      "descrizione": "How Kalshi decided to settle a market tied to Iran’s supreme leader prompted anger among traders who felt the rules weren’t clear.",
-      "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
-      "fonte": "WIRED",
-      "data": "2026-03-02T20:08:38+00:00"
-    },
-    {
-      "titolo": "Ditching ChatGPT for Claude? How to easily transfer your memories and preferences",
-      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it.",
-      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T19:59:00+00:00"
-    },
-    {
-      "titolo": "Nvidia’s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam’s number one GPU — but there are questions about why",
-      "descrizione": "The latest Steam Hardware & Software Survey for February 2026 has shown that the GeForce RTX 5070 has become the platform's most popular gaming graphics card, but there are some doubts about the survey methodology.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T19:05:33+00:00"
-    },
-    {
-      "titolo": "Apple annuncia il nuovo iPhone 17e con chip A19 e supporto MagSafe | Prezzi",
-      "descrizione": "Una proposta più accessibile, senza rinunciare a dotazioni tecniche di livello elevato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650178/apple-annuncia-il-nuovo-iphone-17e/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T18:32:00+00:00"
-    },
-    {
-      "titolo": "iPad Air con M4 ufficiale: il nuovo tablet Apple è più potente che mai | PREZZI",
-      "descrizione": "Caratteristiche e dettagli.",
-      "link": "https://www.hdblog.it/tablet/articoli/n650177/apple-ipad-air-m4-11-13-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T18:31:00+00:00"
-    },
-    {
-      "titolo": "Vienna, famiglia italiana lasciata in strada: Booking.com condannata a pagare",
-      "descrizione": "La piattaforma è stata considerata inadempiente per non aver fornito supporto.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n650189/booking-com-hotel-risarcimento-famiglia-italiana/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T18:30:00+00:00"
-    },
-    {
-      "titolo": "Nvidia releases new GeForce 595.71 driver to fix serious fan control bug — new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working",
-      "descrizione": "A new Nvidia GPU driver, 595.71, has been released which resolves issues in its since-recalled 595.59 driver which reportedly caused some graphics card fans to stop working.",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-releases-new-geforce-595-71-driver-to-fix-serious-fan-control-bug-new-update-resolves-issues-for-rtx-30-40-and-50-series-gpus-that-reportedly-stopped-some-fans-from-working",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T17:56:21+00:00"
-    },
-    {
-      "titolo": "Anche l'Europa spinge sul 6G: al MWC annunciati nuovi investimenti",
-      "descrizione": "116 milioni di euro spalmati su una ventina di progetti.",
-      "link": "https://www.hdblog.it/business/articoli/n650231/unione-europea-investimenti-6g-mwc/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:55:00+00:00"
-    },
-    {
-      "titolo": "NebiOS turns your Linux desktop into a Google Workspace alternative - with one caveat",
-      "descrizione": "If the developers stick with it, NebiOS has the potential to become something truly special.",
-      "link": "https://www.zdnet.com/article/nebios-linux-distro-google-workspace-alternative-cloud-caveat/",
-      "fonte": "Latest news",
-      "data": "2026-03-02T17:47:00+00:00"
-    },
-    {
-      "titolo": "Amazon aumenta notevolmente gli investimenti in Spagna per cloud e AI",
-      "descrizione": "Praticamente si raddoppia il piano originale, passando a più di 33 miliardi di dollari.",
-      "link": "https://www.hdblog.it/amazon/articoli/n650229/amazon-aws-investimenti-spagna-mwc-barcellona/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:35:00+00:00"
-    },
-    {
-      "titolo": "Alla fiera della tecnologia si parla (anche) di come usarne meno",
-      "descrizione": "BARCELLONA_ A pochi metri dallo stand dove due robot stanno cucinando per mostrare al pubblico le capacità degli automi, la star di Breaking Bad Aaron Paul, insieme a Kaiwen Tang,...",
-      "link": "https://www.ilsole24ore.com/art/alla-fiera-tecnologia-si-parla-anche-come-usarne-meno-AI8Yb6iB",
+      "titolo": "Scrubs, Daredevil, One Peace e altri due serie tv da non perdere a marzo",
+      "descrizione": "Sfogliando nell’offerta globale di streaming, satellite e digitale terrestre, ecco una selezione dei titoli da non farsi scappare",
+      "link": "https://www.ilsole24ore.com/art/scrubs-daredevil-one-peace-e-altri-due-serie-tv-non-perdere-marzo-AITU0ahB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-02T17:33:00+00:00"
+      "data": "2026-03-03T13:30:00+00:00"
     },
     {
-      "titolo": "Dacia Evader: arriva nel 2026 il piccolo crossover elettrico da 18.000 euro",
-      "descrizione": "Il nuovo modello urbano 100% elettrico sarà derivato dalla Renault Twigo, ma si distinguerà per lo stile da crossover. Autonomia di circa 250 chilometri.",
-      "link": "https://www.hdmotori.it/dacia-evader-arriva-nel-2026-il-piccolo-crossover-elettrico-da-18-000-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:30:21+00:00"
-    },
-    {
-      "titolo": "Motorola, partnership con GrapheneOS ufficiale al MWC 2026",
-      "descrizione": "Arriverà addirittura uno smartphone \"nativo GrapheneOS\", e alcune feature avanzate potrebbero essere rese disponibili anche sui modelli regolari.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650227/motorola-partnership-grapheneos-mwc/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:25:00+00:00"
-    },
-    {
-      "titolo": "Qualcomm annuncia i primi prodotti Wi-Fi 8 per l’era AI",
-      "descrizione": "Qualcomm ha svelato i primi prodotti Wi-Fi 8, tra cui FastConnect 8800 Mobile che supporta anche Bluetooth 7.0, Ultra Wideband 802.15.4ab e Thread 1.5. The post Qualcomm annuncia i primi prodotti Wi-Fi 8 per l’era AI app",
-      "link": "https://www.punto-informatico.it/qualcomm-annuncia-primi-prodotti-wi-fi-8-era-ai/",
+      "titolo": "Bot e bagarini stanno prosciugando il mercato della RAM",
+      "descrizione": "Automatismi si fingono utenti e inviano migliaia di richieste per comprare moduli RAM appena disponibili: siamo arrivati a questo punto. The post Bot e bagarini stanno prosciugando il mercato della RAM appeared first on",
+      "link": "https://www.punto-informatico.it/bot-bagarini-mercato-ram/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T17:22:14+00:00"
+      "data": "2026-03-03T13:08:57+00:00"
     },
     {
-      "titolo": "Transcend 260S 2TB SSD Review: A Dependable Alternative PCIe 5.0 Contender",
-      "descrizione": "The Transcend 260S is not a record-setter but it does deliver consistent performance in what should be a reliable package.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/transcend-260s-2tb-ssd-review",
+      "titolo": "Google Traduttore, nuova interfaccia per la traduzione dal vivo",
+      "descrizione": "Google Traduttore lancia una nuova interfaccia per la traduzione dal vivo su Android, toni audio personalizzabili e widget 3x2. The post Google Traduttore, nuova interfaccia per la traduzione dal vivo appeared first on P",
+      "link": "https://www.punto-informatico.it/google-traduttore-nuova-interfaccia-traduzione-dal-vivo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T12:45:55+00:00"
+    },
+    {
+      "titolo": "Citroen C5 Aircross, da 195 CV a 225 CV senza nessuna modifica meccanica",
+      "descrizione": "La potenza dichiarata della Citroen C5 Aircross sale di 30 CV: colpa dell'aggiornamento dei metodi di misurazione",
+      "link": "https://www.hdmotori.it/citroen-c5-aircross-potenza-maggiore/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T12:30:36+00:00"
+    },
+    {
+      "titolo": "Google, ecco le novità di marzo 2026 per i servizi di sistema",
+      "descrizione": "Google rilascia l’aggiornamento dei servizi di sistema di marzo 2026 con Play Services 26.08 e Play Store 50.4. Poche novità rispetto ai mesi precedenti, ma focus su privacy e stabilità",
+      "link": "https://www.hdblog.it/google/articoli/n650311/google-aggiornamenti-sistema-marzo-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T12:15:00+00:00"
+    },
+    {
+      "titolo": "Anna's Archive, continua il rapido avvicendarsi di domini",
+      "descrizione": "La piattaforma dice addio al Lichtenstein, ma arrivano Pakistan, Isole Vergini e Grenada.",
+      "link": "https://www.hdblog.it/internet/articoli/n650315/annas-archive-domini-chiuso-li-nuovi-vg-pk/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T12:05:00+00:00"
+    },
+    {
+      "titolo": "Auto elettriche in Italia: meno di nicchia di quanto si pensi",
+      "descrizione": "Con un parco circolante di oltre 373 mila unità, l'elettrico conquista anche l'usato: nel 2025 i report sulla storia dei veicoli sono aumentati dell'83%",
+      "link": "https://www.hdmotori.it/auto-elettriche-mercato-italia-febbraio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T12:00:00+00:00"
+    },
+    {
+      "titolo": "X (Twitter) lancia l'etichetta per i contenuti a pagamento",
+      "descrizione": "Con la nuova etichetta, X punta a rafforzare la fiducia degli utenti e a garantire maggiore chiarezza tra contenuti organici e promozionali",
+      "link": "https://www.hdblog.it/mercato/articoli/n650313/x-twitter-etichetta-sponsor-ad/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:55:00+00:00"
+    },
+    {
+      "titolo": "DirectX, Microsoft ha la chiave per il balzo prestazionale del ray tracing?",
+      "descrizione": "Grazie alla tecnologia SER (Shader Execution Reordering) si può arrivare quasi a raddoppiare il framerate... Ma nelle tech demo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n650309/microsoft-directx-prestazioni-ray-tracing/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:45:00+00:00"
+    },
+    {
+      "titolo": "L'Australia vuole la verifica dell'età per poter scaricare app AI dai vari store",
+      "descrizione": "La mossa segue il ban dei social per i minori di 16 anni",
+      "link": "https://www.hdblog.it/android/articoli/n650303/australia-verifica-eta-store-digitali-app-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:35:00+00:00"
+    },
+    {
+      "titolo": "Pochi sanno che la Bugatti Veyron è nata da una Lamborghini Diablo",
+      "descrizione": "Il W16 che ha definito la Bugatti Veyron nacque come prototipo su una Diablo SV, ma prima è transitato su una Passat",
+      "link": "https://www.hdmotori.it/bugatti-veyron-w16-lamborghini-diablo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:30:28+00:00"
+    },
+    {
+      "titolo": "Dreame Sconti di Primavera: robot, lavapavimenti e cordless in super OFFERTA",
+      "descrizione": "Con l’arrivo della bella stagione, Dreame lancia una nuova campagna promozionale pensata per rinnovare la pulizia domestica con soluzioni tecnologiche avanzate e prezzi più accessibili....",
+      "link": "https://www.hdblog.it/home/offerte/n650153/dreame-sconti-di-primavera-robot-lavapavimenti-e-cordless-in-offerta-fino-al-33/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:30:00+00:00"
+    },
+    {
+      "titolo": "OpenAI - Dipartimento della Guerra: veto su uso dell'AI per la sorveglianza di massa",
+      "descrizione": "Il contratto con il Pentagono viene modificato con l'aggiunta di una clausola.",
+      "link": "https://www.hdblog.it/mercato/articoli/n650295/openai-pentagono-usa-divieto-sorveglianza/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:25:00+00:00"
+    },
+    {
+      "titolo": "La funzione Now Playing dei Pixel diventa un’app: è arrivata sul Play Store",
+      "descrizione": "La decisione era nell'aria, adesso è ufficiale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650308/now-playing-pixel-app-per-tutti-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:20:00+00:00"
+    },
+    {
+      "titolo": "Motorola Edge 60 Pro è un medio gamma spettacolare e ora costa poco",
+      "descrizione": "Il Motorola Edge 60 Pro, nella versione da 12 GB di RAM e 512 GB di memoria interna, è in sconto su eBay di oltre 277€ ed è un ottimo affare. The post Motorola Edge 60 Pro è un medio gamma spettacolare e ora costa poco a",
+      "link": "https://www.punto-informatico.it/motorola-edge-60-pro-medio-gamma-spettacolare-ora-costa-poco/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T11:19:14+00:00"
+    },
+    {
+      "titolo": "Samsung modifica il consenso delle TV in Texas dopo le accuse di \"spiare\" gli utenti",
+      "descrizione": "Samsung ha precisato che la società non riconosce di aver violato alcuna legge",
+      "link": "https://www.hdblog.it/tv/articoli/n650305/samsung-aggiorna-consenso-privacy-smart-tv/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:15:00+00:00"
+    },
+    {
+      "titolo": "Come vedere Mare Fuori dall’estero (in italiano)",
+      "descrizione": "Mare Fuori è una delle serie TV italiane più seguite degli ultimi anni, con milioni di fan in Italia e all’estero. La storia ambientata nell’IPM di Napoli ha conquistato il pubblico grazie a personaggi unici e temi forti",
+      "link": "https://www.punto-informatico.it/mare-fuori-streaming-estero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T11:12:30+00:00"
+    },
+    {
+      "titolo": "Apple Studio Display 2, compaiono nuovi riferimenti: due varianti in arrivo?",
+      "descrizione": "Due codici avvistati, due diagonali e differenze di specifiche tecniche?",
+      "link": "https://www.hdblog.it/hardware/articoli/n650306/apple-studio--display-nuova-generazione-indizi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:05:00+00:00"
+    },
+    {
+      "titolo": "Lucid, svolta \"mainstream\": la sfida con un nuovo SUV economico",
+      "descrizione": "Lucid accelera verso il mercato di massa: nel 2026 arriva il SEV elettrico da 50 mila dollari, prodotto in Arabia Saudita",
+      "link": "https://www.hdmotori.it/lucid-suv-elettrico-mainstream/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T11:00:52+00:00"
+    },
+    {
+      "titolo": "Microsoft adds Shader Execution Reordering (SER) in latest DirectX SDK for more efficient ray tracing — Intel Arc B-series GPUs show 90% performance uplift",
+      "descrizione": "Microsoft has officially brought Shader Execution Reordering (SER) and Opacity Micromaps (OMMs) out of preview with the latest DXR 1.2 update, as part of DirectX Agility SDK 1.619. With SER and OMM now standardized, more",
+      "link": "https://www.tomshardware.com/pc-components/gpus/microsoft-adds-shader-execution-reordering-ser-in-latest-directx-sdk-for-more-efficient-ray-tracing-intel-arc-b-series-gpus-show-90-percent-performance-uplift",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-02T17:16:23+00:00"
+      "data": "2026-03-03T11:00:00+00:00"
     },
     {
-      "titolo": "Energia nucleare sulla Luna: il piano USA prende forma",
-      "descrizione": "Lockheed Martin sviluppa reattori nucleari da 5-10 kW per la futura base lunare.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650113/lockheed-martin-reattore-nucleare-luna/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:15:00+00:00"
-    },
-    {
-      "titolo": "Paramount+ e HBO Max diventeranno un'unica piattaforma di streaming",
-      "descrizione": "HBO manterrà la propria identità e direzione editoriale, comunque.",
-      "link": "https://www.hdblog.it/mercato/articoli/n650221/hbo-paramount-plus-piattaforma-streaming-unica/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-02T17:05:00+00:00"
-    },
-    {
-      "titolo": "Luce e gas in aumento? Questa è la soluzione per bloccare il prezzo e risparmiare",
-      "descrizione": "Con la nuova offerta luce e gas di Engie è possiible bloccare il prezzo fino a 24 mesi e proteggersi dai rincari del mercato energetico. The post Luce e gas in aumento? Questa è la soluzione per bloccare il prezzo e risp",
-      "link": "https://www.punto-informatico.it/luce-e-gas-in-aumento-questa-e-la-soluzione-per-bloccare-il-prezzo-e-risparmiare/",
+      "titolo": "Stop ai servizi AI che non verificano l’età in Australia",
+      "descrizione": "Dal 9 marzo sarà obbligatoria la verifica dell'età per impedire l'accesso dei minorenni australiani a determinati contenuti offerti dai servizi AI. The post Stop ai servizi AI che non verificano l’età in Australia appear",
+      "link": "https://www.punto-informatico.it/stop-servizi-ai-verifica-eta-australia/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-02T16:54:02+00:00"
+      "data": "2026-03-03T10:54:54+00:00"
+    },
+    {
+      "titolo": "Nuovi raggi X militari: potranno vedere tutto fino a 1 km",
+      "descrizione": "La DARPA finanzia XENA per vedere dentro veicoli a 1 km.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650198/us-raggi-x-1-km-xena/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T10:45:00+00:00"
+    },
+    {
+      "titolo": "Instagram monitorava il tempo dei minori sulla piattaforma",
+      "descrizione": "Al processo di Los Angeles, è emerso che Meta monitorava il tempo degli adolescenti su Instagram e ne faceva un obiettivo aziendale. The post Instagram monitorava il tempo dei minori sulla piattaforma appeared first on P",
+      "link": "https://www.punto-informatico.it/instagram-monitorava-tempo-minori-piattaforma-processo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T10:40:51+00:00"
+    },
+    {
+      "titolo": "Peugeot 208, niente più cinghia a bagno d'olio nella 100 CV",
+      "descrizione": "Con l'ultimo aggiornamento, la Peugeot 208 introduce la catena di distribuzione anche nell'unità 1.2 turbo benzina da 100 CV",
+      "link": "https://www.hdmotori.it/peugeot-208-100-cv-catena-distribuzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T10:30:10+00:00"
     }
   ]
 }
