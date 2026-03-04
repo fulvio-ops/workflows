@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-03T13:33:47.329812+00:00",
+  "last_updated": "2026-03-04T03:06:48.780595+00:00",
   "items": [
     {
-      "titolo": "DRAM bots reportedly being deployed to hoover up memory chips and components — one operation ran 10 million web scraping requests, hitting DDR5 RAM product pages every 6.5 seconds",
-      "descrizione": "Online security firm DataDome just reported that it has stopped a massive scalping effort to buy memory modules and resell them at inflated prices, turning the memory situation from bad to worse.",
-      "link": "https://www.tomshardware.com/pc-components/dram/dram-bots-reportedly-being-deployed-to-hoover-up-memory-chips-and-components-one-operation-ran-10-million-web-scraping-requests-hitting-ddr5-ram-product-pages-every-6-5-seconds",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-03T12:15:03+00:00",
+      "titolo": "ChatGPT, boom di disinstallazioni: tutti passano a Claude",
+      "descrizione": "Impennata di disinstallazioni per ChatGPT dopo l’accordo con il DoD.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650241/chatgpt-disinstallazioni-dod/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T18:49:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini for Home, ora più preciso e meno invasivo: lunghissimo elenco di fix",
-      "descrizione": "L’update introduce maggiore affidabilità per automazioni vocali, riproduzione musicale e comandi su luci e stanze, oltre a una migliore categorizzazione dei dispositivi smart",
-      "link": "https://www.hdblog.it/google/articoli/n650301/gemini-for-home-aggiornamento-tante-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-03T10:55:00+00:00",
+      "titolo": "Google Home descrive cosa vedono le telecamere in diretta",
+      "descrizione": "Google Home si aggiorna con Live Search. Gemini ora analizza i feed delle telecamere in tempo reale e fornisce risposte su quello che succede. The post Google Home descrive cosa vedono le telecamere in diretta appeared f",
+      "link": "https://www.punto-informatico.it/google-home-cosa-vedono-telecamere-in-diretta-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-03T16:05:06+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI cambia l’accordo col Pentagono dopo il passo indietro di Anthropic",
-      "descrizione": "Tweet del ceo Sam Altman dopo che la sua azienda aveva approfittato delle tensioni tra Anthropic e il Dipartimento di Guerra Usa",
-      "link": "https://www.ilsole24ore.com/art/openai-modifiche-all-accordo-opportunistico-e-approssimativo-col-pentagono-AI5SzwjB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-03T08:07:00+00:00",
+      "titolo": "ChatGPT, boom di disinstallazioni: tutti passano a Claude",
+      "descrizione": "Impennata di disinstallazioni per ChatGPT dopo l’accordo con il DoD.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650241/chatgpt-disinstallazioni-dod/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-03T18:49:00+00:00",
       "modello": "claude"
     }
   ]
