@@ -1,29 +1,45 @@
 {
-  "last_updated": "2026-03-04T07:07:23.754805+00:00",
+  "last_updated": "2026-03-04T13:32:11.762735+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, boom di disinstallazioni: tutti passano a Claude",
-      "descrizione": "Impennata di disinstallazioni per ChatGPT dopo l’accordo con il DoD.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650241/chatgpt-disinstallazioni-dod/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-03T18:49:00+00:00",
+      "titolo": "ChatGPT avrà un contatto di fiducia per le crisi psicologiche",
+      "descrizione": "ChatGPT permetterà agli utenti di indicare una persona cara da avvisare in caso di crisi psicologica. La novità arriva dopo diverse cause legali. The post ChatGPT avrà un contatto di fiducia per le crisi psicologiche app",
+      "link": "https://www.punto-informatico.it/chatgpt-contatto-di-fiducia-crisi-psicologiche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-04T12:13:38+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google rilascia il Pixel Drop di marzo: ecco tutte le novità, anche per Pixel Watch",
-      "descrizione": "Un aggiornamento sostanzioso, che affianca nuove funzionalità basate su Gemini a interventi più concreti sull’esperienza quotidiana",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650377/pixel-drop-marzo-modalita-desktop-watch/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T05:50:00+00:00",
+      "titolo": "Il ban del termine “Microslop” su Copilot si ritorce contro Microsoft",
+      "descrizione": "Il tentativo di Microsoft di censurare il termine Microslop sul server Discord di Copilot si è trasformato in una figuraccia virale. The post Il ban del termine “Microslop” su Copilot si ritorce contro Microsoft appeared",
+      "link": "https://www.punto-informatico.it/ban-termine-microslop-copilot-si-ritorce-contro-microsoft/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-04T12:59:17+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google aggiorna i Pixel: novità per tool AI e sicurezza",
+      "descrizione": "Google ha rilasciato il Pixel Drop di marzo (parte di Android 16 QPR3) che include molte novità per Gemini, tool AI, sicurezza e personalizzazione. The post Google aggiorna i Pixel: novità per tool AI e sicurezza appeare",
+      "link": "https://www.punto-informatico.it/google-aggiorna-pixel-novita-tool-ai-sicurezza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-04T11:11:45+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code aggiunge la modalità vocale: si programma parlando",
-      "descrizione": "Claude Code si aggiorna con la modalità vocale. Basta dire il prompt e l'AI lo esegue. Anthropic rilascia la funzione gradualmente. The post Claude Code aggiunge la modalità vocale: si programma parlando appeared first o",
-      "link": "https://www.punto-informatico.it/claude-code-modalita-vocale-si-programma-parlando/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-04T05:58:11+00:00",
+      "titolo": "OpenAI cambia l’accordo col Pentagono dopo il passo indietro di Anthropic",
+      "descrizione": "Tweet del ceo Sam Altman dopo che la sua azienda aveva approfittato delle tensioni tra Anthropic e il Dipartimento di Guerra Usa",
+      "link": "https://www.ilsole24ore.com/art/openai-modifiche-all-accordo-opportunistico-e-approssimativo-col-pentagono-AI5SzwjB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-03T08:07:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "AI locale sul telefono: Qwen 3.5 funziona offline, ma ha dei limiti",
+      "descrizione": "Qwen 3.5-2B di Alibaba è un modello AI multimodale che gira su smartphone senza Internet, ma le capacità sono ancora molto limitate. The post AI locale sul telefono: Qwen 3.5 funziona offline, ma ha dei limiti appeared f",
+      "link": "https://www.punto-informatico.it/ai-locale-telefono-qwen-3-5-funziona-offline-limiti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-04T10:54:35+00:00",
+      "modello": "altri"
     }
   ]
 }
