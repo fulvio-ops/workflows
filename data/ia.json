@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-04T13:32:11.762735+00:00",
+  "last_updated": "2026-03-04T19:08:02.198653+00:00",
   "items": [
     {
-      "titolo": "ChatGPT avrà un contatto di fiducia per le crisi psicologiche",
-      "descrizione": "ChatGPT permetterà agli utenti di indicare una persona cara da avvisare in caso di crisi psicologica. La novità arriva dopo diverse cause legali. The post ChatGPT avrà un contatto di fiducia per le crisi psicologiche app",
-      "link": "https://www.punto-informatico.it/chatgpt-contatto-di-fiducia-crisi-psicologiche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-04T12:13:38+00:00",
+      "titolo": "How to switch from ChatGPT to Claude: Transferring your memories and settings is easy",
+      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. You can also find out everything the AI knows about you. Here's how.",
+      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+      "fonte": "Latest news",
+      "data": "2026-03-04T18:30:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,28 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google aggiorna i Pixel: novità per tool AI e sicurezza",
-      "descrizione": "Google ha rilasciato il Pixel Drop di marzo (parte di Android 16 QPR3) che include molte novità per Gemini, tool AI, sicurezza e personalizzazione. The post Google aggiorna i Pixel: novità per tool AI e sicurezza appeare",
-      "link": "https://www.punto-informatico.it/google-aggiorna-pixel-novita-tool-ai-sicurezza/",
+      "titolo": "Come trasferire la memoria di ChatGPT su Claude in 60 secondi",
+      "descrizione": "Claude ora permette di importare la memoria da ChatGPT, Gemini e altri chatbot in meno di un minuto. Ecco come funziona il trasferimento. The post Come trasferire la memoria di ChatGPT su Claude in 60 secondi appeared fi",
+      "link": "https://www.punto-informatico.it/come-trasferire-memoria-chatgpt-claude-60-secondi/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-04T11:11:45+00:00",
+      "data": "2026-03-04T16:30:48+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI cambia l’accordo col Pentagono dopo il passo indietro di Anthropic",
-      "descrizione": "Tweet del ceo Sam Altman dopo che la sua azienda aveva approfittato delle tensioni tra Anthropic e il Dipartimento di Guerra Usa",
-      "link": "https://www.ilsole24ore.com/art/openai-modifiche-all-accordo-opportunistico-e-approssimativo-col-pentagono-AI5SzwjB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-03T08:07:00+00:00",
+      "titolo": "How to switch from ChatGPT to Claude: Transferring your memories and settings is easy",
+      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. You can also find out everything the AI knows about you. Here's how.",
+      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+      "fonte": "Latest news",
+      "data": "2026-03-04T18:30:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "AI locale sul telefono: Qwen 3.5 funziona offline, ma ha dei limiti",
-      "descrizione": "Qwen 3.5-2B di Alibaba è un modello AI multimodale che gira su smartphone senza Internet, ma le capacità sono ancora molto limitate. The post AI locale sul telefono: Qwen 3.5 funziona offline, ma ha dei limiti appeared f",
-      "link": "https://www.punto-informatico.it/ai-locale-telefono-qwen-3-5-funziona-offline-limiti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-04T10:54:35+00:00",
-      "modello": "altri"
     }
   ]
 }
