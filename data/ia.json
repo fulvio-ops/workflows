@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-04T19:08:02.198653+00:00",
+  "last_updated": "2026-03-05T03:10:07.991318+00:00",
   "items": [
     {
-      "titolo": "How to switch from ChatGPT to Claude: Transferring your memories and settings is easy",
-      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. You can also find out everything the AI knows about you. Here's how.",
-      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+      "titolo": "iPhone 17e vs. iPhone 17: I compared the two models to decide which has the better value",
+      "descrizione": "Apple's new iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?",
+      "link": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
       "fonte": "Latest news",
-      "data": "2026-03-04T18:30:00+00:00",
+      "data": "2026-03-05T01:01:05+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "How to switch from ChatGPT to Claude: Transferring your memories and settings is easy",
-      "descrizione": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. You can also find out everything the AI knows about you. Here's how.",
-      "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
-      "fonte": "Latest news",
-      "data": "2026-03-04T18:30:00+00:00",
+      "titolo": "What AI Models for War Actually Look Like",
+      "descrizione": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+      "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+      "fonte": "WIRED",
+      "data": "2026-03-04T22:00:03+00:00",
       "modello": "claude"
     }
   ]

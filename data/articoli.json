@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-04T19:07:57.743038+00:00",
+  "last_updated": "2026-03-05T03:10:04.555966+00:00",
   "items": [
+    {
+      "titolo": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
+      "descrizione": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
+      "link": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
+      "fonte": "Latest news",
+      "data": "2026-03-05T02:00:33+00:00"
+    },
+    {
+      "titolo": "How to clean up your digital footprint - and why it matters more than you think",
+      "descrizione": "When someone Googles you, what will they find? Don't let embarrassing old social media posts define your online presence. Learn how to control the narrative.",
+      "link": "https://www.zdnet.com/article/how-to-clean-up-your-digital-footprint/",
+      "fonte": "Latest news",
+      "data": "2026-03-05T02:00:18+00:00"
+    },
+    {
+      "titolo": "Apple MacBook Neo ufficiale: il portatile da 699 euro, il primo con il chip di iPhone",
+      "descrizione": "Il nuovo MacBook Neo è alimentato dal processore A18 Pro",
+      "link": "https://www.hdblog.it/portatili/articoli/n650468/macbook-neo-ufficiale-apple/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-04T18:34:00+00:00"
+    },
     {
       "titolo": "This 5.1 Soundbar Bundle Is $100 Off",
       "descrizione": "Sony's upgraded Bravia Theater System 6 packs a complete home audio setup into a single box.",
@@ -21,6 +42,13 @@
       "link": "https://www.punto-informatico.it/phishing-attenzione-falsa-email-anbsc/",
       "fonte": "Punto Informatico",
       "data": "2026-03-04T18:16:17+00:00"
+    },
+    {
+      "titolo": "TikTok, niente cifratura end-to-end: la sicurezza conta più della privacy",
+      "descrizione": "La piattaforma cita il bisogno di proteggere i suoi utenti più giovani, che sono parecchi.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n650515/tiktok-cifratura-end-to-end-privacy-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-04T18:15:00+00:00"
     },
     {
       "titolo": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
@@ -115,7 +143,7 @@
     },
     {
       "titolo": "Apple lancia MacBook Neo da 699 euro, sfida ai pc",
-      "descrizione": "Apple lancia un nuovo attacco alla fascia media del mercato PC. Il nuovo MacBook Neo ha un prezzo di partenza da 699 euro ed entra in competizione con il mercato...",
+      "descrizione": "Apple lancia un nuovo attacco alla fascia media del mercato PC. Il nuovo MacBook Neo ha un prezzo di partenza da 699 euro ed entra in competizione con i notebook...",
       "link": "https://www.ilsole24ore.com/art/apple-lancia-macbook-air-699-euro-sfida-pc-AI5d5hlB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-03-04T16:13:00+00:00"
@@ -140,34 +168,6 @@
       "link": "https://www.hdblog.it/curiosita/articoli/n650215/copricapo-preistorico-germania-7000-anni/",
       "fonte": "HDblog.it",
       "data": "2026-03-04T15:55:00+00:00"
-    },
-    {
-      "titolo": "Voglia di MacBook Neo? Attenzione ai setup multi-monitor",
-      "descrizione": "Come nei chip M1, si può collegare solo un display esterno.",
-      "link": "https://www.hdblog.it/portatili/articoli/n650489/macbook-neo-supporto-monitor-esterni/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T15:35:00+00:00"
-    },
-    {
-      "titolo": "I Galaxy S26 hanno un'antenna extra NFC: migliora i pagamenti da smartphone",
-      "descrizione": "Un altro piccolo cambiamento per i Galaxy S26",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650484/galaxy-s26-antenna-nfc-migliore-pagamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T15:25:00+00:00"
-    },
-    {
-      "titolo": "Google lancia Gemini 3.1 Flash-Lite: AI veloce e a basso costo",
-      "descrizione": "Google presenta Gemini 3.1 Flash-Lite, modello AI rapido ed economico per API ad alto volume.",
-      "link": "https://www.hdblog.it/google/articoli/n650481/gemini-3-1-flash-lite-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T15:20:00+00:00"
-    },
-    {
-      "titolo": "vivo X300 FE ufficiale, è la versione internazionale di S50 Pro Mini",
-      "descrizione": "Con display AMOLED da 6,31\".",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650477/vivo-x300-fe-ufficiale-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T15:15:00+00:00"
     }
   ]
 }
