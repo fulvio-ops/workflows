@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-05T07:11:14.558514+00:00",
+  "last_updated": "2026-03-05T13:37:49.252383+00:00",
   "items": [
     {
-      "titolo": "iPhone 17e vs. iPhone 17: I compared the two models to decide which has the better value",
-      "descrizione": "Apple's new iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?",
-      "link": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
-      "fonte": "Latest news",
-      "data": "2026-03-05T01:01:05+00:00",
+      "titolo": "Aziende AI si impegnano a ridurre i costi energetici",
+      "descrizione": "Amazon, Google, Meta, Microsoft, OpenAI, Oracle e xAI hanno promesso di coprire i maggiori costi energetici associati alla costruzione dei data center. The post Aziende AI si impegnano a ridurre i costi energetici appear",
+      "link": "https://www.punto-informatico.it/aziende-ai-impegno-ridurre-costi-energetici/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-05T13:30:01+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Il ban del termine “Microslop” su Copilot si ritorce contro Microsoft",
-      "descrizione": "Il tentativo di Microsoft di censurare il termine Microslop sul server Discord di Copilot si è trasformato in una figuraccia virale. The post Il ban del termine “Microslop” su Copilot si ritorce contro Microsoft appeared",
-      "link": "https://www.punto-informatico.it/ban-termine-microslop-copilot-si-ritorce-contro-microsoft/",
+      "titolo": "Copilot diventa un mini browser: come cambia la ricerca web su Windows",
+      "descrizione": "Per gli iscritti al programma Windows Insider arriva la nuova funzione di Copilot che permette di navigare sul web senza uscire dalla conversazione. The post Copilot diventa un mini browser: come cambia la ricerca web su",
+      "link": "https://www.punto-informatico.it/copilot-diventa-un-mini-browser-come-cambia-la-ricerca-web-su-windows/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-04T12:59:17+00:00",
+      "data": "2026-03-05T11:45:31+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "NotebookLM trasforma gli appunti in video cinematografici con l’AI",
-      "descrizione": "NotebookLM di Google genera video animati con narrazione e stile cinematografico a partire dagli appunti degli utenti, con Gemini, Nano Banana e Veo. The post NotebookLM trasforma gli appunti in video cinematografici con",
-      "link": "https://www.punto-informatico.it/notebooklm-trasforma-appunti-video-cinematografici-ai/",
+      "titolo": "Gemini avrebbe spinto un uomo al suicidio: Google sotto accusa",
+      "descrizione": "Una nuova causa legale sostiene che il chatbot Gemini di Google ha spinto un utente al suicidio dopo conversazioni prolungate e deliranti. The post Gemini avrebbe spinto un uomo al suicidio: Google sotto accusa appeared",
+      "link": "https://www.punto-informatico.it/gemini-uomo-suicidio-google-sotto-accusa/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-05T05:56:58+00:00",
+      "data": "2026-03-05T10:42:24+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "What AI Models for War Actually Look Like",
-      "descrizione": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
-      "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
-      "fonte": "WIRED",
-      "data": "2026-03-04T22:00:03+00:00",
+      "titolo": "NVIDIA, basta con gli investimenti nelle \"Big AI\": Jensen Huang",
+      "descrizione": "Huang dice che tra poco sia OpenAI sia Anthropic si quoteranno in borsa, non ci saranno più molte opportunità di investimento privato.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n650571/nvidia-investimenti-openai-anthropic-stop/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-05T10:25:00+00:00",
       "modello": "claude"
     }
   ]
