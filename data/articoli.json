@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-05T03:10:04.555966+00:00",
+  "last_updated": "2026-03-05T07:11:11.255869+00:00",
   "items": [
+    {
+      "titolo": "NVIDIA prepara una nuova versione della GeForce RTX 5050 | Rumor",
+      "descrizione": "1 GB di RAM in più e GDDR7 invece della GDDR6.",
+      "link": "https://www.hdblog.it/hardware/articoli/n650518/nvidia-geforce-rtx-5050-gdddr7/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-05T05:35:00+00:00"
+    },
+    {
+      "titolo": "Le traduzioni AI inondano Wikipedia di informazioni false",
+      "descrizione": "Le traduzioni generate con l'AI stanno creando problemi su Wikipedia, con fonti inventate ed errori a catena. Le nuove regole degli editor. The post Le traduzioni AI inondano Wikipedia di informazioni false appeared firs",
+      "link": "https://www.punto-informatico.it/traduzioni-ai-wikipedia-informazioni-false/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-05T05:29:07+00:00"
+    },
     {
       "titolo": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
       "descrizione": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
@@ -154,20 +168,6 @@
       "link": "https://www.zdnet.com/article/nanoclaw-security-guide/",
       "fonte": "Latest news",
       "data": "2026-03-04T16:06:00+00:00"
-    },
-    {
-      "titolo": "Coruna: potente exploit kit per spiare gli iPhone",
-      "descrizione": "Gli esperti di Google hanno identificato un exploit kit (Coruna) che permette di rubare dati sensibili e criptovalute da vecchi iPhone con iOS 13-17.2.1. The post Coruna: potente exploit kit per spiare gli iPhone appeare",
-      "link": "https://www.punto-informatico.it/coruna-potente-exploit-kit-spiare-iphone/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-04T16:02:14+00:00"
-    },
-    {
-      "titolo": "Teschio e corna lavorate: il mistero riemerge dal Neolitico",
-      "descrizione": "In Germania un copricapo in corna di 7.000 anni racconta l’incontro tra agricoltori e cacciatori.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n650215/copricapo-preistorico-germania-7000-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-04T15:55:00+00:00"
     }
   ]
 }
