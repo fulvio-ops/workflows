@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-05T19:36:17.739712+00:00",
+  "last_updated": "2026-03-06T03:09:02.655715+00:00",
   "items": [
     {
-      "titolo": "OpenAI's new GPT-5.4 clobbers humans on pro-level work in tests - by 83%",
-      "descrizione": "GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.",
-      "link": "https://www.zdnet.com/article/openai-gpt-5-4/",
-      "fonte": "Latest news",
-      "data": "2026-03-05T18:00:00+00:00",
+      "titolo": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+      "descrizione": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+      "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+      "fonte": "WIRED",
+      "data": "2026-03-05T22:00:00+00:00",
       "modello": "chatgpt"
     },
     {

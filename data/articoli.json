@@ -1,12 +1,47 @@
 {
-  "last_updated": "2026-03-05T19:36:14.366973+00:00",
+  "last_updated": "2026-03-06T03:08:59.482411+00:00",
   "items": [
+    {
+      "titolo": "Wiim Sound review: This smart speaker is so close to fully replacing my Sonos",
+      "descrizione": "One of the buzzier smart speakers lately is from a brand you might be unfamiliar with.",
+      "link": "https://www.zdnet.com/article/wiim-sound-smart-speaker-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-06T01:15:50+00:00"
+    },
+    {
+      "titolo": "Own a Sony TV? Changing these 3 settings will greatly improve its picture quality",
+      "descrizione": "Sony's various Bravia TVs deliver cinema-quality picture and sound. With a few easy tweaks, you can push them even further.",
+      "link": "https://www.zdnet.com/article/best-settings-to-change-on-your-sony-bravia-tv/",
+      "fonte": "Latest news",
+      "data": "2026-03-06T00:56:27+00:00"
+    },
+    {
+      "titolo": "Beats Studio Pro headphones are over 40% off right now - and I can vouch for them",
+      "descrizione": "The latest release from Beats is the perfect middle-ground headphones for Android and Apple users - especially when they're on sale.",
+      "link": "https://www.zdnet.com/article/beats-studio-pro-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-05T22:03:43+00:00"
+    },
     {
       "titolo": "US gov't preps sweeping export controls for Nvidia, AMD AI hardware — worldwide licensing system would give Trump admin broad authority to block global sales",
       "descrizione": "The Trump administration is working on sweeping export regulations over AI hardware that will make large AI clusters a topic of intergovernmental talks.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-preps-sweeping-export-controls-for-nvidia-amd-ai-hardware-worldwide-licensing-system-would-give-trump-admin-broad-authority-to-block-global-sales",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-05T19:24:50+00:00"
+    },
+    {
+      "titolo": "Nothing Phone (4a) e Phone (4a) Pro ufficiali: trasparenti e con Glyph Bar | Video",
+      "descrizione": "Nothing ha ampliato la propria gamma smartphone con la nuova serie Phone (4a)",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650550/nothing-phone-4a-pro-ufficiali-design-trasparente/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-05T19:00:00+00:00"
+    },
+    {
+      "titolo": "MacBook Neo: il Mac più economico di sempre cambia la strategia di Apple",
+      "descrizione": "La strategia di Apple verso un'unificazione dell'ecosistema",
+      "link": "https://www.hdblog.it/portatili/articoli/n650584/macbook-neo-il-mac-piu-economico/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-05T18:58:00+00:00"
     },
     {
       "titolo": "Rincari su luce e gas in arrivo? Fino a 10 anni a prezzo bloccato scegliendo NeN",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/avast-in-promozione-fino-al-60-di-sconto-sui-pacchetti-antivirus/",
       "fonte": "Punto Informatico",
       "data": "2026-03-05T16:15:29+00:00"
-    },
-    {
-      "titolo": "Go beyond the review with Bench, the deepest consumer hardware benchmarking database on the internet — compare hundreds of products across a range of categories",
-      "descrizione": "Take advantage of Bench, the ultimate resource for PC hardware enthusiasts, offering a large database of benchmarks for you to browse through. We detail how the tool works, and what we're doing to keep results up-to-date",
-      "link": "https://www.tomshardware.com/desktops/pc-building/go-beyond-the-review-with-bench-the-deepest-consumer-hardware-benchmarking-database-on-the-internet-compare-hundreds-of-products-across-a-range-of-categories",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-05T16:13:06+00:00"
-    },
-    {
-      "titolo": "Robot umanoide scrive la storia camminando al freddo per ore | VIDEO",
-      "descrizione": "Con indosso solo una giacca. E ha scritto realmente qualcosa (sulla neve)",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650592/robot-umanoide-scrive-storia-camminando-neve/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-05T15:45:00+00:00"
-    },
-    {
-      "titolo": "Quanta RAM ha iPhone 17e? Apple non lo ha dichiarato, ma ora abbiamo la conferma",
-      "descrizione": "No, nessuna sorpresa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650612/iphone-17e-17-ram-chip-differenze-specifiche-apple/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-05T15:35:00+00:00"
-    },
-    {
-      "titolo": "Dacia Striker, teaser dell’auto da famiglia che tutti aspettano",
-      "descrizione": "Conto alla rovescia per la Dacia Striker, l'attesa vettura di segmento C che debutterà ufficialmente il 10 marzo",
-      "link": "https://www.hdmotori.it/dacia-striker-teaser/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-05T15:30:19+00:00"
-    },
-    {
-      "titolo": "OneDrive, Teams e Word: le novità in arrivo su Microsoft 365",
-      "descrizione": "OneDrive mostra errori comprensibili, Copilot edita direttamente in Word e Teams permette di eliminare trascrizioni e riassunti generati dall'AI. The post OneDrive, Teams e Word: le novità in arrivo su Microsoft 365 appe",
-      "link": "https://www.punto-informatico.it/onedrive-teams-word-novita-microsoft-365/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-05T15:29:05+00:00"
     }
   ]
 }
