@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-03-06T07:08:50.816311+00:00",
+  "last_updated": "2026-03-06T13:29:58.115730+00:00",
   "items": [
     {
-      "titolo": "Sora 2 arriva su Bing Video Creator: video AI gratis per tutti",
-      "descrizione": "Su Bing Video Creator arriva Sora 2 di OpenAI. Genera video AI con movimenti più dinamici, qualità fotorealistica e audio integrato. Gratis per tutti. The post Sora 2 arriva su Bing Video Creator: video AI gratis per tut",
-      "link": "https://www.punto-informatico.it/sora-2-arriva-bing-video-creator-video-ai-gratis-tutti/",
+      "titolo": "OpenAI GPT-5.4 specializzato in compiti professionali",
+      "descrizione": "Il nuovo modello GPT-5.4 di OpenAI migliora nettamente le capacità del precedente GPT-5.2 e ne aggiunge altre più avanzate per compiti professionali. The post OpenAI GPT-5.4 specializzato in compiti professionali appeare",
+      "link": "https://www.punto-informatico.it/openai-gpt-5-4-specializzato-compiti-professionali/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-06T06:04:45+00:00",
+      "data": "2026-03-06T11:33:20+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "OneDrive, Teams e Word: le novità in arrivo su Microsoft 365",
-      "descrizione": "OneDrive mostra errori comprensibili, Copilot edita direttamente in Word e Teams permette di eliminare trascrizioni e riassunti generati dall'AI. The post OneDrive, Teams e Word: le novità in arrivo su Microsoft 365 appe",
-      "link": "https://www.punto-informatico.it/onedrive-teams-word-novita-microsoft-365/",
+      "titolo": "Gemini Live su Android, interfaccia più pulita in arrivo",
+      "descrizione": "Google sta preparando un overlay più compatto per Gemini Live su Android, accorpando fotocamera e condivisione schermo in un unico pulsante. The post Gemini Live su Android, interfaccia più pulita in arrivo appeared firs",
+      "link": "https://www.punto-informatico.it/gemini-live-android-interfaccia-piu-pulita-in-arrivo/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-05T15:29:05+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini API key thief racks up $82,314 in charges in just two days, victim 'facing bankruptcy' — affected devs call for basic guardrails against 'catastrophic usage anomalies'",
-      "descrizione": "A Google Gemini user has taken to Reddit 'in a state of shock and panic' after getting an $82,314 bill.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-api-key-thief-racks-up-usd82-314-in-charges-in-just-two-days-victim-facing-bankruptcy-affected-devs-call-for-basic-guardrails-against-catastrophic-usage-anomalies",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-04T11:00:00+00:00",
+      "data": "2026-03-06T11:44:50+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "ChatGPT e Claude su WhatsApp in Europa? Sì, ma a pagamento",
-      "descrizione": "Dopo le pressioni dell'UE, Meta apre WhatsApp ai chatbot AI concorrenti in Europa con una tariffa per messaggio. The post ChatGPT e Claude su WhatsApp in Europa? Sì, ma a pagamento appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatgpt-claude-whatsapp-europa-a-pagamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-05T17:06:18+00:00",
+      "titolo": "USA, le Big AI firmano l’impegno per proteggere le reti elettriche",
+      "descrizione": "Le sette protagoniste della corsa all'AI (notare l'assenza di Anthropic...) alla Casa Bianca per firmare il documento voluto da Trump.",
+      "link": "https://www.hdblog.it/business/articoli/n650723/meta-google-openai-impegno-data-center-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-06T12:05:00+00:00",
       "modello": "claude"
     }
   ]
