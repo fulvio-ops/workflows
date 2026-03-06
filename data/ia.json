@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-03-06T13:29:58.115730+00:00",
+  "last_updated": "2026-03-06T19:04:17.194497+00:00",
   "items": [
     {
-      "titolo": "OpenAI GPT-5.4 specializzato in compiti professionali",
-      "descrizione": "Il nuovo modello GPT-5.4 di OpenAI migliora nettamente le capacità del precedente GPT-5.2 e ne aggiunge altre più avanzate per compiti professionali. The post OpenAI GPT-5.4 specializzato in compiti professionali appeare",
-      "link": "https://www.punto-informatico.it/openai-gpt-5-4-specializzato-compiti-professionali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T11:33:20+00:00",
+      "titolo": "ChatGPT, tante novità in arrivo nell'app ufficiale | APK Teardown",
+      "descrizione": "I ragazzi di Android Authority tornano alla carica con un'altra delle loro analisi approfondite.",
+      "link": "https://www.hdblog.it/android/articoli/n650760/chatgpt-app-novita-memoria-app-continuita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-06T16:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Live su Android, interfaccia più pulita in arrivo",
-      "descrizione": "Google sta preparando un overlay più compatto per Gemini Live su Android, accorpando fotocamera e condivisione schermo in un unico pulsante. The post Gemini Live su Android, interfaccia più pulita in arrivo appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-live-android-interfaccia-piu-pulita-in-arrivo/",
+      "titolo": "Gemini Live in Chrome permetteva l’accesso ai file",
+      "descrizione": "Una grave vulnerabilità presente nel pannello laterale di Gemini Live in Chrome consentiva alle estensioni di accedere a fotocamera, microfono e file. The post Gemini Live in Chrome permetteva l’accesso ai file appeared",
+      "link": "https://www.punto-informatico.it/gemini-live-chrome-permetteva-accesso-file/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-06T11:44:50+00:00",
+      "data": "2026-03-06T16:47:36+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "USA, le Big AI firmano l’impegno per proteggere le reti elettriche",
-      "descrizione": "Le sette protagoniste della corsa all'AI (notare l'assenza di Anthropic...) alla Casa Bianca per firmare il documento voluto da Trump.",
-      "link": "https://www.hdblog.it/business/articoli/n650723/meta-google-openai-impegno-data-center-energia/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T12:05:00+00:00",
+      "titolo": "Claude Opus 4.6 trova 112 bug in Mozilla Firefox",
+      "descrizione": "Claude Opus 4.6 di Anthropic ha scoperto 112 bug in Firefox in due settimane, quindi Mozilla userà il modello durante lo sviluppo del browser. The post Claude Opus 4.6 trova 112 bug in Mozilla Firefox appeared first on P",
+      "link": "https://www.punto-informatico.it/claude-opus-4-6-trova-112-bug-mozilla-firefox/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-06T18:05:34+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Estensioni AI rubano conversazioni da ChatGPT",
+      "descrizione": "Due false estensioni che dovrebbero consentire l'accesso a ChatGPT e DeepSeek sono state usate per rubare le conversazioni con i chatbot e altri dati. The post Estensioni AI rubano conversazioni da ChatGPT appeared first",
+      "link": "https://www.punto-informatico.it/estensioni-ai-rubano-conversazioni-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-06T15:54:38+00:00",
+      "modello": "altri"
     }
   ]
 }
