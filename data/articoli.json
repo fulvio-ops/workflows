@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-03-07T06:59:19.942978+00:00",
+  "last_updated": "2026-03-07T13:08:56.112939+00:00",
   "items": [
+    {
+      "titolo": "Nvidia dominates gaming GPU market with 95 percent share as sales of AMD Radeon graphics plummet to a historical low of 5 percent",
+      "descrizione": "Nvidia strengthens its position on the market of discrete GPUs as AMD's market share continues to dive, whereas Intel fails to gain traction.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dominates-discrete-gpu-market-as-sales-of-amd-radeon-graphics-cards-hit-historical-low",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-07T12:40:00+00:00"
+    },
+    {
+      "titolo": "Sony WH-1000XM6 review: An audio heavyweight with a few caveats",
+      "descrizione": "After a three-year hiatus and considerable anticipation, Sony's newest headphones impress on nearly every front.",
+      "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-07T12:32:22+00:00"
+    },
+    {
+      "titolo": "InstallFix: variante ClickFix che sfrutta Claude Code",
+      "descrizione": "InstallFix sfrutta la popolarità di Claude Code per convincere gli utenti ad eseguire i comandi di installazione di Amatera presenti su un sito fake, The post InstallFix: variante ClickFix che sfrutta Claude Code appeare",
+      "link": "https://www.punto-informatico.it/installfix-variante-clickfix-sfrutta-claude-code/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T12:23:32+00:00"
+    },
+    {
+      "titolo": "Nvidia CEO Huang declares ‘I love constraints’ amid ongoing component shortage — claims lack of options forces AI clients to only choose the very best",
+      "descrizione": "In a scarce market, clients don't take risks and go with the biggest, most reliable option, which ultimately benefits Nvidia as it sits at the top of the AI boom. Unfortunately, these data center escapades hurt regular h",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-huang-declares-i-love-constraints-amid-ongoing-component-shortage-claims-lack-of-options-forces-ai-clients-to-only-choose-the-very-best",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-07T12:20:00+00:00"
+    },
+    {
+      "titolo": "Iranian drone strikes hit three AWS data centers in the UAE and Bahrain — Iran confirms it targeted Amazon cloud infrastructure",
+      "descrizione": "Iran's Islamic Revolutionary Guard Corps stated it targeted the Bahrain facility specifically because AWS hosts U.S. military workloads there.",
+      "link": "https://www.tomshardware.com/tech-industry/drone-strikes-hit-three-aws-data-centers-in-the-uae-and-bahrain",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-07T11:40:00+00:00"
+    },
+    {
+      "titolo": "Il tablet più sottile al mondo - Recensione Honor MagicPad 4",
+      "descrizione": "Abbiamo provato il nuovo HONOR MagicPad 4, con display OLED, dotazione hardware potente e un design ultra-sottile. Vediamo come si comporta nell'utilizzo quotidiano.",
+      "link": "https://www.hdblog.it/tablet/recensioni/n650163/il-tablet-piu-sottile-al-mondo---honor-magicpad-4/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T11:00:00+00:00"
+    },
+    {
+      "titolo": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
+      "descrizione": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
+      "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
+      "fonte": "WIRED",
+      "data": "2026-03-07T11:00:00+00:00"
+    },
+    {
+      "titolo": "illycaffè mette l'AI nel caffè e svela la sua nuova piattaforma",
+      "descrizione": "Aiuterà la filiera.",
+      "link": "https://www.hdblog.it/business/articoli/n650753/illycaffe-ai-caffe-nuova-piattaforma/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T10:05:00+00:00"
+    },
+    {
+      "titolo": "Tutti pazzi per Pokémon Pokopia: i segreti del nuovo gioco per Switch 2",
+      "descrizione": "Pokémon Pokopia è il titolo perfetto e di cui tutti parlando su Nintendo Switch 2: crea il tuo mondo personalizzato. The post Tutti pazzi per Pokémon Pokopia: i segreti del nuovo gioco per Switch 2 appeared first on Punt",
+      "link": "https://www.punto-informatico.it/tutti-pazzi-per-pokemon-pokopia-i-segreti-del-nuovo-gioco-per-switch-2/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T10:00:09+00:00"
+    },
+    {
+      "titolo": "Airalo eSIM: viaggia senza roaming e senza pensieri in oltre 200 Paesi",
+      "descrizione": "Con la eSIM Airalo viaggi in oltre 200 Paesi senza roaming e senza SIM fisica: attivazione immediata dall'app e sconto extra del 10%. Scopri come funziona. The post Airalo eSIM: viaggia senza roaming e senza pensieri in",
+      "link": "https://www.punto-informatico.it/airalo-esim-viaggia-senza-roaming-e-senza-pensieri-in-oltre-200-paesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T09:18:02+00:00"
+    },
+    {
+      "titolo": "Pixel 11 sarà così? Il leak di una cover anticipa il possibile design",
+      "descrizione": "E qualcosina cambia.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650789/google-pixel-11-design-cover-leak-differenze/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T09:15:00+00:00"
+    },
+    {
+      "titolo": "Octopus Energia: luce e gas a prezzo bloccato per 12 mesi in super offerta ancora per poco",
+      "descrizione": "Con Octopus Energia blocchi il prezzo di luce e gas per 12 mesi: zero sorprese, zero costi di attivazione e gestione 100% online. Scopri l'offerta ora. The post Octopus Energia: luce e gas a prezzo bloccato per 12 mesi i",
+      "link": "https://www.punto-informatico.it/octopus-energia-luce-e-gas-a-prezzo-bloccato-per-12-mesi-in-super-offerta-ancora-per-poco/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T09:05:59+00:00"
+    },
+    {
+      "titolo": "Files 4.0.34 migliora velocità e riduce le dimensioni su Windows",
+      "descrizione": "Files 4.0.34 migliora la velocità delle miniature e riduce il peso dell’app su Windows.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n650776/files-4-0-34-update-windows/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T08:35:00+00:00"
+    },
+    {
+      "titolo": "Occhiali Ray-Ban Meta, 6 cose da fare per proteggere la privacy",
+      "descrizione": "Meta è finita in tribunale per la gestione dei dati degli occhiali smart Ray-Ban. Ecco sei modifiche da fare subito alle impostazioni. The post Occhiali Ray-Ban Meta, 6 cose da fare per proteggere la privacy appeared fir",
+      "link": "https://www.punto-informatico.it/occhiali-ray-ban-meta-6-cose-da-fare-proteggere-privacy/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T08:30:51+00:00"
+    },
+    {
+      "titolo": "GP Australia F1, dove vedere (in diretta e differita) qualifiche e gara",
+      "descrizione": "Tutto il weekend in diretta su Sky, qualifiche e gara anche in chiaro su TV8",
+      "link": "https://www.hdmotori.it/gp-australia-f1-dove-vedere-diretta-differita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T08:30:35+00:00"
+    },
+    {
+      "titolo": "Robot umanoidi Xiaomi già al lavoro nelle linee di produzione",
+      "descrizione": "Xiaomi avvia test dei robot umanoidi nelle fabbriche auto con piani di diffusione entro cinque anni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650778/xiaomi-robot-umanoidi-fabbrica/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T07:35:00+00:00"
+    },
+    {
+      "titolo": "Fiat Grizzly: il nuovo SUV a 7 posti potrebbe chiamarsi così",
+      "descrizione": "Il nuovo modello arriverà nel corso del 2026 puntando su versatilità e prezzo competitivo. Motorizzazioni benzina, ibride e elettriche.",
+      "link": "https://www.hdmotori.it/fiat-grizzly-nuovo-suv-7-posti-potrebbe-chiamarsi-cosi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-07T07:00:47+00:00"
+    },
     {
       "titolo": "Nothing Headphone (a) review: The superior option for design and button enthusiasts",
       "descrizione": "The Nothing Headphone (a) are here, and beyond their distinctive design, they offer fantastic battery life and value for the price.",
@@ -30,13 +149,6 @@
       "data": "2026-03-06T17:15:00+00:00"
     },
     {
-      "titolo": "Motorola Razr 70 si avvicina: filtrano le specifiche quasi complete",
-      "descrizione": "Oltre al modello Ultra dovrebbe essere affiancato pure da una variante Plus.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650765/motorola-razr-70-specifiche-certificazione-ultra/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T17:05:00+00:00"
-    },
-    {
       "titolo": "6 essential strategies to defend against AI-powered threat actors in 2026",
       "descrizione": "Don't wait until AI-enabled deepfakes and malware overwhelm your organization. Experts recommend these aggressive best practices for hardening your defenses.",
       "link": "https://www.zdnet.com/article/6-ways-to-counter-ai-cybersecurity-threats/",
@@ -51,123 +163,11 @@
       "data": "2026-03-06T16:15:38+00:00"
     },
     {
-      "titolo": "ChatGPT, tante novità in arrivo nell'app ufficiale | APK Teardown",
-      "descrizione": "I ragazzi di Android Authority tornano alla carica con un'altra delle loro analisi approfondite.",
-      "link": "https://www.hdblog.it/android/articoli/n650760/chatgpt-app-novita-memoria-app-continuita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T16:15:00+00:00"
-    },
-    {
-      "titolo": "Tycoon 2FA è stato smantellato: tante le vittime italiane del phishing",
-      "descrizione": "La collaborazione tra pubblico e privato è vitale per smantellare tali operazioni.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n650748/tycoon-2fa-smantellato-vittime-phishing/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T16:10:00+00:00"
-    },
-    {
-      "titolo": "AI, risposta pericolosa di Alexa: poteva mandare qualcuno in ospedale",
-      "descrizione": "Una risposta del chatbot avrebbe potuto essere interpretata come un invito a mischiare aceto e candeggina, creando un gas molto nocivo.",
-      "link": "https://www.hdblog.it/amazon/articoli/n650755/amazon-alexa-candeggina-aceto-pericolo-risposta/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T15:55:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Glasses: i primi dettagli arrivano dal MWC 2026",
-      "descrizione": "Sfida aperta a Meta: l'ecosistema Galaxy si espande con l'intelligenza artificiale indossabile",
-      "link": "https://www.hdblog.it/indossabili/articoli/n650746/samsung-galaxy-glasses-dettagli-mwc-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T15:35:00+00:00"
-    },
-    {
       "titolo": "Anthropic rivela quali lavori sono più a rischio per colpa dell’AI",
       "descrizione": "Anthropic pubblica una nuova metodologia che usa i dati reali di utilizzo di Claude per misurare quali lavori sono più esposti all'AI. The post Anthropic rivela quali lavori sono più a rischio per colpa dell’AI appeared",
       "link": "https://www.punto-informatico.it/anthropic-rivela-quali-lavori-piu-a-rischio-colpa-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-03-06T15:32:03+00:00"
-    },
-    {
-      "titolo": "X lancia Exclusive Threads: anteprima gratis, contenuto completo a pagamento",
-      "descrizione": "Nuove funzioni per Creator Subscriptions 2.0.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n650747/x-creator-exclusive-threads-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T15:20:00+00:00"
-    },
-    {
-      "titolo": "Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week",
-      "descrizione": "Mobile World Congress 2026 is over, and here are all the key announcements on phones, laptops, concepts, and more that you may have missed.",
-      "link": "https://www.zdnet.com/article/best-of-mwc/",
-      "fonte": "Latest news",
-      "data": "2026-03-06T15:17:00+00:00"
-    },
-    {
-      "titolo": "Cyberattacco ai sistemi di sorveglianza dell’FBI: avviata indagine",
-      "descrizione": "Attacco informatico contro una rete usata dall’FBI per intercettazioni e mandati di sorveglianza.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650731/fbi-hacker-wiretap-sistemi-sorveglianza/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T15:05:00+00:00"
-    },
-    {
-      "titolo": "Alta velocità, svolta storica: TGV insieme a Frecciarossa e Italo",
-      "descrizione": "I treni TGV francesi potrebbero presto viaggiare sulle linee ad alta velocità italiane insieme ai Frecciarossa e a quelli di Italo. The post Alta velocità, svolta storica: TGV insieme a Frecciarossa e Italo appeared firs",
-      "link": "https://www.punto-informatico.it/alta-velocita-tgv-frecciarossa-italo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T14:58:08+00:00"
-    },
-    {
-      "titolo": "Claude, boom di iscrizioni anche in Italia dopo il bando USA",
-      "descrizione": "Il bando imposto da Trump ad Anthropic sta avendo l'effetto opposto. Claude è primo nell'App Store in USA, Canada e gran parte dell'Europa. The post Claude, boom di iscrizioni anche in Italia dopo il bando USA appeared f",
-      "link": "https://www.punto-informatico.it/claude-boom-iscrizioni-anche-italia-dopo-bando-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T14:39:08+00:00"
-    },
-    {
-      "titolo": "How the MacBook Neo compares to its closest Windows and Chromebook rivals - by the specs",
-      "descrizione": "If you've got $600 to spare and are platform-agnostic, let's walk through the myriad of Neo-like laptops available to you.",
-      "link": "https://www.zdnet.com/article/macbook-neo-alternatives/",
-      "fonte": "Latest news",
-      "data": "2026-03-06T14:35:00+00:00"
-    },
-    {
-      "titolo": "Sovol SV08 Max review: Monster printer",
-      "descrizione": "Sovol’s super-sized SV08 Max is an enthusiast’s printer with a few quirks that may make it tough for newbies.",
-      "link": "https://www.tomshardware.com/3d-printing/sovol-sv08-max-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-06T14:00:00+00:00"
-    },
-    {
-      "titolo": "Ora puoi chattare su YouTube: i messaggi privati arrivano anche in Italia",
-      "descrizione": "Disponibili anche in Italia i messaggi diretti su YouTube: ora è possibile chattare e commentare i video senza uscire dalla piattaforma. The post Ora puoi chattare su YouTube: i messaggi privati arrivano anche in Italia",
-      "link": "https://www.punto-informatico.it/ora-puoi-chattare-su-youtube-i-messaggi-privati-arrivano-anche-in-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T13:48:03+00:00"
-    },
-    {
-      "titolo": "Windows Terminal cambia ancora: nuove funzioni per i power user",
-      "descrizione": "La preview di Windows Terminal introduce diverse novità utili per chi utilizza la riga di comando: c'è anche la ricerca nelle impostazioni. The post Windows Terminal cambia ancora: nuove funzioni per i power user appeare",
-      "link": "https://www.punto-informatico.it/windows-terminal-nuove-funzioni-power-user/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T13:41:02+00:00"
-    },
-    {
-      "titolo": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
-      "descrizione": "Is it worth using motorsports materials in a gaming mouse? As long as it’s the same price as plastic.",
-      "link": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
-      "fonte": "WIRED",
-      "data": "2026-03-06T13:00:00+00:00"
-    },
-    {
-      "titolo": "CCleaner Premium in offerta: fino al 70% di sconto per 5 dispositivi",
-      "descrizione": "CCleaner Premium è in promozione con sconti fino al 70%. Ottimizzazione del PC, strumenti per la privacy e assistenza tecnica inclusi per più dispositivi. The post CCleaner Premium in offerta: fino al 70% di sconto per 5",
-      "link": "https://www.punto-informatico.it/ccleaner-premium-in-offerta-fino-al-70-di-sconto-per-5-dispositivi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T12:33:30+00:00"
-    },
-    {
-      "titolo": "Gemini Live su Android, interfaccia più pulita in arrivo",
-      "descrizione": "Google sta preparando un overlay più compatto per Gemini Live su Android, accorpando fotocamera e condivisione schermo in un unico pulsante. The post Gemini Live su Android, interfaccia più pulita in arrivo appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-live-android-interfaccia-piu-pulita-in-arrivo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T11:44:50+00:00"
     }
   ]
 }

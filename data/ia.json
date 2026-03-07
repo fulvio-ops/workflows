@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-07T06:59:23.433759+00:00",
+  "last_updated": "2026-03-07T13:08:59.606293+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, tante novità in arrivo nell'app ufficiale | APK Teardown",
-      "descrizione": "I ragazzi di Android Authority tornano alla carica con un'altra delle loro analisi approfondite.",
-      "link": "https://www.hdblog.it/android/articoli/n650760/chatgpt-app-novita-memoria-app-continuita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-06T16:15:00+00:00",
+      "titolo": "OpenAI Codex Security: agente AI che trova bug software",
+      "descrizione": "Codex Security (ex Aardvark) è un agente AI che può analizzare il codice sorgente, trovare eventuali vulnerabilità e suggerisce le modifiche necessarie. The post OpenAI Codex Security: agente AI che trova bug software ap",
+      "link": "https://www.punto-informatico.it/openai-codex-security-agente-ai-trova-bug-software/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-07T11:21:35+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Opus 4.6 trova 112 bug in Mozilla Firefox",
-      "descrizione": "Claude Opus 4.6 di Anthropic ha scoperto 112 bug in Firefox in due settimane, quindi Mozilla userà il modello durante lo sviluppo del browser. The post Claude Opus 4.6 trova 112 bug in Mozilla Firefox appeared first on P",
-      "link": "https://www.punto-informatico.it/claude-opus-4-6-trova-112-bug-mozilla-firefox/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T18:05:34+00:00",
+      "titolo": "Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant",
+      "descrizione": "Over-eager developer has Claude Code Terraform his production setup, including database and its snapshots",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-07T13:00:00+00:00",
       "modello": "claude"
     },
     {
