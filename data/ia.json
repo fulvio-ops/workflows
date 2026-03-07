@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T13:08:59.606293+00:00",
+  "last_updated": "2026-03-07T18:50:46.758453+00:00",
   "items": [
     {
       "titolo": "OpenAI Codex Security: agente AI che trova bug software",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant",
-      "descrizione": "Over-eager developer has Claude Code Terraform his production setup, including database and its snapshots",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant",
+      "titolo": "AMD VP uses AI to create Radeon Linux userland driver in Python — senior AI engineer says he \"didn't open the editor once\"",
+      "descrizione": "AMD's VP of AI software vibe coded the driver entirely using Claude Code, but it's meant for testing, not for deployment to users.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-vp-uses-ai-to-create-radeon-linux-userland-driver-in-python-senior-ai-engineer-says-he-didnt-open-the-editor-once",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T13:00:00+00:00",
+      "data": "2026-03-07T16:07:14+00:00",
       "modello": "claude"
     },
     {
