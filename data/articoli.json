@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-03-08T13:11:03.704851+00:00",
+  "last_updated": "2026-03-08T18:52:28.713084+00:00",
   "items": [
+    {
+      "titolo": "Cloud senza abbonamento a meno di 200€: paghi una volta, è tuo per sempre",
+      "descrizione": "Spazio cloud a vita fino a 10 TB, con sconti per centinaia di euro e spazio crittografato: è la super promozione pCloud. The post Cloud senza abbonamento a meno di 200€: paghi una volta, è tuo per sempre appeared first o",
+      "link": "https://www.punto-informatico.it/cloud-senza-abbonamento-a-meno-di-200e-paghi-una-volta-e-tuo-per-sempre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-08T15:57:20+00:00"
+    },
+    {
+      "titolo": "OpenAI's massive Stargate data center canceled as firm can't reach terms with Oracle, operator struggles with reliability issues — Meta said to be interested in snatching excess capacity",
+      "descrizione": "Financing terms and swinging OpenAI capacity forecast collapse a major expansion of a Stargate data center. Yet, Meta could take the yet-to-be-expanded space.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T15:49:32+00:00"
+    },
+    {
+      "titolo": "Oppo Find X10 Pro Max con tre fotocamere da 200 MP: filtrano i primi dettagli",
+      "descrizione": "Un bel mostriciattolo: cosa dicono i rumor.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n650819/oppo-find-x10-pro-max-tre-fotocamere-200-mp-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-08T14:55:00+00:00"
+    },
+    {
+      "titolo": "Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies — Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s",
+      "descrizione": "The newly listed PC550 SSD targets AI PCs and commercial systems and features PCIe 5.0 x4 connectivity, NVMe 2.0 support, and a four-channel design.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/chinese-ssd-maker-ymtc-lists-first-commercial-pcie-5-0-ssd-as-worldwide-shortage-intensifies-xtacking-4-0-nand-powers-speeds-of-up-to-10-500-mb-s",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T14:25:03+00:00"
+    },
+    {
+      "titolo": "US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea — each leg houses a data center, firm set to launch three-legged prototype in Norway’s North Sea this yea",
+      "descrizione": "Offshore wind turbines could house up to a 12-megawatt data center, drawing power directly from the winds blowing on the sea while using the cold ocean water for cooling.",
+      "link": "https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T13:52:07+00:00"
+    },
     {
       "titolo": "Norwegian gov't consumer watchdog calls out ‘enshittification’ of video games, connected devices, and others — claims hardware deliberately degraded after purchase",
       "descrizione": "“Companies can degrade the functionality of your car or effectively destroy your connected washing machine with a software update,” says the report.",
@@ -133,41 +168,6 @@
       "link": "https://www.hdblog.it/smartphone/articoli/n650804/google-android-16-qpr3-barra-ricerca-google-design/",
       "fonte": "HDblog.it",
       "data": "2026-03-07T15:25:00+00:00"
-    },
-    {
-      "titolo": "Social media: ban under 16 anche in due paesi asiatici",
-      "descrizione": "Uno stato dell'India ha previsto il divieto di accesso, mentre in Indonesia verrà applicato dal 28 marzo ai social media considerati ad alto rischio. The post Social media: ban under 16 anche in due paesi asiatici appear",
-      "link": "https://www.punto-informatico.it/social-media-ban-under-16-due-paesi-asiatici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T15:09:16+00:00"
-    },
-    {
-      "titolo": "Costa appena 1,11 euro al mese: privacy assicurata con PrivadoVPN",
-      "descrizione": "PrivadoVPN è perfetta per chi viaggia, chi lavora da remoto o semplicemente chi vuole restare sempre al sicuro online: 90% di sconto immediato The post Costa appena 1,11 euro al mese: privacy assicurata con PrivadoVPN ap",
-      "link": "https://www.punto-informatico.it/costa-appena-111-euro-al-mese-privacy-assicurata-con-privadovpn/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T14:08:20+00:00"
-    },
-    {
-      "titolo": "Oracle reportedly set to axe thousands of jobs and freeze hiring as AI data center bets ignite financial perfect storm — cuts in cloud division to be backfilled with AI",
-      "descrizione": "Oracle reportedly set to axe thousands of jobs, could freeze hiring for cloud division",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-set-to-axe-thousands-of-jobs-and-freeze-hiring-for-cloud-division-ai-datacenter-bets-ignite-financial-perfect-storm",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T13:20:00+00:00"
-    },
-    {
-      "titolo": "La Casa Bianca usa Pokopia per propaganda: Pokémon Company si dissocia",
-      "descrizione": "Un post che ha fatto discutere, costringendo l'azienda a prendere una posizione ufficiale.",
-      "link": "https://www.hdblog.it/games/articoli/n650798/pokemon-casa-bianca-pokopia-maga-risposta/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T12:45:00+00:00"
-    },
-    {
-      "titolo": "Nvidia dominates gaming GPU market with 95 percent share as sales of AMD Radeon graphics plummet to a historical low of 5 percent",
-      "descrizione": "Nvidia strengthens its position on the market of discrete GPUs as AMD's market share continues to dive, whereas Intel fails to gain traction.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dominates-discrete-gpu-market-as-sales-of-amd-radeon-graphics-cards-hit-historical-low",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T12:40:00+00:00"
     }
   ]
 }
