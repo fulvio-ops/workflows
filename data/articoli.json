@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-03-08T07:02:33.412217+00:00",
+  "last_updated": "2026-03-08T13:11:03.704851+00:00",
   "items": [
+    {
+      "titolo": "Norwegian gov't consumer watchdog calls out ‘enshittification’ of video games, connected devices, and others — claims hardware deliberately degraded after purchase",
+      "descrizione": "“Companies can degrade the functionality of your car or effectively destroy your connected washing machine with a software update,” says the report.",
+      "link": "https://www.tomshardware.com/tech-industry/norwegian-consumer-watchdog-calls-out-enshittification",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T13:08:39+00:00"
+    },
+    {
+      "titolo": "Sony WH-1000XM6 review: Still the king of ANC headphones? My verdict after months of testing",
+      "descrizione": "After a three-year hiatus and considerable anticipation, Sony's latest flagship headphones impress on nearly every front.",
+      "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-08T13:01:03+00:00"
+    },
+    {
+      "titolo": "Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth",
+      "descrizione": "The Nvidia compensation committee set a $4 million cash bonus for Jensen Huang if he hits the company's fiscal targets by January 31, 2027.",
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-set-to-receive-usd4-million-bonus-from-nvidia-0-002-percent-of-his-usd164-billion-net-worth-a-small-incentive-for-one-of-the-richest-people-on-earth",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T12:17:30+00:00"
+    },
+    {
+      "titolo": "Recensione Gigabyte Gaming A16: giocare in FullHD al giusto prezzo",
+      "descrizione": "Abbiamo provato il Gigabyte Gaming A16, un notebook da gaming economico che può costare anche meno di 1000 euro! Ecco come è andata",
+      "link": "https://www.hdblog.it/portatili/recensioni/n650079/gigabyte-gaming-a16-notebook-1000-euro-test-prova/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-08T12:00:00+00:00"
+    },
+    {
+      "titolo": "Seagate FireCuda X1070 SSD spotted at retailers — listed at $829.99 before any official announcement",
+      "descrizione": "Seagate's unannounced FireCuda X1070 NVMe SSD appeared on Amazon and Best Buy listings this week before its product page went offline.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-ssd-spotted-at-retailers-ahead-of-any-official-announcement",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T10:40:00+00:00"
+    },
+    {
+      "titolo": "The Moka Pot Is the Best Way to Brew Coffee (2026)",
+      "descrizione": "Bialetti’s timeless design doesn’t just look good. It makes an incredible cup that’s perfect to keep you awake through the time change.",
+      "link": "https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/",
+      "fonte": "WIRED",
+      "data": "2026-03-08T10:30:00+00:00"
+    },
+    {
+      "titolo": "California sues websites hosting 3D printed gun files — online platforms allegedly violate multiple civil codes regarding unlawful distribution and manufacturing of firearms",
+      "descrizione": "California's civil suit alleges that these websites and their operators are willfully distributing 3D printed gun files and instructions that could allow anyone to print a gun from scratch in as little as eight hours.",
+      "link": "https://www.tomshardware.com/3d-printing/california-sues-websites-hosting-3d-printed-gun-files-online-platforms-allegedly-violate-multiple-civil-codes-regarding-unlawful-distribution-and-manufacturing-of-firearms",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-08T10:20:00+00:00"
+    },
+    {
+      "titolo": "Dazi illegali: Nintendo denuncia il governo statunitense",
+      "descrizione": "Nintendo of America ha denunciato il governo statunitense e chiesto il rimborso dei dazi (con interessi), considerati illegali dalla Corte Suprema. The post Dazi illegali: Nintendo denuncia il governo statunitense appear",
+      "link": "https://www.punto-informatico.it/dazi-illegali-nintendo-denuncia-governo-statunitense/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-08T09:46:16+00:00"
+    },
+    {
+      "titolo": "La modalità adulti di ChatGPT slitta ancora: OpenAI ha altre priorità",
+      "descrizione": "La modalità adulti di ChatGPT, promessa per dicembre e poi rinviata al primo trimestre 2026, è stata rimandata ancora. Non c'è una nuova data. The post La modalità adulti di ChatGPT slitta ancora: OpenAI ha altre priorit",
+      "link": "https://www.punto-informatico.it/modalita-adulti-chatgpt-slitta-ancora-openai-ha-altre-priorita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-08T09:16:23+00:00"
+    },
+    {
+      "titolo": "Bonus di 25.000 euro per rinunciare alla patente: così Malta contrasta il traffico",
+      "descrizione": "Il drastico incentivo lanciato dal governo di Malta riguarda solo i giovani under 30: potranno ottenere il bonus se rinunceranno a guidare per cinque anni.",
+      "link": "https://www.hdmotori.it/bonus-25000-euro-rinunciare-patente-malta-contrasta-traffico/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-08T09:00:08+00:00"
+    },
+    {
+      "titolo": "GPT-5.4: come funziona e 7 prompt da copiare e usare subito",
+      "descrizione": "Una raccolta di 7 prompt utili per GPT-5.4. Esempi pratici da copiare per sfruttare meglio l'AI e ottenere risposte più chiare e approfondite. The post GPT-5.4: come funziona e 7 prompt da copiare e usare subito appeared",
+      "link": "https://www.punto-informatico.it/gpt-5-4-come-funziona-prompt-7-copiare-usare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-08T08:30:33+00:00"
+    },
+    {
+      "titolo": "Europa batte Cina nella corsa al laser spaziale ultrarapido",
+      "descrizione": "Test ESA con Airbus: collegamento laser a 2,6 Gbps con satellite a 36.000 km.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n650807/internet-spaziale-record-laser-esa/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-08T08:05:00+00:00"
+    },
+    {
+      "titolo": "Dreame, il segreto dell’ascesa nei robot domestici è tutto nei social",
+      "descrizione": "Souzhou (Cina) Molte generazioni di italiani del secolo scorso sono cresciute con il modello de “il sogno americano”: credi in quello che fai e potrai diventare ricco e famoso. Ma...",
+      "link": "https://www.ilsole24ore.com/art/dreame-segreto-dell-ascesa-robot-domestici-e-tutto-social-AIGZ1RoB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-08T07:43:00+00:00"
+    },
+    {
+      "titolo": "Lotus Eletre X, il SUV da 952 CV che promette oltre 1.200 km di autonomia",
+      "descrizione": "La nuova piattaforma punta su un ibrido elettrico capace di mantenere prestazioni da supercar.",
+      "link": "https://www.hdmotori.it/lotus-eletre-x/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-08T07:00:13+00:00"
+    },
     {
       "titolo": "Lock in the RTX 5070 for $599 before prices skyrocket even further — custom overclocked model is only $50 above MSRP",
       "descrizione": "The RTX 5070 offers strong 1440p performance, 12GB of GDDR7 memory, and support for Nvidia’s latest features like DLSS 4 and Reflex 2.",
@@ -70,104 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dominates-discrete-gpu-market-as-sales-of-amd-radeon-graphics-cards-hit-historical-low",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-07T12:40:00+00:00"
-    },
-    {
-      "titolo": "Sony WH-1000XM6 review: An audio heavyweight with a few caveats",
-      "descrizione": "After a three-year hiatus and considerable anticipation, Sony's newest headphones impress on nearly every front.",
-      "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
-      "fonte": "Latest news",
-      "data": "2026-03-07T12:32:22+00:00"
-    },
-    {
-      "titolo": "InstallFix: variante ClickFix che sfrutta Claude Code",
-      "descrizione": "InstallFix sfrutta la popolarità di Claude Code per convincere gli utenti ad eseguire i comandi di installazione di Amatera presenti su un sito fake, The post InstallFix: variante ClickFix che sfrutta Claude Code appeare",
-      "link": "https://www.punto-informatico.it/installfix-variante-clickfix-sfrutta-claude-code/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T12:23:32+00:00"
-    },
-    {
-      "titolo": "Nvidia CEO Huang declares ‘I love constraints’ amid ongoing component shortage — claims lack of options forces AI clients to only choose the very best",
-      "descrizione": "In a scarce market, clients don't take risks and go with the biggest, most reliable option, which ultimately benefits Nvidia as it sits at the top of the AI boom. Unfortunately, these data center escapades hurt regular h",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-huang-declares-i-love-constraints-amid-ongoing-component-shortage-claims-lack-of-options-forces-ai-clients-to-only-choose-the-very-best",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T12:20:00+00:00"
-    },
-    {
-      "titolo": "Oppo Find N6 si fa vedere nei render in tre colori: c'è anche arancione",
-      "descrizione": "Diamo un'occhiata al design in anteprima.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650796/oppo-find-n6-colori-arancione-pieghevole-render/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T12:15:00+00:00"
-    },
-    {
-      "titolo": "Iranian drone strikes hit three AWS data centers in the UAE and Bahrain — Iran confirms it targeted Amazon cloud infrastructure",
-      "descrizione": "Iran's Islamic Revolutionary Guard Corps stated it targeted the Bahrain facility specifically because AWS hosts U.S. military workloads there.",
-      "link": "https://www.tomshardware.com/tech-industry/drone-strikes-hit-three-aws-data-centers-in-the-uae-and-bahrain",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T11:40:00+00:00"
-    },
-    {
-      "titolo": "Il tablet più sottile al mondo - Recensione Honor MagicPad 4",
-      "descrizione": "Abbiamo provato il nuovo HONOR MagicPad 4, con display OLED, dotazione hardware potente e un design ultra-sottile. Vediamo come si comporta nell'utilizzo quotidiano.",
-      "link": "https://www.hdblog.it/tablet/recensioni/n650163/il-tablet-piu-sottile-al-mondo---honor-magicpad-4/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T11:00:00+00:00"
-    },
-    {
-      "titolo": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
-      "descrizione": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
-      "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
-      "fonte": "WIRED",
-      "data": "2026-03-07T11:00:00+00:00"
-    },
-    {
-      "titolo": "illycaffè mette l'AI nel caffè e svela la sua nuova piattaforma",
-      "descrizione": "Aiuterà la filiera.",
-      "link": "https://www.hdblog.it/business/articoli/n650753/illycaffe-ai-caffe-nuova-piattaforma/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T10:05:00+00:00"
-    },
-    {
-      "titolo": "Tutti pazzi per Pokémon Pokopia: i segreti del nuovo gioco per Switch 2",
-      "descrizione": "Pokémon Pokopia è il titolo perfetto e di cui tutti parlando su Nintendo Switch 2: crea il tuo mondo personalizzato. The post Tutti pazzi per Pokémon Pokopia: i segreti del nuovo gioco per Switch 2 appeared first on Punt",
-      "link": "https://www.punto-informatico.it/tutti-pazzi-per-pokemon-pokopia-i-segreti-del-nuovo-gioco-per-switch-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T10:00:09+00:00"
-    },
-    {
-      "titolo": "Airalo eSIM: viaggia senza roaming e senza pensieri in oltre 200 Paesi",
-      "descrizione": "Con la eSIM Airalo viaggi in oltre 200 Paesi senza roaming e senza SIM fisica: attivazione immediata dall'app e sconto extra del 10%. Scopri come funziona. The post Airalo eSIM: viaggia senza roaming e senza pensieri in",
-      "link": "https://www.punto-informatico.it/airalo-esim-viaggia-senza-roaming-e-senza-pensieri-in-oltre-200-paesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T09:18:02+00:00"
-    },
-    {
-      "titolo": "Pixel 11 sarà così? Il leak di una cover anticipa il possibile design",
-      "descrizione": "E qualcosina cambia.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n650789/google-pixel-11-design-cover-leak-differenze/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T09:15:00+00:00"
-    },
-    {
-      "titolo": "Octopus Energia: luce e gas a prezzo bloccato per 12 mesi in super offerta ancora per poco",
-      "descrizione": "Con Octopus Energia blocchi il prezzo di luce e gas per 12 mesi: zero sorprese, zero costi di attivazione e gestione 100% online. Scopri l'offerta ora. The post Octopus Energia: luce e gas a prezzo bloccato per 12 mesi i",
-      "link": "https://www.punto-informatico.it/octopus-energia-luce-e-gas-a-prezzo-bloccato-per-12-mesi-in-super-offerta-ancora-per-poco/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T09:05:59+00:00"
-    },
-    {
-      "titolo": "Files 4.0.34 migliora velocità e riduce le dimensioni su Windows",
-      "descrizione": "Files 4.0.34 migliora la velocità delle miniature e riduce il peso dell’app su Windows.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n650776/files-4-0-34-update-windows/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-07T08:35:00+00:00"
-    },
-    {
-      "titolo": "Occhiali Ray-Ban Meta, 6 cose da fare per proteggere la privacy",
-      "descrizione": "Meta è finita in tribunale per la gestione dei dati degli occhiali smart Ray-Ban. Ecco sei modifiche da fare subito alle impostazioni. The post Occhiali Ray-Ban Meta, 6 cose da fare per proteggere la privacy appeared fir",
-      "link": "https://www.punto-informatico.it/occhiali-ray-ban-meta-6-cose-da-fare-proteggere-privacy/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T08:30:51+00:00"
     }
   ]
 }

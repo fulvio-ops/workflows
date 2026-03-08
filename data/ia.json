@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-03-08T07:02:36.622646+00:00",
+  "last_updated": "2026-03-08T13:11:07.182221+00:00",
   "items": [
     {
-      "titolo": "OpenAI Codex Security: agente AI che trova bug software",
-      "descrizione": "Codex Security (ex Aardvark) è un agente AI che può analizzare il codice sorgente, trovare eventuali vulnerabilità e suggerisce le modifiche necessarie. The post OpenAI Codex Security: agente AI che trova bug software ap",
-      "link": "https://www.punto-informatico.it/openai-codex-security-agente-ai-trova-bug-software/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-07T11:21:35+00:00",
+      "titolo": "iPhone 17e vs. iPhone 17: I compared both models to uncover the $200 difference",
+      "descrizione": "Apple's latest iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?",
+      "link": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
+      "fonte": "Latest news",
+      "data": "2026-03-08T11:00:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Live in Chrome permetteva l’accesso ai file",
-      "descrizione": "Una grave vulnerabilità presente nel pannello laterale di Gemini Live in Chrome consentiva alle estensioni di accedere a fotocamera, microfono e file. The post Gemini Live in Chrome permetteva l’accesso ai file appeared",
-      "link": "https://www.punto-informatico.it/gemini-live-chrome-permetteva-accesso-file/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-06T16:47:36+00:00",
+      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
+      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-01T18:27:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AMD VP uses AI to create Radeon Linux userland driver in Python — senior AI engineer says he \"didn't open the editor once\"",
-      "descrizione": "AMD's VP of AI software vibe coded the driver entirely using Claude Code, but it's meant for testing, not for deployment to users.",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-vp-uses-ai-to-create-radeon-linux-userland-driver-in-python-senior-ai-engineer-says-he-didnt-open-the-editor-once",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-07T16:07:14+00:00",
-      "modello": "claude"
-    },
-    {
-      "titolo": "Estensioni AI rubano conversazioni da ChatGPT",
-      "descrizione": "Due false estensioni che dovrebbero consentire l'accesso a ChatGPT e DeepSeek sono state usate per rubare le conversazioni con i chatbot e altri dati. The post Estensioni AI rubano conversazioni da ChatGPT appeared first",
-      "link": "https://www.punto-informatico.it/estensioni-ai-rubano-conversazioni-chatgpt/",
+      "titolo": "Claude scopre 22 falle di sicurezza su Firefox, 14 ad alta gravità",
+      "descrizione": "In una collaborazione con Mozilla, Anthropic ha usato Claude per analizzare il codice di Firefox scovando 22 falle di sicurezza. The post Claude scopre 22 falle di sicurezza su Firefox, 14 ad alta gravità appeared first",
+      "link": "https://www.punto-informatico.it/claude-scopre-22-falle-sicurezza-firefox-14-alta-gravita/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-06T15:54:38+00:00",
-      "modello": "altri"
+      "data": "2026-03-08T08:57:37+00:00",
+      "modello": "claude"
     }
   ]
 }
