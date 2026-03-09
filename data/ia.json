@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-09T13:40:50.403603+00:00",
+  "last_updated": "2026-03-09T19:11:32.256840+00:00",
   "items": [
     {
-      "titolo": "Scuole e università sono sempre più vulnerabili ai cyberattacchi",
-      "descrizione": "Il recente attacco ransomware all’Università La Sapienza di Roma dimostra la vulnerabilità delle infrastrutture digitali nel mondo dell’istruzione",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n650916/attacchi-hacker-scuole-universita-in-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-09T12:20:00+00:00",
+      "titolo": "Bluesky CEO Jay Graber Is Stepping Down",
+      "descrizione": "Venture capitalist Toni Schneider will take over as interim CEO as Bluesky’s board of directors hunts for a permanent replacement.",
+      "link": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/",
+      "fonte": "WIRED",
+      "data": "2026-03-09T19:00:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Copilot Cowork: Claude Cowork in Microsoft 365",
+      "descrizione": "Copilot Cowork è la versione Microsoft di Claude Cowork che permette di eseguire diversi compiti lavorativi sfruttando le capacità agentiche. The post Copilot Cowork: Claude Cowork in Microsoft 365 appeared first on Punt",
+      "link": "https://www.punto-informatico.it/copilot-cowork-claude-cowork-microsoft-365/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-09T17:54:03+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
@@ -18,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Amazon's Rufus AI shopping assistant can be easily jailbroken and tricked into answering other questions — specific prompts break the chatbot's guidelines and reach underlying AI engine",
-      "descrizione": "Rufus, the AI assistant meant to make shopping on Amazon easier, can actually just answer any question you throw at it as long as it's prompted right. It allegedly runs Claude under the hood, and people have been able to",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazons-rufus-ai-shopping-assistant-can-be-easily-jailbroken-and-tricked-into-answering-other-questions-specific-prompts-break-the-chatbots-guidelines-and-reach-underlying-ai-engine",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-09T10:20:00+00:00",
+      "titolo": "This new Claude Code Review tool uses AI agents to check your pull requests for bugs - here's how",
+      "descrizione": "Each pull request can cost up to $25. Here's why companies might still pay to prevent catastrophic bugs.",
+      "link": "https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/",
+      "fonte": "Latest news",
+      "data": "2026-03-09T19:00:44+00:00",
       "modello": "claude"
     }
   ]
