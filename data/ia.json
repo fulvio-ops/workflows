@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-09T07:18:48.551656+00:00",
+  "last_updated": "2026-03-09T13:40:50.403603+00:00",
   "items": [
     {
-      "titolo": "Windows 11, torna la personalizzazione delle azioni rapide",
-      "descrizione": "Dopo mesi di lamentele, Windows 11 riavrà la personalizzazione delle azioni rapide nella barra delle applicazioni. The post Windows 11, torna la personalizzazione delle azioni rapide appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/windows-11-personalizzazione-azioni-rapide-barra-applicazioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-09T05:35:40+00:00",
+      "titolo": "Scuole e università sono sempre più vulnerabili ai cyberattacchi",
+      "descrizione": "Il recente attacco ransomware all’Università La Sapienza di Roma dimostra la vulnerabilità delle infrastrutture digitali nel mondo dell’istruzione",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n650916/attacchi-hacker-scuole-universita-in-crescita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-09T12:20:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude scopre 22 falle di sicurezza su Firefox, 14 ad alta gravità",
-      "descrizione": "In una collaborazione con Mozilla, Anthropic ha usato Claude per analizzare il codice di Firefox scovando 22 falle di sicurezza. The post Claude scopre 22 falle di sicurezza su Firefox, 14 ad alta gravità appeared first",
-      "link": "https://www.punto-informatico.it/claude-scopre-22-falle-sicurezza-firefox-14-alta-gravita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-08T08:57:37+00:00",
+      "titolo": "Amazon's Rufus AI shopping assistant can be easily jailbroken and tricked into answering other questions — specific prompts break the chatbot's guidelines and reach underlying AI engine",
+      "descrizione": "Rufus, the AI assistant meant to make shopping on Amazon easier, can actually just answer any question you throw at it as long as it's prompted right. It allegedly runs Claude under the hood, and people have been able to",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazons-rufus-ai-shopping-assistant-can-be-easily-jailbroken-and-tricked-into-answering-other-questions-specific-prompts-break-the-chatbots-guidelines-and-reach-underlying-ai-engine",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-09T10:20:00+00:00",
       "modello": "claude"
     }
   ]
