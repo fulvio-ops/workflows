@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-10T13:38:41.782234+00:00",
+  "last_updated": "2026-03-10T19:09:45.525641+00:00",
   "items": [
     {
-      "titolo": "I wrote off ChatGPT's voice mode, then found 7 ways it's genuinely useful",
-      "descrizione": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now. Spoiler: It is.",
-      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
-      "fonte": "Latest news",
-      "data": "2026-03-10T13:11:00+00:00",
+      "titolo": "Oracle and OpenAI's Abilene expansion saga detailed: 600MW expansion gets scrapped, as larger 4.5GW agreement remains on track",
+      "descrizione": "Oracle and OpenAI dropped plans to expand their flagship Stargate campus in Abilene, Texas, beyond its committed 1.2-gigawatt build earlier this month.",
+      "link": "https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-10T16:39:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft 365, arrivano tante nuove feature incentrate su Copilot",
-      "descrizione": "In distribuzione (per ora solo in inglese).",
-      "link": "https://www.hdblog.it/microsoft/articoli/n651083/microsoft-365-wave-3-novita-copilot-ai-word-excel/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-10T12:05:00+00:00",
+      "titolo": "Microsoft accelera sull’AI agentica: tutte le novità di 365 Copilot",
+      "descrizione": "Secondo il gigante di Redmond un’adozione dell’IA può generare un incremento annuale del Pil italiano del 18% al 2040, un valore aggiunto pari a 336 miliardi di euro all’anno",
+      "link": "https://www.ilsole24ore.com/art/microsoft-accelera-sull-ai-agentica-tutte-novita-365-copilot-AI8jHlsB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-10T18:18:01+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini cambia Workspace: cosa puoi fare ora con l’AI",
-      "descrizione": "Google introduce nuove funzionalità di Gemini nelle app Workspace: Documenti, Fogli, Presentazioni e Drive, tutto inizia con un prompt. The post Gemini cambia Workspace: cosa puoi fare ora con l’AI appeared first on Punt",
-      "link": "https://www.punto-informatico.it/gemini-cambia-workspace-cosa-puoi-fare-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-10T13:00:12+00:00",
+      "titolo": "Gemini can now use your Drive and emails to build spreadsheets, slides and more",
+      "descrizione": "Gemini can access relevant information from your other sources to give personalized help.",
+      "link": "https://www.zdnet.com/article/google-gemini-drive-sheets-docs-slides/",
+      "fonte": "Latest news",
+      "data": "2026-03-10T16:22:51+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-      "descrizione": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
-      "fonte": "WIRED",
-      "data": "2026-03-09T20:49:29+00:00",
+      "titolo": "Chi rischia il posto di lavoro per l'AI (e chi è al sicuro) secondo Anthropic",
+      "descrizione": "La società saprà adattarsi? Deve, per forza.",
+      "link": "https://www.hdblog.it/business/articoli/n651114/posto-lavoro-ai-rischi-anthropic/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-10T16:45:00+00:00",
       "modello": "claude"
     }
   ]
