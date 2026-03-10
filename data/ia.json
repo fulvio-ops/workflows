@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-09T19:11:32.256840+00:00",
+  "last_updated": "2026-03-10T03:07:27.744056+00:00",
   "items": [
     {
-      "titolo": "Bluesky CEO Jay Graber Is Stepping Down",
-      "descrizione": "Venture capitalist Toni Schneider will take over as interim CEO as Bluesky’s board of directors hunts for a permanent replacement.",
-      "link": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/",
-      "fonte": "WIRED",
-      "data": "2026-03-09T19:00:00+00:00",
+      "titolo": "I tried GPT-5.4, and most answers were really good - but a few had me concerned",
+      "descrizione": "OpenAI claims that GPT-5.4 Thinking can do professional tasks, but I'm not so sure if that's fully accurate.",
+      "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-10T01:15:45+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "This new Claude Code Review tool uses AI agents to check your pull requests for bugs - here's how",
-      "descrizione": "Each pull request can cost up to $25. Here's why companies might still pay to prevent catastrophic bugs.",
-      "link": "https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/",
-      "fonte": "Latest news",
-      "data": "2026-03-09T19:00:44+00:00",
+      "titolo": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+      "descrizione": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+      "fonte": "WIRED",
+      "data": "2026-03-09T20:49:29+00:00",
       "modello": "claude"
     }
   ]
