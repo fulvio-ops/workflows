@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-10T07:09:35.036347+00:00",
+  "last_updated": "2026-03-10T13:38:41.782234+00:00",
   "items": [
     {
-      "titolo": "ChatGPT identifica le canzoni con Shazam: ecco come funziona",
-      "descrizione": "L'integrazione di Shazam su ChatGPT permette di riconoscere canzoni, creare playlist e salvare i brani senza uscire dall'app. The post ChatGPT identifica le canzoni con Shazam: ecco come funziona appeared first on Punto",
-      "link": "https://www.punto-informatico.it/chatgpt-identifica-canzoni-shazam-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-10T06:04:25+00:00",
+      "titolo": "I wrote off ChatGPT's voice mode, then found 7 ways it's genuinely useful",
+      "descrizione": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now. Spoiler: It is.",
+      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+      "fonte": "Latest news",
+      "data": "2026-03-10T13:11:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot Cowork: Claude Cowork in Microsoft 365",
-      "descrizione": "Copilot Cowork è la versione Microsoft di Claude Cowork che permette di eseguire diversi compiti lavorativi sfruttando le capacità agentiche. The post Copilot Cowork: Claude Cowork in Microsoft 365 appeared first on Punt",
-      "link": "https://www.punto-informatico.it/copilot-cowork-claude-cowork-microsoft-365/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-09T17:54:03+00:00",
+      "titolo": "Microsoft 365, arrivano tante nuove feature incentrate su Copilot",
+      "descrizione": "In distribuzione (per ora solo in inglese).",
+      "link": "https://www.hdblog.it/microsoft/articoli/n651083/microsoft-365-wave-3-novita-copilot-ai-word-excel/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-10T12:05:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "L’intelligenza artificiale ha già imparato a realizzare ottime presentazioni",
-      "descrizione": "Strumenti come Gamma, Gemini, Beautiful.ai e Canva stanno trasformando la creazione delle presentazioni da lavoro artigianale a processo automatizzato",
-      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-ha-gia-imparato-realizzare-ottime-presentazioni-AINmfMXB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-01T18:27:28+00:00",
+      "titolo": "Gemini cambia Workspace: cosa puoi fare ora con l’AI",
+      "descrizione": "Google introduce nuove funzionalità di Gemini nelle app Workspace: Documenti, Fogli, Presentazioni e Drive, tutto inizia con un prompt. The post Gemini cambia Workspace: cosa puoi fare ora con l’AI appeared first on Punt",
+      "link": "https://www.punto-informatico.it/gemini-cambia-workspace-cosa-puoi-fare-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-10T13:00:12+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic fa causa al Pentagono per il bando sulla sicurezza nazionale",
-      "descrizione": "Anthropic fa causa al governo USA accusando l'amministrazione Trump di averla illegalmente punita per le sue posizioni sulla sicurezza dell'AI. The post Anthropic fa causa al Pentagono per il bando sulla sicurezza nazion",
-      "link": "https://www.punto-informatico.it/anthropic-fa-causa-pentagono-bando-sicurezza-nazionale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-10T05:45:51+00:00",
+      "titolo": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+      "descrizione": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+      "fonte": "WIRED",
+      "data": "2026-03-09T20:49:29+00:00",
       "modello": "claude"
     }
   ]
