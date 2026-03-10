@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-10T03:07:27.744056+00:00",
+  "last_updated": "2026-03-10T07:09:35.036347+00:00",
   "items": [
     {
-      "titolo": "I tried GPT-5.4, and most answers were really good - but a few had me concerned",
-      "descrizione": "OpenAI claims that GPT-5.4 Thinking can do professional tasks, but I'm not so sure if that's fully accurate.",
-      "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
-      "fonte": "Latest news",
-      "data": "2026-03-10T01:15:45+00:00",
+      "titolo": "ChatGPT identifica le canzoni con Shazam: ecco come funziona",
+      "descrizione": "L'integrazione di Shazam su ChatGPT permette di riconoscere canzoni, creare playlist e salvare i brani senza uscire dall'app. The post ChatGPT identifica le canzoni con Shazam: ecco come funziona appeared first on Punto",
+      "link": "https://www.punto-informatico.it/chatgpt-identifica-canzoni-shazam-come-funziona/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-10T06:04:25+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-      "descrizione": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
-      "fonte": "WIRED",
-      "data": "2026-03-09T20:49:29+00:00",
+      "titolo": "Anthropic fa causa al Pentagono per il bando sulla sicurezza nazionale",
+      "descrizione": "Anthropic fa causa al governo USA accusando l'amministrazione Trump di averla illegalmente punita per le sue posizioni sulla sicurezza dell'AI. The post Anthropic fa causa al Pentagono per il bando sulla sicurezza nazion",
+      "link": "https://www.punto-informatico.it/anthropic-fa-causa-pentagono-bando-sicurezza-nazionale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-10T05:45:51+00:00",
       "modello": "claude"
     }
   ]
