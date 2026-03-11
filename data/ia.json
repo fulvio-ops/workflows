@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-11T07:12:25.053383+00:00",
+  "last_updated": "2026-03-11T13:39:10.574997+00:00",
   "items": [
     {
-      "titolo": "ChatGPT spiega matematica e scienze con grafici interattivi",
-      "descrizione": "Su ChatGPT arrivano le spiegazioni visive dinamiche per argomenti di matematica e scienze. È possibile manipolare variabili e vedere i risultati. The post ChatGPT spiega matematica e scienze con grafici interattivi appea",
-      "link": "https://www.punto-informatico.it/chatgpt-spiega-matematica-scienze-grafici-interattivi/",
+      "titolo": "Canal+ scommette sull’AI per i contenuti destinati a TV e streaming",
+      "descrizione": "Canal+ ha siglato una partnership con Google Cloud e OpenAI per sfruttare l’AI nella produzione di contenuti e nella gestione del catalogo. The post Canal+ scommette sull’AI per i contenuti destinati a TV e streaming app",
+      "link": "https://www.punto-informatico.it/canal-plus-ai-contenuti-tv-streaming/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-11T05:43:22+00:00",
+      "data": "2026-03-11T12:40:13+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft AI Tour a Milano: Copilot Wave 3 e altre novità",
-      "descrizione": "Microsoft punta su nuovi agenti AI e strumenti per creare assistenti personalizzati: le novità presentate durante l'AI Tour di Milano. The post Microsoft AI Tour a Milano: Copilot Wave 3 e altre novità appeared first on",
-      "link": "https://www.punto-informatico.it/microsoft-ai-tour-milano-copilot-wave-3-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-11T07:06:21+00:00",
+      "titolo": "Microsoft accelera sull’AI agentica: tutte le novità di 365 Copilot",
+      "descrizione": "Secondo il gigante di Redmond un’adozione dell’IA può generare un incremento annuale del Pil italiano del 18% al 2040, un valore aggiunto pari a 336 miliardi di euro all’anno",
+      "link": "https://www.ilsole24ore.com/art/microsoft-accelera-sull-ai-agentica-tutte-novita-365-copilot-AI8jHlsB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-10T18:18:01+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Il Pentagono punta su Gemini: Google introduce gli agenti AI",
-      "descrizione": "Google introduce agenti AI Gemini al Pentagono per automatizzare attività operative.",
-      "link": "https://www.hdblog.it/mercato/articoli/n651152/google-gemini-pentagono-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-11T05:35:00+00:00",
+      "titolo": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
+      "descrizione": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
+      "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
+      "fonte": "WIRED",
+      "data": "2026-03-10T13:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
-      "descrizione": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-      "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+      "titolo": "Inside OpenAI’s Race to Catch Up to Claude Code",
+      "descrizione": "Why is the biggest name in AI late to the AI coding revolution?",
+      "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
       "fonte": "WIRED",
-      "data": "2026-03-11T01:41:42+00:00",
+      "data": "2026-03-11T10:00:00+00:00",
       "modello": "claude"
     }
   ]
