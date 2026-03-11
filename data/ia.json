@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-11T03:06:22.613973+00:00",
+  "last_updated": "2026-03-11T07:12:25.053383+00:00",
   "items": [
     {
-      "titolo": "7 surprisingly useful ways to use ChatGPT's voice mode, from a former skeptic",
-      "descrizione": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now.",
-      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
-      "fonte": "Latest news",
-      "data": "2026-03-11T00:00:36+00:00",
+      "titolo": "ChatGPT spiega matematica e scienze con grafici interattivi",
+      "descrizione": "Su ChatGPT arrivano le spiegazioni visive dinamiche per argomenti di matematica e scienze. È possibile manipolare variabili e vedere i risultati. The post ChatGPT spiega matematica e scienze con grafici interattivi appea",
+      "link": "https://www.punto-informatico.it/chatgpt-spiega-matematica-scienze-grafici-interattivi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-11T05:43:22+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft accelera sull’AI agentica: tutte le novità di 365 Copilot",
-      "descrizione": "Secondo il gigante di Redmond un’adozione dell’IA può generare un incremento annuale del Pil italiano del 18% al 2040, un valore aggiunto pari a 336 miliardi di euro all’anno",
-      "link": "https://www.ilsole24ore.com/art/microsoft-accelera-sull-ai-agentica-tutte-novita-365-copilot-AI8jHlsB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-10T18:18:01+00:00",
+      "titolo": "Microsoft AI Tour a Milano: Copilot Wave 3 e altre novità",
+      "descrizione": "Microsoft punta su nuovi agenti AI e strumenti per creare assistenti personalizzati: le novità presentate durante l'AI Tour di Milano. The post Microsoft AI Tour a Milano: Copilot Wave 3 e altre novità appeared first on",
+      "link": "https://www.punto-informatico.it/microsoft-ai-tour-milano-copilot-wave-3-novita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-11T07:06:21+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini can now use your Drive and emails to build spreadsheets, slides and more",
-      "descrizione": "Gemini can access relevant information from your other sources to give personalized help.",
-      "link": "https://www.zdnet.com/article/google-gemini-drive-sheets-docs-slides/",
-      "fonte": "Latest news",
-      "data": "2026-03-10T16:22:51+00:00",
+      "titolo": "Il Pentagono punta su Gemini: Google introduce gli agenti AI",
+      "descrizione": "Google introduce agenti AI Gemini al Pentagono per automatizzare attività operative.",
+      "link": "https://www.hdblog.it/mercato/articoli/n651152/google-gemini-pentagono-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-11T05:35:00+00:00",
       "modello": "gemini"
     },
     {
