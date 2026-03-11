@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-11T13:39:10.574997+00:00",
+  "last_updated": "2026-03-11T19:11:20.788303+00:00",
   "items": [
     {
-      "titolo": "Canal+ scommette sull’AI per i contenuti destinati a TV e streaming",
-      "descrizione": "Canal+ ha siglato una partnership con Google Cloud e OpenAI per sfruttare l’AI nella produzione di contenuti e nella gestione del catalogo. The post Canal+ scommette sull’AI per i contenuti destinati a TV e streaming app",
-      "link": "https://www.punto-informatico.it/canal-plus-ai-contenuti-tv-streaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-11T12:40:13+00:00",
+      "titolo": "OpenClaw AI agent craze sweeps China as authorities seek to clamp down amid security fears — adoption surges as state-run enterprises are barred from use",
+      "descrizione": "Following rampant and rapid adoption and proliferation of the agentic AI tool OpenClaw, Chinese authorities have warned government-run institutions and companies not to install the tool — and warned everyone about its po",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-ai-agent-craze-sweeps-china-as-authorities-seek-to-clamp-down-amid-security-fears-adoption-surges-as-state-run-enterprises-are-barred-from-use",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-11T18:04:09+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,28 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
-      "descrizione": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-      "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-      "fonte": "WIRED",
-      "data": "2026-03-10T13:00:00+00:00",
+      "titolo": "7 metafore ispirate agli animali per prompt AI più efficaci",
+      "descrizione": "Ecco sette prompt ispirati agli animali per ottenere risposte più creative, profonde e strutturate da ChatGPT, Claude e Gemini. The post 7 metafore ispirate agli animali per prompt AI più efficaci appeared first on Punto",
+      "link": "https://www.punto-informatico.it/7-metafore-ispirate-animali-prompt-ai-piu-efficaci/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-11T16:30:17+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Inside OpenAI’s Race to Catch Up to Claude Code",
-      "descrizione": "Why is the biggest name in AI late to the AI coding revolution?",
-      "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "titolo": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "descrizione": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
       "fonte": "WIRED",
-      "data": "2026-03-11T10:00:00+00:00",
+      "data": "2026-03-11T18:00:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "descrizione": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+      "fonte": "WIRED",
+      "data": "2026-03-11T18:00:00+00:00",
+      "modello": "altri"
     }
   ]
 }
