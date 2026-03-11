@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-10T19:09:45.525641+00:00",
+  "last_updated": "2026-03-11T03:06:22.613973+00:00",
   "items": [
     {
-      "titolo": "Oracle and OpenAI's Abilene expansion saga detailed: 600MW expansion gets scrapped, as larger 4.5GW agreement remains on track",
-      "descrizione": "Oracle and OpenAI dropped plans to expand their flagship Stargate campus in Abilene, Texas, beyond its committed 1.2-gigawatt build earlier this month.",
-      "link": "https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-10T16:39:41+00:00",
+      "titolo": "7 surprisingly useful ways to use ChatGPT's voice mode, from a former skeptic",
+      "descrizione": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now.",
+      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+      "fonte": "Latest news",
+      "data": "2026-03-11T00:00:36+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Chi rischia il posto di lavoro per l'AI (e chi è al sicuro) secondo Anthropic",
-      "descrizione": "La società saprà adattarsi? Deve, per forza.",
-      "link": "https://www.hdblog.it/business/articoli/n651114/posto-lavoro-ai-rischi-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-10T16:45:00+00:00",
+      "titolo": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "descrizione": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
+      "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+      "fonte": "WIRED",
+      "data": "2026-03-11T01:41:42+00:00",
       "modello": "claude"
     }
   ]

@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-10T19:09:42.298977+00:00",
+  "last_updated": "2026-03-11T03:06:17.986243+00:00",
   "items": [
+    {
+      "titolo": "Watch this, get rich, lose it all - 8 ways to spot and avoid investment scams on Meta",
+      "descrizione": "This sophisticated investment scam is spread via paid Meta ads and fake news stories. Here's what to look for.",
+      "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
+      "fonte": "Latest news",
+      "data": "2026-03-11T01:00:49+00:00"
+    },
+    {
+      "titolo": "Come risparmiare su luce e gas? Bloccando il prezzo per un anno",
+      "descrizione": "Con Octopus Energy ti proteggi dalle fluttuazioni del mercato e mantieni il prezzo di luce e gas fisso per un anno, per bollette più leggere. The post Come risparmiare su luce e gas? Bloccando il prezzo per un anno appea",
+      "link": "https://www.punto-informatico.it/come-risparmiare-su-luce-e-gas-bloccando-il-prezzo-per-un-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-10T20:30:05+00:00"
+    },
+    {
+      "titolo": "How to free up your iPhone storage almost immediately - 8 easy ways",
+      "descrizione": "Running out of iPhone space? Don't panic-buy a new phone or more iCloud. Here's how to free up space fast.",
+      "link": "https://www.zdnet.com/article/how-to-get-more-iphone-storage-for-free/",
+      "fonte": "Latest news",
+      "data": "2026-03-10T20:19:00+00:00"
+    },
+    {
+      "titolo": "Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS",
+      "descrizione": "The defense secretary has made clear that Pentagon managers are to encourage workers, including civilians, to volunteer to assist in the administration’s immigration crackdown.",
+      "link": "https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/",
+      "fonte": "WIRED",
+      "data": "2026-03-10T20:06:45+00:00"
+    },
+    {
+      "titolo": "In Cina entra in funzione il maxi impianto che immagazzina energia nell’aria",
+      "descrizione": "In Cina avviato il più grande impianto di accumulo energetico ad aria compressa.",
+      "link": "https://www.hdblog.it/green/articoli/n650840/cina-centrale-aria-compressa-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-10T18:32:00+00:00"
+    },
+    {
+      "titolo": "HBO Max estende le misure contro la condivisione impropria dell'account",
+      "descrizione": "La misura era stata lanciata già negli USA negli scorsi mesi.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n651020/hbo-max-stop-condivisione-password-mondo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-10T18:31:00+00:00"
+    },
     {
       "titolo": "Microsoft accelera sull’AI agentica: tutte le novità di 365 Copilot",
       "descrizione": "Secondo il gigante di Redmond un’adozione dell’IA può generare un incremento annuale del Pil italiano del 18% al 2040, un valore aggiunto pari a 336 miliardi di euro all’anno",
@@ -126,48 +168,6 @@
       "link": "https://www.zdnet.com/article/microsoft-introduces-agent-365/",
       "fonte": "Latest news",
       "data": "2026-03-10T16:23:00+00:00"
-    },
-    {
-      "titolo": "Photoshop cambia con l’AI: arriva l’assistente che modifica le foto",
-      "descrizione": "Adobe aggiorna Photoshop e Firefly con nuovi strumenti AI per creare e modificare immagini.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651115/adobe-photoshop-ai-assistant-firefly-editor/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-10T16:15:00+00:00"
-    },
-    {
-      "titolo": "Siti e chatbot per adulti vietati ai minori in Australia",
-      "descrizione": "Gli utenti australiani devono dimostrare di avere almeno 18 anni per accedere a siti, chatbot e giochi che mostrano contenuti per adulti. The post Siti e chatbot per adulti vietati ai minori in Australia appeared first o",
-      "link": "https://www.punto-informatico.it/siti-chatbot-adulti-vietati-minori-australia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-10T15:58:31+00:00"
-    },
-    {
-      "titolo": "La Super App di Poste Italiane fa registrare un nuovo record",
-      "descrizione": "La strategia digitale di Poste Italiane funziona: la Super App raggiunge i 4 milioni di utenti al giorno e migliora il lavoro negli uffici. The post La Super App di Poste Italiane fa registrare un nuovo record appeared f",
-      "link": "https://www.punto-informatico.it/super-app-poste-italiane-nuovo-record/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-10T15:52:32+00:00"
-    },
-    {
-      "titolo": "Nuova schiuma con struttura 3D: protezione dagli urti 10 volte superiore",
-      "descrizione": "Una nuova schiuma con struttura stampata in 3D assorbe fino a 10 volte più energia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650958/super-schiuma-stampa-3d-urti/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-10T15:50:00+00:00"
-    },
-    {
-      "titolo": "AMI Labs e la nuova sfida dell’AI: insegnare alle macchine a capire il mondo",
-      "descrizione": "Il recente finanziamento da 1,03 miliardi di dollari raccolto da AMI Labs , la startup fondata da Yann LeCun, è molto più di una notizia di mercato. È una dichiarazione d’intenti,...",
-      "link": "https://www.ilsole24ore.com/art/ami-labs-e-nuova-sfida-dell-ai-insegnare-macchine-capire-mondo-AIdcJXsB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-10T15:49:00+00:00"
-    },
-    {
-      "titolo": "Meta valuta un mega data center AI in Texas lasciato da OpenAI",
-      "descrizione": "OpenAI e Oracle frenano l’espansione in Texas, Meta valuta il subentro.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n650957/meta-data-center-ai-texas-openai-oracle-stargate/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-10T15:40:00+00:00"
     }
   ]
 }
