@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-12T13:37:11.131672+00:00",
+  "last_updated": "2026-03-12T19:12:43.678051+00:00",
   "items": [
     {
-      "titolo": "Why Moltbook and OpenClaw are the fool's gold in our AI boom",
-      "descrizione": "Commentary: Whatever Meta and OpenAI paid, it was too much. Other, better programs can do the same jobs.",
-      "link": "https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/",
+      "titolo": "Why you probably shouldn't tell a chatbot everything about your health",
+      "descrizione": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to a doctor.",
+      "link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
       "fonte": "Latest news",
-      "data": "2026-03-12T11:00:48+00:00",
+      "data": "2026-03-12T13:45:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft accelera sull’AI agentica: tutte le novità di 365 Copilot",
-      "descrizione": "Secondo il gigante di Redmond un’adozione dell’IA può generare un incremento annuale del Pil italiano del 18% al 2040, un valore aggiunto pari a 336 miliardi di euro all’anno",
-      "link": "https://www.ilsole24ore.com/art/microsoft-accelera-sull-ai-agentica-tutte-novita-365-copilot-AI8jHlsB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-10T18:18:01+00:00",
+      "titolo": "Microsoft Copilot Health: tool che comprende i dati medici",
+      "descrizione": "Copilot Health è il nuovo tool AI di Microsoft che permette di comprendere i risultati medici e ottenere suggerimenti sulla salute (solo negli USA). The post Microsoft Copilot Health: tool che comprende i dati medici app",
+      "link": "https://www.punto-informatico.it/microsoft-copilot-health-tool-comprende-dati-medici/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-12T17:32:08+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Maps tutto nuovo con Gemini, mappe 3D e altre novità",
-      "descrizione": "Conversazioni con l'AI attraverso Ask Maps e Immersive Navigation con le mappe 3D: cosa cambia con l'arrivo di Gemini in Google Maps. The post Google Maps tutto nuovo con Gemini, mappe 3D e altre novità appeared first on",
-      "link": "https://www.punto-informatico.it/google-maps-nuovo-gemini-mappe-3d/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T13:15:53+00:00",
+      "titolo": "Google Is Not Ruling Out Ads in Gemini",
+      "descrizione": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+      "fonte": "WIRED",
+      "data": "2026-03-12T18:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Iliad down: problemi in tutta Italia | Risolto",
-      "descrizione": "Dopo Claude oggi è il turno di iliad: le segnalazioni di malfunzionamento della rete sono in sensibile aumento, così come confermano i dati pubblicati su downdetector. Le...",
-      "link": "https://www.hdblog.it/iliad/articoli/n651435/iliad-down-cosa-succede/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T11:14:00+00:00",
+      "titolo": "I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
+      "descrizione": "Un'indagine rivela che 8 chatbot su 10 hanno assistito finti teenager nella pianificazione di attacchi violenti. Solo Claude si è rifiutato. The post I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
+      "link": "https://www.punto-informatico.it/chatbot-aiutano-adolescenti-pianificare-stragi-solo-claude-no/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-12T17:27:53+00:00",
       "modello": "claude"
     },
     {
