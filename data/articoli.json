@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-11T19:11:17.437421+00:00",
+  "last_updated": "2026-03-12T03:12:32.297663+00:00",
   "items": [
+    {
+      "titolo": "Microsoft confirms next-gen Xbox, codenamed Project Helix, will be powered by custom AMD SoC and feature 'FSR Diamond' — 'Xbox Mode' is also coming to Windows 11",
+      "descrizione": "The first official hardware details for Project Helix have been confirmed and Microsoft seems to be heavily leaning toward neural rendering, going as far as to unveil the next-gen FSR \"Diamond\" stack. Along with the AMD",
+      "link": "https://www.tomshardware.com/video-games/xbox/microsoft-confirms-next-gen-xbox-codenamed-project-helix-will-be-powered-by-custom-amd-soc-and-feature-fsr-diamond-next-gen-console-delivers-order-of-magnitude-leap-in-performance",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-11T22:59:49+00:00"
+    },
+    {
+      "titolo": "8 powerful apt commands every Linux user should know - or else you're missing out",
+      "descrizione": "The Debian/Ubuntu package manager isn't just for installing and removing software. There's more to Apt than you might know.",
+      "link": "https://www.zdnet.com/article/apt-package-manager-linux/",
+      "fonte": "Latest news",
+      "data": "2026-03-11T19:58:00+00:00"
+    },
+    {
+      "titolo": "US RAM crisis hits boiling point as AI mania wipes out all 32GB DDR5 kits under $359 — cheaper kits vanish from shelves within seconds of listing",
+      "descrizione": "Retailers have started selling 32GB DDR5 memory kits with a starting price of $359.99 in the U.S. market.",
+      "link": "https://www.tomshardware.com/pc-components/ram/us-ram-crisis-hits-boiling-point-as-ai-mania-wipes-out-all-32gb-ddr5-kits-under-usd359-cheaper-kits-vanish-from-shelves-within-seconds-of-listing",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-11T19:13:19+00:00"
+    },
+    {
+      "titolo": "Recensione Samsung Galaxy S26 Ultra: il Privacy Display fa la differenza?",
+      "descrizione": "Abbiamo messo le mani sul Galaxy S26 Ultra per oltre due settimane: il Privacy Display funziona molto bene e la Galaxy AI diventa proattiva anticipando i nostri desideri. Migliorano anche le foto, ma...",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n650772/recensione-samsung-galaxy-s26-ultra-test-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-11T18:47:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi presenta una nuova lavatrice smart da 10 kg (molto) economica",
+      "descrizione": "Tra le caratteristiche principali ci sono il cestello da 525 mm, il flusso d’acqua 3D e un sistema di riduzione delle vibrazioni",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n651222/lavatrice-xiaomi-smart-10-kg-mijia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-11T18:46:00+00:00"
+    },
+    {
+      "titolo": "Tecnologia Maya: filtravano l’acqua ma non evitarono il mercurio",
+      "descrizione": "I Maya purificavano l’acqua con sistemi avanzati, ma il mercurio li avvelenava.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n651150/maya-filtri-acqua-mercurio/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-11T18:45:00+00:00"
+    },
     {
       "titolo": "Iran Warns US Tech Firms Could Become Targets as War Expands",
       "descrizione": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
@@ -93,13 +135,6 @@
       "data": "2026-03-11T15:55:00+00:00"
     },
     {
-      "titolo": "8 powerful Apt commands I use to unlock hidden features - and why they're so handy",
-      "descrizione": "The Debian/Ubuntu package manager isn't just for installing and removing software. You'll find there are some other tricks up Apt's sleeve that you should know about.",
-      "link": "https://www.zdnet.com/article/apt-package-manager-linux/",
-      "fonte": "Latest news",
-      "data": "2026-03-11T15:47:00+00:00"
-    },
-    {
       "titolo": "BeatBanker: nuovo malware Android in falsa app Starlink",
       "descrizione": "BeatBanker è un malware Android nascosto in alcune app fasulle, come quella di Starlink, che può rubare credenziali, dati personali e criptovalute. The post BeatBanker: nuovo malware Android in falsa app Starlink appeare",
       "link": "https://www.punto-informatico.it/beatbanker-nuovo-malware-android-falsa-app-starlink/",
@@ -133,41 +168,6 @@
       "link": "https://www.hdmotori.it/ktm-4-anni-garanzia-moto-stradali/",
       "fonte": "HDblog.it",
       "data": "2026-03-11T15:30:05+00:00"
-    },
-    {
-      "titolo": "Google - Wiz, è fatta: completata l'acquisizione per la sicurezza di cloud e AI",
-      "descrizione": "32 miliardi di dollari.",
-      "link": "https://www.hdblog.it/google/articoli/n651297/google-cloud-wiz-ai-acquisizione-completata/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-11T15:25:00+00:00"
-    },
-    {
-      "titolo": "Iran threatens Nvidia, Microsoft, other tech companies with strikes over alleged attack on Tehran bank — says that economic centers and banks are now considered legitimate targets",
-      "descrizione": "Iranian media just released a list of potential economic targets, including offices and infrastructure of Nvidia, Google, Microsoft, Oracle, IBM, and more in the Middle East.",
-      "link": "https://www.tomshardware.com/tech-industry/iran-threatens-nvidia-microsoft-other-tech-companies-with-strikes-over-alleged-attack-on-tehran-bank-says-that-economic-centers-and-banks-are-now-considered-legitimate-targets",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-11T15:18:37+00:00"
-    },
-    {
-      "titolo": "Dell 15 in super sconto: il laptop a 449 euro per la Festa di Amazon",
-      "descrizione": "Processore Intel Core e display da 15,6 pollici per il laptop Dell 15 oggi in forte sconto su Amazon: tuo a un prezzo davvero stracciato. The post Dell 15 in super sconto: il laptop a 449 euro per la Festa di Amazon appe",
-      "link": "https://www.punto-informatico.it/dell-15-super-sconto-laptop-festa-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-11T15:17:40+00:00"
-    },
-    {
-      "titolo": "WhatsApp, arrivano gli account per preadolescenti gestiti dai genitori",
-      "descrizione": "La piattaforma di messaggistica di Meta introduce gli account gestiti da un genitore, una nuova modalità pensata per i preadolescenti. L’idea è semplice: permettere ai ragazzi di usare WhatsApp ma...",
-      "link": "https://www.ilsole24ore.com/art/whatsapp-arrivano-account-gestiti-preadolescenti-gestiti-genitori-AIeMKntB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-11T15:16:00+00:00"
-    },
-    {
-      "titolo": "Enel amplia la rete di ricarica con 3.730 punti in diverse regioni italiane",
-      "descrizione": "Terminate le installazioni previste dal primo bando del PNRR, Enel punta ora a circa 5.000 punti di ricarica in nove regioni.",
-      "link": "https://www.hdmotori.it/nuovi-punti-ricarica-rapida-enel/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-11T15:00:35+00:00"
     }
   ]
 }
