@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T13:34:45.414295+00:00",
+  "last_updated": "2026-03-13T19:02:21.985818+00:00",
   "items": [
     {
       "titolo": "La TV capisce chi la guarda: webOS di LG si adatta ai bambini",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "If you care about productivity, it's time you learn how to 'context-prompt' your Google Drive",
-      "descrizione": "Gemini can now access relevant information from your various sources to give personalized help.",
-      "link": "https://www.zdnet.com/article/google-gemini-drive-sheets-docs-slides/",
-      "fonte": "Latest news",
-      "data": "2026-03-13T11:05:00+00:00",
+      "titolo": "Google Is Not Ruling Out Ads in Gemini",
+      "descrizione": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+      "fonte": "WIRED",
+      "data": "2026-03-12T18:15:00+00:00",
       "modello": "gemini"
     },
     {
