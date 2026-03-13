@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-13T07:13:34.228916+00:00",
+  "last_updated": "2026-03-13T13:34:42.183267+00:00",
   "items": [
     {
-      "titolo": "Google Chrome arriva su Linux Arm tra aprile e giugno 2026",
-      "descrizione": "Chrome sbarca finalmente su Linux Arm. La mossa potrebbe anticipare l'arrivo di portatili Arm con Linux da Nvidia, Qualcomm e MediaTek. The post Google Chrome arriva su Linux Arm tra aprile e giugno 2026 appeared first o",
-      "link": "https://www.punto-informatico.it/google-chrome-linux-arm-aprile-giugno-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-13T06:03:18+00:00"
-    },
-    {
-      "titolo": "Claude genera grafici, diagrammi e interfacce interattive nella chat",
-      "descrizione": "Claude riconosce quando serve un elemento visivo e lo genera automaticamente: tavole periodiche interattive, grafici, diagrammi, ecc. The post Claude genera grafici, diagrammi e interfacce interattive nella chat appeared",
-      "link": "https://www.punto-informatico.it/claude-genera-grafici-diagrammi-e-interfacce-interattive-nella-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-13T05:37:07+00:00"
-    },
-    {
-      "titolo": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
-      "descrizione": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
-      "link": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T20:15:41+00:00"
-    },
-    {
-      "titolo": "AMD, Broadcom, and Nvidia join hyperscalers to define optical scale-up interconnect of the future for AI clusters — Meta, Microsoft, and OpenAI to benefit as speeds eventually scale to 3.2 Tb/s",
-      "descrizione": "AMD, Broadcom, and Nvidia team up with Microsoft, Meta, and OpenAI to develop protocol-agnostic optical scale-up interconnects for AI clusters.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-broadcom-and-nvidia-join-hyperscalers-to-define-optical-scale-up-interconnect-of-the-future-for-ai-clusters-meta-microsoft-and-openai-to-benefit-as-speeds-eventually-scale-to-3-2-tb-s",
+      "titolo": "Creality Sermoon P1 3D Scanner review: 3D scanning on the go",
+      "descrizione": "The Creality Sermoon P1 is a standalone 3D scanner that allows users to go through the entire scanning workflow without having to touch a computer. The 22 crossed laser line mode is surprisingly fast, and the single lase",
+      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-12T19:43:48+00:00"
+      "data": "2026-03-13T13:30:00+00:00"
     },
     {
-      "titolo": "RTX 5090 gets 12% gaming boost in Ubuntu 26.04, thanks to optimizations with Gnome 50 — latest popular distro update brings significant performance uplift for Nvidia's top GPU",
-      "descrizione": "Phoronix tested Ubuntu 26.04 on an RTX 5090 and RTX 5080 and found that the new version performs up to 12% better on the 5090 compared to Ubuntu 25.10.",
-      "link": "https://www.tomshardware.com/software/linux/rtx-5090-gets-12-percent-gaming-boost-in-ubuntu-26-04-thanks-to-optimizations-with-gnome-50-latest-popular-distro-update-brings-significant-performance-uplift-for-nvidias-top-gpu",
+      "titolo": "La TV capisce chi la guarda: webOS di LG si adatta ai bambini",
+      "descrizione": "LG punta su un'esperienza ottimizzata e più sicura per i bambini con webOS e AI: la piattaforma suggerisce contenuti adatti in base all'età. The post La TV capisce chi la guarda: webOS di LG si adatta ai bambini appeared",
+      "link": "https://www.punto-informatico.it/tv-webos-lg-si-adatta-ai-bambini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T13:15:06+00:00"
+    },
+    {
+      "titolo": "Iran conflict delays Meta’s 2Africa undersea cable project — cable layer declares force majeure, says it can no longer safely operate in the Persian Gulf",
+      "descrizione": "Meta is delaying work on the Pearls section of its Africa2 network after its contracted cable-layer, Alcatel Submarine Networks, declared force majeure due to the risk of getting hit during the Iran conflict.",
+      "link": "https://www.tomshardware.com/tech-industry/iran-conflict-delays-metas-2africa-undersea-cable-project-cable-layer-declares-force-majeure-says-it-can-no-longer-safely-operate-in-the-persian-gulf",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-12T18:09:10+00:00"
+      "data": "2026-03-13T13:14:11+00:00"
     },
     {
-      "titolo": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
-      "descrizione": "A bipartisan bill would force the FBI to get a warrant to read Americans’ messages and ban the federal purchase of commercial data on US residents ahead of a critical April deadline.",
-      "link": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T18:00:00+00:00"
-    },
-    {
-      "titolo": "Cornici digitali, ecco quella del futuro con le foto 3D",
-      "descrizione": "Le elabora l'intelligenza artificiale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651478/cornici-digitali-del-futuro-foto-3d/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T17:30:00+00:00"
-    },
-    {
-      "titolo": "HP Envy6520 scannerizza, copia e stampa anche da smartphone: soli 58€",
-      "descrizione": "stampante multifunzione Hp Envy 6520e è la stampante multifunzione ideale da avere a casa: il prezzo è un regalo Amazon. The post HP Envy6520 scannerizza, copia e stampa anche da smartphone: soli 58€ appeared first on Pu",
-      "link": "https://www.punto-informatico.it/hp-envy6520-scannerizza-copia-e-stampa-anche-da-smartphone-soli-58e/",
+      "titolo": "Chrome, Edge e Opera: scoperte due falle critiche, cosa fare",
+      "descrizione": "Due vulnerabilità zero-day colpiscono tutti i browser basati su Chromium, quindi Chrome, Edge e Opera. Google ha rilasciato la patch. The post Chrome, Edge e Opera: scoperte due falle critiche, cosa fare appeared first o",
+      "link": "https://www.punto-informatico.it/chrome-edge-opera-scoperte-falle-critiche-cosa-fare/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-12T17:29:43+00:00"
+      "data": "2026-03-13T13:14:00+00:00"
     },
     {
-      "titolo": "These Excellent Computer Speakers Are $100 Off",
-      "descrizione": "IK Multimedia's iLoud Micro Monitors are an excellent pick for anyone who works with audio and video, or just likes premium sound.",
-      "link": "https://www.wired.com/story/iloud-micro-monitor-deal-326/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T17:29:00+00:00"
-    },
-    {
-      "titolo": "I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
-      "descrizione": "Un'indagine rivela che 8 chatbot su 10 hanno assistito finti teenager nella pianificazione di attacchi violenti. Solo Claude si è rifiutato. The post I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
-      "link": "https://www.punto-informatico.it/chatbot-aiutano-adolescenti-pianificare-stragi-solo-claude-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T17:27:53+00:00"
-    },
-    {
-      "titolo": "China firm Lisuan's homegrown 6nm G100 series GPUs announced with up to 12GB of VRAM — LX 7G106 can play Cyberpunk 2077 and other popular Steam games, arrives June 18 in China",
-      "descrizione": "The G100 lineup from Lisuan Tech now has an official release date, with the LX G7106 being the gaming SKU with 12 GB of VRAM and a purported RTX 4060-like performance. The \"LX\" series of professional GPUs, likely using t",
-      "link": "https://www.tomshardware.com/pc-components/gpus/china-firm-lisuans-homegrown-6nm-g100-series-gpus-announced-with-up-to-12gb-of-vram-lx-7g106-can-play-cyberpunk-2077-and-other-popular-steam-games-arrives-june-18-in-china",
+      "titolo": "China's ByteDance to access 36,000 Blackwell GPU cluster through Malaysia cloud operator — Nvidia confirms no objections, deal is in line with US export controls",
+      "descrizione": "Nvidia says it is permissible for ByteDance to use AI clusters outside of China to develop its AI prowess as long as these clusters are built in compliance with the U.S. export controls.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/chinas-bytedance-to-access-36-000-blackwell-gpu-cluster-through-malaysia-cloud-operator-nvidia-confirms-no-objections-deal-is-in-line-with-us-export-controls",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-12T17:20:34+00:00"
+      "data": "2026-03-13T12:39:11+00:00"
     },
     {
-      "titolo": "Design ICONICO e batteria da 3gg per le Marshall Major IV: svendute a 39€",
-      "descrizione": "Le Marshall Major IV sono le cuffie Bluetooth da acquistare subito su Amazon: svendute in offerta di Primavera. The post Design ICONICO e batteria da 3gg per le Marshall Major IV: svendute a 39€ appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/design-iconico-e-batteria-da-3gg-per-le-marshall-major-iv-svendute-a-39e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T17:01:01+00:00"
-    },
-    {
-      "titolo": "Fukushima: nuovo robot per recuperare il combustibile nucleare",
-      "descrizione": "A Fukushima parte un nuovo test con robot per recuperare detriti nucleari dai reattori danneggiati.",
-      "link": "https://www.hdblog.it/green/articoli/n651323/fukushima-robot-combustibile-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T16:55:00+00:00"
-    },
-    {
-      "titolo": "SwitchBot Lock Ultra in offerta: serrature smart con riconoscimento facciale e impronta digitale",
-      "descrizione": "Le serrature smart SwitchBot Lock Ultra Vision Combo, Vision Pro Combo e Touch Combo sono in offerta durante gli Spring Sales. Prezzi scontati fino al 24% fino al 16 marzo.",
-      "link": "https://www.hdblog.it/amazon/offerte/n650953/switchbot-lock-ultra-offerta-serrature-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T16:30:00+00:00"
-    },
-    {
-      "titolo": "Il tuo prossimo monitor è Full HD, firmato HP e costa appena 55€ su Amazon",
-      "descrizione": "Il monitor da 22\" di HP è ideale per la tua scrivania a casa e in ufficio: prezzo irrisorio con le offerte di Primavera Amazon. The post Il tuo prossimo monitor è Full HD, firmato HP e costa appena 55€ su Amazon appeared",
-      "link": "https://www.punto-informatico.it/il-tuo-prossimo-monitor-e-full-hd-firmato-hp-e-costa-appena-55e-su-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T16:22:45+00:00"
-    },
-    {
-      "titolo": "Verifica età per under 13: avviso ai social media in UK",
-      "descrizione": "Due autorità del Regno Unito hanno ordinato a sei piattaforme di implementare un sistema efficace per la verifica dell'età entro il 30 aprile. The post Verifica età per under 13: avviso ai social media in UK appeared fir",
-      "link": "https://www.punto-informatico.it/verifica-eta-under-13-avviso-social-media-uk/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T16:20:37+00:00"
-    },
-    {
-      "titolo": "Chat Control: Parlamento europeo estende la deroga per il contrasto agli abusi online",
-      "descrizione": "Prorogata la sorveglianza volontaria dei contenuti: le nuove linee guida dell'Unione Europea",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n651484/chat-control-si-europa-estensione-privacy/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T16:20:00+00:00"
-    },
-    {
-      "titolo": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
-      "descrizione": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory state-sponsored cyberattacks.",
-      "link": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T16:14:39+00:00"
-    },
-    {
-      "titolo": "Amazon: la Procura di Milano va avanti sul caso fiscale da 1,2 miliardi",
-      "descrizione": "Procura di Milano, Amazon e quattro manager verso il processo per IVA.",
-      "link": "https://www.hdblog.it/amazon/articoli/n651486/amazon-processo-italia-evasione-iva/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T16:10:00+00:00"
-    },
-    {
-      "titolo": "Dopo 10 anni in Scozia il robot Valkyrie della NASA torna a casa",
-      "descrizione": "Il robot umanoide Valkyrie della NASA rientra negli USA dopo 10 anni di ricerca in Scozia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651321/robot-valkyrie-nasa-ritorno-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T15:45:00+00:00"
-    },
-    {
-      "titolo": "iPad Air con chip M4 a -100 euro: ecco l’offerta sul nuovo modello",
-      "descrizione": "Il nuovo iPad Air con chip M4 è già in sconto di 100 euro: non lasciarti sfuggire l'offerta di oggi, la trovi in esclusiva su Amazon. The post iPad Air con chip M4 a -100 euro: ecco l’offerta sul nuovo modello appeared f",
-      "link": "https://www.punto-informatico.it/ipad-air-chip-m4-offerta-nuovo-modello/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T15:42:34+00:00"
-    },
-    {
-      "titolo": "I chatbot AI forniscono consigli su sparatorie e omicidi",
-      "descrizione": "In base allo studio effettuato da CCDH e CNN, otto chatbot AI su dieci suggeriscono ai minorenni come pianificare sparatorie, attentati e omicidi. The post I chatbot AI forniscono consigli su sparatorie e omicidi appeare",
-      "link": "https://www.punto-informatico.it/chatbot-ai-forniscono-consigli-sparatorie-omicidi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T15:35:57+00:00"
-    },
-    {
-      "titolo": "Amazon, l'ombra dell'intelligenza artificiale sui recenti blackout",
-      "descrizione": "I disservizi sarebbero stati causati dall'AI e dai mancati controlli da parte dell'uomo.",
-      "link": "https://www.hdblog.it/amazon/articoli/n651470/amazon-blackout-ai-cosa-successo-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T15:35:00+00:00"
-    },
-    {
-      "titolo": "Netflix acquisisce con 600 mln InterPositive, startup Ai di Ben Affleck",
-      "descrizione": "La società ha lanciato uno tool di intellegenza artificiale utilizzabile nella post produzione dei film",
-      "link": "https://www.ilsole24ore.com/art/netflix-acquisisce-600-mln-interpositive-startup-di-ben-affleck-AIetGBvB",
+      "titolo": "Cybersecurity, con l’intelligenza artificiale +49% degli attacchi nel 2025",
+      "descrizione": "Il nuovo rapporto Clusit 2026 conferma la crescita dei cyber attacchi a livello globale ma anche in Italia",
+      "link": "https://www.ilsole24ore.com/art/cybersecurity-l-intelligenza-artificiale-49percento-attacchi-2025-AIE6zwvB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-12T15:28:46+00:00"
+      "data": "2026-03-13T12:38:05+00:00"
+    },
+    {
+      "titolo": "X corre ai ripari sulla spunta blu dopo la sanzione europea",
+      "descrizione": "Dopo la multa legata al Digital Services Act, la piattaforma X ha presentato alla Commissione Europea nuove soluzioni relative ai profili verificati. The post X corre ai ripari sulla spunta blu dopo la sanzione europea a",
+      "link": "https://www.punto-informatico.it/x-corre-ai-ripari-spunta-blu-dopo-sanzione-europea/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T12:36:11+00:00"
+    },
+    {
+      "titolo": "11-month old Russian outfit claims it has developed 16-core and 32-core processors, flaunts Cyrillic-badged processors — chips appear to be sanctions-swerving rebadged Chinese Loongson processors",
+      "descrizione": "Russia-based Tramplin Electronics obtains samples of Loongson's LS3C6000 processors with Cyrillic inscriptions, claims these are its own CPUs.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-13T12:33:08+00:00"
+    },
+    {
+      "titolo": "BMW Serie 7 2027: ecco il teaser restyling",
+      "descrizione": "Il teaser ufficiale anticipa un restyling che cambia tutto nell'elettronica, ma resta fedele al design attuale.",
+      "link": "https://www.hdmotori.it/bmw-serie-7-2027-teaser-restyling/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T12:30:41+00:00"
+    },
+    {
+      "titolo": "Get $399 of Corsair Vengeance RAM essentially free with a Ryzen 7 9850X3D and high-end X870E motherboard — Newegg bundle saves you $436 on the core of an overclockable AM5 build",
+      "descrizione": "Score on a great combo deal with AMD's Ryzen 7 9850X3D, Asus ROG Crosshair X870E Apex, 32GB Corsair DDR5-6400 RAM for $1,187.99 - it's $436 off retail, effectively making the RAM free.",
+      "link": "https://www.tomshardware.com/pc-components/get-usd399-of-corsair-vengeance-ram-essentially-free-with-a-ryzen-7-9850x3d-and-high-end-x870e-motherboard-newegg-bundle-saves-you-usd436-on-the-core-of-an-overclockable-am5-build",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-13T12:08:20+00:00"
+    },
+    {
+      "titolo": "Windows 11 25H2: ecco le novità in arrivo a fine mese",
+      "descrizione": "Microsoft ha rilasciato due nuove build preliminari per Windows 11 25H2/24H2 con diverse novità che verranno incluse nell'aggiornamento di fine mese. The post Windows 11 25H2: ecco le novità in arrivo a fine mese appeare",
+      "link": "https://www.punto-informatico.it/windows-11-25h2-novita-arrivo-fine-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T11:51:54+00:00"
+    },
+    {
+      "titolo": "Spaghetti che piangono e neonati di pasta, la nuova ossessione AI",
+      "descrizione": "TikTok e Instagram sono invasi da video AI con cibo antropomorfizzato che soffre mentre viene cucinato, e hanno milioni di visualizzazioni. The post Spaghetti che piangono e neonati di pasta, la nuova ossessione AI appea",
+      "link": "https://www.punto-informatico.it/spaghetti-piangono-neonati-pasta-nuova-ossessione-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T11:51:16+00:00"
+    },
+    {
+      "titolo": "Mouse Trust wireless SVENDUTO: neanche 6€ per farlo tuo su Amazon (-60%)",
+      "descrizione": "Trust Yvi+ è il mouse wireless da usare ovunque con clic silenziosi e autonomia da 12 mesi: prezzone su Amazon. The post Mouse Trust wireless SVENDUTO: neanche 6€ per farlo tuo su Amazon (-60%) appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/mouse-trust-wireless-svenduto-neanche-6e-per-farlo-tuo-su-amazon-60/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T11:49:15+00:00"
+    },
+    {
+      "titolo": "Arriva Huawei Mobile WiFi X, il modem portatile a forma di X con mega batteria",
+      "descrizione": "La X del nome è stata ripresa anche dal design del prodotto",
+      "link": "https://www.hdblog.it/hardware/articoli/n651581/huawei-mobile-wifi-x-design-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T11:35:00+00:00"
+    },
+    {
+      "titolo": "Mouse con meno di 20€ alle Offerte di Primavera su Amazon",
+      "descrizione": "Acquista il tuo mouse con meno di 20€ per migliorare la tua produttività e il tuo gioco: tante soluzioni a un prezzo conveniente su Amazon. The post Mouse con meno di 20€ alle Offerte di Primavera su Amazon appeared firs",
+      "link": "https://www.punto-informatico.it/mouse-con-meno-di-20e-alle-offerte-di-primavera-su-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T11:28:15+00:00"
+    },
+    {
+      "titolo": "Prezzi carburanti: gasolio a 2,1 euro in autostrada, benzina sopra 1,8 euro in tutta Italia",
+      "descrizione": "Gli ultimi dati fotografano un nuovo record. L’Unione Nazionale Consumatori tuona contro il governo e si rivolge all’Antitrust.",
+      "link": "https://www.hdmotori.it/prezzi-carburanti-gasolio-benzina/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T11:00:16+00:00"
+    },
+    {
+      "titolo": "Clamoroso: Pokémon Pokopia è in sconto su Amazon, edizione fisica Switch 2",
+      "descrizione": "Pokémon Pokopia arriva sulla tua Nintendo Switch 2 con un piccolo sconto su Amazon: approfittane subito e fallo tuo. The post Clamoroso: Pokémon Pokopia è in sconto su Amazon, edizione fisica Switch 2 appeared first on",
+      "link": "https://www.punto-informatico.it/clamoroso-pokemon-pokopia-e-in-sconto-su-amazon-edizione-fisica-switch-2/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T11:00:02+00:00"
+    },
+    {
+      "titolo": "Il banco di RAM fake è la cosa più triste che vedrai oggi",
+      "descrizione": "I banchi di RAM ormai costano così tanto che qualcuno ha iniziato a vendere moduli fake per riempire gli spazi vuoti nei case dei PC. The post Il banco di RAM fake è la cosa più triste che vedrai oggi appeared first on P",
+      "link": "https://www.punto-informatico.it/banco-ram-fake/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T10:56:41+00:00"
+    },
+    {
+      "titolo": "NVIDIA e Microsoft lavorano per standardizzare l'AI nei videogiochi",
+      "descrizione": "L'iniziativa dovrebbe migliorare drasticamente l'efficienza delle operazioni AI nella pipeline di rendering del motore di gioco, migliorando in ultimo le prestazioni.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n651576/nvidia-microsoft-directx-standard-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T10:55:00+00:00"
+    },
+    {
+      "titolo": "Finanziamento terroristi Iran: Binance denuncia WSJ",
+      "descrizione": "Binance ha denunciato il Wall Street Journal per la pubblicazione di un articolo diffamatorio sul finanziamento di terroristi iraniani con criptovalute. The post Finanziamento terroristi Iran: Binance denuncia WSJ appear",
+      "link": "https://www.punto-informatico.it/fintech/criptovalute/finanziamento-terroristi-iran-binance-denuncia-wsj/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T10:50:31+00:00"
+    },
+    {
+      "titolo": "Le migliori offerte tech di oggi alle Offerte di Primavera su Amazon",
+      "descrizione": "Le migliori offerte tech alle Offerte di Primavera su Amazon di oggi le abbiamo raggruppate in questo articolo da prendere al volo. The post Le migliori offerte tech di oggi alle Offerte di Primavera su Amazon appeared f",
+      "link": "https://www.punto-informatico.it/le-migliori-offerte-tech-di-oggi-alle-offerte-di-primavera-su-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T10:48:09+00:00"
+    },
+    {
+      "titolo": "Your Linux PC should never be running slow when this built-in diagnostic tool exists (for free)",
+      "descrizione": "If your Linux machine is taking its own sweet time to boot, you have a built-in tool to help you discover where the problem lies.",
+      "link": "https://www.zdnet.com/article/linux-boot-time-systemd-analyze/",
+      "fonte": "Latest news",
+      "data": "2026-03-13T10:48:00+00:00"
+    },
+    {
+      "titolo": "Cina: inaugurata la scala mobile urbana più lunga del pianeta",
+      "descrizione": "In Cina apre una scala mobile lunga 905 metri che riduce un’ora di salita a 20 minuti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n651325/scala-mobile-piu-lunga-mondo-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T10:45:00+00:00"
+    },
+    {
+      "titolo": "Apple taglia le commissioni di App Store in Cina, senza troppe lamentele",
+      "descrizione": "Un calo tutto sommato contenuto",
+      "link": "https://www.hdblog.it/apple/articoli/n651568/apple-commissioni-app-store-cina-ridotte/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-13T10:35:00+00:00"
     }
   ]
 }
