@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T03:09:22.559080+00:00",
+  "last_updated": "2026-03-13T07:13:38.519762+00:00",
   "items": [
     {
       "titolo": "Can you trust AI with your medical history? I asked a doctor to weigh in",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "descrizione": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T19:48:21+00:00",
+      "titolo": "Claude genera grafici, diagrammi e interfacce interattive nella chat",
+      "descrizione": "Claude riconosce quando serve un elemento visivo e lo genera automaticamente: tavole periodiche interattive, grafici, diagrammi, ecc. The post Claude genera grafici, diagrammi e interfacce interattive nella chat appeared",
+      "link": "https://www.punto-informatico.it/claude-genera-grafici-diagrammi-e-interfacce-interattive-nella-chat/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T05:37:07+00:00",
       "modello": "claude"
     },
     {
