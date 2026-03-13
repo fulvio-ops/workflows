@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-12T19:12:40.628423+00:00",
+  "last_updated": "2026-03-13T03:09:19.103035+00:00",
   "items": [
+    {
+      "titolo": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
+      "descrizione": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
+      "link": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
+      "fonte": "WIRED",
+      "data": "2026-03-12T20:15:41+00:00"
+    },
+    {
+      "titolo": "AMD, Broadcom, and Nvidia join hyperscalers to define optical scale-up interconnect of the future for AI clusters — Meta, Microsoft, and OpenAI to benefit as speeds eventually scale to 3.2 Tb/s",
+      "descrizione": "AMD, Broadcom, and Nvidia team up with Microsoft, Meta, and OpenAI to develop protocol-agnostic optical scale-up interconnects for AI clusters.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-broadcom-and-nvidia-join-hyperscalers-to-define-optical-scale-up-interconnect-of-the-future-for-ai-clusters-meta-microsoft-and-openai-to-benefit-as-speeds-eventually-scale-to-3-2-tb-s",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-12T19:43:48+00:00"
+    },
     {
       "titolo": "RTX 5090 gets 12% gaming boost in Ubuntu 26.04, thanks to optimizations with Gnome 50 — latest popular distro update brings significant performance uplift for Nvidia's top GPU",
       "descrizione": "Phoronix tested Ubuntu 26.04 on an RTX 5090 and RTX 5080 and found that the new version performs up to 12% better on the 5090 compared to Ubuntu 25.10.",
@@ -154,20 +168,6 @@
       "link": "https://www.hdblog.it/apple/articoli/n651460/hello-apple-nuovo-account-instagram/",
       "fonte": "HDblog.it",
       "data": "2026-03-12T15:10:00+00:00"
-    },
-    {
-      "titolo": "Nissan, Uber e Wayve: la sperimentazione dei Robotaxi parte da Tokyo",
-      "descrizione": "Prima partnership tra Nissan, Wayve, partner tecnologico per l’AI, e Uber per l’introduzione in Giappone di veicoli a guida autonoma",
-      "link": "https://www.hdmotori.it/nissan-wayve-uber-robotaxi-tokyo-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-12T15:00:41+00:00"
-    },
-    {
-      "titolo": "Dalla lettera di Tim Cook per i (primi) 50 anni di Apple",
-      "descrizione": "L'1 aprile, Apple festeggerà mezzo secolo di storia: il CEO Tim Cook ha aperto le celebrazioni con una lettera che cita anche Steve Jobs. The post Dalla lettera di Tim Cook per i (primi) 50 anni di Apple appeared first o",
-      "link": "https://www.punto-informatico.it/lettera-tim-cook-50-anni-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T14:59:23+00:00"
     }
   ]
 }

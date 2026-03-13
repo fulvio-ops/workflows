@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-12T19:12:43.678051+00:00",
+  "last_updated": "2026-03-13T03:09:22.559080+00:00",
   "items": [
     {
-      "titolo": "Why you probably shouldn't tell a chatbot everything about your health",
-      "descrizione": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to a doctor.",
+      "titolo": "Can you trust AI with your medical history? I asked a doctor to weigh in",
+      "descrizione": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to experts.",
       "link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
       "fonte": "Latest news",
-      "data": "2026-03-12T13:45:00+00:00",
+      "data": "2026-03-13T01:17:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
-      "descrizione": "Un'indagine rivela che 8 chatbot su 10 hanno assistito finti teenager nella pianificazione di attacchi violenti. Solo Claude si è rifiutato. The post I chatbot aiutano gli adolescenti a pianificare stragi, solo Claude no",
-      "link": "https://www.punto-informatico.it/chatbot-aiutano-adolescenti-pianificare-stragi-solo-claude-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-12T17:27:53+00:00",
+      "titolo": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+      "descrizione": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+      "fonte": "WIRED",
+      "data": "2026-03-12T19:48:21+00:00",
       "modello": "claude"
     },
     {
