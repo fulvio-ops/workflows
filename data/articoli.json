@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-14T03:07:26.379251+00:00",
+  "last_updated": "2026-03-14T07:07:14.455943+00:00",
   "items": [
+    {
+      "titolo": "Gruppo BMW: nel 2025 stabili le vendite, scendono ricavi e utile",
+      "descrizione": "Nonostante i dazi statunitensi e la pressione della concorrenza cinese, il Gruppo BMW limita i danni puntando sulla strategia multienergy.",
+      "link": "https://www.hdmotori.it/gruppo-bmw-2025-vendite-ricavi-utile/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-14T06:00:50+00:00"
+    },
+    {
+      "titolo": "Coleman Promo Codes and Deals: Up to 30% Off in March",
+      "descrizione": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
+      "link": "https://www.wired.com/story/coleman-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-03-14T05:00:00+00:00"
+    },
     {
       "titolo": "Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck — Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper",
       "descrizione": "AMD, Nvidia, Microsoft, Broadcom, and Meta have formed an Optical Compute Interconnect Multi-Source Agreement (OCI MSA) to develop a standardized optical interconnect for AI data centers, with the aspiration to build a P",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/tv-webos-lg-si-adatta-ai-bambini/",
       "fonte": "Punto Informatico",
       "data": "2026-03-13T13:15:06+00:00"
-    },
-    {
-      "titolo": "Iran conflict delays Meta’s 2Africa undersea cable project — cable layer declares force majeure, says it can no longer safely operate in the Persian Gulf",
-      "descrizione": "Meta is delaying work on the Pearls section of its Africa2 network after its contracted cable-layer, Alcatel Submarine Networks, declared force majeure due to the risk of getting hit during the Iran conflict.",
-      "link": "https://www.tomshardware.com/tech-industry/iran-conflict-delays-metas-2africa-undersea-cable-project-cable-layer-declares-force-majeure-says-it-can-no-longer-safely-operate-in-the-persian-gulf",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-13T13:14:11+00:00"
-    },
-    {
-      "titolo": "Chrome, Edge e Opera: scoperte due falle critiche, cosa fare",
-      "descrizione": "Due vulnerabilità zero-day colpiscono tutti i browser basati su Chromium, quindi Chrome, Edge e Opera. Google ha rilasciato la patch. The post Chrome, Edge e Opera: scoperte due falle critiche, cosa fare appeared first o",
-      "link": "https://www.punto-informatico.it/chrome-edge-opera-scoperte-falle-critiche-cosa-fare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-13T13:14:00+00:00"
     }
   ]
 }
