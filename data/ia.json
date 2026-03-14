@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-14T07:07:18.208087+00:00",
+  "last_updated": "2026-03-14T13:15:20.419287+00:00",
   "items": [
     {
-      "titolo": "Android 17 Beta 2 \"blinda\" ancora di più le API di accessibilità",
-      "descrizione": "Quando la modalità Advanced Protection è attiva, solo le \"vere\" app di accessibilità possono accedere alle API.",
-      "link": "https://www.hdblog.it/google/articoli/n651649/android-17-api-accessibilita-advanced-protection/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-13T18:10:00+00:00",
+      "titolo": "I thought ChatGPT's voice mode was a gimmick - these 7 use cases changed my mind",
+      "descrizione": "Voice Mode fabricated answers the last time I used it, but a revisit revealed that it's actually useful now.",
+      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+      "fonte": "Latest news",
+      "data": "2026-03-14T10:30:48+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Copilot AI su Xbox Series X e S entro il 2026",
+      "descrizione": "Microsoft prepara l’arrivo di Copilot AI sulle console Xbox Series X e S entro il 2026.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n651667/copilot-ai-xbox-series-x-s/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-14T08:40:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Google Is Not Ruling Out Ads in Gemini",
@@ -24,14 +32,6 @@
       "fonte": "WIRED",
       "data": "2026-03-13T10:00:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-      "descrizione": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-      "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-      "fonte": "WIRED",
-      "data": "2026-03-11T18:00:00+00:00",
-      "modello": "altri"
     }
   ]
 }
