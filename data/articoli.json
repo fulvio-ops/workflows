@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T19:02:18.977269+00:00",
+  "last_updated": "2026-03-14T03:07:26.379251+00:00",
   "items": [
     {
       "titolo": "Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck — Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper",
@@ -128,27 +128,6 @@
       "data": "2026-03-13T15:18:35+00:00"
     },
     {
-      "titolo": "TV HiSense mostrano la pubblicità quando si cambia canale: lamentele degli utenti",
-      "descrizione": "L'azienda spiega che si tratta di un test.",
-      "link": "https://www.hdblog.it/hisense/articoli/n651601/hisense-annunci-pubblicita-vidaa-home-os-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-13T15:15:00+00:00"
-    },
-    {
-      "titolo": "TikTok punta in alto e aggira lo stop cinese sui chip Nvidia",
-      "descrizione": "ByteDance rafforza l AI con sistemi Nvidia in Malaysia per crescere fuori dalla Cina",
-      "link": "https://www.hdblog.it/mercato/articoli/n651610/bytedance-chip-nvidia-blackwell-malaysia/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-13T15:10:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A37 e A57, trapelano i presunti render ufficiali",
-      "descrizione": "Uno sguardo ravvicinato alla nuova Key Island.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n651623/samsung-galaxy-a57-a37-render-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-13T15:05:00+00:00"
-    },
-    {
       "titolo": "Anker Nano, il powerbank da 10.000 mAh (30 W) è in forte sconto",
       "descrizione": "Lo porti con te ovunque e non rischi mai di rimanere mai a secco di energia: non lasciarti sfuggire lo sconto sul powerbank Anker Nano. The post Anker Nano, il powerbank da 10.000 mAh (30 W) è in forte sconto appeared fi",
       "link": "https://www.punto-informatico.it/anker-nano-powerbank-10000-mah-30-w-forte-sconto/",
@@ -156,18 +135,39 @@
       "data": "2026-03-13T15:02:38+00:00"
     },
     {
-      "titolo": "Perché il logo Mercedes si accende all'estero e resta (spesso) spento in Italia",
-      "descrizione": "La stella di Mercedes-Benz si illumina, ma non in Italia. Il logo luminoso è vietato dal Codice della Strada",
-      "link": "https://www.hdmotori.it/logo-mercedes-led-codice-della-strada/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-13T15:00:31+00:00"
-    },
-    {
       "titolo": "Truffe telefoniche: così Truecaller vuol proteggere tutta la famiglia",
       "descrizione": "Family Protection di Truecaller debutta in tutto il mondo dopo i test iniziali: avvisa i familiari quando arriva una chiamata sospetta. The post Truffe telefoniche: così Truecaller vuol proteggere tutta la famiglia appea",
       "link": "https://www.punto-informatico.it/truffe-telefoniche-truecaller-family-protection/",
       "fonte": "Punto Informatico",
       "data": "2026-03-13T14:36:12+00:00"
+    },
+    {
+      "titolo": "Creality Sermoon P1 3D Scanner review: 3D scanning on the go",
+      "descrizione": "The Creality Sermoon P1 is a standalone 3D scanner that allows users to go through the entire scanning workflow without having to touch a computer. The 22 crossed laser line mode is surprisingly fast, and the single lase",
+      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-13T13:30:00+00:00"
+    },
+    {
+      "titolo": "La TV capisce chi la guarda: webOS di LG si adatta ai bambini",
+      "descrizione": "LG punta su un'esperienza ottimizzata e più sicura per i bambini con webOS e AI: la piattaforma suggerisce contenuti adatti in base all'età. The post La TV capisce chi la guarda: webOS di LG si adatta ai bambini appeared",
+      "link": "https://www.punto-informatico.it/tv-webos-lg-si-adatta-ai-bambini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T13:15:06+00:00"
+    },
+    {
+      "titolo": "Iran conflict delays Meta’s 2Africa undersea cable project — cable layer declares force majeure, says it can no longer safely operate in the Persian Gulf",
+      "descrizione": "Meta is delaying work on the Pearls section of its Africa2 network after its contracted cable-layer, Alcatel Submarine Networks, declared force majeure due to the risk of getting hit during the Iran conflict.",
+      "link": "https://www.tomshardware.com/tech-industry/iran-conflict-delays-metas-2africa-undersea-cable-project-cable-layer-declares-force-majeure-says-it-can-no-longer-safely-operate-in-the-persian-gulf",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-13T13:14:11+00:00"
+    },
+    {
+      "titolo": "Chrome, Edge e Opera: scoperte due falle critiche, cosa fare",
+      "descrizione": "Due vulnerabilità zero-day colpiscono tutti i browser basati su Chromium, quindi Chrome, Edge e Opera. Google ha rilasciato la patch. The post Chrome, Edge e Opera: scoperte due falle critiche, cosa fare appeared first o",
+      "link": "https://www.punto-informatico.it/chrome-edge-opera-scoperte-falle-critiche-cosa-fare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-13T13:14:00+00:00"
     }
   ]
 }
