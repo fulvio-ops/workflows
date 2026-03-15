@@ -1,12 +1,117 @@
 {
-  "last_updated": "2026-03-15T07:14:22.278545+00:00",
+  "last_updated": "2026-03-15T13:17:13.679745+00:00",
   "items": [
+    {
+      "titolo": "Apple's MacBook Neo modded to a 1 TB SSD, breaking the firm's 512 GB barrier — base 256 GB model gets modded in expert NAND swap surgery",
+      "descrizione": "DirectorFeng, an expert technician in China has just performed what is likely the first hardware mod of its kind on the new MacBook Neo. He has birthed the world's only MacBook Neo with a terabyte of storage by physicall",
+      "link": "https://www.tomshardware.com/laptops/macbooks/apples-macbook-neo-modded-to-a-1-tb-ssd-breaking-the-firms-512-gb-barrier-base-256-gb-model-gets-modded-in-expert-nand-swap-surgery",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-15T11:15:00+00:00"
+    },
+    {
+      "titolo": "‘Clean-room reimplementation’ of DR-DOS hits early beta, modernizing the operating system 38 years after its debut — runs Doom, Warcraft, SimCity, and other period-appropriate titles",
+      "descrizione": "DR DOS version 9.0 is now in beta testing, with Revision 291 recently released and available for anyone to download and test.",
+      "link": "https://www.tomshardware.com/software/operating-systems/clean-room-reimplementation-of-dr-dos-hits-early-beta-modernizing-the-operating-system-38-years-after-its-debut-runs-doom-warcraft-simcity-and-other-period-appropriate-titles",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-15T10:00:00+00:00"
+    },
+    {
+      "titolo": "Bollette sempre troppo alte? Con Octopus Energia il prezzo è bloccato per 12 mesi",
+      "descrizione": "Octopus Energia blocca il prezzo di luce e gas per 12 mesi: 0,094 €/kWh e 0,375 €/Smc, energia 100% rinnovabile e attivazione online gratuita. The post Bollette sempre troppo alte? Con Octopus Energia il prezzo è bloccat",
+      "link": "https://www.punto-informatico.it/bollette-sempre-troppo-alte-con-octopus-energia-il-prezzo-e-bloccato-per-12-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T09:58:46+00:00"
+    },
+    {
+      "titolo": "Da zero a sito professionale in un pomeriggio: IONOS costa 0€ per tutto il primo anno",
+      "descrizione": "IONOS è l'hosting WordPress più veloce in Italia nel 2026: AI integrata, dominio gratis, SSL, backup giornalieri e uptime 99,99%. Piano Plus a 0€. The post Da zero a sito professionale in un pomeriggio: IONOS costa 0€ pe",
+      "link": "https://www.punto-informatico.it/da-zero-a-sito-professionale-in-un-pomeriggio-ionos-costa-0e-per-tutto-il-primo-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T09:43:27+00:00"
+    },
+    {
+      "titolo": "Prime Video senza spot diventa Ultra con prezzo più alto",
+      "descrizione": "Prime Video Ultra è il nuovo piano senza pubblicità con supporto esclusivo per la risoluzione 4K che costerà 4,99 dollari/mese a partire dal 10 aprile. The post Prime Video senza spot diventa Ultra con prezzo più alto ap",
+      "link": "https://www.punto-informatico.it/prime-video-senza-spot-diventa-ultra-prezzo-piu-alto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T09:37:23+00:00"
+    },
+    {
+      "titolo": "Avast Premium Security: l’antivirus che blocca il 100% delle minacce",
+      "descrizione": "Avast protegge PC, Mac e smartphone da virus, ransomware e phishing. Premium Security da 29,20€/anno o Ultimate da 41,99€: scopri il piano giusto per te. The post Avast Premium Security: l’antivirus che blocca il 100% de",
+      "link": "https://www.punto-informatico.it/avast-premium-security-lantivirus-che-blocca-il-100-delle-minacce/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T09:32:18+00:00"
+    },
+    {
+      "titolo": "TikTok, retroscena sull'affare: 10 miliardi alla Casa Bianca",
+      "descrizione": "Secondo WSJ e NYT, il deal TikTok avrebbe previsto una fee da 10 miliardi.",
+      "link": "https://www.hdblog.it/mercato/articoli/n651707/trump-tiktok-commissione-investitori/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T09:25:00+00:00"
+    },
+    {
+      "titolo": "Amazon occasioni tecnologia: il meglio in sconto alle Offerte di Primavera",
+      "descrizione": "La tecnologia migliore di Amazon è ancora in sconto alla Festa delle Offerte di Primavera.",
+      "link": "https://www.hdblog.it/amazon/offerte/n651719/tecnologia-smart-home-amazon-offerte-primavera/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T09:19:00+00:00"
+    },
+    {
+      "titolo": "F1: annullati i Gran Premi del Bahrein e Arabia Saudita",
+      "descrizione": "Una decisione inevitabile a causa dei conflitti in corso che potrebbe rimescolare i piani delle scuderie di Formula1, soprattutto quelle più piccole",
+      "link": "https://www.hdmotori.it/f1-annullati-gp-bahrein-e-arabia-saudita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T09:00:09+00:00"
+    },
+    {
+      "titolo": "Stellantis: addio allo smart working per aumentare la produttività",
+      "descrizione": "Il Gruppo guidato da Antonio Filosa impone ai suoi dipendenti il rientro in ufficio per ritrovare efficienza in un mercato dell’auto sempre più difficile.",
+      "link": "https://www.hdmotori.it/stellantis-addio-smart-working-produttivita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T08:30:46+00:00"
+    },
+    {
+      "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
+      "descrizione": "Ecco dieci tecniche concrete, con prompt pronti da usare, per ottenere risposte più precise e utili da Claude di Anthropic. The post Claude non è ChatGPT, come sbloccare il suo vero potenziale appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/claude-non-e-chatgpt-come-sbloccare-vero-potenziale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T08:30:32+00:00"
+    },
+    {
+      "titolo": "roborock Q10 S5+ a 229€ su Amazon: promo speciale di Primavera (sconto 47%)",
+      "descrizione": "roborock Q10 S5+ è in promozione su Amazon tra le offerte speciali di primavera: sconto del 47%.",
+      "link": "https://www.hdblog.it/amazon/offerte/n651714/roborock-q10-s5-plus-offerte-primavera-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T08:26:00+00:00"
+    },
+    {
+      "titolo": "Antonelli trionfa a Shanghai: il GP di Cina 2026 consacra il nuovo talento italiano",
+      "descrizione": "La Mercedes porta a casa una doppietta incredibile con Antonelli e Russell, confermando il ruolo di squadra da battere nel campionato 2026.",
+      "link": "https://www.hdmotori.it/antonelli-trionfa-a-shanghai-il-gp-di-cina-2026-consacra-il-nuovo-talento-italiano/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T08:00:49+00:00"
+    },
+    {
+      "titolo": "Instagram dice addio ai messaggi criptati nelle chat private",
+      "descrizione": "Meta rimuove la crittografia end-to-end dai DM di Instagram entro maggio 2026.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n651705/instagram-addio-crittografia-chat/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T07:25:00+00:00"
+    },
     {
       "titolo": "Airalo è tra le migliori eSIM per chi viaggia nel 2026: piani da pochi euro",
       "descrizione": "Airalo domina il mercato delle eSIM con piani fino a 200 Paesi a partire da pochi euro al mese: tutti i dettagli. The post Airalo è tra le migliori eSIM per chi viaggia nel 2026: piani da pochi euro appeared first on Pun",
       "link": "https://www.punto-informatico.it/airalo-e-tra-le-migliori-esim-per-chi-viaggia-nel-2026-piani-da-pochi-euro/",
       "fonte": "Punto Informatico",
       "data": "2026-03-15T07:00:50+00:00"
+    },
+    {
+      "titolo": "Space Force accelera sui satelliti anti missili ipersonici",
+      "descrizione": "Via libera al progetto USA per 10 satelliti in orbita media contro i missili.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n651703/space-force-satelliti-allerta-missili/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-15T06:55:00+00:00"
     },
     {
       "titolo": "HUAWEI WATCH GT 5 Pro: salute sotto controllo, 100 sport e batteria da 14gg",
@@ -63,111 +168,6 @@
       "link": "https://www.hdblog.it/green/articoli/n651672/nucleare-sotterraneo-usa-deep-fission/",
       "fonte": "HDblog.it",
       "data": "2026-03-14T12:05:00+00:00"
-    },
-    {
-      "titolo": "Noctua teases upcoming PC case with brown color scheme and bundled fans — appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans",
-      "descrizione": "The case builds on the standard Flux Pro design with enhanced cooling hardware, mesh airflow panels, support for large radiators, and Noctua’s well-known brown color scheme.",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T12:00:00+00:00"
-    },
-    {
-      "titolo": "Instagram: Meta elimina la crittografia per i messaggi",
-      "descrizione": "Meta ha comunicato che, a partire dall'8 maggio 2026, non verrà più supportata la crittografia end-to-end per i messaggi diretti su Instagram. The post Instagram: Meta elimina la crittografia per i messaggi appeared firs",
-      "link": "https://www.punto-informatico.it/instagram-meta-elimina-crittografia-messaggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-14T11:49:30+00:00"
-    },
-    {
-      "titolo": "Apple Music con lossless e Dolby Atmos: come attivare l’audio 3D gratis",
-      "descrizione": "Prova Apple Music senza costi per un intero mese e potrai accedere a oltre 100 milioni di bani e tutte le opzioni audio della piattaforma. The post Apple Music con lossless e Dolby Atmos: come attivare l’audio 3D gratis",
-      "link": "https://www.punto-informatico.it/apple-music-con-lossless-e-dolby-atmos-come-attivare-laudio-3d-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-14T11:48:53+00:00"
-    },
-    {
-      "titolo": "Chip material prices double as Middle East conflict compounds China's existing gallium export ban — wide range of materials for chipmaking skyrocket as supply constricts",
-      "descrizione": "Manufacturers have said that prices for key chipmaking metals have doubled, and gallium has climbed sharply, as disruptions from the ongoing Middle East conflict pile onto supply constraints.",
-      "link": "https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T11:40:00+00:00"
-    },
-    {
-      "titolo": "Facebook cambia le regole: stop ai contenuti copiati",
-      "descrizione": "Meta aggiorna le regole di Facebook: meno visibilità e stop guadagni ai contenuti copiati.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n651669/meta-facebook-contenuti-originali-regole/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T11:35:00+00:00"
-    },
-    {
-      "titolo": "GP Cina F1, definite le quattro zone Straight Mode a Shanghai",
-      "descrizione": "Dopo le polemiche di Melbourne, la FIA fissa le regole per Shanghai. Ma il formato Sprint lascia poco tempo per trovare le risposte giuste",
-      "link": "https://www.hdmotori.it/gp-cina-f1-zone-straight-mode/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T10:30:58+00:00"
-    },
-    {
-      "titolo": "Recensione Motorola Signature, sempre più vicino ai top del mercato",
-      "descrizione": "Abbiamo provato il nuovo Motorola Signature, lo smartphone con cui Motorola vuole rilanciarsi nella fascia premium. Ci sarà riuscita?",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n651242/motorola-signature-test-prova-prezzo-offerta/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T10:30:00+00:00"
-    },
-    {
-      "titolo": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
-      "descrizione": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people’s Signal accounts, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
-      "fonte": "WIRED",
-      "data": "2026-03-14T10:30:00+00:00"
-    },
-    {
-      "titolo": "Enthusiast rebuilds AA-battery-powered PC, sextuples run time to 30 minutes with 64 batteries — uses three voltage regulators in parallel to achieve stability, runs computer for over 30 minutes on 64 AA cells",
-      "descrizione": "YouTube creator ScuffedBits re-did their experiment and was able to eke out 30 minutes of game time (and a benchmarking session!) while running their desktop PC on 64 AA batteries.",
-      "link": "https://www.tomshardware.com/desktops/pc-building/enthusiast-rebuilds-aa-battery-powered-pc-sextuples-run-time-to-30-minutes-with-64-batteries-uses-three-voltage-regulators-in-parallel-to-achieve-stability-runs-computer-for-over-30-minutes-on-64-aa-cells",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T10:20:00+00:00"
-    },
-    {
-      "titolo": "Six-month rewritable DVD endurance test crowns winner with 1,000 rewrites, shows the best discs are no longer manufactured — six month of tests find TDK is a clear leader, Verbatim and Memorex didn’t do well",
-      "descrizione": "A tech enthusiast has shared their DVD rewritable durability findings, following six months of testing.",
-      "link": "https://www.tomshardware.com/pc-components/storage/six-month-dvd-rewritable-test-shows-the-best-discs-are-no-longer-manufactured-tdk-a-clear-leader-verbatim-and-memorex-didnt-do-well",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T10:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Watch Ultra 2, scatta l'ora dei rumor: che novità potrebbe portare",
-      "descrizione": "Quest'anno Samsung dovrebbe lanciare la nuova generazione del suo smartwatch di punta.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n651651/samsung-galaxy-watch-ultra-2-rumor-5g-chip-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T09:55:00+00:00"
-    },
-    {
-      "titolo": "US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece — Shahed-136 kamikaze drone threat spurs rush for interceptors",
-      "descrizione": "Ukraine has sent drone interceptors and training crews to the U.S. and its Gulf State allies as the Iran War rumbles on.",
-      "link": "https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T09:45:00+00:00"
-    },
-    {
-      "titolo": "I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer",
-      "descrizione": "The unique flat-bottom design of the Kalita Wave makes brewing exceptional coffee dead simple—especially if you can’t summon the rigor required to make perfect pour-over.",
-      "link": "https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/",
-      "fonte": "WIRED",
-      "data": "2026-03-14T09:33:00+00:00"
-    },
-    {
-      "titolo": "Spotify cambia l’algoritmo: ora puoi dire cosa ascoltare di più o meno",
-      "descrizione": "Spotify sperimenta Taste Profile per modificare i consigli musicali.",
-      "link": "https://www.hdblog.it/android/articoli/n651665/spotify-taste-profile-algoritmo-musica/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T09:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17T in arrivo: un leak anticipa prezzo, lancio e possibili specifiche",
-      "descrizione": "E non sarà solo: con lui atteso anche Xiaomi 17T Pro.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n651654/xiaomi-17t-pro-leak-specifiche-prezzo-lancio-leica/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T08:55:00+00:00"
     }
   ]
 }

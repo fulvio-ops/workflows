@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-15T07:14:26.183764+00:00",
+  "last_updated": "2026-03-15T13:17:17.235726+00:00",
   "items": [
     {
-      "titolo": "I thought ChatGPT's voice mode was a gimmick - these 7 use cases changed my mind",
-      "descrizione": "Voice Mode fabricated answers the last time I used it, but a revisit revealed that it's actually useful now.",
-      "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
-      "fonte": "Latest news",
-      "data": "2026-03-14T10:30:48+00:00",
+      "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
+      "descrizione": "Ecco dieci tecniche concrete, con prompt pronti da usare, per ottenere risposte più precise e utili da Claude di Anthropic. The post Claude non è ChatGPT, come sbloccare il suo vero potenziale appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/claude-non-e-chatgpt-come-sbloccare-vero-potenziale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T08:30:32+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "descrizione": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "fonte": "WIRED",
-      "data": "2026-03-13T10:00:00+00:00",
+      "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
+      "descrizione": "Ecco dieci tecniche concrete, con prompt pronti da usare, per ottenere risposte più precise e utili da Claude di Anthropic. The post Claude non è ChatGPT, come sbloccare il suo vero potenziale appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/claude-non-e-chatgpt-come-sbloccare-vero-potenziale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T08:30:32+00:00",
       "modello": "claude"
     }
   ]
