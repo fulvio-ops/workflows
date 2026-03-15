@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-03-15T13:17:13.679745+00:00",
+  "last_updated": "2026-03-15T18:59:09.213363+00:00",
   "items": [
+    {
+      "titolo": "Facebook: nuovi tool per proteggere i creator",
+      "descrizione": "Meta ha aggiornato le linee guida e annunciato nuovi tool che consentono ai creatori dei contenuti su Facebook di segnalare le impersonificazioni. The post Facebook: nuovi tool per proteggere i creator appeared first on",
+      "link": "https://www.punto-informatico.it/facebook-nuovi-tool-proteggere-creator/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T17:10:34+00:00"
+    },
+    {
+      "titolo": "Elon Musk vuole ricostruire xAI e due co-fondatori vanno via",
+      "descrizione": "Elon Musk ha avviato la ricostruzione da zero di xAI dopo la fusione con SpaceX e altri due co-fondatori hanno lasciato l'azienda per vari disaccordi. The post Elon Musk vuole ricostruire xAI e due co-fondatori vanno via",
+      "link": "https://www.punto-informatico.it/elon-musk-vuole-ricostruire-xai-due-co-fondatori-vanno-via/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-15T15:49:45+00:00"
+    },
+    {
+      "titolo": "Facial recognition is jailing the wrong people, but police keep using it anyway — Tennessee grandmother latest victim of AI-driven misidentification",
+      "descrizione": "A Tennessee grandmother spent nearly six months in jail after police in Fargo, North Dakota, used facial recognition software to identify her as the primary suspect in a bank fraud case.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/facial-recognition-is-jailing-the-wrong-people-police-keep-using-it-anyway",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-15T15:45:00+00:00"
+    },
+    {
+      "titolo": "Come funziona il generatore di musica Lyria 3 di Google? Ecco la nostra prova",
+      "descrizione": "Google cercare di farsi strada all’interno dell’AI music. Concorrenza o alleato per il musicista del futuro?",
+      "link": "https://www.ilsole24ore.com/art/come-funziona-generatore-musica-lyria-3-google-ecco-nostra-prova-AIsKyfuB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-15T14:22:03+00:00"
+    },
     {
       "titolo": "Apple's MacBook Neo modded to a 1 TB SSD, breaking the firm's 512 GB barrier — base 256 GB model gets modded in expert NAND swap surgery",
       "descrizione": "DirectorFeng, an expert technician in China has just performed what is likely the first hardware mod of its kind on the new MacBook Neo. He has birthed the world's only MacBook Neo with a terabyte of storage by physicall",
@@ -140,34 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/startup-italia-43-posto-gli-ecosistemi-piu-innovativi-AI3b7cwB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-03-14T17:08:31+00:00"
-    },
-    {
-      "titolo": "Perché i gatti cadono sempre sulle zampe? Saperlo serve anche per astronauti e robot",
-      "descrizione": "Non c’è solo la fisica quantistica o l’intelligenza artificiale, entrambe di gran moda e presenti in modo assillante nella nostra vita in questi anni, la Fisica ha ancora parecchi vecchi...",
-      "link": "https://www.ilsole24ore.com/art/perche-gatti-cadono-sempre-zampe-saperlo-serve-anche-astronauti-e-robot-AIRnJIwB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-14T16:26:00+00:00"
-    },
-    {
-      "titolo": "Invisible malicious code attacks 151 GitHub repos and VS Code — Glassworm attack uses blockchain to steal tokens, credentials, and secrets",
-      "descrizione": "The technique exploits Unicode Private Use Area characters, which render as zero-width whitespace in virtually every code editor and terminal.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T14:11:38+00:00"
-    },
-    {
-      "titolo": "US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies — new export rules are still in the works, though",
-      "descrizione": "U.S. Department of Commerce withdraws draft export rule for AI accelerators that would give the U.S. government ultimate power over export controls and mandate investments of foreign firms in the U.S. AI sector.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-14T12:59:41+00:00"
-    },
-    {
-      "titolo": "Nucleare sotterraneo, negli Usa i primi scavi per il reattore Gravity",
-      "descrizione": "Deep Fission avvia in Kansas i primi pozzi per il reattore nucleare sotterraneo Gravity.",
-      "link": "https://www.hdblog.it/green/articoli/n651672/nucleare-sotterraneo-usa-deep-fission/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-14T12:05:00+00:00"
     }
   ]
 }
