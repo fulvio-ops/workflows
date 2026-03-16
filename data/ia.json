@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-16T13:55:45.305542+00:00",
+  "last_updated": "2026-03-16T19:29:47.690703+00:00",
   "items": [
     {
-      "titolo": "Google, Meta, Amazon e OpenAI contro le truffe: arriva l’alleanza",
-      "descrizione": "Otto grandi aziende tecnologiche hanno siglato un accordo per condividere dati e strumenti contro le truffe online che colpiscono gli utenti. The post Google, Meta, Amazon e OpenAI contro le truffe: arriva l’alleanza app",
-      "link": "https://www.punto-informatico.it/google-meta-amazon-openai-contro-truffe-alleanza/",
+      "titolo": "Encyclopedia Britannica denuncia OpenAI",
+      "descrizione": "Encyclopedia Britannica ha denunciato OpenAI perché avrebbe usato gli articoli dell'enciclopedia per addestrare i modelli AI, violando il copyright. The post Encyclopedia Britannica denuncia OpenAI appeared first on Punt",
+      "link": "https://www.punto-informatico.it/encyclopedia-britannica-denuncia-openai/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-16T12:40:15+00:00",
+      "data": "2026-03-16T18:21:57+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "descrizione": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "fonte": "WIRED",
-      "data": "2026-03-13T10:00:00+00:00",
+      "titolo": "Come installare Claude Cowork su Windows in cinque minuti",
+      "descrizione": "Organizzare file, creare presentazioni, confrontare prodotti, Claude Cowork fa tutto questo in autonomia sul computer Windows. Come installarlo. The post Come installare Claude Cowork su Windows in cinque minuti appeared",
+      "link": "https://www.punto-informatico.it/come-installare-claude-cowork-windows-cinque-minuti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-16T16:30:39+00:00",
       "modello": "claude"
     }
   ]
