@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T03:36:20.142930+00:00",
+  "last_updated": "2026-03-16T07:49:12.362638+00:00",
   "items": [
     {
       "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
@@ -10,14 +10,6 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Edge 146: novità per sicurezza e Copilot",
-      "descrizione": "Microsoft Edge 146 include diverse novità che riguardano produttività, sicurezza, privacy, ricerca e Copilot, oltre alle patch per due vulnerabilità. The post Microsoft Edge 146: novità per sicurezza e Copilot appeared f",
-      "link": "https://www.punto-informatico.it/microsoft-edge-146-novita-sicurezza-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-14T17:34:19+00:00",
-      "modello": "copilot"
-    },
-    {
       "titolo": "Google Is Not Ruling Out Ads in Gemini",
       "descrizione": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
       "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
@@ -26,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
-      "descrizione": "Ecco dieci tecniche concrete, con prompt pronti da usare, per ottenere risposte più precise e utili da Claude di Anthropic. The post Claude non è ChatGPT, come sbloccare il suo vero potenziale appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/claude-non-e-chatgpt-come-sbloccare-vero-potenziale/",
+      "titolo": "Claude raddoppia i limiti d’uso per tutti fino al 27 marzo, che offerta!",
+      "descrizione": "Claude raddoppia i limiti di utilizzo fino al 27 marzo per tutti i piani durante le ore non di punta. La promozione è automatica. The post Claude raddoppia i limiti d’uso per tutti fino al 27 marzo, che offerta! appeared",
+      "link": "https://www.punto-informatico.it/claude-raddoppia-limiti-uso-per-tutti-fino-27-marzo-offerta/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-15T08:30:32+00:00",
+      "data": "2026-03-16T06:07:05+00:00",
       "modello": "claude"
     }
   ]
