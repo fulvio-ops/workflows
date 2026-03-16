@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-16T07:49:12.362638+00:00",
+  "last_updated": "2026-03-16T13:55:45.305542+00:00",
   "items": [
     {
-      "titolo": "Claude non è ChatGPT, come sbloccare il suo vero potenziale",
-      "descrizione": "Ecco dieci tecniche concrete, con prompt pronti da usare, per ottenere risposte più precise e utili da Claude di Anthropic. The post Claude non è ChatGPT, come sbloccare il suo vero potenziale appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/claude-non-e-chatgpt-come-sbloccare-vero-potenziale/",
+      "titolo": "Google, Meta, Amazon e OpenAI contro le truffe: arriva l’alleanza",
+      "descrizione": "Otto grandi aziende tecnologiche hanno siglato un accordo per condividere dati e strumenti contro le truffe online che colpiscono gli utenti. The post Google, Meta, Amazon e OpenAI contro le truffe: arriva l’alleanza app",
+      "link": "https://www.punto-informatico.it/google-meta-amazon-openai-contro-truffe-alleanza/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-15T08:30:32+00:00",
+      "data": "2026-03-16T12:40:15+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude raddoppia i limiti d’uso per tutti fino al 27 marzo, che offerta!",
-      "descrizione": "Claude raddoppia i limiti di utilizzo fino al 27 marzo per tutti i piani durante le ore non di punta. La promozione è automatica. The post Claude raddoppia i limiti d’uso per tutti fino al 27 marzo, che offerta! appeared",
-      "link": "https://www.punto-informatico.it/claude-raddoppia-limiti-uso-per-tutti-fino-27-marzo-offerta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T06:07:05+00:00",
+      "titolo": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "descrizione": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+      "fonte": "WIRED",
+      "data": "2026-03-13T10:00:00+00:00",
       "modello": "claude"
     }
   ]
