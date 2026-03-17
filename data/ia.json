@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-17T13:52:43.374674+00:00",
+  "last_updated": "2026-03-17T19:30:10.877879+00:00",
   "items": [
     {
-      "titolo": "ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno",
-      "descrizione": "Come sono cambiate le ricerche online su ChatGPT, Gemini e Claude nel corso degli ultimi dodici mesi: analizziamo i dati di Google Trends. The post ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno appeare",
-      "link": "https://www.punto-informatico.it/chatgpt-vs-gemini-vs-claude-trend-ricerca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T13:50:46+00:00",
+      "titolo": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
+      "descrizione": "The latest GPT-5.4 mini model delivers benchmark results surprisingly close to the full GPT-5.4 model while running much faster, signaling a shift toward smaller AI models powering real-world applications.",
+      "link": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
+      "fonte": "Latest news",
+      "data": "2026-03-17T17:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Il tasto Copilot dà fastidio? Questa app lo trasforma in CTRL destro",
-      "descrizione": "Uno sviluppatore ha creato un'app per riassegnare il tasto Copilot a CTRL destro, dopo che Microsoft ha rimosso la possibilità di rimapparlo. The post Il tasto Copilot dà fastidio? Questa app lo trasforma in CTRL destro",
-      "link": "https://www.punto-informatico.it/tasto-copilot-da-fastidio-app-lo-trasforma-in-ctrl-destro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T09:57:56+00:00",
+      "titolo": "Microsoft, ennesimo terremoto ai vertici: grandi novità per Copilot",
+      "descrizione": "Nadella vuole un'unificazione di \"Copilot Business\" e \"Copilot Consumer\" in un'interfaccia e un set di funzioni coerente.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n652066/microsoft-copilot-ai-dirigenza-riorganizzazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T17:25:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno",
-      "descrizione": "Come sono cambiate le ricerche online su ChatGPT, Gemini e Claude nel corso degli ultimi dodici mesi: analizziamo i dati di Google Trends. The post ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno appeare",
-      "link": "https://www.punto-informatico.it/chatgpt-vs-gemini-vs-claude-trend-ricerca/",
+      "titolo": "Gemini copia ChatGPT: arriva il ramo della chat",
+      "descrizione": "Google ha dato il via ai test per portare su Gemini una nuova funzione che crea un ramo della chat, proprio come già avviene su ChatGPT. The post Gemini copia ChatGPT: arriva il ramo della chat appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/gemini-ramo-chat/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-17T13:50:46+00:00",
+      "data": "2026-03-17T14:26:46+00:00",
       "modello": "gemini"
     },
     {
