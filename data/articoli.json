@@ -1,12 +1,117 @@
 {
-  "last_updated": "2026-03-16T19:29:44.227656+00:00",
+  "last_updated": "2026-03-17T03:14:08.946885+00:00",
   "items": [
+    {
+      "titolo": "I turned on notification summaries on my Pixel 9 Pro, and it was less chaotic than expected",
+      "descrizione": "Your Pixel can show AI summaries of your notifications on the lock screen now - but there are a few caveats, including a potential privacy issue.",
+      "link": "https://www.zdnet.com/article/android-notification-summaries-pixel-hands-on/",
+      "fonte": "Latest news",
+      "data": "2026-03-17T00:00:45+00:00"
+    },
+    {
+      "titolo": "Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency",
+      "descrizione": "The HBM4 36GB 12H stack runs at over 11 Gb/s pin speeds, delivering bandwidth greater than 2.8 TB/s.",
+      "link": "https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T22:47:35+00:00"
+    },
+    {
+      "titolo": "Is your Android phone crashing? This hidden 'safe mode' trick can find the culprit",
+      "descrizione": "Safe mode itself doesn't fix your Android phone's problems, but it helps you diagnose them.",
+      "link": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
+      "fonte": "Latest news",
+      "data": "2026-03-16T22:08:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026",
+      "descrizione": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more.",
+      "link": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-16T21:52:49+00:00"
+    },
+    {
+      "titolo": "Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 — AI buildout intensifies as Agentic AI takes hold",
+      "descrizione": "Nvidia believes it earn $1 trillion by selling AI hardware, says co-founder and chief executive Jensen Huang.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-expects-nvidia-to-sell-usd1-trillion-of-ai-hardware-through-2027-ai-buildout-intensifies-as-agentic-ai-takes-hold",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T20:41:57+00:00"
+    },
+    {
+      "titolo": "Nvidia wants to own your AI data center from end to end",
+      "descrizione": "Nvidia's CEO makes the case that AI data centers will be more efficient, more economical, and generate more revenue if you buy all the parts from his company.",
+      "link": "https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/",
+      "fonte": "Latest news",
+      "data": "2026-03-16T20:32:00+00:00"
+    },
+    {
+      "titolo": "Nvidia bets on OpenClaw, but adds a security layer - how NemoClaw works",
+      "descrizione": "The company sees OpenClaw as the future of personal AI, but gives it some much-needed privacy and security help.",
+      "link": "https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-16T20:28:00+00:00"
+    },
+    {
+      "titolo": "Nvidia announces Vera Rubin Space Module — up to 25x the AI compute of H100 for orbital data centers",
+      "descrizione": "Six commercial space companies are understood to have already deployed the platform.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-vera-rubin-space-module",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T20:04:59+00:00"
+    },
+    {
+      "titolo": "Nvidia's Nemotron coalition brings eight AI labs together to build open frontier models",
+      "descrizione": "\"Open models are the lifeblood of innovation and the engine of global participation in the AI revolution,\" said Nvidia CEO Jensen Huang.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-nemoclaw-coalition-brings-eight-ai-labs-together-to-build-open-frontier-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T20:04:37+00:00"
+    },
+    {
+      "titolo": "NVIDIA DLSS 5 è un game changer: il ChatGPT dei videogiochi",
+      "descrizione": "La nuova tecnologia DLSS 5 di NVIDIA promette un salto generazionale nella grafica dei videogiochi: arriverà in autunno sulle RTX 50. The post NVIDIA DLSS 5 è un game changer: il ChatGPT dei videogiochi appeared first on",
+      "link": "https://www.punto-informatico.it/nvidia-dlss-5/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-16T19:58:14+00:00"
+    },
+    {
+      "titolo": "Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs",
+      "descrizione": "Intel announced today at Nvidia GTC 2026 in San Jose that its Xeon 6 processor will serve as the host CPU in Nvidia's DGX Rubin NVL8 systems.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T19:40:49+00:00"
+    },
+    {
+      "titolo": "Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC — SRAM-packed accelerator boosts 'every layer of the AI model on every token'",
+      "descrizione": "At GTC 2026, Nvidia revealed the Groq 3 accelerator and Groq LPX rack as part of the Vera Rubin platform. These SRAM-packed, inference-focused chips deliver large amounts of memory bandwidth to help Rubin deliver low-lat",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T19:31:03+00:00"
+    },
+    {
+      "titolo": "Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel – new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput",
+      "descrizione": "Nvidia announced more details about its new 88-core Vera data center CPUs, claiming impressive 50% performance gains over standard CPUs, fueled by a 1.5X increase in IPC from its Olympus cores. The firm also unveiled its",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-16T19:29:57+00:00"
+    },
     {
       "titolo": "Nvidia debuts DLSS 5 for increased visual fidelity in games — AI-infused tech transforms pixels with photorealistic lighting and materials",
       "descrizione": "DLSS 5 is coming to make your favorite games look even more realistic",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-debuts-dlss-5-for-increased-visual-fidelity-in-games-ai-infused-tech-transforms-pixels-with-photorealistic-lighting-and-materials",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-16T19:12:31+00:00"
+    },
+    {
+      "titolo": "Recensione Nothing Headphone (a): per molti saranno migliori delle (1) più costose",
+      "descrizione": "Abbiamo provato a fondo le nuove cuffie di Nothing over-ear, le Headphone (a): costano molto meno della versione premium (1), ma rinunciano a poco. Sono quelle da acquistare per 150 euro o meno?",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n651756/recensione-nothing-headphone-a/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-16T18:32:00+00:00"
+    },
+    {
+      "titolo": "Le Faraday bag sul tavolo del Consiglio Supremo di Difesa: perché vengono usate",
+      "descrizione": "Sono realizzate con materiali schermanti che creano una barriera attorno allo smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n651823/faraday-bag-perche-vengono-usate/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-16T18:31:00+00:00"
     },
     {
       "titolo": "L’AI doveva ridurre il lavoro: uno studio dimostra che lo aumenta",
@@ -37,8 +142,8 @@
       "data": "2026-03-16T17:47:21+00:00"
     },
     {
-      "titolo": "Nvidia GTC 2026 keynote live blog — Jensen Huang talks DLSS 5, CUDA-X libraries, and the 'future of technology'",
-      "descrizione": "Nvidia's GTC 2026 keynote is happening now, and Tom's Hardware is on the ground to deliver live updates during CEO Jensen Huang's two-hour presentation.",
+      "titolo": "Nvidia GTC 2026 keynote live blog — Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology'",
+      "descrizione": "Nvidia's GTC 2026 keynote has wrapped, but Tom's Hardware was on the ground to deliver live updates during CEO Jensen Huang's two-hour presentation.",
       "link": "https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-16T17:45:09+00:00"
@@ -63,111 +168,6 @@
       "link": "https://www.punto-informatico.it/influencer-faq-linee-guida-codice-condotta/",
       "fonte": "Punto Informatico",
       "data": "2026-03-16T17:29:22+00:00"
-    },
-    {
-      "titolo": "Modalità adulti di ChatGPT: solo testo erotico, niente immagini",
-      "descrizione": "La tanto attesa modalità adulti di ChatGPT sarà limitata al testo. OpenAI fatica a bilanciare contenuti espliciti e protezione dei minori. The post Modalità adulti di ChatGPT: solo testo erotico, niente immagini appeared",
-      "link": "https://www.punto-informatico.it/modalita-adulti-chatgpt-solo-testo-erotico-niente-immagini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T17:24:06+00:00"
-    },
-    {
-      "titolo": "Foxconn, cresce il fatturato ma gli utili netti sono in calo",
-      "descrizione": "Il boom dell'intelligenza artificiale non basta.",
-      "link": "https://www.hdblog.it/mercato/articoli/n651908/foxconn-risultatti-q4-2025-utili-calo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T17:10:00+00:00"
-    },
-    {
-      "titolo": "Star Wars rilancia Darth Maul: la nuova serie animata arriva su Disney+ | Trailer",
-      "descrizione": "Maul protagonista di una nuova serie animata Star Wars in arrivo su Disney+",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n645703/star-wars-maul-shadow-lord-disney-trailer/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T17:05:00+00:00"
-    },
-    {
-      "titolo": "JBL’s Best Wireless Headphones Are $170 Off at Walmart",
-      "descrizione": "The Tour One M3 headphones offer flagship performance at midrange pricing, as long as color is negotiable for you.",
-      "link": "https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/",
-      "fonte": "WIRED",
-      "data": "2026-03-16T17:04:21+00:00"
-    },
-    {
-      "titolo": "F1 GP Cina: il Gran Premio visto dall'estero",
-      "descrizione": "Come è stato visto e analizzato dai media internazionali il GP di Cina di F1, vinto brillantemente da Andrea Kimi Antonelli",
-      "link": "https://www.hdmotori.it/f1-gp-cina-visto-estero/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T17:00:09+00:00"
-    },
-    {
-      "titolo": "Amazon contro SpaceX: critiche dal Presidente FCC",
-      "descrizione": "Il Presidente della FCC ha criticato la decisione di Amazon di presentare una petizione contro SpaceX, considerando che ha lanciato pochi satelliti. The post Amazon contro SpaceX: critiche dal Presidente FCC appeared fir",
-      "link": "https://www.punto-informatico.it/amazon-contro-spacex-critiche-presidente-fcc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T16:33:07+00:00"
-    },
-    {
-      "titolo": "Come installare Claude Cowork su Windows in cinque minuti",
-      "descrizione": "Organizzare file, creare presentazioni, confrontare prodotti, Claude Cowork fa tutto questo in autonomia sul computer Windows. Come installarlo. The post Come installare Claude Cowork su Windows in cinque minuti appeared",
-      "link": "https://www.punto-informatico.it/come-installare-claude-cowork-windows-cinque-minuti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T16:30:39+00:00"
-    },
-    {
-      "titolo": "La Hyundai IONIQ 3 debutterà alla Milano Design Week 2026",
-      "descrizione": "Con la Ioniq 3 Hyundai mostrerà come la propria visione di design può essere tradotta efficacemente nei modelli del futuro",
-      "link": "https://www.hdmotori.it/la-hyundai-ioniq-3-debuttera-alla-milano-design-week-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T16:30:38+00:00"
-    },
-    {
-      "titolo": "Addio sprechi nei motori, il vetro metallico stampato in 3D promette di tagliare le perdite",
-      "descrizione": "Nuove leghe in vetro metallico promettono motori più efficienti per droni ed e-bike.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651745/motori-vetro-metallico-stampa-3d/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T16:15:00+00:00"
-    },
-    {
-      "titolo": "AMD, arrivano gli \"Agent Computer\": sistemi ottimizzati per l'AI agentica locale",
-      "descrizione": "C'è anche una guida super dettagliata per eseguire in locale OpenClaw sulle proprie workstation Ryzen.",
-      "link": "https://www.hdblog.it/hardware/articoli/n651884/amd-agent-computer-categoria-ai-ryzen/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T16:05:00+00:00"
-    },
-    {
-      "titolo": "Volkswagen ID.Cross: il B-SUV elettrico arriva in autunno con prezzi da 28.000 euro",
-      "descrizione": "Il nuovo SUV compatto di Wolfsburg punta a rivoluzionare il mercato con un'autonomia fino a 436 km e un prezzo competitivo.",
-      "link": "https://www.hdmotori.it/volkswagen-id-cross-b-suv-elettrico-autunno-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T16:00:07+00:00"
-    },
-    {
-      "titolo": "Dragonfly prende forma: la NASA prepara il drone per Titano",
-      "descrizione": "La NASA avvia l’assemblaggio di Dragonfly, il drone nucleare che esplorerà Titano dal 2028.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651804/nasa-dragonfly-drone-titano/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T15:55:00+00:00"
-    },
-    {
-      "titolo": "Govee lancia le lampadine smart da 1.600 lumen e CRI > 90 | Prezzi",
-      "descrizione": "Ecco le Govee Smart Bulb A21.",
-      "link": "https://www.hdblog.it/domotica/articoli/n651865/govee-lampadine-smart-1600-lumen-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T15:50:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp e chat ospiti: si potrà scrivere a chi non ha un account",
-      "descrizione": "Il servizio di messaggistica ha avviato una seconda fase di test per le guest chat, consentendo di conversare anche con chi non ha l’app. The post WhatsApp e chat ospiti: si potrà scrivere a chi non ha un account appeare",
-      "link": "https://www.punto-informatico.it/whatsapp-chat-ospiti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T15:49:52+00:00"
-    },
-    {
-      "titolo": "La Germania apre la più grande palestra per robot umanoidi",
-      "descrizione": "A Monaco nasce RoboGym, centro da 2300 m² dove addestrare centinaia di robot umanoidi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651867/tum-robogym-germania-palestra-robot-umanoidi/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T15:45:00+00:00"
     }
   ]
 }

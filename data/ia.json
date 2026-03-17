@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-16T19:29:47.690703+00:00",
+  "last_updated": "2026-03-17T03:14:13.072051+00:00",
   "items": [
     {
-      "titolo": "Encyclopedia Britannica denuncia OpenAI",
-      "descrizione": "Encyclopedia Britannica ha denunciato OpenAI perché avrebbe usato gli articoli dell'enciclopedia per addestrare i modelli AI, violando il copyright. The post Encyclopedia Britannica denuncia OpenAI appeared first on Punt",
-      "link": "https://www.punto-informatico.it/encyclopedia-britannica-denuncia-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T18:21:57+00:00",
+      "titolo": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026",
+      "descrizione": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more.",
+      "link": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-16T21:52:49+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Is Not Ruling Out Ads in Gemini",
-      "descrizione": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-      "fonte": "WIRED",
-      "data": "2026-03-12T18:15:00+00:00",
+      "titolo": "Google porta Gemini dentro Workspace: l’AI diventa il nuovo collega dell’ufficio",
+      "descrizione": "Google prova a riscrivere il software da ufficio. Non con una nuova applicazione, ma con un collega artificiale. Gemini ora entra nel cuore di Docs, Sheets, Slides e Drive. Non...",
+      "link": "https://www.ilsole24ore.com/art/google-porta-gemini-dentro-workspace-l-ai-diventa-nuovo-collega-dell-ufficio-AIxJSzqB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-09T13:44:00+00:00",
       "modello": "gemini"
     },
     {
