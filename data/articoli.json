@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-03-17T03:14:08.946885+00:00",
+  "last_updated": "2026-03-17T07:30:52.235003+00:00",
   "items": [
+    {
+      "titolo": "Robot umanoide spaventa una donna: intervento della polizia a Macao",
+      "descrizione": "Robot umanoide spaventa una donna a Macao, interviene la polizia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n651904/robot-umanoide-spaventa-donna-macao/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T06:25:00+00:00"
+    },
+    {
+      "titolo": "Apple, il primo iPhone con porta Lightning è diventato ufficialmente obsoleto",
+      "descrizione": "iPhone 5 è stato il primo modello a sostituire il connettore a 30 pin con la porta Lightning",
+      "link": "https://www.hdblog.it/smartphone/articoli/n651930/apple-primo-iphone-lightning-obsoleto/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T06:20:00+00:00"
+    },
+    {
+      "titolo": "Kingston IronKey Locker+ 50 G2 ufficiale: chiavetta USB super blindata",
+      "descrizione": "Il protocollo è l'XTS-AES a 256 bit.",
+      "link": "https://www.hdblog.it/hardware/articoli/n651923/kingston-chiavetta-sicurezza-enterprise-criptata/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T06:05:00+00:00"
+    },
+    {
+      "titolo": "Grok trasforma foto scolastiche in materiale esplicito: causa contro xAI",
+      "descrizione": "Grok I ha generato materiale esplicito usando le foto di scuola di alcuni adolescenti. Le vittime hanno intentato una causa contro xAI. The post Grok trasforma foto scolastiche in materiale esplicito: causa contro xAI ap",
+      "link": "https://www.punto-informatico.it/foto-minori-rese-esplicite-grok-causa-contro-xai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T05:46:39+00:00"
+    },
+    {
+      "titolo": "NVIDIA e la rivoluzione del DLSS 5: inizia l'era del neural rendering",
+      "descrizione": "Altro che \"frame veri\" e \"frame finti\": in futuro ogni fotogramma sarà migliorato dall'AI. Appuntamento a quest'autunno.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n651925/nvidia-dlss-5-0-neural-rendering-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T05:45:00+00:00"
+    },
+    {
+      "titolo": "Nuovo laser VUV: è mille volte più efficiente per studiare i chip",
+      "descrizione": "Un laser VUV compatto e mille volte più efficiente promette nuovi studi su chip e orologi nucleari.",
+      "link": "https://www.hdblog.it/hardware/articoli/n651894/laser-vuv-compatto-chip-difetti/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T05:35:00+00:00"
+    },
+    {
+      "titolo": "Sam's Club Coupons and Deals: Save up to 60% in March 2026",
+      "descrizione": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "titolo": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
+      "descrizione": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "titolo": "KitchenAid Promo Codes and Discounts: Save Up to 20%",
+      "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-03-17T05:00:00+00:00"
+    },
     {
       "titolo": "I turned on notification summaries on my Pixel 9 Pro, and it was less chaotic than expected",
       "descrizione": "Your Pixel can show AI summaries of your notifications on the lock screen now - but there are a few caveats, including a potential privacy issue.",
@@ -105,69 +168,6 @@
       "link": "https://www.hdblog.it/indossabili/recensioni/n651756/recensione-nothing-headphone-a/",
       "fonte": "HDblog.it",
       "data": "2026-03-16T18:32:00+00:00"
-    },
-    {
-      "titolo": "Le Faraday bag sul tavolo del Consiglio Supremo di Difesa: perché vengono usate",
-      "descrizione": "Sono realizzate con materiali schermanti che creano una barriera attorno allo smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n651823/faraday-bag-perche-vengono-usate/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T18:31:00+00:00"
-    },
-    {
-      "titolo": "L’AI doveva ridurre il lavoro: uno studio dimostra che lo aumenta",
-      "descrizione": "Con l'AI il carico di lavoro è aumentato in ogni categoria, la concentrazione è diminuita e il lavoro nel weekend è cresciuto. The post L’AI doveva ridurre il lavoro: uno studio dimostra che lo aumenta appeared first on",
-      "link": "https://www.punto-informatico.it/ai-doveva-ridurre-lavoro-studio-dimostra-lo-aumenta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T18:26:15+00:00"
-    },
-    {
-      "titolo": "Encyclopedia Britannica denuncia OpenAI",
-      "descrizione": "Encyclopedia Britannica ha denunciato OpenAI perché avrebbe usato gli articoli dell'enciclopedia per addestrare i modelli AI, violando il copyright. The post Encyclopedia Britannica denuncia OpenAI appeared first on Punt",
-      "link": "https://www.punto-informatico.it/encyclopedia-britannica-denuncia-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T18:21:57+00:00"
-    },
-    {
-      "titolo": "Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips — companies diversify AI chips in effort to diversify from sole reliance on Nvidia",
-      "descrizione": "As Meta introduces its lineup of new AI chips, the company joins other tech giants in diversifying the AI accelerators used for specific workloads, and says that mainstream GPUs built for large-scale pre-training are les",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/metas-mtia-chip-lineup-joins-hyperscaler-push-to-replace-nvidia-at-inference",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T18:19:56+00:00"
-    },
-    {
-      "titolo": "L’offerta iliad con 250 GB in 5G è agli sgoccioli: attivala a meno di 10€",
-      "descrizione": "Hai tempo fino al 19 marzo per attivare TOP 250 PLUS, che a 9,99€ al mese include 250 GB in 5G (+25 GB in roaming), minuti e SMS illimitati. The post L’offerta iliad con 250 GB in 5G è agli sgoccioli: attivala a meno di",
-      "link": "https://www.punto-informatico.it/lofferta-iliad-con-250-gb-in-5g-e-agli-sgoccioli-attivala-a-meno-di-10e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T17:47:21+00:00"
-    },
-    {
-      "titolo": "Nvidia GTC 2026 keynote live blog — Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology'",
-      "descrizione": "Nvidia's GTC 2026 keynote has wrapped, but Tom's Hardware was on the ground to deliver live updates during CEO Jensen Huang's two-hour presentation.",
-      "link": "https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T17:45:09+00:00"
-    },
-    {
-      "titolo": "In Italia è in arrivo la seconda fabbrica di chip certificata Open EU Foundry",
-      "descrizione": "La fabbrica dovrebbe essere a pieno regime entro il 2033.",
-      "link": "https://www.hdblog.it/hardware/articoli/n651916/silicon-box-novara-open-eu-foundry-packaging-plp/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T17:45:00+00:00"
-    },
-    {
-      "titolo": "Nuova Nissan Micra 2026: divertente e sbarazzina, una citycar che sa farsi apprezzare - Video",
-      "descrizione": "Con la prova di nuova Nissan Micra 2026 abbiamo messo sotto i riflettori la sesta generazione, che adesso è elettrica e promette ottime autonomie!",
-      "link": "https://www.hdmotori.it/prove/prova-nuova-nissan-micra-2026-elettrica-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-16T17:30:14+00:00"
-    },
-    {
-      "titolo": "Influencer: FAQ su linee guida e codice di condotta",
-      "descrizione": "AGCOM ha pubblicato una serie di FAQ che chiariscono gli obblighi previsti da linee guida e codice di condotta per gli influencer rilevanti. The post Influencer: FAQ su linee guida e codice di condotta appeared first on",
-      "link": "https://www.punto-informatico.it/influencer-faq-linee-guida-codice-condotta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-16T17:29:22+00:00"
     }
   ]
 }
