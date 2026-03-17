@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-17T07:30:52.235003+00:00",
+  "last_updated": "2026-03-17T13:52:39.131571+00:00",
   "items": [
     {
-      "titolo": "Robot umanoide spaventa una donna: intervento della polizia a Macao",
-      "descrizione": "Robot umanoide spaventa una donna a Macao, interviene la polizia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n651904/robot-umanoide-spaventa-donna-macao/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T06:25:00+00:00"
-    },
-    {
-      "titolo": "Apple, il primo iPhone con porta Lightning è diventato ufficialmente obsoleto",
-      "descrizione": "iPhone 5 è stato il primo modello a sostituire il connettore a 30 pin con la porta Lightning",
-      "link": "https://www.hdblog.it/smartphone/articoli/n651930/apple-primo-iphone-lightning-obsoleto/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T06:20:00+00:00"
-    },
-    {
-      "titolo": "Kingston IronKey Locker+ 50 G2 ufficiale: chiavetta USB super blindata",
-      "descrizione": "Il protocollo è l'XTS-AES a 256 bit.",
-      "link": "https://www.hdblog.it/hardware/articoli/n651923/kingston-chiavetta-sicurezza-enterprise-criptata/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T06:05:00+00:00"
-    },
-    {
-      "titolo": "Grok trasforma foto scolastiche in materiale esplicito: causa contro xAI",
-      "descrizione": "Grok I ha generato materiale esplicito usando le foto di scuola di alcuni adolescenti. Le vittime hanno intentato una causa contro xAI. The post Grok trasforma foto scolastiche in materiale esplicito: causa contro xAI ap",
-      "link": "https://www.punto-informatico.it/foto-minori-rese-esplicite-grok-causa-contro-xai/",
+      "titolo": "ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno",
+      "descrizione": "Come sono cambiate le ricerche online su ChatGPT, Gemini e Claude nel corso degli ultimi dodici mesi: analizziamo i dati di Google Trends. The post ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno appeare",
+      "link": "https://www.punto-informatico.it/chatgpt-vs-gemini-vs-claude-trend-ricerca/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-17T05:46:39+00:00"
+      "data": "2026-03-17T13:50:46+00:00"
     },
     {
-      "titolo": "NVIDIA e la rivoluzione del DLSS 5: inizia l'era del neural rendering",
-      "descrizione": "Altro che \"frame veri\" e \"frame finti\": in futuro ogni fotogramma sarà migliorato dall'AI. Appuntamento a quest'autunno.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n651925/nvidia-dlss-5-0-neural-rendering-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T05:45:00+00:00"
-    },
-    {
-      "titolo": "Nuovo laser VUV: è mille volte più efficiente per studiare i chip",
-      "descrizione": "Un laser VUV compatto e mille volte più efficiente promette nuovi studi su chip e orologi nucleari.",
-      "link": "https://www.hdblog.it/hardware/articoli/n651894/laser-vuv-compatto-chip-difetti/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T05:35:00+00:00"
-    },
-    {
-      "titolo": "Sam's Club Coupons and Deals: Save up to 60% in March 2026",
-      "descrizione": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-      "link": "https://www.wired.com/story/sams-club-coupon/",
-      "fonte": "WIRED",
-      "data": "2026-03-17T05:00:00+00:00"
-    },
-    {
-      "titolo": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
-      "descrizione": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-      "link": "https://www.wired.com/story/expedia-coupon/",
-      "fonte": "WIRED",
-      "data": "2026-03-17T05:00:00+00:00"
-    },
-    {
-      "titolo": "KitchenAid Promo Codes and Discounts: Save Up to 20%",
-      "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-03-17T05:00:00+00:00"
-    },
-    {
-      "titolo": "I turned on notification summaries on my Pixel 9 Pro, and it was less chaotic than expected",
-      "descrizione": "Your Pixel can show AI summaries of your notifications on the lock screen now - but there are a few caveats, including a potential privacy issue.",
-      "link": "https://www.zdnet.com/article/android-notification-summaries-pixel-hands-on/",
-      "fonte": "Latest news",
-      "data": "2026-03-17T00:00:45+00:00"
-    },
-    {
-      "titolo": "Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency",
-      "descrizione": "The HBM4 36GB 12H stack runs at over 11 Gb/s pin speeds, delivering bandwidth greater than 2.8 TB/s.",
-      "link": "https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T22:47:35+00:00"
-    },
-    {
-      "titolo": "Is your Android phone crashing? This hidden 'safe mode' trick can find the culprit",
-      "descrizione": "Safe mode itself doesn't fix your Android phone's problems, but it helps you diagnose them.",
-      "link": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
-      "fonte": "Latest news",
-      "data": "2026-03-16T22:08:00+00:00"
-    },
-    {
-      "titolo": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026",
-      "descrizione": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more.",
-      "link": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-16T21:52:49+00:00"
-    },
-    {
-      "titolo": "Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 — AI buildout intensifies as Agentic AI takes hold",
-      "descrizione": "Nvidia believes it earn $1 trillion by selling AI hardware, says co-founder and chief executive Jensen Huang.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-expects-nvidia-to-sell-usd1-trillion-of-ai-hardware-through-2027-ai-buildout-intensifies-as-agentic-ai-takes-hold",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T20:41:57+00:00"
-    },
-    {
-      "titolo": "Nvidia wants to own your AI data center from end to end",
-      "descrizione": "Nvidia's CEO makes the case that AI data centers will be more efficient, more economical, and generate more revenue if you buy all the parts from his company.",
-      "link": "https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/",
-      "fonte": "Latest news",
-      "data": "2026-03-16T20:32:00+00:00"
-    },
-    {
-      "titolo": "Nvidia bets on OpenClaw, but adds a security layer - how NemoClaw works",
-      "descrizione": "The company sees OpenClaw as the future of personal AI, but gives it some much-needed privacy and security help.",
-      "link": "https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-16T20:28:00+00:00"
-    },
-    {
-      "titolo": "Nvidia announces Vera Rubin Space Module — up to 25x the AI compute of H100 for orbital data centers",
-      "descrizione": "Six commercial space companies are understood to have already deployed the platform.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-vera-rubin-space-module",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T20:04:59+00:00"
-    },
-    {
-      "titolo": "Nvidia's Nemotron coalition brings eight AI labs together to build open frontier models",
-      "descrizione": "\"Open models are the lifeblood of innovation and the engine of global participation in the AI revolution,\" said Nvidia CEO Jensen Huang.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-nemoclaw-coalition-brings-eight-ai-labs-together-to-build-open-frontier-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T20:04:37+00:00"
-    },
-    {
-      "titolo": "NVIDIA DLSS 5 è un game changer: il ChatGPT dei videogiochi",
-      "descrizione": "La nuova tecnologia DLSS 5 di NVIDIA promette un salto generazionale nella grafica dei videogiochi: arriverà in autunno sulle RTX 50. The post NVIDIA DLSS 5 è un game changer: il ChatGPT dei videogiochi appeared first on",
-      "link": "https://www.punto-informatico.it/nvidia-dlss-5/",
+      "titolo": "WhatsApp, disconnettersi senza perdere la cronologia delle chat",
+      "descrizione": "WhatsApp sta sviluppando un nuovo sistema di logout che permette di disconnettersi temporaneamente senza perdere la cronologia delle chat. The post WhatsApp, disconnettersi senza perdere la cronologia delle chat appeared",
+      "link": "https://www.punto-informatico.it/whatsapp-disconettersi-senza-perdere-cronologia-chat/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-16T19:58:14+00:00"
+      "data": "2026-03-17T13:18:52+00:00"
     },
     {
-      "titolo": "Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs",
-      "descrizione": "Intel announced today at Nvidia GTC 2026 in San Jose that its Xeon 6 processor will serve as the host CPU in Nvidia's DGX Rubin NVL8 systems.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T19:40:49+00:00"
+      "titolo": "Intelligenza artificiale, ecco perché Pignataro indica la via giusta sulle regole",
+      "descrizione": "L’imprenditore ha riconosciuto il valore delle norme. Ora bisogna proseguire sulla semplificazione nell’applicazione e l’efficacia dell’azione giudiziaria",
+      "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-ecco-perche-pignataro-indica-via-giusta-regole-AIPqBuyB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-17T13:01:41+00:00"
     },
     {
-      "titolo": "Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC — SRAM-packed accelerator boosts 'every layer of the AI model on every token'",
-      "descrizione": "At GTC 2026, Nvidia revealed the Groq 3 accelerator and Groq LPX rack as part of the Vera Rubin platform. These SRAM-packed, inference-focused chips deliver large amounts of memory bandwidth to help Rubin deliver low-lat",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T19:31:03+00:00"
+      "titolo": "As AI agents spread, 1Password's new tool tackles a rising security threat",
+      "descrizione": "AI agents increasingly need credentials to log into your systems. 1Password wants to help secure them. Here's how.",
+      "link": "https://www.zdnet.com/article/1password-introduces-unified-credential-security-platform/",
+      "fonte": "Latest news",
+      "data": "2026-03-17T13:00:44+00:00"
     },
     {
-      "titolo": "Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel – new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput",
-      "descrizione": "Nvidia announced more details about its new 88-core Vera data center CPUs, claiming impressive 50% performance gains over standard CPUs, fueled by a 1.5X increase in IPC from its Olympus cores. The firm also unveiled its",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T19:29:57+00:00"
+      "titolo": "Manus My Computer è l’agente AI che non accede al cloud",
+      "descrizione": "Manus My Computer è il nuovo agente AI che esegue compiti in autonomia sul computer tramite accesso a file, app e documenti in totale sicurezza. The post Manus My Computer è l’agente AI che non accede al cloud appeared f",
+      "link": "https://www.punto-informatico.it/manus-my-computer-agente-ai-non-accede-cloud/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T12:23:26+00:00"
     },
     {
-      "titolo": "Nvidia debuts DLSS 5 for increased visual fidelity in games — AI-infused tech transforms pixels with photorealistic lighting and materials",
-      "descrizione": "DLSS 5 is coming to make your favorite games look even more realistic",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-debuts-dlss-5-for-increased-visual-fidelity-in-games-ai-infused-tech-transforms-pixels-with-photorealistic-lighting-and-materials",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-16T19:12:31+00:00"
-    },
-    {
-      "titolo": "Recensione Nothing Headphone (a): per molti saranno migliori delle (1) più costose",
-      "descrizione": "Abbiamo provato a fondo le nuove cuffie di Nothing over-ear, le Headphone (a): costano molto meno della versione premium (1), ma rinunciano a poco. Sono quelle da acquistare per 150 euro o meno?",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n651756/recensione-nothing-headphone-a/",
+      "titolo": "Stanchi dello streaming? Video StoreAge recupera il valore di possedere dei film",
+      "descrizione": "Con Video StoreAge i film arrivano su chiavette USB per offrire un’esperienza più concreta rispetto allo streaming. I contenuti possono essere conservati, prestati e non dipendono dalle piattaforme...",
+      "link": "https://www.hdblog.it/tv/articoli/n651993/film-chiavetta-usb-c-come-dvd/",
       "fonte": "HDblog.it",
-      "data": "2026-03-16T18:32:00+00:00"
+      "data": "2026-03-17T12:20:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA NemoClaw vuole portare OpenClaw nel mondo Enterprise",
+      "descrizione": "Più sicurezza e più facilità di installazione.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n651994/nvidia-nemoclaw-openclaw-enterprise-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T12:05:00+00:00"
+    },
+    {
+      "titolo": "DS N°7, ambizione francese e produzione italiana: com'è il nuovo SUV",
+      "descrizione": "Debutta la nuova DS N°7, SUV dal gusto raffinato e dalla tecnologia all'avanguardia. Motorizzazioni ibride ed elettriche",
+      "link": "https://www.hdmotori.it/ds-n7-caratteristiche-motori/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T12:00:35+00:00"
+    },
+    {
+      "titolo": "L’ossessione dell’esercito USA per l’AI rischia di causare catastrofi",
+      "descrizione": "Secondo un’analisi del Brennan Center for Justice l'uso di sistemi AI non testati da parte dell'esercito USA potrebbe aumentare errori e vittime civili. The post L’ossessione dell’esercito USA per l’AI rischia di causare",
+      "link": "https://www.punto-informatico.it/ossessione-esercito-usa-ai-rischia-causare-catastrofi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T11:57:40+00:00"
+    },
+    {
+      "titolo": "OPPO Find N6 ufficiale: super sottile e (quasi) senza piega",
+      "descrizione": "Tutte le caratteristiche del nuovo pieghevole OPPO.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n651988/oppo-find-n6-ufficiale-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T11:50:00+00:00"
+    },
+    {
+      "titolo": "Alternativa AirTag per Android: FineTrack Duo a 29€ su Amazon (4 pezzi)",
+      "descrizione": "Traccia i tuoi oggetti con FineTrack Duo di Ugreen, i tracker come AirTag in offerta su Amazon. The post Alternativa AirTag per Android: FineTrack Duo a 29€ su Amazon (4 pezzi) appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/alternativa-airtag-per-android-finetrack-duo-a-29e-su-amazon-4-pezzi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T11:49:56+00:00"
+    },
+    {
+      "titolo": "DOOM The Dark Ages, bucato Denuvo: è il primo gioco del 2025",
+      "descrizione": "Il software anti-pirateria australiano è sempre più difficile da violare, però.",
+      "link": "https://www.hdblog.it/games/articoli/n651991/doom-the-dark-ages-craccato-denuvo-voices38/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T11:45:00+00:00"
+    },
+    {
+      "titolo": "Truffe informatiche: nuovo business dei clan di camorra",
+      "descrizione": "Le truffe informatiche tramite pishing, vishing e smishing sono diventate un nuova fonte di profitti illeciti per i clan di camorra a Napoli e provincia. The post Truffe informatiche: nuovo business dei clan di camorra a",
+      "link": "https://www.punto-informatico.it/truffe-informatiche-nuovo-business-clan-camorra/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T11:25:30+00:00"
+    },
+    {
+      "titolo": "Crisi RAM: flebile calo dei prezzi a marzo, la guerra mette a rischio la discesa?",
+      "descrizione": "I prezzi delle RAM DDR5 registrano un primo calo del 7% a marzo dopo mesi di forti aumenti. Tuttavia, rispetto a luglio 2025, i costi restano ancora oltre tre volte più alti",
+      "link": "https://www.hdblog.it/hardware/articoli/n651990/prezzi-ram-discesa-marzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T11:20:00+00:00"
+    },
+    {
+      "titolo": "Curiosity scopre la roccia Timboy Chaco su Marte",
+      "descrizione": "Curiosity fotografa Timboy Chaco su Marte: indizi su acqua e possibile vita passata.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n651900/curiosity-timboy-chaco-marte/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T11:15:00+00:00"
+    },
+    {
+      "titolo": "3 offerte per casa e fai da te folli su eBay con il nuovo coupon",
+      "descrizione": "Per casa e fai da te abbiamo scoperto 3 offerte incredibilmente vantaggiose su eBay compatibili con il nuovo coupon MARZO26: ultimi pezzi! The post 3 offerte per casa e fai da te folli su eBay con il nuovo coupon appeare",
+      "link": "https://www.punto-informatico.it/3-offerte-per-casa-e-fai-da-te-folli-su-ebay-con-il-nuovo-coupon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T11:11:32+00:00"
+    },
+    {
+      "titolo": "Alexa+ in Italia? Proviamo a immaginare quando potrebbe arrivare",
+      "descrizione": "L'esclusiva USA di Alexa+ potrebbe cadere presto: partiamo da un indizio concreto per provare a capire quando potrebbe arrivare in Italia. The post Alexa+ in Italia? Proviamo a immaginare quando potrebbe arrivare appeare",
+      "link": "https://www.punto-informatico.it/alexa-plus-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T10:57:38+00:00"
+    },
+    {
+      "titolo": "Google introduce la sincronizzazione Wi-Fi tra dispositivi con lo stesso account",
+      "descrizione": "Con l’aggiornamento di marzo 2026, Google introduce nei Play Services una funzione di sincronizzazione Wi-Fi che consente di condividere automaticamente le credenziali tra dispositivi collegati allo...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n651981/google-aggiornamenti-sistema-meta-marzo-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T10:55:00+00:00"
+    },
+    {
+      "titolo": "Spotify arriva sugli occhiali smart con Android XR",
+      "descrizione": "Nel codice beta di Spotify sono state trovate tracce di una schermata In riproduzione e alla visualizzazione dei testi per gli occhiali Android XR. The post Spotify arriva sugli occhiali smart con Android XR appeared fir",
+      "link": "https://www.punto-informatico.it/spotify-arriva-occhiali-smart-android-xr/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-17T10:51:30+00:00"
+    },
+    {
+      "titolo": "Samsung, arrivano le RAM HBM4E: sempre più veloci per il mondo AI",
+      "descrizione": "Potrebbero trovare posto già nei prossimi acceleratori ultra top di NVIDIA, i Vera Rubin Ultra.",
+      "link": "https://www.hdblog.it/hardware/articoli/n651980/samsung-hbm4e-memorie-ram-chip-ai-nvidia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T10:45:00+00:00"
+    },
+    {
+      "titolo": "Yuka, l'app francese penalizza le eccellenze italiane: il caso arriva in Parlamento",
+      "descrizione": "Il presidente della Commissione Agricoltura della Camera, Mirco Carloni, ha infatti presentato un’interrogazione",
+      "link": "https://www.hdblog.it/mercato/articoli/n651974/yuka-app-francese-penalizza-eccellenze-italiane/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T10:40:00+00:00"
+    },
+    {
+      "titolo": "Realme 16 Pro e 16 Pro+ disponibili in Italia con Buds Air8 | PREZZI e promo",
+      "descrizione": "Realme ha annunciato l'arrivo anche sul mercato italiano dei nuovi realme 16 Pro",
+      "link": "https://www.hdblog.it/smartphone/articoli/n651014/realme-16-pro-italia-design-caratteristiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T10:35:00+00:00"
+    },
+    {
+      "titolo": "Ibride plug-in, i consumi reali sono il triplo di quelli dichiarati. Lo studio che lo dimostra",
+      "descrizione": "Il Fraunhofer Institut ha analizzato i dati reali di 981.000 veicoli in Europa. Il risultato smentisce i valori WLTP e rimette in discussione i test di omologazione.",
+      "link": "https://www.hdmotori.it/consumi-ibridi-plug-in/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T10:30:31+00:00"
+    },
+    {
+      "titolo": "Airflow enthusiast 3D-prints 15 tiny fans to fit inside a custom, domed Noctua NF-A12x25 frame — bizarre 'Fanhattan Project' cools the CPU just as well as a regular fan",
+      "descrizione": "Have you ever wanted to use a fan that's more than three times as loud as the other option while providing the same performance? If you answered in resounding joy, then this project is exactly what you've been looking fo",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/airflow-enthusiast-3d-prints-15-tiny-fans-to-fit-inside-a-custom-domed-noctua-nf-a12x25-frame-bizarre-fanhattan-project-cools-the-cpu-just-as-well-as-a-regular-fan",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-17T10:28:51+00:00"
     }
   ]
 }
