@@ -1,37 +1,45 @@
 {
-  "last_updated": "2026-03-18T07:19:09.152664+00:00",
+  "last_updated": "2026-03-18T13:55:13.666694+00:00",
   "items": [
     {
-      "titolo": "GPT‑5.4 mini e nano: modelli compatti per coding e sotto-agenti",
-      "descrizione": "Ufficiali i nuovi modelli GPT di OpenAI: le versioni mini e nano di ultima generazione sono ottimizzate per programmazione e sotto-agenti. The post GPT‑5.4 mini e nano: modelli compatti per coding e sotto-agenti appeared",
-      "link": "https://www.punto-informatico.it/gpt-5-4-mini-nano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T07:07:30+00:00",
+      "titolo": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
+      "descrizione": "The latest GPT-5.4 mini model delivers benchmark results surprisingly close to the full GPT-5.4 model while running much faster, signaling a shift toward smaller AI models powering real-world applications.",
+      "link": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
+      "fonte": "Latest news",
+      "data": "2026-03-17T17:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft, ennesimo terremoto ai vertici: grandi novità per Copilot",
-      "descrizione": "Nadella vuole un'unificazione di \"Copilot Business\" e \"Copilot Consumer\" in un'interfaccia e un set di funzioni coerente.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n652066/microsoft-copilot-ai-dirigenza-riorganizzazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T17:25:00+00:00",
+      "titolo": "AI opzionale su W11: stop all’installazione di Microsoft 365 Copilot",
+      "descrizione": "Microsoft sospende l'installazione automatica dell'app 365 Copilot su Windows 11: confermata l'intenzione di rendere l'AI opzionale. The post AI opzionale su W11: stop all’installazione di Microsoft 365 Copilot appeared",
+      "link": "https://www.punto-informatico.it/ai-opzionale-w11-stop-installazione-microsoft-365-copilot/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-18T09:39:54+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google porta Gemini dentro Workspace: l’AI diventa il nuovo collega dell’ufficio",
-      "descrizione": "Google prova a riscrivere il software da ufficio. Non con una nuova applicazione, ma con un collega artificiale. Gemini ora entra nel cuore di Docs, Sheets, Slides e Drive. Non...",
-      "link": "https://www.ilsole24ore.com/art/google-porta-gemini-dentro-workspace-l-ai-diventa-nuovo-collega-dell-ufficio-AIxJSzqB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-09T13:44:00+00:00",
+      "titolo": "Gemini diventa più personale: Personal Intelligence sarà gratis per tutti",
+      "descrizione": "Gemini si personalizza gratis negli USA usando dati da app Google.",
+      "link": "https://www.hdblog.it/google/articoli/n652125/gemini-personalizzazione-gratis-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-18T09:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "descrizione": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "fonte": "WIRED",
-      "data": "2026-03-18T00:51:14+00:00",
+      "titolo": "Anthropic bloccherà l’accesso a Claude per uso militare?",
+      "descrizione": "Secondo il governo statunitense, Anthropic rappresenta un pericolo per la sicurezza nazionale in quanto potrebbe disattivare l'accesso a Claude, The post Anthropic bloccherà l’accesso a Claude per uso militare? appeared",
+      "link": "https://www.punto-informatico.it/anthropic-blocchera-accesso-claude-uso-militare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-18T11:33:49+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Mistral lancia Forge per addestrare modelli AI aziendali da zero",
+      "descrizione": "Mistral lancia Forge, una piattaforma che permette alle aziende di addestrare modelli AI da zero sui propri dati. Tra i primi clienti anche ESA. The post Mistral lancia Forge per addestrare modelli AI aziendali da zero a",
+      "link": "https://www.punto-informatico.it/mistral-forge-addestrare-modelli-ai-aziendali-da-zero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-18T11:49:39+00:00",
+      "modello": "altri"
     }
   ]
 }
