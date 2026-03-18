@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-18T03:21:37.621174+00:00",
+  "last_updated": "2026-03-18T07:19:09.152664+00:00",
   "items": [
     {
-      "titolo": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
-      "descrizione": "The latest GPT-5.4 mini model delivers benchmark results surprisingly close to the full GPT-5.4 model while running much faster, signaling a shift toward smaller AI models powering real-world applications.",
-      "link": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
-      "fonte": "Latest news",
-      "data": "2026-03-17T17:00:00+00:00",
+      "titolo": "GPT‑5.4 mini e nano: modelli compatti per coding e sotto-agenti",
+      "descrizione": "Ufficiali i nuovi modelli GPT di OpenAI: le versioni mini e nano di ultima generazione sono ottimizzate per programmazione e sotto-agenti. The post GPT‑5.4 mini e nano: modelli compatti per coding e sotto-agenti appeared",
+      "link": "https://www.punto-informatico.it/gpt-5-4-mini-nano/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-18T07:07:30+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini copia ChatGPT: arriva il ramo della chat",
-      "descrizione": "Google ha dato il via ai test per portare su Gemini una nuova funzione che crea un ramo della chat, proprio come già avviene su ChatGPT. The post Gemini copia ChatGPT: arriva il ramo della chat appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/gemini-ramo-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T14:26:46+00:00",
+      "titolo": "Google porta Gemini dentro Workspace: l’AI diventa il nuovo collega dell’ufficio",
+      "descrizione": "Google prova a riscrivere il software da ufficio. Non con una nuova applicazione, ma con un collega artificiale. Gemini ora entra nel cuore di Docs, Sheets, Slides e Drive. Non...",
+      "link": "https://www.ilsole24ore.com/art/google-porta-gemini-dentro-workspace-l-ai-diventa-nuovo-collega-dell-ufficio-AIxJSzqB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-09T13:44:00+00:00",
       "modello": "gemini"
     },
     {
