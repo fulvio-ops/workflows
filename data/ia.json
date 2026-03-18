@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T19:30:10.877879+00:00",
+  "last_updated": "2026-03-18T03:21:37.621174+00:00",
   "items": [
     {
       "titolo": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno",
-      "descrizione": "Come sono cambiate le ricerche online su ChatGPT, Gemini e Claude nel corso degli ultimi dodici mesi: analizziamo i dati di Google Trends. The post ChatGPT vs Gemini vs Claude: i trend di ricerca nell’ultimo anno appeare",
-      "link": "https://www.punto-informatico.it/chatgpt-vs-gemini-vs-claude-trend-ricerca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T13:50:46+00:00",
+      "titolo": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "descrizione": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "fonte": "WIRED",
+      "data": "2026-03-18T00:51:14+00:00",
       "modello": "claude"
     }
   ]

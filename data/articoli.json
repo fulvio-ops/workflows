@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-03-17T19:30:07.643497+00:00",
+  "last_updated": "2026-03-18T03:21:32.564408+00:00",
   "items": [
+    {
+      "titolo": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+      "descrizione": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+      "link": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+      "fonte": "WIRED",
+      "data": "2026-03-17T22:24:51+00:00"
+    },
+    {
+      "titolo": "Nvidia updates data center roadmap with Rosa CPU and stacked Feynman GPUs — optical NVLink, Groq LPUs with NVFP4, and NVLink also on deck",
+      "descrizione": "Nvidia publishes 2026 – 2028 data center roadmap with Rosa CPU, Feynman GPU, optical NVLinks and Groq LPUs with NVFP4 and NVLink.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-17T20:42:56+00:00"
+    },
+    {
+      "titolo": "Jensen says Nvidia has received orders from Chinese customers for H200 GPUs, licenses from US gov't — H200 manufacturing restarting",
+      "descrizione": "This marks the first time that Nvidia's China supply chain has been back in motion since export restrictions froze shipments over a year ago.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-has-received-pos-from-chinese-customers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-17T20:18:31+00:00"
+    },
+    {
+      "titolo": "A chief AI officer is no longer enough - why your business needs a 'magician' too",
+      "descrizione": "Looking to get more out of generative AI? Here are three reasons your company needs a senior data leader with strong cross-team authority.",
+      "link": "https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/",
+      "fonte": "Latest news",
+      "data": "2026-03-17T19:55:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash",
+      "descrizione": "Nvidia CEO Jensen Huang responded to backlash against DLSS 5, saying artistic control remained with developers and that the AI works with existing geometry.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-17T19:29:45+00:00"
+    },
+    {
+      "titolo": "Realme 16 Pro+ alla prova: con il software e l'AI può sembrare una fotocamera",
+      "descrizione": "Abbiamo messo alla prova il nuovo Realme 16 Pro plus per vedere come se la cava in un test sul campo. Ecco come è andata!",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n651533/realme-16-pro-plus-test-foto-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T18:46:00+00:00"
+    },
+    {
+      "titolo": "POCO X8 Pro e Pro Max ufficiali: caratteristiche, prezzi e promo di lancio",
+      "descrizione": "POCO ha presentato oggi POCO X8 Pro Max e POCO X8 Pro",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652000/poco-x8-pro-max-ufficiali-caratteristiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-17T18:45:00+00:00"
+    },
     {
       "titolo": "Tim Cook non intende abbandonare il timone di Apple tanto presto",
       "descrizione": "Il CEO più longevo della storia della Mela continua ad apprezzare il lavoro quotidiano e dà la sensazione di avere ancora un sacco di energia per guidare una delle più grosse aziende al mondo.",
@@ -119,55 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-seven-chip-vera-rubin-platforms-turns-the-data-center-into-an-ai-factory",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-17T16:25:44+00:00"
-    },
-    {
-      "titolo": "Lenovo svela le nuove workstation AI e una super batteria per notebook",
-      "descrizione": "Nuovo passo del suo impegno per migliorare il lavoro dei professionisti.",
-      "link": "https://www.hdblog.it/portatili/articoli/n652034/lenovo-nuove-workstation-ai-ready-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T16:25:00+00:00"
-    },
-    {
-      "titolo": "Siti web distribuiscono malware con finti CAPTCHA",
-      "descrizione": "Una nuova variante del noto attacco ClickFix sfrutta i CAPTCHA su siti WordPress compromessi per ingannare l'utente e installare l'infostealer Vidar. The post Siti web distribuiscono malware con finti CAPTCHA appeared fi",
-      "link": "https://www.punto-informatico.it/siti-web-distribuiscono-malware-finti-captcha/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T16:19:25+00:00"
-    },
-    {
-      "titolo": "Garmin Venu 4 con Torcia e telefono: lo sconto Amazon è imperdibile",
-      "descrizione": "GArmin Venu 4 può spaventare per il suo prezzo, ma la qualità è il punto focale di questo smartwatch in offerta su Amazon. The post Garmin Venu 4 con Torcia e telefono: lo sconto Amazon è imperdibile appeared first on Pu",
-      "link": "https://www.punto-informatico.it/garmin-venu-4-con-whatsapp-e-telefono-lo-sconto-amazon-e-imperdibile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T16:17:09+00:00"
-    },
-    {
-      "titolo": "EndeavorOS Titan stands out among Arch-based Linux distros - here's why",
-      "descrizione": "EndeavorOS Titan is the latest release in this Arch-based distribution, and it is well worth the update, especially if you depend on a GPU with the proper drivers.",
-      "link": "https://www.zdnet.com/article/endeavoros-titan/",
-      "fonte": "Latest news",
-      "data": "2026-03-17T16:09:00+00:00"
-    },
-    {
-      "titolo": "Amazon launches 1-hour delivery in 2,000 cities - is yours on the list?",
-      "descrizione": "You can order household essentials to your door in an hour, but delivery might cost as much as the item does.",
-      "link": "https://www.zdnet.com/article/amazon-one-hour-delivery/",
-      "fonte": "Latest news",
-      "data": "2026-03-17T16:07:00+00:00"
-    },
-    {
-      "titolo": "Intel Core Ultra 200HX Plus ufficiali: le nuove CPU per laptop gaming di fascia alta",
-      "descrizione": "Due processori, fino all'8% in più di prestazioni nel gaming rispetto al precedente flagship.",
-      "link": "https://www.hdblog.it/hardware/articoli/n652055/intel-arrow-lake-core-ultra-200hx-plus-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-17T16:05:00+00:00"
-    },
-    {
-      "titolo": "La classifica degli e-commerce in Italia: primo Amazon, poi?",
-      "descrizione": "Amazon resta saldamente al primo posto tra gli e-commerce più popolari in Italia, ma c'è una new entry sul gradino più basso del podio. The post La classifica degli e-commerce in Italia: primo Amazon, poi? appeared first",
-      "link": "https://www.punto-informatico.it/classifica-ecommerce-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-17T15:58:15+00:00"
     }
   ]
 }
