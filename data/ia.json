@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-03-18T13:55:13.666694+00:00",
+  "last_updated": "2026-03-18T19:18:37.970094+00:00",
   "items": [
     {
-      "titolo": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
-      "descrizione": "The latest GPT-5.4 mini model delivers benchmark results surprisingly close to the full GPT-5.4 model while running much faster, signaling a shift toward smaller AI models powering real-world applications.",
-      "link": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
-      "fonte": "Latest news",
-      "data": "2026-03-17T17:00:00+00:00",
+      "titolo": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "descrizione": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+      "fonte": "WIRED",
+      "data": "2026-03-18T18:01:18+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "AI opzionale su W11: stop all’installazione di Microsoft 365 Copilot",
-      "descrizione": "Microsoft sospende l'installazione automatica dell'app 365 Copilot su Windows 11: confermata l'intenzione di rendere l'AI opzionale. The post AI opzionale su W11: stop all’installazione di Microsoft 365 Copilot appeared",
-      "link": "https://www.punto-informatico.it/ai-opzionale-w11-stop-installazione-microsoft-365-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T09:39:54+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini diventa più personale: Personal Intelligence sarà gratis per tutti",
-      "descrizione": "Gemini si personalizza gratis negli USA usando dati da app Google.",
-      "link": "https://www.hdblog.it/google/articoli/n652125/gemini-personalizzazione-gratis-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-18T09:55:00+00:00",
+      "titolo": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "descrizione": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+      "fonte": "WIRED",
+      "data": "2026-03-18T18:01:18+00:00",
       "modello": "gemini"
     },
     {
