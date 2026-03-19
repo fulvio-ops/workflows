@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T19:18:37.970094+00:00",
+  "last_updated": "2026-03-19T03:22:13.450094+00:00",
   "items": [
     {
       "titolo": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-      "descrizione": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-      "fonte": "WIRED",
-      "data": "2026-03-18T18:01:18+00:00",
+      "titolo": "I tried Gemini's Personal Intelligence, and it was accurate in a useful (but unsettling) way",
+      "descrizione": "I gave Gemini's hyper-personalized mode a test drive and was shocked by how much it knew about me. However, it was surprisingly useful.",
+      "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
+      "fonte": "Latest news",
+      "data": "2026-03-19T00:50:00+00:00",
       "modello": "gemini"
     },
     {

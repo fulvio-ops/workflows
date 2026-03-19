@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-03-18T19:18:33.922401+00:00",
+  "last_updated": "2026-03-19T03:22:09.238884+00:00",
   "items": [
+    {
+      "titolo": "You can now order 1-hour Amazon deliveries across 2,000 cities - is yours on the list?",
+      "descrizione": "Items, including household essentials, will arrive at your door in an hour, but delivery might cost as much as the item itself.",
+      "link": "https://www.zdnet.com/article/amazon-one-hour-delivery/",
+      "fonte": "Latest news",
+      "data": "2026-03-18T21:40:00+00:00"
+    },
+    {
+      "titolo": "Nvidia will only produce one 88-core Vera CPU model — Jensen says the company will make billions of dollars from a single SKU",
+      "descrizione": "Nvidia intends to build a multi-billion-dollar CPU business with its Vera processors, but only plans to offer one SKU.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-18T19:38:48+00:00"
+    },
+    {
+      "titolo": "With H200s set to flow into China, Groq is reportedly set to follow — Nvidia is allegedly preparing a custom version of inferencing chip to penetrate region",
+      "descrizione": "According to a new report, Nvidia's Groq inferencing chips are set to head to China for export, following approval of its H200 AI accelerators.",
+      "link": "https://www.tomshardware.com/tech-industry/with-h200s-set-to-flow-into-china-groq-is-reportedly-set-to-follow-nvidia-is-allegedly-preparing-a-custom-version-of-inferencing-chip-to-penetrate-region",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-18T19:23:47+00:00"
+    },
+    {
+      "titolo": "Approfondimento fotografico Xiaomi 17 Ultra: tutti i segreti del super top di gamma",
+      "descrizione": "Abbiamo testato a fondo le potenzialità fotografiche del nuovo Xiaomi 17 Ultra. Ecco la nostra analisi approfondita.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n651825/approfondimento-fotografico-xiaomi-17-ultra/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-18T18:26:00+00:00"
+    },
+    {
+      "titolo": "Truffe telefoniche, tornano le chiamate dall’estero: cosa fare e prefissi da evitare",
+      "descrizione": "Dopo una fase di relativa calma, nelle ultime settimane sempre più persone in Italia hanno ricominciato a ricevere telefonate e messaggi",
+      "link": "https://www.hdblog.it/mobile/articoli/n652082/truffe-telefoniche-tornano-chiamate-estero/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-18T18:25:00+00:00"
+    },
     {
       "titolo": "Best early Amazon Spring Sale robot vacuum deals 2026",
       "descrizione": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals ahead of Amazon's Big Spring Sale.",
@@ -128,46 +163,11 @@
       "data": "2026-03-18T15:42:28+00:00"
     },
     {
-      "titolo": "Huawei Watch GT Runner 2 disponibile all'acquisto in Italia | PREZZO",
-      "descrizione": "Lo smartwatch per la corsa è in promo!",
-      "link": "https://www.hdblog.it/indossabili/articoli/n652191/huawei-watch-gt-runner-2-disponibile-italia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-18T15:40:00+00:00"
-    },
-    {
       "titolo": "Startup in 48 ore spendendo meno di 100 euro con EU Inc.",
       "descrizione": "EU Inc. è un insieme di regole armonizzate che semplificano le procedure burocratiche per avviare una startup entro 48 ore e con meno di 100 euro. The post Startup in 48 ore spendendo meno di 100 euro con EU Inc. appeare",
       "link": "https://www.punto-informatico.it/startup-48-ore-100-euro-eu-inc/",
       "fonte": "Punto Informatico",
       "data": "2026-03-18T15:34:24+00:00"
-    },
-    {
-      "titolo": "X down: Twitter non funziona il 18 marzo 2026 (update)",
-      "descrizione": "Problemi per X: il social è fermo e non carica i post; tutti gli aggiornamento sullo stop alla piattaforma (ex Twitter) di Elon Musk. The post X down: Twitter non funziona il 18 marzo 2026 (update) appeared first on Punt",
-      "link": "https://www.punto-informatico.it/x-down-18032026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T15:33:30+00:00"
-    },
-    {
-      "titolo": "This one iPhone setting immediately stops all apps from tracking you - turn it off today",
-      "descrizione": "You can easily prevent apps from tracking your activity and serving up creepy, hyper-targeted ads. Here's how.",
-      "link": "https://www.zdnet.com/article/how-to-stop-iphone-apps-from-tracking-you/",
-      "fonte": "Latest news",
-      "data": "2026-03-18T15:26:00+00:00"
-    },
-    {
-      "titolo": "Streaming e vinili spingono la musica: in Italia vale più del cinema",
-      "descrizione": "La musica in Italia vale sempre di più: crescita costante da otto anni, streaming da record e nuove sfide legate all'AI generativa. The post Streaming e vinili spingono la musica: in Italia vale più del cinema appeared f",
-      "link": "https://www.punto-informatico.it/streaming-vinili-musica-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T15:11:23+00:00"
-    },
-    {
-      "titolo": "La corsa al bollino “Senza AI”, almeno 8 iniziative nel mondo",
-      "descrizione": "Almeno otto iniziative nel mondo cercano di creare un logo Senza AI per prodotti culturali come il Fair Trade per il commercio equo. The post La corsa al bollino “Senza AI”, almeno 8 iniziative nel mondo appeared first o",
-      "link": "https://www.punto-informatico.it/corsa-bollino-senza-ai-almeno-8-iniziative-mondo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T15:06:05+00:00"
     }
   ]
 }
