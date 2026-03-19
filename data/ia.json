@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T03:22:13.450094+00:00",
+  "last_updated": "2026-03-19T07:16:12.960466+00:00",
   "items": [
     {
       "titolo": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
@@ -10,28 +10,20 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tried Gemini's Personal Intelligence, and it was accurate in a useful (but unsettling) way",
-      "descrizione": "I gave Gemini's hyper-personalized mode a test drive and was shocked by how much it knew about me. However, it was surprisingly useful.",
-      "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
-      "fonte": "Latest news",
-      "data": "2026-03-19T00:50:00+00:00",
+      "titolo": "Opera 129 è arrivato, basato su Chromium 145. Ecco tutte le novità",
+      "descrizione": "Novità soprattutto per Gemini.",
+      "link": "https://www.hdblog.it/windows/articoli/n652237/opera-browser-129-novita-download-disponibile/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-19T06:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic bloccherà l’accesso a Claude per uso militare?",
-      "descrizione": "Secondo il governo statunitense, Anthropic rappresenta un pericolo per la sicurezza nazionale in quanto potrebbe disattivare l'accesso a Claude, The post Anthropic bloccherà l’accesso a Claude per uso militare? appeared",
-      "link": "https://www.punto-informatico.it/anthropic-blocchera-accesso-claude-uso-militare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T11:33:49+00:00",
+      "titolo": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "descrizione": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "fonte": "WIRED",
+      "data": "2026-03-18T00:51:14+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Mistral lancia Forge per addestrare modelli AI aziendali da zero",
-      "descrizione": "Mistral lancia Forge, una piattaforma che permette alle aziende di addestrare modelli AI da zero sui propri dati. Tra i primi clienti anche ESA. The post Mistral lancia Forge per addestrare modelli AI aziendali da zero a",
-      "link": "https://www.punto-informatico.it/mistral-forge-addestrare-modelli-ai-aziendali-da-zero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-18T11:49:39+00:00",
-      "modello": "altri"
     }
   ]
 }
