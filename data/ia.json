@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-03-19T13:43:06.272709+00:00",
+  "last_updated": "2026-03-19T19:16:06.437132+00:00",
   "items": [
     {
-      "titolo": "RAI presenta UMV, il robot su due ruote rapido e agile tra gli ostacoli",
-      "descrizione": "Un robot su due ruote resta in equilibrio, accelera e supera ostacoli.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n652046/robot-bicicletta-ostacoli-velocita/",
+      "titolo": "OnePlus Nord 6, la confezione conferma una super batteria e altre specifiche chiave",
+      "descrizione": "Una capienza impressionante. E il lancio è vicino.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652353/oneplus-nord-6-specifiche-confezione-batteria-9000/",
       "fonte": "HDblog.it",
-      "data": "2026-03-19T10:45:00+00:00",
+      "data": "2026-03-19T17:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tried Gemini's Personal Intelligence, and it was accurate in a useful (but unsettling) way",
-      "descrizione": "I gave Gemini's hyper-personalized mode a test drive and was shocked by how much it knew about me. However, it was surprisingly useful.",
-      "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
-      "fonte": "Latest news",
-      "data": "2026-03-19T00:50:00+00:00",
+      "titolo": "Microsoft frena Copilot su Windows: stop alle installazioni forzate",
+      "descrizione": "Microsoft sospende l’installazione automatica di Copilot su Windows.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n652335/microsoft-copilot-stop-installazione-automatica/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-19T14:50:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Gemini, nell'app è in arrivo la scheda Discover",
+      "descrizione": "Prime ipotesi sul contenuto",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652340/gemini-novita-app-scheda-discover/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-19T16:35:00+00:00",
       "modello": "gemini"
     },
     {
