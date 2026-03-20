@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-03-19T19:16:02.580948+00:00",
+  "last_updated": "2026-03-20T03:10:59.434695+00:00",
   "items": [
+    {
+      "titolo": "EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why",
+      "descrizione": "EndeavorOS Titan is the newest release in this Arch-based distribution, and it is well worth the update, especially if you depend on proper GPU drivers.",
+      "link": "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
+      "fonte": "Latest news",
+      "data": "2026-03-20T02:30:39+00:00"
+    },
+    {
+      "titolo": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+      "descrizione": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+      "fonte": "WIRED",
+      "data": "2026-03-19T21:43:56+00:00"
+    },
+    {
+      "titolo": "La generazione social è la meno felice: a rischio gli under 25",
+      "descrizione": "Il nuovo studio ha evidenziato il rapporto tra utilizzo intenso dei social e aumento dell’insoddisfazione nella fascia di utenti più giovani. The post La generazione social è la meno felice: a rischio gli under 25 appear",
+      "link": "https://www.punto-informatico.it/generazione-social-meno-felice-rischio-under-25/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-19T20:35:40+00:00"
+    },
+    {
+      "titolo": "Recensione Nothing Phone 4(a) Pro: il più bello di tutti",
+      "descrizione": "Abbiamo provato il Nothing Phone 4(a) Pro, uno smartphone davvero bellissimo esteticamente, ma come va nell'uso quotidiano?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n652254/nothing-phone-4a-pro-test-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-19T18:52:00+00:00"
+    },
+    {
+      "titolo": "Ariston lancia un nuovo scaldacqua a pompa di calore smart e sostenibile",
+      "descrizione": "Ariston ha presentato Nuos Plus S2 Wi-Fi, una pompa di calore per acqua calda sanitaria che utilizza refrigerante R290 e promette consumi fino all’80% inferiori rispetto agli scaldacqua tradizionali",
+      "link": "https://www.hdblog.it/home/articoli/n652309/ariston-scaldacqua-smart-pompa-di-calore/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-19T18:51:00+00:00"
+    },
     {
       "titolo": "Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers — retailer slashes up to $480 off last-gen GPUs to offer sensible prices",
       "descrizione": "Walmart stocks up on Nvidia's GeForce RTX 40-series (codenamed Ada Lovelace) graphics cards amid an AI-driven memory shortage.",
@@ -133,41 +168,6 @@
       "link": "https://www.hdmotori.it/lancia-gamma-salone-parigi-2026/",
       "fonte": "HDblog.it",
       "data": "2026-03-19T15:30:44+00:00"
-    },
-    {
-      "titolo": "Google Maps, pulsante che fluttua per condividere la posizione",
-      "descrizione": "Google testa un pulsante che fluttua su Google Maps per condividere la posizione con un tocco, appare zoomando sulla propria posizione. The post Google Maps, pulsante che fluttua per condividere la posizione appeared fir",
-      "link": "https://www.punto-informatico.it/google-maps-pulsante-fluttua-condividere-posizione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-19T15:11:21+00:00"
-    },
-    {
-      "titolo": "Jesse Williams sarà in The Morning Show per la stagione 5",
-      "descrizione": "La star di Grey's Anatomy arriva sullo show Apple",
-      "link": "https://www.hdblog.it/apple/articoli/n652343/apple-tv-the-morning-show-jesse-williams/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-19T15:05:00+00:00"
-    },
-    {
-      "titolo": "Acer Predator Helios Neo: nuovi notebook per gamer",
-      "descrizione": "I nuovi Acer Predator Helios Neo 16/16S/18 AI hanno schermi OLED, CPU Intel Core Ultra 200HX Plus, fino a 64 GB di RAM e GPU NVIDIA GeForce RTX 5080. The post Acer Predator Helios Neo: nuovi notebook per gamer appeared f",
-      "link": "https://www.punto-informatico.it/acer-predator-helios-neo-nuovi-notebook-gamer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-19T15:02:39+00:00"
-    },
-    {
-      "titolo": "Bimota BX450 e KB399: l'evoluzione del marchio tra fango e pista",
-      "descrizione": "Due anime, una visione: dall’enduro puro della BX450 alla sportiva compatta KB399, Bimota amplia i propri orizzonti senza tradire il DNA",
-      "link": "https://www.hdmotori.it/nuove-bimota-2026-bx450-kb399-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-19T15:00:12+00:00"
-    },
-    {
-      "titolo": "Alexa Plus arriva nel Regno Unito: l'assistente AI di Amazon brama l'Europa",
-      "descrizione": "Il debutto in Italia è vicino?",
-      "link": "https://www.hdblog.it/domotica/articoli/n652336/alexa-arriva-regno-unito-assistente-ai-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-19T14:55:00+00:00"
     }
   ]
 }

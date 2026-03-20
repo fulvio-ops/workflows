@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-03-19T19:16:06.437132+00:00",
+  "last_updated": "2026-03-20T03:11:03.533148+00:00",
   "items": [
     {
-      "titolo": "OnePlus Nord 6, la confezione conferma una super batteria e altre specifiche chiave",
-      "descrizione": "Una capienza impressionante. E il lancio è vicino.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n652353/oneplus-nord-6-specifiche-confezione-batteria-9000/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-19T17:40:00+00:00",
+      "titolo": "AI will accelerate tech job growth - former Tesla president explains where and why",
+      "descrizione": "Venture capitalist Jon McNeill foresees growing demand for humans to sustain complex AI infrastructure and architecture.",
+      "link": "https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/",
+      "fonte": "Latest news",
+      "data": "2026-03-20T01:00:44+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Microsoft frena Copilot su Windows: stop alle installazioni forzate",
-      "descrizione": "Microsoft sospende l’installazione automatica di Copilot su Windows.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n652335/microsoft-copilot-stop-installazione-automatica/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-19T14:50:00+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Gemini, nell'app è in arrivo la scheda Discover",
