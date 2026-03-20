@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-20T13:35:20.906975+00:00",
+  "last_updated": "2026-03-20T19:07:13.411894+00:00",
   "items": [
+    {
+      "titolo": "SteamOS v3.8 ha un changelog immenso: le principali novità",
+      "descrizione": "Aumenta il supporto per i dispositivi di terze parti, migliora quello per Steam Deck, e inizia a fare capolino la Steam Machine.",
+      "link": "https://www.hdblog.it/games/articoli/n652498/steamos-novita-changelog-3-8-preview-linux/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T17:55:00+00:00"
+    },
+    {
+      "titolo": "Google cambia i titoli delle news con l’AI in Search",
+      "descrizione": "Google ha iniziato ad usare l'AI per modificare i titoli delle news mostrati nella pagina dei risultati delle ricerche con risultati di bassa qualità. The post Google cambia i titoli delle news con l’AI in Search appeare",
+      "link": "https://www.punto-informatico.it/google-cambia-titoli-news-ai-search/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T17:52:22+00:00"
+    },
+    {
+      "titolo": "Nella gara ServiceNow l’intelligenza artificiale made in Italy Ipazia si posiziona davanti a modelli di punta",
+      "descrizione": "Il suo nome deriva dalla matematica greca, una donna che ha dato la sua vita per la scienza, barbaramente uccisa per la sua influenza sui legami politici e religiosi dell’epoca....",
+      "link": "https://www.ilsole24ore.com/art/gara-servicenow-l-intelligenza-artificiale-made-italy-ipazia-batte-modelli-google-e-openai-AIN1ca4B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-20T17:42:00+00:00"
+    },
+    {
+      "titolo": "Apple, i ricavi dall'AI sono già quasi miliardari nonostante l'assenza di Siri",
+      "descrizione": "Grazie alle commissioni dell'App Store, e a fronte di investimenti molto contenuti rispetto a quelli di colossi come Google e OpenAI.",
+      "link": "https://www.hdblog.it/apple/articoli/n652496/apple-ai-ricavi-investimenti-chatgpt-commissioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T17:35:00+00:00"
+    },
+    {
+      "titolo": "Promo FLASH Hostinger: sconti fino all’84% per creare il tuo sito oggi stesso",
+      "descrizione": "Hostinger, con i suoi piani web hosting e i tanti strumenti (anche basati su AI), è in offerta a partire da soli 2,49 euro al mese. The post Promo FLASH Hostinger: sconti fino all’84% per creare il tuo sito oggi stesso a",
+      "link": "https://www.punto-informatico.it/promo-flash-hostinger-sconti-fino-all84-per-creare-il-tuo-sito-oggi-stesso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T17:33:14+00:00"
+    },
+    {
+      "titolo": "Epic e Disney ampliano la partnership: Star Wars in arrivo su Fortnite",
+      "descrizione": "A partire da questa settimana sarà possibile creare giochi, mondi ed esperienze con personaggi e ambientazioni della mitica saga sci-fi.",
+      "link": "https://www.hdblog.it/games/articoli/n652492/epic-disney-fortnite-accordo-star-wars/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T17:05:00+00:00"
+    },
+    {
+      "titolo": "Kalshi Has Been Temporarily Banned in Nevada",
+      "descrizione": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
+      "link": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
+      "fonte": "WIRED",
+      "data": "2026-03-20T16:54:15+00:00"
+    },
+    {
+      "titolo": "Smantellate quattro botnet usate per attacchi DDoS",
+      "descrizione": "Le autorità di Stati Uniti, Canada e Germania hanno smantellato l'infrastruttura delle botnet Aisuru, KimWolf, JackSkid e Mossad usate per attacchi DDoS. The post Smantellate quattro botnet usate per attacchi DDoS appear",
+      "link": "https://www.punto-informatico.it/smantellate-quattro-botnet-usate-attacchi-ddos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T16:43:09+00:00"
+    },
+    {
+      "titolo": "Nintendo Switch 2, la nuova modalità Boost? Consuma molta batteria",
+      "descrizione": "Un giusto compromesso.",
+      "link": "https://www.hdblog.it/games/articoli/n652468/nintendo-switch-2-modalita-boost-consumi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T16:40:00+00:00"
+    },
+    {
+      "titolo": "Microsoft vuole aumentare le quote di mercato di Xbox in Giappone",
+      "descrizione": "La società prova a imporsi nella terra di Sony, Nintendo e SEGA.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n652489/microsoft-xbox-giappone/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T16:35:00+00:00"
+    },
+    {
+      "titolo": "Contro il caro carburanti, la Spagna taglia l'IVA dal 21 al 10%",
+      "descrizione": "Il governo spagnolo, per tamponare l'aumento del costo dei carburanti, ha scelto di tagliare drasticamente l'IVA",
+      "link": "https://www.hdmotori.it/caro-carburanti-spagna-taglia-iva/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T16:30:47+00:00"
+    },
+    {
+      "titolo": "Eolico offshore USA, maxi impianti pronti a cambiare il mercato",
+      "descrizione": "Completato Vineyard Wind 1, mentre Revolution Wind avvia la produzione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652369/eolico-offshore-stati-uniti-crescita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T16:15:00+00:00"
+    },
+    {
+      "titolo": "Tim Cook di Apple dice di posare l’iPhone e godersi la natura…",
+      "descrizione": "Tim Cook ha consigliato agli utenti iPhone di uscire e godersi la natura invece di scorrere lo schermo all'infinito. Un messaggio curioso. The post Tim Cook di Apple dice di posare l’iPhone e godersi la natura… appeared",
+      "link": "https://www.punto-informatico.it/tim-cook-apple-dice-posare-iphone-godersi-natura/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T15:55:45+00:00"
+    },
+    {
+      "titolo": "I Mac fanno breccia tra i nuovi utenti come non mai: effetto MacBook Neo?",
+      "descrizione": "L'apparente consacrazione arriva direttamente da Tim Cook.",
+      "link": "https://www.hdblog.it/portatili/articoli/n652475/macbook-neo-record-primi-utenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T15:35:00+00:00"
+    },
+    {
+      "titolo": "Svelata un'Alfa Romeo inedita: la spider anti-Porsche mai vista prima",
+      "descrizione": "Il marchio del Biscione ha scelto di puntare sui SUV, mettendo da parte dei progetti sportivi top. Scopriamo la spider Alfa Romeo mai nata",
+      "link": "https://www.hdmotori.it/alfa-romeo-spider-inedita-anti-porsche/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T15:30:24+00:00"
+    },
+    {
+      "titolo": "Robot umanoide perde il controllo mentre balla: il caso in California",
+      "descrizione": "Fa sorridere, ma anche riflettere (cit.)",
+      "link": "https://www.hdblog.it/robotica/articoli/n652458/robot-umanoide-ristorante-caso-problema/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T15:20:00+00:00"
+    },
+    {
+      "titolo": "Pacchi consegnati da robot: Amazon rileva RIVR e avvia i primi test",
+      "descrizione": "Amazon ha acquisito la società svizzera RIVR specializzata in robot fattorini con i quali avvierà i primi test di consegna a domicilio su strada. The post Pacchi consegnati da robot: Amazon rileva RIVR e avvia i primi te",
+      "link": "https://www.punto-informatico.it/pacchi-consegnati-robot-amazon-rileva-rivr-primi-test/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T15:08:56+00:00"
+    },
+    {
+      "titolo": "Amazon compra startup svizzera, robot per automatizzare l'ultimo miglio",
+      "descrizione": "La società ha operato senza attirare troppo le attenzioni del pubblico.",
+      "link": "https://www.hdblog.it/amazon/articoli/n652469/amazon-compra-rivr-startup-svizzera-robot/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T14:55:00+00:00"
+    },
+    {
+      "titolo": "Twitter, vent’anni tra intuizioni e fallimenti: dal primo tweet “di servizio” alla crisi del modello",
+      "descrizione": "Il primo tweet non fu dei più ispirati. È il 21 marzo del 2006 e la storia di Twitter comincia con una frase che sembra un test di sistema: «Just...",
+      "link": "https://www.ilsole24ore.com/art/twitter-vent-anni-intuizioni-e-fallimenti-primo-tweet-di-servizio-crisi-modello-AIDnvg4B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-20T14:53:48+00:00"
+    },
+    {
+      "titolo": "Spese di cancellazione abbonamento: indagine per Adobe",
+      "descrizione": "L'autorità antitrust del Regno Unito ha avviato un'indagine sulle modalità di cancellazione anticipata dell'abbonamento a Creative Cloud di Adobe. The post Spese di cancellazione abbonamento: indagine per Adobe appeared",
+      "link": "https://www.punto-informatico.it/spese-di-cancellazione-abbonamento-indagine-per-adobe/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T14:48:10+00:00"
+    },
+    {
+      "titolo": "Smonta GPU e VRAM dalla RTX 5090 e chiede il rimborso: la truffa",
+      "descrizione": "Una truffa su eBay mostra quanto sia grave la crisi delle memorie: scheda RTX 5090 da migliaia di dollari restituita senza GPU e VRAM. The post Smonta GPU e VRAM dalla RTX 5090 e chiede il rimborso: la truffa appeared fi",
+      "link": "https://www.punto-informatico.it/smonta-gpu-e-vram-dalla-rtx-5090-e-chiede-il-rimborso-la-truffa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T14:18:50+00:00"
+    },
+    {
+      "titolo": "Video AI su YouTube insegnano a fare cose pericolose ai bambini",
+      "descrizione": "I video AI educativi su YouTube danno informazioni sbagliate e insegnano comportamenti pericolosi ai bambini. L'inchiesta di The74. The post Video AI su YouTube insegnano a fare cose pericolose ai bambini appeared first",
+      "link": "https://www.punto-informatico.it/video-ai-youtube-insegnano-fare-cose-pericolose-bambini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T14:06:38+00:00"
+    },
     {
       "titolo": "Blue Origin vuole lanciare 51.600 data center orbitali",
       "descrizione": "Blue Origin ha chiesto la licenza per lanciare 51.600 satelliti della costellazione Project Sunrise, ovvero data center orbitali per applicazioni AI. The post Blue Origin vuole lanciare 51.600 data center orbitali appear",
@@ -14,160 +168,6 @@
       "link": "https://www.punto-informatico.it/guida-online-referendum-giustizia/",
       "fonte": "Punto Informatico",
       "data": "2026-03-20T13:11:57+00:00"
-    },
-    {
-      "titolo": "Super Micro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China — perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers",
-      "descrizione": "Three Super Micro employees have been charged with conspiring to unlawfully divert cutting edge U.S. artificial intelligence technology to China.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-20T13:05:10+00:00"
-    },
-    {
-      "titolo": "Alphabet lancia Anori, la startup che semplifica l’edilizia",
-      "descrizione": "Anori è la nuova piattaforma sviluppata da Alphabet per coordinare architetti, ingegneri, investitori ed enti pubblici, con l’obiettivo di rendere più efficiente il processo di approvazione edilizia",
-      "link": "https://www.hdblog.it/google/articoli/n652444/alphabet-google-costruzioni-edili-piattaforma/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T12:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova Panda o Multipla, quale sarà la misteriosa Fiat al Salone di Parigi?",
-      "descrizione": "I primi indizi che riguardano la Fiat concept misteriosa al Salone di Parigi sembrano convergere su Panda, Strada o Multipla",
-      "link": "https://www.hdmotori.it/fiat-concept-salone-parigi-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T12:30:54+00:00"
-    },
-    {
-      "titolo": "Realme 16 Pro, la sfida della fascia media: il ritratto d’autore diventa democratico",
-      "descrizione": "In un mercato degli smartphone sempre più polarizzato tra top di gamma da oltre mille euro e modelli entry-level spesso privi di una vera identità tecnologica, Realme prova a costruire...",
-      "link": "https://www.ilsole24ore.com/art/realme-16-pro-sfida-fascia-media-ritratto-d-autore-diventa-democratico-AILpcK1B",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-20T12:17:43+00:00"
-    },
-    {
-      "titolo": "SharkNinja chiama a raccolta i dipendenti: 1 milione di dollari per le migliori idee AI",
-      "descrizione": "Per tutti i dipendenti.",
-      "link": "https://www.hdblog.it/home/articoli/n652434/sharkninja-contest-1-milione-dollari-idee-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T12:10:00+00:00"
-    },
-    {
-      "titolo": "DLSS 5, i chiarimenti di NVIDIA non fanno altro che peggiorare la situazione",
-      "descrizione": "Sembra che, in ultimo, si possa davvero parlare di post-processing AI.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n652438/nvidia-dlss-chiarimenti-input/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T12:05:00+00:00"
-    },
-    {
-      "titolo": "Best Kids' Bikes (2026): Woom, Prevelo, Guardian, and More",
-      "descrizione": "The WIRED Reviews team has kids, and we tested all types of kids’ bikes. Here are our top picks.",
-      "link": "https://www.wired.com/gallery/best-kids-bikes/",
-      "fonte": "WIRED",
-      "data": "2026-03-20T12:00:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi sfida i big con le nuove versioni della sua AI di seconda generazione",
-      "descrizione": "Con MiMo-V2-Pro, Omni e TTS, Xiaomi amplia la sua strategia nell’intelligenza artificiale: benchmark ambiziosi, integrazione con tool professionali e focus su produttività, coding e contenuti...",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n652439/xiaomi-modelli-ai-seconda-generazione-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:55:00+00:00"
-    },
-    {
-      "titolo": "Dal 30 aprile via libera ai nuovi domini Internet: ecco cosa si potrà registrare",
-      "descrizione": "È la seconda volta nella storia della rete, dopo il 2012, che viene concessa questa possibilità.",
-      "link": "https://www.hdblog.it/mercato/articoli/n652437/nuovi-domini-internet-cosa-registrare/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:45:00+00:00"
-    },
-    {
-      "titolo": "China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry",
-      "descrizione": "While the United States and Europe are moving cautiously forward with clinical trials, China is racing toward the commercialization of brain implants.",
-      "link": "https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/",
-      "fonte": "WIRED",
-      "data": "2026-03-20T11:44:12+00:00"
-    },
-    {
-      "titolo": "Migliaia di negozi online per rubare dati e soldi",
-      "descrizione": "Gli esperti di Malwarebytes hanno individuato oltre 20.000 negozi online che non vendono nulla, ma rubano dati personali e informazioni di pagamento. The post Migliaia di negozi online per rubare dati e soldi appeared fi",
-      "link": "https://www.punto-informatico.it/migliaia-negozi-online-rubare-dati-soldi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T11:38:47+00:00"
-    },
-    {
-      "titolo": "Stranger Things, in arrivo il cofanetto con tutte le 5 stagioni e tanti extra",
-      "descrizione": "5 stagioni, 42 episodi, 25 Blu-Ray, una tonnellata di gadget e memorabilia.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n652432/stranger-things-cofanetto-completo-5-stagioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:35:00+00:00"
-    },
-    {
-      "titolo": "Bezos vuole rinnovare vecchie aziende con l'AI: gli servono 100 miliardi di dollari",
-      "descrizione": "Il magnate vuole creare un nuovo fondo per finanziare l'impresa",
-      "link": "https://www.hdblog.it/business/articoli/n652433/bezos-aziende-ai-rinnovo-100-miliardi-dollari/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:20:00+00:00"
-    },
-    {
-      "titolo": "Foto professionali e ricarica rapidissima: vivo X300 5G ha una marcia in più",
-      "descrizione": "Il meraviglioso vivo X300 5G garantisce foto professionali, ha una ricarica rapidissima e la versione da 512 GB è in offerta su Amazon. The post Foto professionali e ricarica rapidissima: vivo X300 5G ha una marcia in pi",
-      "link": "https://www.punto-informatico.it/foto-professionali-ricarica-rapidissima-vivo-x300-5g-ha-una-marcia-in-piu/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T11:12:38+00:00"
-    },
-    {
-      "titolo": "Perplexity lancia Health, la suite AI sulla salute che elabora allenamenti e diete",
-      "descrizione": "Perplexity Health è la nuova piattaforma AI che integra dati medici e fitness per interpretare risultati e suggerire piani personalizzati, con attenzione a privacy e fonti scientifiche",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n652431/perplexity-health-salute-funzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:05:00+00:00"
-    },
-    {
-      "titolo": "Recensione OPPO Find N6: il miglior pieghevole a libretto non s'ha da fare",
-      "descrizione": "Abbiamo messo le mani sul miglior pieghevole realizzato ad oggi, con una piega pressoché invisibile sia alla vista che al tatto. Parliamo di OPPO Find N6, un fantastico smartphone che però non è...",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n651461/recensione-oppo-find-n6-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:01:00+00:00"
-    },
-    {
-      "titolo": "Synology BC800Z: telecamera 4K con AI che elimina falsi allarmi e migliora la videosorveglianza",
-      "descrizione": "Synology BC800Z è una telecamera IP 4K pensata per contesti professionali, capace di combinare qualità video, zoom ottico e analisi AI a bordo. The post Synology BC800Z: telecamera 4K con AI che elimina falsi allarmi e m",
-      "link": "https://www.punto-informatico.it/synology-bc800z-telecamera-4k-con-ai-per-videosorveglianza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T11:00:09+00:00"
-    },
-    {
-      "titolo": "Meta AI: chat protette con la crittografia di Confer",
-      "descrizione": "Le conversazioni con il chatbot Meta AI verranno protette dalla crittografia end-to-end sviluppata da Moxie Marlinspike per la sua piattaforma Confer. The post Meta AI: chat protette con la crittografia di Confer appeare",
-      "link": "https://www.punto-informatico.it/meta-ai-chat-protette-crittografia-confer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T10:56:58+00:00"
-    },
-    {
-      "titolo": "Energia senza limiti: il Regno Unito punta sulla fusione a West Burton",
-      "descrizione": "Il Regno Unito trasforma una ex centrale a carbone in impianto a fusione",
-      "link": "https://www.hdblog.it/green/articoli/n652371/uk-centrale-fusione-west-burton/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T10:55:00+00:00"
-    },
-    {
-      "titolo": "iPad Air da 11 pollici con chip M3 a un prezzo imbattibile solo su Amazon",
-      "descrizione": "Solo su amazon oggi puoi portarti a casa il mitico iPad Air da 11 pollici con chip M3 e 128 GB di memoria interna a un prezzo imbattibile. The post iPad Air da 11 pollici con chip M3 a un prezzo imbattibile solo su Amazo",
-      "link": "https://www.punto-informatico.it/ipad-air-11-pollici-chip-m3-un-prezzo-imbattibile-solo-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T10:52:21+00:00"
-    },
-    {
-      "titolo": "Hanbit-Nano: ecco perché il primo lancio è finito in esplosione",
-      "descrizione": "Innospace spiega il fallimento di Hanbit-Nano e rinvia il nuovo lancio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n652194/innospace-hanbit-nano-causa-fallimento/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T10:40:00+00:00"
-    },
-    {
-      "titolo": "Mondiali 2026, alcune partite in diretta anche su YouTube: cosa si potrà vedere",
-      "descrizione": "FIFA ha annunciato un accordo che rende la piattaforma una “Preferred Platform”",
-      "link": "https://www.hdblog.it/smartphone/articoli/n652427/mondiali-2026-alcune-partite-su-youtube/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T10:35:00+00:00"
     }
   ]
 }

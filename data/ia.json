@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-20T13:35:25.927917+00:00",
+  "last_updated": "2026-03-20T19:07:17.023065+00:00",
   "items": [
     {
-      "titolo": "Foto professionali e ricarica rapidissima: vivo X300 5G ha una marcia in più",
-      "descrizione": "Il meraviglioso vivo X300 5G garantisce foto professionali, ha una ricarica rapidissima e la versione da 512 GB è in offerta su Amazon. The post Foto professionali e ricarica rapidissima: vivo X300 5G ha una marcia in pi",
-      "link": "https://www.punto-informatico.it/foto-professionali-ricarica-rapidissima-vivo-x300-5g-ha-una-marcia-in-piu/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T11:12:38+00:00",
+      "titolo": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT",
+      "descrizione": "Commentary: OpenAI reportedly wants one app for everything, and I'm here for it.",
+      "link": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
+      "fonte": "Latest news",
+      "data": "2026-03-20T18:12:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google sta lavorando ad una versione dell'app Gemini per macOS",
-      "descrizione": "L'accordo tra le due aziende sta portando frutti interessanti",
-      "link": "https://www.hdblog.it/google/articoli/n652436/google-gemini-app-versione-macos/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T11:40:00+00:00",
+      "titolo": "YouTube killed my comment alerts, so I vibe-coded a fix to get them back - in just 1 hour",
+      "descrizione": "With Gemini and a simple Python script, I rebuilt YouTube email alerts. Now I won't miss another comment. Here's how you can do the same.",
+      "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+      "fonte": "Latest news",
+      "data": "2026-03-20T18:03:16+00:00",
       "modello": "gemini"
     }
   ]
