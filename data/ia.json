@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-20T03:11:03.533148+00:00",
+  "last_updated": "2026-03-20T07:14:43.436937+00:00",
   "items": [
     {
-      "titolo": "AI will accelerate tech job growth - former Tesla president explains where and why",
-      "descrizione": "Venture capitalist Jon McNeill foresees growing demand for humans to sustain complex AI infrastructure and architecture.",
-      "link": "https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/",
-      "fonte": "Latest news",
-      "data": "2026-03-20T01:00:44+00:00",
+      "titolo": "Guerra e intelligenza artificiale, il rischio sistemico: quando gli algoritmi anticipano la decisione umana",
+      "descrizione": "L’intelligenza artificiale (IA) sta trasformando rapidamente numerosi settori, dalla medicina al commercio, ma uno degli ambiti più critici e controversi è quello militare. L’utilizzo dell’IA nei conflitti solleva questi",
+      "link": "https://www.ilsole24ore.com/art/guerra-e-intelligenza-artificiale-rischio-sistemico-quando-algoritmi-anticipano-decisione-umana-AIvazZ1B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-20T06:56:53+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "descrizione": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "fonte": "WIRED",
-      "data": "2026-03-18T00:51:14+00:00",
+      "titolo": "OpenAI vuole fondere ChatGPT, Codex e Atlas in una super app",
+      "descrizione": "OpenAI lavora a una superapp desktop che fonderà ChatGPT, Codex e il browser Atlas per competere con l'ecosistema integrato di Anthropic. The post OpenAI vuole fondere ChatGPT, Codex e Atlas in una super app appeared fir",
+      "link": "https://www.punto-informatico.it/openai-vuole-fondere-chatgpt-codex-atlas-super-app/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T06:01:17+00:00",
       "modello": "claude"
     }
   ]
