@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-03-21T07:04:27.310442+00:00",
+  "last_updated": "2026-03-21T13:12:11.132587+00:00",
   "items": [
+    {
+      "titolo": "Dalla strada al mito: la collezione Neuser cambia padrone",
+      "descrizione": "Fritz Neuser dopo una vita collezionando auto ha iniziato a vendere il suo patrimonio ottenendo in un solo pomeriggio 5 milioni di euro",
+      "link": "https://www.hdmotori.it/collezione-fritz-neuser-ferrari-alfa-romeo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T12:00:07+00:00"
+    },
+    {
+      "titolo": "Windows 11: taskbar verticale, meno AI e altre novità",
+      "descrizione": "Microsoft ha annunciato molte novità di Windows 11 per migliorare usabilità, prestazioni e affidabilità, tra cui la possibilità di spostare la taskbar. The post Windows 11: taskbar verticale, meno AI e altre novità appea",
+      "link": "https://www.punto-informatico.it/windows-11-taskbar-verticale-meno-ai-novita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-21T11:45:08+00:00"
+    },
+    {
+      "titolo": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates — lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
+      "descrizione": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-21T10:45:00+00:00"
+    },
+    {
+      "titolo": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+      "descrizione": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+      "fonte": "WIRED",
+      "data": "2026-03-21T10:30:00+00:00"
+    },
+    {
+      "titolo": "NASA pronta a spostare Discovery: l'ipotesi Houston prende quota",
+      "descrizione": "NASA studia come trasferire lo shuttle Discovery o capsule spaziali.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652505/nasa-trasporto-discovery/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T10:05:00+00:00"
+    },
+    {
+      "titolo": "The 19 Best EVs Coming in 2026",
+      "descrizione": "We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.",
+      "link": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
+      "fonte": "WIRED",
+      "data": "2026-03-21T10:00:00+00:00"
+    },
+    {
+      "titolo": "Nothing Phone (4a) Pro in offerta lancio su Amazon: è pronto a conquistare la fascia media?",
+      "descrizione": "Il Nothing Phone (4a) Pro è disponibile su Amazon con un'offerta lancio che taglia il prezzo del mid-range, ecco la promo.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n652519/nothing-phone-4a-pro-offerta-lancio-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T09:50:00+00:00"
+    },
+    {
+      "titolo": "Bufera su Musk: colpevole per il caos Twitter, rischio maxi risarcimento",
+      "descrizione": "Una giuria accusa Musk di aver influenzato il titolo Twitter con tweet sui bot",
+      "link": "https://www.hdblog.it/mercato/articoli/n652506/elon-musk-twitter-sentenza-investitori/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T09:05:00+00:00"
+    },
+    {
+      "titolo": "Audi Revolut F1 Team, Binotto assume il ruolo di Team Principal",
+      "descrizione": "Jonathan Wheatley lascia con effetto immediato per motivi personali. Ecco come cambia la struttura dirigenziale Audi",
+      "link": "https://www.hdmotori.it/audi-revolut-f1-mattia-binotto-team-principal/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T09:00:47+00:00"
+    },
+    {
+      "titolo": "Galaxy A57 e A37, ci siamo: Samsung svela la data di lancio ufficiale",
+      "descrizione": "Questione di giorni.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652508/samsung-galaxy-a57-a37-lancio-quando-data-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T08:35:00+00:00"
+    },
+    {
+      "titolo": "Come iniziare a usare l’AI senza sentirsi sopraffatti, la guida",
+      "descrizione": "Non servono competenze tecniche per usare l'AI. Basta parlare in modo naturale e trattarla come un collaboratore e non come un oracolo. The post Come iniziare a usare l’AI senza sentirsi sopraffatti, la guida appeared fi",
+      "link": "https://www.punto-informatico.it/come-iniziare-usare-ai-senza-sentirsi-sopraffatti-guida/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-21T08:30:53+00:00"
+    },
+    {
+      "titolo": "Garmin Instinct 2X Solar scontato di quasi la metà è un best buy",
+      "descrizione": "Lo smartwatch con batteria infinita, Garmin Instinct 2X Solar, è in offerta su Amazon al 48%, e quindi è un best buy assoluto. The post Garmin Instinct 2X Solar scontato di quasi la metà è un best buy appeared first on P",
+      "link": "https://www.punto-informatico.it/garmin-instinct-2x-solar-scontato-di-quasi-la-meta-e-un-best-buy/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-21T08:15:16+00:00"
+    },
+    {
+      "titolo": "Google Messaggi, arriva la condivisione della posizione in tempo reale",
+      "descrizione": "Distribuzione su larga scala iniziata.",
+      "link": "https://www.hdblog.it/google/articoli/n652500/google-messaggi-condivisione-posizione-tempo-reale/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T07:05:00+00:00"
+    },
+    {
+      "titolo": "RealSense e NVIDIA migliorano la navigazione 3D dei robot",
+      "descrizione": "RealSense e NVIDIA migliorano la percezione 3D dei robot umanoidi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652378/robot-umanoidi-navigazione-3d-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T06:35:00+00:00"
+    },
     {
       "titolo": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
       "descrizione": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
@@ -51,13 +149,6 @@
       "data": "2026-03-20T17:33:14+00:00"
     },
     {
-      "titolo": "Epic e Disney ampliano la partnership: Star Wars in arrivo su Fortnite",
-      "descrizione": "A partire da questa settimana sarà possibile creare giochi, mondi ed esperienze con personaggi e ambientazioni della mitica saga sci-fi.",
-      "link": "https://www.hdblog.it/games/articoli/n652492/epic-disney-fortnite-accordo-star-wars/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T17:05:00+00:00"
-    },
-    {
       "titolo": "Kalshi Has Been Temporarily Banned in Nevada",
       "descrizione": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
       "link": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
@@ -72,102 +163,11 @@
       "data": "2026-03-20T16:43:09+00:00"
     },
     {
-      "titolo": "Nintendo Switch 2, la nuova modalità Boost? Consuma molta batteria",
-      "descrizione": "Un giusto compromesso.",
-      "link": "https://www.hdblog.it/games/articoli/n652468/nintendo-switch-2-modalita-boost-consumi/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T16:40:00+00:00"
-    },
-    {
-      "titolo": "Microsoft vuole aumentare le quote di mercato di Xbox in Giappone",
-      "descrizione": "La società prova a imporsi nella terra di Sony, Nintendo e SEGA.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n652489/microsoft-xbox-giappone/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T16:35:00+00:00"
-    },
-    {
-      "titolo": "Contro il caro carburanti, la Spagna taglia l'IVA dal 21 al 10%",
-      "descrizione": "Il governo spagnolo, per tamponare l'aumento del costo dei carburanti, ha scelto di tagliare drasticamente l'IVA",
-      "link": "https://www.hdmotori.it/caro-carburanti-spagna-taglia-iva/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T16:30:47+00:00"
-    },
-    {
-      "titolo": "Eolico offshore USA, maxi impianti pronti a cambiare il mercato",
-      "descrizione": "Completato Vineyard Wind 1, mentre Revolution Wind avvia la produzione",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n652369/eolico-offshore-stati-uniti-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T16:15:00+00:00"
-    },
-    {
       "titolo": "Tim Cook di Apple dice di posare l’iPhone e godersi la natura…",
       "descrizione": "Tim Cook ha consigliato agli utenti iPhone di uscire e godersi la natura invece di scorrere lo schermo all'infinito. Un messaggio curioso. The post Tim Cook di Apple dice di posare l’iPhone e godersi la natura… appeared",
       "link": "https://www.punto-informatico.it/tim-cook-apple-dice-posare-iphone-godersi-natura/",
       "fonte": "Punto Informatico",
       "data": "2026-03-20T15:55:45+00:00"
-    },
-    {
-      "titolo": "I Mac fanno breccia tra i nuovi utenti come non mai: effetto MacBook Neo?",
-      "descrizione": "L'apparente consacrazione arriva direttamente da Tim Cook.",
-      "link": "https://www.hdblog.it/portatili/articoli/n652475/macbook-neo-record-primi-utenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T15:35:00+00:00"
-    },
-    {
-      "titolo": "Svelata un'Alfa Romeo inedita: la spider anti-Porsche mai vista prima",
-      "descrizione": "Il marchio del Biscione ha scelto di puntare sui SUV, mettendo da parte dei progetti sportivi top. Scopriamo la spider Alfa Romeo mai nata",
-      "link": "https://www.hdmotori.it/alfa-romeo-spider-inedita-anti-porsche/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T15:30:24+00:00"
-    },
-    {
-      "titolo": "Robot umanoide perde il controllo mentre balla: il caso in California",
-      "descrizione": "Fa sorridere, ma anche riflettere (cit.)",
-      "link": "https://www.hdblog.it/robotica/articoli/n652458/robot-umanoide-ristorante-caso-problema/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T15:20:00+00:00"
-    },
-    {
-      "titolo": "Pacchi consegnati da robot: Amazon rileva RIVR e avvia i primi test",
-      "descrizione": "Amazon ha acquisito la società svizzera RIVR specializzata in robot fattorini con i quali avvierà i primi test di consegna a domicilio su strada. The post Pacchi consegnati da robot: Amazon rileva RIVR e avvia i primi te",
-      "link": "https://www.punto-informatico.it/pacchi-consegnati-robot-amazon-rileva-rivr-primi-test/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T15:08:56+00:00"
-    },
-    {
-      "titolo": "Twitter, vent’anni tra intuizioni e fallimenti: dal primo tweet “di servizio” alla crisi del modello",
-      "descrizione": "Il primo tweet non fu dei più ispirati. È il 21 marzo del 2006 e la storia di Twitter comincia con una frase che sembra un test di sistema: «Just...",
-      "link": "https://www.ilsole24ore.com/art/twitter-vent-anni-intuizioni-e-fallimenti-primo-tweet-di-servizio-crisi-modello-AIDnvg4B",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-20T14:53:48+00:00"
-    },
-    {
-      "titolo": "Spese di cancellazione abbonamento: indagine per Adobe",
-      "descrizione": "L'autorità antitrust del Regno Unito ha avviato un'indagine sulle modalità di cancellazione anticipata dell'abbonamento a Creative Cloud di Adobe. The post Spese di cancellazione abbonamento: indagine per Adobe appeared",
-      "link": "https://www.punto-informatico.it/spese-di-cancellazione-abbonamento-indagine-per-adobe/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T14:48:10+00:00"
-    },
-    {
-      "titolo": "Smonta GPU e VRAM dalla RTX 5090 e chiede il rimborso: la truffa",
-      "descrizione": "Una truffa su eBay mostra quanto sia grave la crisi delle memorie: scheda RTX 5090 da migliaia di dollari restituita senza GPU e VRAM. The post Smonta GPU e VRAM dalla RTX 5090 e chiede il rimborso: la truffa appeared fi",
-      "link": "https://www.punto-informatico.it/smonta-gpu-e-vram-dalla-rtx-5090-e-chiede-il-rimborso-la-truffa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T14:18:50+00:00"
-    },
-    {
-      "titolo": "Video AI su YouTube insegnano a fare cose pericolose ai bambini",
-      "descrizione": "I video AI educativi su YouTube danno informazioni sbagliate e insegnano comportamenti pericolosi ai bambini. L'inchiesta di The74. The post Video AI su YouTube insegnano a fare cose pericolose ai bambini appeared first",
-      "link": "https://www.punto-informatico.it/video-ai-youtube-insegnano-fare-cose-pericolose-bambini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T14:06:38+00:00"
-    },
-    {
-      "titolo": "Blue Origin vuole lanciare 51.600 data center orbitali",
-      "descrizione": "Blue Origin ha chiesto la licenza per lanciare 51.600 satelliti della costellazione Project Sunrise, ovvero data center orbitali per applicazioni AI. The post Blue Origin vuole lanciare 51.600 data center orbitali appear",
-      "link": "https://www.punto-informatico.it/blue-origin-vuole-lanciare-51600-data-center-orbitali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T13:19:35+00:00"
     }
   ]
 }

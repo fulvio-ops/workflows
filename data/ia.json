@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-21T07:04:31.207614+00:00",
+  "last_updated": "2026-03-21T13:12:15.139915+00:00",
   "items": [
     {
-      "titolo": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT",
-      "descrizione": "Commentary: OpenAI reportedly wants one app for everything, and I'm here for it.",
-      "link": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
+      "titolo": "These 7 handy ChatGPT settings are off by default - here's what you're missing",
+      "descrizione": "Stop using ChatGPT on factory settings. Here are the top adjustments I use to make it a pro tool.",
+      "link": "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/",
       "fonte": "Latest news",
-      "data": "2026-03-20T18:12:00+00:00",
+      "data": "2026-03-21T10:00:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates — lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
+      "descrizione": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-21T10:45:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "YouTube killed my comment alerts, so I vibe-coded a fix to get them back - in just 1 hour",
@@ -18,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "descrizione": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "fonte": "WIRED",
-      "data": "2026-03-21T00:03:20+00:00",
+      "titolo": "Scontro Pentagono-Anthropic, emergono nuovi dettagli in tribunale",
+      "descrizione": "Documenti legali smentiscono le accuse del Pentagono contro Anthropic.",
+      "link": "https://www.hdblog.it/mercato/articoli/n652507/pentagono-anthropic-causa-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T08:05:00+00:00",
       "modello": "claude"
     }
   ]
