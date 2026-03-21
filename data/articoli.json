@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-20T19:07:13.411894+00:00",
+  "last_updated": "2026-03-21T02:48:26.765495+00:00",
   "items": [
+    {
+      "titolo": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+      "descrizione": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
+      "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+      "fonte": "WIRED",
+      "data": "2026-03-20T19:13:19+00:00"
+    },
+    {
+      "titolo": "Recensione OPPO Find N6: il miglior pieghevole a libretto non s'ha da fare",
+      "descrizione": "Abbiamo messo le mani sul miglior pieghevole realizzato ad oggi, con una piega pressoché invisibile sia alla vista che al tatto. Parliamo di OPPO Find N6, un fantastico smartphone che però non è...",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n651461/recensione-oppo-find-n6-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-20T18:51:00+00:00"
+    },
     {
       "titolo": "SteamOS v3.8 ha un changelog immenso: le principali novità",
       "descrizione": "Aumenta il supporto per i dispositivi di terze parti, migliora quello per Steam Deck, e inizia a fare capolino la Steam Machine.",
@@ -121,13 +135,6 @@
       "data": "2026-03-20T15:08:56+00:00"
     },
     {
-      "titolo": "Amazon compra startup svizzera, robot per automatizzare l'ultimo miglio",
-      "descrizione": "La società ha operato senza attirare troppo le attenzioni del pubblico.",
-      "link": "https://www.hdblog.it/amazon/articoli/n652469/amazon-compra-rivr-startup-svizzera-robot/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T14:55:00+00:00"
-    },
-    {
       "titolo": "Twitter, vent’anni tra intuizioni e fallimenti: dal primo tweet “di servizio” alla crisi del modello",
       "descrizione": "Il primo tweet non fu dei più ispirati. È il 21 marzo del 2006 e la storia di Twitter comincia con una frase che sembra un test di sistema: «Just...",
       "link": "https://www.ilsole24ore.com/art/twitter-vent-anni-intuizioni-e-fallimenti-primo-tweet-di-servizio-crisi-modello-AIDnvg4B",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/blue-origin-vuole-lanciare-51600-data-center-orbitali/",
       "fonte": "Punto Informatico",
       "data": "2026-03-20T13:19:35+00:00"
-    },
-    {
-      "titolo": "Guida online al referendum sulla giustizia: come e cosa si vota",
-      "descrizione": "Tutto quello che c'è da sapere sul referendum 2026 sulla giustizia: quando si vota, cosa prevede la riforma e come esprimere il voto. The post Guida online al referendum sulla giustizia: come e cosa si vota appeared firs",
-      "link": "https://www.punto-informatico.it/guida-online-referendum-giustizia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T13:11:57+00:00"
     }
   ]
 }
