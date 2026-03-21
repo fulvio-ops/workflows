@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-21T13:12:11.132587+00:00",
+  "last_updated": "2026-03-21T18:55:13.057931+00:00",
   "items": [
+    {
+      "titolo": "ASUS ROG Strix: nuovi notebook con Core Ultra 200HX Plus",
+      "descrizione": "ASUS ha annunciato tre nuovi notebook per gamer con i recenti processori Intel Core Ultra 200HX Plus: ROG Strix G16/G18 e TUF Gaming F16. The post ASUS ROG Strix: nuovi notebook con Core Ultra 200HX Plus appeared first o",
+      "link": "https://www.punto-informatico.it/asus-rog-strix-nuovi-notebook-core-ultra-200hx-plus/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-21T17:27:01+00:00"
+    },
+    {
+      "titolo": "Recensione Xiaomi 17, il top compatto con autonomia super",
+      "descrizione": "Abbiamo provato per qualche giorno il nuovo Xiaomi 17, il top di gamma compatto dell'azienda cinese che non rinuncia, quasi, a nulla!",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n652107/xiaomi-17-test-foto-prova-prezzo-offerte/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T14:30:00+00:00"
+    },
+    {
+      "titolo": "Recensione Narwal Freo Z10 Pro: ha (quasi) tutto, al giusto prezzo",
+      "descrizione": "Abbiamo provato il nuovo robot aspirapolvere e lavapavimenti di Narwal. Lo abbiamo trovato con un rapporto qualità-prezzo molto competitivo e che lo fa essere uno dei migliori robot sulla fascia...",
+      "link": "https://www.hdblog.it/home/recensioni/n652182/recensione-narwal-freo-z10-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-21T13:00:00+00:00"
+    },
     {
       "titolo": "Dalla strada al mito: la collezione Neuser cambia padrone",
       "descrizione": "Fritz Neuser dopo una vita collezionando auto ha iniziato a vendere il suo patrimonio ottenendo in un solo pomeriggio 5 milioni di euro",
@@ -114,13 +135,6 @@
       "data": "2026-03-20T18:51:00+00:00"
     },
     {
-      "titolo": "SteamOS v3.8 ha un changelog immenso: le principali novità",
-      "descrizione": "Aumenta il supporto per i dispositivi di terze parti, migliora quello per Steam Deck, e inizia a fare capolino la Steam Machine.",
-      "link": "https://www.hdblog.it/games/articoli/n652498/steamos-novita-changelog-3-8-preview-linux/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T17:55:00+00:00"
-    },
-    {
       "titolo": "Google cambia i titoli delle news con l’AI in Search",
       "descrizione": "Google ha iniziato ad usare l'AI per modificare i titoli delle news mostrati nella pagina dei risultati delle ricerche con risultati di bassa qualità. The post Google cambia i titoli delle news con l’AI in Search appeare",
       "link": "https://www.punto-informatico.it/google-cambia-titoli-news-ai-search/",
@@ -133,13 +147,6 @@
       "link": "https://www.ilsole24ore.com/art/gara-servicenow-l-intelligenza-artificiale-made-italy-ipazia-batte-modelli-google-e-openai-AIN1ca4B",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-03-20T17:42:00+00:00"
-    },
-    {
-      "titolo": "Apple, i ricavi dall'AI sono già quasi miliardari nonostante l'assenza di Siri",
-      "descrizione": "Grazie alle commissioni dell'App Store, e a fronte di investimenti molto contenuti rispetto a quelli di colossi come Google e OpenAI.",
-      "link": "https://www.hdblog.it/apple/articoli/n652496/apple-ai-ricavi-investimenti-chatgpt-commissioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T17:35:00+00:00"
     },
     {
       "titolo": "Promo FLASH Hostinger: sconti fino all’84% per creare il tuo sito oggi stesso",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/smantellate-quattro-botnet-usate-attacchi-ddos/",
       "fonte": "Punto Informatico",
       "data": "2026-03-20T16:43:09+00:00"
-    },
-    {
-      "titolo": "Tim Cook di Apple dice di posare l’iPhone e godersi la natura…",
-      "descrizione": "Tim Cook ha consigliato agli utenti iPhone di uscire e godersi la natura invece di scorrere lo schermo all'infinito. Un messaggio curioso. The post Tim Cook di Apple dice di posare l’iPhone e godersi la natura… appeared",
-      "link": "https://www.punto-informatico.it/tim-cook-apple-dice-posare-iphone-godersi-natura/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-20T15:55:45+00:00"
     }
   ]
 }
