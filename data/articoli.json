@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T18:55:13.057931+00:00",
+  "last_updated": "2026-03-22T03:21:47.488289+00:00",
   "items": [
     {
       "titolo": "ASUS ROG Strix: nuovi notebook con Core Ultra 200HX Plus",
@@ -128,13 +128,6 @@
       "data": "2026-03-20T19:13:19+00:00"
     },
     {
-      "titolo": "Recensione OPPO Find N6: il miglior pieghevole a libretto non s'ha da fare",
-      "descrizione": "Abbiamo messo le mani sul miglior pieghevole realizzato ad oggi, con una piega pressoché invisibile sia alla vista che al tatto. Parliamo di OPPO Find N6, un fantastico smartphone che però non è...",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n651461/recensione-oppo-find-n6-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-20T18:51:00+00:00"
-    },
-    {
       "titolo": "Google cambia i titoli delle news con l’AI in Search",
       "descrizione": "Google ha iniziato ad usare l'AI per modificare i titoli delle news mostrati nella pagina dei risultati delle ricerche con risultati di bassa qualità. The post Google cambia i titoli delle news con l’AI in Search appeare",
       "link": "https://www.punto-informatico.it/google-cambia-titoli-news-ai-search/",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/smantellate-quattro-botnet-usate-attacchi-ddos/",
       "fonte": "Punto Informatico",
       "data": "2026-03-20T16:43:09+00:00"
+    },
+    {
+      "titolo": "Tim Cook di Apple dice di posare l’iPhone e godersi la natura…",
+      "descrizione": "Tim Cook ha consigliato agli utenti iPhone di uscire e godersi la natura invece di scorrere lo schermo all'infinito. Un messaggio curioso. The post Tim Cook di Apple dice di posare l’iPhone e godersi la natura… appeared",
+      "link": "https://www.punto-informatico.it/tim-cook-apple-dice-posare-iphone-godersi-natura/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-20T15:55:45+00:00"
     }
   ]
 }
