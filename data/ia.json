@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-23T07:40:24.833490+00:00",
+  "last_updated": "2026-03-23T13:51:06.849899+00:00",
   "items": [
     {
-      "titolo": "Intel released its first Pentium chip on this day 33 years ago, came packing 3.1 million transistors — fifth-gen x86 chip built on an 800nm process",
-      "descrizione": "33 years ago today, the Pentium lineage began, shaping decades of personal computing to come.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-released-its-first-pentium-chip-on-this-day-33-years-ago-came-packing-3-1-million-transistors-fifth-gen-x86-chip-built-on-an-800nm-process",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-22T12:40:00+00:00",
+      "titolo": "Cosa si dicono ChatGPT e Gemini al bar?",
+      "descrizione": "L'ultimo cornetto e una giacca vissuta nello scambio tra ChatGPT e Gemini seduti al bancone del bar: immaginiamo la conversazione tra le AI. The post Cosa si dicono ChatGPT e Gemini al bar? appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/cosa-si-dicono-chatgpt-e-gemini-al-bar/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-23T13:14:50+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "10 prompt riutilizzabili per ottenere il massimo da Claude",
-      "descrizione": "Ecco la raccolta di prompt riutilizzabili da usare con Claude per la ricerca, la revisione dei testi e il supporto decisionale. The post 10 prompt riutilizzabili per ottenere il massimo da Claude appeared first on Punto",
-      "link": "https://www.punto-informatico.it/10-prompt-riutilizzabili-ottenere-massimo-claude/",
+      "titolo": "Cosa si dicono ChatGPT e Gemini al bar?",
+      "descrizione": "L'ultimo cornetto e una giacca vissuta nello scambio tra ChatGPT e Gemini seduti al bancone del bar: immaginiamo la conversazione tra le AI. The post Cosa si dicono ChatGPT e Gemini al bar? appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/cosa-si-dicono-chatgpt-e-gemini-al-bar/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-22T08:30:32+00:00",
+      "data": "2026-03-23T13:14:50+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "descrizione": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "fonte": "WIRED",
+      "data": "2026-03-21T00:03:20+00:00",
       "modello": "claude"
     }
   ]
