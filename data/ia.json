@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-03-23T13:51:06.849899+00:00",
+  "last_updated": "2026-03-23T19:14:42.103031+00:00",
   "items": [
     {
-      "titolo": "Cosa si dicono ChatGPT e Gemini al bar?",
-      "descrizione": "L'ultimo cornetto e una giacca vissuta nello scambio tra ChatGPT e Gemini seduti al bancone del bar: immaginiamo la conversazione tra le AI. The post Cosa si dicono ChatGPT e Gemini al bar? appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/cosa-si-dicono-chatgpt-e-gemini-al-bar/",
+      "titolo": "I giovani delegano le rotture sentimentali a ChatGPT",
+      "descrizione": "I giovani usano ChatGPT per le conversazioni sentimentali difficili, e ciò impedisce di imparare a gestire le relazioni in prima persona. The post I giovani delegano le rotture sentimentali a ChatGPT appeared first on Pu",
+      "link": "https://www.punto-informatico.it/giovani-delegano-rotture-sentimentali-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-23T13:14:50+00:00",
+      "data": "2026-03-23T18:03:53+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates — lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
-      "descrizione": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-21T10:45:00+00:00",
+      "titolo": "Copilot ovunque su Windows 11, Microsoft fa marcia indietro: meno AI nel sistema",
+      "descrizione": "Copilot slop? Copilot stop.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n652677/microsoft-windows-11-copilot-slop-ai-stop/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-23T15:55:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Cosa si dicono ChatGPT e Gemini al bar?",
-      "descrizione": "L'ultimo cornetto e una giacca vissuta nello scambio tra ChatGPT e Gemini seduti al bancone del bar: immaginiamo la conversazione tra le AI. The post Cosa si dicono ChatGPT e Gemini al bar? appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/cosa-si-dicono-chatgpt-e-gemini-al-bar/",
+      "titolo": "Come creare un assistente AI su misura con Gemini in 5 minuti",
+      "descrizione": "Gli Esperti personalizzati di Gemini permettono di creare un assistente su misura con le proprie regole e il proprio stile, una volta sola. The post Come creare un assistente AI su misura con Gemini in 5 minuti appeared",
+      "link": "https://www.punto-informatico.it/come-creare-assistente-ai-su-misura-gemini-5-minuti/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-23T13:14:50+00:00",
+      "data": "2026-03-23T16:30:58+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "descrizione": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "fonte": "WIRED",
-      "data": "2026-03-21T00:03:20+00:00",
+      "titolo": "Claude Code si controlla da Discord e Telegram con Channels",
+      "descrizione": "La nuova funzione Channels di Claude Code permette di inviare istruzioni da Telegram o Discord alla sessione attiva sulla propria macchina. The post Claude Code si controlla da Discord e Telegram con Channels appeared fi",
+      "link": "https://www.punto-informatico.it/claude-code-channels-discord-telegram-channels/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-23T13:56:08+00:00",
       "modello": "claude"
     }
   ]
