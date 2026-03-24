@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T03:14:57.618470+00:00",
+  "last_updated": "2026-03-24T07:30:46.365176+00:00",
   "items": [
     {
       "titolo": "I giovani delegano le rotture sentimentali a ChatGPT",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot ovunque su Windows 11, Microsoft fa marcia indietro: meno AI nel sistema",
-      "descrizione": "Copilot slop? Copilot stop.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n652677/microsoft-windows-11-copilot-slop-ai-stop/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-23T15:55:00+00:00",
+      "titolo": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates — lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
+      "descrizione": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-21T10:45:00+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code si controlla da Discord e Telegram con Channels",
-      "descrizione": "La nuova funzione Channels di Claude Code permette di inviare istruzioni da Telegram o Discord alla sessione attiva sulla propria macchina. The post Claude Code si controlla da Discord e Telegram con Channels appeared fi",
-      "link": "https://www.punto-informatico.it/claude-code-channels-discord-telegram-channels/",
+      "titolo": "Claude Code e Cowork ora possono usare il Mac in autonomia",
+      "descrizione": "Claude Code e Cowork possono aprire file, usare il browser e lanciare strumenti sul Mac. La funzione è in research preview per gli abbonati Pro e Max. The post Claude Code e Cowork ora possono usare il Mac in autonomia a",
+      "link": "https://www.punto-informatico.it/claude-code-cowork-possono-usare-mac-autonomia/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-23T13:56:08+00:00",
+      "data": "2026-03-24T06:05:39+00:00",
       "modello": "claude"
     }
   ]
