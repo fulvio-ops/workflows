@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-03-24T07:30:46.365176+00:00",
+  "last_updated": "2026-03-24T13:52:21.032407+00:00",
   "items": [
     {
-      "titolo": "I giovani delegano le rotture sentimentali a ChatGPT",
-      "descrizione": "I giovani usano ChatGPT per le conversazioni sentimentali difficili, e ciò impedisce di imparare a gestire le relazioni in prima persona. The post I giovani delegano le rotture sentimentali a ChatGPT appeared first on Pu",
-      "link": "https://www.punto-informatico.it/giovani-delegano-rotture-sentimentali-chatgpt/",
+      "titolo": "SongDNA arriva su Spotify, per capire da dove arriva una canzone",
+      "descrizione": "Ha preso il via la distribuzione graduale (in beta) della funzionalità SongDNA: disponibile in esclusiva per gli account Premium di Spotify. The post SongDNA arriva su Spotify, per capire da dove arriva una canzone appea",
+      "link": "https://www.punto-informatico.it/spotify-songdna/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-23T18:03:53+00:00",
+      "data": "2026-03-24T13:38:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates — lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
-      "descrizione": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-21T10:45:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Come creare un assistente AI su misura con Gemini in 5 minuti",
-      "descrizione": "Gli Esperti personalizzati di Gemini permettono di creare un assistente su misura con le proprie regole e il proprio stile, una volta sola. The post Come creare un assistente AI su misura con Gemini in 5 minuti appeared",
-      "link": "https://www.punto-informatico.it/come-creare-assistente-ai-su-misura-gemini-5-minuti/",
+      "titolo": "Apple promette novità AI alla WWDC 2026: Siri 2.0?",
+      "descrizione": "Durante la WWDC 2026, Apple dovrebbe mostrare la versione 2.0 di Siri potenziata con un modello Gemini di Google e altre novità AI per iOS 27. The post Apple promette novità AI alla WWDC 2026: Siri 2.0? appeared first on",
+      "link": "https://www.punto-informatico.it/apple-promette-novita-ai-wwdc-2026-siri-2/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-23T16:30:58+00:00",
+      "data": "2026-03-24T12:28:31+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code e Cowork ora possono usare il Mac in autonomia",
-      "descrizione": "Claude Code e Cowork possono aprire file, usare il browser e lanciare strumenti sul Mac. La funzione è in research preview per gli abbonati Pro e Max. The post Claude Code e Cowork ora possono usare il Mac in autonomia a",
-      "link": "https://www.punto-informatico.it/claude-code-cowork-possono-usare-mac-autonomia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T06:05:39+00:00",
+      "titolo": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "descrizione": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "fonte": "WIRED",
+      "data": "2026-03-21T00:03:20+00:00",
       "modello": "claude"
     }
   ]
