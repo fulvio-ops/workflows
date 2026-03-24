@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-24T13:52:18.097030+00:00",
+  "last_updated": "2026-03-24T19:30:27.522508+00:00",
   "items": [
     {
-      "titolo": "SongDNA arriva su Spotify, per capire da dove arriva una canzone",
-      "descrizione": "Ha preso il via la distribuzione graduale (in beta) della funzionalità SongDNA: disponibile in esclusiva per gli account Premium di Spotify. The post SongDNA arriva su Spotify, per capire da dove arriva una canzone appea",
-      "link": "https://www.punto-informatico.it/spotify-songdna/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T13:38:05+00:00"
-    },
-    {
-      "titolo": "TIM nella super app di Poste, il marchio rimarrà",
-      "descrizione": "Poste Italiane e TIM insieme, ma lo storico operatore manterrà la sua autonomia: cosa cambierà (e cosa no) se l'offerta verrà accettata. The post TIM nella super app di Poste, il marchio rimarrà appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/tim-super-app-poste-marchio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T13:12:06+00:00"
-    },
-    {
-      "titolo": "China laptop vendor eats humble pie, apology says ‘production error’ was behind chip mix-up — full refunds offered to those affected by the fake Ryzen 5 7430U ‘scam’",
-      "descrizione": "Budget portable PCs specialist Chuwi has released an official apology to customers who received devices that didn’t match up to expected specifications.",
-      "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/china-laptop-vendor-eats-humble-pie-apology-says-production-error-was-behind-chip-mix-up-full-refunds-offered-to-those-affected-by-the-fake-ryzen-5-7430u-scam",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-24T12:46:03+00:00"
-    },
-    {
-      "titolo": "Apple promette novità AI alla WWDC 2026: Siri 2.0?",
-      "descrizione": "Durante la WWDC 2026, Apple dovrebbe mostrare la versione 2.0 di Siri potenziata con un modello Gemini di Google e altre novità AI per iOS 27. The post Apple promette novità AI alla WWDC 2026: Siri 2.0? appeared first on",
-      "link": "https://www.punto-informatico.it/apple-promette-novita-ai-wwdc-2026-siri-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T12:28:31+00:00"
-    },
-    {
-      "titolo": "Sunseeker rende più smart il giardinaggio con i tosaerba X Gen 2",
-      "descrizione": "I nuovi robot tosaerba promettono automazione intelligente e prestazioni elevate.",
-      "link": "https://www.hdblog.it/home/articoli/n652802/sunseeker-smart-giardinaggio-tosaerba-x-gen-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T12:25:00+00:00"
-    },
-    {
-      "titolo": "Alibaba lancia Accio Work, un team di agenti AI per le PMI",
-      "descrizione": "Accio Work permette alle imprese di gestire marketing, logistica, sourcing e compliance grazie a team di agenti AI coordinati in modo dinamico",
-      "link": "https://www.hdblog.it/business/articoli/n652797/suite-agenti-ai-aziende-alibaba/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T12:15:00+00:00"
-    },
-    {
-      "titolo": "Come vanno le Friggitrici Cosori: Turbo Tower Pro Smart e Twinfry a confronto",
-      "descrizione": "Due soluzioni simili ma dalla filosofia differente, ecco le friggitrici ad aria Cosori a doppio cestello TwinFry e Turbo Tower Pro Smart.",
-      "link": "https://www.hdblog.it/home/articoli/n652419/cosori-turbo-tower-e-dualblaze-twinfry/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T12:01:00+00:00"
-    },
-    {
-      "titolo": "Ora Elon Musk produce in autonomia i chip per Tesla (e non solo)",
-      "descrizione": "Tesla e SpaceX vogliono produrre chip in proprio per non dipendere da TSMC, Samsung e Micron.",
-      "link": "https://www.hdmotori.it/elon-musk-produce-chip-tesla/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T12:00:18+00:00"
-    },
-    {
-      "titolo": "La Russia blocca Archive.today, noto sito per aggirare i paywall",
-      "descrizione": "Al momento i principali domini sono inaccessibili dall'Italia, ma la situazione sembra in rapido divenire.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n652801/archive-today-paywall-sito-bloccato-russia/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T11:55:00+00:00"
-    },
-    {
-      "titolo": "Google Messaggi, addio QR code: per accedere da PC resterà solo un metodo",
-      "descrizione": "Più integrazione ma meno flessibilità: cosa cambia.",
-      "link": "https://www.hdblog.it/google/articoli/n652795/google-messaggi-web-pc-qr-code-accesso-come-login/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T11:35:00+00:00"
-    },
-    {
-      "titolo": "Lovable, la piattaforma di vibe coding cerca startup da acquisire",
-      "descrizione": "La startup vuole crescere rapidamente.",
-      "link": "https://www.hdblog.it/business/articoli/n652798/lovable-ai-vibe-coding-cerca-startup-acquisire/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T11:25:00+00:00"
-    },
-    {
-      "titolo": "Best Buy is selling last year's Sony OLED TV for $600 off - and I highly recommend it",
-      "descrizione": "Sony's Bravia 8 II is worth every penny of its retail price, but it's even better when you can buy one for this much off.",
-      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8ii-deal/",
+      "titolo": "Best Costco deals to compete with Amazon's Big Spring Sale 2026",
+      "descrizione": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
+      "link": "https://www.zdnet.com/article/best-early-costco-deals-amazon-big-spring-sale-2026/",
       "fonte": "Latest news",
-      "data": "2026-03-24T11:04:00+00:00"
+      "data": "2026-03-24T19:15:26+00:00"
     },
     {
-      "titolo": "La Lamborghini Revuelto di Novitec celebra la Diablo SE 30 del 1993",
-      "descrizione": "Il preparatore tedesco porta la supercar ibrida di Sant'Agata Bolognrdr a 1.048 CV.",
-      "link": "https://www.hdmotori.it/lamborghini-revuelto-novitec-diablo-1993/",
+      "titolo": "Cyberattackers are moving faster to break your network - how to fight back",
+      "descrizione": "Cybercriminals are implementing zero-day exploits a week before patches become available, according to a new report from Mandiant.",
+      "link": "https://www.zdnet.com/article/cyberattackers-getting-faster-and-smarter-how-to-fight-back/",
+      "fonte": "Latest news",
+      "data": "2026-03-24T18:53:38+00:00"
+    },
+    {
+      "titolo": "Su Apple Maps ci saranno le pubblicità: arriva la conferma ufficiale",
+      "descrizione": "Si comincia in estate da Stati Uniti e Canada.",
+      "link": "https://www.hdblog.it/apple/articoli/n652877/apple-maps-mappe-ads-pubblicita-come-business/",
       "fonte": "HDblog.it",
-      "data": "2026-03-24T11:00:15+00:00"
+      "data": "2026-03-24T18:15:00+00:00"
     },
     {
-      "titolo": "Nuova Library su ChatGPT: addio caos nei file con il cloud storage",
-      "descrizione": "ChatGPT introduce Library, uno spazio cloud integrato per salvare file e documenti: scopri come cambia il modo di usare il chatbot AI. The post Nuova Library su ChatGPT: addio caos nei file con il cloud storage appeared",
-      "link": "https://www.punto-informatico.it/chatgpt-library/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T10:50:21+00:00"
+      "titolo": "This 11-in-1 DeWalt multi-tool can do everything - and it's under $30",
+      "descrizione": "Combining 11 tools into a single gadget, the DeWalt MT21 is perfect for everyday carry, construction work, and DIY crafts or home repairs - especially while it's on sale.",
+      "link": "https://www.zdnet.com/article/dewalt-multitool-deal-amazon-spring-sale-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-24T18:03:25+00:00"
     },
     {
-      "titolo": "SINTEF testa un drone a idrogeno per linee elettriche e soccorsi",
-      "descrizione": "SINTEF testa un drone a idrogeno con più autonomia per ispezioni e soccorsi",
-      "link": "https://www.hdblog.it/droni/articoli/n652718/sintef-drone-a-idrogeno-linee-elettriche-soccorsi/",
+      "titolo": "Samsung Exynos 1680 ufficiale: ecco il chip che troveremo su Galaxy A57",
+      "descrizione": "Miglioramenti prestazionali soprattutto per GPU e NPU.",
+      "link": "https://www.hdblog.it/hardware/articoli/n652879/samsung-exynos-1680-specifiche-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-03-24T10:50:00+00:00"
+      "data": "2026-03-24T17:45:00+00:00"
     },
     {
-      "titolo": "Tineco Floor One S9 Master disponibile in Italia: pulizia della casa al giusto prezzo",
-      "descrizione": "Con sistema di auto-pulizia.",
-      "link": "https://www.hdblog.it/home/articoli/n652781/tineco-floor-one-s9-master-specifiche-prezzo/",
+      "titolo": "La Germania abbandona Microsoft e sceglie il formato ODF",
+      "descrizione": "The Document Foundation invita gli altri paesi europei ad utilizzare il format ODF per i documenti, invece di quelli proprietari di Microsoft Office. The post La Germania abbandona Microsoft e sceglie il formato ODF appe",
+      "link": "https://www.punto-informatico.it/germania-abbandona-microsoft-sceglie-formato-odf/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-24T17:43:49+00:00"
+    },
+    {
+      "titolo": "Apple Business ufficiale: nuova piattaforma unificata per il mondo enterprise",
+      "descrizione": "Gestione account, gestione dispositivi e servizi commerciali in un'unica piattaforma.",
+      "link": "https://www.hdblog.it/apple/articoli/n652868/apple-business-suite-enterprise-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-03-24T10:40:00+00:00"
+      "data": "2026-03-24T17:05:00+00:00"
     },
     {
-      "titolo": "Hacker iraniani usano Telegram per attacchi malware",
-      "descrizione": "L'FBI ha confermato che hacker iraniani usano Telegram per controllare i dispositivi Windows da remoto, installare malware e rubare dati sensibili. The post Hacker iraniani usano Telegram per attacchi malware appeared fi",
-      "link": "https://www.punto-informatico.it/hacker-iraniani-telegram-attacchi-malware/",
+      "titolo": "Bloccare le chiamate spam diventa più facile: un nuovo servizio aiuta gli utenti",
+      "descrizione": "Per bloccare le chiamate spam è ora possibile sfruttare un nuovo servizio: Call Protection di NordVPN aiuta a identificare e neutralizzare le minacce. The post Bloccare le chiamate spam diventa più facile: un nuovo servi",
+      "link": "https://www.punto-informatico.it/bloccare-le-chiamate-spam-diventa-piu-facile-un-nuovo-servizio-aiuta-gli-utenti/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-24T10:31:27+00:00"
+      "data": "2026-03-24T17:03:15+00:00"
     },
     {
-      "titolo": "Trump administration targets $4 trillion Pax Silica investment fund for semiconductors — the US will start with a $250 million investment for global consortium",
-      "descrizione": "The Trump administration is targeting $4 trillion Pax Silica investment for semiconductors. It’s not currently clear how the Trump administration arrived at the $4 trillion figure, or how it will ultimately materialize.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-24T10:30:00+00:00"
-    },
-    {
-      "titolo": "Dall’uva al cobalto: la scoperta che può cambiare il riciclo delle batterie al litio",
-      "descrizione": "Grazie a un composto naturale presente nell’uva, i ricercatori hanno sviluppato una tecnica più sostenibile ed economica per recuperare metalli preziosi dalle batterie",
-      "link": "https://www.hdblog.it/green/articoli/n652784/riciclo-batterie-uva-scoperta/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-24T10:20:00+00:00"
-    },
-    {
-      "titolo": "Microsoft says, for once, Windows update isn't to blame for Galaxy Book4 laptops losing access to C: drive — the Galaxy Connect app was the culprit, and it's been taken down from Microsoft Store",
-      "descrizione": "Microsoft and Samsung investigated a widely reported issue with Galaxy Book 4 devices and said the Galaxy Connect app was the culprit. These laptops were losing access to the C: drive and, initially, people thought it ha",
-      "link": "https://www.tomshardware.com/laptops/microsoft-says-for-once-windows-update-isnt-to-blame-for-galaxy-book4-laptops-losing-access-to-c-drive-the-galaxy-connect-app-was-the-culprit-and-its-been-taken-down-from-microsoft-store",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-24T10:15:00+00:00"
-    },
-    {
-      "titolo": "Price of Nvidia's Vera Rubin NVL72 racks skyrockets to as much as $8.8 million apiece, but server makers' margins will be tight — Nvidia is moving closer to shipping entire full-scale systems",
-      "descrizione": "While quotes for NVL72 VR200 rack-scale system will increase to $5 million – $7 million, margins of ODMs will likely decline.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/price-of-nvidias-vera-rubin-nvl72-racks-skyrockets-to-as-much-as-usd8-8-million-apiece-but-server-makers-margins-will-be-tight-nvidia-is-moving-closer-to-shipping-entire-full-scale-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-24T10:00:00+00:00"
-    },
-    {
-      "titolo": "Apple TV batte Netflix: 7 giorni gratis, boom di abbonamenti",
-      "descrizione": "Guarda in streaming For All Mankind, Shrinking e tutti gli altri contenuti di Apple TV, gratis con la prova di 7 giorni: inizia ora. The post Apple TV batte Netflix: 7 giorni gratis, boom di abbonamenti appeared first on",
-      "link": "https://www.punto-informatico.it/apple-tv-7-giorni-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T09:31:05+00:00"
-    },
-    {
-      "titolo": "BBVA Cashback 20%: ecco come ottenere 100 euro di rimborso",
-      "descrizione": "L'iniziativa è valida per tutti gli utenti che richiederanno la carta di credito BBVA dopo aver aperto il conto online a canone zero. The post BBVA Cashback 20%: ecco come ottenere 100 euro di rimborso appeared first on",
-      "link": "https://www.punto-informatico.it/fintech/conti/bbva-cashback-20-per-cento-come-ottenere-100-euro-rimborso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T09:12:04+00:00"
-    },
-    {
-      "titolo": "Design Within Reach Promo Codes: 30% Off | March 2026",
-      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "titolo": "Arm Is Now Making Its Own Chips",
+      "descrizione": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
       "fonte": "WIRED",
-      "data": "2026-03-24T05:00:00+00:00"
+      "data": "2026-03-24T17:00:00+00:00"
+    },
+    {
+      "titolo": "Nintendo reportedly plans to cut Switch 2 production by 33% after a lackluster holiday season — gaming giant slashes 2 million units from planned output",
+      "descrizione": "Nintendo is reportedly reducing the production of the Switch 2 by 33%, cutting output by 2 million units, due to lackluster sales during the holiday season of 2025.",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-reportedly-plans-to-cut-switch-2-production-by-33-percent-after-a-lackluster-holiday-season-gaming-giant-slashes-2-million-units-from-planned-output",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-24T16:58:47+00:00"
+    },
+    {
+      "titolo": "Cina: ecco il minuscolo orologio atomico che può aiutare gli sciami di droni",
+      "descrizione": "Dalla Cina un orologio atomico piccolissimo ma super preciso",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652722/orologio-atomico-piccolo-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:55:00+00:00"
+    },
+    {
+      "titolo": "Crisi dei chip, inizia a traballare anche TSMC: la segnalazione di Broadcom",
+      "descrizione": "La fab taiwanese e alcuni fornitori chiave operano troppo vicino al limite produttivo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n652866/crisi-chip-tsmc-produzione-satura-espansione/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:45:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi: i risultati finanziari confermano la solidità dell'azienda",
+      "descrizione": "Non solo smartphone. Anzi.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n652829/xiaomi-risultati-finanziari-anno-fiscale-2025/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:35:00+00:00"
+    },
+    {
+      "titolo": "Questo materiale crea elettricità dalle vibrazioni: è più green",
+      "descrizione": "Un materiale senza piombo produce energia dalle vibrazioni su silicio",
+      "link": "https://www.hdblog.it/green/articoli/n652724/energia-vibrazioni-materiale-green-silicio/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:25:00+00:00"
+    },
+    {
+      "titolo": "Il Punitore è pronto a tornare: speciale in arrivo su Disney Plus",
+      "descrizione": "Appuntamento su Disney Plus il 12 maggio.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n652848/punitore-speciale-ritorno-jon-bernthal-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:15:00+00:00"
+    },
+    {
+      "titolo": "Epic Games licenzia oltre 1.000 dipendenti: Fortnite ha perso il suo appeal",
+      "descrizione": "Non c'entra l'intelligenza artificiale.",
+      "link": "https://www.hdblog.it/games/articoli/n652835/epic-games-licenzia-oltre-1000-dipendenti-fortnite/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:05:00+00:00"
+    },
+    {
+      "titolo": "BYD e San Marino insieme per l'energia e la mobilità elettrica del futuro",
+      "descrizione": "Un accordo triennale con BYD per fare del Titano un laboratorio europeo di innovazione energetica e non solo",
+      "link": "https://www.hdmotori.it/byd-repubblica-san-marino-accordo-mobilit-energetica/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T16:00:18+00:00"
+    },
+    {
+      "titolo": "I finally see why Opera GX for Linux is more than just a browser for gamers",
+      "descrizione": "You don't have to be a Linux gamer to enjoy Opera GX; it's just as brilliant for everyday users.",
+      "link": "https://www.zdnet.com/article/opera-gx-browser-linux/",
+      "fonte": "Latest news",
+      "data": "2026-03-24T15:53:00+00:00"
+    },
+    {
+      "titolo": "Snapchat trasforma le foto in video di 5 secondi con AI Clips",
+      "descrizione": "Snapchat lancia AI Clips su Lens Studio, un nuovo formato che trasforma una singola foto in un video di cinque secondi. The post Snapchat trasforma le foto in video di 5 secondi con AI Clips appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/snapchat-trasforma-foto-video-5-secondi-ai-clips/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-24T15:45:45+00:00"
+    },
+    {
+      "titolo": "La Spagna accende la più grande batteria al vanadio d’Europa",
+      "descrizione": "In Spagna attiva la più grande batteria al vanadio d’Europa da 8 MWh",
+      "link": "https://www.hdblog.it/green/articoli/n652832/batteria-vanadio-spagna-8mwh/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T15:45:00+00:00"
+    },
+    {
+      "titolo": "Apple Business sfida Google Workspace e Microsoft 365",
+      "descrizione": "Strumenti dedicati alla produttività, inclusi in una piattaforma all-in-one: cos'è, come funziona e a chi è destinata Apple Business. The post Apple Business sfida Google Workspace e Microsoft 365 appeared first on Punto",
+      "link": "https://www.punto-informatico.it/apple-business/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-24T15:35:49+00:00"
+    },
+    {
+      "titolo": "OMOWAY svela la OMO X: la moto del futuro che non cade mai",
+      "descrizione": "Una moto elettrica che resta in piedi da sola promette di rivoluzionare la guida: più sicurezza, meno fatica e tecnologia spaziale portata sull’asfalto di tutti i giorni",
+      "link": "https://www.hdmotori.it/moto-elettrica-auto-bilanciante-novita-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T15:30:21+00:00"
+    },
+    {
+      "titolo": "Il ritorno della compatta anche in casa Panasonic: ecco Lumix TZ300",
+      "descrizione": "Panasonic rinnova il segmento delle compatte con il lancio di Lumix TZ300 con ottica zoom Leica da 15 e sensore da 1 pollice. La fotocamera è tascabile, ma rinuncia al mirino elettronico. Costa 1.000...",
+      "link": "https://www.hdblog.it/fotografia/articoli/n652834/panasonic-lumix-tz300-compatta-15x/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T15:25:00+00:00"
+    },
+    {
+      "titolo": "For All Mankind, Apple TV conferma: ci sarà una sesta stagione, ma sarà l'ultima",
+      "descrizione": "La torcia passa simbolicamente alla serie spin-off Star City.",
+      "link": "https://www.hdblog.it/apple/articoli/n652837/for-all-mankind-sesta-stagione-ultima/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-24T15:15:00+00:00"
     }
   ]
 }

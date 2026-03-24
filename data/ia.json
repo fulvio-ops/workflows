@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-24T13:52:21.032407+00:00",
+  "last_updated": "2026-03-24T19:30:31.146022+00:00",
   "items": [
     {
-      "titolo": "SongDNA arriva su Spotify, per capire da dove arriva una canzone",
-      "descrizione": "Ha preso il via la distribuzione graduale (in beta) della funzionalità SongDNA: disponibile in esclusiva per gli account Premium di Spotify. The post SongDNA arriva su Spotify, per capire da dove arriva una canzone appea",
-      "link": "https://www.punto-informatico.it/spotify-songdna/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T13:38:05+00:00",
+      "titolo": "ChatGPT just got a library for all your files - how it works",
+      "descrizione": "It's a major step toward ChatGPT becoming a true workspace.",
+      "link": "https://www.zdnet.com/article/chatgpt-library-stores-uploaded-generated-files/",
+      "fonte": "Latest news",
+      "data": "2026-03-24T17:21:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "descrizione": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "fonte": "WIRED",
-      "data": "2026-03-21T00:03:20+00:00",
+      "titolo": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down",
+      "descrizione": "Anthropic's middle-ground mode aims to reduce interruptions while protecting developers from destructive commands. Here's why I like this new option.",
+      "link": "https://www.zdnet.com/article/claude-code-auto-mode/",
+      "fonte": "Latest news",
+      "data": "2026-03-24T18:00:37+00:00",
       "modello": "claude"
     }
   ]
