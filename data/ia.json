@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-24T19:30:31.146022+00:00",
+  "last_updated": "2026-03-25T03:19:44.590920+00:00",
   "items": [
     {
-      "titolo": "ChatGPT just got a library for all your files - how it works",
-      "descrizione": "It's a major step toward ChatGPT becoming a true workspace.",
-      "link": "https://www.zdnet.com/article/chatgpt-library-stores-uploaded-generated-files/",
-      "fonte": "Latest news",
-      "data": "2026-03-24T17:21:00+00:00",
+      "titolo": "Arm Is Now Making Its Own Chips",
+      "descrizione": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "fonte": "WIRED",
+      "data": "2026-03-24T17:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down",
-      "descrizione": "Anthropic's middle-ground mode aims to reduce interruptions while protecting developers from destructive commands. Here's why I like this new option.",
-      "link": "https://www.zdnet.com/article/claude-code-auto-mode/",
-      "fonte": "Latest news",
-      "data": "2026-03-24T18:00:37+00:00",
+      "titolo": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+      "descrizione": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+      "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "fonte": "WIRED",
+      "data": "2026-03-24T22:13:17+00:00",
       "modello": "claude"
     }
   ]
