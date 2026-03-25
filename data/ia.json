@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-25T13:50:44.527038+00:00",
+  "last_updated": "2026-03-25T19:12:25.504724+00:00",
   "items": [
     {
-      "titolo": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs — ‘all-new’ vPro platform goes all-in on AI",
-      "descrizione": "Intel has officially released its Xeon 600 workstation CPUs, previously known as Granite Rapids-WS, as well as detailed new features coming to its vPro platform with new Panther Lake CPUs for businesses.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-25T13:00:00+00:00",
+      "titolo": "La chiusura di HiAnime continua a farsi sentire: GitHub cancella 900 repository pirata",
+      "descrizione": "Tool, \"API\" e strumenti che si basavano sull'infrastruttura di HiAnime sono stati mandati offline.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n653011/pirateria-hianime-takedown-github-900-repository/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T16:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Opera One integra Gemini e Google Traduttore nella barra laterale",
-      "descrizione": "Con l'ultimo aggiornamento, Opera One integra Gemini e Google Traduttore direttamente nel browser, all'interno della barra laterale. The post Opera One integra Gemini e Google Traduttore nella barra laterale appeared fir",
-      "link": "https://www.punto-informatico.it/opera-one-gemini-google-traduttore/",
+      "titolo": "Siri con Gemini: nuovi dettagli sull’accordo Apple-Google",
+      "descrizione": "Apple ha ottenuto l'accesso completo a Google Gemini, quindi può usare la sua conoscenza per addestrare modelli più piccoli eseguiti sul dispositivo. The post Siri con Gemini: nuovi dettagli sull’accordo Apple-Google app",
+      "link": "https://www.punto-informatico.it/siri-gemini-nuovi-dettagli-accordo-apple-google/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-25T13:36:08+00:00",
+      "data": "2026-03-25T17:27:13+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code auto mode: l’AI decide da sola quali azioni eseguire",
-      "descrizione": "Con auto mode di Claude Code decide quali azioni eseguire automaticamente e quali richiedono approvazione, usando un filtro di sicurezza. The post Claude Code auto mode: l’AI decide da sola quali azioni eseguire appeared",
-      "link": "https://www.punto-informatico.it/claude-code-auto-mode-ai-decide-da-sola-quali-azioni-eseguire/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-25T10:11:27+00:00",
+      "titolo": "Claude prende il controllo del pc (ma chiede permesso): l’AI di Anthropic diventa un assistente operativo",
+      "descrizione": "Con la funzione Dispatch, Claude può eseguire comandi sul computer direttamente da smartphone, creare file, gestire app e automatizzare attività",
+      "link": "https://www.ilsole24ore.com/art/claude-prende-controllo-pc-ma-chiede-permesso-l-ai-anthropic-diventa-assistente-operativo-AIDDMKAC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-25T18:42:02+00:00",
       "modello": "claude"
     }
   ]

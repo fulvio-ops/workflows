@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-03-25T13:50:38.973013+00:00",
+  "last_updated": "2026-03-25T19:12:22.531286+00:00",
   "items": [
     {
-      "titolo": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-      "descrizione": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-      "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-      "fonte": "WIRED",
-      "data": "2026-03-25T13:28:50+00:00"
-    },
-    {
-      "titolo": "Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times — up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss",
-      "descrizione": "In benchmarks on Nvidia H100 GPUs, 4-bit TurboQuant delivered up to an eight-times performance increase in computing attention logits compared to unquantized 32-bit keys.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-25T13:14:27+00:00"
-    },
-    {
-      "titolo": "AI, autonomia e fotocamera: Samsung rafforza la fascia media con i Galaxy A57 e A37 5G",
-      "descrizione": "Il mercato degli smartphone continua a essere dominato dalla fascia media: assunto ormai più che noto, validato dai dati di vendita registrati tanto sul mercato italiano quanto su scala globale....",
-      "link": "https://www.ilsole24ore.com/art/ai-autonomia-e-fotocamera-samsung-rafforza-fascia-media-i-galaxy-a57-e-a37-5g-AI1nXP9B",
+      "titolo": "Claude prende il controllo del pc (ma chiede permesso): l’AI di Anthropic diventa un assistente operativo",
+      "descrizione": "Con la funzione Dispatch, Claude può eseguire comandi sul computer direttamente da smartphone, creare file, gestire app e automatizzare attività",
+      "link": "https://www.ilsole24ore.com/art/claude-prende-controllo-pc-ma-chiede-permesso-l-ai-anthropic-diventa-assistente-operativo-AIDDMKAC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-25T13:02:17+00:00"
+      "data": "2026-03-25T18:42:02+00:00"
     },
     {
-      "titolo": "Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse",
-      "descrizione": "The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-25T13:00:00+00:00"
-    },
-    {
-      "titolo": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs — ‘all-new’ vPro platform goes all-in on AI",
-      "descrizione": "Intel has officially released its Xeon 600 workstation CPUs, previously known as Granite Rapids-WS, as well as detailed new features coming to its vPro platform with new Panther Lake CPUs for businesses.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-25T13:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung è la prima con Knox certificato CC su smart TV e monitor",
-      "descrizione": "Samsung diventa il primo produttore a ottenere la certificazione Common Criteria sia per smart TV che per monitor, rafforzando la sicurezza dei display connessi",
-      "link": "https://www.hdblog.it/hardware/articoli/n652969/samsung-knox-protezione-monitor-tv-cc/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T12:45:00+00:00"
-    },
-    {
-      "titolo": "Nuovi smartphone AI: Samsung Galaxy A57 5G e Galaxy A37 5G",
-      "descrizione": "Tutto quello che c'è da sapere su Galaxy A57 5G e Galaxy A37 5G, i due nuovi smartphone Samsung con intelligenza artificiale integrata. The post Nuovi smartphone AI: Samsung Galaxy A57 5G e Galaxy A37 5G appeared first o",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-a57-5g-galaxy-a37-5g/",
+      "titolo": "Google annuncia Lyria 3 Pro: clip audio fino a 3 minuti",
+      "descrizione": "Google ha annunciato Lyria 3 Pro, la versione più avanzata del modello per generare musica che permette di ottenere clip lunghe fino a 3 minuti. The post Google annuncia Lyria 3 Pro: clip audio fino a 3 minuti appeared f",
+      "link": "https://www.punto-informatico.it/google-annuncia-lyria-3-pro-clip-audio-3-minuti/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-25T12:34:43+00:00"
+      "data": "2026-03-25T18:25:43+00:00"
     },
     {
-      "titolo": "Addio all’icona inglese nell’esercito: Land Rover Defender esce di scena",
-      "descrizione": "La tradizione anglosassone ha creato un mito 4x4. L'esercito britannico ora ha scelto di pensionare la leggendaria Land Rover Defender",
-      "link": "https://www.hdmotori.it/addio-land-rover-defender-esercito/",
+      "titolo": "Rai e Disney stanno per annunciare una partnership per lo streaming?",
+      "descrizione": "Una pagina cancellata sul sito di Rai sembra confermarlo.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n653031/raiplay-disney-plus-partnership-evento-accordo/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T12:30:51+00:00"
+      "data": "2026-03-25T17:55:00+00:00"
     },
     {
-      "titolo": "Apple Music integra Ticketmaster per consigliare i concerti",
-      "descrizione": "Apple Music integra Ticketmaster per consigliare concerti basati sulle abitudini di ascolto e permettere l'acquisto diretto dei biglietti. The post Apple Music integra Ticketmaster per consigliare i concerti appeared fir",
-      "link": "https://www.punto-informatico.it/apple-music-integra-ticketmaster-consigliare-concerti/",
+      "titolo": "Scoperta record in Cina: minerali strategici per tecnologia e difesa",
+      "descrizione": "Cina annuncia enormi riserve di terre rare e minerali chiave",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652856/cina-terre-rare-scoperta-minerali-strategici/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T17:15:00+00:00"
+    },
+    {
+      "titolo": "Hosting con WordPress a partire da 11€ per il primo anno: la super promo Aruba",
+      "descrizione": "Che tu voglia aprire un blog, un sito web o un e-commerce, con Aruba Hosting i piani WordPress sono in promozione per i nuovi utenti. The post Hosting con WordPress a partire da 11€ per il primo anno: la super promo Arub",
+      "link": "https://www.punto-informatico.it/hosting-con-wordpress-a-partire-da-11e-per-il-primo-anno-la-super-promo-aruba/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-25T12:17:33+00:00"
+      "data": "2026-03-25T17:05:01+00:00"
     },
     {
-      "titolo": "Google migliora la gestione degli accessi alle riunioni Meet: le novità",
-      "descrizione": "Con l’aggiornamento, Meet consente di approvare automaticamente i partecipanti fidati e bloccare o controllare manualmente gli utenti non verificati",
-      "link": "https://www.hdblog.it/google/articoli/n652965/google-meet-novita-approvazione-accessi/",
+      "titolo": "Enel pronta a cimentarsi nella telefonia mobile con Lene Connect?",
+      "descrizione": "I primi indizi sono molto solidi, ma per ora non c'è niente di ufficiale.",
+      "link": "https://www.hdblog.it/virtuali/articoli/n653019/enel-operatore-virtuale-mobile-lene-connect/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T12:15:00+00:00"
+      "data": "2026-03-25T17:05:00+00:00"
     },
     {
-      "titolo": "Apple rilascia iOS 26.4: AI per Apple Music e CarPlay",
-      "descrizione": "Apple ha rilasciato iOS 26.4 che include novità AI per Apple Music e CarPlay, ovvero la creazione di playlist e le conversazioni vocali con i chatbot. The post Apple rilascia iOS 26.4: AI per Apple Music e CarPlay appear",
-      "link": "https://www.punto-informatico.it/apple-rilascia-ios-26-4-ai-apple-music-carplay/",
+      "titolo": "Instagram, guadagnare con le affiliazioni sarà presto più facile",
+      "descrizione": "Grazie a queste nuove funzioni che ricordano TikTok",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652976/instagram-guadagnare-con-affiliazioni-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T16:45:00+00:00"
+    },
+    {
+      "titolo": "LOL 6 su Prime Video dal 23 aprile: cast e trailer ufficiale",
+      "descrizione": "LOL 6 debutta su Prime Video dal 23 aprile con trailer poster cast completo e sorpresa in control room.",
+      "link": "https://www.hdblog.it/amazon/articoli/n652863/lol-6-prime-video-trailer-poster-cast/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T16:35:00+00:00"
+    },
+    {
+      "titolo": "Come iniziare a usare l’AI, il prompt chiave per i principianti",
+      "descrizione": "Il prompt chiave che insegna ai principianti come usare l'AI nella vita quotidiana, con quattro esempi pratici pronti da copiare. The post Come iniziare a usare l’AI, il prompt chiave per i principianti appeared first on",
+      "link": "https://www.punto-informatico.it/come-iniziare-usare-ai-prompt-chiave-principianti/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-25T11:52:33+00:00"
+      "data": "2026-03-25T16:30:41+00:00"
     },
     {
-      "titolo": "Samsung inizia le vendite in USA di alcuni nuovi televisori del 2026",
-      "descrizione": "Prezzi per tutte le tasche: da 299 dollari a... 5.500!",
-      "link": "https://www.hdblog.it/tv/articoli/n652963/samsung-tv-miniled-neo-qled-2026-vendite-usa/",
+      "titolo": "Subaru: al Salone di New York debutterà un inedito modello ibrido",
+      "descrizione": "La Casa giapponese sarà una delle grandi protagoniste della kermesse di New York con un nuovo modello dotato della tecnologia Wilderness Hybrid.",
+      "link": "https://www.hdmotori.it/subaru-new-york-modello-ibrido/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T11:45:00+00:00"
+      "data": "2026-03-25T16:30:22+00:00"
     },
     {
-      "titolo": "Samsung è il brand preferito dagli italiani per frigoriferi e lavatrici",
-      "descrizione": "Secondo Ipsos, Samsung è il brand preferito in Italia per frigoriferi e lavatrici, confermando la fiducia dei consumatori nel mercato degli elettrodomestici",
-      "link": "https://www.hdblog.it/samsung/articoli/n652962/samsung-marchio-preferito-italiani-frigo-lavatrici/",
+      "titolo": "Le chiamate spam non sono più un problema: Call Protection di NordVPN le può bloccare",
+      "descrizione": "Con NordVPN è ora possibile bloccare le chiamate spam in arrivo sullo smartphone: ecco come funziona il servizio e come utilizzarlo. The post Le chiamate spam non sono più un problema: Call Protection di NordVPN le può b",
+      "link": "https://www.punto-informatico.it/le-chiamate-spam-non-sono-piu-un-problema-call-protection-di-nordvpn-le-puo-bloccare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-25T16:22:09+00:00"
+    },
+    {
+      "titolo": "Meta e Google condannati: i social ingannano gli utenti e creano dipendenza",
+      "descrizione": "Meta dovrà pagare 375 milioni di dollari per non aver informato in modo appropriato gli utenti sui pericoli delle sue piattaforme. Un tribunale del New Mexico, negli Stati Uniti, ha...",
+      "link": "https://www.ilsole24ore.com/art/meta-dovra-pagare-375-milioni-dollari-mancata-tutela-minorenni-sue-piattaforme-AIG8k09B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-25T16:18:00+00:00"
+    },
+    {
+      "titolo": "Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux",
+      "descrizione": "It's the most consequential release yet, and it significantly levels up Linux gaming.",
+      "link": "https://www.zdnet.com/article/wine-11-linux-gaming-windows-switch/",
+      "fonte": "Latest news",
+      "data": "2026-03-25T16:15:54+00:00"
+    },
+    {
+      "titolo": "La chiusura di HiAnime continua a farsi sentire: GitHub cancella 900 repository pirata",
+      "descrizione": "Tool, \"API\" e strumenti che si basavano sull'infrastruttura di HiAnime sono stati mandati offline.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n653011/pirateria-hianime-takedown-github-900-repository/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T11:25:00+00:00"
+      "data": "2026-03-25T16:15:00+00:00"
     },
     {
-      "titolo": "WhatsApp intende perfezionare le liste su Android con nuove funzioni",
-      "descrizione": "Avviati test che prevedono nuove funzionalità per la gestione delle liste.",
-      "link": "https://www.hdblog.it/android/articoli/n652944/whatsapp-perfeziona-liste-android/",
+      "titolo": "Verifica età obbligatoria con iOS 26.4 nel Regno Unito",
+      "descrizione": "Anche se non previsto dalla legge, Apple ha introdotto l'obbligo della verifica dell'età (18 anni) con iOS 26.4 per gli utenti nel Regno Unito. The post Verifica età obbligatoria con iOS 26.4 nel Regno Unito appeared fir",
+      "link": "https://www.punto-informatico.it/verifica-eta-obbligatoria-ios-26-4-regno-unito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-25T16:07:16+00:00"
+    },
+    {
+      "titolo": "Sony TV LCD Bravia 3 II e Bravia 2 II fino a 100” e nuove soundbar",
+      "descrizione": "Sony annuncia l'arrivo di due nuove serie TV LCD \"entry-level\" Bravia 3 II e Bravia 2 II. Ad accompagnarle anche nuove soundbar, subwoofer e speaker wireless.",
+      "link": "https://www.hdblog.it/tv/articoli/n652764/sony-tv-lcd-bravia-3-ii-bravia-2-ii-soundbar/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T11:10:00+00:00"
+      "data": "2026-03-25T16:05:00+00:00"
     },
     {
-      "titolo": "Samsung Galaxy A37 e A57 provati: molti cambiamenti estetici e all-in sul software | VIDEO",
-      "descrizione": "Abbiamo provato i nuovi medio gamma di Samsung: Galaxy A57 e Galaxy A37. Molti cambiamenti estetici, meno cornici, nuovi processori e all-in sul software e intelligenza artificiale. Prezzi in linea...",
-      "link": "https://www.hdblog.it/smartphone/speciali/n652889/anteprima-samsung-galaxy-a37-e-a57/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T11:09:00+00:00"
+      "titolo": "This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale",
+      "descrizione": "The Samsung Essential S3 is great for work and gaming, and right now during Amazon's Spring Sale event, you can snag one on sale.",
+      "link": "https://www.zdnet.com/article/samsung-essential-s3-monitor-amazon-spring-sale-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-25T15:56:39+00:00"
     },
     {
-      "titolo": "Samsung Galaxy A57 5G e Galaxy A37 5G ufficiali: caratteristiche e prezzi",
-      "descrizione": "Galaxy A57 5G è il modello più potente mai realizzato nella serie A",
-      "link": "https://www.hdblog.it/smartphone/articoli/n652903/samsung-galaxy-a57-5g-37-ufficiali-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T11:01:00+00:00"
+      "titolo": "Italia – Irlanda del Nord: come seguire il match se ti trovi all’estero",
+      "descrizione": "Il match Italia - Irlanda del Nord è in programma giovedì 26 marzo: ecco come vedere il match anche in diretta streaming dall'estero. The post Italia – Irlanda del Nord: come seguire il match se ti trovi all’estero appea",
+      "link": "https://www.punto-informatico.it/italia-irlanda-del-nord-come-seguire-il-match-se-ti-trovi-allestero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-25T15:50:08+00:00"
     },
     {
-      "titolo": "Volkswagen richiama quasi 100.000 auto elettriche per rischio incendio alle batterie",
-      "descrizione": "ID.3, ID.4, ID.5, ID. Buzz e Cupra Born a rischio riduzione autonomia e incendio.",
-      "link": "https://www.hdmotori.it/volkswagen-richiamo-auto-elettriche-rischio-incendio/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T11:00:20+00:00"
-    },
-    {
-      "titolo": "Aeronaut Is an Actual Mac App for Bluesky",
-      "descrizione": "If you miss social media on your desktop—à la Tweetbot, TweetDeck, or the official Twitter app—then check out this macOS client for Bluesky.",
-      "link": "https://www.wired.com/story/aeronaut-mac-app-for-bluesky/",
+      "titolo": "Ultrahuman Is Back: Can the Ring Pro Beat Oura in the US Market?",
+      "descrizione": "Ultrahuman is officially back in the US and looking to disrupt the status quo with its most advanced smart ring yet.",
+      "link": "https://www.wired.com/story/ultrahumans-us-comeback-starts-now-with-the-new-ring-pro/",
       "fonte": "WIRED",
-      "data": "2026-03-25T11:00:00+00:00"
+      "data": "2026-03-25T15:49:16+00:00"
     },
     {
-      "titolo": "Kali Linux 2026.1 è realtà: nuovi tool e restyling completo per la distro degli hacker etici",
-      "descrizione": "Kali Linux 2026.1 debutta con nuovi tool offensivi, supporto mobile avanzato e un restyling completo: ecco cosa cambia. The post Kali Linux 2026.1 è realtà: nuovi tool e restyling completo per la distro degli hacker etic",
-      "link": "https://www.punto-informatico.it/kali-linux-2026-1-e-realta-nuovi-tool-e-restyling-completo-per-la-distro-degli-hacker-etici/",
+      "titolo": "Smartphone ricondizionati: iPhone, Galaxy, Xiaomi e le altre offerte PcComponentes",
+      "descrizione": "Su PcComponentes arrivano nuove offerte sugli smartphone ricondizionati: iPhone, Samsung e Xiaomi a prezzi molto più accessibili rispetto al nuovo. Ecco i modelli più interessanti da tenere d’occhio.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n650625/smartphone-ricondizionati-iphone-samsung-offerta/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T15:45:00+00:00"
+    },
+    {
+      "titolo": "Best early Amazon Big Spring Sale headphone deals 2026",
+      "descrizione": "Spring has sprung, and an Amazon Big Spring Sale is officially here. Here are the best headphone deals to shop.",
+      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
+      "fonte": "Latest news",
+      "data": "2026-03-25T15:39:58+00:00"
+    },
+    {
+      "titolo": "Honda Transalp con e-clutch e CRF300L Rally: in arrivo le nuove Adventure",
+      "descrizione": "Honda rilancia l’adventure, Transalp con E-Clutch e CRF300L Rally puntano su versatilità reale, tra città, viaggi e off-road leggero.",
+      "link": "https://www.hdmotori.it/honda-transalp-e-clutch-crf300l-rally-adventure/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T15:30:59+00:00"
+    },
+    {
+      "titolo": "Google Meet, riunioni più sicure con la separazione dei bot",
+      "descrizione": "L'aggiornamento di Google Meet separa le richieste di ingresso in due code per livello di rischio, per bloccare i bot più facilmente. The post Google Meet, riunioni più sicure con la separazione dei bot appeared first on",
+      "link": "https://www.punto-informatico.it/google-meet-riunioni-piu-sicure-separazione-bot/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-25T10:52:02+00:00"
+      "data": "2026-03-25T15:27:19+00:00"
     },
     {
-      "titolo": "Ora legale: quanto si risparmierà in Italia quest'anno e chi l'ha inventata",
-      "descrizione": "Tra parafulmini e insetti.",
-      "link": "https://www.hdblog.it/green/articoli/n652934/ora-legale-risparmio-italia-quando-nasce/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T10:50:00+00:00"
-    },
-    {
-      "titolo": "Sai dove vanno forte i pagamenti digitali? In farmacia (e a Ragusa)",
-      "descrizione": "Le statistiche rivelano i trend legati alla diffusione dei pagamenti digitali in Italia: sempre più frequenti, +26,7% in un solo anno. The post Sai dove vanno forte i pagamenti digitali? In farmacia (e a Ragusa) appeared",
-      "link": "https://www.punto-informatico.it/pagamenti-digitali-farmacia-ragusa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-25T10:44:08+00:00"
-    },
-    {
-      "titolo": "Vodafone, il Wi-Fi Calling arriva finalmente sugli iPhone: quali, i costi e a cosa serve",
-      "descrizione": "Vodafone aggiorna il Wi-Fi Calling introducendo il supporto per iPhone, ora compatibili grazie a iOS 26.4, con chiamate tramite Wi-Fi senza costi aggiuntivi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n652956/vodafone-wifi-calling-iphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T10:40:00+00:00"
-    },
-    {
-      "titolo": "Apple rilascia le versioni stabili di iOS 26.4 e iPadOS 26.4: ecco tutte le novità",
-      "descrizione": "Apple ha distribuito le versioni stabili di iOS 26.4 e iPadOS 26.4",
-      "link": "https://www.hdblog.it/smartphone/articoli/n652946/apple-rilascia-ios-26-tutte-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T10:35:00+00:00"
-    },
-    {
-      "titolo": "Per la nuova Type 00 Jaguar ha sacrificato quattro modelli. La denuncia del capo del design",
-      "descrizione": "Ian Callum, direttore del design per vent'anni, rivela che XJ, XF, F-Pace e F-Type erano tutti in sviluppo avanzato prima di essere cancellati.",
-      "link": "https://www.hdmotori.it/jaguar-type-00-critiche-ex-capo-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-25T10:30:26+00:00"
+      "titolo": "Best Costco deals to compete with Amazon's Big Spring Sale 2026",
+      "descrizione": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
+      "link": "https://www.zdnet.com/article/best-costco-deals-amazon-big-spring-sale-2026/",
+      "fonte": "Latest news",
+      "data": "2026-03-25T15:19:06+00:00"
     }
   ]
 }
