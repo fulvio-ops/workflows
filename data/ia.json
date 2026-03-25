@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-03-25T07:19:10.605867+00:00",
+  "last_updated": "2026-03-25T13:50:44.527038+00:00",
   "items": [
     {
-      "titolo": "AI e ricerca scientifica, sfida aperta tra OpenAI e Anthropic: modelli contro narrazione",
-      "descrizione": "La battaglia tra OpenAI e Anthropic ora si sposta anche sulla ricerca scientifica potenziata dall’AI. Se infatti qualche settimana fa l’azienda di Sam Altman aveva lanciato Prism, una versione di...",
-      "link": "https://www.ilsole24ore.com/art/ai-e-ricerca-scientifica-sfida-aperta-openai-e-anthropic-modelli-contro-narrazione-AIJFGb8B",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-25T07:12:04+00:00",
+      "titolo": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs — ‘all-new’ vPro platform goes all-in on AI",
+      "descrizione": "Intel has officially released its Xeon 600 workstation CPUs, previously known as Granite Rapids-WS, as well as detailed new features coming to its vPro platform with new Panther Lake CPUs for businesses.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-25T13:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "AI e ricerca scientifica, sfida aperta tra OpenAI e Anthropic: modelli contro narrazione",
-      "descrizione": "La battaglia tra OpenAI e Anthropic ora si sposta anche sulla ricerca scientifica potenziata dall’AI. Se infatti qualche settimana fa l’azienda di Sam Altman aveva lanciato Prism, una versione di...",
-      "link": "https://www.ilsole24ore.com/art/ai-e-ricerca-scientifica-sfida-aperta-openai-e-anthropic-modelli-contro-narrazione-AIJFGb8B",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-25T07:12:04+00:00",
+      "titolo": "Opera One integra Gemini e Google Traduttore nella barra laterale",
+      "descrizione": "Con l'ultimo aggiornamento, Opera One integra Gemini e Google Traduttore direttamente nel browser, all'interno della barra laterale. The post Opera One integra Gemini e Google Traduttore nella barra laterale appeared fir",
+      "link": "https://www.punto-informatico.it/opera-one-gemini-google-traduttore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-25T13:36:08+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude Code auto mode: l’AI decide da sola quali azioni eseguire",
+      "descrizione": "Con auto mode di Claude Code decide quali azioni eseguire automaticamente e quali richiedono approvazione, usando un filtro di sicurezza. The post Claude Code auto mode: l’AI decide da sola quali azioni eseguire appeared",
+      "link": "https://www.punto-informatico.it/claude-code-auto-mode-ai-decide-da-sola-quali-azioni-eseguire/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-25T10:11:27+00:00",
       "modello": "claude"
     }
   ]
