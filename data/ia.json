@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-03-25T03:19:44.590920+00:00",
+  "last_updated": "2026-03-25T07:19:10.605867+00:00",
   "items": [
     {
-      "titolo": "Arm Is Now Making Its Own Chips",
-      "descrizione": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-      "fonte": "WIRED",
-      "data": "2026-03-24T17:00:00+00:00",
+      "titolo": "AI e ricerca scientifica, sfida aperta tra OpenAI e Anthropic: modelli contro narrazione",
+      "descrizione": "La battaglia tra OpenAI e Anthropic ora si sposta anche sulla ricerca scientifica potenziata dall’AI. Se infatti qualche settimana fa l’azienda di Sam Altman aveva lanciato Prism, una versione di...",
+      "link": "https://www.ilsole24ore.com/art/ai-e-ricerca-scientifica-sfida-aperta-openai-e-anthropic-modelli-contro-narrazione-AIJFGb8B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-25T07:12:04+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Apple promette novità AI alla WWDC 2026: Siri 2.0?",
-      "descrizione": "Durante la WWDC 2026, Apple dovrebbe mostrare la versione 2.0 di Siri potenziata con un modello Gemini di Google e altre novità AI per iOS 27. The post Apple promette novità AI alla WWDC 2026: Siri 2.0? appeared first on",
-      "link": "https://www.punto-informatico.it/apple-promette-novita-ai-wwdc-2026-siri-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-24T12:28:31+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-      "descrizione": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-      "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-      "fonte": "WIRED",
-      "data": "2026-03-24T22:13:17+00:00",
+      "titolo": "AI e ricerca scientifica, sfida aperta tra OpenAI e Anthropic: modelli contro narrazione",
+      "descrizione": "La battaglia tra OpenAI e Anthropic ora si sposta anche sulla ricerca scientifica potenziata dall’AI. Se infatti qualche settimana fa l’azienda di Sam Altman aveva lanciato Prism, una versione di...",
+      "link": "https://www.ilsole24ore.com/art/ai-e-ricerca-scientifica-sfida-aperta-openai-e-anthropic-modelli-contro-narrazione-AIJFGb8B",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-03-25T07:12:04+00:00",
       "modello": "claude"
     }
   ]
