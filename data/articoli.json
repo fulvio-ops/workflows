@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-25T19:12:22.531286+00:00",
+  "last_updated": "2026-03-26T03:28:03.988874+00:00",
   "items": [
+    {
+      "titolo": "Why I left Evernote for Notion after 14 years - and a 900% price creep",
+      "descrizione": "Opinion: For over a decade, Evernote served as my digital brain. But its new $250 price floor for power users finally pushed me to Notion - and I'm glad.",
+      "link": "https://www.zdnet.com/article/why-i-left-evernote-for-notion/",
+      "fonte": "Latest news",
+      "data": "2026-03-26T00:00:55+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A37 e A57 provati: molti cambiamenti estetici e all-in sul software | VIDEO",
+      "descrizione": "Abbiamo provato i nuovi medio gamma di Samsung: Galaxy A57 e Galaxy A37. Molti cambiamenti estetici, meno cornici, nuovi processori e all-in sul software e intelligenza artificiale. Prezzi in linea...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n652889/anteprima-samsung-galaxy-a37-e-a57/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T19:00:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 e AirDrop, ci siamo: l'aggiornamento è in distribuzione in Italia",
+      "descrizione": "I Samsung Galaxy ricevono un aggiornamento che introduce la compatibilità con AirDrop, permettendo lo scambio rapido di file con iPhone, iPad e Mac anche in Italia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652935/galaxy-s26-airdrop-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-25T18:59:00+00:00"
+    },
     {
       "titolo": "Claude prende il controllo del pc (ma chiede permesso): l’AI di Anthropic diventa un assistente operativo",
       "descrizione": "Con la funzione Dispatch, Claude può eseguire comandi sul computer direttamente da smartphone, creare file, gestire app e automatizzare attività",
@@ -86,13 +107,6 @@
       "data": "2026-03-25T16:18:00+00:00"
     },
     {
-      "titolo": "Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux",
-      "descrizione": "It's the most consequential release yet, and it significantly levels up Linux gaming.",
-      "link": "https://www.zdnet.com/article/wine-11-linux-gaming-windows-switch/",
-      "fonte": "Latest news",
-      "data": "2026-03-25T16:15:54+00:00"
-    },
-    {
       "titolo": "La chiusura di HiAnime continua a farsi sentire: GitHub cancella 900 repository pirata",
       "descrizione": "Tool, \"API\" e strumenti che si basavano sull'infrastruttura di HiAnime sono stati mandati offline.",
       "link": "https://www.hdblog.it/sicurezza/articoli/n653011/pirateria-hianime-takedown-github-900-repository/",
@@ -112,13 +126,6 @@
       "link": "https://www.hdblog.it/tv/articoli/n652764/sony-tv-lcd-bravia-3-ii-bravia-2-ii-soundbar/",
       "fonte": "HDblog.it",
       "data": "2026-03-25T16:05:00+00:00"
-    },
-    {
-      "titolo": "This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale",
-      "descrizione": "The Samsung Essential S3 is great for work and gaming, and right now during Amazon's Spring Sale event, you can snag one on sale.",
-      "link": "https://www.zdnet.com/article/samsung-essential-s3-monitor-amazon-spring-sale-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-25T15:56:39+00:00"
     },
     {
       "titolo": "Italia – Irlanda del Nord: come seguire il match se ti trovi all’estero",
@@ -142,13 +149,6 @@
       "data": "2026-03-25T15:45:00+00:00"
     },
     {
-      "titolo": "Best early Amazon Big Spring Sale headphone deals 2026",
-      "descrizione": "Spring has sprung, and an Amazon Big Spring Sale is officially here. Here are the best headphone deals to shop.",
-      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
-      "fonte": "Latest news",
-      "data": "2026-03-25T15:39:58+00:00"
-    },
-    {
       "titolo": "Honda Transalp con e-clutch e CRF300L Rally: in arrivo le nuove Adventure",
       "descrizione": "Honda rilancia l’adventure, Transalp con E-Clutch e CRF300L Rally puntano su versatilità reale, tra città, viaggi e off-road leggero.",
       "link": "https://www.hdmotori.it/honda-transalp-e-clutch-crf300l-rally-adventure/",
@@ -163,11 +163,11 @@
       "data": "2026-03-25T15:27:19+00:00"
     },
     {
-      "titolo": "Best Costco deals to compete with Amazon's Big Spring Sale 2026",
-      "descrizione": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
-      "link": "https://www.zdnet.com/article/best-costco-deals-amazon-big-spring-sale-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-25T15:19:06+00:00"
+      "titolo": "Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance",
+      "descrizione": "Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-25T15:06:27+00:00"
     }
   ]
 }

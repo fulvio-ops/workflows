@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-25T19:12:25.504724+00:00",
+  "last_updated": "2026-03-26T03:28:11.510788+00:00",
   "items": [
     {
-      "titolo": "La chiusura di HiAnime continua a farsi sentire: GitHub cancella 900 repository pirata",
-      "descrizione": "Tool, \"API\" e strumenti che si basavano sull'infrastruttura di HiAnime sono stati mandati offline.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n653011/pirateria-hianime-takedown-github-900-repository/",
+      "titolo": "Galaxy S26 e AirDrop, ci siamo: l'aggiornamento è in distribuzione in Italia",
+      "descrizione": "I Samsung Galaxy ricevono un aggiornamento che introduce la compatibilità con AirDrop, permettendo lo scambio rapido di file con iPhone, iPad e Mac anche in Italia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n652935/galaxy-s26-airdrop-italia/",
       "fonte": "HDblog.it",
-      "data": "2026-03-25T16:15:00+00:00",
+      "data": "2026-03-25T18:59:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Siri con Gemini: nuovi dettagli sull’accordo Apple-Google",
-      "descrizione": "Apple ha ottenuto l'accesso completo a Google Gemini, quindi può usare la sua conoscenza per addestrare modelli più piccoli eseguiti sul dispositivo. The post Siri con Gemini: nuovi dettagli sull’accordo Apple-Google app",
-      "link": "https://www.punto-informatico.it/siri-gemini-nuovi-dettagli-accordo-apple-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-25T17:27:13+00:00",
+      "titolo": "How I used Gemini to replace YouTube's missing comment alerts - in under an hour",
+      "descrizione": "With Gemini and a simple Python script, I rebuilt YouTube email alerts. Now I won't miss another comment. Here's how you can do the same.",
+      "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+      "fonte": "Latest news",
+      "data": "2026-03-25T22:00:00+00:00",
       "modello": "gemini"
     },
     {
