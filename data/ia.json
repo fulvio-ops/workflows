@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-26T07:37:22.285463+00:00",
+  "last_updated": "2026-03-26T14:00:25.225665+00:00",
   "items": [
     {
-      "titolo": "X in down a livello globale, segnalazioni in forte aumento: cosa sta accadendo",
-      "descrizione": "X sta registrando un down su scala globale, con un aumento rapido e anomalo delle segnalazioni da parte degli utenti che hanno già superato quota 1.200 su Downdetector, indicando un problema...",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n653057/x-down-livello-globale-segnalazioni-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-26T06:31:00+00:00",
+      "titolo": "OpenAI cancella la versione erotica di ChatGPT: cosa è successo",
+      "descrizione": "Niente versione erotica per ChatGPT: come già avvenuto con Sora, OpenAI ha cancellato il progetto e non solo per i rischi di natura legale. The post OpenAI cancella la versione erotica di ChatGPT: cosa è successo appeare",
+      "link": "https://www.punto-informatico.it/openai-cancella-versione-erotica-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-26T13:00:08+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude prende il controllo del pc (ma chiede permesso): l’AI di Anthropic diventa un assistente operativo",
-      "descrizione": "Con la funzione Dispatch, Claude può eseguire comandi sul computer direttamente da smartphone, creare file, gestire app e automatizzare attività",
-      "link": "https://www.ilsole24ore.com/art/claude-prende-controllo-pc-ma-chiede-permesso-l-ai-anthropic-diventa-assistente-operativo-AIDDMKAC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-25T18:42:02+00:00",
+      "titolo": "I let Claude AI control my Mac, and it worked flawlessly - with only two minor issues",
+      "descrizione": "Claude can take over your PC screen to carry out tasks now, like finding files and writing emails. Here's how well it works.",
+      "link": "https://www.zdnet.com/article/claude-ai-control-computer-hands-on-results/",
+      "fonte": "Latest news",
+      "data": "2026-03-26T12:35:00+00:00",
       "modello": "claude"
     }
   ]
