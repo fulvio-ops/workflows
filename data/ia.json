@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-03-27T13:44:38.124450+00:00",
+  "last_updated": "2026-03-27T19:12:21.415404+00:00",
   "items": [
     {
-      "titolo": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code",
-      "descrizione": "Codex's new plugins push it beyond coding and position it to challenge Claude Code's growing lead among developers.",
-      "link": "https://www.zdnet.com/article/openai-codex-plugins-workflow-automation-upgrade/",
-      "fonte": "Latest news",
-      "data": "2026-03-27T12:41:50+00:00",
+      "titolo": "I segreti delle api: debutto su Disney+ il 1° aprile",
+      "descrizione": "La nuova serie sulle api arriva su Disney+ il 1° aprile.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n653305/disneydocumentario-api-national-geographic-uscita/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-27T16:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google semplificherà il passaggio da ChatGPT a Gemini: ecco come",
-      "descrizione": "L’intento è di consentire la migrazione da un sistema AI all’altro senza perdere dati importanti.",
-      "link": "https://www.hdblog.it/google/articoli/n653264/google-semplifica-passaggio-chatgpt-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-27T11:35:00+00:00",
+      "titolo": "Gemini just made it super easy for you to switch from ChatGPT - here's how",
+      "descrizione": "Gemini will now let you transfer your memories, chat history, and preferences from another AI so you don't have to start from scratch.",
+      "link": "https://www.zdnet.com/article/switching-to-googles-gemini-from-another-ai-is-now-much-easier-heres-how/",
+      "fonte": "Latest news",
+      "data": "2026-03-27T16:24:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code",
-      "descrizione": "Codex's new plugins push it beyond coding and position it to challenge Claude Code's growing lead among developers.",
-      "link": "https://www.zdnet.com/article/openai-codex-plugins-workflow-automation-upgrade/",
-      "fonte": "Latest news",
-      "data": "2026-03-27T12:41:50+00:00",
+      "titolo": "Claude Mythos sta per arrivare, il modello più potente di sempre",
+      "descrizione": "Anthropic conferma l'esistenza di Claude Mythos, descritto come il modello più performante mai sviluppato. Il lancio procede con cautela. The post Claude Mythos sta per arrivare, il modello più potente di sempre appeared",
+      "link": "https://www.punto-informatico.it/claude-mythos-modello-piu-potente-di-sempre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-27T15:58:10+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Bugatti W16 Mistral \"Caroline\", l’hypercar disegnata per una figlia",
+      "descrizione": "Il regalo di un padre decisamente originale, la Bugatti W16 Mistral \"Caroline\" è un'auto da sogno. In tutti i sensi",
+      "link": "https://www.hdmotori.it/bugatti-w16-mistral-caroline/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-27T15:00:03+00:00",
+      "modello": "altri"
     }
   ]
 }
