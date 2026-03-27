@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-03-26T19:33:23.275953+00:00",
+  "last_updated": "2026-03-27T03:30:38.781668+00:00",
   "items": [
+    {
+      "titolo": "This robot mower took care of my lawn for months - and it's currently $300 off",
+      "descrizione": "Segway's Navimow X3 ranks among the best robot lawn mowers I've tested for its superior navigation and reliability.",
+      "link": "https://www.zdnet.com/article/segway-navimow-x3-series-robot-mower-review/",
+      "fonte": "Latest news",
+      "data": "2026-03-26T23:05:00+00:00"
+    },
+    {
+      "titolo": "Impara una nuova lingua al 50% di sconto con la promo Babbel",
+      "descrizione": "Metà prezzo per il piano annuale individuale: 7,99 euro al mese per imparare una fra le 13 lingue disponibili con Babbel. The post Impara una nuova lingua al 50% di sconto con la promo Babbel appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/impara-una-nuova-lingua-al-50-di-sconto-con-la-promo-babbel/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-26T19:48:08+00:00"
+    },
     {
       "titolo": "Con gli occhiali smart Even G2 è difficile non avere qualcosa da dire",
       "descrizione": "Presentato da Even Realities il nuovo modello di occhiali smart Even G2 con AI integrata e più funzioni dedicate alla produttività. The post Con gli occhiali smart Even G2 è difficile non avere qualcosa da dire appeared",
       "link": "https://www.punto-informatico.it/occhiali-smart-even-g2/",
       "fonte": "Punto Informatico",
       "data": "2026-03-26T19:15:39+00:00"
+    },
+    {
+      "titolo": "Search Live disponibile per tutti in Italia: cos'è e come funziona",
+      "descrizione": "La nuova funzione è finalmente disponibile per tutti.",
+      "link": "https://www.hdblog.it/google/articoli/n653170/google-ricerca-search-live-disponibile-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-26T18:55:00+00:00"
     },
     {
       "titolo": "AI Act: ban per le app che spogliano in Europa",
@@ -23,13 +44,6 @@
       "data": "2026-03-26T18:26:13+00:00"
     },
     {
-      "titolo": "AdBlock Plus rilascia aggiornamento rivoluzionario: protezione totale da pubblicità invasiva",
-      "descrizione": "Il popolare software di blocco pubblicità introduce funzionalità avanzate di intelligenza artificiale e protezione della privacy che promettono di rivoluzionare l",
-      "link": "https://ittv.top",
-      "fonte": "HDblog.it",
-      "data": "2026-03-26T18:24:13+00:00"
-    },
-    {
       "titolo": "Wikipedia ha vietato gli articoli generati con l'AI",
       "descrizione": "Uso consentito solo per editing di base o traduzioni",
       "link": "https://www.hdblog.it/internet/articoli/n653164/wikipedia-vieta-articoli-generati-ai/",
@@ -42,13 +56,6 @@
       "link": "https://www.punto-informatico.it/search-live-italia-gemini-flash-3-1-live/",
       "fonte": "Punto Informatico",
       "data": "2026-03-26T17:42:25+00:00"
-    },
-    {
-      "titolo": "How my portable wind turbine compares to solar panels - 2 years of testing later",
-      "descrizione": "Portable wind generators promise clean energy in windy conditions, but how do they stack up against the proven reliability and efficiency of portable solar panels?",
-      "link": "https://www.zdnet.com/article/shine-turbine-portable-wind-generator-long-term-test-vs-solar-panels/",
-      "fonte": "Latest news",
-      "data": "2026-03-26T17:30:46+00:00"
     },
     {
       "titolo": "Dal suolo di Marte al piatto: così gli scienziati fanno crescere cibo",
@@ -86,13 +93,6 @@
       "data": "2026-03-26T16:25:00+00:00"
     },
     {
-      "titolo": "Best Amazon Spring Sale robot vacuum deals 2026",
-      "descrizione": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale.",
-      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
-      "fonte": "Latest news",
-      "data": "2026-03-26T16:23:42+00:00"
-    },
-    {
       "titolo": "La casa degli spiriti ad aprile su Prime Video | Trailer ufficiale",
       "descrizione": "La casa degli spiriti debutta su Prime Video il 29 aprile",
       "link": "https://www.hdblog.it/amazon/articoli/n648596/serie-la-casa-degli-spiriti-data-uscita/",
@@ -119,13 +119,6 @@
       "link": "https://www.punto-informatico.it/poste-it-nella-top-10-siti-piu-visitati-italia/",
       "fonte": "Punto Informatico",
       "data": "2026-03-26T15:42:50+00:00"
-    },
-    {
-      "titolo": "Search Live disponibile per tutti in Italia: cos'è e come funziona",
-      "descrizione": "La nuova funzione è finalmente disponibile per tutti.",
-      "link": "https://www.hdblog.it/google/articoli/n653170/google-ricerca-search-live-disponibile-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-26T15:40:00+00:00"
     },
     {
       "titolo": "US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal — looming Chip Security Act may put a wrench into Huang's China ambitions",
@@ -167,6 +160,13 @@
       "descrizione": "L'Oversight Board di Meta avverte che espandere le Community Notes in altri Paesi potrebbe causare danni significativi. The post Community Notes di Meta, il Board sconsiglia lancio fuori dagli USA appeared first on Punto",
       "link": "https://www.punto-informatico.it/community-notes-meta-board-sconsiglia-lancio-fuori-usa/",
       "fonte": "Punto Informatico",
+      "data": "2026-03-26T15:15:53+00:00"
+    },
+    {
+      "titolo": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
+      "descrizione": "The Telegram-based Xinbi Guarantee black market sells services that help prop up scam operations. British officials just hit the highly lucrative marketplace with sweeping sanctions.",
+      "link": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/",
+      "fonte": "WIRED",
       "data": "2026-03-26T15:15:53+00:00"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T19:33:26.988155+00:00",
+  "last_updated": "2026-03-27T03:30:42.285438+00:00",
   "items": [
     {
       "titolo": "La crisi dei chip si sta allargando rapidamente anche alle CPU",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude prende il controllo del pc (ma chiede permesso): l’AI di Anthropic diventa un assistente operativo",
-      "descrizione": "Con la funzione Dispatch, Claude può eseguire comandi sul computer direttamente da smartphone, creare file, gestire app e automatizzare attività",
-      "link": "https://www.ilsole24ore.com/art/claude-prende-controllo-pc-ma-chiede-permesso-l-ai-anthropic-diventa-assistente-operativo-AIDDMKAC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-25T18:42:02+00:00",
+      "titolo": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "descrizione": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "fonte": "WIRED",
+      "data": "2026-03-26T23:33:05+00:00",
       "modello": "claude"
     }
   ]
