@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-27T03:30:42.285438+00:00",
+  "last_updated": "2026-03-27T07:35:46.712891+00:00",
   "items": [
     {
-      "titolo": "La crisi dei chip si sta allargando rapidamente anche alle CPU",
-      "descrizione": "I prezzi di listino aumentano e i tempi di consegna diventano eterni.",
-      "link": "https://www.hdblog.it/hardware/articoli/n653166/crisi-chip-processori-intel-amd-aumenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-26T15:25:00+00:00",
+      "titolo": "Gemini fa importare le chat e la memoria da ChatGPT e Claude",
+      "descrizione": "Gemini permette di trasferire preferenze, informazioni personali e intere cronologie di conversazioni da ChatGPT, Claude e altri chatbot. The post Gemini fa importare le chat e la memoria da ChatGPT e Claude appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-fa-importare-chat-memoria-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-27T07:35:30+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Search Live arriva in Italia con Gemini 3.1 Flash Live",
-      "descrizione": "La funzionalità Search Live è disponibile anche in Italia tramite app Google o Google Lens e sfrutta il nuovo modello Gemini Flash 3.1 Live. The post Search Live arriva in Italia con Gemini 3.1 Flash Live appeared first",
-      "link": "https://www.punto-informatico.it/search-live-italia-gemini-flash-3-1-live/",
+      "titolo": "Gemini fa importare le chat e la memoria da ChatGPT e Claude",
+      "descrizione": "Gemini permette di trasferire preferenze, informazioni personali e intere cronologie di conversazioni da ChatGPT, Claude e altri chatbot. The post Gemini fa importare le chat e la memoria da ChatGPT e Claude appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-fa-importare-chat-memoria-chatgpt-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-26T17:42:25+00:00",
+      "data": "2026-03-27T07:35:30+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-      "descrizione": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-      "fonte": "WIRED",
-      "data": "2026-03-26T23:33:05+00:00",
+      "titolo": "Gemini fa importare le chat e la memoria da ChatGPT e Claude",
+      "descrizione": "Gemini permette di trasferire preferenze, informazioni personali e intere cronologie di conversazioni da ChatGPT, Claude e altri chatbot. The post Gemini fa importare le chat e la memoria da ChatGPT e Claude appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-fa-importare-chat-memoria-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-27T07:35:30+00:00",
       "modello": "claude"
     }
   ]
