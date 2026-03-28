@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-27T19:12:16.278083+00:00",
+  "last_updated": "2026-03-28T03:17:08.496955+00:00",
   "items": [
+    {
+      "titolo": "Why these older Sony headphones are still worth buying in 2026 - especially at this price",
+      "descrizione": "Amazon is discounting the Sony WH-1000XM5 headphones during its Big Spring Sale. They're 25% off.",
+      "link": "https://www.zdnet.com/article/sony-wh1000xm5-amazon-spring-sale-deal/",
+      "fonte": "Latest news",
+      "data": "2026-03-27T21:20:00+00:00"
+    },
+    {
+      "titolo": "Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s",
+      "descrizione": "Plus: Apple makes big claims about the effectiveness of its Lockdown Mode anti-spyware feature, Russia moves to implement homegrown encryption for 5G, and more.",
+      "link": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+      "fonte": "WIRED",
+      "data": "2026-03-27T19:45:21+00:00"
+    },
+    {
+      "titolo": "Tre settimane con MacBook Neo: un nuovo inizio per i portatili \"economici\" | VIDEO",
+      "descrizione": "Abbiamo passato tre settimane in compagnia di MacBook Neo, il nuovo portatile di Apple che punta alla conquista la fascia più economica del mercato dei computer. Missione compiuta?",
+      "link": "https://www.hdblog.it/portatili/speciali/n652140/-macbook-neo-test-prezzo-prova/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-27T19:01:00+00:00"
+    },
     {
       "titolo": "Avete notato che il logo di Android 17 cambia leggermente a ogni Beta?",
       "descrizione": "Di pochissimo, soprattutto nella parte centrale in verde. Cosa sta tramando Google?",
@@ -70,13 +91,6 @@
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-27T16:22:19+00:00"
-    },
-    {
-      "titolo": "Best Amazon Big Spring Sale headphone deals 2026",
-      "descrizione": "Spring has sprung, and an Amazon Big Spring Sale is officially here. Here are the best headphone deals to shop.",
-      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
-      "fonte": "Latest news",
-      "data": "2026-03-27T16:09:54+00:00"
     },
     {
       "titolo": "Bucato l’account email del capo FBI: nuova frontiera della cyberwar",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-03-27T14:29:56+00:00"
-    },
-    {
-      "titolo": "Indagine GPEN: troppi rischi per i minori su app e siti",
-      "descrizione": "Un'indagine della GPEN ha evidenziato che siti e app non garantiscono la privacy dei minori e permettono l'accesso a contenuti non adatti alla loro età. The post Indagine GPEN: troppi rischi per i minori su app e siti ap",
-      "link": "https://www.punto-informatico.it/indagine-gpen-troppi-rischi-minori-app-siti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-27T14:05:35+00:00"
-    },
-    {
-      "titolo": "Suno 5.5 ti fa cantare: come cambia la musica AI con Voices",
-      "descrizione": "Con il nuovo modello di Suno la musica AI cambia: la novità più interessante è Voices che ci renderà tutti cantanti perfettamente intonati. The post Suno 5.5 ti fa cantare: come cambia la musica AI con Voices appeared fi",
-      "link": "https://www.punto-informatico.it/suno-5-5-voices/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-27T13:54:06+00:00"
     }
   ]
 }
