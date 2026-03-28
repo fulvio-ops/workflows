@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-28T07:15:36.722798+00:00",
+  "last_updated": "2026-03-28T13:27:29.672366+00:00",
   "items": [
     {
-      "titolo": "I segreti delle api: debutto su Disney+ il 1° aprile",
-      "descrizione": "La nuova serie sulle api arriva su Disney+ il 1° aprile.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n653305/disneydocumentario-api-national-geographic-uscita/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-27T16:25:00+00:00",
+      "titolo": "Chiedere all’AI di analizzare come si usa il tempo",
+      "descrizione": "L'AI non serve solo a ottenere risposte più veloci, ma a capire dove si sta perdendo tempo senza accorgersene. Il prompt per avviare l'analisi. The post Chiedere all’AI di analizzare come si usa il tempo appeared first o",
+      "link": "https://www.punto-informatico.it/chiedere-ai-analizzare-come-si-usa-tempo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-28T08:30:49+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,14 +16,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-03-27T15:58:10+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Bugatti W16 Mistral \"Caroline\", l’hypercar disegnata per una figlia",
-      "descrizione": "Il regalo di un padre decisamente originale, la Bugatti W16 Mistral \"Caroline\" è un'auto da sogno. In tutti i sensi",
-      "link": "https://www.hdmotori.it/bugatti-w16-mistral-caroline/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-27T15:00:03+00:00",
-      "modello": "altri"
     }
   ]
 }
