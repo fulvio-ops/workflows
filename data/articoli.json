@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-03-29T13:29:36.042024+00:00",
+  "last_updated": "2026-03-29T19:03:33.102627+00:00",
   "items": [
+    {
+      "titolo": "WhatsApp, l'AI presto potrà riassumere i messaggi di più chat non lette",
+      "descrizione": "Un'evoluzione naturale: ecco come funzionerà.",
+      "link": "https://www.hdblog.it/android/articoli/n653372/whatsapp-riassunti-chat-non-lette-ai-messaggi/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-29T17:20:00+00:00"
+    },
+    {
+      "titolo": "AMD’s dual-GPU Radeon HD 6990 launched 15 years ago — power, heat, and noise monster was crowned the fastest graphics card in the world",
+      "descrizione": "15 years ago, AMD released its powerful Radeon HD 6990 graphics card, and even Nvidia's reply couldn't usurp it.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-29T15:26:08+00:00"
+    },
+    {
+      "titolo": "Apple Lockdown Mode funziona: nessun attacco spyware",
+      "descrizione": "Apple ha dichiarato che la funzionalità Lockdown Mode di iOS non è stata aggirata da nessun attacco spyware (confermato anche da terze parti). The post Apple Lockdown Mode funziona: nessun attacco spyware appeared first",
+      "link": "https://www.punto-informatico.it/apple-lockdown-mode-funziona-nessun-attacco-spyware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-29T15:11:20+00:00"
+    },
+    {
+      "titolo": "Best Amazon Big Spring Sale headphone deals 2026",
+      "descrizione": "Spring has sprung, and an Amazon Big Spring Sale is officially here. Here are the best headphone deals to shop.",
+      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
+      "fonte": "Latest news",
+      "data": "2026-03-29T15:01:31+00:00"
+    },
+    {
+      "titolo": "Best Amazon Spring Sale robot vacuum deals 2026",
+      "descrizione": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale.",
+      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
+      "fonte": "Latest news",
+      "data": "2026-03-29T14:33:01+00:00"
+    },
+    {
+      "titolo": "AnimePlay: smantellata la piattaforma di streaming",
+      "descrizione": "La Alliance for Creativity and Entertainment ha smantellato AnimePlay, piattaforma illegale per lo streaming di anime con oltre 5 milioni di utenti. The post AnimePlay: smantellata la piattaforma di streaming appeared fi",
+      "link": "https://www.punto-informatico.it/animeplay-smantellata-piattaforma-streaming/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-29T14:30:06+00:00"
+    },
+    {
+      "titolo": "Xbox Game Pass, spunta TRITON: un possibile abbonamento solo first-party",
+      "descrizione": "Una nuova proposta economica per rilanciare Game Pass?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n653364/xbox-game-pass-triton-abbonamento-first-party/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-29T14:20:00+00:00"
+    },
+    {
+      "titolo": "12-Nozzle 3D printer unveiled — MOVA AtomForm Unveils Palette 300",
+      "descrizione": "MOVA AtomForm officially unveiled its fledgling 3D printer at a Silicon Valley media event that felt more like a crash course on 3D printing for lifestyle content creators than a deep dive into the machine’s capabilities",
+      "link": "https://www.tomshardware.com/3d-printing/12-nozzle-3d-printer-unveiled-mova-atomform-unveils-palette-300",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-29T14:00:34+00:00"
+    },
+    {
+      "titolo": "Kimi Antonelli leader del mondiale fa sognare l’Italia: il record in F1 che nessuno ha notato",
+      "descrizione": "Il pilota della Mercedes, Kimi Antonelli, ha ottenuto la sua seconda vittoria di fila. Il giovane bolognese ha demolito dei primati storici",
+      "link": "https://www.hdmotori.it/kimi-antonelli-leader-mondiale-f1-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-29T14:00:32+00:00"
+    },
+    {
+      "titolo": "OPPO Find X9 Ultra: come funziona lo zoom ottico 10x",
+      "descrizione": "OPPO ha spiegato come funziona il teleobiettivo con zoom ottico 10x a periscopio del nuovo Find X9 Ultra che verrà annunciato ad aprile. The post OPPO Find X9 Ultra: come funziona lo zoom ottico 10x appeared first on Pun",
+      "link": "https://www.punto-informatico.it/oppo-find-x9-ultra-come-funziona-zoom-ottico-10x/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-29T13:33:43+00:00"
+    },
     {
       "titolo": "Japanese firm develops optical fiber with 4x traffic capacity, could be used for undersea cables — MCF retains the same diameter and works with existing infrastructure",
       "descrizione": "NTT's multicore optical fiber (MCF) can quadruple capacity while maintaining the diameter of existing single-core cables, allowing it to work with existing infrastructure.",
@@ -98,76 +168,6 @@
       "link": "https://www.punto-informatico.it/i-migliori-gadget-per-le-tue-apple-airpods-su-amazon-haul/",
       "fonte": "Punto Informatico",
       "data": "2026-03-29T04:30:50+00:00"
-    },
-    {
-      "titolo": "Best Costco deals to compete with Amazon's Big Spring Sale 2026",
-      "descrizione": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
-      "link": "https://www.zdnet.com/article/best-costco-deals-amazon-big-spring-sale-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-28T18:12:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Pad 7 (256 GB) in offerta a meno di 300€: è il tablet da scegliere oggi",
-      "descrizione": "Lo Xiaomi Pad 7 da 256 GB è in offerta e si conferma la scelta giusta per chi è alla ricerca di un nuovo tablet da meno di 300 euro.",
-      "link": "https://www.hdblog.it/tablet/offerte/n653350/xiaomi-pad-7-256-gb-offerta-prima26/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-28T17:35:00+00:00"
-    },
-    {
-      "titolo": "Furto email personali di Kash Patel: conferma dall’FBI",
-      "descrizione": "L'FBI ha confermato il furto delle email dall'account Gmail del direttore Kash Patel da parte del gruppo Handala finanziato dal governo iraniano. The post Furto email personali di Kash Patel: conferma dall’FBI appeared f",
-      "link": "https://www.punto-informatico.it/furto-email-personali-kash-patel-conferma-fbi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-28T16:52:22+00:00"
-    },
-    {
-      "titolo": "Deepfake di Grok: nuova indagine nei confronti di xAI",
-      "descrizione": "La città di Baltimora ha denunciato xAI, X e SpaceX per la generazione di deepfake sessuali non consensuali con Grok tra fine dicembre e inizio gennaio. The post Deepfake di Grok: nuova indagine nei confronti di xAI appe",
-      "link": "https://www.punto-informatico.it/deepfake-grok-nuova-indagine-xai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-28T15:20:15+00:00"
-    },
-    {
-      "titolo": "Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads'",
-      "descrizione": "The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-28T15:09:37+00:00"
-    },
-    {
-      "titolo": "Best Amazon Big Spring Sale headphone deals 2026",
-      "descrizione": "Spring has sprung, and an Amazon Big Spring Sale is officially here. Here are the best headphone deals to shop.",
-      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
-      "fonte": "Latest news",
-      "data": "2026-03-28T14:39:17+00:00"
-    },
-    {
-      "titolo": "Best Amazon Spring Sale robot vacuum deals 2026",
-      "descrizione": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale.",
-      "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
-      "fonte": "Latest news",
-      "data": "2026-03-28T14:24:53+00:00"
-    },
-    {
-      "titolo": "Octopus Energy: tariffe luce e gas trasparenti, 100% rinnovabile e senza vincoli contrattuali",
-      "descrizione": "Octopus Energy offre luce e gas con tariffe chiare, energia 100% rinnovabile e nessuna penale di recesso. Le tariffe sono bloccate per 12 mesi! The post Octopus Energy: tariffe luce e gas trasparenti, 100% rinnovabile e",
-      "link": "https://www.punto-informatico.it/octopus-energy-tariffe-luce-e-gas-trasparenti-100-rinnovabile-e-senza-vincoli-contrattuali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-28T13:27:54+00:00"
-    },
-    {
-      "titolo": "Babbel: impara una nuova lingua in pochi minuti al giorno a partire da soli 7€",
-      "descrizione": "Babbel ti insegna 14 lingue con lezioni brevi e pratiche, pensate per la vita reale. Piano annuale da 7,99€ al mese, prima lezione gratis. The post Babbel: impara una nuova lingua in pochi minuti al giorno a partire da s",
-      "link": "https://www.punto-informatico.it/babbel-impara-una-nuova-lingua-in-pochi-minuti-al-giorno-a-partire-da-soli-7e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-28T12:40:55+00:00"
-    },
-    {
-      "titolo": "Meta to fund seven new natural gas power plants to fuel AI data centers — Entergy partnership to deliver 7 gigawatts of power for Louisiana AI facility",
-      "descrizione": "Meta is paying for the construction of seven new natural gas plants to supply its largest data center, massively expanding the fossil fuel infrastructure underpinning its AI buildout.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-fund-seven-new-gas-plants-to-power-its-7gw-louisiana-data-center",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-28T12:00:00+00:00"
     }
   ]
 }
