@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-03-31T03:30:51.240911+00:00",
+  "last_updated": "2026-03-31T07:45:02.324058+00:00",
   "items": [
     {
-      "titolo": "Resident Evil Requiem, la formula della paura funziona ma non il finale",
-      "descrizione": "Capcom fonde survival horror e azione in un capitolo doppio, tra sperimentazione e memoria storica. Funziona il ritmo e la struttura ibrida, meno convincente il finale appesantito dalla nostalgia.",
-      "link": "https://www.ilsole24ore.com/art/resident-evil-requiem-formula-paura-funziona-ma-non-finale-AIxlBP8B",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-28T07:47:49+00:00",
+      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
+      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
+      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-31T07:43:04+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-      "descrizione": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-      "fonte": "WIRED",
-      "data": "2026-03-26T23:33:05+00:00",
+      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
+      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
+      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-31T07:43:04+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
+      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
+      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-03-31T07:43:04+00:00",
       "modello": "claude"
     }
   ]
