@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-03-31T14:03:07.062085+00:00",
+  "last_updated": "2026-03-31T19:29:51.020764+00:00",
   "items": [
     {
-      "titolo": "WhatsApp mostrerà i contatti online in una nuova scheda",
-      "descrizione": "La funzione consente di visualizzare rapidamente chi sta utilizzando il servizio.",
-      "link": "https://www.hdblog.it/android/articoli/n653585/whatsapp-mostra-contatti-online/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-31T11:50:00+00:00",
+      "titolo": "Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus — AI chip to be designed and manufactured domestically",
+      "descrizione": "Fujitsu plans to develop an NPU fabricated on an advanced 1.4nm process by Rapidus, designed for AI inference in servers and related systems.",
+      "link": "https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-31T16:00:02+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Microsoft, nuova polemica sull'AI: Copilot inserisce pubblicità nei progetti GitHub?",
-      "descrizione": "Microsoft ha chiarito che si trattava di \"suggerimenti\", non messaggi promozionali, anche se stile e linguaggio lasciavano intendere altrimenti. Ha comunque disattivato la feature.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n653579/microsoft-polemica-github-pubblicita-ai-copilot/",
-      "fonte": "HDblog.it",
-      "data": "2026-03-31T11:15:00+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Opera Neon: ChatGPT e Claude controllano il browser",
