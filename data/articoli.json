@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-30T19:29:31.080519+00:00",
+  "last_updated": "2026-03-31T03:30:46.967877+00:00",
   "items": [
+    {
+      "titolo": "Don't ignore your desktop PC's empty M.2 slots - they're more useful than you think",
+      "descrizione": "M.2 slots aren't just for storage; you can get more use out of your desktop with some initial investment.",
+      "link": "https://www.zdnet.com/article/desktop-pc-m2-slots-how-to-use-them-fully/",
+      "fonte": "Latest news",
+      "data": "2026-03-31T01:00:59+00:00"
+    },
+    {
+      "titolo": "AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test — Kenya, Congo, Nigeria platforms leaked",
+      "descrizione": "Several Venice Zen 6 engineering samples were discovered on OpenBenchmark.org, featuring core counts of up to 192 cores.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-03-30T20:58:04+00:00"
+    },
     {
       "titolo": "Recensione Lenovo ThinkBook Plus Rollable, il display che si allunga ha senso?",
       "descrizione": "Abbiamo provato per qualche giorno il Lenovo ThinkBook Plus Rollable, il primo notebook con display che si allunga! Ecco come è andata",
@@ -114,13 +128,6 @@
       "data": "2026-03-30T15:30:37+00:00"
     },
     {
-      "titolo": "Best Costco deals to compete with Amazon's Big Spring Sale 2026: Last chance to save",
-      "descrizione": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
-      "link": "https://www.zdnet.com/article/best-costco-deals-last-minute-amazon-big-spring-sale-2026/",
-      "fonte": "Latest news",
-      "data": "2026-03-30T15:30:17+00:00"
-    },
-    {
       "titolo": "KitchenAid reinventa la storica planetaria, ora con luce LED e 11 velocità",
       "descrizione": "Il robot non cambiava dal 1955.",
       "link": "https://www.hdblog.it/home/articoli/n653474/kitchenaid-artisan-plus-impastatrice-planetaria/",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/bollette-senza-sorprese-perche-attivare-engie-energia-puntofisso-prima-del-31-marzo/",
       "fonte": "Punto Informatico",
       "data": "2026-03-30T13:43:32+00:00"
-    },
-    {
-      "titolo": "Dalla pulizia all’intrattenimento: la casa con l’AI di Haier diventa ecosistema",
-      "descrizione": "PARIGI – Nella doppia e suggestiva cornice del Parco dei Principi (lo stadio del Paris Saint-German campione d’Europa di calcio in carica) e del Roland Garros (il tempio del tennis...",
-      "link": "https://www.ilsole24ore.com/art/dalla-pulizia-all-intrattenimento-casa-l-ai-haier-diventa-ecosistema-AIr5jQBC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-03-30T13:15:00+00:00"
     }
   ]
 }
