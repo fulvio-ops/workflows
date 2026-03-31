@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-31T07:45:02.324058+00:00",
+  "last_updated": "2026-03-31T14:03:07.062085+00:00",
   "items": [
     {
-      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
-      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
-      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-31T07:43:04+00:00",
+      "titolo": "WhatsApp mostrerà i contatti online in una nuova scheda",
+      "descrizione": "La funzione consente di visualizzare rapidamente chi sta utilizzando il servizio.",
+      "link": "https://www.hdblog.it/android/articoli/n653585/whatsapp-mostra-contatti-online/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-31T11:50:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
-      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
-      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-03-31T07:43:04+00:00",
+      "titolo": "Microsoft, nuova polemica sull'AI: Copilot inserisce pubblicità nei progetti GitHub?",
+      "descrizione": "Microsoft ha chiarito che si trattava di \"suggerimenti\", non messaggi promozionali, anche se stile e linguaggio lasciavano intendere altrimenti. Ha comunque disattivato la feature.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n653579/microsoft-polemica-github-pubblicita-ai-copilot/",
+      "fonte": "HDblog.it",
+      "data": "2026-03-31T11:15:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Copilot combina ChatGPT e Claude per la ricerca complessa",
-      "descrizione": "Lo strumento di ricerca di Copilot usa Claude per migliorare le risposte di ChatGPT, e poi le mostra affiancate con Model Council. The post Copilot combina ChatGPT e Claude per la ricerca complessa appeared first on Punt",
-      "link": "https://www.punto-informatico.it/copilot-combina-chatgpt-claude-ricerca-complessa/",
+      "titolo": "Opera Neon: ChatGPT e Claude controllano il browser",
+      "descrizione": "Opera Neon permette a ChatGPT, Claude e altri agenti AI di controllare il browser in tempo reale: navigare, compilare moduli, estrarre dati, ecc. The post Opera Neon: ChatGPT e Claude controllano il browser appeared firs",
+      "link": "https://www.punto-informatico.it/opera-neon-chatgpt-claude-controllano-browser/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-31T07:43:04+00:00",
+      "data": "2026-03-31T10:41:32+00:00",
       "modello": "claude"
     }
   ]
