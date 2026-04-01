@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-04-01T14:06:16.136475+00:00",
+  "last_updated": "2026-04-01T19:32:23.903843+00:00",
   "items": [
     {
-      "titolo": "Wallet pubblico come evoluzione dell’app IO: cosa significa?",
-      "descrizione": "Un wallet pubblico come evoluzione dell'app IO, con fase di sperimentazione prevista entro l'anno: cerchiamo di capire cosa vuol dire. The post Wallet pubblico come evoluzione dell’app IO: cosa significa? appeared first",
-      "link": "https://www.punto-informatico.it/wallet-pubblico-evoluzione-app-io/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-01T12:27:44+00:00",
+      "titolo": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+      "descrizione": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+      "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+      "fonte": "WIRED",
+      "data": "2026-04-01T18:13:34+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tested ChatGPT vs. Claude to see which is better - and if it's worth switching",
-      "descrizione": "Considering ditching ChatGPT for Claude? I tested both on the same 10 tasks. Here's which came out on top.",
-      "link": "https://www.zdnet.com/article/chatgpt-vs-claude/",
-      "fonte": "Latest news",
-      "data": "2026-04-01T12:07:24+00:00",
-      "modello": "claude"
+      "titolo": "Gemini Live ha appena reso le rassegne stampa molto meno noiose",
+      "descrizione": "Con l'ultimo aggiornamento",
+      "link": "https://www.hdblog.it/smartphone/articoli/n653746/gemini-live-ha-appena-reso-le-rassegne-stampa-molto-meno-noiose/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-01T16:45:00+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "Ollama guadagna il supporto MLX su macOS e l'AI in locale migliora",
-      "descrizione": "L'aggiornamento di Ollama porta benefici importanti sui Mac con Apple Silicon",
-      "link": "https://www.hdblog.it/apple/articoli/n653751/ollama-supporto-macos-mlx-migliora-ai-locale/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-01T13:50:00+00:00",
-      "modello": "altri"
+      "titolo": "Claude è in realtà una persona vera, lo scherzo di Anthropic",
+      "descrizione": "Pesce d'aprile di Anthropic. Claude è un tipo che vive a San Francisco e risponde dal divano. Dietro lo scherzo, c'è una domanda seria. The post Claude è in realtà una persona vera, lo scherzo di Anthropic appeared first",
+      "link": "https://www.punto-informatico.it/claude-e-in-realta-persona-vera-scherzo-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-01T14:23:52+00:00",
+      "modello": "claude"
     }
   ]
 }
