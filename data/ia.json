@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-04-01T03:46:10.199116+00:00",
+  "last_updated": "2026-04-01T07:55:17.259862+00:00",
   "items": [
     {
-      "titolo": "Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus — AI chip to be designed and manufactured domestically",
-      "descrizione": "Fujitsu plans to develop an NPU fabricated on an advanced 1.4nm process by Rapidus, designed for AI inference in servers and related systems.",
-      "link": "https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-03-31T16:00:02+00:00",
+      "titolo": "Google Home migliora: ora Gemini capisce meglio la nostra voce",
+      "descrizione": "Google aggiorna Home con Gemini più rapido, preciso e naturale.",
+      "link": "https://www.hdblog.it/google/articoli/n653675/google-home-gemini-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-01T07:35:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Opera Neon: ChatGPT e Claude controllano il browser",
-      "descrizione": "Opera Neon permette a ChatGPT, Claude e altri agenti AI di controllare il browser in tempo reale: navigare, compilare moduli, estrarre dati, ecc. The post Opera Neon: ChatGPT e Claude controllano il browser appeared firs",
-      "link": "https://www.punto-informatico.it/opera-neon-chatgpt-claude-controllano-browser/",
+      "titolo": "Google Home migliora: ora Gemini capisce meglio la nostra voce",
+      "descrizione": "Google aggiorna Home con Gemini più rapido, preciso e naturale.",
+      "link": "https://www.hdblog.it/google/articoli/n653675/google-home-gemini-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-01T07:35:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Il codice sorgente di Claude Code è trapelato, le funzioni segrete",
+      "descrizione": "Il codice sorgente di Claude Code finisce online. Scoperti un agente in background, un Tamagotchi che reagisce al coding e i commenti interni. The post Il codice sorgente di Claude Code è trapelato, le funzioni segrete a",
+      "link": "https://www.punto-informatico.it/codice-sorgente-claude-code-trapelato-funzioni-segrete/",
       "fonte": "Punto Informatico",
-      "data": "2026-03-31T10:41:32+00:00",
+      "data": "2026-04-01T04:33:19+00:00",
       "modello": "claude"
     }
   ]
