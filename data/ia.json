@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-04-01T07:55:17.259862+00:00",
+  "last_updated": "2026-04-01T14:06:16.136475+00:00",
   "items": [
     {
-      "titolo": "Google Home migliora: ora Gemini capisce meglio la nostra voce",
-      "descrizione": "Google aggiorna Home con Gemini più rapido, preciso e naturale.",
-      "link": "https://www.hdblog.it/google/articoli/n653675/google-home-gemini-aggiornamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-01T07:35:00+00:00",
+      "titolo": "Wallet pubblico come evoluzione dell’app IO: cosa significa?",
+      "descrizione": "Un wallet pubblico come evoluzione dell'app IO, con fase di sperimentazione prevista entro l'anno: cerchiamo di capire cosa vuol dire. The post Wallet pubblico come evoluzione dell’app IO: cosa significa? appeared first",
+      "link": "https://www.punto-informatico.it/wallet-pubblico-evoluzione-app-io/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-01T12:27:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Home migliora: ora Gemini capisce meglio la nostra voce",
-      "descrizione": "Google aggiorna Home con Gemini più rapido, preciso e naturale.",
-      "link": "https://www.hdblog.it/google/articoli/n653675/google-home-gemini-aggiornamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-01T07:35:00+00:00",
-      "modello": "gemini"
+      "titolo": "I tested ChatGPT vs. Claude to see which is better - and if it's worth switching",
+      "descrizione": "Considering ditching ChatGPT for Claude? I tested both on the same 10 tasks. Here's which came out on top.",
+      "link": "https://www.zdnet.com/article/chatgpt-vs-claude/",
+      "fonte": "Latest news",
+      "data": "2026-04-01T12:07:24+00:00",
+      "modello": "claude"
     },
     {
-      "titolo": "Il codice sorgente di Claude Code è trapelato, le funzioni segrete",
-      "descrizione": "Il codice sorgente di Claude Code finisce online. Scoperti un agente in background, un Tamagotchi che reagisce al coding e i commenti interni. The post Il codice sorgente di Claude Code è trapelato, le funzioni segrete a",
-      "link": "https://www.punto-informatico.it/codice-sorgente-claude-code-trapelato-funzioni-segrete/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-01T04:33:19+00:00",
-      "modello": "claude"
+      "titolo": "Ollama guadagna il supporto MLX su macOS e l'AI in locale migliora",
+      "descrizione": "L'aggiornamento di Ollama porta benefici importanti sui Mac con Apple Silicon",
+      "link": "https://www.hdblog.it/apple/articoli/n653751/ollama-supporto-macos-mlx-migliora-ai-locale/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-01T13:50:00+00:00",
+      "modello": "altri"
     }
   ]
 }
