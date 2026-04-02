@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-04-02T07:42:08.432703+00:00",
+  "last_updated": "2026-04-02T13:58:03.091597+00:00",
   "items": [
     {
-      "titolo": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
-      "descrizione": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-      "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
-      "fonte": "WIRED",
-      "data": "2026-04-01T18:13:34+00:00",
+      "titolo": "Power Bank da 65W con capacità di 20000mAh per ricarica rapidissima (36€)",
+      "descrizione": "Questo Power Bank da 65 W con capacità di 20000 mAh, ricarica rapidissima e compatibilità con tanti device, ora è in offerta a soli 36€. The post Power Bank da 65W con capacità di 20000mAh per ricarica rapidissima (36€)",
+      "link": "https://www.punto-informatico.it/power-bank-da-65w-capacita-20000mah-ricarica-rapidissima-36e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-02T09:09:37+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic mette a nudo Claude: il codice finisce online per un errore umano",
-      "descrizione": "Il codice sorgente di Claude Code, il modello per programmatori, è rimasto esposto per ore: mezzo milione di righe di codice che svelano l’architettura del software",
-      "link": "https://www.ilsole24ore.com/art/anthropic-mette-nudo-claude-codice-finisce-online-un-errore-umano-AI4PQzHC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-01T11:21:00+00:00",
+      "titolo": "Paghi uguale, ma hai di più: Google AI Pro sale a 5 TB",
+      "descrizione": "Google aggiorna l'abbonamento AI Pro aumentando lo spazio cloud da 3 a 5 TB, senza modificare il prezzo mensile: una buona notizia. The post Paghi uguale, ma hai di più: Google AI Pro sale a 5 TB appeared first on Punto",
+      "link": "https://www.punto-informatico.it/google-ai-pro-5-tb/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-02T12:05:47+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude Code: il codice finito online, GitHub già pieno di copie modificate e malware",
+      "descrizione": "La diffusione del codice ha creato un contesto complesso da gestire sul piano della sicurezza",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n653919/claude-code-codice-finito-online-copie/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-02T13:20:00+00:00",
       "modello": "claude"
     }
   ]
