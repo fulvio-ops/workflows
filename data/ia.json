@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T03:27:32.889132+00:00",
+  "last_updated": "2026-04-02T07:42:08.432703+00:00",
   "items": [
     {
       "titolo": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Live ha appena reso le rassegne stampa molto meno noiose",
-      "descrizione": "Con l'ultimo aggiornamento",
-      "link": "https://www.hdblog.it/smartphone/articoli/n653746/gemini-live-ha-appena-reso-le-rassegne-stampa-molto-meno-noiose/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-01T16:45:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude è in realtà una persona vera, lo scherzo di Anthropic",
-      "descrizione": "Pesce d'aprile di Anthropic. Claude è un tipo che vive a San Francisco e risponde dal divano. Dietro lo scherzo, c'è una domanda seria. The post Claude è in realtà una persona vera, lo scherzo di Anthropic appeared first",
-      "link": "https://www.punto-informatico.it/claude-e-in-realta-persona-vera-scherzo-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-01T14:23:52+00:00",
+      "titolo": "Anthropic mette a nudo Claude: il codice finisce online per un errore umano",
+      "descrizione": "Il codice sorgente di Claude Code, il modello per programmatori, è rimasto esposto per ore: mezzo milione di righe di codice che svelano l’architettura del software",
+      "link": "https://www.ilsole24ore.com/art/anthropic-mette-nudo-claude-codice-finisce-online-un-errore-umano-AI4PQzHC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-01T11:21:00+00:00",
       "modello": "claude"
     }
   ]
