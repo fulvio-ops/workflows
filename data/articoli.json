@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-04-01T19:32:20.092918+00:00",
+  "last_updated": "2026-04-02T03:27:28.905450+00:00",
   "items": [
+    {
+      "titolo": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
+      "descrizione": "After investors appealed to the governor, California again delayed the deadline for venture firms to disclose the demographics of startup founders they back.",
+      "link": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+      "fonte": "WIRED",
+      "data": "2026-04-01T23:56:36+00:00"
+    },
     {
       "titolo": "We still highly recommend these 3 older laptop models - especially while they're on sale",
       "descrizione": "Amazon's Spring Sale has concluded. Grab last-minute deals on these high-performing older laptops before it's too late.",
       "link": "https://www.zdnet.com/article/best-older-laptop-deals-last-minute-amazon-spring-sale/",
       "fonte": "Latest news",
       "data": "2026-04-01T19:01:02+00:00"
+    },
+    {
+      "titolo": "Apple compie 50 anni: mezzo secolo di \"Think Different\" che ha cambiato il mondo",
+      "descrizione": "Oggi, 1 aprile, Apple compie 50 anni. Mezzo secolo dopo quel garage in California dove tutto ha preso forma, l’azienda arriva al traguardo con un paradosso addosso: da una parte una storia che...",
+      "link": "https://www.hdblog.it/apple/articoli/n653694/apple-compie-50-anni-think-different/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-01T19:00:00+00:00"
     },
     {
       "titolo": "Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings",
@@ -128,13 +142,6 @@
       "data": "2026-04-01T15:14:34+00:00"
     },
     {
-      "titolo": "Il Privacy Display di Samsung nasce da un problema: sbirciare è un fenomeno diffuso",
-      "descrizione": "I risultati di un'indagine.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n653769/samsung-privacy-display-galaxy-s26-ultra-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-01T15:10:00+00:00"
-    },
-    {
       "titolo": "The New Era of Militia Influencers",
       "descrizione": "The militia movement in the US is undergoing a rebrand that trades counterprotests for expensive weapons, manly sweatshirts, and highly curated Instagram grids.",
       "link": "https://www.wired.com/story/the-new-era-of-militia-influencers/",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/claude-e-in-realta-persona-vera-scherzo-anthropic/",
       "fonte": "Punto Informatico",
       "data": "2026-04-01T14:23:52+00:00"
-    },
-    {
-      "titolo": "Octopus: ecco le tariffe luce e gas a prezzo fisso in scadenza il 1° aprile",
-      "descrizione": "Consentono di bloccare il costo della materia prima luce e gas per dodici mesi consecutivi, indipendentemente da ciò che accada. The post Octopus: ecco le tariffe luce e gas a prezzo fisso in scadenza il 1° aprile appear",
-      "link": "https://www.punto-informatico.it/octopus-ecco-le-tariffe-luce-e-gas-a-prezzo-fisso-in-scadenza-il-1-aprile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-01T13:51:44+00:00"
     }
   ]
 }
