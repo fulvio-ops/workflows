@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-02T13:58:03.091597+00:00",
+  "last_updated": "2026-04-02T19:16:59.528056+00:00",
   "items": [
     {
-      "titolo": "Power Bank da 65W con capacità di 20000mAh per ricarica rapidissima (36€)",
-      "descrizione": "Questo Power Bank da 65 W con capacità di 20000 mAh, ricarica rapidissima e compatibilità con tanti device, ora è in offerta a soli 36€. The post Power Bank da 65W con capacità di 20000mAh per ricarica rapidissima (36€)",
-      "link": "https://www.punto-informatico.it/power-bank-da-65w-capacita-20000mah-ricarica-rapidissima-36e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-02T09:09:37+00:00",
+      "titolo": "How to switch from ChatGPT to Gemini - without starting from scratch",
+      "descrizione": "Gemini will now let you transfer your memories, chat history, and preferences from another AI so you don't have to start over. Here's how it works.",
+      "link": "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/",
+      "fonte": "Latest news",
+      "data": "2026-04-02T19:08:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Paghi uguale, ma hai di più: Google AI Pro sale a 5 TB",
-      "descrizione": "Google aggiorna l'abbonamento AI Pro aumentando lo spazio cloud da 3 a 5 TB, senza modificare il prezzo mensile: una buona notizia. The post Paghi uguale, ma hai di più: Google AI Pro sale a 5 TB appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-ai-pro-5-tb/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-02T12:05:47+00:00",
+      "titolo": "How to switch from ChatGPT to Gemini - without starting from scratch",
+      "descrizione": "Gemini will now let you transfer your memories, chat history, and preferences from another AI so you don't have to start over. Here's how it works.",
+      "link": "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/",
+      "fonte": "Latest news",
+      "data": "2026-04-02T19:08:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code: il codice finito online, GitHub già pieno di copie modificate e malware",
-      "descrizione": "La diffusione del codice ha creato un contesto complesso da gestire sul piano della sicurezza",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n653919/claude-code-codice-finito-online-copie/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-02T13:20:00+00:00",
+      "titolo": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+      "descrizione": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
+      "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+      "fonte": "WIRED",
+      "data": "2026-04-02T17:00:00+00:00",
       "modello": "claude"
     }
   ]
