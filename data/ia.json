@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-03T13:39:07.274803+00:00",
+  "last_updated": "2026-04-03T19:07:02.940955+00:00",
   "items": [
     {
-      "titolo": "I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer",
-      "descrizione": "Thanks to iOS 26.4 and CarPlay, I can now carry on a voice conversation with ChatGPT while in the car. Here's how I'm using it.",
-      "link": "https://www.zdnet.com/article/chatgpt-iphone-ios-apple-carplay/",
-      "fonte": "Latest news",
-      "data": "2026-04-03T13:33:31+00:00",
+      "titolo": "Microsoft ha appena lanciato 3 nuovi modelli AI: sfida aperta a Google e OpenAI",
+      "descrizione": "Si tratta di MAI-Transcribe-1, MAI-Voice-1 e MAI-Image-1",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654041/microsoft-nuovi-modelli-ai-sfida-google-openai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T15:55:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
-      "descrizione": "Microsoft Copilot's terms of service explicitly say that it's \"for entertainment purposes only,\" but its marketing says otherwise.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T12:23:33+00:00",
+      "titolo": "Microsoft ammette: Copilot non è affidabile per i consigli importanti",
+      "descrizione": "Microsoft chiarisce i limiti di Copilot: nei termini si legge che non va usato per consigli importanti, ma solo per l'intrattenimento. The post Microsoft ammette: Copilot non è affidabile per i consigli importanti appear",
+      "link": "https://www.punto-informatico.it/microsoft-ammette-copilot-non-e-affidabile-per-i-consigli-importanti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-03T14:12:19+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google annuncia Gemini Nano 4, il nuovo modello per l'AI on-device mobile",
-      "descrizione": "In arrivo entro fine anno sugli smartphone Android top di gamma.",
-      "link": "https://www.hdblog.it/google/articoli/n654035/google-gemini-nano-4-ai-locale-android-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T12:25:00+00:00",
+      "titolo": "How to switch from ChatGPT to Gemini - without starting from scratch",
+      "descrizione": "Gemini will now let you transfer your memories, chat history, and preferences from another AI so you don't have to start over. Here's how it works.",
+      "link": "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/",
+      "fonte": "Latest news",
+      "data": "2026-04-02T19:08:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code: falsi repository GitHub distribuiscono malware",
-      "descrizione": "Un cybercriminale ha creato due repository su GitHub che dovrebbero contenere il codice sorgente di Claude Code, invece nascondono l'infostealer Vidar. The post Claude Code: falsi repository GitHub distribuiscono malware",
-      "link": "https://www.punto-informatico.it/claude-code-falsi-repository-github-distribuiscono-malware/",
+      "titolo": "Claude Code: Anthropic cerca (invano) di bloccare il leak",
+      "descrizione": "Anthropic ha cercato di bloccare la diffusione del codice sorgente di Claude Code con richieste di rimozione a GitHub, ma ormai è troppo tardi. The post Claude Code: Anthropic cerca (invano) di bloccare il leak appeared",
+      "link": "https://www.punto-informatico.it/claude-code-anthropic-cerca-invano-bloccare-il-leak/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-03T09:08:24+00:00",
+      "data": "2026-04-03T14:14:41+00:00",
       "modello": "claude"
     }
   ]

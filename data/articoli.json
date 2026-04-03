@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-04-03T13:39:04.145366+00:00",
+  "last_updated": "2026-04-03T19:06:58.622654+00:00",
   "items": [
+    {
+      "titolo": "Honor Watch X5i ufficiale: sembra un Apple Watch ma costa 15 volte meno",
+      "descrizione": "In Cina si trova a meno di 30 euro.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n654072/honor-x5i-smartwatch-novita-prezzi-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T17:05:00+00:00"
+    },
+    {
+      "titolo": "La Cina lancia il motore definitivo: oltre i 7.000 km/h senza sosta",
+      "descrizione": "La Cina testa un motore a compressione controrotante capace di superare Mach 6 con un sistema unico.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n653961/motore-ipersonico-cina-mach-6/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T16:55:00+00:00"
+    },
+    {
+      "titolo": "Firm quietly boosts H.264 streaming license fees from $100,000 up to staggering $4.5 million — backbone codec of the internet gets meteoric increase, AVC hikes follow disastrous H.265 licensing increases",
+      "descrizione": "Via LA, the patent pool administrator for H.264/AVC, restructured its streaming license fees earlier this year, replacing a flat $100,000 annual cap with a tiered system.",
+      "link": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T16:53:04+00:00"
+    },
+    {
+      "titolo": "BMW, lo storico stabilimento di Monaco sarà al 100% dedicato alle BEV",
+      "descrizione": "Dall’avvio della nuova BMW i3 ad agosto 2026 alla svolta 100% elettrica del 2027: lo storico impianto di Monaco cambia pelle",
+      "link": "https://www.hdmotori.it/bmw-fabbrica-monaco-conversione-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T16:30:12+00:00"
+    },
+    {
+      "titolo": "Xiaomi al lavoro su un inedito smartphone Redmi con display enorme",
+      "descrizione": "Il dispositivo prenderà probabilmente il nome di Redmi Note 17 Pro Max.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654067/xiaomi-smartphone-redmi-display-enorme/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T16:15:00+00:00"
+    },
+    {
+      "titolo": "I've worn the Oura Ring and Apple Watch for years: Here's which of two is more essential",
+      "descrizione": "Deciding between Oura's smart ring and an Apple Watch? I wear both of them daily, and here's which one gets priority.",
+      "link": "https://www.zdnet.com/article/oura-ring-vs-apple-watch/",
+      "fonte": "Latest news",
+      "data": "2026-04-03T16:08:00+00:00"
+    },
+    {
+      "titolo": "Microsoft ha appena lanciato 3 nuovi modelli AI: sfida aperta a Google e OpenAI",
+      "descrizione": "Si tratta di MAI-Transcribe-1, MAI-Voice-1 e MAI-Image-1",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654041/microsoft-nuovi-modelli-ai-sfida-google-openai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T15:55:00+00:00"
+    },
+    {
+      "titolo": "Esplosione di Starlink: ecco le immagini prima dell’anomalia",
+      "descrizione": "Un satellite osserva Starlink prima della frammentazione del 29 marzo 2026.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n653792/starlink-frammentazione-orbita-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T15:45:00+00:00"
+    },
+    {
+      "titolo": "2 prompt AI che rendono comprensibile qualsiasi argomento",
+      "descrizione": "Due prompt, due prospettive: la spiegazione per un bambino e quella per un professionista per capire qualsiasi argomento complesso. The post 2 prompt AI che rendono comprensibile qualsiasi argomento appeared first on Pun",
+      "link": "https://www.punto-informatico.it/2-prompt-ai-rendono-comprensibile-qualsiasi-argomento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-03T15:30:21+00:00"
+    },
+    {
+      "titolo": "Crescita folle per SharkNinja: è tra le aziende top del 2026 per il FT",
+      "descrizione": "SharkNinja entra nella classifica del Financial Times 2026 grazie a una crescita record costante.",
+      "link": "https://www.hdblog.it/home/articoli/n654058/sharkninja-financial-times-crescita-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T15:25:00+00:00"
+    },
+    {
+      "titolo": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers",
+      "descrizione": "As cloud giants plan to spend $650 billion on AI infrastructure this year, the availability of power infrastructure components has become a significant obstacle to deploying AI data centers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T15:09:28+00:00"
+    },
+    {
+      "titolo": "Researchers build Wi-Fi chip that can operate inside a nuclear reactor — receiver uses special materials and design to withstand high doses of radiation for at least six months",
+      "descrizione": "This hardened Wi-Fi receiver is designed to work for at least six months in some of the most radioactive spaces on earth.",
+      "link": "https://www.tomshardware.com/networking/routers/researchers-build-wi-fi-chip-that-can-operate-inside-a-nuclear-reactor-receiver-uses-special-materials-and-design-to-withstand-high-doses-of-radiation-for-at-least-six-months",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T15:07:36+00:00"
+    },
+    {
+      "titolo": "Cupra è main partner del Fuorisalone 2026",
+      "descrizione": "Dalla nuovissima Raval alla sperimentazione digitale: il marchio spagnolo trasformerà Piazza XXV Aprile in un laboratorio di innovazione e creatività.",
+      "link": "https://www.hdmotori.it/cupra-main-partner-fuorisalone-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T15:00:27+00:00"
+    },
+    {
+      "titolo": "Wi-Fi privato ovunque con questo router tascabile da portare in viaggio",
+      "descrizione": "Il Cudy TR1200 è un router Wi-Fi da viaggio con doppia banda AC1200, VPN integrata e supporto NAS. Pesa meno di 100 grammi e si alimenta via USB-C dal laptop. Oggi questo device così compatto è in...",
+      "link": "https://www.hdblog.it/hardware/offerte/n654054/router-tascabile-da-viaggio-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T14:54:00+00:00"
+    },
+    {
+      "titolo": "How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally",
+      "descrizione": "At last, I can use one app to find my favorite podcasts, channels, publications, and more.",
+      "link": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
+      "fonte": "Latest news",
+      "data": "2026-04-03T14:24:01+00:00"
+    },
+    {
+      "titolo": "Microsoft ammette: Copilot non è affidabile per i consigli importanti",
+      "descrizione": "Microsoft chiarisce i limiti di Copilot: nei termini si legge che non va usato per consigli importanti, ma solo per l'intrattenimento. The post Microsoft ammette: Copilot non è affidabile per i consigli importanti appear",
+      "link": "https://www.punto-informatico.it/microsoft-ammette-copilot-non-e-affidabile-per-i-consigli-importanti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-03T14:12:19+00:00"
+    },
+    {
+      "titolo": "Anycubic Photon P1 Review: Dual Color/Dual Material, Tech Loaded",
+      "descrizione": "Anycubic’s latest resin printer, the Photon P1, is packed with new tech for all your resin printing needs, like a heated vat and Wave Release technology.",
+      "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T14:05:40+00:00"
+    },
+    {
+      "titolo": "Verge TS Pro: arriva la prima moto con batteria allo stato solido",
+      "descrizione": "Verge TS Pro rivoluziona le due ruote: la prima moto con batteria allo stato solido offre 600 km di autonomia, 999 Nm di coppia e una ricarica record in soli 5 minuti.",
+      "link": "https://www.hdmotori.it/verge-ts-pro-moto-batteria-stato-solido/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-03T14:00:07+00:00"
+    },
+    {
+      "titolo": "Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm",
+      "descrizione": "SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026.",
+      "link": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T13:58:27+00:00"
+    },
     {
       "titolo": "Chatbot prescrivono psicofarmaci, cosa potrebbe andare storto?",
       "descrizione": "Via libera all'AI che prescrive psicofarmaci: per il rinnovo delle ricette non c'è più bisogno dell'appuntamento con lo specialista. The post Chatbot prescrivono psicofarmaci, cosa potrebbe andare storto? appeared first",
@@ -23,13 +156,6 @@
       "data": "2026-04-03T13:09:04+00:00"
     },
     {
-      "titolo": "Subaru Getaway: debutta il SUV elettrico 4x4 con 7 posti e 420 CV",
-      "descrizione": "Debutto a New York per il quarto SUV elettrico Subaru, il primo prodotto negli Stati Uniti. Ha tra file di sedili ed è il più grande SUV mai presentato alla Casa delle Pleiadi.",
-      "link": "https://www.hdmotori.it/subaru-getaway-suv-elettrico-4x4-7-posti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T13:00:43+00:00"
-    },
-    {
       "titolo": "Windows 11 25H2: aggiornamento forzato dalla versione 24H2",
       "descrizione": "Il supporto a Windows 11 24H2 terminare quest'anno: Microsoft ha avviato l'upgrade automatico alla versione 25H2 sui PC degli utenti. The post Windows 11 25H2: aggiornamento forzato dalla versione 24H2 appeared first on",
       "link": "https://www.punto-informatico.it/windows-11-25h2-aggiornamento-forzato/",
@@ -37,137 +163,11 @@
       "data": "2026-04-03T12:53:15+00:00"
     },
     {
-      "titolo": "Fotovoltaico, TNO apre la strada alle tegole che producono energia",
-      "descrizione": "Il progetto TNO punta a migliorare integrazione e sostenibilità del fotovoltaico, riducendo l’impatto su territorio e infrastrutture",
-      "link": "https://www.hdblog.it/green/articoli/n654036/tegole-solari-a-perovskite/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T12:45:00+00:00"
-    },
-    {
-      "titolo": "Dacia Sandrider Experience: la Dakar incontra il gaming",
-      "descrizione": "Un tour italiano tra adrenalina, tecnologia e nuovi linguaggi per conquistare una generazione di gamer",
-      "link": "https://www.hdmotori.it/dacia-sandrider-experience-dakar-gaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T12:30:09+00:00"
-    },
-    {
-      "titolo": "Google annuncia Gemini Nano 4, il nuovo modello per l'AI on-device mobile",
-      "descrizione": "In arrivo entro fine anno sugli smartphone Android top di gamma.",
-      "link": "https://www.hdblog.it/google/articoli/n654035/google-gemini-nano-4-ai-locale-android-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T12:25:00+00:00"
-    },
-    {
       "titolo": "Google Meet su CarPlay: ora le riunioni ti seguono anche al volante",
       "descrizione": "Apple CarPlay integra Google Meet, ora puoi partecipare agli incontri anche mentre guidi: caratteristiche, compatibilità e rollout. The post Google Meet su CarPlay: ora le riunioni ti seguono anche al volante appeared fi",
       "link": "https://www.punto-informatico.it/google-meet-carplay/",
       "fonte": "Punto Informatico",
       "data": "2026-04-03T12:02:58+00:00"
-    },
-    {
-      "titolo": "Data center AI su navi: il progetto curioso di Hitachi e MOL",
-      "descrizione": "Hitachi e Mitsui OSK Lines progettano data center galleggianti su navi dismesse per supportare la crescita dell’intelligenza artificiale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654031/ai-data-center-galleggianti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T11:55:00+00:00"
-    },
-    {
-      "titolo": "LG avvia le vendite dei televisori Mini LED QNED 2026",
-      "descrizione": "In arrivo già da questo mese anche in Europa.",
-      "link": "https://www.hdblog.it/tv/articoli/n654030/lg-inizio-vendite-qned-2026-novita-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T11:35:00+00:00"
-    },
-    {
-      "titolo": "Recensione Lefant M5 Pro: il primo robot con rullo “economico”",
-      "descrizione": "Recensione completa del robot Lefant M5 Pro: una analisi dettaglia del primo robot con rullo venduto ad un prezzo economico.",
-      "link": "https://www.hdblog.it/home/recensioni/n653329/recensione-lefant-m5-pro-il-primo-robot-con-rullo-economico/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T11:30:00+00:00"
-    },
-    {
-      "titolo": "Garmin Trails arriva in Italia: quanto costa il servizio per i sentieri su misura",
-      "descrizione": "La nuova funzione Garmin consente di trovare percorsi personalizzati con filtri per difficoltà, paesaggi, attività outdoor e... ingresso ai cani",
-      "link": "https://www.hdblog.it/indossabili/articoli/n654028/garmin-trails-italia-disponibile/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T11:25:00+00:00"
-    },
-    {
-      "titolo": "Ubuntu aumenta i requisiti minimi con la versione 26.04 LTS",
-      "descrizione": "A partire da Ubuntu 26.4 LTS viene consigliata l'installazione su computer con almeno 6 GB di RAM (due in più rispetto alla versione precedente). The post Ubuntu aumenta i requisiti minimi con la versione 26.04 LTS appea",
-      "link": "https://www.punto-informatico.it/ubuntu-aumenta-requisiti-minimi-versione-26-04-lts/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T11:23:09+00:00"
-    },
-    {
-      "titolo": "Reddit cambia la casa dei post popolari: addio r/all, benvenuto feed Home",
-      "descrizione": "I test si sono conclusi e Reddit cambia faccia",
-      "link": "https://www.hdblog.it/internet/articoli/n654024/reddit-rimozione-feed-r-all/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "Microsoft lancia modello di trascrizione AI più preciso al mondo",
-      "descrizione": "Microsoft lancia il terzo modello AI proprietario, è MAI-Transcribe-1 per la trascrizione in 25 lingue, incluso l'italiano. The post Microsoft lancia modello di trascrizione AI più preciso al mondo appeared first on Punt",
-      "link": "https://www.punto-informatico.it/microsoft-lancia-modello-trascrizione-ai-piu-preciso-mondo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T10:49:51+00:00"
-    },
-    {
-      "titolo": "Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China — suspected smuggler released on $5 million bond",
-      "descrizione": "Super Micro Computer co-founder Yih-Shyan \"Wally\" Liaw pleaded not guilty on Wednesday in a Manhattan federal court.",
-      "link": "https://www.tomshardware.com/tech-industry/super-micro-co-founder-wally-liaw-pleads-not-guilty-to-nvidia-smuggling-charges",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T10:47:01+00:00"
-    },
-    {
-      "titolo": "VPN per un viaggio all’estero a Pasqua: questa è quella da scegliere",
-      "descrizione": "NordVPN è la soluzione giusta per chi ha bisogno di una VPN da usare per un viaggio all'estero: ecco la promo da attivare per il servizio. The post VPN per un viaggio all’estero a Pasqua: questa è quella da scegliere app",
-      "link": "https://www.punto-informatico.it/vpn-per-un-viaggio-allestero-a-pasqua-questa-e-quella-da-scegliere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T10:44:57+00:00"
-    },
-    {
-      "titolo": "Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain — country has threatened to attack Nvidia, Intel, and others, too",
-      "descrizione": "Iran's Islamic Revolutionary Guard Corps (IRGC) said on Thursday that it had hit a data center linked to Oracle in Dubai as part of its war against the U.S. and U.S. technology companies in the region.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-claims-it-has-hit-oracle-data-center-in-dubai-amazon-data-center-in-bahrain-country-has-threatened-to-attack-nvidia-intel-and-others-too",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T10:26:23+00:00"
-    },
-    {
-      "titolo": "Flipboard Surf: nuova app per social media decentralizzati",
-      "descrizione": "Flipboard ha annunciato la versione finale di Surf, un servizio che permette di creare feed personalizzati con i contenuti pubblicati sul fediverso. The post Flipboard Surf: nuova app per social media decentralizzati app",
-      "link": "https://www.punto-informatico.it/flipboard-surf-nuova-app-social-media-decentralizzati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T10:23:06+00:00"
-    },
-    {
-      "titolo": "Prezzi di benzina e diesel alle stelle: prorogato il taglio delle accise",
-      "descrizione": "Il taglio delle accise esteso fino a maggio per contenere i prezzi dei carburanti: una misura emergenziale sui prezzi di benzina e diesel. The post Prezzi di benzina e diesel alle stelle: prorogato il taglio delle accise",
-      "link": "https://www.punto-informatico.it/prezzi-benzina-diesel-prorogato-taglio-accise/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T09:53:53+00:00"
-    },
-    {
-      "titolo": "ElevenLabs lancia app per generare musica AI: ElevenMusic",
-      "descrizione": "ElevenLabs rilascia ElevenMusic, un'app iOS per generare musica con l'AI da prompt testuali. Fino a 7 brani gratis al giorno. The post ElevenLabs lancia app per generare musica AI: ElevenMusic appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/eleven-labs-app-generare-musica-ai-elevenmusic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T09:30:43+00:00"
-    },
-    {
-      "titolo": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
-      "descrizione": "The Quizlet flashcards, which WIRED found through basic Google searches, seem to include sensitive information about gate security at Customs and Border Protection locations.",
-      "link": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-      "fonte": "WIRED",
-      "data": "2026-04-03T09:00:00+00:00"
-    },
-    {
-      "titolo": "Iran colpisce un data center Oracle: internet è sotto attacco (update)",
-      "descrizione": "L'IRGC afferma di aver messo a segno un attacco contro un data center di Oracle situato a Dubai: la minaccia dell'Iran era concreta. The post Iran colpisce un data center Oracle: internet è sotto attacco (update) appeare",
-      "link": "https://www.punto-informatico.it/iran-colpisce-data-center-oracle-internet-sotto-attacco/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T08:54:52+00:00"
     }
   ]
 }
