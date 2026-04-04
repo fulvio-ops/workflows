@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T07:18:40.960811+00:00",
+  "last_updated": "2026-04-04T13:29:43.459339+00:00",
   "items": [
     {
       "titolo": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
@@ -18,19 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "How to switch from ChatGPT to Gemini - without starting from scratch",
-      "descrizione": "Gemini will now let you transfer your memories, chat history, and preferences from another AI so you don't have to start over. Here's how it works.",
-      "link": "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/",
-      "fonte": "Latest news",
-      "data": "2026-04-02T19:08:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude Code: Anthropic cerca (invano) di bloccare il leak",
-      "descrizione": "Anthropic ha cercato di bloccare la diffusione del codice sorgente di Claude Code con richieste di rimozione a GitHub, ma ormai è troppo tardi. The post Claude Code: Anthropic cerca (invano) di bloccare il leak appeared",
-      "link": "https://www.punto-informatico.it/claude-code-anthropic-cerca-invano-bloccare-il-leak/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T14:14:41+00:00",
+      "titolo": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
+      "descrizione": "A modder has successfully booted a 12-core Bartlett Lake-S CPU into Windows using a modified BIOS on an Asus Z790 motherboard.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-04T11:20:00+00:00",
       "modello": "claude"
     }
   ]

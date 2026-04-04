@@ -1,12 +1,103 @@
 {
-  "last_updated": "2026-04-04T07:18:36.690490+00:00",
+  "last_updated": "2026-04-04T13:29:40.791049+00:00",
   "items": [
     {
+      "titolo": "Kia PV5 WAV: il taxi elettrico che cambia le regole a New York",
+      "descrizione": "Un concept innovativo firmato Kia e BraunAbility unisce sostenibilità e inclusività, aprendo una nuova era per i taxi e per i veicoli ad utilizzo condiviso",
+      "link": "https://www.hdmotori.it/kia-pv5-wav-il-taxi-elettrico-che-cambia-le-regole-a-new-york/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T12:00:00+00:00"
+    },
+    {
+      "titolo": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+      "descrizione": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
+      "link": "https://www.wired.com/gallery/best-ski-clothes/",
+      "fonte": "WIRED",
+      "data": "2026-04-04T12:00:00+00:00"
+    },
+    {
+      "titolo": "Enermax Revolution III S 1000W power supply review: Platinum efficiency, limited thermal capability",
+      "descrizione": "The Enermax Revolution III S 1000W features certified Platinum efficiency, good power quality, and an absurdly confident 13-year warranty, though its small cooling fan and peculiar cable layout create limitations that de",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/enermax-revolution-iii-s-1000w-power-supply-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-04T11:00:00+00:00"
+    },
+    {
+      "titolo": "Enthusiast installs Win 3.1X on bare metal Ryzen 9 9900X and RTX 5060 Ti system using floppy disk drive, OS from 1992 running on 2025 hardware — Asus motherboard’s ‘classic BIOS’ functionality was instrumental to the fea",
+      "descrizione": "A retro computing connoisseur has bare-metal installed and booted Microsoft Windows 3.1X on a Ryzen 9 9900X and RTX 5060 Ti PC system.",
+      "link": "https://www.tomshardware.com/software/windows/enthusiast-installs-win-3-1x-on-bare-metal-ryzen-9-9900x-and-rtx-5060-ti-system-asus-motherboards-classic-bios-functionality-was-instrumental-to-the-feat",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-04T10:20:00+00:00"
+    },
+    {
+      "titolo": "Kia Seltos si presenta, il SUV coreano punta sulla tecnologia ibrida: ecco com’è fatto",
+      "descrizione": "L’appuntamento dell’Auto Show di New York 2026 ha rappresentato la vetrina per Kia per svelare la nuova Seltos",
+      "link": "https://www.hdmotori.it/kia-seltos-suv-tecnologia-ibrida/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T10:00:50+00:00"
+    },
+    {
+      "titolo": "New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory — Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access",
+      "descrizione": "Two new Rowhammer attacks for GPUs have been discovered that can cause bit flips in VRAM to gain arbitrary read/write access over it. These attacks target page files and the page directory that are otherwise protected fr",
+      "link": "https://www.tomshardware.com/pc-components/gpus/new-geforge-and-gddrhammer-attacks-can-fully-infiltrate-your-system-through-nvidias-gpu-memory-rowhammer-attacks-in-gpus-force-bit-flips-in-protected-vram-regions-to-gain-read-write-access",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-04T10:00:00+00:00"
+    },
+    {
+      "titolo": "How to Get Reliable Wi-Fi in Your Backyard",
+      "descrizione": "There are several ways to extend your Wi-Fi network into your backyard and out onto the deck or patio. Here’s how.",
+      "link": "https://www.wired.com/story/how-to-get-wifi-in-your-backyard/",
+      "fonte": "WIRED",
+      "data": "2026-04-04T10:00:00+00:00"
+    },
+    {
+      "titolo": "Volete Mac Studio con 128 o 256 GB di RAM? Bisogna aspettare dai 4 ai 5 mesi",
+      "descrizione": "La crisi dei chip colpisce anche la disponibilità di Mac Studio con tagli di memoria elevata",
+      "link": "https://www.hdblog.it/apple/articoli/n654099/apple-mac-studio-ram-128-256-gb-ordini-5-mesi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T09:35:00+00:00"
+    },
+    {
+      "titolo": "Internxt: archiviazione cloud cifrata e lifetime fino a 5 TB per non perdere mai i tuoi file",
+      "descrizione": "Internxt protegge i tuoi file con crittografia zero-knowledge e piani lifetime fino a 5 TB. Un pagamento unico nessuna perdita di dati. Scopri i prezzi. The post Internxt: archiviazione cloud cifrata e lifetime fino a 5",
+      "link": "https://www.punto-informatico.it/internxt-archiviazione-cloud-cifrata-e-lifetime-fino-a-5-tb-per-non-perdere-mai-i-tuoi-file/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-04T09:18:26+00:00"
+    },
+    {
+      "titolo": "Addio gasolio in mare? Il segreto del nuovo super motore giapponese",
+      "descrizione": "Testato in Giappone il primo motore a idrogeno per grandi navi cargo: emissioni ridotte del 95%.",
+      "link": "https://www.hdblog.it/green/articoli/n653963/super-motore-giapponese-idrogeno-navi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T09:05:00+00:00"
+    },
+    {
+      "titolo": "Take-Two, tagli al team AI nonostante le recenti dichiarazioni",
+      "descrizione": "Fuori anche il leader del team Luke Dicken.",
+      "link": "https://www.hdblog.it/games/articoli/n654083/take-two-licenziamnti-team-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T08:35:00+00:00"
+    },
+    {
+      "titolo": "Hyundai Boulder Concept: il gigante d’acciaio che sfida l’America",
+      "descrizione": "Un concept spettacolare che anticipa il primo pickup Hyundai “vero”, progettato e costruito per conquistare il mercato USA",
+      "link": "https://www.hdmotori.it/hyundai-boulder-concept-il-gigante-dacciaio-che-sfida-lamerica/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T08:30:09+00:00"
+    },
+    {
+      "titolo": "Il bellissimo e potente speaker Bluetooth Marshall Willen II in offerta a 79€",
+      "descrizione": "Appena 79€ circa e puoi portarti a casa il potente speaker Bluetooth Marshall Willen II, con design accattivante e 17 ore di autonomia. The post Il bellissimo e potente speaker Bluetooth Marshall Willen II in offerta a 7",
+      "link": "https://www.punto-informatico.it/bellissimo-potente-speaker-bluetooth-marshall-willen-ii-offerta-79e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-04T07:40:49+00:00"
+    },
+    {
       "titolo": "Artemis II è a metà strada verso la Luna",
-      "descrizione": "“Le cose stanno andando davvero bene”, ha dichiarato Lori Glaze, amministratrice associata ad interim della Nasa per l’esplorazione spaziale. “Non potremmo essere più soddisfatti di come stanno procedendo le cose...",
+      "descrizione": "“Le cose stanno andando davvero bene”, ha dichiarato Lori Glaze, amministratrice associata ad interim della Nasa per l’esplorazione spaziale . “Non potremmo essere più soddisfatti di come stanno procedendo le cose...",
       "link": "https://www.ilsole24ore.com/art/artemis-ii-e-meta-strada-la-luna-AISw0JLC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-04T07:06:20+00:00"
+      "data": "2026-04-04T07:06:00+00:00"
     },
     {
       "titolo": "La Terra vista come mai prima: ecco le prime foto di Artemis II",
@@ -51,20 +142,6 @@
       "data": "2026-04-03T19:00:00+00:00"
     },
     {
-      "titolo": "Honor Watch X5i ufficiale: sembra un Apple Watch ma costa 15 volte meno",
-      "descrizione": "In Cina si trova a meno di 30 euro.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n654072/honor-x5i-smartwatch-novita-prezzi-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T17:05:00+00:00"
-    },
-    {
-      "titolo": "La Cina lancia il motore definitivo: oltre i 7.000 km/h senza sosta",
-      "descrizione": "La Cina testa un motore a compressione controrotante capace di superare Mach 6 con un sistema unico.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n653961/motore-ipersonico-cina-mach-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T16:55:00+00:00"
-    },
-    {
       "titolo": "Firm quietly boosts H.264 streaming license fees from $100,000 up to staggering $4.5 million — backbone codec of the internet gets meteoric increase, AVC hikes follow disastrous H.265 licensing increases",
       "descrizione": "Via LA, the patent pool administrator for H.264/AVC, restructured its streaming license fees earlier this year, replacing a flat $100,000 annual cap with a tiered system.",
       "link": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
@@ -79,20 +156,6 @@
       "data": "2026-04-03T16:30:50+00:00"
     },
     {
-      "titolo": "BMW, lo storico stabilimento di Monaco sarà al 100% dedicato alle BEV",
-      "descrizione": "Dall’avvio della nuova BMW i3 ad agosto 2026 alla svolta 100% elettrica del 2027: lo storico impianto di Monaco cambia pelle",
-      "link": "https://www.hdmotori.it/bmw-fabbrica-monaco-conversione-elettrico/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T16:30:12+00:00"
-    },
-    {
-      "titolo": "Xiaomi al lavoro su un inedito smartphone Redmi con display enorme",
-      "descrizione": "Il dispositivo prenderà probabilmente il nome di Redmi Note 17 Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654067/xiaomi-smartphone-redmi-display-enorme/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T16:15:00+00:00"
-    },
-    {
       "titolo": "I've worn the Oura Ring and Apple Watch for years: Here's which of two is more essential",
       "descrizione": "Deciding between Oura's smart ring and an Apple Watch? I wear both of them daily, and here's which one gets priority.",
       "link": "https://www.zdnet.com/article/oura-ring-vs-apple-watch/",
@@ -100,74 +163,11 @@
       "data": "2026-04-03T16:08:00+00:00"
     },
     {
-      "titolo": "Microsoft ha appena lanciato 3 nuovi modelli AI: sfida aperta a Google e OpenAI",
-      "descrizione": "Si tratta di MAI-Transcribe-1, MAI-Voice-1 e MAI-Image-1",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654041/microsoft-nuovi-modelli-ai-sfida-google-openai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T15:55:00+00:00"
-    },
-    {
-      "titolo": "Esplosione di Starlink: ecco le immagini prima dell’anomalia",
-      "descrizione": "Un satellite osserva Starlink prima della frammentazione del 29 marzo 2026.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n653792/starlink-frammentazione-orbita-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T15:45:00+00:00"
-    },
-    {
       "titolo": "2 prompt AI che rendono comprensibile qualsiasi argomento",
       "descrizione": "Due prompt, due prospettive: la spiegazione per un bambino e quella per un professionista per capire qualsiasi argomento complesso. The post 2 prompt AI che rendono comprensibile qualsiasi argomento appeared first on Pun",
       "link": "https://www.punto-informatico.it/2-prompt-ai-rendono-comprensibile-qualsiasi-argomento/",
       "fonte": "Punto Informatico",
       "data": "2026-04-03T15:30:21+00:00"
-    },
-    {
-      "titolo": "Crescita folle per SharkNinja: è tra le aziende top del 2026 per il FT",
-      "descrizione": "SharkNinja entra nella classifica del Financial Times 2026 grazie a una crescita record costante.",
-      "link": "https://www.hdblog.it/home/articoli/n654058/sharkninja-financial-times-crescita-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T15:25:00+00:00"
-    },
-    {
-      "titolo": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers",
-      "descrizione": "As cloud giants plan to spend $650 billion on AI infrastructure this year, the availability of power infrastructure components has become a significant obstacle to deploying AI data centers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T15:09:28+00:00"
-    },
-    {
-      "titolo": "Researchers build Wi-Fi chip that can operate inside a nuclear reactor — receiver uses special materials and design to withstand high doses of radiation for at least six months",
-      "descrizione": "This hardened Wi-Fi receiver is designed to work for at least six months in some of the most radioactive spaces on earth.",
-      "link": "https://www.tomshardware.com/networking/routers/researchers-build-wi-fi-chip-that-can-operate-inside-a-nuclear-reactor-receiver-uses-special-materials-and-design-to-withstand-high-doses-of-radiation-for-at-least-six-months",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T15:07:36+00:00"
-    },
-    {
-      "titolo": "Cupra è main partner del Fuorisalone 2026",
-      "descrizione": "Dalla nuovissima Raval alla sperimentazione digitale: il marchio spagnolo trasformerà Piazza XXV Aprile in un laboratorio di innovazione e creatività.",
-      "link": "https://www.hdmotori.it/cupra-main-partner-fuorisalone-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T15:00:27+00:00"
-    },
-    {
-      "titolo": "How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally",
-      "descrizione": "At last, I can use one app to find my favorite podcasts, channels, publications, and more.",
-      "link": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
-      "fonte": "Latest news",
-      "data": "2026-04-03T14:24:01+00:00"
-    },
-    {
-      "titolo": "Microsoft ammette: Copilot non è affidabile per i consigli importanti",
-      "descrizione": "Microsoft chiarisce i limiti di Copilot: nei termini si legge che non va usato per consigli importanti, ma solo per l'intrattenimento. The post Microsoft ammette: Copilot non è affidabile per i consigli importanti appear",
-      "link": "https://www.punto-informatico.it/microsoft-ammette-copilot-non-e-affidabile-per-i-consigli-importanti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T14:12:19+00:00"
-    },
-    {
-      "titolo": "Anycubic Photon P1 Review: Dual Color/Dual Material, Tech Loaded",
-      "descrizione": "Anycubic’s latest resin printer, the Photon P1, is packed with new tech for all your resin printing needs, like a heated vat and Wave Release technology.",
-      "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T14:05:40+00:00"
     }
   ]
 }
