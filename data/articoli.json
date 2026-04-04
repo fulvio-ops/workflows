@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-04T03:17:12.908221+00:00",
+  "last_updated": "2026-04-04T07:18:36.690490+00:00",
   "items": [
+    {
+      "titolo": "Artemis II è a metà strada verso la Luna",
+      "descrizione": "“Le cose stanno andando davvero bene”, ha dichiarato Lori Glaze, amministratrice associata ad interim della Nasa per l’esplorazione spaziale. “Non potremmo essere più soddisfatti di come stanno procedendo le cose...",
+      "link": "https://www.ilsole24ore.com/art/artemis-ii-e-meta-strada-la-luna-AISw0JLC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-04T07:06:20+00:00"
+    },
+    {
+      "titolo": "La Terra vista come mai prima: ecco le prime foto di Artemis II",
+      "descrizione": "Gli astronauti di Artemis II immortalano la Terra: aurore e luci zodiacali viste dall'oblò di Orion.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n654089/foto-terra-artemis-2-orion/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T07:05:00+00:00"
+    },
+    {
+      "titolo": "Apple rilascia le beta pubbliche iOS 26.5, macOS Tahoe 26.5 e gli altri sistemi operativi",
+      "descrizione": "Apple rilascia le prime beta pubbliche di iOS 26.5 con novità per Mappe, RCS e wearable in EU.",
+      "link": "https://www.hdblog.it/apple/articoli/n654091/ios-26-5-public-beta-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-04T06:35:00+00:00"
+    },
+    {
+      "titolo": "Kena Mobile cambia tutto: 300GB e Minuti Illimitati a soli 5,99€ al mese",
+      "descrizione": "Kena Mobile ha confezionato un'offerta speciale sia in portabilità che per i nuovi numeri: 300GB e Minuti Illimitati a soli 5,99€ al mese. The post Kena Mobile cambia tutto: 300GB e Minuti Illimitati a soli 5,99€ al mese",
+      "link": "https://www.punto-informatico.it/kena-mobile-cambia-tutto-300gb-minuti-illimitati-soli-5-99-euro-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-04T06:23:27+00:00"
+    },
+    {
+      "titolo": "Emergenza afa in città: l’ombra manca dove serve di più",
+      "descrizione": "L'avvicinarsi dell'estate risveglia temi \"caldi\" come l'emergenza afa in città che si potrebbe risolvere con più ombra per i pedoni. The post Emergenza afa in città: l’ombra manca dove serve di più appeared first on Punt",
+      "link": "https://www.punto-informatico.it/emergenza-afa-citta-ombra-manca-dove-serve/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-04T06:00:15+00:00"
+    },
+    {
+      "titolo": "Maytag Promo Codes and Deals: Appliances Under $300",
+      "descrizione": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "link": "https://www.wired.com/story/maytag-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-04T05:00:00+00:00"
+    },
     {
       "titolo": "Recensione Lefant M5 Pro: il primo robot con rullo “economico”",
       "descrizione": "Recensione completa del robot Lefant M5 Pro: una analisi dettaglia del primo robot con rullo venduto ad un prezzo economico.",
@@ -28,6 +70,13 @@
       "link": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-03T16:53:04+00:00"
+    },
+    {
+      "titolo": "Carta di credito senza commissioni annuali: la proposta di TF Bank",
+      "descrizione": "Alla scoperta della carta di credito senza canone, senza commissioni sui cambi e con assicurazione di viaggio gratuita. The post Carta di credito senza commissioni annuali: la proposta di TF Bank appeared first on Punto",
+      "link": "https://www.punto-informatico.it/fintech/carte/carta-di-credito-senza-commissioni-annuali-la-proposta-di-tf-bank/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-03T16:30:50+00:00"
     },
     {
       "titolo": "BMW, lo storico stabilimento di Monaco sarà al 100% dedicato alle BEV",
@@ -100,13 +149,6 @@
       "data": "2026-04-03T15:00:27+00:00"
     },
     {
-      "titolo": "Wi-Fi privato ovunque con questo router tascabile da portare in viaggio",
-      "descrizione": "Il Cudy TR1200 è un router Wi-Fi da viaggio con doppia banda AC1200, VPN integrata e supporto NAS. Pesa meno di 100 grammi e si alimenta via USB-C dal laptop. Oggi questo device così compatto è in...",
-      "link": "https://www.hdblog.it/hardware/offerte/n654054/router-tascabile-da-viaggio-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T14:54:00+00:00"
-    },
-    {
       "titolo": "How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally",
       "descrizione": "At last, I can use one app to find my favorite podcasts, channels, publications, and more.",
       "link": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
@@ -126,48 +168,6 @@
       "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-03T14:05:40+00:00"
-    },
-    {
-      "titolo": "Verge TS Pro: arriva la prima moto con batteria allo stato solido",
-      "descrizione": "Verge TS Pro rivoluziona le due ruote: la prima moto con batteria allo stato solido offre 600 km di autonomia, 999 Nm di coppia e una ricarica record in soli 5 minuti.",
-      "link": "https://www.hdmotori.it/verge-ts-pro-moto-batteria-stato-solido/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-03T14:00:07+00:00"
-    },
-    {
-      "titolo": "Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm",
-      "descrizione": "SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026.",
-      "link": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T13:58:27+00:00"
-    },
-    {
-      "titolo": "Chatbot prescrivono psicofarmaci, cosa potrebbe andare storto?",
-      "descrizione": "Via libera all'AI che prescrive psicofarmaci: per il rinnovo delle ricette non c'è più bisogno dell'appuntamento con lo specialista. The post Chatbot prescrivono psicofarmaci, cosa potrebbe andare storto? appeared first",
-      "link": "https://www.punto-informatico.it/chatbot-prescrivono-psicofarmaci/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T13:35:01+00:00"
-    },
-    {
-      "titolo": "Da 11,99 a 2,99€: Hostinger con dominio incluso è in offerta limitatissima",
-      "descrizione": "Super sconti fino al 79% su tutti i piani Hostinger, che passano da 11,99 euro a 2,99 euro al mese: includono dominio gratuito e altri servizi. The post Da 11,99 a 2,99€: Hostinger con dominio incluso è in offerta limita",
-      "link": "https://www.punto-informatico.it/da-1199-a-299e-hostinger-con-dominio-incluso-e-in-offerta-limitatissima/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T13:09:04+00:00"
-    },
-    {
-      "titolo": "Windows 11 25H2: aggiornamento forzato dalla versione 24H2",
-      "descrizione": "Il supporto a Windows 11 24H2 terminare quest'anno: Microsoft ha avviato l'upgrade automatico alla versione 25H2 sui PC degli utenti. The post Windows 11 25H2: aggiornamento forzato dalla versione 24H2 appeared first on",
-      "link": "https://www.punto-informatico.it/windows-11-25h2-aggiornamento-forzato/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T12:53:15+00:00"
-    },
-    {
-      "titolo": "Google Meet su CarPlay: ora le riunioni ti seguono anche al volante",
-      "descrizione": "Apple CarPlay integra Google Meet, ora puoi partecipare agli incontri anche mentre guidi: caratteristiche, compatibilità e rollout. The post Google Meet su CarPlay: ora le riunioni ti seguono anche al volante appeared fi",
-      "link": "https://www.punto-informatico.it/google-meet-carplay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T12:02:58+00:00"
     }
   ]
 }
