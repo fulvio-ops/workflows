@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-04-05T13:30:38.797518+00:00",
+  "last_updated": "2026-04-05T19:04:53.541650+00:00",
   "items": [
+    {
+      "titolo": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK — New flagship dual-cache CPU might demand a hefty premium",
+      "descrizione": "Listings for the 9950X3D2 have started to pop up at many different vendors, with some even listing preliminary prices. We found the CPU going for roughly $1,000 at two Canadian retailers, and just a smidge below that at",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-9-9950x3d2-listed-around-usd1-000-at-several-retailers-across-canada-and-the-uk-new-flagship-dual-cache-cpu-might-demand-a-hefty-premium",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T17:15:28+00:00"
+    },
+    {
+      "titolo": "Base lunare della NASA: violazione della legge internazionale?",
+      "descrizione": "L'estrazione delle risorse, necessarie per la base lunare, potrebbe essere una violazione della legge internazionale e causare scontri con Cina e Russia. The post Base lunare della NASA: violazione della legge internazio",
+      "link": "https://www.punto-informatico.it/base-lunare-nasa-violazione-della-legge-internazionale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-05T15:33:54+00:00"
+    },
+    {
+      "titolo": "Get a 27\" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 — LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness",
+      "descrizione": "The LG 27GS93QE-B is perfect for gaming, productivity, and media consumption, thanks to its versatile feature set. It's a 27-inch 1440p OLED monitor with an MLA+ panel so it's really bright at 1,300 nits (peak) and it ha",
+      "link": "https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T15:17:15+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Watch 7 in offerta su Amazon: un best buy a questo prezzo",
+      "descrizione": "Il Samsung Galaxy Watch 7 è in offerta su Amazon confermandosi un best buy assoluto per chi è alla ricerca di uno smartwatch da affiancare al proprio smartphone Android.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n654135/samsung-galaxy-watch-7-offerta-amazon-aprie-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T14:40:00+00:00"
+    },
+    {
+      "titolo": "Chat Control: Google continuerà la scansione volontaria",
+      "descrizione": "Google, Meta, Microsoft e Snap continueranno ad effettuare la scansione volontaria delle conversazioni private in violazione della direttiva ePrivacy. The post Chat Control: Google continuerà la scansione volontaria appe",
+      "link": "https://www.punto-informatico.it/chat-control-google-continua-scansione-volontaria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-05T14:24:04+00:00"
+    },
     {
       "titolo": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100",
       "descrizione": "Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
@@ -100,8 +135,8 @@
       "data": "2026-04-05T09:00:00+00:00"
     },
     {
-      "titolo": "Artemis II raggiunge i due terzi del viaggio verso la Luna. Toilette fuori uso",
-      "descrizione": "La missione Artemis II “ha appena raggiunto i ’due terzi’ del viaggio verso la Luna”. scrive la Nasa in un post su X. Durante il quarto giorno di volo, sottolinea...",
+      "titolo": "Artemis II a due terzi del viaggio dalla Luna. Risolto il problema toilette",
+      "descrizione": "“ Artemis II ha appena raggiunto il traguardo dei ’due terzi’ del viaggio verso la Luna ”. Così la Nasa fornisce aggiornamenti su X sulla missione in viaggio verso il satellite. E...",
       "link": "https://www.ilsole24ore.com/art/artemis-ii-raggiunge-due-terzi-viaggio-la-luna-AIaoHpLC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-05T07:56:00+00:00"
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/risparmia-fino-a-45e-con-coupon-su-ebay-acquistando-uno-di-questi-smartphone/",
       "fonte": "Punto Informatico",
       "data": "2026-04-05T05:00:52+00:00"
-    },
-    {
-      "titolo": "Don't plug these 7 common household gadgets into an extension cord - according to an electrician",
-      "descrizione": "Extension cords are fine for smaller devices, but some appliances can be dangerous to use with them, particularly in cold weather.",
-      "link": "https://www.zdnet.com/article/dont-plug-common-household-gadgets-into-an-extension-cord/",
-      "fonte": "Latest news",
-      "data": "2026-04-04T20:15:17+00:00"
-    },
-    {
-      "titolo": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
-      "descrizione": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
-      "link": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
-      "fonte": "Latest news",
-      "data": "2026-04-04T19:49:00+00:00"
-    },
-    {
-      "titolo": "Documenti di identità italiani pubblicati su Telegram",
-      "descrizione": "Sul canale Telegram di Anonymous Algeria è stato pubblicato un archivio RAR che contiene 500 immagini con documenti d'identità di cittadini italiani. The post Documenti di identità italiani pubblicati su Telegram appeare",
-      "link": "https://www.punto-informatico.it/documenti-identita-italiani-pubblicati-telegram/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-04T17:34:38+00:00"
-    },
-    {
-      "titolo": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB",
-      "descrizione": "Nvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress textures instead of",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T15:33:31+00:00"
-    },
-    {
-      "titolo": "La Chrysler Pacifica 2027 si evolve nel design per offrire più comfort alle famiglie",
-      "descrizione": "Il nuovo minivan della Chrysler è stato presentato al Salone dell'Auto di New York. Scopriamo le caratteristiche del Pacifica 2027",
-      "link": "https://www.hdmotori.it/la-chrysler-pacifica-2027-si-evolve-nel-design-per-offrire-piu-comfort-alle-famiglie/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T15:00:33+00:00"
     }
   ]
 }
