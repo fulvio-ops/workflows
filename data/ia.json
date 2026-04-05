@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-05T03:39:17.220426+00:00",
+  "last_updated": "2026-04-05T07:33:03.179933+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-      "descrizione": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-      "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-      "fonte": "WIRED",
-      "data": "2026-04-03T19:38:35+00:00",
+      "titolo": "ChatGPT non è il migliore in tutto: ecco 5 valide alternative",
+      "descrizione": "ChatGPT è eccellente, ma non è lo strumento migliore per tutto. Ecco cinque compiti per cui esistono alternative migliori. The post ChatGPT non è il migliore in tutto: ecco 5 valide alternative appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/chatgpt-non-e-migliore-in-tutto-5-valide-alternative/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-05T07:30:27+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft ammette: Copilot non è affidabile per i consigli importanti",
-      "descrizione": "Microsoft chiarisce i limiti di Copilot: nei termini si legge che non va usato per consigli importanti, ma solo per l'intrattenimento. The post Microsoft ammette: Copilot non è affidabile per i consigli importanti appear",
-      "link": "https://www.punto-informatico.it/microsoft-ammette-copilot-non-e-affidabile-per-i-consigli-importanti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-03T14:12:19+00:00",
+      "titolo": "Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
+      "descrizione": "Microsoft Copilot's terms of service explicitly say that it's \"for entertainment purposes only,\" but its marketing says otherwise.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-03T12:23:33+00:00",
       "modello": "copilot"
     },
     {
