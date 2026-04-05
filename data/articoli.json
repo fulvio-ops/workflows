@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-04-05T07:33:00.066136+00:00",
+  "last_updated": "2026-04-05T13:30:38.797518+00:00",
   "items": [
+    {
+      "titolo": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100",
+      "descrizione": "Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T12:00:00+00:00"
+    },
+    {
+      "titolo": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores — New config frees up 6P+12E tiles that could trickle down as locked bLLC variants",
+      "descrizione": "A 42-core SKU from the upcoming Nova Lake-S CPU family has reportedly been upgraded to 44 cores by swapping the 6P+12E tile with an 8P+12E tile, allowing the chip to achieve symmetry across its dual-tile config. Those le",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T11:20:00+00:00"
+    },
+    {
+      "titolo": "Artemis II diario di bordo: controllo manuale di Orion e nuovi record",
+      "descrizione": "Gli astronauti di Artemis II testano i comandi manuali di Orion in vista del flyby lunare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654086/artemis-ii-pilotaggio-manuale-orion/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T11:05:00+00:00"
+    },
+    {
+      "titolo": "Sequoia Capital shares founder’s 1977 memo for investing in Apple — initial $600,000 investment is worth $26.4 billion today, firm said it was ‘tough to do this deal’",
+      "descrizione": "The VC firm shared its founder's notes on Apple recognizing the company's potential while also doubting its management team.",
+      "link": "https://www.tomshardware.com/tech-industry/sequoia-capital-shares-founders-1977-memo-for-investing-in-apple-initial-usd600-000-investment-is-worth-usd26-4-billion-today-firm-said-it-was-tough-to-do-this-deal",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T11:00:00+00:00"
+    },
+    {
+      "titolo": "$1,700 liquid-cooled phone can run GTA V at up to 100 FPS, Red Dead 2 at 50+ FPS via emulation — Redmagic 11 Pro packs 24 GB of RAM and pulls more than 40W at peak load",
+      "descrizione": "The Golden Saga Edition of the Redmagic 11 Pro is equipped with 24 GB of RAM and an even more robust liquid cooling system that can pull upwards of 45W while emulating Red Dead 2, delivering 50+ FPS. The phone costs arou",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/usd1-700-liquid-cooled-phone-can-run-gta-v-at-up-to-100-fps-red-dead-2-at-50-fps-via-emulation-redmagic-11-pro-packs-24-gb-of-ram-and-pulls-more-than-40w-at-peak-load",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T10:20:00+00:00"
+    },
+    {
+      "titolo": "Wi-Fi che sfida le radiazioni: robot connessi nei reattori nucleari",
+      "descrizione": "Nuovo chip Wi-Fi giapponese resiste a radiazioni estreme per guidare robot nei reattori nucleari.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654087/ricevitore-wifi-nucleare-giappone/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T10:05:00+00:00"
+    },
+    {
+      "titolo": "ASUS Zenbook 14 OLED: il notebook ultrasottile con Core Ultra 7 e 32GB RAM è scontato di 250€",
+      "descrizione": "L'ASUS Zenbook 14 OLED con Intel Core Ultra 7 255H, 32GB RAM e display 3K da 14 pollici è un notebook in alluminio da 1,2 kg pensato per chi lavora in mobilità ma non vuole rinunciare alle...",
+      "link": "https://www.hdblog.it/portatili/offerte/n654131/asus-zenbook-14-oled-intel-core-ultra-7-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T10:00:00+00:00"
+    },
+    {
+      "titolo": "Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming",
+      "descrizione": "The company behind the tiny box AI accelerator says that its macOS driver for Nvidia eGPUs has just been signed by Apple, making it a legitimate software for Macs and no longer needs workarounds to work with the device.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T10:00:00+00:00"
+    },
+    {
+      "titolo": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
+      "descrizione": "Amid mass displacement and collapsing trust in institutions, digital wallets are becoming critical conduits for aid, connecting diaspora donors directly with communities on the ground.",
+      "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+      "fonte": "WIRED",
+      "data": "2026-04-05T09:30:00+00:00"
+    },
+    {
+      "titolo": "Axplorer, l’AI che prova a portare la ricerca matematica dal supercomputer al laptop",
+      "descrizione": "Lo strumento sviluppato da Axiom Math promette di abbattere tempi e costi nella soluzione di problemi complessi di teoria dei grafi",
+      "link": "https://www.ilsole24ore.com/art/axplorer-l-ai-che-prova-portare-ricerca-matematica-supercomputer-laptop-AITMpeFC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-05T09:05:30+00:00"
+    },
+    {
+      "titolo": "Samsung Meteo, con la primavera arriva un'interfaccia rinnovata",
+      "descrizione": "Ecco cosa cambia.",
+      "link": "https://www.hdblog.it/samsung/articoli/n654120/samsung-meteo-aggiornamento-interfaccia-redesign/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T09:05:00+00:00"
+    },
+    {
+      "titolo": "Addio a Sora, l’AI video diventa adulta: ora la sfida si sposta su business e filiere professionali",
+      "descrizione": "Il passo indietro di OpenAI segna la fine dell’era delle “curiosità” tecnologiche. Da Fiverr a Adobe, nasce un mercato di specialisti: ecco i costi e le strategie dei nuovi protagonisti della produzione generativa, tra a",
+      "link": "https://www.ilsole24ore.com/art/addio-sora-l-ai-video-diventa-adulta-ora-sfida-si-sposta-business-e-filiere-professionali-AIbhpfGC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-05T09:04:38+00:00"
+    },
+    {
+      "titolo": "F1 2026, Gasly contro tutti: intorno al nuovo regolamento “c’è un po’ troppa negatività”",
+      "descrizione": "Il francese di Alpine è uno dei pochi a smorzare i toni nel dibattito che sta infiammando il paddock dopo tre gare",
+      "link": "https://www.hdmotori.it/f1-2026-pierre-gasly-difende-regolamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-05T09:00:09+00:00"
+    },
+    {
+      "titolo": "The Hack That Exposed Syria’s Sweeping Security Failures",
+      "descrizione": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
+      "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+      "fonte": "WIRED",
+      "data": "2026-04-05T09:00:00+00:00"
+    },
+    {
+      "titolo": "Artemis II raggiunge i due terzi del viaggio verso la Luna. Toilette fuori uso",
+      "descrizione": "La missione Artemis II “ha appena raggiunto i ’due terzi’ del viaggio verso la Luna”. scrive la Nasa in un post su X. Durante il quarto giorno di volo, sottolinea...",
+      "link": "https://www.ilsole24ore.com/art/artemis-ii-raggiunge-due-terzi-viaggio-la-luna-AIaoHpLC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-05T07:56:00+00:00"
+    },
     {
       "titolo": "POCO F7 da 256GB: un medio gamma eccezionale che oggi paghi meno",
       "descrizione": "Il POCO F7 da 256GB è un ottimo medio gamma, con Snapdragon 8s Gen 4, fotocamera Sony da 50MP e batteria da 6500mAh, oggi a un prezzaccio. The post POCO F7 da 256GB: un medio gamma eccezionale che oggi paghi meno appeare",
@@ -63,111 +168,6 @@
       "link": "https://www.hdmotori.it/la-chrysler-pacifica-2027-si-evolve-nel-design-per-offrire-piu-comfort-alle-famiglie/",
       "fonte": "HDblog.it",
       "data": "2026-04-04T15:00:33+00:00"
-    },
-    {
-      "titolo": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones",
-      "descrizione": "Internal company communications indicate that multiple zones at AWS Bahrain and Dubai are \"hard down,\" with no timeline for service restoration.",
-      "link": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T14:48:12+00:00"
-    },
-    {
-      "titolo": "Dodge svela la Durango GT America250 Edition: tanti muscoli e sostanza",
-      "descrizione": "Al Salone di NY 2026 Dodge festeggia il 250° anniversario dell'America con la nuova edizione 2026 Durango GT America250",
-      "link": "https://www.hdmotori.it/dodge-durango-gt-america250-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T13:30:22+00:00"
-    },
-    {
-      "titolo": "Kia PV5 WAV: il taxi elettrico che cambia le regole a New York",
-      "descrizione": "Un concept innovativo firmato Kia e BraunAbility unisce sostenibilità e inclusività, aprendo una nuova era per i taxi e per i veicoli ad utilizzo condiviso",
-      "link": "https://www.hdmotori.it/kia-pv5-wav-il-taxi-elettrico-che-cambia-le-regole-a-new-york/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T12:00:00+00:00"
-    },
-    {
-      "titolo": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-      "descrizione": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
-      "link": "https://www.wired.com/gallery/best-ski-clothes/",
-      "fonte": "WIRED",
-      "data": "2026-04-04T12:00:00+00:00"
-    },
-    {
-      "titolo": "Enermax Revolution III S 1000W power supply review: Platinum efficiency, limited thermal capability",
-      "descrizione": "The Enermax Revolution III S 1000W features certified Platinum efficiency, good power quality, and an absurdly confident 13-year warranty, though its small cooling fan and peculiar cable layout create limitations that de",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/enermax-revolution-iii-s-1000w-power-supply-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T11:00:00+00:00"
-    },
-    {
-      "titolo": "Enthusiast installs Win 3.1X on bare metal Ryzen 9 9900X and RTX 5060 Ti system using floppy disk drive, OS from 1992 running on 2025 hardware — Asus motherboard’s ‘classic BIOS’ functionality was instrumental to the fea",
-      "descrizione": "A retro computing connoisseur has bare-metal installed and booted Microsoft Windows 3.1X on a Ryzen 9 9900X and RTX 5060 Ti PC system.",
-      "link": "https://www.tomshardware.com/software/windows/enthusiast-installs-win-3-1x-on-bare-metal-ryzen-9-9900x-and-rtx-5060-ti-system-asus-motherboards-classic-bios-functionality-was-instrumental-to-the-feat",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T10:20:00+00:00"
-    },
-    {
-      "titolo": "Kia Seltos si presenta, il SUV coreano punta sulla tecnologia ibrida: ecco com’è fatto",
-      "descrizione": "L’appuntamento dell’Auto Show di New York 2026 ha rappresentato la vetrina per Kia per svelare la nuova Seltos",
-      "link": "https://www.hdmotori.it/kia-seltos-suv-tecnologia-ibrida/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T10:00:50+00:00"
-    },
-    {
-      "titolo": "New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory — Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access",
-      "descrizione": "Two new Rowhammer attacks for GPUs have been discovered that can cause bit flips in VRAM to gain arbitrary read/write access over it. These attacks target page files and the page directory that are otherwise protected fr",
-      "link": "https://www.tomshardware.com/pc-components/gpus/new-geforge-and-gddrhammer-attacks-can-fully-infiltrate-your-system-through-nvidias-gpu-memory-rowhammer-attacks-in-gpus-force-bit-flips-in-protected-vram-regions-to-gain-read-write-access",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T10:00:00+00:00"
-    },
-    {
-      "titolo": "How to Get Reliable Wi-Fi in Your Backyard",
-      "descrizione": "There are several ways to extend your Wi-Fi network into your backyard and out onto the deck or patio. Here’s how.",
-      "link": "https://www.wired.com/story/how-to-get-wifi-in-your-backyard/",
-      "fonte": "WIRED",
-      "data": "2026-04-04T10:00:00+00:00"
-    },
-    {
-      "titolo": "Volete Mac Studio con 128 o 256 GB di RAM? Bisogna aspettare dai 4 ai 5 mesi",
-      "descrizione": "La crisi dei chip colpisce anche la disponibilità di Mac Studio con tagli di memoria elevata",
-      "link": "https://www.hdblog.it/apple/articoli/n654099/apple-mac-studio-ram-128-256-gb-ordini-5-mesi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T09:35:00+00:00"
-    },
-    {
-      "titolo": "Internxt: archiviazione cloud cifrata e lifetime fino a 5 TB per non perdere mai i tuoi file",
-      "descrizione": "Internxt protegge i tuoi file con crittografia zero-knowledge e piani lifetime fino a 5 TB. Un pagamento unico nessuna perdita di dati. Scopri i prezzi. The post Internxt: archiviazione cloud cifrata e lifetime fino a 5",
-      "link": "https://www.punto-informatico.it/internxt-archiviazione-cloud-cifrata-e-lifetime-fino-a-5-tb-per-non-perdere-mai-i-tuoi-file/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-04T09:18:26+00:00"
-    },
-    {
-      "titolo": "Addio gasolio in mare? Il segreto del nuovo super motore giapponese",
-      "descrizione": "Testato in Giappone il primo motore a idrogeno per grandi navi cargo: emissioni ridotte del 95%.",
-      "link": "https://www.hdblog.it/green/articoli/n653963/super-motore-giapponese-idrogeno-navi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T09:05:00+00:00"
-    },
-    {
-      "titolo": "Take-Two, tagli al team AI nonostante le recenti dichiarazioni",
-      "descrizione": "Fuori anche il leader del team Luke Dicken.",
-      "link": "https://www.hdblog.it/games/articoli/n654083/take-two-licenziamnti-team-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T08:35:00+00:00"
-    },
-    {
-      "titolo": "Hyundai Boulder Concept: il gigante d’acciaio che sfida l’America",
-      "descrizione": "Un concept spettacolare che anticipa il primo pickup Hyundai “vero”, progettato e costruito per conquistare il mercato USA",
-      "link": "https://www.hdmotori.it/hyundai-boulder-concept-il-gigante-dacciaio-che-sfida-lamerica/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-04T08:30:09+00:00"
-    },
-    {
-      "titolo": "Il bellissimo e potente speaker Bluetooth Marshall Willen II in offerta a 79€",
-      "descrizione": "Appena 79€ circa e puoi portarti a casa il potente speaker Bluetooth Marshall Willen II, con design accattivante e 17 ore di autonomia. The post Il bellissimo e potente speaker Bluetooth Marshall Willen II in offerta a 7",
-      "link": "https://www.punto-informatico.it/bellissimo-potente-speaker-bluetooth-marshall-willen-ii-offerta-79e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-04T07:40:49+00:00"
     }
   ]
 }
