@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T13:47:42.511686+00:00",
+  "last_updated": "2026-04-06T19:30:57.158092+00:00",
   "items": [
     {
       "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Pixel 10, sconto di 300€ sulla versione da 256GB: a questo prezzo ha molto più senso",
-      "descrizione": "Il Google Pixel 10 è uno smartphone AI con Gemini integrato, tripla fotocamera posteriore e 7 anni di aggiornamenti. La versione da 256GB è scontata di 300€ su Amazon.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n654156/google-pixel-10-sconto-300e-versione-256gb/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-06T07:36:00+00:00",
+      "titolo": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails",
+      "descrizione": "I didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car.",
+      "link": "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/",
+      "fonte": "Latest news",
+      "data": "2026-04-06T17:55:44+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How I set up Claude Code in iTerm2 to launch all my AI coding projects in one click",
-      "descrizione": "Managing multiple Claude Code projects doesn't have to be chaotic. My iTerm2 setup dramatically reduces friction in my daily AI-assisted coding workflows - here's how.",
-      "link": "https://www.zdnet.com/article/claude-code-iterm2-guide-to-my-ai-coding-environment/",
+      "titolo": "Your chatbot is playing a character - why Anthropic says that's dangerous",
+      "descrizione": "Researchers found that part of what makes chatbots so compelling also makes them vulnerable to bad behavior. Here's why.",
+      "link": "https://www.zdnet.com/article/anthropic-report-chatbot-character-consequences/",
       "fonte": "Latest news",
-      "data": "2026-04-06T12:29:14+00:00",
+      "data": "2026-04-06T15:44:00+00:00",
       "modello": "claude"
     }
   ]
