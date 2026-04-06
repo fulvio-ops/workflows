@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-04-06T08:03:28.761030+00:00",
+  "last_updated": "2026-04-06T13:47:39.338110+00:00",
   "items": [
+    {
+      "titolo": "Oppo Find X9 Ultra punta sullo zoom: ci sarà anche un accessorio dedicato",
+      "descrizione": "Lo zoom ottico integrato 10x potrà essere potenziato grazie ad un accessorio modulare.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654168/oppo-find-x9-ultra-zoom-fotocamera-accessorio/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T13:40:00+00:00"
+    },
+    {
+      "titolo": "80 different Microsoft Copilot products have been mapped out by expert, but there may be more than 100 — 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products",
+      "descrizione": "An AI aficionado has put together a chart of all the Copilot products they could find. At the latest count there are 80.",
+      "link": "https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-06T12:47:31+00:00"
+    },
+    {
+      "titolo": "Google Chrome per essere più veloce diventa più... \"pigro\"",
+      "descrizione": "Da Chrome 148 verrà potenziato il \"lazy loading\": cos'è e perché è importante.",
+      "link": "https://www.hdblog.it/google/articoli/n654166/google-chrome-148-lazy-loading-velocita-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T12:35:00+00:00"
+    },
+    {
+      "titolo": "How I set up Claude Code in iTerm2 to launch all my AI coding projects in one click",
+      "descrizione": "Managing multiple Claude Code projects doesn't have to be chaotic. My iTerm2 setup dramatically reduces friction in my daily AI-assisted coding workflows - here's how.",
+      "link": "https://www.zdnet.com/article/claude-code-iterm2-guide-to-my-ai-coding-environment/",
+      "fonte": "Latest news",
+      "data": "2026-04-06T12:29:14+00:00"
+    },
+    {
+      "titolo": "L'iPhone pieghevole diventa realtà: comincia la produzione di prova per i rumor",
+      "descrizione": "E questo significa che potrebbero presto filtrare immagini reali.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654164/iphone-pieghevole-fold-leak-foto-reali-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T12:05:00+00:00"
+    },
+    {
+      "titolo": "Artemis II a due passi dalla Luna",
+      "descrizione": "Pasqua è passata anche nello spazio, e la missione Artemis II continua tranquillamente verso la Luna, sempre più vicina. Siamo al clou della missione: si gira del nostro satellite e...",
+      "link": "https://www.ilsole24ore.com/art/artemis-ii-due-passi-luna-AI7ndOMC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-06T12:01:00+00:00"
+    },
+    {
+      "titolo": "Shrinking 4 si farà: Bill Lawrence svela il futuro dopo il finale",
+      "descrizione": "Bill Lawrence annuncia la fine di un ciclo per Shrinking e conferma la quarta stagione su Apple TV.",
+      "link": "https://www.hdblog.it/apple/articoli/n654149/shrinking-finale-stagione-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T11:55:00+00:00"
+    },
+    {
+      "titolo": "Vince una Dodge Viper regalando GTA V: la storia della “nonna gamer”",
+      "descrizione": "Una nonna negli Stati Uniti ha vinto un esemplare di Viper unico al mondo, replica della Bravado Banshee del videogame GTA V",
+      "link": "https://www.hdmotori.it/dodge-viper-gta-v/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T11:00:19+00:00"
+    },
+    {
+      "titolo": "WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR'",
+      "descrizione": "WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here.",
+      "link": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-06T10:50:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike — local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast",
+      "descrizione": "YouTube's AI moderator acted on an errant DMCA takedown, affecting nearly every video that contained clips of the DLSS 5 trailer, including Nvidia's own YouTube video.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-06T10:13:53+00:00"
+    },
+    {
+      "titolo": "Quattro astronauti verso il lato oscuro della Luna: ecco il piano | Diretta video",
+      "descrizione": "L'equipaggio di Artemis II si prepara al sorvolo lunare dopo aver testato le tute di sicurezza.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654148/artemis-2-sorvolo-luna-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T09:55:00+00:00"
+    },
+    {
+      "titolo": "Rischio detriti spaziali: SpaceX accusa Amazon",
+      "descrizione": "SpaceX ha accusato Amazon di aver incrementato i rischi di collisioni con il rilascio dei satelliti Leo ad un'altitudine superiore a quella comunicata. The post Rischio detriti spaziali: SpaceX accusa Amazon appeared fir",
+      "link": "https://www.punto-informatico.it/rischio-detriti-spaziali-spacex-accusa-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T09:35:29+00:00"
+    },
+    {
+      "titolo": "5 smartphone Xiaomi che con il Coupon eBay non costano niente",
+      "descrizione": "Abbiamo trovato 5 smartphone Xiaomi che con il nuovo Coupon su eBay non costano niente, ma offrono tutta la potenza che cerchi in un telefono. The post 5 smartphone Xiaomi che con il Coupon eBay non costano niente appear",
+      "link": "https://www.punto-informatico.it/5-smartphone-xiaomi-che-con-il-coupon-ebay-non-costano-niente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T09:28:29+00:00"
+    },
+    {
+      "titolo": "Gadget per laptop a prezzi da urlo su Amazon Haul",
+      "descrizione": "Approfitta subito dei migliori gadget per laptop in offerta speciale a prezzi da urlo solo ed esclusivamente su Amazon Haul: ultimi pezzi! The post Gadget per laptop a prezzi da urlo su Amazon Haul appeared first on Punt",
+      "link": "https://www.punto-informatico.it/gadget-per-laptop-a-prezzi-da-urlo-su-amazon-haul/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T09:09:56+00:00"
+    },
+    {
+      "titolo": "NASA nel mirino: Casa Bianca propone tagli drastici ai fondi",
+      "descrizione": "Nuovi tagli alla NASA: la Casa Bianca propone meno fondi per scienza e ISS, puntando tutto sulla Luna.",
+      "link": "https://www.hdblog.it/mercato/articoli/n654144/futuro-missioni-scienza-spaziale/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T08:55:00+00:00"
+    },
+    {
+      "titolo": "300€ di SCONTO per il Google Pixel 10 256GB su Amazon",
+      "descrizione": "Risparmia 300€ acquistando il Google Pixel 10 da 256GB su Amazon grazie a un'offerta speciale che sta andando letteralmente a ruba. The post 300€ di SCONTO per il Google Pixel 10 256GB su Amazon appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/300-euro-sconto-google-pixel-10-256gb-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T08:38:15+00:00"
+    },
+    {
+      "titolo": "Samsung molla la sua app messaggi, ora si usa Google Messaggi",
+      "descrizione": "Dopo 15 anni, Samsung abbandona la propria app di messaggistica. Da luglio Google Messaggi diventa l'unica opzione sui dispositivi Galaxy. The post Samsung molla la sua app messaggi, ora si usa Google Messaggi appeared f",
+      "link": "https://www.punto-informatico.it/samsung-abbandona-sua-app-messaggi-si-usa-google-messaggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T08:31:51+00:00"
+    },
+    {
+      "titolo": "Notebook da Gaming Lenovo LOQ con RTX 5050, i5 e SSD da 1TB a un prezzone",
+      "descrizione": "Il Notebook da Gaming Lenovo LOQ con NVIDIA GeForce RTX 5050, Intel Core i5, 16GB di RAM e SSD da 1TB oggi è tuo a un prezzaccio. The post Notebook da Gaming Lenovo LOQ con RTX 5050, i5 e SSD da 1TB a un prezzone appeare",
+      "link": "https://www.punto-informatico.it/notebook-da-gaming-lenovo-loq-rtx-5050-i5-ssd-1tb-prezzone/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-06T08:07:23+00:00"
+    },
     {
       "titolo": "DJI Osmo Pocket 4: trapela il packaging completo",
       "descrizione": "Foto delle confezioni svelano DJI Osmo Pocket 4: sensore da 1 pollice e 107GB di memoria interna.",
@@ -42,132 +168,6 @@
       "link": "https://www.punto-informatico.it/proteggi-tuoi-account-nordvpn-oggi-76-percento-sconto/",
       "fonte": "Punto Informatico",
       "data": "2026-04-06T05:00:16+00:00"
-    },
-    {
-      "titolo": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK — New flagship dual-cache CPU might demand a hefty premium",
-      "descrizione": "Listings for the 9950X3D2 have started to pop up at many different vendors, with some even listing preliminary prices. We found the CPU going for roughly $1,000 at two Canadian retailers, and just a smidge below that at",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-9-9950x3d2-listed-around-usd1-000-at-several-retailers-across-canada-and-the-uk-new-flagship-dual-cache-cpu-might-demand-a-hefty-premium",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T17:15:28+00:00"
-    },
-    {
-      "titolo": "Base lunare della NASA: violazione della legge internazionale?",
-      "descrizione": "L'estrazione delle risorse, necessarie per la base lunare, potrebbe essere una violazione della legge internazionale e causare scontri con Cina e Russia. The post Base lunare della NASA: violazione della legge internazio",
-      "link": "https://www.punto-informatico.it/base-lunare-nasa-violazione-della-legge-internazionale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-05T15:33:54+00:00"
-    },
-    {
-      "titolo": "Get a 27\" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 — LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness",
-      "descrizione": "The LG 27GS93QE-B is perfect for gaming, productivity, and media consumption, thanks to its versatile feature set. It's a 27-inch 1440p OLED monitor with an MLA+ panel so it's really bright at 1,300 nits (peak) and it ha",
-      "link": "https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T15:17:15+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Watch 7 in offerta su Amazon: un best buy a questo prezzo",
-      "descrizione": "Il Samsung Galaxy Watch 7 è in offerta su Amazon confermandosi un best buy assoluto per chi è alla ricerca di uno smartwatch da affiancare al proprio smartphone Android.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n654135/samsung-galaxy-watch-7-offerta-amazon-aprie-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T14:40:00+00:00"
-    },
-    {
-      "titolo": "Chat Control: Google continuerà la scansione volontaria",
-      "descrizione": "Google, Meta, Microsoft e Snap continueranno ad effettuare la scansione volontaria delle conversazioni private in violazione della direttiva ePrivacy. The post Chat Control: Google continuerà la scansione volontaria appe",
-      "link": "https://www.punto-informatico.it/chat-control-google-continua-scansione-volontaria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-05T14:24:04+00:00"
-    },
-    {
-      "titolo": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100",
-      "descrizione": "Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T12:00:00+00:00"
-    },
-    {
-      "titolo": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores — New config frees up 6P+12E tiles that could trickle down as locked bLLC variants",
-      "descrizione": "A 42-core SKU from the upcoming Nova Lake-S CPU family has reportedly been upgraded to 44 cores by swapping the 6P+12E tile with an 8P+12E tile, allowing the chip to achieve symmetry across its dual-tile config. Those le",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T11:20:00+00:00"
-    },
-    {
-      "titolo": "Artemis II diario di bordo: controllo manuale di Orion e nuovi record",
-      "descrizione": "Gli astronauti di Artemis II testano i comandi manuali di Orion in vista del flyby lunare.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654086/artemis-ii-pilotaggio-manuale-orion/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T11:05:00+00:00"
-    },
-    {
-      "titolo": "Sequoia Capital shares founder’s 1977 memo for investing in Apple — initial $600,000 investment is worth $26.4 billion today, firm said it was ‘tough to do this deal’",
-      "descrizione": "The VC firm shared its founder's notes on Apple recognizing the company's potential while also doubting its management team.",
-      "link": "https://www.tomshardware.com/tech-industry/sequoia-capital-shares-founders-1977-memo-for-investing-in-apple-initial-usd600-000-investment-is-worth-usd26-4-billion-today-firm-said-it-was-tough-to-do-this-deal",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T11:00:00+00:00"
-    },
-    {
-      "titolo": "$1,700 liquid-cooled phone can run GTA V at up to 100 FPS, Red Dead 2 at 50+ FPS via emulation — Redmagic 11 Pro packs 24 GB of RAM and pulls more than 40W at peak load",
-      "descrizione": "The Golden Saga Edition of the Redmagic 11 Pro is equipped with 24 GB of RAM and an even more robust liquid cooling system that can pull upwards of 45W while emulating Red Dead 2, delivering 50+ FPS. The phone costs arou",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/usd1-700-liquid-cooled-phone-can-run-gta-v-at-up-to-100-fps-red-dead-2-at-50-fps-via-emulation-redmagic-11-pro-packs-24-gb-of-ram-and-pulls-more-than-40w-at-peak-load",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T10:20:00+00:00"
-    },
-    {
-      "titolo": "Wi-Fi che sfida le radiazioni: robot connessi nei reattori nucleari",
-      "descrizione": "Nuovo chip Wi-Fi giapponese resiste a radiazioni estreme per guidare robot nei reattori nucleari.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654087/ricevitore-wifi-nucleare-giappone/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T10:05:00+00:00"
-    },
-    {
-      "titolo": "ASUS Zenbook 14 OLED: il notebook ultrasottile con Core Ultra 7 e 32GB RAM è scontato di 250€",
-      "descrizione": "L'ASUS Zenbook 14 OLED con Intel Core Ultra 7 255H, 32GB RAM e display 3K da 14 pollici è un notebook in alluminio da 1,2 kg pensato per chi lavora in mobilità ma non vuole rinunciare alle...",
-      "link": "https://www.hdblog.it/portatili/offerte/n654131/asus-zenbook-14-oled-intel-core-ultra-7-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T10:00:00+00:00"
-    },
-    {
-      "titolo": "Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming",
-      "descrizione": "The company behind the tiny box AI accelerator says that its macOS driver for Nvidia eGPUs has just been signed by Apple, making it a legitimate software for Macs and no longer needs workarounds to work with the device.",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T10:00:00+00:00"
-    },
-    {
-      "titolo": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
-      "descrizione": "Amid mass displacement and collapsing trust in institutions, digital wallets are becoming critical conduits for aid, connecting diaspora donors directly with communities on the ground.",
-      "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
-      "fonte": "WIRED",
-      "data": "2026-04-05T09:30:00+00:00"
-    },
-    {
-      "titolo": "Axplorer, l’AI che prova a portare la ricerca matematica dal supercomputer al laptop",
-      "descrizione": "Lo strumento sviluppato da Axiom Math promette di abbattere tempi e costi nella soluzione di problemi complessi di teoria dei grafi",
-      "link": "https://www.ilsole24ore.com/art/axplorer-l-ai-che-prova-portare-ricerca-matematica-supercomputer-laptop-AITMpeFC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-05T09:05:30+00:00"
-    },
-    {
-      "titolo": "Samsung Meteo, con la primavera arriva un'interfaccia rinnovata",
-      "descrizione": "Ecco cosa cambia.",
-      "link": "https://www.hdblog.it/samsung/articoli/n654120/samsung-meteo-aggiornamento-interfaccia-redesign/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T09:05:00+00:00"
-    },
-    {
-      "titolo": "Addio a Sora, l’AI video diventa adulta: ora la sfida si sposta su business e filiere professionali",
-      "descrizione": "Il passo indietro di OpenAI segna la fine dell’era delle “curiosità” tecnologiche. Da Fiverr a Adobe, nasce un mercato di specialisti: ecco i costi e le strategie dei nuovi protagonisti della produzione generativa, tra a",
-      "link": "https://www.ilsole24ore.com/art/addio-sora-l-ai-video-diventa-adulta-ora-sfida-si-sposta-business-e-filiere-professionali-AIbhpfGC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-05T09:04:38+00:00"
-    },
-    {
-      "titolo": "F1 2026, Gasly contro tutti: intorno al nuovo regolamento “c’è un po’ troppa negatività”",
-      "descrizione": "Il francese di Alpine è uno dei pochi a smorzare i toni nel dibattito che sta infiammando il paddock dopo tre gare",
-      "link": "https://www.hdmotori.it/f1-2026-pierre-gasly-difende-regolamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-05T09:00:09+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T08:03:32.643600+00:00",
+  "last_updated": "2026-04-06T13:47:42.511686+00:00",
   "items": [
     {
       "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
@@ -10,19 +10,27 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
-      "descrizione": "Microsoft Copilot's terms of service explicitly say that it's \"for entertainment purposes only,\" but its marketing says otherwise.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-03T12:23:33+00:00",
+      "titolo": "Microsoft Copilot è inaffidabile? La verità sta nei termini d'uso",
+      "descrizione": "Microsoft definisce Copilot uno strumento di intrattenimento nei termini di servizio.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654147/microsoft-copilot-termini-uso/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T12:55:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Claude Code, stangata in arrivo: ecco perché dovrai pagare due volte",
-      "descrizione": "Anthropic introduce costi extra per chi usa Claude Code con strumenti di terze parti come OpenClaw.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654123/anthropic-claude-code-prezzi-openclaw/",
+      "titolo": "Google Pixel 10, sconto di 300€ sulla versione da 256GB: a questo prezzo ha molto più senso",
+      "descrizione": "Il Google Pixel 10 è uno smartphone AI con Gemini integrato, tripla fotocamera posteriore e 7 anni di aggiornamenti. La versione da 256GB è scontata di 300€ su Amazon.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n654156/google-pixel-10-sconto-300e-versione-256gb/",
       "fonte": "HDblog.it",
-      "data": "2026-04-06T06:55:00+00:00",
+      "data": "2026-04-06T07:36:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "How I set up Claude Code in iTerm2 to launch all my AI coding projects in one click",
+      "descrizione": "Managing multiple Claude Code projects doesn't have to be chaotic. My iTerm2 setup dramatically reduces friction in my daily AI-assisted coding workflows - here's how.",
+      "link": "https://www.zdnet.com/article/claude-code-iterm2-guide-to-my-ai-coding-environment/",
+      "fonte": "Latest news",
+      "data": "2026-04-06T12:29:14+00:00",
       "modello": "claude"
     }
   ]
