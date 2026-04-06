@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T03:42:51.770366+00:00",
+  "last_updated": "2026-04-06T08:03:32.643600+00:00",
   "items": [
     {
       "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
-      "descrizione": "A modder has successfully booted a 12-core Bartlett Lake-S CPU into Windows using a modified BIOS on an Asus Z790 motherboard.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-04T11:20:00+00:00",
+      "titolo": "Claude Code, stangata in arrivo: ecco perché dovrai pagare due volte",
+      "descrizione": "Anthropic introduce costi extra per chi usa Claude Code con strumenti di terze parti come OpenClaw.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654123/anthropic-claude-code-prezzi-openclaw/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-06T06:55:00+00:00",
       "modello": "claude"
     }
   ]
