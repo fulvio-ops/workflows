@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-07T07:50:33.773078+00:00",
+  "last_updated": "2026-04-07T14:02:11.126191+00:00",
   "items": [
     {
-      "titolo": "Anthropic supera OpenAI: inizia la corsa verso i 30 miliardi",
-      "descrizione": "Anthropic raggiunge 30 miliardi di run-rate e supera OpenAI nella crescita commerciale.",
-      "link": "https://www.hdblog.it/mercato/articoli/n654179/crescita-anthropic-30-miliardi/",
+      "titolo": "BYD Flash Charging da 1,5 MW: dalla Cina all'Europa?",
+      "descrizione": "Il Paese del Dragone Rosso si sta evolvendo a ritmi sostenuti e BYD continua a creare stazioni di ricarica ultra-rapide, che potrebbero arrivare anche nel Vecchio Continente.",
+      "link": "https://www.hdmotori.it/ricariche-byd-flash-charging-cina/",
       "fonte": "HDblog.it",
-      "data": "2026-04-07T07:10:00+00:00",
+      "data": "2026-04-07T13:00:15+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Copilot è inaffidabile? La verità sta nei termini d'uso",
-      "descrizione": "Microsoft definisce Copilot uno strumento di intrattenimento nei termini di servizio.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654147/microsoft-copilot-termini-uso/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-06T12:55:00+00:00",
+      "titolo": "Copilot solo per divertimento? Microsoft prova a chiarire l’equivoco",
+      "descrizione": "Dopo le polemiche, Microsoft ha annunciato che aggiornerà i termini di servizio dedicati a Copilot per riflettere il suo utilizzo attuale. The post Copilot solo per divertimento? Microsoft prova a chiarire l’equivoco app",
+      "link": "https://www.punto-informatico.it/copilot-solo-per-divertimento-microsoft-prova-a-chiarire-lequivoco/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-07T12:18:14+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google AI Edge Eloquent: nuova app di dettatura AI, anche offline",
-      "descrizione": "Dettatura vocale avanzata con l'AI: Google Eloquent arriva su iOS con un selettore per eseguire l'elaborazione in modalità offline. The post Google AI Edge Eloquent: nuova app di dettatura AI, anche offline appeared firs",
-      "link": "https://www.punto-informatico.it/google-ai-edge-eloquent-nuova-app-di-dettatura-ai-anche-offline/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T07:37:27+00:00",
+      "titolo": "Gemini, nuove funzioni per la salute mentale: collegamento diretto a emergenze",
+      "descrizione": "Google ha annunciato un aggiornamento di Gemini pensato per intervenire quando una conversazione lascia emergere segnali di disagio psicologico o emotivo",
+      "link": "https://www.hdblog.it/google/articoli/n654247/gemini-salute-mentale-fondi-nuove-funzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-07T13:20:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic supera OpenAI: inizia la corsa verso i 30 miliardi",
-      "descrizione": "Anthropic raggiunge 30 miliardi di run-rate e supera OpenAI nella crescita commerciale.",
-      "link": "https://www.hdblog.it/mercato/articoli/n654179/crescita-anthropic-30-miliardi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T07:10:00+00:00",
+      "titolo": "Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 — Claude pioneer says its annual revenue run rate has passed $30 billion",
+      "descrizione": "Broadcom disclosed in a securities filing on Monday that it’ll supply Anthropic with roughly 3.5 gigawatts of Google TPU capacity starting in 2027.",
+      "link": "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-07T11:26:13+00:00",
       "modello": "claude"
     }
   ]
