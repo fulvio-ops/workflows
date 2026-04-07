@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-07T14:02:11.126191+00:00",
+  "last_updated": "2026-04-07T19:33:15.053850+00:00",
   "items": [
     {
-      "titolo": "BYD Flash Charging da 1,5 MW: dalla Cina all'Europa?",
-      "descrizione": "Il Paese del Dragone Rosso si sta evolvendo a ritmi sostenuti e BYD continua a creare stazioni di ricarica ultra-rapide, che potrebbero arrivare anche nel Vecchio Continente.",
-      "link": "https://www.hdmotori.it/ricariche-byd-flash-charging-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T13:00:15+00:00",
+      "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
+      "descrizione": "IRGC spokesperson threatens the “complete and utter annihilation” of U.S. and Israeli facilities. Singles out the $30bn Stargate AI data center.",
+      "link": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-05T15:02:45+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini, nuove funzioni per la salute mentale: collegamento diretto a emergenze",
-      "descrizione": "Google ha annunciato un aggiornamento di Gemini pensato per intervenire quando una conversazione lascia emergere segnali di disagio psicologico o emotivo",
-      "link": "https://www.hdblog.it/google/articoli/n654247/gemini-salute-mentale-fondi-nuove-funzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T13:20:00+00:00",
+      "titolo": "AI e salute mentale: cosa cambia con gli aggiornamenti di Gemini",
+      "descrizione": "Google introduce nuove funzionalità su Gemini per migliorare la sicurezza e supportare la salute mentale degli utenti: ecco cosa cambia. The post AI e salute mentale: cosa cambia con gli aggiornamenti di Gemini appeared",
+      "link": "https://www.punto-informatico.it/ai-salute-mentale-aggiornamenti-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-07T12:49:50+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 — Claude pioneer says its annual revenue run rate has passed $30 billion",
-      "descrizione": "Broadcom disclosed in a securities filing on Monday that it’ll supply Anthropic with roughly 3.5 gigawatts of Google TPU capacity starting in 2027.",
-      "link": "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-07T11:26:13+00:00",
+      "titolo": "Anthropic dà vita a Project Glasswing, un modello di intelligenza artificialepe",
+      "descrizione": "Si chiama Project Glasswing. Dentro ci sono Amazon, Apple, Broadcom, Cisco, CrowdStrike, Linux Foundation, Microsoft e Palo Alto Networks. Obiettivo: mettere in sicurezza il software più critico del...",
+      "link": "https://www.ilsole24ore.com/art/anthropic-da-vita-project-glasswing-l-intelligenza-artificiale-che-va-caccia-bug-vecchi-27-anni-AIg946MC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-07T19:22:00+00:00",
       "modello": "claude"
     }
   ]
