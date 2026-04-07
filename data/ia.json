@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-07T03:32:01.350423+00:00",
+  "last_updated": "2026-04-07T07:50:33.773078+00:00",
   "items": [
     {
-      "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
-      "descrizione": "IRGC spokesperson threatens the “complete and utter annihilation” of U.S. and Israeli facilities. Singles out the $30bn Stargate AI data center.",
-      "link": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-05T15:02:45+00:00",
+      "titolo": "Anthropic supera OpenAI: inizia la corsa verso i 30 miliardi",
+      "descrizione": "Anthropic raggiunge 30 miliardi di run-rate e supera OpenAI nella crescita commerciale.",
+      "link": "https://www.hdblog.it/mercato/articoli/n654179/crescita-anthropic-30-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-07T07:10:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails",
-      "descrizione": "I didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car.",
-      "link": "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/",
-      "fonte": "Latest news",
-      "data": "2026-04-06T17:55:44+00:00",
+      "titolo": "Google AI Edge Eloquent: nuova app di dettatura AI, anche offline",
+      "descrizione": "Dettatura vocale avanzata con l'AI: Google Eloquent arriva su iOS con un selettore per eseguire l'elaborazione in modalità offline. The post Google AI Edge Eloquent: nuova app di dettatura AI, anche offline appeared firs",
+      "link": "https://www.punto-informatico.it/google-ai-edge-eloquent-nuova-app-di-dettatura-ai-anche-offline/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-07T07:37:27+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Your chatbot is playing a character - why Anthropic says that's dangerous",
-      "descrizione": "Researchers found that part of what makes chatbots so compelling also makes them vulnerable to bad behavior. Here's why.",
-      "link": "https://www.zdnet.com/article/anthropic-report-chatbot-character-consequences/",
-      "fonte": "Latest news",
-      "data": "2026-04-06T15:44:00+00:00",
+      "titolo": "Anthropic supera OpenAI: inizia la corsa verso i 30 miliardi",
+      "descrizione": "Anthropic raggiunge 30 miliardi di run-rate e supera OpenAI nella crescita commerciale.",
+      "link": "https://www.hdblog.it/mercato/articoli/n654179/crescita-anthropic-30-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-07T07:10:00+00:00",
       "modello": "claude"
     }
   ]
