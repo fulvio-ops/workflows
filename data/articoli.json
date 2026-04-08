@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-04-08T03:33:02.388026+00:00",
+  "last_updated": "2026-04-08T07:53:55.290065+00:00",
   "items": [
+    {
+      "titolo": "Nothing Phone (3) crolla su Amazon a un prezzo fuori di testa (-254€)",
+      "descrizione": "Goditi lo sconto di 254 euro che trovi su Amazon e portati a casa l'inimitabile Nothing Phone (3) con 16 GB di RAM e 512 GB di archiviazione. The post Nothing Phone (3) crolla su Amazon a un prezzo fuori di testa (-254€)",
+      "link": "https://www.punto-informatico.it/nothing-phone-3-crolla-amazon-un-prezzo-fuori-di-testa-254e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-08T07:46:53+00:00"
+    },
+    {
+      "titolo": "MacBook Neo, successo travolgente: erede con A19 Pro già in cantiere",
+      "descrizione": "La domanda vera è: Apple arriverà all'anno prossimo con il modello attuale? Le indiscrezioni lasciano pensare che la domanda sia molto più elevata dell'offerta.",
+      "link": "https://www.hdblog.it/portatili/articoli/n654328/apple-macbook-neo-nuovo-modello-a19-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:45:00+00:00"
+    },
+    {
+      "titolo": "Colori mai visti: Sony svela i segreti dei nuovi TV Bravia True RGB",
+      "descrizione": "Sony lancia la tecnologia True RGB per TV Mini LED con colori e luminosità senza precedenti.",
+      "link": "https://www.hdblog.it/sony/articoli/n654317/sony-true-rgb-mini-led-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:35:00+00:00"
+    },
+    {
+      "titolo": "Sony Xperia 1 VIII, nuovi render confermano il cambio di design",
+      "descrizione": "La parte frontale, però, continua imperterrita con le cornici superiore e inferiore.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654324/sony-xperia-1-viii-render-nuovo-design-fotocamere/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:25:00+00:00"
+    },
+    {
+      "titolo": "iPhone pieghevole, nessun ritardo: il lancio sarebbe ancora previsto a settembre",
+      "descrizione": "Il primo iPhone pieghevole sarà annunciato a settembre, durante il consueto evento di lancio autunnale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654311/iphone-pieghevole-nessun-ritardo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:10:00+00:00"
+    },
+    {
+      "titolo": "Musk sceglie Intel: ecco chi costruirà i processori per Tesla e SpaceX",
+      "descrizione": "Intel si unisce a SpaceX e Tesla per realizzare Terafab e potenziare il calcolo per AI e robotica.",
+      "link": "https://www.hdblog.it/intel/articoli/n654310/intel-elon-musk-terafab-texas/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:05:00+00:00"
+    },
+    {
+      "titolo": "Gli spaventosi dati dei giovani al volante: quando un like vale più della vita",
+      "descrizione": "Dagli streaming su TikTok ai rischi dei touchscreen: perché la distrazione digitale sta diventando un’epidemia mortale per i giovani",
+      "link": "https://www.hdmotori.it/distrazioni-giovani-alla-guida/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T07:00:59+00:00"
+    },
+    {
+      "titolo": "Acciaio stampato in 3D: più forte e inossidabile grazie all'AI",
+      "descrizione": "Ingegneri creano un acciaio ultra-resistente e flessibile per la stampa 3D usando la AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654303/nuovo-acciaio-stampa-3d-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T06:25:00+00:00"
+    },
+    {
+      "titolo": "Iliad, nuova Top 170 Plus: ecco quali sono i già clienti che possono fare l'upgrade",
+      "descrizione": "La nuova tariffa non è riservata soltanto ai nuovi clienti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654307/iliad-top-170-plus-clienti-upgrade/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T06:15:00+00:00"
+    },
+    {
+      "titolo": "Google Maps, in arrivo 3 nuove funzioni per chi pubblica foto e recensioni",
+      "descrizione": "Google sta aggiornando Maps con nuove funzioni pensate per facilitare il contributo degli utenti alla piattaforma",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654304/google-maps-foto-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T05:55:00+00:00"
+    },
     {
       "titolo": "macOS has a 49.7-day networking time bomb built in that only a reboot fixes — comparison operation on unreliable time value stops machines dead in their tracks",
       "descrizione": "The macOS networking stack has a bug that creates a 49.7-day-long countdown to disaster that currently requires a reboot to fix, as discovered by AI service provider Photon.",
@@ -79,46 +149,11 @@
       "data": "2026-04-07T16:45:00+00:00"
     },
     {
-      "titolo": "Polaroid lancia la nuova stampante Hi-Print con formato 3x3",
-      "descrizione": "Ideale per stampare foto direttamente dallo smartphone.",
-      "link": "https://www.hdblog.it/hardware/articoli/n654287/polaroid-stampante-hi-print-formato-3x3/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T16:35:00+00:00"
-    },
-    {
-      "titolo": "Smart pronta a riprendersi le città con #2, l'erede della ForTwo",
-      "descrizione": "Design Mercedes e tecnologia Geely: i segreti della Smart #2, citycar elettrica con batteria da 30 kWh erede della ForTwo",
-      "link": "https://www.hdmotori.it/smart-2-anteprima-erede-fortwo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T16:30:39+00:00"
-    },
-    {
-      "titolo": "ESPN sbarca su Disney+ in Italia: l'offerta si espande con NBA e NHL",
-      "descrizione": "Più sport per gli abbonati.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n654282/espn-disney-plus-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T16:20:00+00:00"
-    },
-    {
       "titolo": "Attenzione alle offerte di lavoro: pericolo phishing",
       "descrizione": "È in corso una campagna di phishing che sfrutta false offerte di lavoro di Coca-Cola e Ferrari per rubare le credenziali degli account Google e Facebook. The post Attenzione alle offerte di lavoro: pericolo phishing appe",
       "link": "https://www.punto-informatico.it/attenzione-offerte-lavoro-pericolo-phishing/",
       "fonte": "Punto Informatico",
       "data": "2026-04-07T16:07:29+00:00"
-    },
-    {
-      "titolo": "SteelSeries celebra i 25 anni con un refresh del suo mouse gaming Aerox 3 Wireless",
-      "descrizione": "Migliorano connettività, prestazioni e autonomia. Un buon upgrade per chi cerca un mouse gaming premium.",
-      "link": "https://www.hdblog.it/hardware/articoli/n654288/steelseries-aerox-3-wireless-gen-2-novita-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T16:05:00+00:00"
-    },
-    {
-      "titolo": "Se il diesel rincara molto più della benzina non è solo colpa della guerra",
-      "descrizione": "Perché il gasolio rincara più della benzina? Un mix di riallineamento fiscale, sensibilità climatica e instabilità del mercato del greggio",
-      "link": "https://www.hdmotori.it/diesel-rincara-piu-benzina-motivi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T16:00:03+00:00"
     },
     {
       "titolo": "Why I returned to Enlightenment Linux after 30 years: Testing the new Elive beta",
@@ -128,46 +163,11 @@
       "data": "2026-04-07T15:56:00+00:00"
     },
     {
-      "titolo": "Play Store, novità in arrivo per le recensioni: una notizia buona e una cattiva",
-      "descrizione": "In distribuzione \"silenziosa\" (lato server?) già da qualche ora, almeno negli USA.",
-      "link": "https://www.hdblog.it/google/articoli/n654280/google-play-store-recensioni-ricerca-filtro/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T15:25:00+00:00"
-    },
-    {
-      "titolo": "Addio batterie stilo: il nuovo telecomando Xiaomi si ricarica come un telefono",
-      "descrizione": "Xiaomi lancia il Bluetooth Remote 2 Pro con ricarica USB-C, tasti personalizzabili e funzione NFC.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n654271/xiaomi-bluetooth-remote-2-pro-nfc/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T15:20:00+00:00"
-    },
-    {
       "titolo": "GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations",
       "descrizione": "Zortos293 uploaded an open-source GeForce Now client to GitHub, allowing gamers to connect to Nvidia's service without being tracked by the tech giant.",
       "link": "https://www.tomshardware.com/video-games/cloud-gaming/github-user-creates-open-source-nvidia-geforce-now-client-alternative-removes-tracking-telemetry-and-afk-limitations",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-07T15:17:20+00:00"
-    },
-    {
-      "titolo": "Airalo è l’eSIM per i tuoi viaggi del 2026: piani a partire da pochi euro",
-      "descrizione": "Con Airalo ti connetti ovunque ti trovi e non resti mai senza rete: oltre 200 destinazioni, piani flessibili e costi convenienti. The post Airalo è l’eSIM per i tuoi viaggi del 2026: piani a partire da pochi euro appeare",
-      "link": "https://www.punto-informatico.it/airalo-e-lesim-per-i-tuoi-viaggi-del-2026-piani-a-partire-da-pochi-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T14:44:13+00:00"
-    },
-    {
-      "titolo": "AI per studiare: Adobe Acrobat Student Spaces sfida NotebookLM",
-      "descrizione": "Acrobat Student Spaces è il tool Adobe pensato appositamente per gli studenti: accessibile gratis in beta, sfida apertamente NotebookLM. The post AI per studiare: Adobe Acrobat Student Spaces sfida NotebookLM appeared fi",
-      "link": "https://www.punto-informatico.it/adobe-acrobat-student-spaces/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T14:39:03+00:00"
-    },
-    {
-      "titolo": "Iran minaccia di colpire un data center Stargate ad Abu Dhabi",
-      "descrizione": "I militari iraniani hanno minacciato di colpire un data center del progetto Stargate attualmente in costruzione ad Abu Dhabi negli Emirati Arabi Uniti. The post Iran minaccia di colpire un data center Stargate ad Abu Dha",
-      "link": "https://www.punto-informatico.it/iran-minaccia-colpire-data-center-stargate-abu-dhabi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T13:44:21+00:00"
     }
   ]
 }

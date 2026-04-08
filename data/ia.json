@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:33:05.741878+00:00",
+  "last_updated": "2026-04-08T07:53:59.152486+00:00",
   "items": [
     {
       "titolo": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' — Claude Mythos Preview sparks race to fix critical bugs, some unpatched for de",
-      "descrizione": "Anthropic's latest frontier AI model, Claude Mythos Preview, is so adept at finding software vulnerabilities that the lab is holding it back to allow companies and institutions to proactively patch their products against",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-07T19:47:45+00:00",
+      "titolo": "Claude down l’8 aprile 2026: tutti gli aggiornamenti",
+      "descrizione": "Tutti gli aggiornamenti sul down di Claude di mercoledì 8 aprile 2026: problemi col modello Sonnet, il chatbot è molto lento o non funziona. The post Claude down l’8 aprile 2026: tutti gli aggiornamenti appeared first on",
+      "link": "https://www.punto-informatico.it/claude-down-08042026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-08T07:43:38+00:00",
       "modello": "claude"
     }
   ]
