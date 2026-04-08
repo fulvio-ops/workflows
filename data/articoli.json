@@ -1,8 +1,43 @@
 {
-  "last_updated": "2026-04-07T19:33:11.270285+00:00",
+  "last_updated": "2026-04-08T03:33:02.388026+00:00",
   "items": [
     {
-      "titolo": "Anthropic dà vita a Project Glasswing, un modello di intelligenza artificialepe",
+      "titolo": "macOS has a 49.7-day networking time bomb built in that only a reboot fixes — comparison operation on unreliable time value stops machines dead in their tracks",
+      "descrizione": "The macOS networking stack has a bug that creates a 49.7-day-long countdown to disaster that currently requires a reboot to fix, as discovered by AI service provider Photon.",
+      "link": "https://www.tomshardware.com/software/macos/macos-has-a-49-7-day-networking-time-bomb-built-in-that-only-a-reboot-fixes-comparison-operation-on-unreliable-time-value-stops-machines-dead-in-their-tracks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-07T23:00:59+00:00"
+    },
+    {
+      "titolo": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+      "descrizione": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.",
+      "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+      "fonte": "WIRED",
+      "data": "2026-04-07T20:13:51+00:00"
+    },
+    {
+      "titolo": "Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores — early performance is on the level of Nvidia NTC",
+      "descrizione": "Intel is working on its own neural texture compression with similar compression performance to Nvidia's counterpart. Best of all, Intel has a fallback version of its compression tech that will work with GPUs that don't c",
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-07T19:50:08+00:00"
+    },
+    {
+      "titolo": "Ho provato 7 gadget Techly per migliorare la postazione PC",
+      "descrizione": "Techly offre una gamma di accessori pensati per migliorare la produttività anche nelle postazioni di lavoro più economiche.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652642/come-ho-migliorato-la-mia-postazione-economica-con-techly/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-07T19:31:00+00:00"
+    },
+    {
+      "titolo": "Smart working, da oggi nuove regole e sanzioni: cosa cambia per le aziende",
+      "descrizione": "Da oggi cambiano alcune regole dello smart working",
+      "link": "https://www.hdblog.it/business/articoli/n654212/smart-working-informativa-obbligatoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-07T19:30:00+00:00"
+    },
+    {
+      "titolo": "Anthropic dà vita a Project Glasswing, un modello di intelligenza artificiale",
       "descrizione": "Si chiama Project Glasswing. Dentro ci sono Amazon, Apple, Broadcom, Cisco, CrowdStrike, Linux Foundation, Microsoft e Palo Alto Networks. Obiettivo: mettere in sicurezza il software più critico del...",
       "link": "https://www.ilsole24ore.com/art/anthropic-da-vita-project-glasswing-l-intelligenza-artificiale-che-va-caccia-bug-vecchi-27-anni-AIg946MC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
@@ -90,7 +125,7 @@
       "descrizione": "This Debian-based distro brings back the old-school desktop environment but shrugs off the boring UI. I just wish I could've tried voice control.",
       "link": "https://www.zdnet.com/article/elive-linux/",
       "fonte": "Latest news",
-      "data": "2026-04-07T15:56:14+00:00"
+      "data": "2026-04-07T15:56:00+00:00"
     },
     {
       "titolo": "Play Store, novità in arrivo per le recensioni: una notizia buona e una cattiva",
@@ -114,13 +149,6 @@
       "data": "2026-04-07T15:17:20+00:00"
     },
     {
-      "titolo": "Stellantis rafforza la partnership con Leapmotor, tra crediti di CO2 in Europa e produzione in Brasile",
-      "descrizione": "Stellantis acquista crediti verdi da Leapmotor per rispettare i limiti UE e avvia la produzione di B10 e C10 in Brasile con flex-fuel",
-      "link": "https://www.hdmotori.it/stellantis-pooling-leapmotor/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-07T15:00:05+00:00"
-    },
-    {
       "titolo": "Airalo è l’eSIM per i tuoi viaggi del 2026: piani a partire da pochi euro",
       "descrizione": "Con Airalo ti connetti ovunque ti trovi e non resti mai senza rete: oltre 200 destinazioni, piani flessibili e costi convenienti. The post Airalo è l’eSIM per i tuoi viaggi del 2026: piani a partire da pochi euro appeare",
       "link": "https://www.punto-informatico.it/airalo-e-lesim-per-i-tuoi-viaggi-del-2026-piani-a-partire-da-pochi-euro/",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/iran-minaccia-colpire-data-center-stargate-abu-dhabi/",
       "fonte": "Punto Informatico",
       "data": "2026-04-07T13:44:21+00:00"
-    },
-    {
-      "titolo": "Indianapolis politician's home shot at 13 times over data center dispute — police and FBI investigating 'isolated, targeted incident' after city councilor backed project",
-      "descrizione": "A city councilor's home has been shot up for allegedly supporting a data center project in Indianapolis. Opposing neighborhood groups condemn the shooting, while the authorities have yet to determine who's behind the cri",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/indianapolis-politicians-home-shot-at-13-times-over-data-center-dispute-police-and-fbi-investigating-isolated-targeted-incident-after-city-councilor-backed-project",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-07T13:14:47+00:00"
-    },
-    {
-      "titolo": "AI e salute mentale: cosa cambia con gli aggiornamenti di Gemini",
-      "descrizione": "Google introduce nuove funzionalità su Gemini per migliorare la sicurezza e supportare la salute mentale degli utenti: ecco cosa cambia. The post AI e salute mentale: cosa cambia con gli aggiornamenti di Gemini appeared",
-      "link": "https://www.punto-informatico.it/ai-salute-mentale-aggiornamenti-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T12:49:50+00:00"
-    },
-    {
-      "titolo": "Netcomm: acquisto coltelli su e-commerce con SPID o CIE",
-      "descrizione": "Netcomm consiglia di usare SPID o CIE per la verifica obbligatoria dell'età prima di completare l'acquisto di coltelli sulle piattaforme di e-commerce. The post Netcomm: acquisto coltelli su e-commerce con SPID o CIE app",
-      "link": "https://www.punto-informatico.it/netcomm-acquisto-coltelli-e-commerce-spid-cie/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T12:46:31+00:00"
-    },
-    {
-      "titolo": "Copilot solo per divertimento? Microsoft prova a chiarire l’equivoco",
-      "descrizione": "Dopo le polemiche, Microsoft ha annunciato che aggiornerà i termini di servizio dedicati a Copilot per riflettere il suo utilizzo attuale. The post Copilot solo per divertimento? Microsoft prova a chiarire l’equivoco app",
-      "link": "https://www.punto-informatico.it/copilot-solo-per-divertimento-microsoft-prova-a-chiarire-lequivoco/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-07T12:18:14+00:00"
     }
   ]
 }
