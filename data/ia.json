@@ -1,37 +1,45 @@
 {
-  "last_updated": "2026-04-08T14:03:06.685521+00:00",
+  "last_updated": "2026-04-08T19:40:58.028884+00:00",
   "items": [
     {
-      "titolo": "AI vulnerabile, la falla di ChatGPT: basta un prompt",
-      "descrizione": "Una vulnerabilità scovata in ChatGPT (ora risolta) deve far riflettere sul fatto che riteniamo gli strumenti AI sicuri per definizione.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n654388/ai-vulnerabile-falla-chatgpt-basta-prompt/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T13:10:00+00:00",
+      "titolo": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+      "descrizione": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+      "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "fonte": "WIRED",
+      "data": "2026-04-08T17:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Expert maps out more than 80 different Microsoft Copilot products, but there may be more than 100 — 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products",
-      "descrizione": "An AI aficionado has put together a chart of all the Copilot products they could find. At the latest count there are 80.",
-      "link": "https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-06T12:47:31+00:00",
+      "titolo": "Microsoft Copilot: nuova app è un duplicato di Edge",
+      "descrizione": "La nuova app Copilot per Windows 11 include una copia privata di Microsoft Edge e occupa fino a 1 GB di RAM durante l'esecuzione. The post Microsoft Copilot: nuova app è un duplicato di Edge appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/microsoft-copilot-nuova-app-duplicato-edge/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-08T16:39:20+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Maps: didascalie automatiche delle foto con Gemini",
-      "descrizione": "Una delle nuove funzionalità di Google Maps sfrutta il modello Gemini per suggerisce la descrizione delle immagini da mostrare come didascalia. The post Google Maps: didascalie automatiche delle foto con Gemini appeared",
-      "link": "https://www.punto-informatico.it/google-maps-didascalie-automatiche-foto-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T08:31:34+00:00",
+      "titolo": "Google Gemini, in test una revisione del design potenzialmente controversa",
+      "descrizione": "Dovrebbe diventare tutto più colorato",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654397/google-gemini-test-novita-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T17:40:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Mythos: nuovo potente modello di Anthropic",
-      "descrizione": "Claude Mythos ha trovato migliaia di vulnerabilità di sistemi operativi, browser e altri software, quindi non avrà una distribuzione pubblica. The post Claude Mythos: nuovo potente modello di Anthropic appeared first on",
-      "link": "https://www.punto-informatico.it/claude-mythos-nuovo-potente-modello-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T10:56:43+00:00",
+      "titolo": "Claude diventa un cacciatore di vulnerabilità: ecco Project Glasswing",
+      "descrizione": "Il modello è talmente potente che non sarà rilasciato al pubblico per ragioni di sicurezza. Ma potrebbe finire nelle mani del governo americano...",
+      "link": "https://www.hdblog.it/business/articoli/n654448/anthropic-claude-mythos-preview-project-glasswing/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T17:15:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Da LLama a Muse Spark. Meta prova a rientrare nella corsa all’AI",
+      "descrizione": "Dopo le difficoltà del suo modello open e la pressione su costi, social e crescita, Meta lancia Muse Spark. Obiettivo: trasformare l’enorme patrimonio di contenuti, utenti e creator in un vantaggio competitivo contro Ope",
+      "link": "https://www.ilsole24ore.com/art/da-llama-muse-spark-meta-prova-rientrare-corsa-all-ai-AIJ3guOC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-08T18:06:00+00:00",
+      "modello": "altri"
     }
   ]
 }
