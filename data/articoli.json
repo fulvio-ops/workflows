@@ -1,9 +1,93 @@
 {
-  "last_updated": "2026-04-09T14:15:01.917889+00:00",
+  "last_updated": "2026-04-09T19:38:45.232498+00:00",
   "items": [
     {
-      "titolo": "MAGA Media Seems to Have Hit Its Breaking Point Over Iran",
-      "descrizione": "\"The online right wasn’t supportive and there wasn’t anything that was going to change that,\" says one person familiar with the Republican influencer pipeline.",
+      "titolo": "Recensione Samsung Galaxy S26+, ha ancora senso nella lineup?",
+      "descrizione": "Abbiamo provato per qualche giorno il nuovo Galaxy S26+ di Samsung, un prodotto ottimo, ma avrà ancora senso?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n654383/samsung-galaxy-s26-plus-test-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T18:51:00+00:00"
+    },
+    {
+      "titolo": "La pendrive di Google da 3 euro con ChromeOS Flex è già sold out",
+      "descrizione": "È andata subito a ruba la pendrive da 3 euro per l'installazione di ChromeOS Flex lanciata da Google e Back Market, non c'erano dubbi.",
+      "link": "https://www.hdblog.it/google/articoli/n654495/pendrive-3-euro-chromeos-flex-sold-out/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T18:49:00+00:00"
+    },
+    {
+      "titolo": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+      "descrizione": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+      "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T18:00:00+00:00"
+    },
+    {
+      "titolo": "I tested CuerdOS and its unique app lineup is even better than its blazing speed",
+      "descrizione": "CuerdOS is a niche Debian-based distro with a alternative approach to preinstalled software - and it's truly a breath of fresh air.",
+      "link": "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/",
+      "fonte": "Latest news",
+      "data": "2026-04-09T17:37:53+00:00"
+    },
+    {
+      "titolo": "Jeremy Clarkson ignorava l'esistenza della Maserati Grecale, ma adesso la adora",
+      "descrizione": "Il noto conduttore televisivo di Top Gear, Jeremy Clarkson, ha testato la Maserati Grecale, lasciando dei feedback positivi",
+      "link": "https://www.hdmotori.it/jeremy-clarkson-maserati-grecale/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T17:00:03+00:00"
+    },
+    {
+      "titolo": "Centinaia di robot umanoidi imparano il mestiere nelle fabbriche",
+      "descrizione": "Oltre cento robot umanoidi si addestrano in Cina per gestire compiti industriali complessi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654462/robot-umanoidi-fabbrica-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T16:55:00+00:00"
+    },
+    {
+      "titolo": "Alleged images of the long-awaited Nvidia N1/N1X SoC surface on laptop motherboard — board features 128 GB of LPDDR5X memory alongside 8+6+2 phase VRM",
+      "descrizione": "Nvidia's N1 SoC leaks yet again, but this time in the flesh, with potentially a laptop motherboard featuring the long-rumored chip. It was spotted on sale on a Chinese marketplace for roughly $1,400. The pictures show th",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/alleged-images-of-the-long-awaited-nvidia-n1-n1x-soc-surface-on-laptop-motherboard-board-features-128-gb-of-lpddr5x-memory-alongside-8-6-2-phase-vrm",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-09T16:40:32+00:00"
+    },
+    {
+      "titolo": "Audio, video e intrattenimento tecnologico: al via la nona edizione del MIR di Rimini",
+      "descrizione": "10 padiglioni per un totale di 40.000 metri quadrati",
+      "link": "https://www.hdblog.it/tv/articoli/n654562/mir-rimini-evento-audio-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T16:20:00+00:00"
+    },
+    {
+      "titolo": "Dongfeng al Fuorisalone 2026 con l’evento “Two Natures. Infinite Scapes”",
+      "descrizione": "In occasione della Milano Design Week 2026 la Casa cinese propone un viaggio sensoriale nel futuro della mobilità, nel quale due suoi modelli diventano protagonisti.",
+      "link": "https://www.hdmotori.it/dongfeng-fuorisalone-2026-two-natures-infinite-scapes/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T16:00:19+00:00"
+    },
+    {
+      "titolo": "Robot con muscoli ad aria: sollevano 100 volte il proprio peso",
+      "descrizione": "Scienziati USA creano muscoli artificiali ad aria per robot capaci di sollevare carichi incredibili.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654577/muscoli-artificiali-robot-aria/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T15:35:00+00:00"
+    },
+    {
+      "titolo": "Nissan Qashqai, è il C-SUV più venduto in Italia a marzo",
+      "descrizione": "La nuova generazione dell'e-Power traina le vendite con un +31% nel primo trimestre.",
+      "link": "https://www.hdmotori.it/nissan-qashqai-piu-venduto-italia-marzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T15:00:17+00:00"
+    },
+    {
+      "titolo": "The best dedicated web hosting of 2026: Expert tested and reviewed",
+      "descrizione": "Discover my picks for the top dedicated web hosting providers, with detailed insights on performance, security, and reliability.",
+      "link": "https://www.zdnet.com/article/best-dedicated-web-hosting/",
+      "fonte": "Latest news",
+      "data": "2026-04-09T14:45:57+00:00"
+    },
+    {
+      "titolo": "The Iran War Is Tearing MAGA Influencers Apart",
+      "descrizione": "“The online right wasn’t supportive and there wasn’t anything that was going to change that,” says one person familiar with the Republican influencer pipeline.",
       "link": "https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/",
       "fonte": "WIRED",
       "data": "2026-04-09T14:05:38+00:00"
@@ -16,32 +100,11 @@
       "data": "2026-04-09T14:04:36+00:00"
     },
     {
-      "titolo": "Nuova Cupra Raval, elettrica dal piglio sportivo: a partire da 26.000 euro",
-      "descrizione": "Dalla piattaforma MEB+ al debutto nell'estate 2026: tutto sulla nuova CUPRA Raval, l'elettrica ribelle che parte da 26.000 euro",
-      "link": "https://www.hdmotori.it/nuova-cupra-raval-prezzo-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T14:00:17+00:00"
-    },
-    {
       "titolo": "Amazon Leo sarà disponibile a breve: sfida lanciata a Starlink",
       "descrizione": "Amazon annuncia il lancio di Leo per la metà del 2026: connessione satellitare veloce e integrata con AWS per le aziende e gli utenti. The post Amazon Leo sarà disponibile a breve: sfida lanciata a Starlink appeared firs",
       "link": "https://www.punto-informatico.it/amazon-leo-disponibile-breve-sfida-lanciata-starlink/",
       "fonte": "Punto Informatico",
       "data": "2026-04-09T13:55:28+00:00"
-    },
-    {
-      "titolo": "Amazon Leo sfida Starlink: ecco quando arriva il web satellitare",
-      "descrizione": "Amazon lancia Leo a metà 2026 per sfidare il dominio di Starlink nel mercato web satellitare.",
-      "link": "https://www.hdblog.it/amazon/articoli/n654561/amazon-leo-internet-satellitare-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T13:45:00+00:00"
-    },
-    {
-      "titolo": "Carburanti: i francesi fanno il pieno in Italia per risparmiare",
-      "descrizione": "Nel Ponente Ligure si è verificato un forte aumento della domanda di carburante: i turisti hanno fatto il pieno prima di rientrare in Francia per approfittare dei prezzi italiani.",
-      "link": "https://www.hdmotori.it/carburanti-francesi-pieno-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T13:30:24+00:00"
     },
     {
       "titolo": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
@@ -58,25 +121,11 @@
       "data": "2026-04-09T13:10:57+00:00"
     },
     {
-      "titolo": "Skyscanner sbarca su ChatGPT: prenotate i voli con l'AI",
-      "descrizione": "Un dialogo fluido in chat con l'AI per prenotare un volo.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654546/skyscanner-sbarca-chatgpt-voli-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T13:10:00+00:00"
-    },
-    {
       "titolo": "Corre la geotermia avanzata ma la Ue sottovaluta il potenziale",
       "descrizione": "Davanti all’ennesima crisi energetica dovuta al blocco delle forniture di combustibili fossili, che si rivelano ancora una volta inaffidabili, cresce la necessità di sviluppare fonti alternative, per alleggerire la dipen",
       "link": "https://www.ilsole24ore.com/art/corre-geotermia-avanzata-ma-ue-sottovaluta-potenziale-AIEYm7MC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-09T13:09:00+00:00"
-    },
-    {
-      "titolo": "Il 2025 nero della Case tedesche: i motivi della crisi e il salvagente BMW",
-      "descrizione": "L’industria delle quattro ruote teutonica sta vivendo un calo di vendite insolito. La Germania è davanti a un cambio epocale",
-      "link": "https://www.hdmotori.it/crisi-case-tedesche-2025-bmw/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T13:00:05+00:00"
     },
     {
       "titolo": "UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned — US and allies expand seabed protection efforts",
@@ -86,39 +135,11 @@
       "data": "2026-04-09T12:59:25+00:00"
     },
     {
-      "titolo": "Realme C100i: avvistato in rete lo smartphone entry level",
-      "descrizione": "Lo smartphone dovrebbe arrivare a breve anche in Italia.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654540/realme-c100i-smartphone-entrylevel/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:55:00+00:00"
-    },
-    {
-      "titolo": "C'è un \"glitch\" mai corretto in Windows 11 e 10: per Microsoft è tutto normale",
-      "descrizione": "Microsoft lo ha chiarito in un articolo di supporto e la posizione è netta",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654549/windows-bug-mai-corretto-microsoft-normale/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:50:00+00:00"
-    },
-    {
       "titolo": "Saily Ultra è l’eSIM per viaggi all’estero con GB illimitati e molti altri vantaggi",
       "descrizione": "Saily Ultra è il piano eSIM ideale per chi viaggia spesso all'estero. Include GB illimitati e molti altri vantaggi, ora in sconto del 10%. The post Saily Ultra è l’eSIM per viaggi all’estero con GB illimitati e molti alt",
       "link": "https://www.punto-informatico.it/saily-ultra-e-lesim-per-viaggi-allestero-con-gb-illimitati-e-molti-altri-vantaggi/",
       "fonte": "Punto Informatico",
       "data": "2026-04-09T12:45:22+00:00"
-    },
-    {
-      "titolo": "Un indossabile può monitorare la quantità di microplastiche nel corpo",
-      "descrizione": "Swan potrebbe rivoluzionare il monitoraggio delle microplastiche nel sangue, ma la tecnologia è ancora in fase di sviluppo e richiede ulteriori test per garantirne la sicurezza sull’uomo",
-      "link": "https://www.hdblog.it/indossabili/articoli/n654547/microplastiche-organismo-smartwatch-rilevazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:45:00+00:00"
-    },
-    {
-      "titolo": "Microsoft 365 Copilot migliora ancora in Word, soprattutto per i professionisti",
-      "descrizione": "Soprattutto quelli che devono tracciare e documentare ogni modifica apportata a documenti sensibili.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654551/microsoft-copilot-word-365-novita-documenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:35:00+00:00"
     },
     {
       "titolo": "Rabbia per la self-driving car che ha investito e ucciso un’anatra",
@@ -128,20 +149,6 @@
       "data": "2026-04-09T12:32:25+00:00"
     },
     {
-      "titolo": "Halo: Campaign Evolved, filtrano la data di lancio e quella dell'Early Access",
-      "descrizione": "Halo: Campaing Evolved, il remake del primo capitolo della saga che segnerà il debutto di Master Chief su PlayStation, non ha ancora una data di lancio ufficiale. Ma in queste ore un leak...",
-      "link": "https://www.hdblog.it/games/articoli/n654531/halo-campaign-evolved-quando-esce-data-leak-luglio/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:20:00+00:00"
-    },
-    {
-      "titolo": "Stellantis: mille nuovi posti di lavoro in Algeria, Europa spiazzata",
-      "descrizione": "Il Gruppo Stellantis accelera con la produzione fuori dai confini del Vecchio Continente. L’allargamento in Algeria non è solo simbolico",
-      "link": "https://www.hdmotori.it/stellantis-nuovi-posti-lavoro-algeria/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T12:00:49+00:00"
-    },
-    {
       "titolo": "Tesla al lavoro su un nuovo SUV elettrico compatto ed economico",
       "descrizione": "Ancora nessun annuncio ufficiale, ma diverse fonti hanno riferito a Reuters del progetto: un nuovo SUV compatto in arrivo per Tesla. The post Tesla al lavoro su un nuovo SUV elettrico compatto ed economico appeared first",
       "link": "https://www.punto-informatico.it/tesla-nuovo-suv-elettrico-compatto-economico/",
@@ -149,25 +156,18 @@
       "data": "2026-04-09T12:00:45+00:00"
     },
     {
-      "titolo": "Dreame Z30 Pro Aqua arriva in Italia: aspira e lava per una casa impeccabile | PREZZO",
-      "descrizione": "Ha una potenza di aspirazione di 28.000Pa.",
-      "link": "https://www.hdblog.it/home/articoli/n654538/dreame-z30-pro-aqua-aspirapolvere-lavapavimenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T11:50:00+00:00"
-    },
-    {
-      "titolo": "BMW, la rivoluzione dell'idrogeno passa dal serbatoio: 750 km e pieno in 5 minuti",
-      "descrizione": "BMW iX5 Hydrogen promette 750 km di autonomia e un pieno in soli 5 minuti. Ecco come la tecnologia Gen3 cambierà la mobilità sostenibile",
-      "link": "https://www.hdmotori.it/bmw-ix5-hydrogen-caratteristiche-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T11:30:24+00:00"
-    },
-    {
       "titolo": "Aria di lusso in formato pocket: Dyson inventa il ventilatore portatile (e indossabile)",
       "descrizione": "Il produttore britannico entra a modo suo in un nuovo mercato mettendo un motore a reazione sul comodino. Può anche essere indossato come una collana.",
       "link": "https://www.ilsole24ore.com/art/aria-lusso-formato-pocket-dyson-inventa-ventilatore-portatile-e-indossabile-AIl9qLPC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-09T11:17:00+00:00"
+    },
+    {
+      "titolo": "How Meta Cafeteria Workers Took on ICE—and Won",
+      "descrizione": "In Seattle, activists inside tech giants are leaning into grassroots fundraising and peer support as petitions and protests draw little response from executives.",
+      "link": "https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T11:00:00+00:00"
     }
   ]
 }
