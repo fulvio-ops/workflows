@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-09T03:29:33.483778+00:00",
+  "last_updated": "2026-04-09T07:56:03.192728+00:00",
   "items": [
     {
-      "titolo": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-      "descrizione": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-      "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-      "fonte": "WIRED",
-      "data": "2026-04-08T17:00:00+00:00",
+      "titolo": "L'app di Tubi in ChatGPT per chiedere all'AI cosa guardare",
+      "descrizione": "Tubi ha lanciato la sua applicazione all'interno di ChatGPT: alla scoperta di cosa guardare conversando con l'intelligenza artificiale.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n654471/app-tubi-chatgpt-chiedere-cosa-guardare/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Gemini, in test una revisione del design potenzialmente controversa",
-      "descrizione": "Dovrebbe diventare tutto più colorato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654397/google-gemini-test-novita-design/",
+      "titolo": "Muse Spark è realtà: ecco come Meta vuole superare GPT e Gemini",
+      "descrizione": "Meta rilascia Muse Spark, un modello AI multimodale e avanzato per competere con i leader del settore.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654466/meta-muse-spark-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-04-08T17:40:00+00:00",
+      "data": "2026-04-09T07:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-      "descrizione": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-      "fonte": "WIRED",
-      "data": "2026-04-08T22:27:26+00:00",
+      "titolo": "Corte d’appello Usa respinge il ricorso di Anthropic contro il Pentagono",
+      "descrizione": "La corte d’appello federale di Washington, negli Stati Uniti, ha respinto il ricorso di Anthropic contro il Pentagono . La disputa riguarda la classificazione della compagnia tecnologica come un...",
+      "link": "https://www.ilsole24ore.com/art/corte-d-appello-usa-respinge-ricorso-anthropic-contro-pentagono-AItKtIPC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-09T07:23:00+00:00",
       "modello": "claude"
     },
     {

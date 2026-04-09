@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-04-09T03:29:30.379679+00:00",
+  "last_updated": "2026-04-09T07:56:00.124931+00:00",
   "items": [
+    {
+      "titolo": "Xiaomi presenta le nuove tende smart con controllo indipendente sui due lati",
+      "descrizione": "Xiaomi presenta Mijia Smart Curtain 3 Pro, le nuove tende smart con doppio motore indipendente, controllo Wi-Fi e integrazione con Mi Home. Silenziose e potenti, supportano fino a 60 kg",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n654484/xiaomi-tende-smart-funzioni-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:55:00+00:00"
+    },
+    {
+      "titolo": "Il nuovo Google Finanza con tanta AI anche in Italia: cosa cambia",
+      "descrizione": "La piattaforma Google Financa si rinnova con AI per analisi, grafici avanzati e notizie sui mercati globali: il restyling anche in Italia. The post Il nuovo Google Finanza con tanta AI anche in Italia: cosa cambia appear",
+      "link": "https://www.punto-informatico.it//nuovo-google-finanza-tanta-ai-italia-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T07:47:17+00:00"
+    },
+    {
+      "titolo": "L'app di Tubi in ChatGPT per chiedere all'AI cosa guardare",
+      "descrizione": "Tubi ha lanciato la sua applicazione all'interno di ChatGPT: alla scoperta di cosa guardare conversando con l'intelligenza artificiale.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n654471/app-tubi-chatgpt-chiedere-cosa-guardare/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:45:00+00:00"
+    },
+    {
+      "titolo": "C'è un mercato europeo che ha già incoronato una cinese come auto più venduta",
+      "descrizione": "Oltre 10.000 immatricolazioni in un solo mese: Jaecoo 7 conquista la Gran Bretagna e accelera la sua ascesa anche nel mercato italiano",
+      "link": "https://www.hdmotori.it/jaecoo-7-auto-piu-venduta-uk/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:30:29+00:00"
+    },
+    {
+      "titolo": "Immagini non consensuali in gruppi Telegram italiani",
+      "descrizione": "In base all'indagine di AI Forensics, Telegram viene usato per la distribuzione e vendita di contenuti intimi non consensuali di donne e bambini. The post Immagini non consensuali in gruppi Telegram italiani appeared fir",
+      "link": "https://www.punto-informatico.it/immagini-non-consensuali-gruppi-telegram-italiani/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T07:23:55+00:00"
+    },
+    {
+      "titolo": "Corte d’appello Usa respinge il ricorso di Anthropic contro il Pentagono",
+      "descrizione": "La corte d’appello federale di Washington, negli Stati Uniti, ha respinto il ricorso di Anthropic contro il Pentagono . La disputa riguarda la classificazione della compagnia tecnologica come un...",
+      "link": "https://www.ilsole24ore.com/art/corte-d-appello-usa-respinge-ricorso-anthropic-contro-pentagono-AItKtIPC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-09T07:23:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold 8, ecco quando (e dove) saranno presentati",
+      "descrizione": "Inizia il \"toto-date\": la prima previsione è 22 luglio a Londra.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654476/samsung-pieghevoli-nuova-generazione-quando-dove/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:15:00+00:00"
+    },
+    {
+      "titolo": "Muse Spark è realtà: ecco come Meta vuole superare GPT e Gemini",
+      "descrizione": "Meta rilascia Muse Spark, un modello AI multimodale e avanzato per competere con i leader del settore.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654466/meta-muse-spark-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T07:10:00+00:00"
+    },
+    {
+      "titolo": "Garmin vívoactive 6: un elegantissimo smartwatch con tante funzioni (-54€)",
+      "descrizione": "Oggi su Amazon puoi risparmiare più di 54 euro per metterti al polso il mitico Garmin vívoactive 6, elegantissimo e con tante funzioni. The post Garmin vívoactive 6: un elegantissimo smartwatch con tante funzioni (-54€)",
+      "link": "https://www.punto-informatico.it/garmin-vivoactive-6-elegantissimo-smartwatch-tante-funzioni-54e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T07:02:53+00:00"
+    },
+    {
+      "titolo": "IT-Wallet, via libera ai 14enni senza autorizzazione dei genitori: cosa cambia",
+      "descrizione": "I minorenni potranno utilizzare l’IT-Wallet, anche senza il consenso dei genitori.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n654465/it-wallet-via-libera-ai-14enni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T06:35:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen rettifica, il motore 1.0 TSI va avanti: lunga vita al 3 cilindri",
+      "descrizione": "Addio smentito: il 1.0 TSI resta nel cuore delle subcompatte del Gruppo Volkswagen, confermando la sua presenza su Polo, Fabia e Ibiza",
+      "link": "https://www.hdmotori.it/volkswagen-motore-1-0-tsi-non-si-ritira/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T06:30:26+00:00"
+    },
+    {
+      "titolo": "JBL Tune Flex Ghost 2: spettacolari auricolari wireless a un ottimo prezzo",
+      "descrizione": "Gli auricolari wireless JBL Tune Flex Ghost 2 offrono un audio spettacolare con la cancellazione del rumore e 32 ore di autonomia. The post JBL Tune Flex Ghost 2: spettacolari auricolari wireless a un ottimo prezzo appea",
+      "link": "https://www.punto-informatico.it/jbl-tune-flex-ghost-2-spettacolari-auricolari-wireless-a-ottimo-prezzo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T06:14:32+00:00"
+    },
+    {
+      "titolo": "Gemini in Home è arrivato in Italia: cosa cambia per la tua casa",
+      "descrizione": "Con la distribuzione internazionale, Gemini in Home arriva in Italia, con supporto all'italiano e nuove funzionalità per la casa connessa. The post Gemini in Home è arrivato in Italia: cosa cambia per la tua casa appeare",
+      "link": "https://www.punto-informatico.it/gemini-in-home-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T06:09:15+00:00"
+    },
+    {
+      "titolo": "Microsoft, ennesimo scossone ai vertici: lascia un'altra veterana",
+      "descrizione": "Dopo circa 34 anni in azienda.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654455/microsoft-julia-liuson-licenzia-capo-sviluppatori/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T05:35:00+00:00"
+    },
+    {
+      "titolo": "Opel Corsa: ad aprile c'è uno sconto fino al 36%, ma non per tutti",
+      "descrizione": "La Opel Corsa Edition 1.2 benzina è oggetto di una promozione che taglia il prezzo di ben 7.650 euro, ma solo per chi acquista con rottamazione e finanziamento vetture in pronta consegna.",
+      "link": "https://www.hdmotori.it/opel-corsa-aprile-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T05:30:36+00:00"
+    },
+    {
+      "titolo": "Top Paramount+ Coupon Codes and Deals for April 2026",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T05:00:00+00:00"
+    },
+    {
+      "titolo": "20% Off LG Promo Code & Coupons | April 2026",
+      "descrizione": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T05:00:00+00:00"
+    },
+    {
+      "titolo": "Bartesian Discount Codes and Deals: Up to 35% Off",
+      "descrizione": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "link": "https://www.wired.com/story/bartesian-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T05:00:00+00:00"
+    },
+    {
+      "titolo": "Petlibro Discount Codes: Save Up to 50%",
+      "descrizione": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "link": "https://www.wired.com/story/petlibro-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-09T05:00:00+00:00"
+    },
     {
       "titolo": "Intel and SambaNova team up on heterogenous AI inference platform — different hardware performs different workloads",
       "descrizione": "Intel and SambaNova announce heterogeneous inference platform that can take advantage of Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs.",
@@ -35,139 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/da-llama-muse-spark-meta-prova-rientrare-corsa-all-ai-AIJ3guOC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-08T18:06:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Z TriFold torna in USA per l'ultima volta: Samsung annuncia il restock finale",
-      "descrizione": "Ultima chance dopo il sold-out del lancio e del restock di febbraio.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654444/samsung-galaxy-z-trifold-restock-usa-ultimo-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T18:05:00+00:00"
-    },
-    {
-      "titolo": "Microsoft Harrier: i modelli AI embedding che sfidano quelli di Google",
-      "descrizione": "Sembra che siano nuovi campioni dei benchmark di settore.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654451/microsoft-modelli-ai-harrier-benchmark-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T17:45:00+00:00"
-    },
-    {
-      "titolo": "Google Gemini, in test una revisione del design potenzialmente controversa",
-      "descrizione": "Dovrebbe diventare tutto più colorato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654397/google-gemini-test-novita-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T17:40:00+00:00"
-    },
-    {
-      "titolo": "Claude diventa un cacciatore di vulnerabilità: ecco Project Glasswing",
-      "descrizione": "Il modello è talmente potente che non sarà rilasciato al pubblico per ragioni di sicurezza. Ma potrebbe finire nelle mani del governo americano...",
-      "link": "https://www.hdblog.it/business/articoli/n654448/anthropic-claude-mythos-preview-project-glasswing/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T17:15:00+00:00"
-    },
-    {
-      "titolo": "Squali nascosti nella Opel Astra: trovarli a bordo diventa una caccia al tesoro",
-      "descrizione": "Sulla nuova serie di Opel Astra si trovano nascosti alla vista diversi squali che stimolano una curiosa ricerca",
-      "link": "https://www.hdmotori.it/squali-nascosti-opel-astra/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T17:00:36+00:00"
-    },
-    {
-      "titolo": "Microsoft Copilot: nuova app è un duplicato di Edge",
-      "descrizione": "La nuova app Copilot per Windows 11 include una copia privata di Microsoft Edge e occupa fino a 1 GB di RAM durante l'esecuzione. The post Microsoft Copilot: nuova app è un duplicato di Edge appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/microsoft-copilot-nuova-app-duplicato-edge/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T16:39:20+00:00"
-    },
-    {
-      "titolo": "Stellantis, intesa con Leapmotor per il nuovo SUV elettrico di Opel",
-      "descrizione": "Il futuro di Opel è a Saragozza: dal 2028 pronto il nuovo SUV elettrico con cuore Leapmotor. Piano da 50.000 unità l'anno",
-      "link": "https://www.hdmotori.it/stellantis-leapmotor-suv-elettrico-opel-saragozza/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T16:30:11+00:00"
-    },
-    {
-      "titolo": "Vecchi smartphone diventano risorse facendo la spesa: l'iniziativa di COOP",
-      "descrizione": "Ecco il progetto “Piccoli RAEE, grande COOP”.",
-      "link": "https://www.hdblog.it/green/articoli/n654427/vecchi-smartphone-risorse-spesa-iniziativa-coop/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T16:25:00+00:00"
-    },
-    {
-      "titolo": "iPhone Fold, Samsung fornitrice esclusiva del display per 3 anni",
-      "descrizione": "Sostanzialmente scelta obbligata per Apple: nessuna concorrente è al livello di Samsung.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654436/iphone-fold-samsung-fornitura-esclusiva-display/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T16:05:00+00:00"
-    },
-    {
-      "titolo": "BMW vuole salvare il cambio manuale sulle sportive M: ci riuscirà?",
-      "descrizione": "Il cambio manuale BMW sta scomparendo: tra emissioni CO2 e costi di produzione, il tempo stringe e le attuali M2 e M4 sono l'ultima chiamata",
-      "link": "https://www.hdmotori.it/bmw-m-cambio-manuale-quale-futuro/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T16:00:22+00:00"
-    },
-    {
-      "titolo": "La nuova arma imbattibile del Regno Unito: colpi laser a soli 12 euro",
-      "descrizione": "La Royal Navy installerà il laser DragonFire sui cacciatorpediniere entro il 2027 per droni e mortai.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654332/dragonfire-laser-royal-navy-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T15:55:00+00:00"
-    },
-    {
-      "titolo": "Mozziconi di sigaretta sulle spiagge italiane, Legambiente chiede più controlli",
-      "descrizione": "Bisogna intervenire al più presto.",
-      "link": "https://www.hdblog.it/green/articoli/n654411/mozziconi-sigaretta-spiagge-italiane-legambiente/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T15:50:00+00:00"
-    },
-    {
-      "titolo": "The Next Attorney General Will Probably Be an Election Denier",
-      "descrizione": "Pam Bondi’s DOJ left election deniers frothing for more. Potential candidates for the attorney general job could give them what they want.",
-      "link": "https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/",
-      "fonte": "WIRED",
-      "data": "2026-04-08T15:00:00+00:00"
-    },
-    {
-      "titolo": "Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China — Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution",
-      "descrizione": "Megaspeed gets final nail in its coffin after Bridge Data Centers cancels its tenancy and replaces it with U.S.-based Zenplayer.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-08T14:47:54+00:00"
-    },
-    {
-      "titolo": "Social vietati ai minori di 15 anni: interviene il governo?",
-      "descrizione": "Nonostante cinque disegni di legge fermi in Parlamento da quasi due anni, il governo ha preparato una sua versione che vieta i social agli under 15. The post Social vietati ai minori di 15 anni: interviene il governo? ap",
-      "link": "https://www.punto-informatico.it/social-vietati-ai-minori-15-anni-interviene-governo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T14:33:07+00:00"
-    },
-    {
-      "titolo": "I tested the Suunto Spark earbuds for a month: Why air conduction audio is a winner",
-      "descrizione": "Suunto's new air conduction earbuds have replaced my bone conduction headphones during workouts, especially when I want a better audio experience.",
-      "link": "https://www.zdnet.com/article/suunto-spark-review/",
-      "fonte": "Latest news",
-      "data": "2026-04-08T14:00:36+00:00"
-    },
-    {
-      "titolo": "Ban VPN in Russia blocca app bancarie e Pavel Durov ride",
-      "descrizione": "A causa dell'eccessivo filtraggio per bloccare l'uso delle VPN, il governo russo ha mandato in tilt i sistemi di pagamento digitali delle banche. The post Ban VPN in Russia blocca app bancarie e Pavel Durov ride appeared",
-      "link": "https://www.punto-informatico.it/ban-vpn-russia-blocca-app-bancarie-pavel-durov-ride/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T13:36:24+00:00"
-    },
-    {
-      "titolo": "Lancia un sito web con Hostinger: da 11,99 a soli 2,99€ con dominio incluso",
-      "descrizione": "Nuova promozione Hostinger, che ti permette di sottoscrivere il piano Premium con uno sconto del 75% e accedere così a decine di strumenti. The post Lancia un sito web con Hostinger: da 11,99 a soli 2,99€ con dominio inc",
-      "link": "https://www.punto-informatico.it/lancia-un-sito-web-con-hostinger-da-1199-a-soli-299e-con-dominio-incluso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T13:31:52+00:00"
-    },
-    {
-      "titolo": "Attacco DNS hijacking: FBI neutralizza FrostArmada",
-      "descrizione": "L'FBI ha inviato comandi a numerosi router negli USA per resettare le impostazioni DNS e scollegarli dalla rete gestita dai cybercriminali russi. The post Attacco DNS hijacking: FBI neutralizza FrostArmada appeared first",
-      "link": "https://www.punto-informatico.it/attacco-dns-hijacking-fbi-neutralizza-frostarmada/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T12:41:36+00:00"
     }
   ]
 }
