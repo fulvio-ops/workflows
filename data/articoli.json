@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-04-08T19:40:54.596774+00:00",
+  "last_updated": "2026-04-09T03:29:30.379679+00:00",
   "items": [
+    {
+      "titolo": "Intel and SambaNova team up on heterogenous AI inference platform — different hardware performs different workloads",
+      "descrizione": "Intel and SambaNova announce heterogeneous inference platform that can take advantage of Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-08T19:45:25+00:00"
+    },
     {
       "titolo": "How to add EPUB, MOBI, and PDF files to your Kindle - follow my easy step-by-step",
       "descrizione": "Struggling to transfer ebooks to your Kindle? Here's the step-by-step process for moving EPUB, MOBI, and PDF files to both new and old Kindle devices via both USB and Amazon's cloud.",
       "link": "https://www.zdnet.com/article/how-to-add-epub-mobi-and-pdf-files-to-your-kindle-no-converting-required/",
       "fonte": "Latest news",
-      "data": "2026-04-08T19:24:57+00:00"
+      "data": "2026-04-08T19:24:00+00:00"
+    },
+    {
+      "titolo": "Recensione Vivo X300 Ultra: Il vero cameraphone arriva finalmente in Italia | VIDEO",
+      "descrizione": "Abbiamo provato il nuovo X300 Ultra di vivo, uno smartphone che si candida come miglior camera-phone in commercio. Vi raccontiamo pregi e difetti nella recensione completa.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n653691/recensione-vivo-x300-ultra-foto/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-08T19:01:00+00:00"
     },
     {
       "titolo": "Samsung Exynos 2700: spuntano i primi benchmark del chip dei Galaxy S27",
@@ -105,20 +119,6 @@
       "link": "https://www.hdblog.it/green/articoli/n654411/mozziconi-sigaretta-spiagge-italiane-legambiente/",
       "fonte": "HDblog.it",
       "data": "2026-04-08T15:50:00+00:00"
-    },
-    {
-      "titolo": "AI senza cloud: ASUS UGEN300 è un motore da 40 TOPS che si collega via USB",
-      "descrizione": "È un motore AI portatile che si collega con un cavo USB-C: all'interno di ASUS UGEN300 ci sono un processore da 40 TOPS e 8 GB di RAM.",
-      "link": "https://www.hdblog.it/hardware/articoli/n654417/ai-senza-cloud-asus-ugen300-collega-cavo-usb/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T15:40:00+00:00"
-    },
-    {
-      "titolo": "Auto elettriche rottamate valgono il 18% più delle termiche: lo studio che lo dimostra",
-      "descrizione": "Uno studio sulle EV demolite dice che la tecnologia di alcuni componenti, se ancora riutilizzabili, varrebbero più di quelli delle termiche",
-      "link": "https://www.hdmotori.it/auto-elettriche-rottamate-valore/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-08T15:30:54+00:00"
     },
     {
       "titolo": "The Next Attorney General Will Probably Be an Election Denier",
