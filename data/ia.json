@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-04-09T07:56:03.192728+00:00",
+  "last_updated": "2026-04-09T14:15:05.611000+00:00",
   "items": [
     {
-      "titolo": "L'app di Tubi in ChatGPT per chiedere all'AI cosa guardare",
-      "descrizione": "Tubi ha lanciato la sua applicazione all'interno di ChatGPT: alla scoperta di cosa guardare conversando con l'intelligenza artificiale.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n654471/app-tubi-chatgpt-chiedere-cosa-guardare/",
+      "titolo": "Skyscanner sbarca su ChatGPT: prenotate i voli con l'AI",
+      "descrizione": "Un dialogo fluido in chat con l'AI per prenotare un volo.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654546/skyscanner-sbarca-chatgpt-voli-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-04-09T07:45:00+00:00",
+      "data": "2026-04-09T13:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Copilot: nuova app è un duplicato di Edge",
-      "descrizione": "La nuova app Copilot per Windows 11 include una copia privata di Microsoft Edge e occupa fino a 1 GB di RAM durante l'esecuzione. The post Microsoft Copilot: nuova app è un duplicato di Edge appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/microsoft-copilot-nuova-app-duplicato-edge/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-08T16:39:20+00:00",
+      "titolo": "Microsoft 365 Copilot migliora ancora in Word, soprattutto per i professionisti",
+      "descrizione": "Soprattutto quelli che devono tracciare e documentare ogni modifica apportata a documenti sensibili.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654551/microsoft-copilot-word-365-novita-documenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-09T12:35:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Muse Spark è realtà: ecco come Meta vuole superare GPT e Gemini",
-      "descrizione": "Meta rilascia Muse Spark, un modello AI multimodale e avanzato per competere con i leader del settore.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654466/meta-muse-spark-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T07:10:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Corte d’appello Usa respinge il ricorso di Anthropic contro il Pentagono",
-      "descrizione": "La corte d’appello federale di Washington, negli Stati Uniti, ha respinto il ricorso di Anthropic contro il Pentagono . La disputa riguarda la classificazione della compagnia tecnologica come un...",
-      "link": "https://www.ilsole24ore.com/art/corte-d-appello-usa-respinge-ricorso-anthropic-contro-pentagono-AItKtIPC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-09T07:23:00+00:00",
+      "titolo": "Anthropic rimane nella blacklist del Pentagono",
+      "descrizione": "Un tribunale del District of Columbia ha respinto la richiesta di sospensione della designazione, quindi Anthropic rimane nella blacklist del Pentagono. The post Anthropic rimane nella blacklist del Pentagono appeared fi",
+      "link": "https://www.punto-informatico.it/anthropic-rimane-blacklist-pentagono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-09T08:42:39+00:00",
       "modello": "claude"
     },
     {
