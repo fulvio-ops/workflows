@@ -1,19 +1,145 @@
 {
-  "last_updated": "2026-04-10T13:51:13.146897+00:00",
+  "last_updated": "2026-04-10T19:13:31.698372+00:00",
   "items": [
     {
-      "titolo": "Recensione Galaxy A57: il medio gamma di Samsung che diventa più sottile e leggero | VIDEO",
-      "descrizione": "Abbiamo provato il nuovo Samsung Galaxy A57, un medio gamma che potrebbe diventare un fantastico acquisto appena calerà di prezzo.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n653745/recensione-samsung-galaxy-a57/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T13:31:00+00:00"
+      "titolo": "I used this EcoFlow battery to run my 3,000-sq-ft home in a blackout - here's how it kept my AC on",
+      "descrizione": "Many backup systems keep essentials online, but the EcoFlow Delta Pro Ulta X can run your house like normal without interruption.",
+      "link": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
+      "fonte": "Latest news",
+      "data": "2026-04-10T18:30:43+00:00"
     },
     {
-      "titolo": "Snap amplia intesa con Qualcomm: gli Specs saranno più potenti e intelligenti",
-      "descrizione": "Un accordo a lungo termine porta le soluzioni Snapdragon XR sulle future generazioni di Specs",
-      "link": "https://www.hdblog.it/indossabili/articoli/n654701/snap-espande-collaborazione-qualcomm/",
+      "titolo": "NVIDIA N1, l'atteso chip per PC ARM avvistato per la prima volta su motherboard",
+      "descrizione": "Un prototipo di scheda madre è comparso sulla piattaforma di annunci privati Goofish.",
+      "link": "https://www.hdblog.it/hardware/articoli/n654744/nvidia-n1-chip-arm-mediatek-avvistato-motherboard/",
       "fonte": "HDblog.it",
-      "data": "2026-04-10T13:05:00+00:00"
+      "data": "2026-04-10T18:05:00+00:00"
+    },
+    {
+      "titolo": "Intel, grande ritorno: capitalizzazione sopra i 300 miliardi per la prima volta in 20 anni",
+      "descrizione": "L'impennata nell'arco di poco più di un anno.",
+      "link": "https://www.hdblog.it/hardware/articoli/n654741/intel-risalita-azioni-capitalizzazione-valore/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T17:25:00+00:00"
+    },
+    {
+      "titolo": "iOS 26.4 brings essential upgrades to your iPhone - including a vital security fix",
+      "descrizione": "But a new and improved Siri isn't coming until a few more months.",
+      "link": "https://www.zdnet.com/article/apple-ios-26-4-new-features-siri/",
+      "fonte": "Latest news",
+      "data": "2026-04-10T17:04:00+00:00"
+    },
+    {
+      "titolo": "Your router may be vulnerable to Russian hackers, FBI warns: 5 steps to take now",
+      "descrizione": "The FBI and NSA warn that Russian hackers are exploiting vulnerable routers, but there are ways you can take to protect yourself.",
+      "link": "https://www.zdnet.com/article/router-vulnerable-russian-hackers-fbi-warning/",
+      "fonte": "Latest news",
+      "data": "2026-04-10T16:41:14+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A37 e A57 disponibili ufficialmente in Italia da oggi",
+      "descrizione": "Prezzi da 449€.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654730/samsung-galaxy-a37-a57-disponibili-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T16:25:00+00:00"
+    },
+    {
+      "titolo": "This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones",
+      "descrizione": "Škoda's DuoBell is designed to avoid collisions between cyclists and pedestrians preoccupied by their podcasts.",
+      "link": "https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T16:21:05+00:00"
+    },
+    {
+      "titolo": "Attacco a CPUID: malware in CPU-Z e HWMonitor",
+      "descrizione": "Ignoti cybercriminali (forse di origine russa) hanno cambiato i link per il download di CPU-Z e HWMonitor sul sito ufficiale per distribuire un malware. The post Attacco a CPUID: malware in CPU-Z e HWMonitor appeared fir",
+      "link": "https://www.punto-informatico.it/attacco-cpuid-malware-cpu-z-hwmonitor/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-10T16:18:01+00:00"
+    },
+    {
+      "titolo": "Khaby Lame e l'accordo da un miliardo di $, c’è qualcosa che non quadra",
+      "descrizione": "Che cosa si nasconde dietro l'operazione?",
+      "link": "https://www.hdblog.it/mercato/articoli/n654717/khaby-lame-accordo-stranezze/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T16:15:00+00:00"
+    },
+    {
+      "titolo": "Stellantis torna a correre: produzione Italia 2026 in crescita del 9,5%",
+      "descrizione": "Produzione in rialzo e quote di mercato al 17,5% in Europa. Mentre Melfi vola al +92%, lo stabilimento di Cassino soffre la transizione",
+      "link": "https://www.hdmotori.it/stellantis-produzione-italia-2026-dati-fim-cisl/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T16:00:18+00:00"
+    },
+    {
+      "titolo": "Energia pulita o armi elettroniche dallo spazio? Il piano di Pechino",
+      "descrizione": "Progetto cinese per centrali solari spaziali con funzioni di difesa e guerra elettronica.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654513/energia-solare-spaziale-cina-difesa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T15:55:00+00:00"
+    },
+    {
+      "titolo": "Crisi delle memorie, la Corea del Sud risponde con PC gratuiti e riforme",
+      "descrizione": "Impegno sociale ed economico.",
+      "link": "https://www.hdblog.it/mercato/articoli/n654710/crisi-memorie-corea-sud-riforme/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T15:25:00+00:00"
+    },
+    {
+      "titolo": "Inquinamento Italia: emissioni in calo grazie a rinnovabili ed efficienza energetica",
+      "descrizione": "I dati ISPRA.",
+      "link": "https://www.hdblog.it/green/articoli/n654705/inquinamento-italia-ispra-emissioni-calo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T15:05:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen, ancora polemiche per la flotta di aerei privati per i dirigenti",
+      "descrizione": "Volkswagen vanta aerei per gli spostamenti ad alta quota dei suoi alti dirigenti. In Germania si è alzato un polverone in tempi di crisi",
+      "link": "https://www.hdmotori.it/volkswagen-flotta-aerei-privati-dirigenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T15:00:23+00:00"
+    },
+    {
+      "titolo": "AI e cinema: la presidente di Cannes ha le idee chiare, ma ha anche ragione?",
+      "descrizione": "La presidente del Festival di Cannes prende posizione sull'impiego dell'AI nel mondo del cinema: non si può lasciare che detti le regole.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n654708/ai-cinema-presidente-cannes-idee-chiare/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T14:55:00+00:00"
+    },
+    {
+      "titolo": "Crimson Desert, cosa cambia nei prossimi 3 mesi: ecco le novità",
+      "descrizione": "Nuovi livelli di difficoltà, nuovi costumi, nuovi pet, c'è un po' di tutto!",
+      "link": "https://www.hdblog.it/games/articoli/n654707/crimson-desert-novita-difficolta-boss-costumi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T14:45:00+00:00"
+    },
+    {
+      "titolo": "Honda sotto accusa per problemi alla vernice. Non è la prima volta",
+      "descrizione": "Honda nell'occhio del ciclo, scoppia un contenzioso negli Stati Uniti per il deterioramento delle vernici bianche",
+      "link": "https://www.hdmotori.it/honda-causa-legale-qualita-carrozzeria-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T14:30:19+00:00"
+    },
+    {
+      "titolo": "Artemis II, conto alla rovescia per il ritorno sulla terra: ammaraggio alle 2:07",
+      "descrizione": "Si conclude la missione della Nasa che preparerà il ritorno sulla Luna. Con non poche novità scientifiche come bottino",
+      "link": "https://www.ilsole24ore.com/art/artemis-ii-conto-rovescia-il-ritorno-terra-ammaraggio-207-AIeJw4QC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-10T14:21:02+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Flip 8, primi render: stesso design con una sola novità",
+      "descrizione": "I primi render CAD del Galaxy Z Flip 8 mostrano un dispositivo che cambia pochissimo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654711/samsung-galaxy-z-flip-8-primi-render/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T14:07:00+00:00"
+    },
+    {
+      "titolo": "Mercato usato: boom per i motocicli, numeri positivi anche per le auto",
+      "descrizione": "La crescita del mercato di seconda mano dei veicoli non sorprende. Con il rialzo dei costi del nuovo sempre più italiani ripiegano sull’usato",
+      "link": "https://www.hdmotori.it/mercato-usato-motocicli-auto-marzo-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T14:00:56+00:00"
     },
     {
       "titolo": "French government says it's ditching Windows for Linux — country accelerates plans to ditch US-based software in digital sovereignty push",
@@ -23,46 +149,11 @@
       "data": "2026-04-10T12:41:30+00:00"
     },
     {
-      "titolo": "Huawei Pura 90 Pro pronto per il debutto: ecco cosa sappiamo",
-      "descrizione": "Lo smartphone sarà presentato in Cina assieme al Huawei Pura 90 Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654692/huawei-pura-90-pro-debutto-cosa-sappiamo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T12:40:00+00:00"
-    },
-    {
-      "titolo": "MediaWorld No IVA, ultima occasione: le offerte top valide fino al 12 aprile",
-      "descrizione": "Tra televisori, smartphone compatti e cuffie le possibilità di portare a casa un acquisto vantaggioso sono alte.",
-      "link": "https://www.hdblog.it/mediaworld/offerte/n654685/mediaworld-no-iva-offerte-valide-fino-al-12-aprile/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T12:34:00+00:00"
-    },
-    {
-      "titolo": "YouTube Premium, su i prezzi: rincari fino a 4 dollari al mese",
-      "descrizione": "Google aumenta i prezzi di YouTube Premium negli Stati Uniti con rincari fino a 4 dollari al mese. Possibili aumenti anche in Italia, dove i prezzi per ora restano stabili",
-      "link": "https://www.hdblog.it/google/articoli/n654696/youtube-premium-google-rincara-i-prezzi-abbonamenti-su-fino-a-4-dollari-mese/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T12:20:00+00:00"
-    },
-    {
       "titolo": "Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472%",
       "descrizione": "Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%.",
       "link": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-10T12:20:00+00:00"
-    },
-    {
-      "titolo": "Asus punta su AI e leggerezza: ecco i nuovi Zenbook A14 e A16",
-      "descrizione": "Asus lancia in Italia Zenbook A14 e annuncia A16: laptop AI con processori Snapdragon X2, design in Ceraluminum e autonomia fino a oltre 30 ore per lavorare ovunque",
-      "link": "https://www.hdblog.it/portatili/articoli/n654690/asus-zenbook-a14-a16-specifiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T12:10:00+00:00"
-    },
-    {
-      "titolo": "Alonso alla guida della papamobile? La possibilità dopo il primo rifiuto del Vaticano",
-      "descrizione": "Nel 2011 Alonso vide negata la possibilità di guidare Benedetto XVI durante la Giornata Mondiale della Gioventù. Ora tutto potrebbe cambiare",
-      "link": "https://www.hdmotori.it/alonso-guida-papamobile-vaticano/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T12:00:49+00:00"
     },
     {
       "titolo": "Mozilla contro la strategia AI di Microsoft, ma è una polemica sterile",
@@ -72,102 +163,11 @@
       "data": "2026-04-10T11:59:18+00:00"
     },
     {
-      "titolo": "Le pensiline per auto possono produrre energia pulita",
-      "descrizione": "PowerPark Pro introduce quattro modelli di pensiline fotovoltaiche con diverse inclinazioni e design, pensati per massimizzare efficienza e facilità di installazione in vari contesti",
-      "link": "https://www.hdblog.it/green/articoli/n654683/pensiline-solari-parcheggi-auto-energia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T11:35:00+00:00"
-    },
-    {
       "titolo": "Meta amplia le protezioni per i teenager su Instagram con un nuovo aggiornamento",
       "descrizione": "La novità, dedicata agli adolescenti e ai loro genitori, si impegna a mostrare agli utenti minorenni gli stessi contenuti che vedrebbero in un film adatto per la loro età ...",
       "link": "https://www.ilsole24ore.com/art/meta-amplia-protezioni-i-teenager-instagram-un-nuovo-aggiornamento-AI1pGZQC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-10T11:32:00+00:00"
-    },
-    {
-      "titolo": "YouTube e le pubblicità da 90 secondi senza skip: qualcuno sta mentendo",
-      "descrizione": "Gli utenti affermano di aver visto pubblicità di 90 secondi su YouTube in TV, senza possibilità di skip, ma la piattaforma smentisce.",
-      "link": "https://www.hdblog.it/google/articoli/n654657/youtube-pubblicita-90-secondi-senza-skip/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T11:25:00+00:00"
-    },
-    {
-      "titolo": "Attacchi informatici, Italia sopra la media globale: cresce il rischio legato alla GenAI",
-      "descrizione": "Nel mese di marzo 2.424 attacchi informatici a settimana",
-      "link": "https://www.hdblog.it/business/articoli/n654680/attacchi-informatici-italia-sopra-media-globale/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T11:20:00+00:00"
-    },
-    {
-      "titolo": "Embattled streamer goes viral after playing Red Dead Redemption 2 at 4 FPS — ‘i5-8300H and a 1050ti with 4GB’ setup takes 12 hours to play through the first chapter, would make the game 471 hours long",
-      "descrizione": "Prolific Danish YouTuber Mongo TV recently went viral, with his video series showing him ‘enjoying’ RDR2 at a glacial 4 FPS.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/embattled-streamer-goes-viral-after-playing-red-dead-redemption-2-at-4-fps-i5-8300h-and-a-1050ti-with-4gb-setup-takes-12-hours-to-play-through-the-first-chapter-would-make-the-game-471-hours-long",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-10T11:12:48+00:00"
-    },
-    {
-      "titolo": "The Indie News Queen Who’s Not Done Pissing Off the Powerful",
-      "descrizione": "WIRED sat down with Democracy Now! host Amy Goodman to talk politics, AI, and the future of media. A documentary about her rise hits theaters today.",
-      "link": "https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/",
-      "fonte": "WIRED",
-      "data": "2026-04-10T11:00:00+00:00"
-    },
-    {
-      "titolo": "US cybersecurity agency issues an urgent alert as Iranian hackers attack critical infrastructure — CISA guidance warns organizations to immediately shield certain programmable logic controllers from the internet to thwar",
-      "descrizione": "The U.S. Cybersecurity and Infrastructure Security Agency, in conjunction with the FBI and NSA, have issued an alert that Iranian-affiliated cyber attacks are threatening critical infrastructure, exploiting programmable",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-cybersecurity-agency-issues-an-urgent-alert-as-iranian-hackers-attack-critical-infrastructure-cisa-guidance-warns-organizations-to-immediately-shield-certain-programmable-logic-controllers-from-the-internet-to-thwart-future-attacks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-10T10:40:00+00:00"
-    },
-    {
-      "titolo": "Google Chrome: attiva la protezione contro gli infostealer",
-      "descrizione": "A partire da Chrome 146 per Windows è disponibile una funzionalità che sfrutta la crittografia per impedire il furto dei cookie di sessioni da Chrome. The post Google Chrome: attiva la protezione contro gli infostealer a",
-      "link": "https://www.punto-informatico.it/google-chrome-attiva-protezione-contro-infostealer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T10:22:53+00:00"
-    },
-    {
-      "titolo": "Iliad Top 170 Plus: a 7,99€ al mese è la tariffa a prezzo bloccato da scegliere",
-      "descrizione": "La nuova offerta Iliad che include 170GB, minuti e SMS illimitati: puoi attivarla online. The post Iliad Top 170 Plus: a 7,99€ al mese è la tariffa a prezzo bloccato da scegliere appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/iliad-top-170-plus-a-799e-al-mese-e-la-tariffa-a-prezzo-bloccato-da-scegliere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T10:12:33+00:00"
-    },
-    {
-      "titolo": "La Francia dice addio a Windows: il governo punta su Linux per i PC pubblici",
-      "descrizione": "La Francia avvia il passaggio a Linux nei computer pubblici: piani entro il 2026 per ridurre la dipendenza da Windows. The post La Francia dice addio a Windows: il governo punta su Linux per i PC pubblici appeared first",
-      "link": "https://www.punto-informatico.it/la-francia-dice-addio-a-windows-il-governo-punta-su-linux-per-i-pc-pubblici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T09:50:44+00:00"
-    },
-    {
-      "titolo": "Set cacciaviti di precisione 115-in-1 a 6,58€: affare su Amazon Haul",
-      "descrizione": "Tutte le punte di cui avrai mai bisogno sono in questo set cacciaviti di precisione 115-in-1: lo trovi a prezzo stracciato su Amazon Haul. The post Set cacciaviti di precisione 115-in-1 a 6,58€: affare su Amazon Haul app",
-      "link": "https://www.punto-informatico.it/set-cacciaviti-precisione-115-in-1-affare-amazon-haul/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T09:10:04+00:00"
-    },
-    {
-      "titolo": "Hacker iraniani colpiscono infrastrutture negli USA",
-      "descrizione": "Hacker iraniani hanno effettuato attacchi informatici contro i PLC usati in alcuni impianti negli Stati Uniti per causare danni e perdite economiche. The post Hacker iraniani colpiscono infrastrutture negli USA appeared",
-      "link": "https://www.punto-informatico.it/hacker-iraniani-colpiscono-infrastrutture-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T09:03:46+00:00"
-    },
-    {
-      "titolo": "4 offerte LEGO su Amazon a prezzo stracciato",
-      "descrizione": "Proprio in questo momento su Amazon sono disponibili, salvo esaurimento scorte anticipato, 4 offerte LEGO a prezzo stracciato pazzesche. The post 4 offerte LEGO su Amazon a prezzo stracciato appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/4-offerte-lego-su-amazon-a-prezzo-stracciato/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T08:12:44+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S25 Ultra: zero rinunce, solo il meglio ora in offerta su eBay",
-      "descrizione": "Non fare rinunce ma risparmia con questa straordinaria occasione che trovi solo su eBay per avere il mitico Samsung Galaxy S25 Ultra. The post Samsung Galaxy S25 Ultra: zero rinunce, solo il meglio ora in offerta su eBay",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s25-ultra-zero-rinunce-solo-meglio-ora-offerta-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T07:37:28+00:00"
     }
   ]
 }

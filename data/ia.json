@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-10T13:51:16.467669+00:00",
+  "last_updated": "2026-04-10T19:13:35.739847+00:00",
   "items": [
     {
-      "titolo": "Gemini diventa interattivo: simulazioni e modelli 3D per capire meglio i concetti",
-      "descrizione": "Le risposte di Gemini non si fermano più al testo o a un’immagine esplicativa.",
-      "link": "https://www.hdblog.it/google/articoli/n654687/gemini-arrivano-simulazioni-interattive/",
+      "titolo": "Intel, grande ritorno: capitalizzazione sopra i 300 miliardi per la prima volta in 20 anni",
+      "descrizione": "L'impennata nell'arco di poco più di un anno.",
+      "link": "https://www.hdblog.it/hardware/articoli/n654741/intel-risalita-azioni-capitalizzazione-valore/",
       "fonte": "HDblog.it",
-      "data": "2026-04-10T11:50:00+00:00",
+      "data": "2026-04-10T17:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini diventa interattivo: simulazioni e modelli 3D per capire meglio i concetti",
-      "descrizione": "Le risposte di Gemini non si fermano più al testo o a un’immagine esplicativa.",
-      "link": "https://www.hdblog.it/google/articoli/n654687/gemini-arrivano-simulazioni-interattive/",
+      "titolo": "Gemini potrebbe rispondere anche offline su smartwatch Wear OS",
+      "descrizione": "Scoperta la nuova funzionalità esaminando il codice dell’ultima release.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n654721/gemini-risponde-offline-wear-os/",
       "fonte": "HDblog.it",
-      "data": "2026-04-10T11:50:00+00:00",
+      "data": "2026-04-10T15:40:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch — claims of 'thousands' of severe zero-days rely on just 198 manual reviews",
-      "descrizione": "Anthropic has convened America's big tech companies and the U.S. government to deal with the many bugs and vulnerabilities its new AI found, but this may be just the latest attempt by Anthropic to scare people into think",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-10T12:32:44+00:00",
+      "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "descrizione": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T18:08:37+00:00",
       "modello": "claude"
     },
     {
