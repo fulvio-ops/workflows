@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-09T19:38:45.232498+00:00",
+  "last_updated": "2026-04-10T03:42:24.771211+00:00",
   "items": [
+    {
+      "titolo": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "descrizione": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T00:19:53+00:00"
+    },
+    {
+      "titolo": "I tried CuerdOS and this niche Debian distro is dramatically fast",
+      "descrizione": "CuerdOS is a lightning-fast Linux distro with an alternative approach to preinstalled software. Here's what makes it so unique.",
+      "link": "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/",
+      "fonte": "Latest news",
+      "data": "2026-04-09T21:03:00+00:00"
+    },
+    {
+      "titolo": "Intel Arc GPUs can finally boot up and play 'Crimson Desert' — but you'll probably want to wait for official support",
+      "descrizione": "Intel's latest GPU driver is capable of booting Crimson Desert and can reportedly run at nearly 60 FPS at ultra settings on an Arc B580. But the game suffers from occasional crashing and visual artifacts.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-09T19:36:19+00:00"
+    },
     {
       "titolo": "Recensione Samsung Galaxy S26+, ha ancora senso nella lineup?",
       "descrizione": "Abbiamo provato per qualche giorno il nuovo Galaxy S26+ di Samsung, un prodotto ottimo, ma avrà ancora senso?",
@@ -21,13 +42,6 @@
       "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
       "fonte": "WIRED",
       "data": "2026-04-09T18:00:00+00:00"
-    },
-    {
-      "titolo": "I tested CuerdOS and its unique app lineup is even better than its blazing speed",
-      "descrizione": "CuerdOS is a niche Debian-based distro with a alternative approach to preinstalled software - and it's truly a breath of fresh air.",
-      "link": "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/",
-      "fonte": "Latest news",
-      "data": "2026-04-09T17:37:53+00:00"
     },
     {
       "titolo": "Jeremy Clarkson ignorava l'esistenza della Maserati Grecale, ma adesso la adora",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/tesla-nuovo-suv-elettrico-compatto-economico/",
       "fonte": "Punto Informatico",
       "data": "2026-04-09T12:00:45+00:00"
-    },
-    {
-      "titolo": "Aria di lusso in formato pocket: Dyson inventa il ventilatore portatile (e indossabile)",
-      "descrizione": "Il produttore britannico entra a modo suo in un nuovo mercato mettendo un motore a reazione sul comodino. Può anche essere indossato come una collana.",
-      "link": "https://www.ilsole24ore.com/art/aria-lusso-formato-pocket-dyson-inventa-ventilatore-portatile-e-indossabile-AIl9qLPC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-09T11:17:00+00:00"
-    },
-    {
-      "titolo": "How Meta Cafeteria Workers Took on ICE—and Won",
-      "descrizione": "In Seattle, activists inside tech giants are leaning into grassroots fundraising and peer support as petitions and protests draw little response from executives.",
-      "link": "https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/",
-      "fonte": "WIRED",
-      "data": "2026-04-09T11:00:00+00:00"
     }
   ]
 }
