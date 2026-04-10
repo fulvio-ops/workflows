@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-04-10T08:00:45.778084+00:00",
+  "last_updated": "2026-04-10T13:51:16.467669+00:00",
   "items": [
     {
-      "titolo": "Una grande capitale europea potrebbe eliminare l'auto: ipotesi referendum",
-      "descrizione": "Dalla proposta ardita al via libera della Corte: la sfida di Berlino per trasformare il centro urbano in un'oasi senz'auto",
-      "link": "https://www.hdmotori.it/auto-berlino-referendum/",
+      "titolo": "Gemini diventa interattivo: simulazioni e modelli 3D per capire meglio i concetti",
+      "descrizione": "Le risposte di Gemini non si fermano più al testo o a un’immagine esplicativa.",
+      "link": "https://www.hdblog.it/google/articoli/n654687/gemini-arrivano-simulazioni-interattive/",
       "fonte": "HDblog.it",
-      "data": "2026-04-10T07:30:29+00:00",
+      "data": "2026-04-10T11:50:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Corte d’appello Usa respinge ricorso Anthropic contro Pentagono",
-      "descrizione": "La compagnia rimane classificata come rischio per la sicurezza nazionale. Prevista una nuova udienza il 19 maggio",
-      "link": "https://www.ilsole24ore.com/art/corte-d-appello-usa-respinge-ricorso-anthropic-contro-pentagono-AItKtIPC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-09T07:23:00+00:00",
+      "titolo": "Gemini diventa interattivo: simulazioni e modelli 3D per capire meglio i concetti",
+      "descrizione": "Le risposte di Gemini non si fermano più al testo o a un’immagine esplicativa.",
+      "link": "https://www.hdblog.it/google/articoli/n654687/gemini-arrivano-simulazioni-interattive/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T11:50:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch — claims of 'thousands' of severe zero-days rely on just 198 manual reviews",
+      "descrizione": "Anthropic has convened America's big tech companies and the U.S. government to deal with the many bugs and vulnerabilities its new AI found, but this may be just the latest attempt by Anthropic to scare people into think",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-10T12:32:44+00:00",
       "modello": "claude"
     },
     {
