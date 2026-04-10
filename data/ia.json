@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-04-10T03:42:28.132704+00:00",
+  "last_updated": "2026-04-10T08:00:45.778084+00:00",
   "items": [
     {
-      "titolo": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-      "descrizione": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-      "fonte": "WIRED",
-      "data": "2026-04-10T00:19:53+00:00",
+      "titolo": "Una grande capitale europea potrebbe eliminare l'auto: ipotesi referendum",
+      "descrizione": "Dalla proposta ardita al via libera della Corte: la sfida di Berlino per trasformare il centro urbano in un'oasi senz'auto",
+      "link": "https://www.hdmotori.it/auto-berlino-referendum/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-10T07:30:29+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft riduce la presenza di Copilot partendo dal Blocco note",
-      "descrizione": "Rimossa l’icona dell’assistente AI con l’ultimo aggiornamento per gli iscritti a Windows Insider.",
-      "link": "https://www.hdblog.it/windows/articoli/n654591/microsoft-riduce-presenza-copilot-blocco-note/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-09T16:35:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Anthropic rimane nella blacklist del Pentagono",
-      "descrizione": "Un tribunale del District of Columbia ha respinto la richiesta di sospensione della designazione, quindi Anthropic rimane nella blacklist del Pentagono. The post Anthropic rimane nella blacklist del Pentagono appeared fi",
-      "link": "https://www.punto-informatico.it/anthropic-rimane-blacklist-pentagono/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-09T08:42:39+00:00",
+      "titolo": "Corte d’appello Usa respinge ricorso Anthropic contro Pentagono",
+      "descrizione": "La compagnia rimane classificata come rischio per la sicurezza nazionale. Prevista una nuova udienza il 19 maggio",
+      "link": "https://www.ilsole24ore.com/art/corte-d-appello-usa-respinge-ricorso-anthropic-contro-pentagono-AItKtIPC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-09T07:23:00+00:00",
       "modello": "claude"
     },
     {
