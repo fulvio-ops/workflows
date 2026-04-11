@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T07:18:24.555100+00:00",
+  "last_updated": "2026-04-11T13:31:35.689206+00:00",
   "items": [
     {
       "titolo": "Intel, grande ritorno: capitalizzazione sopra i 300 miliardi per la prima volta in 20 anni",
@@ -8,14 +8,6 @@
       "fonte": "HDblog.it",
       "data": "2026-04-10T17:25:00+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Gemini potrebbe rispondere anche offline su smartwatch Wear OS",
-      "descrizione": "Scoperta la nuova funzionalità esaminando il codice dell’ultima release.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n654721/gemini-risponde-offline-wear-os/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T15:40:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",

@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-04-11T07:18:20.729426+00:00",
+  "last_updated": "2026-04-11T13:31:32.452107+00:00",
   "items": [
+    {
+      "titolo": "Fiat Topolino Corallo: 4 edizioni speciali per la Design Week",
+      "descrizione": "Per le strade di Milano durante la Design Week saranno protagoniste quattro interpretazioni della Topolino Corallo realizzate in collaborazione con Gallo.",
+      "link": "https://www.hdmotori.it/fiat-topolino-corallo-milano-design-week/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T13:00:39+00:00"
+    },
+    {
+      "titolo": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
+      "descrizione": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
+      "link": "https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T11:40:00+00:00"
+    },
+    {
+      "titolo": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
+      "descrizione": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T11:00:00+00:00"
+    },
+    {
+      "titolo": "Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X",
+      "descrizione": "A research team at Specops benchmarked an RTX 5090, against two AI datacenter GPUs with Hashcat to see which GPU is the better password cracker. Spoiler alert, the RTX 5090 was the winner.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T10:20:00+00:00"
+    },
+    {
+      "titolo": "FAA a caccia di gamer: stipendio da 155 mila dollari per le torri di controllo",
+      "descrizione": "La FAA apre le assunzioni per controllori di volo puntando tutto sulle abilità dei videogiocatori.",
+      "link": "https://www.hdblog.it/games/articoli/n654755/faa-assunzioni-gamer-controllori-volo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T10:05:00+00:00"
+    },
+    {
+      "titolo": "Vespa ET4 Scuderia Ferrari all'asta: Schumi la guidava tra i box",
+      "descrizione": "Nel 2001 era il \"mezzo di servizio\" di Schumacher e della Ferrari nel paddock. Oggi la Vespa ET4 Scuderia Ferrari va all’asta da Sotheby’s",
+      "link": "https://www.hdmotori.it/asta-sothebys-vespa-ferrari-schumacher-2001/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T10:00:10+00:00"
+    },
+    {
+      "titolo": "Teams corregge il difetto più fastidioso delle chiamate online",
+      "descrizione": "Microsoft Teams permetterà di testare microfono e casse con un riascolto audio prima dei meeting.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654752/funzione-riascolto-audio-microsoft-teams/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T09:05:00+00:00"
+    },
+    {
+      "titolo": "Addio difesa passiva: il piano giapponese per invadere il cielo di droni",
+      "descrizione": "Il Giappone punta su droni kamikaze e missili low-cost per potenziare la propria capacità di attacco.",
+      "link": "https://www.hdblog.it/droni/articoli/n654653/giappone-droni-kamikaze-difesa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T08:05:00+00:00"
+    },
+    {
+      "titolo": "Pauroso schianto per una Ford GT: ridotta in pezzi",
+      "descrizione": "Un incidente spaventoso ha causato dei danni pesanti a un esemplare di Ford GT sulle strade di Sacramento, in California",
+      "link": "https://www.hdmotori.it/schianto-ford-gt-in-pezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T08:00:48+00:00"
+    },
+    {
+      "titolo": "Suzuki eVitara: la prima elettrica del marchio giapponese - Video",
+      "descrizione": "La Suzuki eVitara è la prima 100% elettrica della casa giapponese: con 184 CV di potenza è la più performante della gamma Vitara e con la trazione integrale Allgrip-e sfrutta due...",
+      "link": "https://www.hdmotori.it/prove/suzuki-vitara-elettrica-prova-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T07:30:55+00:00"
+    },
     {
       "titolo": "Esplosione di nuovi canali sul digitale terrestre: aggiornata la numerazione LCN",
       "descrizione": "La piattaforma digitale terrestre si aggiorna arricchendosi di nuovi canali e aggiornando la sua numerazione LCN nazionale in tutta Italia. The post Esplosione di nuovi canali sul digitale terrestre: aggiornata la numera",
@@ -93,81 +163,11 @@
       "data": "2026-04-10T16:15:00+00:00"
     },
     {
-      "titolo": "Stellantis torna a correre: produzione Italia 2026 in crescita del 9,5%",
-      "descrizione": "Produzione in rialzo e quote di mercato al 17,5% in Europa. Mentre Melfi vola al +92%, lo stabilimento di Cassino soffre la transizione",
-      "link": "https://www.hdmotori.it/stellantis-produzione-italia-2026-dati-fim-cisl/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T16:00:18+00:00"
-    },
-    {
-      "titolo": "Energia pulita o armi elettroniche dallo spazio? Il piano di Pechino",
-      "descrizione": "Progetto cinese per centrali solari spaziali con funzioni di difesa e guerra elettronica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n654513/energia-solare-spaziale-cina-difesa/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T15:55:00+00:00"
-    },
-    {
-      "titolo": "Crisi delle memorie, la Corea del Sud risponde con PC gratuiti e riforme",
-      "descrizione": "Impegno sociale ed economico.",
-      "link": "https://www.hdblog.it/mercato/articoli/n654710/crisi-memorie-corea-sud-riforme/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T15:25:00+00:00"
-    },
-    {
-      "titolo": "Inquinamento Italia: emissioni in calo grazie a rinnovabili ed efficienza energetica",
-      "descrizione": "I dati ISPRA.",
-      "link": "https://www.hdblog.it/green/articoli/n654705/inquinamento-italia-ispra-emissioni-calo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T15:05:00+00:00"
-    },
-    {
-      "titolo": "Volkswagen, ancora polemiche per la flotta di aerei privati per i dirigenti",
-      "descrizione": "Volkswagen vanta aerei per gli spostamenti ad alta quota dei suoi alti dirigenti. In Germania si è alzato un polverone in tempi di crisi",
-      "link": "https://www.hdmotori.it/volkswagen-flotta-aerei-privati-dirigenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T15:00:23+00:00"
-    },
-    {
-      "titolo": "AI e cinema: la presidente di Cannes ha le idee chiare, ma ha anche ragione?",
-      "descrizione": "La presidente del Festival di Cannes prende posizione sull'impiego dell'AI nel mondo del cinema: non si può lasciare che detti le regole.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n654708/ai-cinema-presidente-cannes-idee-chiare/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T14:55:00+00:00"
-    },
-    {
-      "titolo": "Crimson Desert, cosa cambia nei prossimi 3 mesi: ecco le novità",
-      "descrizione": "Nuovi livelli di difficoltà, nuovi costumi, nuovi pet, c'è un po' di tutto!",
-      "link": "https://www.hdblog.it/games/articoli/n654707/crimson-desert-novita-difficolta-boss-costumi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T14:45:00+00:00"
-    },
-    {
       "titolo": "Artemis II, conto alla rovescia per il ritorno sulla terra: ammaraggio alle 2:07",
       "descrizione": "Si conclude la missione della Nasa che preparerà il ritorno sulla Luna. Con non poche novità scientifiche come bottino",
       "link": "https://www.ilsole24ore.com/art/artemis-ii-conto-rovescia-il-ritorno-terra-ammaraggio-207-AIeJw4QC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-10T14:21:02+00:00"
-    },
-    {
-      "titolo": "French government says it's ditching Windows for Linux — country accelerates plans to ditch US-based software in digital sovereignty push",
-      "descrizione": "France is accelerating its digital sovereignty plans. In an official press release this week, the country’s DINUM announced its “exit from Windows in favor of workstations running on the Linux operating system.”",
-      "link": "https://www.tomshardware.com/software/windows/french-government-say-its-ditching-windows-for-linux-country-accelerates-plans-to-ditch-us-based-software-in-digital-sovereignty-push",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-10T12:41:30+00:00"
-    },
-    {
-      "titolo": "Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472%",
-      "descrizione": "Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-10T12:20:00+00:00"
-    },
-    {
-      "titolo": "Mozilla contro la strategia AI di Microsoft, ma è una polemica sterile",
-      "descrizione": "L'accusa di Mozilla è rivolta a Microsoft e alla sua strategia sull'intelligenza artificiale: cambia idea solo con le proteste degli utenti. The post Mozilla contro la strategia AI di Microsoft, ma è una polemica sterile",
-      "link": "https://www.punto-informatico.it/mozilla-strategia-ai-microsoft-polemica-sterile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T11:59:18+00:00"
     }
   ]
 }
