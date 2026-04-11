@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T13:31:35.689206+00:00",
+  "last_updated": "2026-04-11T19:06:06.413965+00:00",
   "items": [
     {
       "titolo": "Intel, grande ritorno: capitalizzazione sopra i 300 miliardi per la prima volta in 20 anni",
@@ -8,6 +8,14 @@
       "fonte": "HDblog.it",
       "data": "2026-04-10T17:25:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots",
+      "descrizione": "Microsoft’s Clippy was put out to pasture a quarter century ago. This hapless, and some would add ‘irritating,’ productivity assistant would no longer be enabled by default in Office, starting April 11, 2001.",
+      "link": "https://www.tomshardware.com/software/windows/clippy-microsofts-hapless-office-assistant-was-retired-25-years-ago-today-its-irritating-spirit-lives-on-in-100-copilots",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T16:27:37+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",

@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-11T13:31:32.452107+00:00",
+  "last_updated": "2026-04-11T19:06:00.299402+00:00",
   "items": [
+    {
+      "titolo": "Rockstar Games confirms it was hacked by malicious group — 'ShinyHunters' takes credit, gives until April 14 to pay ransom or risk leaking confidential data, 'ShinyHunters'",
+      "descrizione": "The hacker group \"Shiny Hunters\" has been able to breach Rockstar Games by accessing authentication tokens and getting inside the company's cloud infrastructure. The stolen data doesn't include any sensitive company or p",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/rockstar-games-confirms-it-was-hacked-by-malicious-group-shinyhunters-takes-credit-gives-until-april-14-to-pay-ransom-or-risk-leaking-confidential-data-shinyhunters",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T18:05:43+00:00"
+    },
+    {
+      "titolo": "Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market",
+      "descrizione": "Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media.",
+      "link": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-11T15:40:40+00:00"
+    },
+    {
+      "titolo": "Pavel Durov: la crittografia di WhatsApp è una frode",
+      "descrizione": "Secondo Pavel Durov (CEO di Telegram), la crittografia end-to-end di WhatsApp è la più grande frode ai danni dei consumatori della storia. The post Pavel Durov: la crittografia di WhatsApp è una frode appeared first on P",
+      "link": "https://www.punto-informatico.it/pavel-durov-crittografia-whatsapp-frode/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-11T14:58:30+00:00"
+    },
+    {
+      "titolo": "Ultima occasione promo pCloud: -68% sul cloud Family e password manager gratis",
+      "descrizione": "L'offerta di Pasqua pCloud sta per scadere: ottieni sconti fino al 68% su tutti i piani a vita Family, più pCloud Family Pass in omaggio. The post Ultima occasione promo pCloud: -68% sul cloud Family e password manager g",
+      "link": "https://www.punto-informatico.it/ultima-occasione-promo-pcloud-68-sul-cloud-family-e-password-manager-gratis/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-11T14:31:00+00:00"
+    },
+    {
+      "titolo": "Iliad lancia l’offerta dell’estate: 170 GB (+17 GB in roaming) a 7,99€ al mese",
+      "descrizione": "Non mancano minuti e SMS illimitati: con TOP 170 PLUS di Iliad ottieni una scorta di Giga per i tuoi viaggi estivi all'estero. The post Iliad lancia l’offerta dell’estate: 170 GB (+17 GB in roaming) a 7,99€ al mese appea",
+      "link": "https://www.punto-informatico.it/iliad-lancia-lofferta-dellestate-170-gb-17-gb-in-roaming-a-799e-al-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-11T14:17:23+00:00"
+    },
+    {
+      "titolo": "Find X9s Pro è vicino: Oppo conferma design, colori e tagli di memoria",
+      "descrizione": "Sì, sarà svelato assieme a Find X9 Ultra.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n654764/oppo-find-x9s-pro-specifiche-colori-lancio-aprile/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-11T13:15:00+00:00"
+    },
     {
       "titolo": "Fiat Topolino Corallo: 4 edizioni speciali per la Design Week",
       "descrizione": "Per le strade di Milano durante la Design Week saranno protagoniste quattro interpretazioni della Topolino Corallo realizzate in collaborazione con Gallo.",
@@ -126,48 +168,6 @@
       "link": "https://www.zdnet.com/article/apple-ios-26-4-new-features-siri/",
       "fonte": "Latest news",
       "data": "2026-04-10T17:04:00+00:00"
-    },
-    {
-      "titolo": "Your router may be vulnerable to Russian hackers, FBI warns: 5 steps to take now",
-      "descrizione": "The FBI and NSA warn that Russian hackers are exploiting vulnerable routers, but there are ways you can take to protect yourself.",
-      "link": "https://www.zdnet.com/article/router-vulnerable-russian-hackers-fbi-warning/",
-      "fonte": "Latest news",
-      "data": "2026-04-10T16:41:14+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A37 e A57 disponibili ufficialmente in Italia da oggi",
-      "descrizione": "Prezzi da 449€.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n654730/samsung-galaxy-a37-a57-disponibili-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T16:25:00+00:00"
-    },
-    {
-      "titolo": "This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones",
-      "descrizione": "Škoda's DuoBell is designed to avoid collisions between cyclists and pedestrians preoccupied by their podcasts.",
-      "link": "https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/",
-      "fonte": "WIRED",
-      "data": "2026-04-10T16:21:05+00:00"
-    },
-    {
-      "titolo": "Attacco a CPUID: malware in CPU-Z e HWMonitor",
-      "descrizione": "Ignoti cybercriminali (forse di origine russa) hanno cambiato i link per il download di CPU-Z e HWMonitor sul sito ufficiale per distribuire un malware. The post Attacco a CPUID: malware in CPU-Z e HWMonitor appeared fir",
-      "link": "https://www.punto-informatico.it/attacco-cpuid-malware-cpu-z-hwmonitor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-10T16:18:01+00:00"
-    },
-    {
-      "titolo": "Khaby Lame e l'accordo da un miliardo di $, c’è qualcosa che non quadra",
-      "descrizione": "Che cosa si nasconde dietro l'operazione?",
-      "link": "https://www.hdblog.it/mercato/articoli/n654717/khaby-lame-accordo-stranezze/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T16:15:00+00:00"
-    },
-    {
-      "titolo": "Artemis II, conto alla rovescia per il ritorno sulla terra: ammaraggio alle 2:07",
-      "descrizione": "Si conclude la missione della Nasa che preparerà il ritorno sulla Luna. Con non poche novità scientifiche come bottino",
-      "link": "https://www.ilsole24ore.com/art/artemis-ii-conto-rovescia-il-ritorno-terra-ammaraggio-207-AIeJw4QC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-10T14:21:02+00:00"
     }
   ]
 }
