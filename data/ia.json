@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-12T07:45:27.575708+00:00",
+  "last_updated": "2026-04-12T13:35:20.644511+00:00",
   "items": [
     {
-      "titolo": "Intel, grande ritorno: capitalizzazione sopra i 300 miliardi per la prima volta in 20 anni",
-      "descrizione": "L'impennata nell'arco di poco più di un anno.",
-      "link": "https://www.hdblog.it/hardware/articoli/n654741/intel-risalita-azioni-capitalizzazione-valore/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-10T17:25:00+00:00",
+      "titolo": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+      "descrizione": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+      "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T16:32:19+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots",
-      "descrizione": "Microsoft’s Clippy was put out to pasture a quarter century ago. This hapless, and some would add ‘irritating,’ productivity assistant would no longer be enabled by default in Office, starting April 11, 2001.",
-      "link": "https://www.tomshardware.com/software/windows/clippy-microsofts-hapless-office-assistant-was-retired-25-years-ago-today-its-irritating-spirit-lives-on-in-100-copilots",
+      "titolo": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key — Google authors both the HID spec and the kernel patch",
+      "descrizione": "The Linux 7.0 kernel has merged support for three new keycodes intended for a coming wave of laptops with dedicated AI agent keys.",
+      "link": "https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-11T16:27:37+00:00",
+      "data": "2026-04-12T11:00:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-      "descrizione": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "fonte": "WIRED",
-      "data": "2026-04-10T18:08:37+00:00",
+      "titolo": "Falso sito di Claude distribuisce malware per Windows",
+      "descrizione": "Sfruttando un sito simile a quello legittimo, ignoti cybercriminali distribuiscono una versione di Claude Pro per Windows che installa il malware PlugX. The post Falso sito di Claude distribuisce malware per Windows appe",
+      "link": "https://www.punto-informatico.it/falso-sito-claude-distribuisce-malware-windows/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-12T09:24:43+00:00",
       "modello": "claude"
     },
     {
