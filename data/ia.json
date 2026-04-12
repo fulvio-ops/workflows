@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-04-12T13:35:20.644511+00:00",
+  "last_updated": "2026-04-12T19:09:22.686893+00:00",
   "items": [
     {
-      "titolo": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
-      "descrizione": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
-      "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-      "fonte": "WIRED",
-      "data": "2026-04-10T16:32:19+00:00",
+      "titolo": "Molotov contro la casa di Sam Altman, CEO di OpenAI: arrestato un 20enne",
+      "descrizione": "Altman ha commentato l'aggressione con una lunga riflessione sull'AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n654789/sam-altman-molotov-casa-incendio-openai-ceo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-12T13:35:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key — Google authors both the HID spec and the kernel patch",
-      "descrizione": "The Linux 7.0 kernel has merged support for three new keycodes intended for a coming wave of laptops with dedicated AI agent keys.",
-      "link": "https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops",
+      "titolo": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
+      "descrizione": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
+      "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-12T11:00:00+00:00",
+      "data": "2026-04-12T14:18:08+00:00",
       "modello": "copilot"
+    },
+    {
+      "titolo": "Samsung Galaxy A57/A37 5G: One UI 8.5, Gemini e Bixby",
+      "descrizione": "Galaxy A57 5G e Galaxy A37 5G sono i nuovi smartphone di Samsung con schermo Super AMOLED, tre fotocamere posteriori, One UI 8.5, Gemini e Bixby. The post Samsung Galaxy A57/A37 5G: One UI 8.5, Gemini e Bixby appeared fi",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-a57-a37-5g-one-ui-8-5-gemini-bixby/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-12T16:08:40+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Falso sito di Claude distribuisce malware per Windows",
