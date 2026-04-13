@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-13T03:53:48.969723+00:00",
+  "last_updated": "2026-04-13T08:23:24.213744+00:00",
   "items": [
     {
-      "titolo": "Molotov contro la casa di Sam Altman, CEO di OpenAI: arrestato un 20enne",
-      "descrizione": "Altman ha commentato l'aggressione con una lunga riflessione sull'AI.",
-      "link": "https://www.hdblog.it/mercato/articoli/n654789/sam-altman-molotov-casa-incendio-openai-ceo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-12T13:35:00+00:00",
+      "titolo": "Ascolta Miss Italia di Ditonellapiaga su Apple Music: è gratis",
+      "descrizione": "Miss Italia, l'atteso e discusso album di Ditonellapiaga, è in streaming su Apple Music: ascolta gratis con la settimana di prova. The post Ascolta Miss Italia di Ditonellapiaga su Apple Music: è gratis appeared first on",
+      "link": "https://www.punto-informatico.it/ascolta-miss-italia-ditonellapiaga-apple-music-gratis/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-13T07:49:19+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Samsung Galaxy A57/A37 5G: One UI 8.5, Gemini e Bixby",
-      "descrizione": "Galaxy A57 5G e Galaxy A37 5G sono i nuovi smartphone di Samsung con schermo Super AMOLED, tre fotocamere posteriori, One UI 8.5, Gemini e Bixby. The post Samsung Galaxy A57/A37 5G: One UI 8.5, Gemini e Bixby appeared fi",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-a57-a37-5g-one-ui-8-5-gemini-bixby/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-12T16:08:40+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Falso sito di Claude distribuisce malware per Windows",
-      "descrizione": "Sfruttando un sito simile a quello legittimo, ignoti cybercriminali distribuiscono una versione di Claude Pro per Windows che installa il malware PlugX. The post Falso sito di Claude distribuisce malware per Windows appe",
-      "link": "https://www.punto-informatico.it/falso-sito-claude-distribuisce-malware-windows/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-12T09:24:43+00:00",
+      "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "descrizione": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T18:08:37+00:00",
       "modello": "claude"
     },
     {
