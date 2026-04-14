@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-14T03:43:40.184649+00:00",
+  "last_updated": "2026-04-14T08:04:42.486475+00:00",
   "items": [
     {
-      "titolo": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
-      "descrizione": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top.",
-      "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
-      "fonte": "Latest news",
-      "data": "2026-04-14T02:00:38+00:00",
+      "titolo": "Windows 11 cambia marcia, ora la configurazione è molto più rapida",
+      "descrizione": "Configurare Windows 11 diventa immediato grazie al nuovo tasto per posticipare gli aggiornamenti.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n654967/windows-11-setup-veloce/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-14T07:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
-      "descrizione": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top.",
-      "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
-      "fonte": "Latest news",
-      "data": "2026-04-14T02:00:38+00:00",
+      "titolo": "Google aggiorna gli strumenti educativi NotebookLM e Gemini",
+      "descrizione": "Le foto si possono trasferire dal proprio account universitario a quello personale, NotebookLM raddoppia i limiti e formazione AI gratuita. The post Google aggiorna gli strumenti educativi NotebookLM e Gemini appeared fi",
+      "link": "https://www.punto-informatico.it/google-aggiorna-strumenti-educativi-notebooklm-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-14T07:41:35+00:00",
       "modello": "gemini"
     },
     {
