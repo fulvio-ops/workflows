@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-13T19:39:57.336502+00:00",
+  "last_updated": "2026-04-14T03:43:40.184649+00:00",
   "items": [
     {
-      "titolo": "OpenAI sente la pressione della concorrenza: la corsa all'AI entra nel vivo",
-      "descrizione": "Bisogna fare di tutto per tenersi stretti gli utenti enterprise: serve una piattaforma unificata, con tanti servizi e prodotti. Insomma, rendersi indispensabili e insostituibili.",
-      "link": "https://www.hdblog.it/business/articoli/n654946/openai-memo-concorrenza-enterprise-clienti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-13T18:05:00+00:00",
+      "titolo": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
+      "descrizione": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top.",
+      "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
+      "fonte": "Latest news",
+      "data": "2026-04-14T02:00:38+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,6 +16,14 @@
       "fonte": "HDblog.it",
       "data": "2026-04-13T17:50:00+00:00",
       "modello": "copilot"
+    },
+    {
+      "titolo": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
+      "descrizione": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top.",
+      "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
+      "fonte": "Latest news",
+      "data": "2026-04-14T02:00:38+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Claude disponibile anche in Word, dopo Excel e PowerPoint",
