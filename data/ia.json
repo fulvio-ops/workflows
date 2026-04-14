@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-14T08:04:42.486475+00:00",
+  "last_updated": "2026-04-14T14:14:30.736173+00:00",
   "items": [
     {
-      "titolo": "Windows 11 cambia marcia, ora la configurazione è molto più rapida",
-      "descrizione": "Configurare Windows 11 diventa immediato grazie al nuovo tasto per posticipare gli aggiornamenti.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654967/windows-11-setup-veloce/",
+      "titolo": "Accuse federali pesanti per il ventenne attentatore di Sam Altman",
+      "descrizione": "Le pene massime di due capi d'accusa prevedono 20 e 10 anni di carcere.",
+      "link": "https://www.hdblog.it/business/articoli/n655034/openai-molotov-accuse-federali-daniel-moreno-gama/",
       "fonte": "HDblog.it",
-      "data": "2026-04-14T07:05:00+00:00",
+      "data": "2026-04-14T11:35:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft vuole trasformare 365 Copilot in una sorta di OpenClaw",
-      "descrizione": "Un agente (o un insieme di agenti) attivo 24/7, ma molto più sicuro di quanto visto finora nella piattaforma open.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n654944/microsoft-365-copilot-openclaw-agentica/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-13T17:50:00+00:00",
+      "titolo": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
+      "descrizione": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
+      "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-12T14:18:08+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google aggiorna gli strumenti educativi NotebookLM e Gemini",
-      "descrizione": "Le foto si possono trasferire dal proprio account universitario a quello personale, NotebookLM raddoppia i limiti e formazione AI gratuita. The post Google aggiorna gli strumenti educativi NotebookLM e Gemini appeared fi",
-      "link": "https://www.punto-informatico.it/google-aggiorna-strumenti-educativi-notebooklm-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-14T07:41:35+00:00",
+      "titolo": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
+      "descrizione": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which AI came out on top.",
+      "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
+      "fonte": "Latest news",
+      "data": "2026-04-14T02:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude disponibile anche in Word, dopo Excel e PowerPoint",
-      "descrizione": "Claude per Word (beta) è l'add-in che permette di utilizzare il chatbot all'interno dei documenti DOCX (solo per gli abbonati Enterprise e Team). The post Claude disponibile anche in Word, dopo Excel e PowerPoint appeare",
-      "link": "https://www.punto-informatico.it/claude-disponibile-word-dopo-excel-powerpoint/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-13T13:01:52+00:00",
+      "titolo": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "descrizione": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "fonte": "WIRED",
+      "data": "2026-04-10T18:08:37+00:00",
       "modello": "claude"
     },
     {
