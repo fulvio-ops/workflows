@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-15T14:06:15.129653+00:00",
+  "last_updated": "2026-04-15T19:44:09.854614+00:00",
   "items": [
     {
-      "titolo": "GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos",
-      "descrizione": "GPT-5.4-Cyber è il nuovo modello di OpenAI con accesso limitato che può trovare le vulnerabilità nei software, come Claude Mythos di Anthropic. The post GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos appeared firs",
-      "link": "https://www.punto-informatico.it/gpt-5-4-cyber-risposta-openai-claude-mythos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T12:25:05+00:00",
+      "titolo": "YMTC's third Wuhan fab clears Beijing's 50% local tooling threshold as two more are planned — move positions company toward 3D NAND production to capitalize on wafer bonding strengths",
+      "descrizione": "China’s YMTC is expected to start operations at its Phase 3 Wuhan fab late this year as the first leading-edge memory plant built to comply with Beijing's unwritten 50% tooling requirement.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtcs-third-wuhan-fab-clears-beijings-50-percent-domestic-tooling-threshold-as-two-more-are-planned",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-15T15:40:56+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "The latest Google Home update brings Gemini fixes that I'm actually excited to try again",
-      "descrizione": "Google Home's latest update should make your Gemini experience more reliable. Look for these other improvements and bug fixes as well.",
-      "link": "https://www.zdnet.com/article/gemini-for-home-google-update-april-2026/",
+      "titolo": "I tried Google's new desktop app, and I'll never search the old way again",
+      "descrizione": "Now available to all, the app delivers a faster way to access tools like Gemini, Lens, and Search. See why it's totally worth a download.",
+      "link": "https://www.zdnet.com/article/i-tried-googles-new-desktop-app/",
       "fonte": "Latest news",
-      "data": "2026-04-15T07:00:43+00:00",
+      "data": "2026-04-15T18:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos",
-      "descrizione": "GPT-5.4-Cyber è il nuovo modello di OpenAI con accesso limitato che può trovare le vulnerabilità nei software, come Claude Mythos di Anthropic. The post GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos appeared firs",
-      "link": "https://www.punto-informatico.it/gpt-5-4-cyber-risposta-openai-claude-mythos/",
+      "titolo": "Anthropic aggiorna Claude Code su desktop",
+      "descrizione": "Anthropic ha aggiornato il design dell'app desktop di Claude Code per consentire agli sviluppatori di eseguire sessioni multiple in parallelo. The post Anthropic aggiorna Claude Code su desktop appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/anthropic-aggiorna-claude-code-su-desktop/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-15T12:25:05+00:00",
+      "data": "2026-04-15T17:10:12+00:00",
       "modello": "claude"
     }
   ]
