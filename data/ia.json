@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T03:42:34.843004+00:00",
+  "last_updated": "2026-04-15T08:05:52.851762+00:00",
   "items": [
     {
       "titolo": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Tired of Gemini interrupting you? This Google Home update fixes that and more",
-      "descrizione": "Google Home's latest update should make your Gemini experience more reliable. Look for these other improvements and bug fixes too.",
-      "link": "https://www.zdnet.com/article/gemini-for-home-google-update-april-2026/",
-      "fonte": "Latest news",
-      "data": "2026-04-14T19:27:18+00:00",
+      "titolo": "Chrome introduce le Skills: ora è più facile gestire i prompt di Gemini",
+      "descrizione": "Google lancia Skills su Chrome per salvare i prompt di Gemini e velocizzare le attività online.",
+      "link": "https://www.hdblog.it/google/articoli/n655107/come-funzionano-skills-gemini-chrome/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T07:20:00+00:00",
       "modello": "gemini"
     },
     {
