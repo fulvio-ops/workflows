@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-04-15T08:05:49.889588+00:00",
+  "last_updated": "2026-04-15T14:06:06.979783+00:00",
   "items": [
     {
-      "titolo": "Perché ogni anno la Terra diventa sempre più luminosa di notte",
-      "descrizione": "Un nuovo studio ha rivelato che la Terra diventa sempre più luminosa di notte di circa il 2% ogni anno cambiando in modi inaspettati. The post Perché ogni anno la Terra diventa sempre più luminosa di notte appeared first",
-      "link": "https://www.punto-informatico.it/perche-ogni-anno-terra-diventa-sempre-piu-luminosa-notte/",
+      "titolo": "Povertà energetica per più di 5 milioni di italiani: al Sud la situazione peggiore",
+      "descrizione": "Il conflitto in Iran è destinato a peggiorare ulteriormente una situazione già di per sé delicata.",
+      "link": "https://www.hdblog.it/green/articoli/n655175/poverta-energetica-italia-energia-elettrica-gas/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T14:05:00+00:00"
+    },
+    {
+      "titolo": "Amazon ha portato Alexa+ in Italia, quali i dispositivi supportati?",
+      "descrizione": "Diamo uno sguardo ai dispositivi compatibili con Alexa+: l'assistente è disponibile in Italia, gratis per tutti con Accesso Anticipato. The post Amazon ha portato Alexa+ in Italia, quali i dispositivi supportati? appeare",
+      "link": "https://www.punto-informatico.it/alexa-plus-italia-dispositivi-supportati/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-15T08:01:40+00:00"
+      "data": "2026-04-15T14:00:09+00:00"
     },
     {
-      "titolo": "Chernobyl, sarcofago a rischio crollo: possibile fuga di radiazioni",
-      "descrizione": "L'allarme di Greenpeace dopo l'attacco alla centrale.",
-      "link": "https://www.hdblog.it/green/articoli/n655112/chernobyl-danni-nucleare-pericolo-radiazioni/",
+      "titolo": "Suonare all'unisono grazie al tocco: il nuovo esoscheletro italiano",
+      "descrizione": "Nuovo sistema robotico italiano permette ai musicisti di sincronizzarsi tramite il tatto.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n654957/esoscheletro-musica-sincronizzazione-robotica/",
       "fonte": "HDblog.it",
-      "data": "2026-04-15T07:55:00+00:00"
+      "data": "2026-04-15T13:55:00+00:00"
     },
     {
-      "titolo": "Nuove conferme per Sony Xperia 1 VIII: il jack audio continua a sopravvivere",
-      "descrizione": "Sony sembra essere l'unica che continua a crederci",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655115/sony-xperia-1-viii-ritorno-jack-audio/",
+      "titolo": "Hongqi P567, il SUV EREV da 831 CV e 1.350 km di autonomia",
+      "descrizione": "Debutta al Salone di Pechino il SUV del marchio storico di FAW con quattro motori elettrici e range extender da 2 litri.",
+      "link": "https://www.hdmotori.it/hongqi-p567-suv-erev-cina/",
       "fonte": "HDblog.it",
-      "data": "2026-04-15T07:45:00+00:00"
+      "data": "2026-04-15T13:30:46+00:00"
     },
     {
-      "titolo": "Raspberry Pi OS 6.2 chiede la password per il comando sudo",
-      "descrizione": "Raspberry Pi OS 6.2 basata su Debian Trixie richiede la password per il comando sudo. Il cambiamento protegge da accessi non autorizzati. The post Raspberry Pi OS 6.2 chiede la password per il comando sudo appeared first",
-      "link": "https://www.punto-informatico.it/raspberry-pi-os-6-2-chiede-password-comando-sudo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T07:44:56+00:00"
-    },
-    {
-      "titolo": "Le novità Xiaomi fanno acqua da tutte le parti",
-      "descrizione": "I nuovi Xiaomi Mijia Instant Hot Water Purifier 2 Pro 1200G e 1600G sono sistemi di filtraggio sotto lavello, caratterizzati da un doppio rubinetto smart che permette di avere accesso ad acqua...",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n655109/xiaomi-mijia-purificatori-smart-acqua-bollente/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T07:35:00+00:00"
-    },
-    {
-      "titolo": "Chrome introduce le Skills: ora è più facile gestire i prompt di Gemini",
-      "descrizione": "Google lancia Skills su Chrome per salvare i prompt di Gemini e velocizzare le attività online.",
-      "link": "https://www.hdblog.it/google/articoli/n655107/come-funzionano-skills-gemini-chrome/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T07:20:00+00:00"
-    },
-    {
-      "titolo": "Ghiacciai, lo scioglimento nel 2025 è da record: 5 piscine al secondo",
-      "descrizione": "Dati preoccupanti anche dall'Italia",
-      "link": "https://www.hdblog.it/green/articoli/n655079/ghiacciai-scioglimento-2025-da-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T07:10:00+00:00"
-    },
-    {
-      "titolo": "The latest Google Home update brings Gemini fixes that I'm actually excited to try again",
-      "descrizione": "Google Home's latest update should make your Gemini experience more reliable. Look for these other improvements and bug fixes as well.",
-      "link": "https://www.zdnet.com/article/gemini-for-home-google-update-april-2026/",
-      "fonte": "Latest news",
-      "data": "2026-04-15T07:00:43+00:00"
-    },
-    {
-      "titolo": "IT-alert, oggi in Calabria nuovo test per rischio di incidente industriale",
-      "descrizione": "Questo il messaggio che comparirà sul display a chi si troverà nell'area interessata: nuovo test programmato per IT-alert in Calabria.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655049/it-alert-nuovo-test-incidente-industriale-calabria/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T06:50:00+00:00"
-    },
-    {
-      "titolo": "Apple AirPods 4: le mitiche cuffiette Bluetooth in sconto su Amazon",
-      "descrizione": "Oggi puoi avere le Apple AirPods 4 con 30 ore di autonomia, audio spaziale personalizzato e resistenza all'acqua a un ottimo prezzo. The post Apple AirPods 4: le mitiche cuffiette Bluetooth in sconto su Amazon appeared f",
-      "link": "https://www.punto-informatico.it/apple-airpods-4-mitiche-cuffiette-bluetooth-sconto-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T06:26:21+00:00"
-    },
-    {
-      "titolo": "WordPress, plug-in modificati dopo cambio di proprietà: backdoor su migliaia di siti",
-      "descrizione": "Decine di plug-in WordPress utilizzati da migliaia di siti sono stati compromessi dopo un cambio di proprietà",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655105/wordpress-backdoor-migliaiai-siti-colpiti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T06:20:00+00:00"
-    },
-    {
-      "titolo": "300 giga in 5G su rete TIM, minuti illimitati e 200 SMS: l’offerta Kena Mobile che sorprende",
-      "descrizione": "L'operatore virtuale che si appoggia su rete TIM lancia un'offerta da paura a soli 5,99 euro al mese. The post 300 giga in 5G su rete TIM, minuti illimitati e 200 SMS: l’offerta Kena Mobile che sorprende appeared first o",
-      "link": "https://www.punto-informatico.it/300-giga-in-5g-su-rete-tim-minuti-illimitati-e-200-sms-lofferta-kena-mobile-che-sorprende/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T06:08:22+00:00"
-    },
-    {
-      "titolo": "I nuovi camion elettrici Volvo dalla autonomia record",
-      "descrizione": "Volvo Trucks alza l’asticella del trasporto elettrico su camion con una proposta super che offre maggiore flessibilità e performance",
-      "link": "https://www.hdmotori.it/nuovi-camion-elettrici-volvo-autonomia-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T06:00:35+00:00"
-    },
-    {
-      "titolo": "B&H Photo Promo Codes and Deals This April",
-      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "titolo": "Best Smart Smoke Detector (and Why You Still Need a Dumb One)",
+      "descrizione": "Every smart smoke alarm I’ve tested has one potentially fatal flaw, trading fewer nuisance alarms for a risky sensor strategy.",
+      "link": "https://www.wired.com/story/should-smoke-alarms-be-smart/",
       "fonte": "WIRED",
-      "data": "2026-04-15T05:00:00+00:00"
+      "data": "2026-04-15T13:18:00+00:00"
     },
     {
-      "titolo": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
-      "descrizione": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-      "link": "https://www.wired.com/story/expedia-coupon/",
-      "fonte": "WIRED",
-      "data": "2026-04-15T05:00:00+00:00"
-    },
-    {
-      "titolo": "Coleman Promo Codes and Deals: Up to 75% Off in April",
-      "descrizione": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
-      "link": "https://www.wired.com/story/coleman-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-04-15T05:00:00+00:00"
-    },
-    {
-      "titolo": "Chrome lancia le Skill: prompt AI salvabili e riutilizzabili",
-      "descrizione": "Chrome lancia le Skill, i prompt Gemini usati di frequente possono essere salvati e riutilizzati su qualsiasi pagina web con un clic. The post Chrome lancia le Skill: prompt AI salvabili e riutilizzabili appeared first o",
-      "link": "https://www.punto-informatico.it/chrome-skill-prompt-ai-salvabili-riutilizzabili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T04:54:02+00:00"
-    },
-    {
-      "titolo": "Google aggiorna la sua app per Windows con AI Mode",
-      "descrizione": "Google aggiorna la sua app Windows con AI Mode, ricerca universale via Alt+Spazio, condivisione schermo e Lens. Un launcher universale. The post Google aggiorna la sua app per Windows con AI Mode appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-aggiorna-app-windows-ai-mode/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-15T04:24:43+00:00"
-    },
-    {
-      "titolo": "The Surprising MacBook Neo Competitor You’ve Never Heard Of",
-      "descrizione": "In many ways, the HP OmniBook 5 is a better budget laptop than the MacBook Neo, especially when the discounts are strong.",
-      "link": "https://www.wired.com/story/hp-omnibook-5-deal-0426-1/",
-      "fonte": "WIRED",
-      "data": "2026-04-14T23:04:16+00:00"
-    },
-    {
-      "titolo": "Amazon compra i satelliti di Globalstar per Leo: ora la sfida a Starlink si fa seria",
-      "descrizione": "Nel mirino la leadership di Starlink: Amazon ha annunciato l'acquisizione di Globalstar per espandere la costellazione di satelliti Leo.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n655061/amazon-compra-satelliti-globalstar-leo/",
+      "titolo": "YouTube Music: il nuovo design arriva ufficialmente su Android e iOS",
+      "descrizione": "L’app si aggiornerà in automatico alla nuova interfaccia.",
+      "link": "https://www.hdblog.it/android/articoli/n655163/youtube-music-nuovo-design-android-ios/",
       "fonte": "HDblog.it",
-      "data": "2026-04-14T19:00:00+00:00"
+      "data": "2026-04-15T13:15:00+00:00"
     },
     {
-      "titolo": "Crisi dei chip di memoria, aumentano anche i prezzi dei Microsoft Surface",
-      "descrizione": "Negli USA device che partivano da 999 dollari ora partono da 1.499.",
-      "link": "https://www.hdblog.it/portatili/articoli/n654980/crisi-chip-aumenti-microsoft-surface/",
+      "titolo": "Snap: licenziato il 16% dello staff, mentre continua la transizione verso l'AI",
+      "descrizione": "Si parla di circa 1.000 dipendenti lasciati a casa, in nome della sostenibilità dell'azienda",
+      "link": "https://www.hdblog.it/business/articoli/n655171/snap-licenzia-16-percento-dipendenti-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-04-14T18:59:00+00:00"
+      "data": "2026-04-15T13:10:00+00:00"
     },
     {
-      "titolo": "Nespresso lancia Vertuo Up, la nuova macchina da caffè smart | PREZZO",
-      "descrizione": "La nuova Nespresso Vertuo Up offre connettività con app Smart, manutenzione facilitata e personalizzazione completa, per un’esperienza creativa e intuitiva",
-      "link": "https://www.hdblog.it/home/articoli/n655020/nespresso-vertuo-up-macchinetta-caffe-caratteristiche/",
+      "titolo": "Alexa+ arriva in Italia, già disponibile per tutti: come cambia e cosa può fare",
+      "descrizione": "La nuova versione dell’assistente di Amazon è disponibile da oggi in Accesso Anticipato",
+      "link": "https://www.hdblog.it/amazon/articoli/n654930/alexa-arriva-italia-ecco-come-cambia/",
       "fonte": "HDblog.it",
-      "data": "2026-04-14T18:58:00+00:00"
+      "data": "2026-04-15T13:01:00+00:00"
     },
     {
-      "titolo": "Lancia il tuo sito web WordPress da soli 4€ con la promo primaverile Aruba Hosting",
-      "descrizione": "Ottieni uno sconto del 60% sui piani Aruba Hosting con WordPress: si parte da 4,80 euro per il primo anno, anziché 11,90. The post Lancia il tuo sito web WordPress da soli 4€ con la promo primaverile Aruba Hosting appear",
-      "link": "https://www.punto-informatico.it/lancia-il-tuo-sito-web-wordpress-da-soli-4e-con-la-promo-primaverile-aruba-hosting/",
+      "titolo": "La MG4 2026 è tra noi: tecnologia e tanta autonomia",
+      "descrizione": "Sarà protagonista al Salone dell'Auto di Pechino, ma la MG4 ha già fatto capolino con tante novità interessanti",
+      "link": "https://www.hdmotori.it/mg4-2026-tecnologia-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T13:00:34+00:00"
+    },
+    {
+      "titolo": "Alexa+ in Italia da oggi, gratis: scopri cosa può fare per te",
+      "descrizione": "Amazon lancia Alexa+ in Italia: l'assistente AI diventa più naturale e intelligente, gratis in Accesso Anticipato per tutti gli utenti. The post Alexa+ in Italia da oggi, gratis: scopri cosa può fare per te appeared firs",
+      "link": "https://www.punto-informatico.it/alexa-in-italia-da-oggi-gratis-scopri-cosa-puo-fare-per-te/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-14T18:36:55+00:00"
+      "data": "2026-04-15T13:00:30+00:00"
     },
     {
-      "titolo": "Startup, i 9 unicorni italiani di cui dovremmo parlare di più",
-      "descrizione": "",
-      "link": "https://www.econopoly.ilsole24ore.com/2026/04/14/startup-i-9-unicorni-italiani-di-cui-dovremmo-parlare-di-piu/",
+      "titolo": "Adobe lancia Frame.io Drive: gestione dei file video fluida e senza download",
+      "descrizione": "Adobe presenta Frame.io Drive, una soluzione cloud per gestire file video senza download, migliorando flussi di lavoro e riducendo inefficienze per creator e professionisti del settore",
+      "link": "https://www.hdblog.it/business/articoli/n655173/adobe-frameio-drive-cloud-premiere-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T13:00:00+00:00"
+    },
+    {
+      "titolo": "Alexa+ arriva oggi in Italia. Come funziona la nuova Ai vocale generativa",
+      "descrizione": "L’azienda di Seattle porta nel nostro Paese la versione generativa dell’assistente vocale che vuole diventare agente. Ecco come provarlo e le funzioni principali",
+      "link": "https://www.ilsole24ore.com/art/alexa-arriva-oggi-italia-come-funziona-nuova-vocale-generativa-AIomUJVC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-14T18:18:00+00:00"
+      "data": "2026-04-15T13:00:00+00:00"
+    },
+    {
+      "titolo": "Francia dice addio a Windows per una maggiore indipendenza digitale",
+      "descrizione": "Il piano francese si articola in varie fase e l’addio a Microsoft è solo una piccola parte di una strategia complessa e articolata in varie fase",
+      "link": "https://www.ilsole24ore.com/art/francia-dice-addio-windows-una-maggiore-indipendenza-digitale-AIFzWCWC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-15T12:39:49+00:00"
+    },
+    {
+      "titolo": "Camper sharing, boom tra i giovani: in Italia oltre metà degli utenti ha meno di 35 anni",
+      "descrizione": "I dati Yescapa fotografano un settore in forte crescita con prenotazioni in crescita del 480% negli ultimi 5 anni.",
+      "link": "https://www.hdmotori.it/camper-sharing-giovani-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T12:30:47+00:00"
+    },
+    {
+      "titolo": "Dall’app al medico: Oura Ring è parte attiva dei percorsi di cura",
+      "descrizione": "Oura sigla una partnership con Vida Health per integrare i dati del Ring nei percorsi di cura, puntando su monitoraggio continuo di sonno, frequenza cardiaca e HRV per migliorare prevenzione e terapie",
+      "link": "https://www.hdblog.it/indossabili/articoli/n655165/oura-ring-dati-per-la-medicina/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T12:15:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi, nuova friggitrice ad aria in arrivo, con vapore e sottovuoto",
+      "descrizione": "10 modalità di cottura tra sottovuoto, essicazione, frittura ad aria, vapore e tanto altro ancora. Il lancio internazionale è confermato, ma mercati precisi e prezzi rimangono un'incognita.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n655164/xiaomi-mijia-friggitrice-aria-vapore-7-litri/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T12:05:00+00:00"
+    },
+    {
+      "titolo": "China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters — state hails successful trial and hints at deployment readiness",
+      "descrizione": "China has successfully tested a \"deep-sea electro-hydrostatic actuator\" that can cut undersea cables at a depth of 3,500 meters.",
+      "link": "https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-15T12:03:58+00:00"
+    },
+    {
+      "titolo": "Honda Super-N, arriva in Europa la kei car elettrica da meno di 25.000 euro",
+      "descrizione": "Ispirata alla City Turbo II degli anni Ottanta, la nuova city car di Honda ha un’autonomia fino aa 320 km, sospensioni ricalibrate per le strade europee e cambio simulato.",
+      "link": "https://www.hdmotori.it/honda-super-n-kei-car-elettrica-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T12:00:34+00:00"
+    },
+    {
+      "titolo": "Meta e Broadcom, partnership per la realizzazione di chip AI custom",
+      "descrizione": "Le due società vogliono realizzare e distribuire addirittura quattro generazioni di chip MTIA in due anni. Ed è solo l'inizio.",
+      "link": "https://www.hdblog.it/hardware/articoli/n655161/meta-broadcom-chip-ai-custom-mtia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T11:45:00+00:00"
+    },
+    {
+      "titolo": "Pragmata convince nelle prime recensioni: la nuova IP di Capcom parte bene",
+      "descrizione": "Dopo uno sviluppo travagliato, Capcom è riuscita nell'impossibile",
+      "link": "https://www.hdblog.it/games/articoli/n655155/pragmata-recensioni-ottimi-risultati-capcom/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T11:40:00+00:00"
+    },
+    {
+      "titolo": "Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+      "descrizione": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "link": "https://www.wired.com/gallery/best-wifi-routers/",
+      "fonte": "WIRED",
+      "data": "2026-04-15T11:30:00+00:00"
+    },
+    {
+      "titolo": "The best internal communication tools of 2026: Expert tested and reviewed",
+      "descrizione": "If your office works remotely in any way, you'll need reliable internal communication tools to keep information flowing smoothly and everyone on the same page.",
+      "link": "https://www.zdnet.com/article/best-internal-communication-tools/",
+      "fonte": "Latest news",
+      "data": "2026-04-15T11:01:14+00:00"
+    },
+    {
+      "titolo": "Windows 11 KB5083769: molte novità e miglioramenti",
+      "descrizione": "Microsoft ha rilasciato l'aggiornamento KB5083769 per Windows 11 25H2/24H2 che include novità, miglioramenti, bug fix e patch di sicurezza. The post Windows 11 KB5083769: molte novità e miglioramenti appeared first on Pu",
+      "link": "https://www.punto-informatico.it/windows-11-kb5083769-molte-novita-miglioramenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-15T10:12:17+00:00"
+    },
+    {
+      "titolo": "5 offerte tech per la casa su Amazon che cambieranno la tua vita",
+      "descrizione": "Abbiamo selezionato 5 offerte tech davvero speciali per la casa, disponibili su Amazon, che cambieranno letteralmente la tua vita. The post 5 offerte tech per la casa su Amazon che cambieranno la tua vita appeared first",
+      "link": "https://www.punto-informatico.it/5-offerte-tech-per-la-casa-su-amazon-che-cambieranno-la-tua-vita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-15T09:30:50+00:00"
     }
   ]
 }

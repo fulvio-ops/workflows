@@ -1,45 +1,37 @@
 {
-  "last_updated": "2026-04-15T08:05:52.851762+00:00",
+  "last_updated": "2026-04-15T14:06:15.129653+00:00",
   "items": [
     {
-      "titolo": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-      "descrizione": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
-      "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-      "fonte": "WIRED",
-      "data": "2026-04-14T20:00:17+00:00",
+      "titolo": "GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos",
+      "descrizione": "GPT-5.4-Cyber è il nuovo modello di OpenAI con accesso limitato che può trovare le vulnerabilità nei software, come Claude Mythos di Anthropic. The post GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos appeared firs",
+      "link": "https://www.punto-informatico.it/gpt-5-4-cyber-risposta-openai-claude-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-15T12:25:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Agenti AI autonomi in arrivo su Copilot ispirati a OpenClaw",
-      "descrizione": "Microsoft sta integrando funzionalità ispirate a OpenClaw su Copilot per farlo funzionare autonomamente 24/7. The post Agenti AI autonomi in arrivo su Copilot ispirati a OpenClaw appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/agenti-ai-autonomi-copilot-ispirati-openclaw/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-14T14:59:08+00:00",
+      "titolo": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
+      "descrizione": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
+      "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-12T14:18:08+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Chrome introduce le Skills: ora è più facile gestire i prompt di Gemini",
-      "descrizione": "Google lancia Skills su Chrome per salvare i prompt di Gemini e velocizzare le attività online.",
-      "link": "https://www.hdblog.it/google/articoli/n655107/come-funzionano-skills-gemini-chrome/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T07:20:00+00:00",
+      "titolo": "The latest Google Home update brings Gemini fixes that I'm actually excited to try again",
+      "descrizione": "Google Home's latest update should make your Gemini experience more reliable. Look for these other improvements and bug fixes as well.",
+      "link": "https://www.zdnet.com/article/gemini-for-home-google-update-april-2026/",
+      "fonte": "Latest news",
+      "data": "2026-04-15T07:00:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-      "descrizione": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
-      "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-      "fonte": "WIRED",
-      "data": "2026-04-14T20:00:17+00:00",
+      "titolo": "GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos",
+      "descrizione": "GPT-5.4-Cyber è il nuovo modello di OpenAI con accesso limitato che può trovare le vulnerabilità nei software, come Claude Mythos di Anthropic. The post GPT-5.4-Cyber è la risposta di OpenAI a Claude Mythos appeared firs",
+      "link": "https://www.punto-informatico.it/gpt-5-4-cyber-risposta-openai-claude-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-15T12:25:05+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Da LLama a Muse Spark. Meta prova a rientrare nella corsa all’AI",
-      "descrizione": "Dopo le difficoltà del suo modello open e la pressione su costi, social e crescita, Meta lancia Muse Spark. Obiettivo: trasformare l’enorme patrimonio di contenuti, utenti e creator in un vantaggio competitivo contro Ope",
-      "link": "https://www.ilsole24ore.com/art/da-llama-muse-spark-meta-prova-rientrare-corsa-all-ai-AIJ3guOC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-08T18:06:00+00:00",
-      "modello": "altri"
     }
   ]
 }
