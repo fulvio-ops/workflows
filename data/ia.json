@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-14T19:42:21.035223+00:00",
+  "last_updated": "2026-04-15T03:42:34.843004+00:00",
   "items": [
     {
-      "titolo": "Editori contro lo scraping AI: addio Wayback Machine?",
-      "descrizione": "Molti editori bloccano il bot di Internet Archive perché l'archivio digitale della Wayback Machine viene utilizzato per l'addestramento dei modelli AI. The post Editori contro lo scraping AI: addio Wayback Machine? appea",
-      "link": "https://www.punto-informatico.it/editori-contro-scraping-ai-addio-wayback-machine/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-14T15:28:50+00:00",
+      "titolo": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+      "descrizione": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+      "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+      "fonte": "WIRED",
+      "data": "2026-04-14T20:00:17+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude Mythos might be the best overall AI model for cybersecurity, but cheaper models can attain similar results, research shows — cross-examination of the frontier model raises questions on uptime and relia",
-      "descrizione": "Anthropic's Mythos might be the best cybersecurity AI ever, but it's not the only one and it may well be the most expensive, raising questions about how useful it actually is, when weighed against the competition.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-might-be-the-best-overall-ai-model-for-cybersecurity-but-cheaper-models-can-attain-similar-results-research-shows-cross-examination-of-the-frontier-model-raises-questions-on-uptime-and-reliability",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-14T17:38:30+00:00",
+      "titolo": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+      "descrizione": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+      "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+      "fonte": "WIRED",
+      "data": "2026-04-14T20:00:17+00:00",
       "modello": "claude"
     },
     {

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-14T19:42:17.555548+00:00",
+  "last_updated": "2026-04-15T03:42:30.648999+00:00",
   "items": [
+    {
+      "titolo": "The Surprising MacBook Neo Competitor You’ve Never Heard Of",
+      "descrizione": "In many ways, the HP OmniBook 5 is a better budget laptop than the MacBook Neo, especially when the discounts are strong.",
+      "link": "https://www.wired.com/story/hp-omnibook-5-deal-0426-1/",
+      "fonte": "WIRED",
+      "data": "2026-04-14T23:04:16+00:00"
+    },
     {
       "titolo": "Tired of Gemini interrupting you? This Google Home update fixes that and more",
       "descrizione": "Google Home's latest update should make your Gemini experience more reliable. Look for these other improvements and bug fixes too.",
@@ -156,18 +163,11 @@
       "data": "2026-04-14T15:12:28+00:00"
     },
     {
-      "titolo": "Nvidia squashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in discussions to acquire any PC maker’",
+      "titolo": "Nvidia quashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in discussions to acquire any PC maker’",
       "descrizione": "Nvidia said that it wasn't in talks with another PC manufacturer to acquire it, despite rumors saying that it has been discussing the possibility since 2024.",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-14T14:51:31+00:00"
-    },
-    {
-      "titolo": "Grab the ultra-fast Elegoo Centauri Carbon 3D printer for just $285 right now, saving you $128 — limited-time sale price nets you a fully enclosed Core-XY printer built for beginners and enthusiasts",
-      "descrizione": "The Elegoo Centauri Carbon, one of our all-time favorite 3D printers, is on sale for a limited-time only, down to just $285.",
-      "link": "https://www.tomshardware.com/3d-printing/grab-the-ultra-fast-elegoo-centauri-carbon-3d-printer-for-just-usd285-right-now-saving-you-usd128-limited-time-sale-price-nets-you-a-fully-enclosed-core-xy-printer-built-for-beginners-and-enthusiasts",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-14T14:47:26+00:00"
     }
   ]
 }
