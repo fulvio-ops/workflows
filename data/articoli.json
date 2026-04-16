@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-04-15T19:44:05.630373+00:00",
+  "last_updated": "2026-04-16T03:48:01.147083+00:00",
   "items": [
+    {
+      "titolo": "‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout",
+      "descrizione": "After the full movie leaked, animators mourned the chance to release their work as intended. Others feel the leak is justified in light of Paramount’s marketing blunders and association with Trump.",
+      "link": "https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/",
+      "fonte": "WIRED",
+      "data": "2026-04-15T22:53:44+00:00"
+    },
     {
       "titolo": "Lancia Ypsilon: debutta il Turbo 100 benzina con cambio manuale",
       "descrizione": "Lancia amplia la gamma Ypsilon con il motore Turbo 100 a benzina. Prestazioni brillanti, stile Pu+Ra e tecnologia S.A.L.A con il prezzo lancio più accessibile di sempre.",
       "link": "https://www.hdmotori.it/lancia-ypsilon-turbo-100-benzina-cambio-manuale/",
       "fonte": "HDblog.it",
       "data": "2026-04-15T19:00:46+00:00"
+    },
+    {
+      "titolo": "Come creare un sito WordPress con AI Site Assistant: guida pratica in 6 passaggi | Video",
+      "descrizione": "Come l'intelligenza artificiale sta trasformando la creazione di siti WordPress: guida all'uso di AI Site Assistant integrato nell'hosting Register.it. Funzionamento dello strumento, dal briefing...",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n652349/come-creare-un-sito-wordpress-con-ai-site-assistant-guida-pratica-in-6-passaggi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T18:40:00+00:00"
+    },
+    {
+      "titolo": "Alexa+ arriva in Italia, già disponibile: come provarlo, come cambia e cosa può fare",
+      "descrizione": "La nuova versione dell’assistente di Amazon è disponibile da oggi in Accesso Anticipato",
+      "link": "https://www.hdblog.it/amazon/articoli/n654930/alexa-arriva-italia-ecco-come-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-15T18:39:00+00:00"
     },
     {
       "titolo": "Quando l'AI della polizia sbaglia a identificare i criminali",
@@ -114,13 +135,6 @@
       "data": "2026-04-15T15:00:23+00:00"
     },
     {
-      "titolo": "Router Netgear salvi dal bando USA: arriva l'esenzione a sorpresa",
-      "descrizione": "La FCC concede a Netgear una deroga speciale per importare router nonostante il bando nazionale.",
-      "link": "https://www.hdblog.it/hardware/articoli/n655189/netgear-fcc-esenzione-router/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-15T14:50:00+00:00"
-    },
-    {
       "titolo": "Verifica età: pronta l’app UE che arriverà in IT-Wallet",
       "descrizione": "L'app europea che permetterà la verifica dell'età prima di accedere alle piattaforme è pronta e sarà presto disponibile (in Italia tramite IT-Wallet). The post Verifica età: pronta l’app UE che arriverà in IT-Wallet appe",
       "link": "https://www.punto-informatico.it/verifica-eta-pronta-app-ue-it-wallet/",
@@ -154,20 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/alexa-arriva-oggi-italia-come-funziona-nuova-vocale-generativa-AIomUJVC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-15T13:00:00+00:00"
-    },
-    {
-      "titolo": "Francia dice addio a Windows per una maggiore indipendenza digitale",
-      "descrizione": "Il piano francese si articola in varie fase e l’addio a Microsoft è solo una piccola parte di una strategia complessa e articolata in varie fase",
-      "link": "https://www.ilsole24ore.com/art/francia-dice-addio-windows-una-maggiore-indipendenza-digitale-AIFzWCWC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-15T12:39:49+00:00"
-    },
-    {
-      "titolo": "China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters — state hails successful trial and hints at deployment readiness",
-      "descrizione": "China has successfully tested a \"deep-sea electro-hydrostatic actuator\" that can cut undersea cables at a depth of 3,500 meters.",
-      "link": "https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-15T12:03:58+00:00"
     }
   ]
 }
