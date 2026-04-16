@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-16T08:05:04.127540+00:00",
+  "last_updated": "2026-04-16T14:16:19.082142+00:00",
   "items": [
     {
-      "titolo": "YMTC's third Wuhan fab clears Beijing's 50% local tooling threshold as two more are planned — move positions company toward 3D NAND production to capitalize on wafer bonding strengths",
-      "descrizione": "China’s YMTC is expected to start operations at its Phase 3 Wuhan fab late this year as the first leading-edge memory plant built to comply with Beijing's unwritten 50% tooling requirement.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtcs-third-wuhan-fab-clears-beijings-50-percent-domestic-tooling-threshold-as-two-more-are-planned",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-15T15:40:56+00:00",
+      "titolo": "Huawei presenta una nuova serratura smart con un comodo lettore impronte AI",
+      "descrizione": "La nuova Huawei Smart Lock M2 supporta impronte, NFC, password e dispositivi mobili, offrendo un accesso rapido in 0,5 secondi e un livello di sicurezza avanzato certificato",
+      "link": "https://www.hdblog.it/huawei/articoli/n655320/huawei-serratura-smart-m2-impronta-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-16T12:45:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
-      "descrizione": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
-      "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-12T14:18:08+00:00",
+      "titolo": "Admin IT potranno forzare Copilot su Edge e bloccare i competitor",
+      "descrizione": "La nuova funzione di Edge permette agli admin IT di bloccare 20 strumenti AI consumer e forzare l'uso di Microsoft 365 Copilot. The post Admin IT potranno forzare Copilot su Edge e bloccare i competitor appeared first on",
+      "link": "https://www.punto-informatico.it/admin-it-potranno-forzare-copilot-edge-bloccare-competitor/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-16T09:08:29+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini AI: ora c'è l'app nativa per i Mac",
-      "descrizione": "Google ha rilasciato l'app nativa Gemini AI per i sistemi Apple Silicon basati su macOS. Scaricabile direttamente dai server Google, la nuova app punta a diventare un vero e proprio assistente...",
-      "link": "https://www.hdblog.it/apple/articoli/n655238/gemini-ai-google-app-nativa-macos/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T07:50:00+00:00",
+      "titolo": "Il tuo coro del Napoli al Maradona? Ora puoi con l’AI di Gemini",
+      "descrizione": "Google e il Napoli lanciano l'iniziativa, chiedendo ai tifosi di creare un coro da stadio personalizzato con l'AI di Gemini e Lyria 3. The post Il tuo coro del Napoli al Maradona? Ora puoi con l’AI di Gemini appeared fir",
+      "link": "https://www.punto-informatico.it/coro-napoli-maradona-ai-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-16T14:07:11+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude: la verifica dell’identità è obbligatoria per alcune feature",
-      "descrizione": "Il chatbot di Anthropic potrebbe chiedere un documento e un selfie: nuova misura di sicurezza per l’accesso alle funzionalità di Claude. The post Claude: la verifica dell’identità è obbligatoria per alcune feature appear",
-      "link": "https://www.punto-informatico.it/claude-verifica-identita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T06:24:43+00:00",
+      "titolo": "Anthropic Plots Major London Expansion",
+      "descrizione": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person headcount in London.",
+      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "fonte": "WIRED",
+      "data": "2026-04-16T13:49:35+00:00",
       "modello": "claude"
     }
   ]
