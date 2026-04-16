@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-16T14:16:19.082142+00:00",
+  "last_updated": "2026-04-16T19:38:06.252639+00:00",
   "items": [
     {
-      "titolo": "Huawei presenta una nuova serratura smart con un comodo lettore impronte AI",
-      "descrizione": "La nuova Huawei Smart Lock M2 supporta impronte, NFC, password e dispositivi mobili, offrendo un accesso rapido in 0,5 secondi e un livello di sicurezza avanzato certificato",
-      "link": "https://www.hdblog.it/huawei/articoli/n655320/huawei-serratura-smart-m2-impronta-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T12:45:00+00:00",
+      "titolo": "The Battle for OpenAI’s Soul",
+      "descrizione": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "fonte": "WIRED",
+      "data": "2026-04-16T18:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Plots Major London Expansion",
-      "descrizione": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person headcount in London.",
-      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-      "fonte": "WIRED",
-      "data": "2026-04-16T13:49:35+00:00",
+      "titolo": "Claude Opus 4.7: versione per tutti di Claude Mythos",
+      "descrizione": "Claude Opus 4.7 è il nuovo modello di Anthropic che offre prestazioni superiore al precedente e alcune capacità simili a quelle di Claude Mythos. The post Claude Opus 4.7: versione per tutti di Claude Mythos appeared fir",
+      "link": "https://www.punto-informatico.it/claude-opus-4-7-versione-tutti-claude-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-16T17:24:54+00:00",
       "modello": "claude"
     }
   ]
