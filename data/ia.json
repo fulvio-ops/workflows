@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-17T13:59:31.872882+00:00",
+  "last_updated": "2026-04-17T19:32:50.045116+00:00",
   "items": [
     {
-      "titolo": "OpenAI Codex per desktop può controllare il computer",
-      "descrizione": "Codex per desktop può usare le app sul computer (solo su Mac) e offre un browser in-app che permette di modificare le pagine web tramite commenti. The post OpenAI Codex per desktop può controllare il computer appeared fi",
-      "link": "https://www.punto-informatico.it/openai-codex-desktop-controlla-computer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T07:31:46+00:00",
+      "titolo": "Ai in Europa: l’industria chiede regole più semplici e tempi certi",
+      "descrizione": "Quindici associazioni di categoria tra cui BSA e AmCham EU chiedono a Bruxelles un accordo rapido sul Digital Omnibus presentato dalla Commissione a fine 2025",
+      "link": "https://www.ilsole24ore.com/art/ai-europa-l-industria-chiede-regole-piu-semplici-e-tempi-certi-AI2UKIXC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-17T05:58:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Due novità della Google AI Mode in Chrome la rendono un browser nel browser",
-      "descrizione": "Navigando con Chrome, i link nei risultati generati dall'AI Mode di Google non aprono più una nuova scheda, ma si affiancano alla chat.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n655469/novita-google-ai-mode-chrome-browser/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T13:45:00+00:00",
+      "titolo": "Gemini ha rilevato oltre 8 miliardi di inserzioni truffa",
+      "descrizione": "Grazie all'uso di Gemini, Google ha bloccato oltre 8,3 milioni di annunci pericolosi, quasi tutti prima della visualizzazione da parte degli utenti. The post Gemini ha rilevato oltre 8 miliardi di inserzioni truffa appea",
+      "link": "https://www.punto-informatico.it/gemini-rilevato-oltre-8-miliardi-inserzioni-truffa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-17T15:05:50+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "La Casa Bianca vuole usare Claude Mythos di Anthropic",
-      "descrizione": "Nonostante il ban di Anthropic, la Casa Bianca vuole usare il nuovo modello Claude Mythos per migliorare le protezioni contro cyberattacchi stranieri. The post La Casa Bianca vuole usare Claude Mythos di Anthropic appear",
-      "link": "https://www.punto-informatico.it/casa-bianca-vuole-usare-claude-mythos-anthropic/",
+      "titolo": "Anthropic Claude Design: progettazione visiva con Opus 4.7",
+      "descrizione": "Claude Design usa il modello Claude Opus 4.7 per consentire la creazione di prototipi, presentazioni e altri contenuti visivi a partire da un prompt. The post Anthropic Claude Design: progettazione visiva con Opus 4.7 ap",
+      "link": "https://www.punto-informatico.it/anthropic-claude-design-progettazione-visiva-opus-4-7/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-17T13:41:18+00:00",
+      "data": "2026-04-17T16:24:42+00:00",
       "modello": "claude"
     }
   ]
