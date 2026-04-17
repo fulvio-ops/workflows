@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-04-17T03:46:16.023765+00:00",
+  "last_updated": "2026-04-17T08:05:01.033784+00:00",
   "items": [
+    {
+      "titolo": "La scommessa di Stellantis: una Pandina elettrica a meno di 15.000 euro?",
+      "descrizione": "Nuova Fiat Pandina: l'elettrica per tutti a meno di 15.000 euro. Stellantis sfida la concorrenza con l’erede della city car più amata",
+      "link": "https://www.hdmotori.it/fiat-pandina-elettrica-15000-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T08:00:03+00:00"
+    },
+    {
+      "titolo": "Ecolabel UE, come un'etichetta può favorire la transizione verde",
+      "descrizione": "A marzo 2026 sono stati ben 116.692 i certificati rilasciati, tra beni e servizi, dei quali ben il 97% richiesto da aziende europee: Ecolabel UE funziona e dimostra come un semplice bollino è in...",
+      "link": "https://www.hdblog.it/green/articoli/n655389/ecolabel-ue-successo-marchio-green-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:55:00+00:00"
+    },
+    {
+      "titolo": "Android 17 Beta 4 arriva sui Pixel compatibili: è l'ultima prevista",
+      "descrizione": "Non ci sono tantissime novità; spicca in particolare la limitazione dinamica della memoria che le app possono allocare.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655406/android-17-beta-4-ultima-release-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:45:00+00:00"
+    },
+    {
+      "titolo": "The Mandalorian e Grogu: Lucasfilm pubblica il trailer finale",
+      "descrizione": "Il trailer finale di The Mandalorian e Grogu svela nuovi alleati e il ritorno dei signori della guerra.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n655401/mandalorian-grogu-trailer-film-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:40:00+00:00"
+    },
+    {
+      "titolo": "Netflix cambia volto su smartphone: in arrivo il feed video verticale in stile social",
+      "descrizione": "Netflix, doomscroll & chill.",
+      "link": "https://www.hdblog.it/android/articoli/n655383/netflix-app-iphone-aggiornamento-aprile-feed-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:35:00+00:00"
+    },
+    {
+      "titolo": "Ferrari Luce: gli interni protagonisti di un nuovo video",
+      "descrizione": "Oltre alle prestazioni da hypercar, la nuova Ferrari Luce si distingue per l’abitacolo rivoluzionario, svelato ulteriormente da un video ufficiale in attesa del debutto il prossimo mese.",
+      "link": "https://www.hdmotori.it/ferrari-luce-interni-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:30:57+00:00"
+    },
+    {
+      "titolo": "Galaxy A27, così il design è più moderno: l'economico di Samsung nei primi render",
+      "descrizione": "Finalmente Samsung dice addio al notch a goccia.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655393/samsung-galaxy-a27-design-render-specifiche-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:25:00+00:00"
+    },
+    {
+      "titolo": "PlayStation 6 e PS6 portatile saranno retrocompatibili con PS4 e PS5 per i leak",
+      "descrizione": "La variante handheld sarà una vera e propria estensione della piattaforma PS6.",
+      "link": "https://www.hdblog.it/sony/articoli/n655386/playstation-6-ps6-ps4-ps5-retrocompatibilita-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:15:00+00:00"
+    },
+    {
+      "titolo": "Il nuovo thermos Xiaomi in titanio è leggerissimo e tiene il freddo",
+      "descrizione": "Xiaomi presenta Mijia Ti2: thermos in titanio purissimo al 99% ultraleggero e antibatterico.",
+      "link": "https://www.hdblog.it/home/articoli/n655391/thermos-titanio-xiaomi-moonlight-silver/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:10:00+00:00"
+    },
+    {
+      "titolo": "Oppo Find X10 promette davvero bene per i rumor: fotocamere top e batteria enorme",
+      "descrizione": "L'identikit comincia già a farsi molto interessante.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655380/oppo-find-x10-specifiche-batteria-200-mp-lancio/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T07:05:00+00:00"
+    },
+    {
+      "titolo": "Apple, Stan Ng lascia dopo 31 anni: ha lavorato a iPod, Apple Watch e AirPods",
+      "descrizione": "Apple perde uno dei suoi volti più esperti nel marketing",
+      "link": "https://www.hdblog.it/apple/articoli/n655392/apple-stan-ng-lascia-dopo-31-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T06:35:00+00:00"
+    },
+    {
+      "titolo": "Genesis protagonista nella 6h di Imola: esordio nel WEC",
+      "descrizione": "L'Autodromo Enzo e Dino Ferrari ospiterà la gara inaugurale della stagione 2026 della massima serie di durata con Genesis chiamata al debutto",
+      "link": "https://www.hdmotori.it/genesis-6h-imola-esordio-wec/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T06:30:03+00:00"
+    },
+    {
+      "titolo": "Energia indossabile dai vecchi abiti: la nuova vita della pelle",
+      "descrizione": "Dalla ricerca arriva un metodo laser per creare batterie flessibili e sostenibili usando il cuoio.",
+      "link": "https://www.hdblog.it/green/articoli/n655382/cuoio-energia-indossabile-laser/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T06:25:00+00:00"
+    },
+    {
+      "titolo": "Google e Gucci al lavoro insieme per gli occhiali smart di lusso",
+      "descrizione": "Arrivano gli occhiali smart di Gucci: collaborazione con Google per portare questa categoria di dispositivi all'interno del segmento luxury. The post Google e Gucci al lavoro insieme per gli occhiali smart di lusso appea",
+      "link": "https://www.punto-informatico.it/google-gucci-occhiali-smart-lusso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-17T06:05:53+00:00"
+    },
+    {
+      "titolo": "Netflix cresce, Reed Hastings lascia: il cofondatore esce dopo quasi 30 anni",
+      "descrizione": "Il cofondatore non si ricandiderà al consiglio di amministrazione",
+      "link": "https://www.hdblog.it/business/articoli/n655388/netflix-cresce-reed-hastings-lascia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T06:05:00+00:00"
+    },
+    {
+      "titolo": "Con le eSIM Saily hai Giga Illimitati Senza Roaming e Protezione Totale",
+      "descrizione": "Grazie alle eSIM Saily puoi avere Giga Illimitati Senza Roaming quando sei in viaggio e inclusa anche una protezione totale con privacy. The post Con le eSIM Saily hai Giga Illimitati Senza Roaming e Protezione Totale ap",
+      "link": "https://www.punto-informatico.it/esim-saily-giga-illimitati-senza-roaming-protezione-totale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-17T05:59:20+00:00"
+    },
+    {
+      "titolo": "Ai in Europa: l’industria chiede regole più semplici e tempi certi",
+      "descrizione": "Quindici associazioni di categoria tra cui BSA e AmCham EU chiedono a Bruxelles un accordo rapido sul Digital Omnibus presentato dalla Commissione a fine 2025",
+      "link": "https://www.ilsole24ore.com/art/ai-europa-l-industria-chiede-regole-piu-semplici-e-tempi-certi-AI2UKIXC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-17T05:58:34+00:00"
+    },
+    {
+      "titolo": "Toyota aprirà un nuovo hub digitale europeo in Polonia",
+      "descrizione": "",
+      "link": "https://www.hdmotori.it/toyota-nuovo-hub-digitale-polonia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-17T05:30:09+00:00"
+    },
+    {
+      "titolo": "Siamo vicini alla più grande crisi energetica secondo il Fondo Monetario Internazionale",
+      "descrizione": "Secondo il Fondo Monetario Internazionale tutti siamo molto vicini alla più grande crisi energetica mondiale di tutti i tempi moderni. The post Siamo vicini alla più grande crisi energetica secondo il Fondo Monetario Int",
+      "link": "https://www.punto-informatico.it/siamo-vicini-piu-grande-crisi-energetica-secondo-fondo-monetario-internazionale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-17T05:00:37+00:00"
+    },
+    {
+      "titolo": "TopResume Free Review, Discounts & Packages for 2026",
+      "descrizione": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
+      "link": "https://www.wired.com/story/topresume-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-04-17T05:00:00+00:00"
+    },
     {
       "titolo": "AI-powered website builders have come a long way - here's your best option in 2026",
       "descrizione": "Last year, the best we could say about AI website builders is they had potential. This year, we found some that can actually do the job.",
@@ -28,146 +168,6 @@
       "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
       "fonte": "WIRED",
       "data": "2026-04-16T18:54:20+00:00"
-    },
-    {
-      "titolo": "Why this MagSafe battery pack is our readers' favorite model right now - especially at its price",
-      "descrizione": "Torras' MiniMag Power Bank is the slimmest and sleekest MagSafe battery pack I've tested, and readers love it.",
-      "link": "https://www.zdnet.com/article/torras-minimag-magsafe-battery-review/",
-      "fonte": "Latest news",
-      "data": "2026-04-16T18:30:00+00:00"
-    },
-    {
-      "titolo": "The Online Fiction Boom Reimagining China’s History",
-      "descrizione": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
-      "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
-      "fonte": "WIRED",
-      "data": "2026-04-16T18:17:18+00:00"
-    },
-    {
-      "titolo": "AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs",
-      "descrizione": "Demand for CPUs by AI systems is creating positive sentiment and drives AMD and Intel stocks to their highs.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-16T17:59:24+00:00"
-    },
-    {
-      "titolo": "L’AI di Roblox ora pianifica, costruisce e testa i giochi",
-      "descrizione": "Roblox aggiorna il suo assistente AI con Planning Mode: pianifica il gioco, genera modelli 3D, testa il gameplay e corregge i bug automaticamente. The post L’AI di Roblox ora pianifica, costruisce e testa i giochi appear",
-      "link": "https://www.punto-informatico.it/ai-roblox-pianifica-costruisce-testa-giochi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T17:31:38+00:00"
-    },
-    {
-      "titolo": "Esami online: il candidato può essere ripreso e tracciato? Il GP fa chiarezza",
-      "descrizione": "Pubblicate nuove FAQ",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655329/esami-online-riprese-tracciamento-privacy/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T17:30:00+00:00"
-    },
-    {
-      "titolo": "VPN per l’Italia: connessione sicura e senza blocchi geografici con NordVPN",
-      "descrizione": "NordVPN è la soluzione giusta per tutti gli utenti alla ricerca di una nuova VPN per l'Italia: ecco perché è il servizio da scegliere oggi. The post VPN per l’Italia: connessione sicura e senza blocchi geografici con Nor",
-      "link": "https://www.punto-informatico.it/vpn-per-litalia-connessione-sicura-e-senza-blocchi-geografici-con-nordvpn/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T17:03:36+00:00"
-    },
-    {
-      "titolo": "BMW chiama Rimac per le batterie della nuova i7 elettrica",
-      "descrizione": "Da una partnership tra BMW e Rimac Technology è nata una tecnologia innovativa per la futura i7 full electric",
-      "link": "https://www.hdmotori.it/bmw-rimac-batterie-nuova-i7-elettrica/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T17:00:58+00:00"
-    },
-    {
-      "titolo": "Character.AI trasforma i classici della letteratura in giochi di ruolo",
-      "descrizione": "Character.AI lancia Books, una modalità che trasforma i classici della letteratura in giochi di ruolo interattivi. Oltre 20 titoli da Project Gutenberg. The post Character.AI trasforma i classici della letteratura in gio",
-      "link": "https://www.punto-informatico.it/character-ai-trasforma-classici-letteratura-giochi-ruolo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T16:58:07+00:00"
-    },
-    {
-      "titolo": "Anthropic rilascia Claude Opus 4.7: migliora il coding e la visione artificiale",
-      "descrizione": "Anthropic lancia Claude Opus 4.7, migliorando sensibilmente il coding e la visione artificiale.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n655359/claude-opus-4-7-novita-coding/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T16:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi svela la cappa smart Mijia 3C: potente e costa poco",
-      "descrizione": "Per il momento solo in Cina.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655339/xiaomi-cappa-smart-mijia-3c-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T16:40:00+00:00"
-    },
-    {
-      "titolo": "Peugeot cambia i numeri, sugli ibridi plug-in mutano i CV ma non le prestazioni",
-      "descrizione": "Con l'avvicinarsi dello standard Euro 7, Peugeot anticipa il nuovo protocollo di omologazione GTR21 per la potenza combinata dei modelli PHEV",
-      "link": "https://www.hdmotori.it/peugeot-nuova-denominazione-3008-5005-308-phev-euro-7/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T16:30:27+00:00"
-    },
-    {
-      "titolo": "Compra un Tesla Cybertruck per 100.000 dollari: dopo 24 ore lo riporta indietro",
-      "descrizione": "La voglia di guidare il mastodontico pick-up Cybertruck di Tesla è durata appena un giorno. Un cliente lo ha rispedito al mittente",
-      "link": "https://www.hdmotori.it/tesla-cybertruck-100-000-dollari-riportato/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T16:00:06+00:00"
-    },
-    {
-      "titolo": "Stellantis - Microsoft, alleanza nel nome dell'IA a bordo delle auto",
-      "descrizione": "Dall'IA alla riduzione del 60% dell'impatto dei data center: i dettagli della nuova alleanza quinquennale tra Stellantis e Microsoft",
-      "link": "https://www.hdmotori.it/stellantis-microsoft-allenza-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T15:30:21+00:00"
-    },
-    {
-      "titolo": "OpenAI ti chiederà di metterci la faccia con la foto di riferimento in ChatGPT",
-      "descrizione": "Sarà possibile caricare una foto di riferimento su ChatGPT, impostando il proprio volto come punto di partenza per l'editing con l'AI.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n655344/openai-foto-riferimento-chatgpt/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T15:25:00+00:00"
-    },
-    {
-      "titolo": "Anche in Italia Facebook accede alle foto per i collage",
-      "descrizione": "Arriva in Italia la funzionalità di Facebook che permette di suggerire collage dopo aver autorizzato il caricamento di foto e video sui server di Meta. The post Anche in Italia Facebook accede alle foto per i collage app",
-      "link": "https://www.punto-informatico.it/anche-italia-facebook-accede-foto-collage/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T14:58:13+00:00"
-    },
-    {
-      "titolo": "Amazfit Cheetah 2 Pro: massima precisione per lo smartwatch degli sportivi | PREZZO",
-      "descrizione": "Include anche le valutazioni della soglia del lattato.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n655341/amazfit-cheetah-2-pro-caratteristiche-prezzo-ita/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T14:50:00+00:00"
-    },
-    {
-      "titolo": "Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia — homegrown tool makers booked record 2025 revenues as price competition squeezes margins",
-      "descrizione": "2025 was a bumper year for Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech, with each posting record revenues.",
-      "link": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-16T14:38:01+00:00"
-    },
-    {
-      "titolo": "Govee Lightwall è ufficiale: la tenda luminosa diventa un muro di luce smart",
-      "descrizione": "Date luce d'atmosfera in qualsiasi spazio. Anche esterno.",
-      "link": "https://www.hdblog.it/domotica/articoli/n655321/govee-lightwall-ufficiale-muro-luce-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T14:35:00+00:00"
-    },
-    {
-      "titolo": "Da Torino a Palermo con una Lancia Flaminia GT del '67: bio-benzina nel serbatoio",
-      "descrizione": "Torino-Palermo in Lancia Flaminia: l'icona della \"Dolce Vita\" lancia la sfida della bio-benzina con un road-tour da 2.000 km",
-      "link": "https://www.hdmotori.it/lancia-flaminia-gt-2000-km-bio-benzina/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-16T14:30:59+00:00"
-    },
-    {
-      "titolo": "Il tuo coro del Napoli al Maradona? Ora puoi con l’AI di Gemini",
-      "descrizione": "Google e il Napoli lanciano l'iniziativa, chiedendo ai tifosi di creare un coro da stadio personalizzato con l'AI di Gemini e Lyria 3. The post Il tuo coro del Napoli al Maradona? Ora puoi con l’AI di Gemini appeared fir",
-      "link": "https://www.punto-informatico.it/coro-napoli-maradona-ai-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-16T14:07:11+00:00"
     }
   ]
 }

@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-04-17T03:46:20.268311+00:00",
+  "last_updated": "2026-04-17T08:05:04.290841+00:00",
   "items": [
     {
-      "titolo": "The Battle for OpenAI’s Soul",
-      "descrizione": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "fonte": "WIRED",
-      "data": "2026-04-16T18:00:00+00:00",
+      "titolo": "OpenAI Codex per desktop può controllare il computer",
+      "descrizione": "Codex per desktop può usare le app sul computer (solo su Mac) e offre un browser in-app che permette di modificare le pagine web tramite commenti. The post OpenAI Codex per desktop può controllare il computer appeared fi",
+      "link": "https://www.punto-informatico.it/openai-codex-desktop-controlla-computer/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-17T07:31:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Admin IT potranno forzare Copilot su Edge e bloccare i competitor",
-      "descrizione": "La nuova funzione di Edge permette agli admin IT di bloccare 20 strumenti AI consumer e forzare l'uso di Microsoft 365 Copilot. The post Admin IT potranno forzare Copilot su Edge e bloccare i competitor appeared first on",
-      "link": "https://www.punto-informatico.it/admin-it-potranno-forzare-copilot-edge-bloccare-competitor/",
+      "titolo": "Gemini genera immagini personalizzate usando ciò che sa di noi",
+      "descrizione": "Gemini usa Personal Intelligence per generare immagini personalizzate basate sui nostri interessi, email e foto sull'account Google. The post Gemini genera immagini personalizzate usando ciò che sa di noi appeared first",
+      "link": "https://www.punto-informatico.it/gemini-genera-immagini-personalizzate-usando-cio-che-sa-noi/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-16T09:08:29+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "I tried the new Gemini app for Mac - and it's better than the website in one big way",
-      "descrizione": "Beyond being quick and convenient, Google's Gemini app can access and analyze the content in any window you share from your Mac desktop. Here's why that's so useful.",
-      "link": "https://www.zdnet.com/article/google-gemini-app-mac/",
-      "fonte": "Latest news",
-      "data": "2026-04-16T21:18:28+00:00",
+      "data": "2026-04-17T06:40:32+00:00",
       "modello": "gemini"
     },
     {
