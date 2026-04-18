@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-04-18T07:35:33.879867+00:00",
+  "last_updated": "2026-04-18T13:36:26.652993+00:00",
   "items": [
+    {
+      "titolo": "Il fantasma in cima alle classifiche: cosa ci insegna il caso Eddie Dalton",
+      "descrizione": "L’ai artist blues sta scalando le classifiche. C’è da preoccuparsi per la cara vecchia musica o è solo concorrenza?",
+      "link": "https://www.ilsole24ore.com/art/il-fantasma-cima-classifiche-cosa-ci-insegna-caso-eddie-dalton-AIFMKOTC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-18T12:47:16+00:00"
+    },
+    {
+      "titolo": "Un mese con iPad Air M4, è quello da comprare oggi (se non siete Pro)",
+      "descrizione": "Abbiamo usato per un mese iPad Air M4, ecco come è andata e perchè secondo noi è il prodotto più \"furbo\" della lineup",
+      "link": "https://www.hdblog.it/portatili/recensioni/n655405/ipad-air-m4-test-prova-sconto-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T11:00:00+00:00"
+    },
+    {
+      "titolo": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "descrizione": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "fonte": "WIRED",
+      "data": "2026-04-18T10:30:00+00:00"
+    },
+    {
+      "titolo": "World ID di Sam Altman: la sfida ai bot per i biglietti dei concerti",
+      "descrizione": "World ID lancia Concert Kit per riservare biglietti ai soli umani verificati tramite scansione.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n655528/world-id-biglietti-concerti-sam-altman/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T10:05:00+00:00"
+    },
+    {
+      "titolo": "Audi, il motore 6 cilindri è da oltre un secolo testimonianza di eccellenza",
+      "descrizione": "Dalla Typ M del 1924 alla nuova RS 5 plug-in da 639 CV: un secolo di innovazione e prestazioni nel segno del motore 6 cilindri Audi",
+      "link": "https://www.hdmotori.it/audi-motore-6-cilindri/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T10:00:18+00:00"
+    },
+    {
+      "titolo": "Nvidia CEO Jensen Huang ‘nearly lost his composure’ when pressed on selling chips to China — ‘You’re not talking to someone who woke up a loser’",
+      "descrizione": "Nvidia CEO Jensen Huang said that blocking China, the second biggest market for AI chips, from buying from American companies is a \"losing proposition\" that makes no sense to him.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-18T10:00:00+00:00"
+    },
+    {
+      "titolo": "Windows 11: novità per Esplora file, storage e sicurezza",
+      "descrizione": "Microsoft ha rilasciato una nuova build di Windows 11 con novità per Esplora file, storage e sicurezza che saranno disponibili a tutti entro fine mese. The post Windows 11: novità per Esplora file, storage e sicurezza ap",
+      "link": "https://www.punto-informatico.it/windows-11-novita-esplora-file-storage-sicurezza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-18T09:55:45+00:00"
+    },
+    {
+      "titolo": "Octopus Energy: inizia a risparmiare sulla bolletta adesso e goditi l’estate senza pensieri",
+      "descrizione": "Octopus Energia Fissa 12 Mesi: blocca il prezzo di luce e gas per un anno e dimentica le brutte sorprese in bolletta. Scopri come attivare l'offerta online. The post Octopus Energy: inizia a risparmiare sulla bolletta ad",
+      "link": "https://www.punto-informatico.it/octopus-energy-inizia-a-risparmiare-sulla-bolletta-adesso-e-goditi-lestate-senza-pensieri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-18T09:17:05+00:00"
+    },
+    {
+      "titolo": "Google Pixel 9a, nuovo minimo storico: display OLED a tante funzioni AI",
+      "descrizione": "Diminuisce ulteriormente il costo del Google Pixel 9a. Lo smartphone AI con doppia fotocamera, display OLED a 120Hz e 24 ore di autonomia ora costa meno di 350€.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n655543/google-pixel-9a-nuovo-minimo-storico-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T09:16:00+00:00"
+    },
+    {
+      "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
+      "descrizione": "Bill Peebles e Kevin Weil lasciano OpenAI mentre l'azienda chiude i progetti Sora e Prism.",
+      "link": "https://www.hdblog.it/mercato/articoli/n655529/terremoto-openai-se-ne-vanno-il-capo-di-sora-e-il-vp-scientifico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T09:05:00+00:00"
+    },
+    {
+      "titolo": "The ‘Lonely Runner’ Problem Only Appears Simple",
+      "descrizione": "Take a group of runners circling a track at unique, constant paces. Answering the question of how many will always end up running alone, no matter their speed, has vexed mathematicians for decades.",
+      "link": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
+      "fonte": "WIRED",
+      "data": "2026-04-18T09:00:00+00:00"
+    },
+    {
+      "titolo": "Iliad, la nuova offerta Giga Prime è anche per i già clienti (ma con delle condizioni)",
+      "descrizione": "Previsto costo di attivazione per alcuni",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655481/iliad-nuova-offerta-giga-prime-clienti-condizioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T08:35:00+00:00"
+    },
+    {
+      "titolo": "Rara Porsche 911 Carrera Speedster cambia pelle: prezzo da capogiro",
+      "descrizione": "Porsche 30 anni fa propose sul mercato una delle 911 più belle. Gli specialisti di Gunther Werks hanno creato un restomod spettacolare",
+      "link": "https://www.hdmotori.it/porsche-911-carrera-speedster-restomod/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T08:30:09+00:00"
+    },
+    {
+      "titolo": "NordVPN in offerta speciale: ora il 76% di sconto sui piani di 2 anni",
+      "descrizione": "Il servizio di rete privata virtuale è in offerta a partire da 2,99 euro al mese per i primi 24 mesi con tanto di garanzia di rimborso. The post NordVPN in offerta speciale: ora il 76% di sconto sui piani di 2 anni appea",
+      "link": "https://www.punto-informatico.it/nordvpn-in-offerta-speciale-ora-il-76-di-sconto-sui-piani-di-2-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-18T08:27:52+00:00"
+    },
+    {
+      "titolo": "Anthropic lancia Claude Design per creare grafiche e prototipi al volo",
+      "descrizione": "Anthropic presenta Claude Design per generare prototipi e slide partendo da semplici testi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655506/anthropic-claude-design-prototipi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T08:05:00+00:00"
+    },
     {
       "titolo": "Insta360 Luna Ultra, nuove conferme, teaser ufficiali e indiscrezioni",
       "descrizione": "Insta360 stessa ha confermato il nome della gimbal camera e la caratteristica fondamentale - ovvero la doppia fotocamera.",
@@ -63,111 +168,6 @@
       "link": "https://www.punto-informatico.it/la-migliore-vpn-per-litalia-e-in-offerta-al-prezzo-piu-basso-di-sempre-79/",
       "fonte": "Punto Informatico",
       "data": "2026-04-17T17:15:04+00:00"
-    },
-    {
-      "titolo": "Honor è pronta a lanciare tanti nuovi notebook tra MagicBook X, Pro e Win",
-      "descrizione": "Il lancio dei nuovi prodotti è previsto per il 23 aprile.",
-      "link": "https://www.hdblog.it/portatili/articoli/n655501/honor-lancia-notebook-magicbook-win-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T17:15:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Z TriFold 2, Samsung vuole una cerniera ancora più sottile",
-      "descrizione": "La buona notizia è che una versione semplificata del nuovo design verrà proposta anche sui Fold e Flip di prossima generazione.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655514/samsung-galaxy-z-trifold-2-nuova-cerniera/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T16:45:00+00:00"
-    },
-    {
-      "titolo": "Auto, clienti e concessionarie: la transizione (non ancora risolta) del mercato",
-      "descrizione": "Il percorso è sempre più digitale, ma le concessionarie restano frammentate. Ecco cosa sta cambiando - e cosa no - nel rapporto tra clienti e dealer",
-      "link": "https://www.hdmotori.it/auto-clienti-concessionarie-transizione-non-ancora-risolta-mercato/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T16:30:56+00:00"
-    },
-    {
-      "titolo": "Miglior Barbecue Elettrico 2026: Guida e Classifica",
-      "descrizione": "Confronta i migliori barbecue elettrici, dai modelli professionali alle pratiche griglie elettriche da balcone. Scegli la tua griglia barbecue elettrica ideale!",
-      "link": "https://www.hdblog.it/home/guide/n655027/migliori-barbecue-elettrici/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T16:22:00+00:00"
-    },
-    {
-      "titolo": "Casely rinnova il richiamo per i suoi powerbank a rischio esplosione",
-      "descrizione": "Una persona ci ha già rimesso la vita, non è una cosa da prendere tanto sotto gamba.",
-      "link": "https://www.hdblog.it/android/articoli/n655510/casely-richiamo-powerbank-magsafe-cosa-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T16:15:00+00:00"
-    },
-    {
-      "titolo": "Aprilia X 250TH: sold out in 14 giorni, una moto da collezione unica",
-      "descrizione": "Aprilia X 250TH incanta con la livrea \"Stars and Stripes\". Una serie limitatissima nata per celebrare i 250 anni degli USA",
-      "link": "https://www.hdmotori.it/aprilia-x-250th-sold-out-record-vendite/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T16:00:13+00:00"
-    },
-    {
-      "titolo": "Microsoft: un milione di dollari e una Mercedes a chi usa Edge",
-      "descrizione": "Microsoft lancia un concorso a premi da un milione di dollari e auto Mercedes-AMG per convincere gli utenti a usare Edge. The post Microsoft: un milione di dollari e una Mercedes a chi usa Edge appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/microsoft-un-milione-dollari-una-mercedes-a-chi-usa-edge/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T15:56:52+00:00"
-    },
-    {
-      "titolo": "La Stazione Spaziale cambia rotta: motori accesi per correggere l'orbita",
-      "descrizione": "Nuova manovra per la ISS: la navetta Progress 93 corregge l'orbita e arrivano nuovi esperimenti.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n655499/stazione-spaziale-correzione-orbita-progress/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T15:55:00+00:00"
-    },
-    {
-      "titolo": "Analytics group signals possible delays at 40% of AI data center construction sites — companies deny schedule holdups, but satellite imagery indicates otherwise",
-      "descrizione": "At least 40% of all AI data centers slated for completion in 2026 will be delayed, according to a data analytics group. AI tech companies say everything is on schedule, but labor and material shortages are seemingly hold",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-17T15:40:59+00:00"
-    },
-    {
-      "titolo": "Nissan non si ferma più: due teaser anticipano un fuoristrada e un SUV",
-      "descrizione": "Nissan svela i nuovi concept tra fuoristrada estremi e city car tech. Ecco come il brand giapponese sta rivoluzionando la gamma BEV e NEV",
-      "link": "https://www.hdmotori.it/nissan-novita-concept-elettrici-pechino/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-17T15:30:43+00:00"
-    },
-    {
-      "titolo": "Local political revolts threaten to derail US data center projects — mounting delays are already costing AI hyperscalers billions",
-      "descrizione": "Local communities all over America and the world are pushing back on the explosive growth of AI data center projects. Through local courts, community action, and intense meetings with politicians, the general public are",
-      "link": "https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-17T15:25:06+00:00"
-    },
-    {
-      "titolo": "Gemini ha rilevato oltre 8 miliardi di inserzioni truffa",
-      "descrizione": "Grazie all'uso di Gemini, Google ha bloccato oltre 8,3 milioni di annunci pericolosi, quasi tutti prima della visualizzazione da parte degli utenti. The post Gemini ha rilevato oltre 8 miliardi di inserzioni truffa appea",
-      "link": "https://www.punto-informatico.it/gemini-rilevato-oltre-8-miliardi-inserzioni-truffa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T15:05:50+00:00"
-    },
-    {
-      "titolo": "La Casa Bianca vuole usare Claude Mythos di Anthropic",
-      "descrizione": "Nonostante il ban di Anthropic, la Casa Bianca vuole usare il nuovo modello Claude Mythos per migliorare le protezioni contro cyberattacchi stranieri. The post La Casa Bianca vuole usare Claude Mythos di Anthropic appear",
-      "link": "https://www.punto-informatico.it/casa-bianca-vuole-usare-claude-mythos-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T13:41:18+00:00"
-    },
-    {
-      "titolo": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
-      "descrizione": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
-      "link": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
-      "fonte": "WIRED",
-      "data": "2026-04-17T13:19:40+00:00"
-    },
-    {
-      "titolo": "Intel hires tenured Samsung exec to lead Foundry Services — signals company focus on winning business from potential Foundry suitors",
-      "descrizione": "Intel lures Shawn 'Seung Hoon' Han from Samsung Foundry to land new customers and maintain customer relationships at Intel Foundry.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-17T13:13:48+00:00"
     }
   ]
 }

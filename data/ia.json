@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-18T07:35:36.895968+00:00",
+  "last_updated": "2026-04-18T13:36:30.512242+00:00",
   "items": [
     {
-      "titolo": "OpenAI Executive Kevin Weil Is Leaving the Company",
-      "descrizione": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "fonte": "WIRED",
-      "data": "2026-04-17T19:56:42+00:00",
+      "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
+      "descrizione": "Bill Peebles e Kevin Weil lasciano OpenAI mentre l'azienda chiude i progetti Sora e Prism.",
+      "link": "https://www.hdblog.it/mercato/articoli/n655529/terremoto-openai-se-ne-vanno-il-capo-di-sora-e-il-vp-scientifico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-18T09:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Claude Design: progettazione visiva con Opus 4.7",
-      "descrizione": "Claude Design usa il modello Claude Opus 4.7 per consentire la creazione di prototipi, presentazioni e altri contenuti visivi a partire da un prompt. The post Anthropic Claude Design: progettazione visiva con Opus 4.7 ap",
-      "link": "https://www.punto-informatico.it/anthropic-claude-design-progettazione-visiva-opus-4-7/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T16:24:42+00:00",
+      "titolo": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "descrizione": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "fonte": "WIRED",
+      "data": "2026-04-18T10:30:00+00:00",
       "modello": "claude"
     }
   ]
