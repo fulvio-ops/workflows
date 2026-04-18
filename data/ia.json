@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T13:36:30.512242+00:00",
+  "last_updated": "2026-04-18T19:10:27.988310+00:00",
   "items": [
     {
       "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "descrizione": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "fonte": "WIRED",
-      "data": "2026-04-18T10:30:00+00:00",
+      "titolo": "Ritorna la pace tra Anthropic e la Casa Bianca?",
+      "descrizione": "L'incontro avvenuto ieri alla Casa Bianca tra il CEO di Anthropic e alcuni funzionari del governo potrebbe indicare il ritorno della pace tra le parti. The post Ritorna la pace tra Anthropic e la Casa Bianca? appeared fi",
+      "link": "https://www.punto-informatico.it/ritorna-la-pace-tra-anthropic-e-la-casa-bianca/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-18T14:15:34+00:00",
       "modello": "claude"
     }
   ]
