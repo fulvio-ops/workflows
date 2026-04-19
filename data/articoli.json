@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-04-19T13:35:24.258792+00:00",
+  "last_updated": "2026-04-19T19:10:18.459085+00:00",
   "items": [
+    {
+      "titolo": "Guida distratta, i comportamenti più pericolosi non sono quelli che pensiamo",
+      "descrizione": "Un'indagine americana su 2.500 automobilisti rivela che le distrazioni più diffuse al volante non sono i social media.",
+      "link": "https://www.hdmotori.it/guida-distratta-indagine-automobilisti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-19T15:30:00+00:00"
+    },
+    {
+      "titolo": "Rover Rosalind Franklin: lancio per Marte nel 2028",
+      "descrizione": "Il rover Rosalind Franklin dell'agenzia spaziale europea verrà lanciato con un razzo Falcon Heavy di SpaceX entro il 2028 e arriverà su Marte nel 2030. The post Rover Rosalind Franklin: lancio per Marte nel 2028 appeared",
+      "link": "https://www.punto-informatico.it/rover-rosalind-franklin-lancio-marte-2028/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-19T14:53:03+00:00"
+    },
+    {
+      "titolo": "Russian-made Shahed drones are ‘disintegrating in the air before reaching their targets’ due to shoddy manufacturing, video shows — commentators call Russian clones of Iran's drones 'flying garbage'",
+      "descrizione": "Video footage captured by Ukrainian Sting interceptor drones shows that Russia’s endless drone assault is now powered by what some commenters have described as ‘flying garbage.’",
+      "link": "https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-19T14:34:28+00:00"
+    },
+    {
+      "titolo": "Hostinger AI: creare un sito web in pochi minuti è davvero possibile e costa pochissimo",
+      "descrizione": "Hostinger offre dominio gratis, hosting e potenti strumenti AI per creare siti web in pochi minuti. Scopri tutte le funzionalità e i vantaggi unici. The post Hostinger AI: creare un sito web in pochi minuti è davvero pos",
+      "link": "https://www.punto-informatico.it/hostinger-ai-creare-un-sito-web-in-pochi-minuti-e-davvero-possibile-e-costa-pochissimo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-19T13:50:55+00:00"
+    },
     {
       "titolo": "Iliad TOP 300 PLUS: 300 GB in 5G a 11,99€ con prezzo fisso è imperdibile",
       "descrizione": "Offerta iliad TOP 300 PLUS: 300 GB in 5G, minuti illimitati e prezzo fisso a 11,99€ al mese. Scopri tutti i vantaggi e quanto è facile attivarla. The post Iliad TOP 300 PLUS: 300 GB in 5G a 11,99€ con prezzo fisso è impe",
@@ -140,34 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-18T10:00:00+00:00"
-    },
-    {
-      "titolo": "Windows 11: novità per Esplora file, storage e sicurezza",
-      "descrizione": "Microsoft ha rilasciato una nuova build di Windows 11 con novità per Esplora file, storage e sicurezza che saranno disponibili a tutti entro fine mese. The post Windows 11: novità per Esplora file, storage e sicurezza ap",
-      "link": "https://www.punto-informatico.it/windows-11-novita-esplora-file-storage-sicurezza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-18T09:55:45+00:00"
-    },
-    {
-      "titolo": "Octopus Energy: inizia a risparmiare sulla bolletta adesso e goditi l’estate senza pensieri",
-      "descrizione": "Octopus Energia Fissa 12 Mesi: blocca il prezzo di luce e gas per un anno e dimentica le brutte sorprese in bolletta. Scopri come attivare l'offerta online. The post Octopus Energy: inizia a risparmiare sulla bolletta ad",
-      "link": "https://www.punto-informatico.it/octopus-energy-inizia-a-risparmiare-sulla-bolletta-adesso-e-goditi-lestate-senza-pensieri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-18T09:17:05+00:00"
-    },
-    {
-      "titolo": "Google Pixel 9a, nuovo minimo storico: display OLED a tante funzioni AI",
-      "descrizione": "Diminuisce ulteriormente il costo del Google Pixel 9a. Lo smartphone AI con doppia fotocamera, display OLED a 120Hz e 24 ore di autonomia ora costa meno di 350€.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n655543/google-pixel-9a-nuovo-minimo-storico-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T09:16:00+00:00"
-    },
-    {
-      "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
-      "descrizione": "Bill Peebles e Kevin Weil lasciano OpenAI mentre l'azienda chiude i progetti Sora e Prism.",
-      "link": "https://www.hdblog.it/mercato/articoli/n655529/terremoto-openai-se-ne-vanno-il-capo-di-sora-e-il-vp-scientifico/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T09:05:00+00:00"
     }
   ]
 }
