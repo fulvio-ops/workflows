@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T03:51:01.593689+00:00",
+  "last_updated": "2026-04-19T07:47:27.338787+00:00",
   "items": [
     {
       "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini ha rilevato oltre 8 miliardi di inserzioni truffa",
-      "descrizione": "Grazie all'uso di Gemini, Google ha bloccato oltre 8,3 milioni di annunci pericolosi, quasi tutti prima della visualizzazione da parte degli utenti. The post Gemini ha rilevato oltre 8 miliardi di inserzioni truffa appea",
-      "link": "https://www.punto-informatico.it/gemini-rilevato-oltre-8-miliardi-inserzioni-truffa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-17T15:05:50+00:00",
+      "titolo": "I tried the new Gemini app for Mac - it has one major advantage over the web version",
+      "descrizione": "Beyond being quick and convenient, Google's Gemini app can access and analyze the content in any window you share from your Mac desktop - and it's a big deal.",
+      "link": "https://www.zdnet.com/article/google-gemini-app-mac/",
+      "fonte": "Latest news",
+      "data": "2026-04-17T11:01:03+00:00",
       "modello": "gemini"
     },
     {
