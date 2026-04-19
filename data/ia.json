@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T07:47:27.338787+00:00",
+  "last_updated": "2026-04-19T13:35:27.077139+00:00",
   "items": [
     {
       "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tried the new Gemini app for Mac - it has one major advantage over the web version",
-      "descrizione": "Beyond being quick and convenient, Google's Gemini app can access and analyze the content in any window you share from your Mac desktop - and it's a big deal.",
-      "link": "https://www.zdnet.com/article/google-gemini-app-mac/",
+      "titolo": "This powerful Gemini setting made my AI results way more personal and accurate",
+      "descrizione": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it.",
+      "link": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
       "fonte": "Latest news",
-      "data": "2026-04-17T11:01:03+00:00",
+      "data": "2026-04-19T10:00:41+00:00",
       "modello": "gemini"
     },
     {
