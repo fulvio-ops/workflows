@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-19T19:10:18.459085+00:00",
+  "last_updated": "2026-04-20T03:52:49.163766+00:00",
   "items": [
+    {
+      "titolo": "I hid 4 Bluetooth trackers (including AirTags) to test their reliability - here's how Android rivals compared",
+      "descrizione": "AirTags were released in April 2021, and since then, it's never been easier to find your lost gear. Years later, here's how they hold up.",
+      "link": "https://www.zdnet.com/article/retested-apple-airtags-after-five-years-how-they-compare/",
+      "fonte": "Latest news",
+      "data": "2026-04-19T23:00:43+00:00"
+    },
     {
       "titolo": "Guida distratta, i comportamenti più pericolosi non sono quelli che pensiamo",
       "descrizione": "Un'indagine americana su 2.500 automobilisti rivela che le distrazioni più diffuse al volante non sono i social media.",
@@ -161,13 +168,6 @@
       "link": "https://www.hdmotori.it/audi-motore-6-cilindri/",
       "fonte": "HDblog.it",
       "data": "2026-04-18T10:00:18+00:00"
-    },
-    {
-      "titolo": "Nvidia CEO Jensen Huang ‘nearly lost his composure’ when pressed on selling chips to China — ‘You’re not talking to someone who woke up a loser’",
-      "descrizione": "Nvidia CEO Jensen Huang said that blocking China, the second biggest market for AI chips, from buying from American companies is a \"losing proposition\" that makes no sense to him.",
-      "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-18T10:00:00+00:00"
     }
   ]
 }
