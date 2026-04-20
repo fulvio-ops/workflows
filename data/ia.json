@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-20T03:52:52.831627+00:00",
+  "last_updated": "2026-04-20T08:28:52.819325+00:00",
   "items": [
     {
-      "titolo": "Terremoto OpenAI: se ne vanno il capo di Sora e il VP scientifico",
-      "descrizione": "Bill Peebles e Kevin Weil lasciano OpenAI mentre l'azienda chiude i progetti Sora e Prism.",
-      "link": "https://www.hdblog.it/mercato/articoli/n655529/terremoto-openai-se-ne-vanno-il-capo-di-sora-e-il-vp-scientifico/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T09:05:00+00:00",
+      "titolo": "Intelligenza artificiale, i giovani vogliono avere voce in capitolo",
+      "descrizione": "L’AI Index Report 2026 di Stanford racconta un’accelerazione fuori scala ma il dato che colpisce di più non è tecnico, è politico. Il 73% degli esperti di intelligenza artificiale si...",
+      "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-giovani-vogliono-avere-voce-capitolo-AIkW6CVC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-20T08:24:55+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "This powerful Gemini setting made my AI results way more personal and accurate",
-      "descrizione": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it.",
-      "link": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
-      "fonte": "Latest news",
-      "data": "2026-04-19T10:00:41+00:00",
+      "titolo": "Google Gemini: sincronizzazione con NotebookLM per tutti",
+      "descrizione": "Non è più esclusiva degli utenti con piani a pagamento: la possibilità di inviare una chat di Google Gemini a NotebookLM sta arrivando per tutti, anche per gli utenti free.",
+      "link": "https://www.hdblog.it/google/articoli/n655596/google-gemini-sincronizzazione-notebooklm-free/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T08:20:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Ritorna la pace tra Anthropic e la Casa Bianca?",
-      "descrizione": "L'incontro avvenuto ieri alla Casa Bianca tra il CEO di Anthropic e alcuni funzionari del governo potrebbe indicare il ritorno della pace tra le parti. The post Ritorna la pace tra Anthropic e la Casa Bianca? appeared fi",
-      "link": "https://www.punto-informatico.it/ritorna-la-pace-tra-anthropic-e-la-casa-bianca/",
+      "titolo": "Trump non ha idea di cosa sia Anthropic (o finge bene)",
+      "descrizione": "Il Presidente USA si è sottratto a una domanda su Anthropic, dicendo (oppure fingendo) di non conoscere la società di Claude e Mythos. The post Trump non ha idea di cosa sia Anthropic (o finge bene) appeared first on Pun",
+      "link": "https://www.punto-informatico.it/trump-anthropic/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-18T14:15:34+00:00",
+      "data": "2026-04-20T06:41:38+00:00",
       "modello": "claude"
     }
   ]

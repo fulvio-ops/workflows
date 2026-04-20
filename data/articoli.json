@@ -1,19 +1,159 @@
 {
-  "last_updated": "2026-04-20T03:52:49.163766+00:00",
+  "last_updated": "2026-04-20T08:28:48.825566+00:00",
   "items": [
+    {
+      "titolo": "Xiaomi lancia Mijia Central Air Conditioner: punta su efficienza e intelligenza",
+      "descrizione": "Xiaomi presenta il Mijia Central Air Conditioner: design a doppia uscita per caldo e freddo, integrazione con ecosistema smart e aggiornamenti OTA per miglioramenti continui nel tempo",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n655612/xiaomi-presenta-mijia-central-air-conditioner-punta-su-efficienza-e-intelligenza/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T08:25:00+00:00"
+    },
+    {
+      "titolo": "Intelligenza artificiale, i giovani vogliono avere voce in capitolo",
+      "descrizione": "L’AI Index Report 2026 di Stanford racconta un’accelerazione fuori scala ma il dato che colpisce di più non è tecnico, è politico. Il 73% degli esperti di intelligenza artificiale si...",
+      "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-giovani-vogliono-avere-voce-capitolo-AIkW6CVC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-20T08:24:55+00:00"
+    },
+    {
+      "titolo": "Google Gemini: sincronizzazione con NotebookLM per tutti",
+      "descrizione": "Non è più esclusiva degli utenti con piani a pagamento: la possibilità di inviare una chat di Google Gemini a NotebookLM sta arrivando per tutti, anche per gli utenti free.",
+      "link": "https://www.hdblog.it/google/articoli/n655596/google-gemini-sincronizzazione-notebooklm-free/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T08:20:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 18 Pro Max sarà sempre un bestione da 6,9\", batteria da 8.500 mAh!",
+      "descrizione": "Della partita anche lo Snapdragon 8 Elite Gen 6, naturalmente.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655610/xiaomi-18-pro-max-display-batteria-chip/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T08:15:00+00:00"
+    },
+    {
+      "titolo": "Una fonte di acqua dolce scoperta sotto un lago salato potrebbe salvarci",
+      "descrizione": "Gli scienziati hanno da poco scoperto una fonte di acqua dolce nascosta proprio sotto il Gran Lago Salato che potrebbe salvarci in futuro. The post Una fonte di acqua dolce scoperta sotto un lago salato potrebbe salvarci",
+      "link": "https://www.punto-informatico.it/fonte-acqua-dolce-scoperta-sotto-lago-salato-potrebbe-salvarci/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T08:09:40+00:00"
+    },
+    {
+      "titolo": "Nasce un motore ibrido più efficiente: lo ha realizzato una compagnia petrolifera",
+      "descrizione": "È tre cilindri pensato esclusivamente per funzionare come generatore in un sistema ibrido. Il nuovo propulsore di Aramco",
+      "link": "https://www.hdmotori.it/aramco-motore-ibrido-efficiente/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T08:00:52+00:00"
+    },
+    {
+      "titolo": "Hai una settimana di streaming gratis Apple TV: attivala subito",
+      "descrizione": "Devi solo registrarti per iniziare la tua settimana di streaming gratis su Apple TV: guarda tutti i contenuti della piattaforma senza spese. The post Hai una settimana di streaming gratis Apple TV: attivala subito appear",
+      "link": "https://www.punto-informatico.it/settimana-streaming-gratis-apple-tv-attivala-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T08:00:51+00:00"
+    },
+    {
+      "titolo": "WhatsApp Plus sta arrivando, via ai test: cosa c'è nell'abbonamento da 2,49 euro",
+      "descrizione": "È iniziata la fase di test per l'abbonamento premium WhatsApp Plus: temi, icone, suonerie e opzioni extra al prezzo mensile di 2,49 euro.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n655591/whatsapp-plus-abbonamento-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T07:55:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Dehumidifier in arrivo: addio afa estiva",
+      "descrizione": "Deumidifica fino a 22 litri al giorno.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n655592/xiaomi-smart-dehumidifier-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T07:50:00+00:00"
+    },
+    {
+      "titolo": "Windows 11, ennesimo Patch Tuesday buggato: alcuni PC non avviano",
+      "descrizione": "Il PC mostra alcuni artefatti grafici e poi crasha prima di arrivare alla schermata di login.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n655601/windows-11-bug-patch-tuesday-aprile-non-avvia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T07:45:00+00:00"
+    },
+    {
+      "titolo": "Una bomba atomica si trova nell’oceano, ma non sappiamo dove",
+      "descrizione": "Una bomba atomica si trova nell'oceano, persa dall'aeronautica militare 68 anni fa a seguito di una collisione e ad oggi mai più ritrovata. The post Una bomba atomica si trova nell’oceano, ma non sappiamo dove appeared f",
+      "link": "https://www.punto-informatico.it/bomba-atomica-si-trova-oceano-ma-non-sappiamo-dove/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T07:36:50+00:00"
+    },
+    {
+      "titolo": "Windows 11 KB5083769: bug BitLocker e riavvii continui",
+      "descrizione": "Dopo l'installazione dell'update KB5083769 di Windows 11 25H2 si verificano riavvii continui e viene chiesta la chiave di ripristino di BitLocker. The post Windows 11 KB5083769: bug BitLocker e riavvii continui appeared",
+      "link": "https://www.punto-informatico.it/windows-11-kb5083769-bug-bitlocker-riavvii-continui/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T07:15:36+00:00"
+    },
+    {
+      "titolo": "Disney dichiara guerra a IMAX: ecco il nuovo certificato Infinity Vision",
+      "descrizione": "Disney lancia Infinity Vision, una nuova certificazione per schermi giganti e proiettori laser.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n655588/disney-infinity-vision-imax-concorrenza/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T07:05:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro e Fold, ecco quali saranno i colori: addio all'arancione",
+      "descrizione": "Il nuovo colore \"flagship\" sarà Dark Cherry. Vi piace?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655590/apple-iphone-18-pro-colori-dark-cherry/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T06:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova Fire TV Stick HD di Amazon, stop al sideloading: l’avviso nella pagina prodotto",
+      "descrizione": "Lo stop definitivo al sideloading segna un passaggio rilevante nella strategia software di Amazon.",
+      "link": "https://www.hdblog.it/tv/articoli/n655589/amazon-fire-tv-stick-hd-stop-sideloading/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T06:50:00+00:00"
+    },
+    {
+      "titolo": "Trump non ha idea di cosa sia Anthropic (o finge bene)",
+      "descrizione": "Il Presidente USA si è sottratto a una domanda su Anthropic, dicendo (oppure fingendo) di non conoscere la società di Claude e Mythos. The post Trump non ha idea di cosa sia Anthropic (o finge bene) appeared first on Pun",
+      "link": "https://www.punto-informatico.it/trump-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T06:41:38+00:00"
+    },
+    {
+      "titolo": "Viaggia Senza Roaming: tutti i Giga che vuoi a prezzo basso all’estero con Saily",
+      "descrizione": "Saily è il servizio che offre eSIM per navigare anche all'estero senza roaming e con tutti i giga che vuoi a prezzi decisamente bassi. The post Viaggia Senza Roaming: tutti i Giga che vuoi a prezzo basso all’estero con S",
+      "link": "https://www.punto-informatico.it/viaggia-senza-roaming-tutti-giga-che-vuoi-prezzo-basso-estero-saily/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T06:20:39+00:00"
+    },
+    {
+      "titolo": "La crisi della RAM potrebbe durare fino al 2030",
+      "descrizione": "I produttori di memoria copriranno solo il 60% della domanda entro il 2027. SK Group prevede carenze fino al 2030. The post La crisi della RAM potrebbe durare fino al 2030 appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/crisi-ram-potrebbe-durare-fino-2030-perche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T06:20:02+00:00"
+    },
+    {
+      "titolo": "Meta licenzia ancora, previsti 8.000 tagli: i primi già al 20 maggio, altri a seguire",
+      "descrizione": "Interessato il 10% della forza lavoro globale su un totale di circa 79.000 dipendenti.",
+      "link": "https://www.hdblog.it/business/articoli/n655582/meta-nuova-riogranuzzazione-8000-licenziamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T06:05:00+00:00"
+    },
+    {
+      "titolo": "Tapparelle e luci smart a 17€: lo Shelly Plus 2PM crolla al minimo storico su Amazon",
+      "descrizione": "Lo Shelly Plus 2PM, relè Wi-Fi a 2 canali per automatizzare tapparelle, luci e misurare i consumi, scende al prezzo più basso di sempre.",
+      "link": "https://www.hdblog.it/amazon/offerte/n655577/shelly-plus-2pm-domotica-economica-rele-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T06:00:00+00:00"
+    },
+    {
+      "titolo": "Chrome aggiunge una funzione per velocizzare i comandi lanciati all’intelligenza artificiale",
+      "descrizione": "Dalla comparazione di prodotti alla sostituzione degli ingredienti in una ricetta, le Skill rendono fluide e veloci le conversazioni con l’AI più ricorrenti",
+      "link": "https://www.ilsole24ore.com/art/chrome-aggiunge-funzione-velocizzare-comandi-lanciati-all-intelligenza-artificiale-AI7KixXC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-20T05:21:05+00:00"
+    },
     {
       "titolo": "I hid 4 Bluetooth trackers (including AirTags) to test their reliability - here's how Android rivals compared",
       "descrizione": "AirTags were released in April 2021, and since then, it's never been easier to find your lost gear. Years later, here's how they hold up.",
       "link": "https://www.zdnet.com/article/retested-apple-airtags-after-five-years-how-they-compare/",
       "fonte": "Latest news",
       "data": "2026-04-19T23:00:43+00:00"
-    },
-    {
-      "titolo": "Guida distratta, i comportamenti più pericolosi non sono quelli che pensiamo",
-      "descrizione": "Un'indagine americana su 2.500 automobilisti rivela che le distrazioni più diffuse al volante non sono i social media.",
-      "link": "https://www.hdmotori.it/guida-distratta-indagine-automobilisti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-19T15:30:00+00:00"
     },
     {
       "titolo": "Rover Rosalind Franklin: lancio per Marte nel 2028",
@@ -28,146 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-19T14:34:28+00:00"
-    },
-    {
-      "titolo": "Hostinger AI: creare un sito web in pochi minuti è davvero possibile e costa pochissimo",
-      "descrizione": "Hostinger offre dominio gratis, hosting e potenti strumenti AI per creare siti web in pochi minuti. Scopri tutte le funzionalità e i vantaggi unici. The post Hostinger AI: creare un sito web in pochi minuti è davvero pos",
-      "link": "https://www.punto-informatico.it/hostinger-ai-creare-un-sito-web-in-pochi-minuti-e-davvero-possibile-e-costa-pochissimo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T13:50:55+00:00"
-    },
-    {
-      "titolo": "Iliad TOP 300 PLUS: 300 GB in 5G a 11,99€ con prezzo fisso è imperdibile",
-      "descrizione": "Offerta iliad TOP 300 PLUS: 300 GB in 5G, minuti illimitati e prezzo fisso a 11,99€ al mese. Scopri tutti i vantaggi e quanto è facile attivarla. The post Iliad TOP 300 PLUS: 300 GB in 5G a 11,99€ con prezzo fisso è impe",
-      "link": "https://www.punto-informatico.it/iliad-top-300-plus-300-gb-in-5g-a-1199e-con-prezzo-fisso-e-imperdibile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T13:29:04+00:00"
-    },
-    {
-      "titolo": "iPhone 18, Apple valuta qualche compromesso per tagliare i costi",
-      "descrizione": "La crisi delle memorie potrebbe spingere Apple verso alcuni tagli.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655562/apple-iphone-18-18e-tagli-costi-leak-schermo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-19T11:10:00+00:00"
-    },
-    {
-      "titolo": "Recensione Dreame H15 Mix, è il transformer delle pulizie! Ma la modularità è croce e delizia",
-      "descrizione": "Abbiamo provato la nuova H15 Mix di Dreame, un sistema di pulizia 3in1 che, con un unico motore e un'unica batteria offre tre prodotti differenti per la pulizia di casa",
-      "link": "https://www.hdblog.it/home/recensioni/n654580/dreame-h15-mix-test-prova-prezzo-offerta/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-19T11:01:00+00:00"
-    },
-    {
-      "titolo": "Protezione minori su Roblox: sanzione in Nevada",
-      "descrizione": "Roblox pagherà 12,5 milioni di dollari in Nevada per evitare un procedimento legale relativo all'assenza di protezioni per i minori sulla piattaforma. The post Protezione minori su Roblox: sanzione in Nevada appeared fir",
-      "link": "https://www.punto-informatico.it/protezione-minori-roblox-sanzione-nevada/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T09:13:25+00:00"
-    },
-    {
-      "titolo": "Chirurgia robotica volante: ecco il drone che opera i feriti sul campo",
-      "descrizione": "Vimana è il drone di SS Innovations che porta la chirurgia robotica d’urgenza in zone di guerra.",
-      "link": "https://www.hdblog.it/droni/articoli/n655555/drone-chirurgo-vimana-guerra/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-19T09:05:00+00:00"
-    },
-    {
-      "titolo": "JBL Flip 7: meraviglioso speaker Bluetooth portatile per un audio che spacca",
-      "descrizione": "Lo speaker Bluetooth portatile JBL Flip 7 ha un suono potentissimo, è impermeabile e ha una batteria che arriva fino a 16 ore. The post JBL Flip 7: meraviglioso speaker Bluetooth portatile per un audio che spacca appeare",
-      "link": "https://www.punto-informatico.it/jbl-flip-7-meraviglioso-speaker-bluetooth-portatile-per-audio-spacca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T07:38:34+00:00"
-    },
-    {
-      "titolo": "Carburanti, Hormuz di nuovo chiuso: altri rincari in vista",
-      "descrizione": "Dopo la riapertura, Teheran ha annunciato di aver nuovamente chiuso la cruciale rotta marittima. Il prezzo del greggio, crollato venerdì scorso, è atteso in risalita alla riapertura dei...",
-      "link": "https://www.hdmotori.it/carburanti-hormuz-chiuso-rincari/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-19T07:30:16+00:00"
-    },
-    {
-      "titolo": "Xiaomi 15T da 256GB scontato di oltre 255€ su eBay e pagabile a rate",
-      "descrizione": "Lo Xiaomi 15T con 12GB di RAM e 256GB di memoria interna oggi è scontato di oltre 255€ su eBay e puoi anche pagarlo a rate senza interessi. The post Xiaomi 15T da 256GB scontato di oltre 255€ su eBay e pagabile a rate ap",
-      "link": "https://www.punto-informatico.it/xiaomi-15t-256gb-scontato-oltre-255e-ebay-pagabile-rate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T07:20:00+00:00"
-    },
-    {
-      "titolo": "Svuotatutto Caffè Borbone: Cialde e Macchine a prezzi unici su eBay",
-      "descrizione": "Approfitta subito dello Svuotatutto Caffè Borbone su eBay per acquistare cialde e macchine a prezzi unici, anche in comode rate a tasso zero. The post Svuotatutto Caffè Borbone: Cialde e Macchine a prezzi unici su eBay a",
-      "link": "https://www.punto-informatico.it/svuotatutto-caffe-borbone-cialde-e-macchine-a-prezzi-unici-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T05:30:13+00:00"
-    },
-    {
-      "titolo": "Iliad GIGA PRIME: 300 GB e un anno di Amazon Prime",
-      "descrizione": "GIGA PRIME è la nuova offerta di Iliad che include 300 GB di dati (anche su rete 5G), minuti e SMS illimitati, 12 mesi di abbonamento ad Amazon Prime. The post Iliad GIGA PRIME: 300 GB e un anno di Amazon Prime appeared",
-      "link": "https://www.punto-informatico.it/iliad-giga-prime-300-gb-anno-amazon-prime/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-18T16:21:04+00:00"
-    },
-    {
-      "titolo": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages — rumored RTX 5050 9GB abruptly shelved amid speculation",
-      "descrizione": "If relaunched at the right price, the RTX 3060 could re-enter the market as a viable option in a segment facing increasing cost pressures.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-18T15:53:44+00:00"
-    },
-    {
-      "titolo": "Nvidia RTX 5070 Ti gaming laptop is on sale for 19% off — MSI's Vector 16 has a 144 Hz screen, and comes with Pragmata for free",
-      "descrizione": "MSI has put its Vector 16 gaming laptop on sale for just $1,529 at Newegg, offering a solid discount for a beastly hardware combo. You get a Core Ultra 7 255HX paired with a 140W RTX 5070 Ti, 16GB of RAM, and a 512GB SSD",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/nvidia-rtx-5070-ti-gaming-laptop-is-on-sale-for-19-percent-off-msis-vector-16-has-a-144-hz-screen-and-comes-with-pragmata-for-free",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-18T15:41:40+00:00"
-    },
-    {
-      "titolo": "Ritorna la pace tra Anthropic e la Casa Bianca?",
-      "descrizione": "L'incontro avvenuto ieri alla Casa Bianca tra il CEO di Anthropic e alcuni funzionari del governo potrebbe indicare il ritorno della pace tra le parti. The post Ritorna la pace tra Anthropic e la Casa Bianca? appeared fi",
-      "link": "https://www.punto-informatico.it/ritorna-la-pace-tra-anthropic-e-la-casa-bianca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-18T14:15:34+00:00"
-    },
-    {
-      "titolo": "Xiaomi 15 re del Fan Festival: 400 euro di sconto e 4 mesi di Spotify Premium",
-      "descrizione": "Il top di gamma compatto dello scorso anno è in super offerta nell'ambito della promozione in corso sul Mi Store.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n655546/xiaomi-15-offerta-fan-festival-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T13:36:00+00:00"
-    },
-    {
-      "titolo": "Il fantasma in cima alle classifiche: cosa ci insegna il caso Eddie Dalton",
-      "descrizione": "L’ai artist blues sta scalando le classifiche. C’è da preoccuparsi per la cara vecchia musica o è solo concorrenza?",
-      "link": "https://www.ilsole24ore.com/art/il-fantasma-cima-classifiche-cosa-ci-insegna-caso-eddie-dalton-AIFMKOTC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-18T12:47:16+00:00"
-    },
-    {
-      "titolo": "Un mese con iPad Air M4, è quello da comprare oggi (se non siete Pro)",
-      "descrizione": "Abbiamo usato per un mese iPad Air M4, ecco come è andata e perchè secondo noi è il prodotto più \"furbo\" della lineup",
-      "link": "https://www.hdblog.it/portatili/recensioni/n655405/ipad-air-m4-test-prova-sconto-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T11:00:00+00:00"
-    },
-    {
-      "titolo": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "descrizione": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-      "fonte": "WIRED",
-      "data": "2026-04-18T10:30:00+00:00"
-    },
-    {
-      "titolo": "World ID di Sam Altman: la sfida ai bot per i biglietti dei concerti",
-      "descrizione": "World ID lancia Concert Kit per riservare biglietti ai soli umani verificati tramite scansione.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655528/world-id-biglietti-concerti-sam-altman/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T10:05:00+00:00"
-    },
-    {
-      "titolo": "Audi, il motore 6 cilindri è da oltre un secolo testimonianza di eccellenza",
-      "descrizione": "Dalla Typ M del 1924 alla nuova RS 5 plug-in da 639 CV: un secolo di innovazione e prestazioni nel segno del motore 6 cilindri Audi",
-      "link": "https://www.hdmotori.it/audi-motore-6-cilindri/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-18T10:00:18+00:00"
     }
   ]
 }
