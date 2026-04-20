@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-04-20T08:28:48.825566+00:00",
+  "last_updated": "2026-04-20T14:14:11.594391+00:00",
   "items": [
     {
-      "titolo": "Xiaomi lancia Mijia Central Air Conditioner: punta su efficienza e intelligenza",
-      "descrizione": "Xiaomi presenta il Mijia Central Air Conditioner: design a doppia uscita per caldo e freddo, integrazione con ecosistema smart e aggiornamenti OTA per miglioramenti continui nel tempo",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n655612/xiaomi-presenta-mijia-central-air-conditioner-punta-su-efficienza-e-intelligenza/",
+      "titolo": "Elden Ring arriva sul grande schermo: l'Interregno nelle sale dal 3 marzo 2028",
+      "descrizione": "Alex Garland alla regia e alla scrittura della pellicola ispirata all'opera di Miyazaki",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n655682/elden-ring-film-ufficiale-cast-2028/",
       "fonte": "HDblog.it",
-      "data": "2026-04-20T08:25:00+00:00"
+      "data": "2026-04-20T14:05:00+00:00"
+    },
+    {
+      "titolo": "Hesai lancia il primo LiDAR a colori al mondo, la svolta che punta a cambiare la guida autonoma",
+      "descrizione": "Il produttore cinese presenta il chip Picasso SPAD-SoC e la piattaforma ETX. Produzione di massa nella seconda metà del 2026",
+      "link": "https://www.hdmotori.it/hesai-lidar-colori-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T14:00:49+00:00"
+    },
+    {
+      "titolo": "A San Francisco apre Andon Market, il negozio gestito da un’intelligenza artificiale",
+      "descrizione": "Dopo il fallimento del distributore automatico “socialista”, Andon Labs ci riprova con un esperimento più radical",
+      "link": "https://www.ilsole24ore.com/art/a-san-francisco-apre-andon-market-negozio-gestito-un-intelligenza-artificiale-AITePGXC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-20T13:56:00+00:00"
+    },
+    {
+      "titolo": "Bollette gas e luce: rincari record, 9 su 10 italiani scelgono il prezzo fisso",
+      "descrizione": "Il prezzo fisso viene visto un po' come un'assicurazione.",
+      "link": "https://www.hdblog.it/green/articoli/n655670/bollette-gas-luce-rincari-record-italiani-fisso/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T13:45:00+00:00"
+    },
+    {
+      "titolo": "FIAT, si avvicina il debutto della Grizzly: occhio anche alla Panda GPL",
+      "descrizione": "FIAT vuole sfidare Dacia e le altri rivali allargando la gamma e offrendo un’auto a ruote alte funzionale ed economica",
+      "link": "https://www.hdmotori.it/fiat-debutto-suv-grizzly-panda-gpl/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T13:30:45+00:00"
+    },
+    {
+      "titolo": "I tried to wipe my digital footprint without paying for a data removal service - 5 free ways",
+      "descrizione": "It may take a while, but it's possible to remove your personal data from the internet via deletion tools and helpful government resources.",
+      "link": "https://www.zdnet.com/article/free-ways-to-remove-your-data-without-a-service/",
+      "fonte": "Latest news",
+      "data": "2026-04-20T13:27:00+00:00"
+    },
+    {
+      "titolo": "Toyota, la nuova berlina da record che surclassa Tesla: tecnologia top",
+      "descrizione": "La sfida tra costruttori di auto elettriche all’avanguardia vede sempre più l’Oriente dominare la scena. Scopriamo la nuova Toyota bZ7",
+      "link": "https://www.hdmotori.it/nuova-toyota-berlina-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T13:00:50+00:00"
+    },
+    {
+      "titolo": "I've tested every major phone release in 2026 so far - and my buying advice is changing this year",
+      "descrizione": "Testing the latest Google, Samsung, and Motorola phones has only made me appreciate last year's models more. Here's why.",
+      "link": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
+      "fonte": "Latest news",
+      "data": "2026-04-20T12:40:00+00:00"
+    },
+    {
+      "titolo": "Amazon: nuova partneship con Gros per portare prodotti freschi a Roma e dintorni",
+      "descrizione": "Il servizio sarà esteso nella provincia di Roma nei prossimi mesi.",
+      "link": "https://www.hdblog.it/amazon/articoli/n655662/amazon-partneship-con-gros-prodotti-freschi-roma/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T12:20:00+00:00"
+    },
+    {
+      "titolo": "La Ford Mustang ha conquistato il Nurburgring: primato da brividi",
+      "descrizione": "Il driver ufficiale Ford Performance e Multimatic Dirk Müller ha siglato un giro record da far drizzare i capelli ai fan",
+      "link": "https://www.hdmotori.it/ford-mustang-primato-nurburgring/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T12:00:14+00:00"
+    },
+    {
+      "titolo": "Deepfake in crescita: USA primo Paese colpito, X il social d'elezione",
+      "descrizione": "I deepfake diventano strumenti standard di disinformazione: secondo IdentifAI, i video rappresentano quasi la metà delle minacce, con forte impatto su politica, frodi e contenuti illeciti",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n655661/deepfake-ai-video-immagini-allarme-numeri/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T11:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S26 Ultra, ci risiamo: segnalate righe verdi sul display",
+      "descrizione": "Per ora le segnalazioni sono poche, per fortuna.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655659/samsung-galaxy-s26-ultra-righe-verdi-display/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T11:35:00+00:00"
+    },
+    {
+      "titolo": "Usa, piano per il nucleare lunare: reattori pronti tra 4 anni",
+      "descrizione": "La NASA svilupperà reattori nucleari per fornire energia alla Luna e propulsione alle navicelle.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655585/reattori-fissione-superficie-lunare/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T11:15:00+00:00"
+    },
+    {
+      "titolo": "Huawei Pura 90 ufficiali: specifiche, fotocamere e prezzi",
+      "descrizione": "Huawei ha ufficializzato la serie Pura 90 con tre modelli: Pura 90, Pro e Pro Max. Display OLED LTPO, chip Kirin e fotocamere avanzate segnano l’evoluzione della gamma top",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655656/huawei-pura-90-pro-max-specifiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T11:10:00+00:00"
+    },
+    {
+      "titolo": "We Love the Bose QuietComfort Ultra 2, Especially at $50 Off",
+      "descrizione": "The Bose QuietComfort Ultra 2 have the best active noise cancellation on the market, and they very rarely get cheaper.",
+      "link": "https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/",
+      "fonte": "WIRED",
+      "data": "2026-04-20T11:07:00+00:00"
+    },
+    {
+      "titolo": "Recensione Narwal FLOW 2: nuovo design, stessa anima | Video",
+      "descrizione": "Abbiamo provato il nuovo Narwal FLOW 2, robot lavapavimenti ad alte prestazioni, con sistema di lavaggio a nastro e tanti sensori.",
+      "link": "https://www.hdblog.it/home/recensioni/n655194/recensione-narwal-flow-2-stessa-anima-diverso-stile--video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T11:01:00+00:00"
+    },
+    {
+      "titolo": "Indagine in Francia contro X, nessun aiuto dagli USA",
+      "descrizione": "Il Dipartimento di Giustizia non aiuterà la Francia nell'indagine contro X, in quanto è politicamente motivata e impedisce la libertà di parola. The post Indagine in Francia contro X, nessun aiuto dagli USA appeared firs",
+      "link": "https://www.punto-informatico.it/indagine-francia-contro-x-nessun-aiuto-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T10:28:37+00:00"
+    },
+    {
+      "titolo": "New Glenn di Blue Origin mette un satellite nell’orbita sbagliata",
+      "descrizione": "Il terzo lancio del New Glenn di Blue Origin ha riutilizzato il booster con successo ma, ha posizionato il satellite in un'orbita troppo bassa. The post New Glenn di Blue Origin mette un satellite nell’orbita sbagliata a",
+      "link": "https://www.punto-informatico.it/new-glenn-blue-origin-satellite-orbita-sbagliata/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T10:19:54+00:00"
+    },
+    {
+      "titolo": "Yahoo Mail down il 20 aprile: tutti gli aggiornamenti",
+      "descrizione": "Problemi segnalati per Yahoo Mail: si registra un picco nei feedback inviati dagli utenti al portale Downdetector. The post Yahoo Mail down il 20 aprile: tutti gli aggiornamenti appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/yahoo-mail-down-20042026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T09:44:08+00:00"
+    },
+    {
+      "titolo": "6 smartphone IMPERDIBILI in offerta con il nuovo coupon eBay",
+      "descrizione": "Iniziamo subito la settimana con i 6 smartphone dalle caratteristiche premium a prezzo imperdibile in offerta su eBay grazie al nuovo coupon. The post 6 smartphone IMPERDIBILI in offerta con il nuovo coupon eBay appeared",
+      "link": "https://www.punto-informatico.it/6-smartphone-imperdibili-in-offerta-con-il-nuovo-coupon-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T09:13:19+00:00"
+    },
+    {
+      "titolo": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
+      "descrizione": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
+      "link": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/",
+      "fonte": "WIRED",
+      "data": "2026-04-20T09:00:00+00:00"
+    },
+    {
+      "titolo": "Android 17 beta 4 limita le app che consumano troppa RAM",
+      "descrizione": "Android 17 Beta 4 introduce limiti di RAM e un sistema che termina automaticamente le app che consumano troppa memoria. The post Android 17 beta 4 limita le app che consumano troppa RAM appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/android-17-beta-4-limita-app-consumano-troppa-ram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T08:53:55+00:00"
+    },
+    {
+      "titolo": "realme Buds T500 Pro: niente rumore, solo musica a un ottimo prezzo",
+      "descrizione": "Con le cuffiette Bluetooth realme Buds T500 Pro puoi goderti la musica e le chiamate senza rumore di sottofondo e oggi sono in offerta. The post realme Buds T500 Pro: niente rumore, solo musica a un ottimo prezzo appeare",
+      "link": "https://www.punto-informatico.it/realme-buds-t500-pro-niente-rumore-solo-musica-un-ottimo-prezzo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-20T08:44:47+00:00"
     },
     {
       "titolo": "Intelligenza artificiale, i giovani vogliono avere voce in capitolo",
@@ -14,160 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-giovani-vogliono-avere-voce-capitolo-AIkW6CVC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-04-20T08:24:55+00:00"
-    },
-    {
-      "titolo": "Google Gemini: sincronizzazione con NotebookLM per tutti",
-      "descrizione": "Non è più esclusiva degli utenti con piani a pagamento: la possibilità di inviare una chat di Google Gemini a NotebookLM sta arrivando per tutti, anche per gli utenti free.",
-      "link": "https://www.hdblog.it/google/articoli/n655596/google-gemini-sincronizzazione-notebooklm-free/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T08:20:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 18 Pro Max sarà sempre un bestione da 6,9\", batteria da 8.500 mAh!",
-      "descrizione": "Della partita anche lo Snapdragon 8 Elite Gen 6, naturalmente.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655610/xiaomi-18-pro-max-display-batteria-chip/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T08:15:00+00:00"
-    },
-    {
-      "titolo": "Una fonte di acqua dolce scoperta sotto un lago salato potrebbe salvarci",
-      "descrizione": "Gli scienziati hanno da poco scoperto una fonte di acqua dolce nascosta proprio sotto il Gran Lago Salato che potrebbe salvarci in futuro. The post Una fonte di acqua dolce scoperta sotto un lago salato potrebbe salvarci",
-      "link": "https://www.punto-informatico.it/fonte-acqua-dolce-scoperta-sotto-lago-salato-potrebbe-salvarci/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T08:09:40+00:00"
-    },
-    {
-      "titolo": "Nasce un motore ibrido più efficiente: lo ha realizzato una compagnia petrolifera",
-      "descrizione": "È tre cilindri pensato esclusivamente per funzionare come generatore in un sistema ibrido. Il nuovo propulsore di Aramco",
-      "link": "https://www.hdmotori.it/aramco-motore-ibrido-efficiente/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T08:00:52+00:00"
-    },
-    {
-      "titolo": "Hai una settimana di streaming gratis Apple TV: attivala subito",
-      "descrizione": "Devi solo registrarti per iniziare la tua settimana di streaming gratis su Apple TV: guarda tutti i contenuti della piattaforma senza spese. The post Hai una settimana di streaming gratis Apple TV: attivala subito appear",
-      "link": "https://www.punto-informatico.it/settimana-streaming-gratis-apple-tv-attivala-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T08:00:51+00:00"
-    },
-    {
-      "titolo": "WhatsApp Plus sta arrivando, via ai test: cosa c'è nell'abbonamento da 2,49 euro",
-      "descrizione": "È iniziata la fase di test per l'abbonamento premium WhatsApp Plus: temi, icone, suonerie e opzioni extra al prezzo mensile di 2,49 euro.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n655591/whatsapp-plus-abbonamento-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T07:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Dehumidifier in arrivo: addio afa estiva",
-      "descrizione": "Deumidifica fino a 22 litri al giorno.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n655592/xiaomi-smart-dehumidifier-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T07:50:00+00:00"
-    },
-    {
-      "titolo": "Windows 11, ennesimo Patch Tuesday buggato: alcuni PC non avviano",
-      "descrizione": "Il PC mostra alcuni artefatti grafici e poi crasha prima di arrivare alla schermata di login.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n655601/windows-11-bug-patch-tuesday-aprile-non-avvia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T07:45:00+00:00"
-    },
-    {
-      "titolo": "Una bomba atomica si trova nell’oceano, ma non sappiamo dove",
-      "descrizione": "Una bomba atomica si trova nell'oceano, persa dall'aeronautica militare 68 anni fa a seguito di una collisione e ad oggi mai più ritrovata. The post Una bomba atomica si trova nell’oceano, ma non sappiamo dove appeared f",
-      "link": "https://www.punto-informatico.it/bomba-atomica-si-trova-oceano-ma-non-sappiamo-dove/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T07:36:50+00:00"
-    },
-    {
-      "titolo": "Windows 11 KB5083769: bug BitLocker e riavvii continui",
-      "descrizione": "Dopo l'installazione dell'update KB5083769 di Windows 11 25H2 si verificano riavvii continui e viene chiesta la chiave di ripristino di BitLocker. The post Windows 11 KB5083769: bug BitLocker e riavvii continui appeared",
-      "link": "https://www.punto-informatico.it/windows-11-kb5083769-bug-bitlocker-riavvii-continui/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T07:15:36+00:00"
-    },
-    {
-      "titolo": "Disney dichiara guerra a IMAX: ecco il nuovo certificato Infinity Vision",
-      "descrizione": "Disney lancia Infinity Vision, una nuova certificazione per schermi giganti e proiettori laser.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n655588/disney-infinity-vision-imax-concorrenza/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T07:05:00+00:00"
-    },
-    {
-      "titolo": "iPhone 18 Pro e Fold, ecco quali saranno i colori: addio all'arancione",
-      "descrizione": "Il nuovo colore \"flagship\" sarà Dark Cherry. Vi piace?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655590/apple-iphone-18-pro-colori-dark-cherry/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T06:55:00+00:00"
-    },
-    {
-      "titolo": "Nuova Fire TV Stick HD di Amazon, stop al sideloading: l’avviso nella pagina prodotto",
-      "descrizione": "Lo stop definitivo al sideloading segna un passaggio rilevante nella strategia software di Amazon.",
-      "link": "https://www.hdblog.it/tv/articoli/n655589/amazon-fire-tv-stick-hd-stop-sideloading/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T06:50:00+00:00"
-    },
-    {
-      "titolo": "Trump non ha idea di cosa sia Anthropic (o finge bene)",
-      "descrizione": "Il Presidente USA si è sottratto a una domanda su Anthropic, dicendo (oppure fingendo) di non conoscere la società di Claude e Mythos. The post Trump non ha idea di cosa sia Anthropic (o finge bene) appeared first on Pun",
-      "link": "https://www.punto-informatico.it/trump-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T06:41:38+00:00"
-    },
-    {
-      "titolo": "Viaggia Senza Roaming: tutti i Giga che vuoi a prezzo basso all’estero con Saily",
-      "descrizione": "Saily è il servizio che offre eSIM per navigare anche all'estero senza roaming e con tutti i giga che vuoi a prezzi decisamente bassi. The post Viaggia Senza Roaming: tutti i Giga che vuoi a prezzo basso all’estero con S",
-      "link": "https://www.punto-informatico.it/viaggia-senza-roaming-tutti-giga-che-vuoi-prezzo-basso-estero-saily/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T06:20:39+00:00"
-    },
-    {
-      "titolo": "La crisi della RAM potrebbe durare fino al 2030",
-      "descrizione": "I produttori di memoria copriranno solo il 60% della domanda entro il 2027. SK Group prevede carenze fino al 2030. The post La crisi della RAM potrebbe durare fino al 2030 appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/crisi-ram-potrebbe-durare-fino-2030-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T06:20:02+00:00"
-    },
-    {
-      "titolo": "Meta licenzia ancora, previsti 8.000 tagli: i primi già al 20 maggio, altri a seguire",
-      "descrizione": "Interessato il 10% della forza lavoro globale su un totale di circa 79.000 dipendenti.",
-      "link": "https://www.hdblog.it/business/articoli/n655582/meta-nuova-riogranuzzazione-8000-licenziamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T06:05:00+00:00"
-    },
-    {
-      "titolo": "Tapparelle e luci smart a 17€: lo Shelly Plus 2PM crolla al minimo storico su Amazon",
-      "descrizione": "Lo Shelly Plus 2PM, relè Wi-Fi a 2 canali per automatizzare tapparelle, luci e misurare i consumi, scende al prezzo più basso di sempre.",
-      "link": "https://www.hdblog.it/amazon/offerte/n655577/shelly-plus-2pm-domotica-economica-rele-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T06:00:00+00:00"
-    },
-    {
-      "titolo": "Chrome aggiunge una funzione per velocizzare i comandi lanciati all’intelligenza artificiale",
-      "descrizione": "Dalla comparazione di prodotti alla sostituzione degli ingredienti in una ricetta, le Skill rendono fluide e veloci le conversazioni con l’AI più ricorrenti",
-      "link": "https://www.ilsole24ore.com/art/chrome-aggiunge-funzione-velocizzare-comandi-lanciati-all-intelligenza-artificiale-AI7KixXC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-20T05:21:05+00:00"
-    },
-    {
-      "titolo": "I hid 4 Bluetooth trackers (including AirTags) to test their reliability - here's how Android rivals compared",
-      "descrizione": "AirTags were released in April 2021, and since then, it's never been easier to find your lost gear. Years later, here's how they hold up.",
-      "link": "https://www.zdnet.com/article/retested-apple-airtags-after-five-years-how-they-compare/",
-      "fonte": "Latest news",
-      "data": "2026-04-19T23:00:43+00:00"
-    },
-    {
-      "titolo": "Rover Rosalind Franklin: lancio per Marte nel 2028",
-      "descrizione": "Il rover Rosalind Franklin dell'agenzia spaziale europea verrà lanciato con un razzo Falcon Heavy di SpaceX entro il 2028 e arriverà su Marte nel 2030. The post Rover Rosalind Franklin: lancio per Marte nel 2028 appeared",
-      "link": "https://www.punto-informatico.it/rover-rosalind-franklin-lancio-marte-2028/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-19T14:53:03+00:00"
-    },
-    {
-      "titolo": "Russian-made Shahed drones are ‘disintegrating in the air before reaching their targets’ due to shoddy manufacturing, video shows — commentators call Russian clones of Iran's drones 'flying garbage'",
-      "descrizione": "Video footage captured by Ukrainian Sting interceptor drones shows that Russia’s endless drone assault is now powered by what some commenters have described as ‘flying garbage.’",
-      "link": "https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-19T14:34:28+00:00"
     }
   ]
 }

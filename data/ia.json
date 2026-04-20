@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-20T08:28:52.819325+00:00",
+  "last_updated": "2026-04-20T14:14:15.022401+00:00",
   "items": [
     {
-      "titolo": "Intelligenza artificiale, i giovani vogliono avere voce in capitolo",
-      "descrizione": "L’AI Index Report 2026 di Stanford racconta un’accelerazione fuori scala ma il dato che colpisce di più non è tecnico, è politico. Il 73% degli esperti di intelligenza artificiale si...",
-      "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-giovani-vogliono-avere-voce-capitolo-AIkW6CVC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-20T08:24:55+00:00",
+      "titolo": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+      "descrizione": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+      "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+      "fonte": "WIRED",
+      "data": "2026-04-20T13:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Gemini: sincronizzazione con NotebookLM per tutti",
-      "descrizione": "Non è più esclusiva degli utenti con piani a pagamento: la possibilità di inviare una chat di Google Gemini a NotebookLM sta arrivando per tutti, anche per gli utenti free.",
-      "link": "https://www.hdblog.it/google/articoli/n655596/google-gemini-sincronizzazione-notebooklm-free/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T08:20:00+00:00",
+      "titolo": "This powerful Gemini setting made my AI results way more personal and accurate",
+      "descrizione": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it.",
+      "link": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
+      "fonte": "Latest news",
+      "data": "2026-04-19T10:00:41+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Trump non ha idea di cosa sia Anthropic (o finge bene)",
-      "descrizione": "Il Presidente USA si è sottratto a una domanda su Anthropic, dicendo (oppure fingendo) di non conoscere la società di Claude e Mythos. The post Trump non ha idea di cosa sia Anthropic (o finge bene) appeared first on Pun",
-      "link": "https://www.punto-informatico.it/trump-anthropic/",
+      "titolo": "La NSA usa Claude Mythos di Anthropic",
+      "descrizione": "Secondo Axios, il modello Claude Mythos viene già usato dalla NSA (parte del Dipartimento della Difesa) per cercare vulnerabilità nei suoi sistemi. The post La NSA usa Claude Mythos di Anthropic appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/nsa-usa-claude-mythos-anthropic/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-20T06:41:38+00:00",
+      "data": "2026-04-20T13:00:24+00:00",
       "modello": "claude"
     }
   ]
