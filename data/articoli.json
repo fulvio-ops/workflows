@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-04-20T19:35:08.282982+00:00",
+  "last_updated": "2026-04-21T03:46:40.919852+00:00",
   "items": [
+    {
+      "titolo": "Own a Sony TV? 3 quick settings I'd change to meaningfully improve the picture quality",
+      "descrizione": "Sony's various Bravia TVs deliver high-end picture and sound. But with a few extra tweaks, you can push those aspects even further.",
+      "link": "https://www.zdnet.com/article/best-settings-to-change-on-your-sony-bravia-tv/",
+      "fonte": "Latest news",
+      "data": "2026-04-21T01:00:44+00:00"
+    },
+    {
+      "titolo": "Dyson Supersonic, il mitico asciugacapelli ora anche in versione Travel | PREZZO",
+      "descrizione": "Capelli perfetti anche in viaggio.",
+      "link": "https://www.hdblog.it/home/articoli/n655681/dyson-supersonic-travel-asciugacapelli-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T23:01:00+00:00"
+    },
+    {
+      "titolo": "Amazon investe 5 miliardi in Anthropic",
+      "descrizione": "Amazon ha annunciato lunedì che Anthropic investirà oltre 100 miliardi di dollari nei prossimi 10 anni nelle sue tecnologie cloud, rafforzando la collaborazione mentre la startup di intelligenza artificiale si...",
+      "link": "https://www.ilsole24ore.com/art/amazon-investe-5-miliardi-anthropic-AIIGBjbC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-20T21:00:00+00:00"
+    },
+    {
+      "titolo": "Apple, cambio al vertice: Tim Cook lascia a settembre, John Ternus sarà il nuovo CEO",
+      "descrizione": "Il passaggio di consegne è fissato per il 1° settembre 202",
+      "link": "https://www.hdblog.it/apple/articoli/n655733/apple-tim-cook-lascia-john-ternus-ceo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T20:45:00+00:00"
+    },
     {
       "titolo": "Medio Oriente, oltre 1.000 attacchi informatici dall’inizio della guerra. Israele, Emirati e Iran i più colpiti",
       "descrizione": "Aumentati in maniera considerevole negli ultimi anni i cosiddetti “Cyber attacchi”, fino ad arrivare a toccare quota 17.770 nel 2025. Sofia Scozzari, Ceo di Hackmanac: «Le aziende sono già nel mirino. L’AI amplifica tutt",
@@ -9,8 +37,15 @@
       "data": "2026-04-20T19:05:00+00:00"
     },
     {
+      "titolo": "Recensione Narwal FLOW 2: nuovo design, stessa anima | Video",
+      "descrizione": "Abbiamo provato il nuovo Narwal FLOW 2, robot lavapavimenti ad alte prestazioni, con sistema di lavaggio a nastro e tanti sensori.",
+      "link": "https://www.hdblog.it/home/recensioni/n655194/recensione-narwal-flow-2-stessa-anima-diverso-stile--video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-20T19:00:00+00:00"
+    },
+    {
       "titolo": "A Hot-Air Balloon Landed in a California Backyard. The Owner Says It's a 'Very Rare' Event",
-      "descrizione": "Denni Barrett, CEO of Magical Adventures Balloon Rides, says the weekend backyard mishap is a “very rare” occurrence.",
+      "descrizione": "The CEO of Magical Adventures Balloon Rides tells WIRED how the pilot made a safe landing after they got stranded over a neighborhood.",
       "link": "https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/",
       "fonte": "WIRED",
       "data": "2026-04-20T18:54:44+00:00"
@@ -93,27 +128,6 @@
       "data": "2026-04-20T16:06:19+00:00"
     },
     {
-      "titolo": "Tesla come Ferrari: vietata la rivendita immediata della Signature Edition",
-      "descrizione": "La Casa americana Tesla presenta la clausola anti-speculazione per le ultime Model S e Model X Signature Edition",
-      "link": "https://www.hdmotori.it/tesla-ferrari-vietata-rivendita-signature-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T16:00:34+00:00"
-    },
-    {
-      "titolo": "Huawei Watch Fit 5 e Pro sono ufficiali: design curato e autonomia fino a 10 giorni",
-      "descrizione": "Leggeri fuori, completi dentro: ecco le specifiche.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n655693/huawei-watch-fit-5-pro-ufficiali-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T15:55:00+00:00"
-    },
-    {
-      "titolo": "Computer quantistici finalmente pronti? Nvidia risolve il caos dei dati",
-      "descrizione": "Nvidia presenta Ising, modelli AI per calibrare i sistemi quantistici e correggere gli errori.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n655594/nvidia-ising-ai-quantum-computing/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-20T15:50:00+00:00"
-    },
-    {
       "titolo": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data",
       "descrizione": "The breach exposed non-sensitive environment variables, and a threat actor operating under the ShinyHunters name has claimed responsibility.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace",
@@ -154,20 +168,6 @@
       "link": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
       "fonte": "Latest news",
       "data": "2026-04-20T12:40:00+00:00"
-    },
-    {
-      "titolo": "We Love the Bose QuietComfort Ultra 2, Especially at $50 Off",
-      "descrizione": "The Bose QuietComfort Ultra 2 have the best active noise cancellation on the market, and they very rarely get cheaper.",
-      "link": "https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/",
-      "fonte": "WIRED",
-      "data": "2026-04-20T11:07:00+00:00"
-    },
-    {
-      "titolo": "Indagine in Francia contro X, nessun aiuto dagli USA",
-      "descrizione": "Il Dipartimento di Giustizia non aiuterà la Francia nell'indagine contro X, in quanto è politicamente motivata e impedisce la libertà di parola. The post Indagine in Francia contro X, nessun aiuto dagli USA appeared firs",
-      "link": "https://www.punto-informatico.it/indagine-francia-contro-x-nessun-aiuto-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-20T10:28:37+00:00"
     }
   ]
 }
