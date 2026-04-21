@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-21T14:10:12.375102+00:00",
+  "last_updated": "2026-04-21T19:38:51.875235+00:00",
   "items": [
     {
-      "titolo": "Chronicle di OpenAI per sviluppatori cattura lo schermo su Mac",
-      "descrizione": "Chronicle è la funzione di OpenAI che osserva lo schermo degli sviluppatori su Mac per dare contesto a Codex. Opt-in, solo per ChatGPT Pro. The post Chronicle di OpenAI per sviluppatori cattura lo schermo su Mac appeared",
-      "link": "https://www.punto-informatico.it/chronicle-openai-sviluppatori-cattura-schermo-mac/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T09:18:04+00:00",
+      "titolo": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception",
+      "descrizione": "OpenAI's new ChatGPT Images 2.0 promises precision and design control. Here's how to try it for yourself.",
+      "link": "https://www.zdnet.com/article/chatgpt-images-2-hands-on-testing/",
+      "fonte": "Latest news",
+      "data": "2026-04-21T19:00:48+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Uso eccessivo delle risorse: GitHub blocca accesso a Copilot",
-      "descrizione": "A causa dell'eccessivo uso delle risorse, le registrazioni ai piani individuali di GitHub Copilot sono state sospese e i limiti d'uso sono stati ridotti. The post Uso eccessivo delle risorse: GitHub blocca accesso a Copi",
-      "link": "https://www.punto-informatico.it/uso-eccessivo-risorse-github-blocca-accesso-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T10:44:26+00:00",
+      "titolo": "L'AI agentica mette in crisi GitHub: stop temporaneo a nuovi abbonamenti Copilot",
+      "descrizione": "Le misure interessano i piani individuali Pro, Pro+ e Student. Sono stati annunciati nuovi limiti, per sessione e settimanale, e nuove modalità di accesso ai modelli più avanzati.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n655792/microsoft-github-copilot-stop-nuovi-abbonamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T18:59:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Cybersecurity, Claude Mythos, il modello di Anthropic è nelle mani della Nsa?",
-      "descrizione": "La National Security Agency (Nsa) starebbe utilizzando Claude Mythos. L’agenzia al centro dello scandalo sulla sorveglianza di massa innescato nel 2013 dalle rilevazioni di Edward Snowden sarebbe una delle realtà...",
-      "link": "https://www.ilsole24ore.com/art/cybersecurity-claude-mythos-modello-anthropic-e-mani-nsa-AIg6yybC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-21T12:09:31+00:00",
+      "titolo": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+      "descrizione": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "fonte": "WIRED",
+      "data": "2026-04-21T18:30:00+00:00",
       "modello": "claude"
     }
   ]

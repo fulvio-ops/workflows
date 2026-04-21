@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-04-21T14:10:08.407026+00:00",
+  "last_updated": "2026-04-21T19:38:47.372139+00:00",
   "items": [
     {
-      "titolo": "Tank 700 di GWM: lanciato in Cina il fuoristrada di lusso da 864 CV",
-      "descrizione": "GWM lancia il Tank 700 Hi4-Z: un SUV ibrido plug-in da ben 864 CV. Design aggressivo, tecnologia LiDAR e differenze tra le versioni",
-      "link": "https://www.hdmotori.it/gwm-tank-700-hi4z-864cv-caratteristiche-prezzi/",
+      "titolo": "Recensione OPPO Find X9 Ultra: torna lo zoom 10X sul cameraphone più completo | VIDEO",
+      "descrizione": "Abbiamo provato il nuovo top gamma: ecco com'è andata.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n655278/recensione-oppo-find-x9-ultra/",
       "fonte": "HDblog.it",
-      "data": "2026-04-21T14:00:50+00:00"
+      "data": "2026-04-21T19:00:00+00:00"
+    },
+    {
+      "titolo": "L'AI agentica mette in crisi GitHub: stop temporaneo a nuovi abbonamenti Copilot",
+      "descrizione": "Le misure interessano i piani individuali Pro, Pro+ e Student. Sono stati annunciati nuovi limiti, per sessione e settimanale, e nuove modalità di accesso ai modelli più avanzati.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n655792/microsoft-github-copilot-stop-nuovi-abbonamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T18:59:00+00:00"
+    },
+    {
+      "titolo": "Tim Cook, “Sto bene, resterò a lungo in Apple”. Perché lascia il ruolo di CEO",
+      "descrizione": "L’incontro con i dipendenti si è svolto allo Steve Jobs Theater",
+      "link": "https://www.hdblog.it/apple/articoli/n655860/tim-cook-apple-perche-lascia-ruolo-ceo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T18:39:00+00:00"
+    },
+    {
+      "titolo": "I saw Framework's new 'MacBook Pro for Linux' and it's the hardware enthusiasts deserve",
+      "descrizione": "Six years of user feedback have led to the new Framework Laptop 13 Pro, a thin and light device that's both modular and premium.",
+      "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
+      "fonte": "Latest news",
+      "data": "2026-04-21T18:15:45+00:00"
+    },
+    {
+      "titolo": "DJI Osmo Mobile 8P ufficiale: display removibile e tante altre novità",
+      "descrizione": "Particolarmente interessante il display staccabile che permette di usarlo a mo' di telecomando.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655855/dji-osmo-pocket-8p-novita-prezzi-funzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T17:55:00+00:00"
+    },
+    {
+      "titolo": "Telegram rischia il ban in Regno Unito",
+      "descrizione": "Dopo l'avvio di nuove indagini",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655817/telegram-rischia-ban-regno-unito/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T17:35:00+00:00"
+    },
+    {
+      "titolo": "Intel teases wider range of overclockable CPUs for future platforms — VP Robert Hallock says budget builders 'deserve the same level of features' as more well-heeled enthusiasts",
+      "descrizione": "In a new interview, Intel VP Robert Hallock unveiled a renewed focus on the entry-level enthusiast market with a commitment to release more budget-friendly unlocked CPUs over time.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-teases-wider-range-of-overclockable-cpus-for-future-platforms-vp-robert-hallock-says-budget-builders-deserve-the-same-level-of-features-as-more-well-heeled-enthusiasts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-21T17:25:14+00:00"
+    },
+    {
+      "titolo": "Mini Cooper Paul Smith Edition: debutta alla Milano Design Week",
+      "descrizione": "Dopo concept spettacolari e realizzazioni one-off, la collaborazione tra Mini e lo stilista Paul Smith si concretizza in una versione speciale acquistabile, con prezzi da 36.250 euro.",
+      "link": "https://www.hdmotori.it/mini-cooper-paul-smith-edition-milano-design-week/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T17:00:16+00:00"
+    },
+    {
+      "titolo": "Trump è convinto che la Coca-Cola Light uccida il cancro…",
+      "descrizione": "Il presidente americano Donald Trump crede che la Coca-Cola Light faccia bene alla salute e combatta il cancro. The post Trump è convinto che la Coca-Cola Light uccida il cancro… appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/trump-convinto-coca-cola-light-uccida-cancro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-21T16:55:00+00:00"
+    },
+    {
+      "titolo": "Ubuntu 26.04, ottime notizie per le GPU Intel | Benchmark",
+      "descrizione": "Su piattaforma Lunar Lake si registrano miglioramenti medi del 17%, stando ai test di Phoronix.",
+      "link": "https://www.hdblog.it/portatili/articoli/n655844/ubuntu-benchmark-26-04-lts-miglioramenti-gpu/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T16:45:00+00:00"
+    },
+    {
+      "titolo": "NGate: furto dei dati di pagamento con app e AI",
+      "descrizione": "La nuova variante di NGate sfrutta una versione modificata dell'app HandyPay per installare il malware che permette di clonare la carta di pagamento. The post NGate: furto dei dati di pagamento con app e AI appeared firs",
+      "link": "https://www.punto-informatico.it/ngate-furto-dati-pagamento-app-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-21T16:29:55+00:00"
+    },
+    {
+      "titolo": "Anche Lenovo Legion Go S è vittima della crisi dei chip: prezzi quasi raddoppiati",
+      "descrizione": "Da 850 dollari al lancio siamo ben oltre i 1.500, a parità di specifiche e variante.",
+      "link": "https://www.hdblog.it/lenovo/articoli/n655842/lenovo-legion-go-s-aumenti-crisi-chip/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T16:25:00+00:00"
+    },
+    {
+      "titolo": "Chipolo e Secrid svelano il portafoglio smart con tracciamento integrato",
+      "descrizione": "Si chiama Miniwallet Trackable e costa 120 euro.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655825/chipolo-secrid-portafoglio-miniwallet-trackable/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T16:15:00+00:00"
+    },
+    {
+      "titolo": "Pixel, batteria a picco dopo l'ultimo update: Google sta indagando",
+      "descrizione": "È capitato anche a voi?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655835/google-pixel-bug-battery-drain-update-aprile/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T16:05:00+00:00"
+    },
+    {
+      "titolo": "Hyundai e TVS Motor insieme per sviluppare un tre ruote elettrico per la città",
+      "descrizione": "Hyundai curerà il design, TVS la piattaforma elettrica e la produzione locale del nuovo avveniristico veicolo tre ruote",
+      "link": "https://www.hdmotori.it/hyundai-tvs-motor-tre-ruote-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T16:00:42+00:00"
+    },
+    {
+      "titolo": "Soldati d'acciaio tra i ghiacci: ecco come i robot cambiano la guerra",
+      "descrizione": "Venti team internazionali testano robot e droni in scenari militari estremi sulle Alpi svizzere.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655832/elrob-2026-robotica-militare-svizzera/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T15:55:00+00:00"
+    },
+    {
+      "titolo": "Voli cancellati per mancanza di carburante: quando si ha diritto al rimborso",
+      "descrizione": "L'Unione Europea fa chiarezza: ecco quando si ha diritto a un rimborso e a un risarcimento.",
+      "link": "https://www.hdblog.it/green/articoli/n655830/voli-cancellati-rimborsi-risarcimenti-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T15:50:00+00:00"
+    },
+    {
+      "titolo": "GeForce RTX 5090 rovinata da dissipatore a liquido NZXT, denuncia in vista",
+      "descrizione": "NZXT si è offerta di rimborsare il prezzo di listino della scheda, il problema è che oggi servono molti più soldi per sostituirla.",
+      "link": "https://www.hdblog.it/hardware/articoli/n655838/asus-rog-astral-rtx-5090-guasto-aio-nzxt-denuncia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T15:45:00+00:00"
+    },
+    {
+      "titolo": "Chernobyl, la struttura protettiva è sempre più a rischio",
+      "descrizione": "Nuovo allarme a Chernobyl: danneggiata la struttura di sicurezza, si teme il rilascio di radiazioni.",
+      "link": "https://www.hdblog.it/green/articoli/n655720/chernobyl-rischio-crollo-reattore/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T15:40:00+00:00"
+    },
+    {
+      "titolo": "I prompt più strani e geniali da provare con l’AI",
+      "descrizione": "L'intelligenza artificiale non serve solo per la produttività. Sette prompt creativi e bizzarri che cambiano il modo di usare l'AI. The post I prompt più strani e geniali da provare con l’AI appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/prompt-piu-strani-geniali-provare-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-21T15:30:02+00:00"
+    },
+    {
+      "titolo": "Telegram: indagine per pedopornografia nel Regno Unito",
+      "descrizione": "Ofcom ha avviato un'indagine nel Regno Unito perché Telegram non ha impedito la diffusione di contenuti pedopornografici sulla piattaforma. The post Telegram: indagine per pedopornografia nel Regno Unito appeared first o",
+      "link": "https://www.punto-informatico.it/telegram-indagine-pedopornografia-regno-unito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-21T15:28:11+00:00"
+    },
+    {
+      "titolo": "Come va il Narwal Flow 2, che ricorda la Kitt di Michael Knight",
+      "descrizione": "Nelle ultime 3 settimane abbiamo testato con frequenza praticamente quotidiana il Narwal Flow 2, robot lavapavimenti nuovo top di gamma dell’azienda cinese. Una piccola premessa: questo robot arriva sul mercato...",
+      "link": "https://www.ilsole24ore.com/art/come-fa-narwal-flow-2-che-ricorda-kitt-michael-knight-AIS8GacC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-21T15:11:00+00:00"
+    },
+    {
+      "titolo": "Lo screenshot non screenshot di OpenAI è per gpt-image-2",
+      "descrizione": "Si tratta quasi certamente di un teaser per l'arrivo di gpt-image-2: l'indizio nel post condiviso su X dal profilo ufficiale di OpenAI. The post Lo screenshot non screenshot di OpenAI è per gpt-image-2 appeared first on",
+      "link": "https://www.punto-informatico.it/openai-gpt-image-2/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-21T14:50:43+00:00"
     },
     {
       "titolo": "Moonshot AI's new Kimi K2.6 swarms your complex tasks with 1,000 collaborating agents",
@@ -14,160 +168,6 @@
       "link": "https://www.zdnet.com/article/moonshot-ai-kimi-k2-6-swarms-complex-tasks-collaborating-agents/",
       "fonte": "Latest news",
       "data": "2026-04-21T13:59:56+00:00"
-    },
-    {
-      "titolo": "Opel Corsa GSE si veste da sportiva anni '80 prima del debutto ufficiale",
-      "descrizione": "Dalle grafiche ispirate agli anni '80 alla tecnologia 100% elettrica: Opel anticipa la nuova Corsa GSE sotto un camuffamento speciale",
-      "link": "https://www.hdmotori.it/opel-corsa-gse-camuffamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T13:30:59+00:00"
-    },
-    {
-      "titolo": "POCO M8s 5G ufficiale: un entry level con batteria da 7000 mAh e display a 144Hz",
-      "descrizione": "Il processore è uno Snapdragon 6s Gen 3 di Qualcomm",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655813/poco-m8s-5g-ufficiale-entry-leve/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T13:05:00+00:00"
-    },
-    {
-      "titolo": "AMD Ryzen 9 9950X3D2 review: More cache, more cash",
-      "descrizione": "The Ryzen 9 9950X3D2 is one of the most unique CPUs we’ve ever reviewed, and although its price feels like a kick in the gut, it offers some interesting, highly specialized improvements in certain workloads based on our",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-21T13:00:07+00:00"
-    },
-    {
-      "titolo": "Amazon avrebbe chiesto ai brand di alzare i prezzi sulle piattaforme concorrenti",
-      "descrizione": "Arlo, Levi's e altri sarebbero coinvolte.",
-      "link": "https://www.hdblog.it/amazon/articoli/n655810/amazon-brand-alzare-prezzi-accusa/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:55:00+00:00"
-    },
-    {
-      "titolo": "Recensione OPPO Find X9 Ultra: torna lo zoom 10X sul cameraphone più completo | VIDEO",
-      "descrizione": "Abbiamo provato il nuovo top gamma: ecco com'è andata.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n655278/recensione-oppo-find-x9-ultra/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:34:00+00:00"
-    },
-    {
-      "titolo": "OPPO Watch X3 ufficiale in Italia con gli auricolari Enco Clip2 ed Air5 Pro | PREZZI",
-      "descrizione": "Tutte le novità presentate oggi.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n655631/oppo-watch-x3-enco-air5-pro-clip2-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:33:00+00:00"
-    },
-    {
-      "titolo": "Apple rischia sanzione per abuso di posizione dominante",
-      "descrizione": "Apple rischia una multa fino a 38 miliardi di dollari in India per l'abuso di posizione dominante nel mercato della distribuzione delle app per iOS. The post Apple rischia sanzione per abuso di posizione dominante appear",
-      "link": "https://www.punto-informatico.it/apple-rischia-sanzione-abuso-posizione-dominante/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T12:32:56+00:00"
-    },
-    {
-      "titolo": "OPPO Pad 5 ufficiale con Pencil 2R: perfetto per lavoro e studio | PREZZO",
-      "descrizione": "Tante funzionalità AI integrate.",
-      "link": "https://www.hdblog.it/tablet/articoli/n655608/oppo-pad-5-ufficiale-caratteristiche-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:32:00+00:00"
-    },
-    {
-      "titolo": "OPPO Find X9 Ultra ufficiale: doppia 200MP, zoom 10x e AI avanzata | Prezzo",
-      "descrizione": "OPPO ha annunciato l’arrivo sul mercato globale del suo nuovo top di gamma con fotocamera Hasselblad",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655655/oppo-find-x9-ultra-ufficiale-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:31:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp, il riassunto delle chat non lette arriverà anche su iOS",
-      "descrizione": "La funzione avvistata nell’ultima beta dell’applicazione per iOS.",
-      "link": "https://www.hdblog.it/apple/articoli/n655800/whatsapp-riassunto-chat-non-lette-app-ios/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:20:00+00:00"
-    },
-    {
-      "titolo": "TP-Link seeks to secure conditional approval from FCC following router import ban — company stresses it is no longer Chinese-owned",
-      "descrizione": "TP-Link, one of the most popular consumer router brands in the U.S., met with FCC officials to discuss how it can secure a conditional approval to continue introducing and selling new routers.",
-      "link": "https://www.tomshardware.com/networking/routers/tp-link-seeks-to-secure-conditional-approval-from-fcc-following-router-import-ban-company-stresses-it-is-no-longer-chinese-owned",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-21T12:15:58+00:00"
-    },
-    {
-      "titolo": "Anker porta in Italia le Soundcore Space 2 con ANC e tanta autonomia. Già in sconto",
-      "descrizione": "Le nuove Soundcore Space 2 arrivano sul mercato italiano: ANC avanzata, comfort ergonomico e lunga durata della batteria le rendono ideali per viaggi e lavoro",
-      "link": "https://www.hdblog.it/indossabili/articoli/n655809/soundcore-space-2-italia-prezzo-sconto-anker/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:15:00+00:00"
-    },
-    {
-      "titolo": "Cybersecurity, Claude Mythos, il modello di Anthropic è nelle mani della Nsa?",
-      "descrizione": "La National Security Agency (Nsa) starebbe utilizzando Claude Mythos. L’agenzia al centro dello scandalo sulla sorveglianza di massa innescato nel 2013 dalle rilevazioni di Edward Snowden sarebbe una delle realtà...",
-      "link": "https://www.ilsole24ore.com/art/cybersecurity-claude-mythos-modello-anthropic-e-mani-nsa-AIg6yybC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-21T12:09:31+00:00"
-    },
-    {
-      "titolo": "Alfa Romeo Driving Academy: l’emozione si accende in pista",
-      "descrizione": "Desiderate diventare dei veri manici alla guida delle vetture del Biscione? L’Accademia creata da Alfa Romeo fa al caso vostro",
-      "link": "https://www.hdmotori.it/alfa-romeo-driving-academy/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T12:00:23+00:00"
-    },
-    {
-      "titolo": "Insta360 presenta il microfono wireless per creator con display integrato",
-      "descrizione": "Al NAB 2026 debutta il microfono wireless Insta360: registrazione interna, elaborazione AI e connessione diretta con le videocamere per migliorare qualità e workflow",
-      "link": "https://www.hdblog.it/fotografia/articoli/n655797/insta360-microfono-nab-show-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T11:45:00+00:00"
-    },
-    {
-      "titolo": "Cerebras files for IPO — company remains unprofitable despite 20x revenue growth",
-      "descrizione": "Cerebras' sales hit half a billion dollars in 2025, but 86% of its revenue comes from Abu Dhabi-based G42 and Mohamed bin Zayed University of Artificial Intelligence, which represents major risks.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-files-for-ipo-company-remains-unprofitable-despite-20x-revenue-growth",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-21T11:31:29+00:00"
-    },
-    {
-      "titolo": "Fincantieri produrrà lo Spectre USV ad alta velocità: tecnologia all’avanguardia",
-      "descrizione": "Fincantieri, attraverso la controllata statunitense Fincantieri Marine Group (FMG), presenterà il modernissimo Spectre",
-      "link": "https://www.hdmotori.it/fincantieri-spectre-usv-alta-velocita/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T11:30:02+00:00"
-    },
-    {
-      "titolo": "Uso eccessivo delle risorse: GitHub blocca accesso a Copilot",
-      "descrizione": "A causa dell'eccessivo uso delle risorse, le registrazioni ai piani individuali di GitHub Copilot sono state sospese e i limiti d'uso sono stati ridotti. The post Uso eccessivo delle risorse: GitHub blocca accesso a Copi",
-      "link": "https://www.punto-informatico.it/uso-eccessivo-risorse-github-blocca-accesso-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T10:44:26+00:00"
-    },
-    {
-      "titolo": "Anthropic nuked a company's access to Claude, stopping 60 employees dead in their tracks — support via Google Form is the only recourse for vague usage policy violation",
-      "descrizione": "Anthropic nukes a company's access to Claude, stopping 60 employees dead in their tracks on the back of a \"usage policy violation.\"",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-nuked-a-companys-access-to-claude-stopping-60-employees-dead-in-their-tracks-support-via-google-form-is-the-only-recourse-for-vague-usage-policy-violation",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-21T10:40:00+00:00"
-    },
-    {
-      "titolo": "La lettera di addio di Tim Cook, lascia la guida di Apple",
-      "descrizione": "Con una lettera personale, Tim Cook annuncia la transizione a presidente esecutivo di Apple. John Ternus prenderà il suo posto. The post La lettera di addio di Tim Cook, lascia la guida di Apple appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/lettera-addio-tim-cook-lascia-guida-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T10:29:13+00:00"
-    },
-    {
-      "titolo": "Enthusiasts build an interactive online ‘Listening Museum’ of iconic mechanical keyboard audio samples — 36 mechanical masterpieces available for you to audibly try out",
-      "descrizione": "The Listening Museum presents a collection of 36 iconic to modern classic keyboards that have been multisampled and uploaded into an interactive site.",
-      "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-21T10:00:00+00:00"
-    },
-    {
-      "titolo": "Lo strano bug che vira le foto di Instagram in bianco e nero",
-      "descrizione": "Meta ha confermato che un bug ha causato l'automatica e involontaria trasformazione in bianco e nero di alcune foto pubblicate su Instagram. The post Lo strano bug che vira le foto di Instagram in bianco e nero appeared",
-      "link": "https://www.punto-informatico.it/bug-foto-instagram-bianco-nero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T09:42:52+00:00"
     }
   ]
 }
