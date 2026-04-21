@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-21T08:09:26.841362+00:00",
+  "last_updated": "2026-04-21T14:10:12.375102+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, Claude e Gemini down (20 aprile): cosa sta succedendo?",
-      "descrizione": "Tutti gli aggiornamenti sul down di ChatGPT del 20 aprile 2026: problemi in corso per il chatbot di OpenAI. The post ChatGPT, Claude e Gemini down (20 aprile): cosa sta succedendo? appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatgpt-down-20042026/",
+      "titolo": "Chronicle di OpenAI per sviluppatori cattura lo schermo su Mac",
+      "descrizione": "Chronicle è la funzione di OpenAI che osserva lo schermo degli sviluppatori su Mac per dare contesto a Codex. Opt-in, solo per ChatGPT Pro. The post Chronicle di OpenAI per sviluppatori cattura lo schermo su Mac appeared",
+      "link": "https://www.punto-informatico.it/chronicle-openai-sviluppatori-cattura-schermo-mac/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-20T15:02:18+00:00",
+      "data": "2026-04-21T09:18:04+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT, Claude e Gemini down (20 aprile): cosa sta succedendo?",
-      "descrizione": "Tutti gli aggiornamenti sul down di ChatGPT del 20 aprile 2026: problemi in corso per il chatbot di OpenAI. The post ChatGPT, Claude e Gemini down (20 aprile): cosa sta succedendo? appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatgpt-down-20042026/",
+      "titolo": "Uso eccessivo delle risorse: GitHub blocca accesso a Copilot",
+      "descrizione": "A causa dell'eccessivo uso delle risorse, le registrazioni ai piani individuali di GitHub Copilot sono state sospese e i limiti d'uso sono stati ridotti. The post Uso eccessivo delle risorse: GitHub blocca accesso a Copi",
+      "link": "https://www.punto-informatico.it/uso-eccessivo-risorse-github-blocca-accesso-copilot/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-20T15:02:18+00:00",
-      "modello": "gemini"
+      "data": "2026-04-21T10:44:26+00:00",
+      "modello": "copilot"
     },
     {
-      "titolo": "Cloud-AI: il nuovo accordo tra Amazon e Anthropic ricorda qualcosa",
-      "descrizione": "Amazon investe fino ad altri 25 miliardi in Anthropic, quest'ultima si impegna a spenderne 100 in tecnologie AWS nel prossimo decennio. The post Cloud-AI: il nuovo accordo tra Amazon e Anthropic ricorda qualcosa appeared",
-      "link": "https://www.punto-informatico.it/cloud-ai-nuovo-accordo-amazon-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-21T06:16:06+00:00",
+      "titolo": "Cybersecurity, Claude Mythos, il modello di Anthropic è nelle mani della Nsa?",
+      "descrizione": "La National Security Agency (Nsa) starebbe utilizzando Claude Mythos. L’agenzia al centro dello scandalo sulla sorveglianza di massa innescato nel 2013 dalle rilevazioni di Edward Snowden sarebbe una delle realtà...",
+      "link": "https://www.ilsole24ore.com/art/cybersecurity-claude-mythos-modello-anthropic-e-mani-nsa-AIg6yybC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-21T12:09:31+00:00",
       "modello": "claude"
     }
   ]
