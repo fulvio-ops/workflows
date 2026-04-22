@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-21T19:38:47.372139+00:00",
+  "last_updated": "2026-04-22T03:43:32.814771+00:00",
   "items": [
+    {
+      "titolo": "Amazon Tech Week 2026: le migliori offerte LIVE su HDblog",
+      "descrizione": "Tech Week Amazon 2026: offerte dal 22 al 28 aprile. Segui la Live HDblog per scoprire i migliori sconti su tecnologia e smart home.",
+      "link": "https://www.hdblog.it/amazon/offerte/n655746/amazon-tech-week-2026-le-migliori-offerte-live-su-hdblog/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-21T21:30:00+00:00"
+    },
     {
       "titolo": "Recensione OPPO Find X9 Ultra: torna lo zoom 10X sul cameraphone più completo | VIDEO",
       "descrizione": "Abbiamo provato il nuovo top gamma: ecco com'è andata.",
@@ -21,13 +28,6 @@
       "link": "https://www.hdblog.it/apple/articoli/n655860/tim-cook-apple-perche-lascia-ruolo-ceo/",
       "fonte": "HDblog.it",
       "data": "2026-04-21T18:39:00+00:00"
-    },
-    {
-      "titolo": "I saw Framework's new 'MacBook Pro for Linux' and it's the hardware enthusiasts deserve",
-      "descrizione": "Six years of user feedback have led to the new Framework Laptop 13 Pro, a thin and light device that's both modular and premium.",
-      "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
-      "fonte": "Latest news",
-      "data": "2026-04-21T18:15:45+00:00"
     },
     {
       "titolo": "DJI Osmo Mobile 8P ufficiale: display removibile e tante altre novità",
@@ -167,7 +167,7 @@
       "descrizione": "Kimi K2.6's impressive new capabilities could redefine how developers approach complex, multi-step engineering workflows.",
       "link": "https://www.zdnet.com/article/moonshot-ai-kimi-k2-6-swarms-complex-tasks-collaborating-agents/",
       "fonte": "Latest news",
-      "data": "2026-04-21T13:59:56+00:00"
+      "data": "2026-04-21T13:59:00+00:00"
     }
   ]
 }
