@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-22T14:10:29.484797+00:00",
+  "last_updated": "2026-04-22T19:39:41.237626+00:00",
   "items": [
+    {
+      "titolo": "Anker annuncia Thus, chip per portare l'AI in locale anche su auricolari e cuffie",
+      "descrizione": "Sfrutta l'architettura cosiddetta CIM (Compute In Memory), in cui CPU e memoria sono nello stesso spazio.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n656012/anker-thus-chip-ai-locale-indossabili-audio/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T18:08:00+00:00"
+    },
+    {
+      "titolo": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "descrizione": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+      "fonte": "WIRED",
+      "data": "2026-04-22T18:00:00+00:00"
+    },
+    {
+      "titolo": "Lenovo Legion Tab, la nuova generazione del super tablet gaming è imminente",
+      "descrizione": "Il device è stato avvistato sul sito ufficiale americano della società.",
+      "link": "https://www.hdblog.it/tablet/articoli/n656010/lenovo-legion-tab-gen-5-coming-soon-sito-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T17:45:00+00:00"
+    },
+    {
+      "titolo": "Possibile accordo tra Anthropic e la Casa Bianca",
+      "descrizione": "Donald Trump ha dichiarato durante un'intervista a CNBC che l'incontro con Anthropic è stato positivo, quindi non è escluso l'avvio di una collaborazione. The post Possibile accordo tra Anthropic e la Casa Bianca appeare",
+      "link": "https://www.punto-informatico.it/possibile-accordo-anthropic-casa-bianca/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T17:37:37+00:00"
+    },
+    {
+      "titolo": "Google Maps sta per cambiare: possibilità di vedere in anteprima i progetti in cantiere",
+      "descrizione": "Grazie a una nuova iniezione di AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n655960/google-maps-novita-progetti-edilizi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T17:35:00+00:00"
+    },
+    {
+      "titolo": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
+      "descrizione": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
+      "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
+      "fonte": "Latest news",
+      "data": "2026-04-22T17:30:03+00:00"
+    },
+    {
+      "titolo": "Fiat Fastback, sorpreso senza veli l'atteso SUV prossimo al debutto",
+      "descrizione": "Dallo stile \"Grande Panda\" alla piattaforma Smart Car: sorpresa su Instagram la nuova Fiat Fastback che punta a un listino accessibile",
+      "link": "https://www.hdmotori.it/fiat-fastback-senza-veli/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T17:00:09+00:00"
+    },
+    {
+      "titolo": "Google annuncia nuovi chip AI per l’era agentica",
+      "descrizione": "TPU 8t e TPU 8i sono i nuovi chip specializzati nell'addestramento e nell'inferenza dei modelli AI che offrono elevate prestazioni per l'era agentica. The post Google annuncia nuovi chip AI per l’era agentica appeared fi",
+      "link": "https://www.punto-informatico.it/google-annuncia-nuovi-chip-ai-era-agentica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T16:49:20+00:00"
+    },
+    {
+      "titolo": "Passo indietro Mercedes e BMW sulla guida autonoma: i motivi della rinuncia",
+      "descrizione": "Mercedes-Benz e BMW hanno rivisto la strategia sull'adozione della guida autonoma di livello 3, ritenuta attualmente superflua",
+      "link": "https://www.hdmotori.it/mercedes-bmw-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T16:30:44+00:00"
+    },
+    {
+      "titolo": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
+      "descrizione": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more tha",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-22T16:19:24+00:00"
+    },
+    {
+      "titolo": "Google Home introduce le conversazioni continue con Gemini AI",
+      "descrizione": "Gemini per Google Home ora permette dialoghi fluidi senza dover ripetere ogni volta il comando vocale.",
+      "link": "https://www.hdblog.it/google/articoli/n655988/google-home-gemini-conversazioni-continue/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T16:10:00+00:00"
+    },
+    {
+      "titolo": "Esame patente, circa il 40% non supera la teoria. E il Sud promuove molto più del Nord",
+      "descrizione": "Esame della patente, numeri shock: oltre 618.000 respinti su 2,3 milioni di prove, il dato più alto dal 2009",
+      "link": "https://www.hdmotori.it/esame-patente-risultati-indagine-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T16:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung, divisione mobile in rosso per la prima volta causa crisi dei chip?",
+      "descrizione": "La stessa crisi che sta facendo guadagnare montagne di soldi alla divisione semiconduttori, ironia della sorte.",
+      "link": "https://www.hdblog.it/hardware/articoli/n655991/crisi-chip-samsung-divisione-mobile-perdita-costi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T15:45:00+00:00"
+    },
+    {
+      "titolo": "Huawei lancia i FreeClip 2 di colore viola per la festa della mamma",
+      "descrizione": "La nuova colorazione è disponibile a partire da oggi.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n655981/huawei-freeclip-2-colore-viola-festa-mamma/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T15:40:00+00:00"
+    },
+    {
+      "titolo": "Come usare l’intelligenza artificiale per potenziare la memoria",
+      "descrizione": "Più l'intelligenza artificiale ricorda per noi, meno ricordiamo noi stessi. Questi sette prompt ribaltano completamente l'approccio. The post Come usare l’intelligenza artificiale per potenziare la memoria appeared first",
+      "link": "https://www.punto-informatico.it/come-usare-intellingenza-artificiale-potenziare-memoria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T15:39:06+00:00"
+    },
+    {
+      "titolo": "REDMI K Pad 2 e Pad 2 SE ufficiali: uno per giocare, l'altro per chi vuole spendere poco",
+      "descrizione": "Caratteristiche e prezzi.",
+      "link": "https://www.hdblog.it/tablet/articoli/n655980/redmi-k-pad-2-se-tablet-caratteristiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T15:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova BMW Serie 7, l'ammiraglia è tutta da scoprire: al vertice del lusso",
+      "descrizione": "estetica monolitica e tecnologie della Neue Klasse: la settima generazione della BMW Serie 7 ridefinisce il lusso tra motori ibridi ed EV",
+      "link": "https://www.hdmotori.it/nuova-bmw-serie-7/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T15:30:19+00:00"
+    },
+    {
+      "titolo": "Tiscali News chiude: addio ad un pezzo dell'editoria in Italia",
+      "descrizione": "12 giornalisti perdono il lavoro.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655972/tiscali-news-chiude-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T15:10:00+00:00"
+    },
+    {
+      "titolo": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
+      "descrizione": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would",
+      "link": "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-22T14:32:12+00:00"
+    },
+    {
+      "titolo": "Artemis II: NASA pubblica i primi dati sulla missione",
+      "descrizione": "La NASA ha pubblicato i primi dati relativi alle analisi effettuate dai tecnici, evidenziando pochi problemi per Orion, razzo SLS e base di lancio. The post Artemis II: NASA pubblica i primi dati sulla missione appeared",
+      "link": "https://www.punto-informatico.it/artemis-ii-nasa-pubblica-primi-dati-missione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T14:16:27+00:00"
+    },
+    {
+      "titolo": "Su Marte c’erano gli ingredienti della vita: la scoperta di Curiosity",
+      "descrizione": "Il rover Curiosity ha trovato oltre 20 molecole organiche in rocce marziane che documentano la possibile presenza di strutture legate al DNA. The post Su Marte c’erano gli ingredienti della vita: la scoperta di Curiosity",
+      "link": "https://www.punto-informatico.it/marte-ingredienti-vita-scoperta-curiosity/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T14:16:05+00:00"
+    },
+    {
+      "titolo": "Lenovo vs. Dell: My buying advice after testing dozens of laptops from both",
+      "descrizione": "Dell and Lenovo specialize in different areas. This guide will help you decide which to buy.",
+      "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "fonte": "Latest news",
+      "data": "2026-04-22T14:10:00+00:00"
+    },
     {
       "titolo": "Tech Week: questo powerbank da 10.000 mAh è tra i migliori affari",
       "descrizione": "Mai più a secco con il powerbank VEEKTOMX: è in forte sconto su Amazon nella prima giornata dell'evento Tech Week, non lasciartelo sfuggire. The post Tech Week: questo powerbank da 10.000 mAh è tra i migliori affari appe",
@@ -9,165 +163,11 @@
       "data": "2026-04-22T14:08:43+00:00"
     },
     {
-      "titolo": "L'auto cinese più popolare sbarca in Italia: l'anti-FIAT si chiama Geely E2",
-      "descrizione": "Cosa rende così popolare la Geely E2 nel Paese del Dragone Rosso? Scopriamo le caratteristiche della hatchback compatta",
-      "link": "https://www.hdmotori.it/geely-e2-anti-fiat-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T14:00:33+00:00"
-    },
-    {
       "titolo": "Dreame L10s Ultra Gen 2 in sconto alla Tech Week: che occasione",
       "descrizione": "Oggi trovi il robot aspirapolvere e lavapavimenti Dreame L10s Ultra Gen 2 in forte sconto su Amazon per il via dell'evento Tech Week. The post Dreame L10s Ultra Gen 2 in sconto alla Tech Week: che occasione appeared firs",
       "link": "https://www.punto-informatico.it/dreame-l10s-ultra-gen-2-in-sconto-tech-week-occasione/",
       "fonte": "Punto Informatico",
       "data": "2026-04-22T13:55:03+00:00"
-    },
-    {
-      "titolo": "Yelp si aggiorna: ora l'AI consiglia il ristorante adatto a noi e prenota il tavolo",
-      "descrizione": "35 novità nell'ultimo aggiornamento.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n655940/yelp-assistant-ai-trova-ristorante-prenota-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T13:40:00+00:00"
-    },
-    {
-      "titolo": "Devil May Cry 2 su Netflix, ecco lo spettacolare trailer in italiano",
-      "descrizione": "Dante è ancora più... Dante!",
-      "link": "https://www.hdblog.it/games/articoli/n655952/devil-may-cry-netflix-trailer-italiano-stagione-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T13:35:00+00:00"
-    },
-    {
-      "titolo": "Lamborghini pronta a incornare Ferrari: pizzicata la nuova Revuelto SV",
-      "descrizione": "L’anti-F80 si chiama Lamborghini Revuelto Super Veloce e riprende la tradizione storica del brand di Sant’Agata Bolognese",
-      "link": "https://www.hdmotori.it/lamborghini-nuova-revuelto-sv/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T13:30:19+00:00"
-    },
-    {
-      "titolo": "Amazon Tech Week: promo cuffie gaming Logitech G Astro A20 X",
-      "descrizione": "Le Logitech G Astro A20 X sono cuffie gaming che si fanno notare e sentire: falle tue e risparmia con lo sconto della Tech Week su Amazon. The post Amazon Tech Week: promo cuffie gaming Logitech G Astro A20 X appeared fi",
-      "link": "https://www.punto-informatico.it/amazon-tech-week-promo-cuffie-gaming-logitech-g-astro-a20-x/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T13:19:16+00:00"
-    },
-    {
-      "titolo": "Meta userà i dati dei dipendenti per addestrare l’intelligenza artificiale",
-      "descrizione": "Ovviamente per l'AI agentica.",
-      "link": "https://www.hdblog.it/business/articoli/n655946/meta-usa-dati-dipendenti-per-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T13:15:00+00:00"
-    },
-    {
-      "titolo": "RC Auto sempre più cara, in quattro anni aumenti superiori al 20%",
-      "descrizione": "La crescita della RC Auto rallenta rispetto agli anni precedenti, ma il confronto con il 2021 racconta una storia diversa",
-      "link": "https://www.hdmotori.it/rc-auto-aumento-costi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T13:00:40+00:00"
-    },
-    {
-      "titolo": "Booking.com: nuova istruttoria per pratiche scorrette",
-      "descrizione": "L'autorità antitrust ha ravvisato possibili pratiche commerciali scorrette che riguardano i programmi Partner Preferiti e Partner Preferiti Plus. The post Booking.com: nuova istruttoria per pratiche scorrette appeared fi",
-      "link": "https://www.punto-informatico.it/booking-com-nuova-istruttoria-pratiche-scorrette/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T12:58:12+00:00"
-    },
-    {
-      "titolo": "Carta di credito a canone zero e altri vantaggi: alla scoperta di TF Mastercard Gold",
-      "descrizione": "Assenza di commissioni, assicurazione di viaggio gratuita, nessun costo extra per l'utilizzo all'estero: ecco la carta di TF Bank. The post Carta di credito a canone zero e altri vantaggi: alla scoperta di TF Mastercard",
-      "link": "https://www.punto-informatico.it/fintech/carte/carta-di-credito-a-canone-zero-e-altri-vantaggi-alla-scoperta-di-tf-mastercard-gold/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T12:56:25+00:00"
-    },
-    {
-      "titolo": "Google Workspace, arriva l'AI in grado di capire il tuo lavoro e riorganizzartelo",
-      "descrizione": "Workspace Intelligence punta a trasformare dati sparsi in un contesto operativo coerente e immediatamente utilizzabile",
-      "link": "https://www.hdblog.it/google/articoli/n655951/workspace-intelligence-ggogle-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T12:44:00+00:00"
-    },
-    {
-      "titolo": "Tech Week: c’è anche il nuovo compressore d’aria Xiaomi in sconto",
-      "descrizione": "C'è anche il migliore compressore d'aria portatile di Xiaomi tra le offerte su Amazon per l'evento della Tech Week che inizia oggi. The post Tech Week: c’è anche il nuovo compressore d’aria Xiaomi in sconto appeared firs",
-      "link": "https://www.punto-informatico.it/tech-week-nuovo-compressore-aria-xiaomi-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T12:39:13+00:00"
-    },
-    {
-      "titolo": "Microsoft facing $2.8 billion UK lawsuit for overcharging 60,000 businesses using Microsoft Server on other clouds — Azure users allegedly received lower wholesale pricing",
-      "descrizione": "A lawsuit alleging the company is overcharging Windows Server for non-Azure users has been certified to proceed to trial, although Microsoft is still appealing the decision. The lawyer handling the case alleges that the",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-facing-usd2-8-billion-uk-lawsuit-for-overcharging-60-000-businesses-using-microsoft-server-on-other-clouds-azure-users-allegedly-recieved-lower-wholesale-pricing",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-22T12:36:30+00:00"
-    },
-    {
-      "titolo": "CATL, annunciata la produzione di massa di batterie al sodio",
-      "descrizione": "Addio al litio? CATL punta sulle batterie al sodio per auto elettriche economiche. Produzione di massa al via",
-      "link": "https://www.hdmotori.it/catl-batterie-ioni-sodio-auto-elettriche-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T12:30:01+00:00"
-    },
-    {
-      "titolo": "Ransomware negotiator pleads guilty after leaking victims' insurance details to 'BlackCat' hackers — perp gave attackers a precise picture of exactly how much each target could afford to pay",
-      "descrizione": "Martino, of Land O’Lakes, Florida, is the third and final member of a trio of cybersecurity professionals charged in the scheme.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/florida-man-pleads-guilty-after-leaking-victims-insurance-details-to-blackcat-hackers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-22T12:22:35+00:00"
-    },
-    {
-      "titolo": "ISS, arrivano i nuovi laptop: potenza e test estremi per lavorare nello spazio",
-      "descrizione": "A bordo della Stazione Spaziale Internazionale è iniziata una nuova fase di aggiornamento dell’infrastruttura IT",
-      "link": "https://www.hdblog.it/portatili/articoli/n655943/iss-arrivano-nuovi-laptop-hp-spazio/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T12:20:00+00:00"
-    },
-    {
-      "titolo": "Garmin Instinct 2X Solar a meno di metà prezzo per la Tech Week",
-      "descrizione": "L'arrivo della Tech Week su Amazon ha tagliato in due il prezzo di Garmin Instinct 2X Solar, lo smartwatch solare con autonomia infinita. The post Garmin Instinct 2X Solar a meno di metà prezzo per la Tech Week appeared",
-      "link": "https://www.punto-informatico.it/garmin-instinct-2x-solar-meno-meta-prezzo-tech-week/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T12:18:24+00:00"
-    },
-    {
-      "titolo": "Google accelera sui processori per alimentare l’economia degli agenti intelligenti",
-      "descrizione": "Al via oggi il Google Cloud Next 2026, l’evento annuale di Las Vegas in cui la divisione di Google dedicata a Cloud e AI mostra le novità previste per quest’anno",
-      "link": "https://www.ilsole24ore.com/art/google-accelera-processori-alimentare-l-economia-agenti-intelligenti-AIbCyNdC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-22T12:01:00+00:00"
-    },
-    {
-      "titolo": "Govee Table Lamp Classic sfida Philips Hue Go: metà prezzo, più luminosità",
-      "descrizione": "Bisogna anche fare i conti con autonomia ridotta e assenza di certificazione IP contro polvere e acqua.",
-      "link": "https://www.hdblog.it/domotica/articoli/n655941/govee-lampada-tavolo-batterie-philips-hue-go/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T11:55:00+00:00"
-    },
-    {
-      "titolo": "Mozilla \"cura\" Firefox con Claude Mythos: l'AI scopre oltre 270 vulnerabilità",
-      "descrizione": "Mozilla utilizza modelli di intelligenza artificiale avanzati come quelli di Anthropic per migliorare la sicurezza di Firefox, individuando centinaia di vulnerabilità nel codice",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655937/firefox-150-claude-mythos-vulnerabilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T11:45:00+00:00"
-    },
-    {
-      "titolo": "Rivoluzione Framework Laptop 13 Pro: super batteria, LPCAMM2 e Panther Lake",
-      "descrizione": "Preordini già aperti, uscita a giugno.",
-      "link": "https://www.hdblog.it/portatili/articoli/n655935/framework-laptop-13-pro-batteria-panther-lake/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T11:35:00+00:00"
-    },
-    {
-      "titolo": "Ferrari Luce, rumor sul prezzo: cifra record per la prima elettrica del Cavallino",
-      "descrizione": "Ferrari ha alzato l’asticella anche dei prezzi con la prima vettura full electric della sua storia, attesa al lancio il 25 maggio",
-      "link": "https://www.hdmotori.it/ferrari-luce-prezzo-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T11:30:37+00:00"
-    },
-    {
-      "titolo": "The Best Apps to Help You Cancel Subscriptions (2026): Trim, Bobby, TrackMySubs, Hiatus",
-      "descrizione": "You may have several recurring subscriptions you've forgotten about. These apps help you keep track of them—and cancel the ones you don't need.",
-      "link": "https://www.wired.com/story/apps-cancel-subscriptions-save-money/",
-      "fonte": "WIRED",
-      "data": "2026-04-22T11:00:00+00:00"
     }
   ]
 }

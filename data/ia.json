@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-04-22T14:10:32.584881+00:00",
+  "last_updated": "2026-04-22T19:39:44.329560+00:00",
   "items": [
     {
-      "titolo": "Google Workspace, arriva l'AI in grado di capire il tuo lavoro e riorganizzartelo",
-      "descrizione": "Workspace Intelligence punta a trasformare dati sparsi in un contesto operativo coerente e immediatamente utilizzabile",
-      "link": "https://www.hdblog.it/google/articoli/n655951/workspace-intelligence-ggogle-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T12:44:00+00:00",
+      "titolo": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
+      "descrizione": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more tha",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-22T16:19:24+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Rufus 4.14 Beta: Windows 11 senza Copilot, Teams e Outlook",
-      "descrizione": "Rufus 4.14 beta permette di creare chiavette USB per installare Windows 11 senza app preinstallate, come Copilot, Teams e Outlook. The post Rufus 4.14 Beta: Windows 11 senza Copilot, Teams e Outlook appeared first on Pun",
-      "link": "https://www.punto-informatico.it/rufus-4-14-beta-windows-11-senza-copilot-teams-outlook/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T08:46:47+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "How Google just revamped Gemini Enterprise for the agentic era - here's what's new",
-      "descrizione": "Meet Gemini Enterprise Agent Platform, the new developer tool for managing fleets of agents at scale.",
-      "link": "https://www.zdnet.com/article/google-cloud-next-enterprise-agent-platform-ai/",
+      "titolo": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
+      "descrizione": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
+      "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
       "fonte": "Latest news",
-      "data": "2026-04-22T12:00:36+00:00",
+      "data": "2026-04-22T17:30:03+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Mozilla \"cura\" Firefox con Claude Mythos: l'AI scopre oltre 270 vulnerabilità",
-      "descrizione": "Mozilla utilizza modelli di intelligenza artificiale avanzati come quelli di Anthropic per migliorare la sicurezza di Firefox, individuando centinaia di vulnerabilità nel codice",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n655937/firefox-150-claude-mythos-vulnerabilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T11:45:00+00:00",
+      "titolo": "Possibile accordo tra Anthropic e la Casa Bianca",
+      "descrizione": "Donald Trump ha dichiarato durante un'intervista a CNBC che l'incontro con Anthropic è stato positivo, quindi non è escluso l'avvio di una collaborazione. The post Possibile accordo tra Anthropic e la Casa Bianca appeare",
+      "link": "https://www.punto-informatico.it/possibile-accordo-anthropic-casa-bianca/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T17:37:37+00:00",
       "modello": "claude"
     }
   ]
