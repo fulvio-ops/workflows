@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-22T08:07:06.353446+00:00",
+  "last_updated": "2026-04-22T14:10:32.584881+00:00",
   "items": [
     {
-      "titolo": "OpenAI lancia ChatGPT Images 2.0: grafica e lavoro alla massima potenza",
-      "descrizione": "OpenAI presenta ChatGPT Images 2.0 con testi leggibili, diagrammi precisi e formati fino a 3:1.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n655870/chatgpt-images-2-openai-novita/",
+      "titolo": "Google Workspace, arriva l'AI in grado di capire il tuo lavoro e riorganizzartelo",
+      "descrizione": "Workspace Intelligence punta a trasformare dati sparsi in un contesto operativo coerente e immediatamente utilizzabile",
+      "link": "https://www.hdblog.it/google/articoli/n655951/workspace-intelligence-ggogle-gemini/",
       "fonte": "HDblog.it",
-      "data": "2026-04-22T06:05:00+00:00",
+      "data": "2026-04-22T12:44:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "L'AI agentica mette in crisi GitHub: stop temporaneo a nuovi abbonamenti Copilot",
-      "descrizione": "Le misure interessano i piani individuali Pro, Pro+ e Student. Sono stati annunciati nuovi limiti, per sessione e settimanale, e nuove modalità di accesso ai modelli più avanzati.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n655792/microsoft-github-copilot-stop-nuovi-abbonamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-21T18:59:00+00:00",
+      "titolo": "Rufus 4.14 Beta: Windows 11 senza Copilot, Teams e Outlook",
+      "descrizione": "Rufus 4.14 beta permette di creare chiavette USB per installare Windows 11 senza app preinstallate, come Copilot, Teams e Outlook. The post Rufus 4.14 Beta: Windows 11 senza Copilot, Teams e Outlook appeared first on Pun",
+      "link": "https://www.punto-informatico.it/rufus-4-14-beta-windows-11-senza-copilot-teams-outlook/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T08:46:47+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Pixel Watch 4 a partire da 299€ con lo sconto Tech Week",
-      "descrizione": "Costa meno di 300€ il Google Pixel Watch 4, lo smartwatch di ultima generazione di Google con Gemini e tante feature per sport e salute.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n655873/google-pixel-watch-4-tech-week-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T07:05:00+00:00",
+      "titolo": "How Google just revamped Gemini Enterprise for the agentic era - here's what's new",
+      "descrizione": "Meet Gemini Enterprise Agent Platform, the new developer tool for managing fleets of agents at scale.",
+      "link": "https://www.zdnet.com/article/google-cloud-next-enterprise-agent-platform-ai/",
+      "fonte": "Latest news",
+      "data": "2026-04-22T12:00:36+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Sam Altman accusa Anthropic: usa la paura per vendere Mythos",
-      "descrizione": "Sam Altman accusa Anthropic di usare la retorica del rischio per mantenere l'AI, nel caso specifico, Mythos, nelle mani di un'élite. The post Sam Altman accusa Anthropic: usa la paura per vendere Mythos appeared first on",
-      "link": "https://www.punto-informatico.it/sam-altman-accusa-anthropic-usa-paura-vendere-mythos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T06:30:19+00:00",
+      "titolo": "Mozilla \"cura\" Firefox con Claude Mythos: l'AI scopre oltre 270 vulnerabilità",
+      "descrizione": "Mozilla utilizza modelli di intelligenza artificiale avanzati come quelli di Anthropic per migliorare la sicurezza di Firefox, individuando centinaia di vulnerabilità nel codice",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n655937/firefox-150-claude-mythos-vulnerabilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T11:45:00+00:00",
       "modello": "claude"
     }
   ]
