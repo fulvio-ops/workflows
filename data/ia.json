@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-22T03:43:37.414488+00:00",
+  "last_updated": "2026-04-22T08:07:06.353446+00:00",
   "items": [
     {
-      "titolo": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception",
-      "descrizione": "OpenAI's new ChatGPT Images 2.0 promises precision and design control. Here's how to try it for yourself.",
-      "link": "https://www.zdnet.com/article/chatgpt-images-2-hands-on-testing/",
-      "fonte": "Latest news",
-      "data": "2026-04-21T19:00:48+00:00",
+      "titolo": "OpenAI lancia ChatGPT Images 2.0: grafica e lavoro alla massima potenza",
+      "descrizione": "OpenAI presenta ChatGPT Images 2.0 con testi leggibili, diagrammi precisi e formati fino a 3:1.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n655870/chatgpt-images-2-openai-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T06:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-      "descrizione": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "fonte": "WIRED",
-      "data": "2026-04-21T18:30:00+00:00",
+      "titolo": "Google Pixel Watch 4 a partire da 299€ con lo sconto Tech Week",
+      "descrizione": "Costa meno di 300€ il Google Pixel Watch 4, lo smartwatch di ultima generazione di Google con Gemini e tante feature per sport e salute.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n655873/google-pixel-watch-4-tech-week-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T07:05:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Sam Altman accusa Anthropic: usa la paura per vendere Mythos",
+      "descrizione": "Sam Altman accusa Anthropic di usare la retorica del rischio per mantenere l'AI, nel caso specifico, Mythos, nelle mani di un'élite. The post Sam Altman accusa Anthropic: usa la paura per vendere Mythos appeared first on",
+      "link": "https://www.punto-informatico.it/sam-altman-accusa-anthropic-usa-paura-vendere-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-22T06:30:19+00:00",
       "modello": "claude"
     }
   ]
