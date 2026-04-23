@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-04-23T14:12:58.212086+00:00",
+  "last_updated": "2026-04-23T19:42:24.833939+00:00",
   "items": [
     {
-      "titolo": "OpenAI Privacy Filter nasconde i dati personali",
-      "descrizione": "Privacy Filter è il nuovo modello di OpenAI specializzato nella rilevazione e mascheramento delle informazioni personali presenti nel testo dei prompt. The post OpenAI Privacy Filter nasconde i dati personali appeared fi",
-      "link": "https://www.punto-informatico.it/openai-privacy-filter-nasconde-dati-personali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T13:58:00+00:00",
+      "titolo": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
+      "descrizione": "Anthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-23T15:11:30+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Nasce Gemini Enterprise Agentic: tutte le novità del Google Cloud Next 2026",
-      "descrizione": "Durante l’evento del colosso di Mountain Views confermata l’uscita entro il 2026 della versione migliorata di Apple Siri, basata su Gemini e che girerà su Google Cloud.",
-      "link": "https://www.ilsole24ore.com/art/nasce-gemini-enterprise-agentic-tutte-novita-google-cloud-next-2026-AIlB0yeC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-23T09:24:45+00:00",
+      "titolo": "Copilot Agent Mode disponibile in Microsoft 365",
+      "descrizione": "Agent Mode, la funzionalità che permette di usare Copilot per eseguire azioni in Word, Excel e PowerPoint, è ora disponibile per tutti gli abbonati. The post Copilot Agent Mode disponibile in Microsoft 365 appeared first",
+      "link": "https://www.punto-informatico.it/copilot-agent-mode-disponibile-microsoft-365/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T15:51:28+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google e Pentagono: Gemini potrebbe gestire i segreti della difesa",
+      "descrizione": "Google tratta col Pentagono per portare l'AI Gemini in ambienti militari classificati.",
+      "link": "https://www.hdblog.it/google/articoli/n656020/google-gemini-pentagono-difesa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T17:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "New Firefox update patches a whopping 271 bugs with help from Claude Mythos",
-      "descrizione": "Firefox 150 enhances split view, tab sharing, and other helpful features and patches 271 security vulnerabilities - update now.",
-      "link": "https://www.zdnet.com/article/firefox-new-features-271-security-bug-fixes/",
-      "fonte": "Latest news",
-      "data": "2026-04-22T16:52:00+00:00",
+      "titolo": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
+      "descrizione": "Anthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-23T15:11:30+00:00",
       "modello": "claude"
     }
   ]
