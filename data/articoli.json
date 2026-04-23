@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-22T19:39:41.237626+00:00",
+  "last_updated": "2026-04-23T03:48:22.933710+00:00",
   "items": [
+    {
+      "titolo": "The case for buying a MacBook Neo right now - especially for students",
+      "descrizione": "The MacBook Neo has been so popular that it's selling out on Apple's website. Here's how students can get ahead of the back-to-school rush.",
+      "link": "https://www.zdnet.com/article/macbook-neo-for-back-to-school-buy-now/",
+      "fonte": "Latest news",
+      "data": "2026-04-23T01:00:46+00:00"
+    },
+    {
+      "titolo": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+      "descrizione": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+      "link": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+      "fonte": "WIRED",
+      "data": "2026-04-22T21:49:19+00:00"
+    },
+    {
+      "titolo": "Un mese con Samsung Galaxy S26 | VIDEO",
+      "descrizione": "Abbiamo passato un mese con Samsung Galaxy S26: tantissimi PRO ma la maggior parte rimangono sulla carta. Poche novità in generale.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n654766/galaxy-s26-recensione-un-mese-dopo-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-22T19:01:00+00:00"
+    },
     {
       "titolo": "Anker annuncia Thus, chip per portare l'AI in locale anche su auricolari e cuffie",
       "descrizione": "Sfrutta l'architettura cosiddetta CIM (Compute In Memory), in cui CPU e memoria sono nello stesso spazio.",
@@ -121,13 +142,6 @@
       "data": "2026-04-22T15:30:19+00:00"
     },
     {
-      "titolo": "Tiscali News chiude: addio ad un pezzo dell'editoria in Italia",
-      "descrizione": "12 giornalisti perdono il lavoro.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n655972/tiscali-news-chiude-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T15:10:00+00:00"
-    },
-    {
       "titolo": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
       "descrizione": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would",
       "link": "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems",
@@ -154,20 +168,6 @@
       "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
       "fonte": "Latest news",
       "data": "2026-04-22T14:10:00+00:00"
-    },
-    {
-      "titolo": "Tech Week: questo powerbank da 10.000 mAh è tra i migliori affari",
-      "descrizione": "Mai più a secco con il powerbank VEEKTOMX: è in forte sconto su Amazon nella prima giornata dell'evento Tech Week, non lasciartelo sfuggire. The post Tech Week: questo powerbank da 10.000 mAh è tra i migliori affari appe",
-      "link": "https://www.punto-informatico.it/tech-week-powerbank-10000-mah-migliori-affari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T14:08:43+00:00"
-    },
-    {
-      "titolo": "Dreame L10s Ultra Gen 2 in sconto alla Tech Week: che occasione",
-      "descrizione": "Oggi trovi il robot aspirapolvere e lavapavimenti Dreame L10s Ultra Gen 2 in forte sconto su Amazon per il via dell'evento Tech Week. The post Dreame L10s Ultra Gen 2 in sconto alla Tech Week: che occasione appeared firs",
-      "link": "https://www.punto-informatico.it/dreame-l10s-ultra-gen-2-in-sconto-tech-week-occasione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T13:55:03+00:00"
     }
   ]
 }
