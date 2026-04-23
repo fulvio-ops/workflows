@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-23T03:48:27.288165+00:00",
+  "last_updated": "2026-04-23T08:11:52.504599+00:00",
   "items": [
     {
-      "titolo": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
-      "descrizione": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more tha",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-22T16:19:24+00:00",
+      "titolo": "L'AI può essere ritenuta responsabile per una sparatoria? Il caso ChatGPT in Florida",
+      "descrizione": "OpenAI chiamata ad assumersi la responsabilità per la sparatoria in Florida che ha visto l'assassino pianificare l'assalto con ChatGPT.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n656031/ai-responsabile-sparatoria-caso-chatgpt-florida/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:55:00+00:00",
       "modello": "chatgpt"
     },
     {

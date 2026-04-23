@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-04-23T03:48:22.933710+00:00",
+  "last_updated": "2026-04-23T08:11:49.309524+00:00",
   "items": [
+    {
+      "titolo": "iOS 26.4.2 e iPadOS in rollout con una patch urgente per la sicurezza",
+      "descrizione": "Apple ha rilasciato iOS 26.4.2 e iPadOS con una correzione importante: risolta una falla che poteva consentire di recuperare notifiche push eliminate su iPhone e iPad",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656041/ios-2642-e-ipados-in-rollout-con-una-patch-urgente-per-la-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T08:10:00+00:00"
+    },
+    {
+      "titolo": "Ecco la nuova funzione di YouTube che limita l’accesso agli Shorts per gli adolescenti",
+      "descrizione": "La novità sbarca in tutta Europa, inclusa l’Italia, e consente persino di impedire totalmente la visione degli Shorts",
+      "link": "https://www.ilsole24ore.com/art/ecco-nuova-funzione-youtube-che-limita-l-accesso-shorts-gli-adolescenti-AIyeYPbC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-23T08:06:37+00:00"
+    },
+    {
+      "titolo": "Nokia pensa alle comunicazioni spaziali e scorpora Modul8",
+      "descrizione": "Nokia ha deciso lo scorporo della sua divisione Modul8, attiva nelle comunicazioni spaziali, per dare alla nuova compagnia maggiore autonomia finanziaria e sfruttare appieno il grande interesse (a...",
+      "link": "https://www.hdblog.it/nokia/articoli/n656025/nokia-scorporo-modul8-comunicazioni-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T08:05:00+00:00"
+    },
+    {
+      "titolo": "Logitech MX Master 3S: il mouse top di gamma è in offerta a tempo su Amazon",
+      "descrizione": "Logitech MX Master 3S, il mouse top di gamma che tutti voglio e che migliora la produttività, è in offerta a tempo su Amazon a prezzo shock. The post Logitech MX Master 3S: il mouse top di gamma è in offerta a tempo su A",
+      "link": "https://www.punto-informatico.it/logitech-mx-master-3s-mouse-top-gamma-offerta-tempo-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T08:03:37+00:00"
+    },
+    {
+      "titolo": "JAS Motorsport Tensei, alla Milano Design Week i dettagli della supercar ispirata alla Honda NSX",
+      "descrizione": "Presentato il modello in scala 1:5 della vettura disegnata da Pininfarina con carrozzeria in fibra di carbonio, V6 aspirato e cambio manuale a sei marce.",
+      "link": "https://www.hdmotori.it/jas-motorsport-tensei-alla-milano-design-week-i-dettagli-della-supercar-ispirata-alla-honda-nsx/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T08:00:00+00:00"
+    },
+    {
+      "titolo": "L'AI può essere ritenuta responsabile per una sparatoria? Il caso ChatGPT in Florida",
+      "descrizione": "OpenAI chiamata ad assumersi la responsabilità per la sparatoria in Florida che ha visto l'assassino pianificare l'assalto con ChatGPT.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n656031/ai-responsabile-sparatoria-caso-chatgpt-florida/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:55:00+00:00"
+    },
+    {
+      "titolo": "X affida a Grok la cura del feed, l’utente sceglie i temi",
+      "descrizione": "Grok seleziona i post della propria bacheca su X, analizza ogni contenuto e lo combina con la personalizzazione dell'algoritmo. The post X affida a Grok la cura del feed, l’utente sceglie i temi appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/grok-x-cura-feed-temi-scelti-utente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T07:54:39+00:00"
+    },
+    {
+      "titolo": "Primi passi nel PC gaming? Vi serve un preassemblato come si deve",
+      "descrizione": "Acquistare un preassembato oggi conviene? Scopriamolo con questo Winblu T-Rok B860, con componenti ASUS e NVIDIA.",
+      "link": "https://www.hdblog.it/hardware/speciali/n655240/winblu-asus-nvidia-pc-gaming-t-rok-b860-unieuro/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:45:00+00:00"
+    },
+    {
+      "titolo": "NO IVA MediaWorld, le migliori offerte su smartphone, TV e tanto altro fino al 26/4",
+      "descrizione": "Sconto del 18,04% a carrello con la carta MW Club su smartphone, TV, wearable e molto altro. Ecco i prodotti più interessanti.",
+      "link": "https://www.hdblog.it/mediaworld/offerte/n656038/mediaworld-no-iva-aprile-2026-migliori-offerte/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:40:00+00:00"
+    },
+    {
+      "titolo": "AMD Ryzen 9 9950X3D2 arriva in Italia, ecco il prezzo ufficiale",
+      "descrizione": "Siamo molto vicini ai 1.000 euro. Ma ha davvero senso per la vostra build?",
+      "link": "https://www.hdblog.it/hardware/articoli/n656037/amd-ryzen-9950x3d2-prezzo-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:25:00+00:00"
+    },
+    {
+      "titolo": "Elon Musk sfida Nvidia: SpaceX produrrà GPU fatte in casa",
+      "descrizione": "SpaceX annuncia la produzione propria di GPU per alimentare l'AI e ridurre i rischi di fornitura.",
+      "link": "https://www.hdblog.it/mercato/articoli/n656027/elon-musk-sfida-nvidia-spacex-produrra-gpu-fatte-in-casa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T07:05:00+00:00"
+    },
+    {
+      "titolo": "Corsair IRONCLAW WIRELESS SE: strabiliante mouse da Gaming oggi in sconto",
+      "descrizione": "Aprofitta di questa promozione straordinaria che trovi su Amazon per portarti a casa il mouse da Gaming Corsair IRONCLAW WIRELESS SE al 28%. The post Corsair IRONCLAW WIRELESS SE: strabiliante mouse da Gaming oggi in sco",
+      "link": "https://www.punto-informatico.it/corsair-ironclaw-wireless-se-strabiliante-mouse-gaming-oggi-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T06:43:59+00:00"
+    },
+    {
+      "titolo": "Passaporti e patenti a rischio: maxi furto di dati in Francia",
+      "descrizione": "È già trapelato online un database con le presunte informazioni rubate: potrebbero essere coinvolti milioni di cittadini francesi. The post Passaporti e patenti a rischio: maxi furto di dati in Francia appeared first on",
+      "link": "https://www.punto-informatico.it/passaporti-patenti-rischio-maxi-furto-dati-francia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T06:36:49+00:00"
+    },
+    {
+      "titolo": "Garmin Instinct 3 Solar a 294€: lo smartwatch outdoor che dura 28 giorni è al minimo storico",
+      "descrizione": "Il Garmin Instinct 3 Solar da 45mm con GPS multi-banda, torcia LED e ricarica solare scende al prezzo più basso di sempre su Amazon durante la Tech Week. Quasi 70€ in meno del minimo recente.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n656023/garmin-instinct-3-solar-offerta-minimo-storico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T06:35:00+00:00"
+    },
+    {
+      "titolo": "Più della metà dei governi mondiali può hackerare smartphone e computer",
+      "descrizione": "Ormai sono oltre 100 i governi che hanno accesso ai cosiddetti \"spyware commerciali\" come Pegasus di NSO Group.",
+      "link": "https://www.hdblog.it/android/articoli/n656015/spyware-attacchi-governi-toolkit/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T05:35:00+00:00"
+    },
+    {
+      "titolo": "Un nuovo canale sul digitale terrestre mette d’accordo tutti",
+      "descrizione": "L'accensione di un nuovo canale tv sul digitale terrestre mette d'accordo tutti e arricchisci l'offerta di intrattenimento gratuita italiana. The post Un nuovo canale sul digitale terrestre mette d’accordo tutti appeared",
+      "link": "https://www.punto-informatico.it/nuovo-canale-digitale-terrestre-mette-accordo-tutti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T05:30:35+00:00"
+    },
+    {
+      "titolo": "Allarme da Chernobyl: la copertura del reattore sta crollando",
+      "descrizione": "Per Greenpeace potremmo trovarci di fronte al più grande disastro annunciato: l'involucro del reattore di Chernobyl sta per collassare. The post Allarme da Chernobyl: la copertura del reattore sta crollando appeared firs",
+      "link": "https://www.punto-informatico.it/allarme-chernobyl-copertura-reattore-crollando/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T05:00:57+00:00"
+    },
     {
       "titolo": "The case for buying a MacBook Neo right now - especially for students",
       "descrizione": "The MacBook Neo has been so popular that it's selling out on Apple's website. Here's how students can get ahead of the back-to-school rush.",
@@ -49,125 +168,6 @@
       "link": "https://www.punto-informatico.it/possibile-accordo-anthropic-casa-bianca/",
       "fonte": "Punto Informatico",
       "data": "2026-04-22T17:37:37+00:00"
-    },
-    {
-      "titolo": "Google Maps sta per cambiare: possibilità di vedere in anteprima i progetti in cantiere",
-      "descrizione": "Grazie a una nuova iniezione di AI",
-      "link": "https://www.hdblog.it/smartphone/articoli/n655960/google-maps-novita-progetti-edilizi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T17:35:00+00:00"
-    },
-    {
-      "titolo": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
-      "descrizione": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
-      "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
-      "fonte": "Latest news",
-      "data": "2026-04-22T17:30:03+00:00"
-    },
-    {
-      "titolo": "Fiat Fastback, sorpreso senza veli l'atteso SUV prossimo al debutto",
-      "descrizione": "Dallo stile \"Grande Panda\" alla piattaforma Smart Car: sorpresa su Instagram la nuova Fiat Fastback che punta a un listino accessibile",
-      "link": "https://www.hdmotori.it/fiat-fastback-senza-veli/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T17:00:09+00:00"
-    },
-    {
-      "titolo": "Google annuncia nuovi chip AI per l’era agentica",
-      "descrizione": "TPU 8t e TPU 8i sono i nuovi chip specializzati nell'addestramento e nell'inferenza dei modelli AI che offrono elevate prestazioni per l'era agentica. The post Google annuncia nuovi chip AI per l’era agentica appeared fi",
-      "link": "https://www.punto-informatico.it/google-annuncia-nuovi-chip-ai-era-agentica/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T16:49:20+00:00"
-    },
-    {
-      "titolo": "Passo indietro Mercedes e BMW sulla guida autonoma: i motivi della rinuncia",
-      "descrizione": "Mercedes-Benz e BMW hanno rivisto la strategia sull'adozione della guida autonoma di livello 3, ritenuta attualmente superflua",
-      "link": "https://www.hdmotori.it/mercedes-bmw-guida-autonoma/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T16:30:44+00:00"
-    },
-    {
-      "titolo": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
-      "descrizione": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more tha",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-22T16:19:24+00:00"
-    },
-    {
-      "titolo": "Google Home introduce le conversazioni continue con Gemini AI",
-      "descrizione": "Gemini per Google Home ora permette dialoghi fluidi senza dover ripetere ogni volta il comando vocale.",
-      "link": "https://www.hdblog.it/google/articoli/n655988/google-home-gemini-conversazioni-continue/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T16:10:00+00:00"
-    },
-    {
-      "titolo": "Esame patente, circa il 40% non supera la teoria. E il Sud promuove molto più del Nord",
-      "descrizione": "Esame della patente, numeri shock: oltre 618.000 respinti su 2,3 milioni di prove, il dato più alto dal 2009",
-      "link": "https://www.hdmotori.it/esame-patente-risultati-indagine-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T16:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung, divisione mobile in rosso per la prima volta causa crisi dei chip?",
-      "descrizione": "La stessa crisi che sta facendo guadagnare montagne di soldi alla divisione semiconduttori, ironia della sorte.",
-      "link": "https://www.hdblog.it/hardware/articoli/n655991/crisi-chip-samsung-divisione-mobile-perdita-costi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T15:45:00+00:00"
-    },
-    {
-      "titolo": "Huawei lancia i FreeClip 2 di colore viola per la festa della mamma",
-      "descrizione": "La nuova colorazione è disponibile a partire da oggi.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n655981/huawei-freeclip-2-colore-viola-festa-mamma/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T15:40:00+00:00"
-    },
-    {
-      "titolo": "Come usare l’intelligenza artificiale per potenziare la memoria",
-      "descrizione": "Più l'intelligenza artificiale ricorda per noi, meno ricordiamo noi stessi. Questi sette prompt ribaltano completamente l'approccio. The post Come usare l’intelligenza artificiale per potenziare la memoria appeared first",
-      "link": "https://www.punto-informatico.it/come-usare-intellingenza-artificiale-potenziare-memoria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T15:39:06+00:00"
-    },
-    {
-      "titolo": "REDMI K Pad 2 e Pad 2 SE ufficiali: uno per giocare, l'altro per chi vuole spendere poco",
-      "descrizione": "Caratteristiche e prezzi.",
-      "link": "https://www.hdblog.it/tablet/articoli/n655980/redmi-k-pad-2-se-tablet-caratteristiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T15:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova BMW Serie 7, l'ammiraglia è tutta da scoprire: al vertice del lusso",
-      "descrizione": "estetica monolitica e tecnologie della Neue Klasse: la settima generazione della BMW Serie 7 ridefinisce il lusso tra motori ibridi ed EV",
-      "link": "https://www.hdmotori.it/nuova-bmw-serie-7/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T15:30:19+00:00"
-    },
-    {
-      "titolo": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
-      "descrizione": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would",
-      "link": "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-22T14:32:12+00:00"
-    },
-    {
-      "titolo": "Artemis II: NASA pubblica i primi dati sulla missione",
-      "descrizione": "La NASA ha pubblicato i primi dati relativi alle analisi effettuate dai tecnici, evidenziando pochi problemi per Orion, razzo SLS e base di lancio. The post Artemis II: NASA pubblica i primi dati sulla missione appeared",
-      "link": "https://www.punto-informatico.it/artemis-ii-nasa-pubblica-primi-dati-missione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T14:16:27+00:00"
-    },
-    {
-      "titolo": "Su Marte c’erano gli ingredienti della vita: la scoperta di Curiosity",
-      "descrizione": "Il rover Curiosity ha trovato oltre 20 molecole organiche in rocce marziane che documentano la possibile presenza di strutture legate al DNA. The post Su Marte c’erano gli ingredienti della vita: la scoperta di Curiosity",
-      "link": "https://www.punto-informatico.it/marte-ingredienti-vita-scoperta-curiosity/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T14:16:05+00:00"
-    },
-    {
-      "titolo": "Lenovo vs. Dell: My buying advice after testing dozens of laptops from both",
-      "descrizione": "Dell and Lenovo specialize in different areas. This guide will help you decide which to buy.",
-      "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "fonte": "Latest news",
-      "data": "2026-04-22T14:10:00+00:00"
     }
   ]
 }
