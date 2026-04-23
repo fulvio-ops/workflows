@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-23T08:11:52.504599+00:00",
+  "last_updated": "2026-04-23T14:12:58.212086+00:00",
   "items": [
     {
-      "titolo": "L'AI può essere ritenuta responsabile per una sparatoria? Il caso ChatGPT in Florida",
-      "descrizione": "OpenAI chiamata ad assumersi la responsabilità per la sparatoria in Florida che ha visto l'assassino pianificare l'assalto con ChatGPT.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n656031/ai-responsabile-sparatoria-caso-chatgpt-florida/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T07:55:00+00:00",
+      "titolo": "OpenAI Privacy Filter nasconde i dati personali",
+      "descrizione": "Privacy Filter è il nuovo modello di OpenAI specializzato nella rilevazione e mascheramento delle informazioni personali presenti nel testo dei prompt. The post OpenAI Privacy Filter nasconde i dati personali appeared fi",
+      "link": "https://www.punto-informatico.it/openai-privacy-filter-nasconde-dati-personali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T13:58:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
-      "descrizione": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
-      "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
-      "fonte": "Latest news",
-      "data": "2026-04-22T17:30:03+00:00",
+      "titolo": "Nasce Gemini Enterprise Agentic: tutte le novità del Google Cloud Next 2026",
+      "descrizione": "Durante l’evento del colosso di Mountain Views confermata l’uscita entro il 2026 della versione migliorata di Apple Siri, basata su Gemini e che girerà su Google Cloud.",
+      "link": "https://www.ilsole24ore.com/art/nasce-gemini-enterprise-agentic-tutte-novita-google-cloud-next-2026-AIlB0yeC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-23T09:24:45+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Possibile accordo tra Anthropic e la Casa Bianca",
-      "descrizione": "Donald Trump ha dichiarato durante un'intervista a CNBC che l'incontro con Anthropic è stato positivo, quindi non è escluso l'avvio di una collaborazione. The post Possibile accordo tra Anthropic e la Casa Bianca appeare",
-      "link": "https://www.punto-informatico.it/possibile-accordo-anthropic-casa-bianca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T17:37:37+00:00",
+      "titolo": "New Firefox update patches a whopping 271 bugs with help from Claude Mythos",
+      "descrizione": "Firefox 150 enhances split view, tab sharing, and other helpful features and patches 271 security vulnerabilities - update now.",
+      "link": "https://www.zdnet.com/article/firefox-new-features-271-security-bug-fixes/",
+      "fonte": "Latest news",
+      "data": "2026-04-22T16:52:00+00:00",
       "modello": "claude"
     }
   ]

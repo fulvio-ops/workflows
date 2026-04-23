@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-04-23T08:11:49.309524+00:00",
+  "last_updated": "2026-04-23T14:12:54.215070+00:00",
   "items": [
     {
-      "titolo": "iOS 26.4.2 e iPadOS in rollout con una patch urgente per la sicurezza",
-      "descrizione": "Apple ha rilasciato iOS 26.4.2 e iPadOS con una correzione importante: risolta una falla che poteva consentire di recuperare notifiche push eliminate su iPhone e iPad",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656041/ios-2642-e-ipados-in-rollout-con-una-patch-urgente-per-la-sicurezza/",
+      "titolo": "La fotografia della rete mobile in Italia: più Mbps, ma ancora troppo poco 5G",
+      "descrizione": "Si naviga più velocemente su rete mobile, ma la diffusione del 5G cresce troppo lentamente: cosa dicono i dati nPerf sui network italiani.",
+      "link": "https://www.hdblog.it/mobile/articoli/n656099/rete-mobile-italia-crescono-mbps-troppo-poco-5g/",
       "fonte": "HDblog.it",
-      "data": "2026-04-23T08:10:00+00:00"
+      "data": "2026-04-23T14:05:00+00:00"
     },
     {
-      "titolo": "Ecco la nuova funzione di YouTube che limita l’accesso agli Shorts per gli adolescenti",
-      "descrizione": "La novità sbarca in tutta Europa, inclusa l’Italia, e consente persino di impedire totalmente la visione degli Shorts",
-      "link": "https://www.ilsole24ore.com/art/ecco-nuova-funzione-youtube-che-limita-l-accesso-shorts-gli-adolescenti-AIyeYPbC",
+      "titolo": "Tesla si rilancia con la produzione dei Robot Optimus",
+      "descrizione": "La Casa automobilistica fondata da Elon Musk rimanda di nuovo la presentazione dell'Optimus V3 a fine anno",
+      "link": "https://www.hdmotori.it/tesla-produzione-robot-optimus/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T14:00:25+00:00"
+    },
+    {
+      "titolo": "OpenAI Privacy Filter nasconde i dati personali",
+      "descrizione": "Privacy Filter è il nuovo modello di OpenAI specializzato nella rilevazione e mascheramento delle informazioni personali presenti nel testo dei prompt. The post OpenAI Privacy Filter nasconde i dati personali appeared fi",
+      "link": "https://www.punto-informatico.it/openai-privacy-filter-nasconde-dati-personali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T13:58:00+00:00"
+    },
+    {
+      "titolo": "Poco C81 e C81x ufficiali: 4 anni di major anche nel primissimo prezzo",
+      "descrizione": "Per ora sono disponibili ai preordini in India.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656116/poco-c81-c81x-specifiche-supporto-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:55:00+00:00"
+    },
+    {
+      "titolo": "\"Prendi appunti per me\": Google Meet ora lo fa anche negli incontri di persona",
+      "descrizione": "Google ha annunciato una serie di nuove funzionalità per Workspace,",
+      "link": "https://www.hdblog.it/google/articoli/n656114/google-porta-ai-riunioni-lavoro-quotidiano/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:50:00+00:00"
+    },
+    {
+      "titolo": "X Square Robot lancia il maggiordomo tech Wall-B: i robot domestici sono vicini",
+      "descrizione": "Mancano poco più di un mese al debutto",
+      "link": "https://www.hdblog.it/robotica/articoli/n656105/x-square-robot-maggiordomo-tech-wall-b-robot/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:45:00+00:00"
+    },
+    {
+      "titolo": "Meta dirà ai genitori di cosa parlano i figli con l’AI",
+      "descrizione": "Genitori informati sull'attività dei figli con Meta AI: riepiloghi periodici su temi e argomenti affrontati con l'intelligenza artificiale. The post Meta dirà ai genitori di cosa parlano i figli con l’AI appeared first o",
+      "link": "https://www.punto-informatico.it/meta-ai-genitori-cosa-parlano-figli/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-23T13:41:27+00:00"
+    },
+    {
+      "titolo": "Nothing lancia Essential Voice: la dettatura AI trasforma la voce in testi perfetti",
+      "descrizione": "Come funziona e su quali smartphone è disponibile.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656106/nothing-essential-voice-come-funziona-testo/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:35:00+00:00"
+    },
+    {
+      "titolo": "Xbox Project Helix, arriveranno anche le varianti dei produttori terzi?",
+      "descrizione": "Si prospetta sempre più realistico un probabile revival dell'iniziativa Steam Machine originale.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n656111/microsoft-xbox-project-helix-partner-hardware/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:15:00+00:00"
+    },
+    {
+      "titolo": "Dalla geotermia una risorsa per il litio delle batterie",
+      "descrizione": "La geotermia è in prima linea su diversi fronti essenziali per la sicurezza energetica: oltre a produrre elettricità rinnovabile e costante per la rete, può anche fornirci la materia prima...",
+      "link": "https://www.ilsole24ore.com/art/dalla-geotermia-risorsa-il-litio-batterie-AIRE1BcC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-23T08:06:37+00:00"
+      "data": "2026-04-23T13:11:00+00:00"
     },
     {
-      "titolo": "Nokia pensa alle comunicazioni spaziali e scorpora Modul8",
-      "descrizione": "Nokia ha deciso lo scorporo della sua divisione Modul8, attiva nelle comunicazioni spaziali, per dare alla nuova compagnia maggiore autonomia finanziaria e sfruttare appieno il grande interesse (a...",
-      "link": "https://www.hdblog.it/nokia/articoli/n656025/nokia-scorporo-modul8-comunicazioni-spazio/",
+      "titolo": "Antigravity lancia Project ETERNAL: la memoria diventa uno spazio da esplorare",
+      "descrizione": "Un ambiente non più da guardare ma da attraversare",
+      "link": "https://www.hdblog.it/droni/articoli/n655705/antigravity-lancia-project-eternal-la-memoria-dive/",
       "fonte": "HDblog.it",
-      "data": "2026-04-23T08:05:00+00:00"
+      "data": "2026-04-23T13:01:00+00:00"
     },
     {
-      "titolo": "Logitech MX Master 3S: il mouse top di gamma è in offerta a tempo su Amazon",
-      "descrizione": "Logitech MX Master 3S, il mouse top di gamma che tutti voglio e che migliora la produttività, è in offerta a tempo su Amazon a prezzo shock. The post Logitech MX Master 3S: il mouse top di gamma è in offerta a tempo su A",
-      "link": "https://www.punto-informatico.it/logitech-mx-master-3s-mouse-top-gamma-offerta-tempo-amazon/",
+      "titolo": "Dalla Cina arriva il motore che trasforma le elettriche in ibride",
+      "descrizione": "In una industria delle quattro ruote sempre più variegata, a Pechino si sono inventati la possibilità di passare da BEV ad hybrid",
+      "link": "https://www.hdmotori.it/cina-motore-elettriche-ibride/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T13:00:37+00:00"
+    },
+    {
+      "titolo": "Anche Redmi Note salta una generazione: 17 Pro Max con batteria da 10.000 mAh!",
+      "descrizione": "E la piattaforma hardware passerà da Qualcomm a MediaTek.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656104/redmi-note-17-pro-max-batteria-soc-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T12:55:00+00:00"
+    },
+    {
+      "titolo": "Meta annuncia le Live Chat in Threads",
+      "descrizione": "Le Live Chat in Threads sono conversazioni pubbliche (fino a 150 partecipanti) che possono essere avviate dalle Community durante eventi in diretta. The post Meta annuncia le Live Chat in Threads appeared first on Punto",
+      "link": "https://www.punto-informatico.it/meta-annuncia-live-chat-threads/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-23T08:03:37+00:00"
+      "data": "2026-04-23T12:49:01+00:00"
     },
     {
-      "titolo": "JAS Motorsport Tensei, alla Milano Design Week i dettagli della supercar ispirata alla Honda NSX",
-      "descrizione": "Presentato il modello in scala 1:5 della vettura disegnata da Pininfarina con carrozzeria in fibra di carbonio, V6 aspirato e cambio manuale a sei marce.",
-      "link": "https://www.hdmotori.it/jas-motorsport-tensei-alla-milano-design-week-i-dettagli-della-supercar-ispirata-alla-honda-nsx/",
+      "titolo": "Sulle autostrade A24 e A25 arrivano 20 nuove colonnine di ricarica fast e ultra-fast",
+      "descrizione": "Renexia Recharge e Atlante installano i nuovi punti di ricarica in tre aree di servizio sull'A24. Entro l'anno altri 8 punti sulla A25.",
+      "link": "https://www.hdmotori.it/a24-a25-colonnine-ricarica-fast/",
       "fonte": "HDblog.it",
-      "data": "2026-04-23T08:00:00+00:00"
+      "data": "2026-04-23T12:30:56+00:00"
     },
     {
-      "titolo": "L'AI può essere ritenuta responsabile per una sparatoria? Il caso ChatGPT in Florida",
-      "descrizione": "OpenAI chiamata ad assumersi la responsabilità per la sparatoria in Florida che ha visto l'assassino pianificare l'assalto con ChatGPT.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n656031/ai-responsabile-sparatoria-caso-chatgpt-florida/",
+      "titolo": "SMS, altro che scomparsi: 23 milioni di italiani li usano ancora",
+      "descrizione": "Lo rivela una ricerca sulle abitudini degli italiani",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656100/sms-altro-che-scomparsi-23-milioni/",
       "fonte": "HDblog.it",
-      "data": "2026-04-23T07:55:00+00:00"
+      "data": "2026-04-23T12:29:00+00:00"
     },
     {
-      "titolo": "X affida a Grok la cura del feed, l’utente sceglie i temi",
-      "descrizione": "Grok seleziona i post della propria bacheca su X, analizza ogni contenuto e lo combina con la personalizzazione dell'algoritmo. The post X affida a Grok la cura del feed, l’utente sceglie i temi appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/grok-x-cura-feed-temi-scelti-utente/",
+      "titolo": "SumUp porta in Italia il programma fedeltà per le piccole e medie imprese",
+      "descrizione": "SumUp introduce in Italia SumUp Fedeltà, una soluzione pensata per piccoli business che integra programmi di fidelizzazione direttamente nei pagamenti digitali",
+      "link": "https://www.hdblog.it/business/articoli/n656098/sumup-fedelta-punti-ricompense-fidelity/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T12:25:00+00:00"
+    },
+    {
+      "titolo": "Aspirapolvere e lavapavimenti, è boom di ricerche online: +13% in un anno",
+      "descrizione": "Secondo trovaprezzi.it, il mercato della pulizia domestica è in crescita: aspirapolvere e lavapavimenti guidano le ricerche, seguiti da robot e scope elettriche",
+      "link": "https://www.hdblog.it/home/articoli/n656093/pulizia-domestica-trend-italia-robot/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T12:20:00+00:00"
+    },
+    {
+      "titolo": "Ecco the Dolphin: Complete in arrivo! Remaster e nuovo capitolo",
+      "descrizione": "Torna al timone il creatore della saga originale, Ed Annunziata.",
+      "link": "https://www.hdblog.it/games/articoli/n656096/ecco-dolphin-complete-remaster-nuovo-gioco/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T12:15:00+00:00"
+    },
+    {
+      "titolo": "DJI Lito X1 e Lito 1: la nuova era dei droni entry-level per tutti | Recensione",
+      "descrizione": "Abbiamo provato la serie DJI Lito: sensori omnidirezionali e ActiveTrack 360° per i nuovi principianti.",
+      "link": "https://www.hdblog.it/droni/recensioni/n655679/dji-lito-x1-prova-recensione-prezzi-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T12:01:00+00:00"
+    },
+    {
+      "titolo": "Gli SMS non mollano: milioni di italiani li usano ancora",
+      "descrizione": "Non ci sono solo le chat di WhatsApp: 23 milioni di italiani continuano a inviare e ricevere SMS, secondo una nuova ricerca nazionale. The post Gli SMS non mollano: milioni di italiani li usano ancora appeared first on P",
+      "link": "https://www.punto-informatico.it/sms-milioni-italiani-usano-ancora/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-23T07:54:39+00:00"
+      "data": "2026-04-23T11:57:45+00:00"
     },
     {
-      "titolo": "Primi passi nel PC gaming? Vi serve un preassemblato come si deve",
-      "descrizione": "Acquistare un preassembato oggi conviene? Scopriamolo con questo Winblu T-Rok B860, con componenti ASUS e NVIDIA.",
-      "link": "https://www.hdblog.it/hardware/speciali/n655240/winblu-asus-nvidia-pc-gaming-t-rok-b860-unieuro/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T07:45:00+00:00"
+      "titolo": "Grab this epic Creality K1C 3D printer at its lowest-ever price for a limited time only, now just $369 — huge $190 saving nets you a fast, fully enclosed Core XY rig that beginners and enthusiasts will love",
+      "descrizione": "A huge $190 saving can be had right now on this Creality K1C 3D printer, fully enclosed and ready for fast printing, and on sale for just $369 right now, matching its best-ever price.",
+      "link": "https://www.tomshardware.com/3d-printing/grab-this-epic-creality-k1c-3d-printer-at-its-lowest-ever-price-for-a-limited-time-only-now-just-usd369-huge-usd190-saving-nets-you-a-fast-fully-enclosed-core-xy-rig-that-beginners-and-enthusiasts-with-love",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-23T11:44:53+00:00"
     },
     {
-      "titolo": "NO IVA MediaWorld, le migliori offerte su smartphone, TV e tanto altro fino al 26/4",
-      "descrizione": "Sconto del 18,04% a carrello con la carta MW Club su smartphone, TV, wearable e molto altro. Ecco i prodotti più interessanti.",
-      "link": "https://www.hdblog.it/mediaworld/offerte/n656038/mediaworld-no-iva-aprile-2026-migliori-offerte/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T07:40:00+00:00"
-    },
-    {
-      "titolo": "AMD Ryzen 9 9950X3D2 arriva in Italia, ecco il prezzo ufficiale",
-      "descrizione": "Siamo molto vicini ai 1.000 euro. Ma ha davvero senso per la vostra build?",
-      "link": "https://www.hdblog.it/hardware/articoli/n656037/amd-ryzen-9950x3d2-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T07:25:00+00:00"
-    },
-    {
-      "titolo": "Elon Musk sfida Nvidia: SpaceX produrrà GPU fatte in casa",
-      "descrizione": "SpaceX annuncia la produzione propria di GPU per alimentare l'AI e ridurre i rischi di fornitura.",
-      "link": "https://www.hdblog.it/mercato/articoli/n656027/elon-musk-sfida-nvidia-spacex-produrra-gpu-fatte-in-casa/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T07:05:00+00:00"
-    },
-    {
-      "titolo": "Corsair IRONCLAW WIRELESS SE: strabiliante mouse da Gaming oggi in sconto",
-      "descrizione": "Aprofitta di questa promozione straordinaria che trovi su Amazon per portarti a casa il mouse da Gaming Corsair IRONCLAW WIRELESS SE al 28%. The post Corsair IRONCLAW WIRELESS SE: strabiliante mouse da Gaming oggi in sco",
-      "link": "https://www.punto-informatico.it/corsair-ironclaw-wireless-se-strabiliante-mouse-gaming-oggi-sconto/",
+      "titolo": "SpaceX anticipa Microsoft e potrebbe acquistare Cursor",
+      "descrizione": "Microsoft aveva considerato la possibile acquisizione di Cursor, ma non ha presentato un'offerta, quindi è arrivata SpaceX con 60 miliardi di dollari. The post SpaceX anticipa Microsoft e potrebbe acquistare Cursor appea",
+      "link": "https://www.punto-informatico.it/spacex-anticipa-microsoft-potrebbe-acquistare-cursor/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-23T06:43:59+00:00"
+      "data": "2026-04-23T11:07:10+00:00"
     },
     {
-      "titolo": "Passaporti e patenti a rischio: maxi furto di dati in Francia",
-      "descrizione": "È già trapelato online un database con le presunte informazioni rubate: potrebbero essere coinvolti milioni di cittadini francesi. The post Passaporti e patenti a rischio: maxi furto di dati in Francia appeared first on",
-      "link": "https://www.punto-informatico.it/passaporti-patenti-rischio-maxi-furto-dati-francia/",
+      "titolo": "Google Meet prende appunti nelle riunioni in presenza e su Zoom",
+      "descrizione": "L'assistente AI di Google Meet prende appunti nelle riunioni dal vivo e su piattaforme concorrenti, come Zoom e Teams. The post Google Meet prende appunti nelle riunioni in presenza e su Zoom appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/google-meet-prende-appunti-riunioni-in-presenza-zoom/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-23T06:36:49+00:00"
-    },
-    {
-      "titolo": "Garmin Instinct 3 Solar a 294€: lo smartwatch outdoor che dura 28 giorni è al minimo storico",
-      "descrizione": "Il Garmin Instinct 3 Solar da 45mm con GPS multi-banda, torcia LED e ricarica solare scende al prezzo più basso di sempre su Amazon durante la Tech Week. Quasi 70€ in meno del minimo recente.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n656023/garmin-instinct-3-solar-offerta-minimo-storico/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T06:35:00+00:00"
-    },
-    {
-      "titolo": "Più della metà dei governi mondiali può hackerare smartphone e computer",
-      "descrizione": "Ormai sono oltre 100 i governi che hanno accesso ai cosiddetti \"spyware commerciali\" come Pegasus di NSO Group.",
-      "link": "https://www.hdblog.it/android/articoli/n656015/spyware-attacchi-governi-toolkit/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-23T05:35:00+00:00"
-    },
-    {
-      "titolo": "Un nuovo canale sul digitale terrestre mette d’accordo tutti",
-      "descrizione": "L'accensione di un nuovo canale tv sul digitale terrestre mette d'accordo tutti e arricchisci l'offerta di intrattenimento gratuita italiana. The post Un nuovo canale sul digitale terrestre mette d’accordo tutti appeared",
-      "link": "https://www.punto-informatico.it/nuovo-canale-digitale-terrestre-mette-accordo-tutti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T05:30:35+00:00"
-    },
-    {
-      "titolo": "Allarme da Chernobyl: la copertura del reattore sta crollando",
-      "descrizione": "Per Greenpeace potremmo trovarci di fronte al più grande disastro annunciato: l'involucro del reattore di Chernobyl sta per collassare. The post Allarme da Chernobyl: la copertura del reattore sta crollando appeared firs",
-      "link": "https://www.punto-informatico.it/allarme-chernobyl-copertura-reattore-crollando/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T05:00:57+00:00"
-    },
-    {
-      "titolo": "The case for buying a MacBook Neo right now - especially for students",
-      "descrizione": "The MacBook Neo has been so popular that it's selling out on Apple's website. Here's how students can get ahead of the back-to-school rush.",
-      "link": "https://www.zdnet.com/article/macbook-neo-for-back-to-school-buy-now/",
-      "fonte": "Latest news",
-      "data": "2026-04-23T01:00:46+00:00"
-    },
-    {
-      "titolo": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
-      "descrizione": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
-      "link": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
-      "fonte": "WIRED",
-      "data": "2026-04-22T21:49:19+00:00"
-    },
-    {
-      "titolo": "Un mese con Samsung Galaxy S26 | VIDEO",
-      "descrizione": "Abbiamo passato un mese con Samsung Galaxy S26: tantissimi PRO ma la maggior parte rimangono sulla carta. Poche novità in generale.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n654766/galaxy-s26-recensione-un-mese-dopo-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T19:01:00+00:00"
-    },
-    {
-      "titolo": "Anker annuncia Thus, chip per portare l'AI in locale anche su auricolari e cuffie",
-      "descrizione": "Sfrutta l'architettura cosiddetta CIM (Compute In Memory), in cui CPU e memoria sono nello stesso spazio.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n656012/anker-thus-chip-ai-locale-indossabili-audio/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T18:08:00+00:00"
-    },
-    {
-      "titolo": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "descrizione": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-      "fonte": "WIRED",
-      "data": "2026-04-22T18:00:00+00:00"
-    },
-    {
-      "titolo": "Lenovo Legion Tab, la nuova generazione del super tablet gaming è imminente",
-      "descrizione": "Il device è stato avvistato sul sito ufficiale americano della società.",
-      "link": "https://www.hdblog.it/tablet/articoli/n656010/lenovo-legion-tab-gen-5-coming-soon-sito-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-22T17:45:00+00:00"
-    },
-    {
-      "titolo": "Possibile accordo tra Anthropic e la Casa Bianca",
-      "descrizione": "Donald Trump ha dichiarato durante un'intervista a CNBC che l'incontro con Anthropic è stato positivo, quindi non è escluso l'avvio di una collaborazione. The post Possibile accordo tra Anthropic e la Casa Bianca appeare",
-      "link": "https://www.punto-informatico.it/possibile-accordo-anthropic-casa-bianca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-22T17:37:37+00:00"
+      "data": "2026-04-23T10:53:37+00:00"
     }
   ]
 }
