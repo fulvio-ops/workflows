@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T14:08:58.053025+00:00",
+  "last_updated": "2026-04-24T19:13:26.822773+00:00",
   "items": [
     {
       "titolo": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
@@ -10,14 +10,6 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Agent Mode di Copilot modifica documenti e fogli Excel da solo",
-      "descrizione": "Agent Mode per Copilot arriva su Word, Excel e PowerPoint. L'AI modifica documenti, inserisce formule e aggiorna presentazioni da solo. The post Agent Mode di Copilot modifica documenti e fogli Excel da solo appeared fir",
-      "link": "https://www.punto-informatico.it/agent-mode-copilot-modifica-documenti-fogli-excel-da-solo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T07:16:06+00:00",
-      "modello": "copilot"
-    },
-    {
       "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
       "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
       "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
@@ -26,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code: Anthropic corregge tre problemi di qualità",
-      "descrizione": "Anthropic ha rilasciato una nuova versione di Claude Code che risolve tre bug segnalati dagli utenti e nuovi connettori per Claude ai servizi esterni. The post Claude Code: Anthropic corregge tre problemi di qualità appe",
-      "link": "https://www.punto-informatico.it/claude-code-anthropic-corregge-tre-problemi-qualita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T09:57:41+00:00",
+      "titolo": "How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free",
+      "descrizione": "Using Claude's interactive connections to third-party services such as TripAdvisor and AllTrails, I mapped a summer hiking trip, including trails, hotels, tours, and even a playlist to accompany us.",
+      "link": "https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/",
+      "fonte": "Latest news",
+      "data": "2026-04-24T17:22:25+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T10:33:34+00:00",
+      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
+      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
+      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-24T14:22:00+00:00",
       "modello": "altri"
     }
   ]

@@ -1,26 +1,145 @@
 {
-  "last_updated": "2026-04-24T14:08:54.425401+00:00",
+  "last_updated": "2026-04-24T19:13:23.754560+00:00",
   "items": [
+    {
+      "titolo": "Recensione POCO X8 Pro Max, super batteria e prestazioni solidissime!",
+      "descrizione": "Abbiamo provato il POCO X8 Pro Max, super autonomia e prestazioni al top sono i suoi punti di forza",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n656221/poco-x8-pro-max-prova-prezzo-test-sconto-ita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T18:26:00+00:00"
+    },
+    {
+      "titolo": "iPhone del ventennale, Apple vuole un display OLED \"micro-curvo\" e senza bordi",
+      "descrizione": "Un pannello OLED più luminoso, più sottile, curvo su tutti e quattro i lati e potenzialmente privo di ritagli visibili",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656259/iphone-ventennale-apple-display-oled/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T18:25:00+00:00"
+    },
+    {
+      "titolo": "Svelato \"Morpheus\", spyware commerciale italiano per Android",
+      "descrizione": "Ci sono elementi per credere che sia sviluppato da IPS, società italiana che opera nel campo delle intercettazioni legali da oltre trent'anni.",
+      "link": "https://www.hdblog.it/android/articoli/n656317/morpheus-spyware-low-cost-italiano-ips/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T17:45:00+00:00"
+    },
+    {
+      "titolo": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "descrizione": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+      "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+      "fonte": "WIRED",
+      "data": "2026-04-24T17:17:36+00:00"
+    },
+    {
+      "titolo": "YouTube testa nuove forme di pubblicità, nelle dirette e nel feed abbonamenti",
+      "descrizione": "Per ora sembrano test, ma è abbastanza chiaro che prima o poi ci toccheranno in modo ufficiale.",
+      "link": "https://www.hdblog.it/google/articoli/n656311/youtube-pubblicita-dirette-feed-iscrizioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T17:05:00+00:00"
+    },
+    {
+      "titolo": "Peugeot porta a Pechino il futuro con i Concept 6 e 8",
+      "descrizione": "I due concept anticipano una nuova linea di modelli prodotti in Cina con Dongfeng, destinati sia al mercato locale che all'export.",
+      "link": "https://www.hdmotori.it/peugeot-pechino-concept-6-8/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T17:00:49+00:00"
+    },
+    {
+      "titolo": "La Cina sposta i server nello spazio: 8 miliardi per i data center orbitali",
+      "descrizione": "Pechino finanzia con 8,4 miliardi di dollari la startup per i data center in orbita entro il 2035.",
+      "link": "https://www.hdblog.it/mercato/articoli/n656156/cina-data-center-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T16:55:00+00:00"
+    },
+    {
+      "titolo": "Meta ottiene profitti dalle truffe su Facebook e Instagram?",
+      "descrizione": "Un'organizzazione ha denunciato Meta perché ottiene profitti dagli annunci truffa, invece di impedire la loro pubblicazione di Facebook e Instagram. The post Meta ottiene profitti dalle truffe su Facebook e Instagram? ap",
+      "link": "https://www.punto-informatico.it/meta-ottiene-profitti-truffe-facebook-instagram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T16:35:28+00:00"
+    },
+    {
+      "titolo": "Spotify, dopo ben 16 anni arrivano le cartelle di playlist anche su mobile",
+      "descrizione": "Il roll-out è partito, anche se graduale. C'è ancora qualche limitazione secondaria, però.",
+      "link": "https://www.hdblog.it/android/articoli/n656309/spotify-app-mobile-cartelle-playlist/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T16:35:00+00:00"
+    },
+    {
+      "titolo": "SpaceX: i data center AI nello spazio sono un’idea terribile (forse)",
+      "descrizione": "SpaceX riconosce i rischi dei data center AI nello spazio: l'usura dei chip, la dipendenza da Starship e l'ambiente spaziale imprevedibile. The post SpaceX: i data center AI nello spazio sono un’idea terribile (forse) ap",
+      "link": "https://www.punto-informatico.it/spacex-data-center-ai-spazio-idea-terribile-forse/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T16:31:28+00:00"
+    },
+    {
+      "titolo": "Taglio fondi NASA: il Congresso si oppone nuovamente al piano Trump",
+      "descrizione": "Il Congresso USA respinge i tagli del 23% alla NASA per non perdere il primato contro la Cina.",
+      "link": "https://www.hdblog.it/mercato/articoli/n656160/taglio-fondi-nasa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T16:10:00+00:00"
+    },
+    {
+      "titolo": "Geely Eva Cab: il robotaxi che decide 3 volte più velocemente dell'uomo",
+      "descrizione": "Geely presenta Eva Cab a Pechino 2026: il primo robotaxi nativo senza volante né pedali, con AI da 196 miliardi di parametri che supera i riflessi umani.",
+      "link": "https://www.hdmotori.it/geely-eva-cab-robotaxi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T16:00:51+00:00"
+    },
+    {
+      "titolo": "Come ridurre la propria impronta ecologica con l’aiuto dell’AI",
+      "descrizione": "Basta un prompt per calcolare la propria impronta ecologica e identificare i cambiamenti quotidiani con il maggiore impatto. The post Come ridurre la propria impronta ecologica con l’aiuto dell’AI appeared first on Punto",
+      "link": "https://www.punto-informatico.it/come-ridurre-propria-impronta-ecologica-aiuto-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T15:56:26+00:00"
+    },
+    {
+      "titolo": "Porsche Cayenne Coupé Electric: evoluzione della specie",
+      "descrizione": "C’è chi la vede come un flop annunciato e chi come un progresso necessario di una icona. Scopriamo le caratteristiche della Cayenne Coupé 100% elettrica",
+      "link": "https://www.hdmotori.it/porsche-cayenne-coupe-electric/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T15:30:38+00:00"
+    },
+    {
+      "titolo": "Il cloud a vita ora conviene di più: i piani “lifetime” di pCloud ora costano meno",
+      "descrizione": "Con il cloud a vita e un piano lifetime di pCloud è possibile archiviare i propri dati in sicurezza e minimizzando la spesa nel lungo periodo. The post Il cloud a vita ora conviene di più: i piani “lifetime” di pCloud or",
+      "link": "https://www.punto-informatico.it/il-cloud-a-vita-ora-conviene-di-piu-i-piani-lifetime-di-pcloud-ora-costano-meno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T15:30:27+00:00"
+    },
+    {
+      "titolo": "L'adattatore Ethernet USB-C svela una limitazione della nuova Fire TV Stick HD",
+      "descrizione": "La scheda del nuovo adattatore Ethernet per Fire TV Stick, con porta USB-C, non può trasmettere più di 480 Mbps sul modello appena lanciato.",
+      "link": "https://www.hdblog.it/tv/articoli/n656290/adattatore-ethernet-fire-tv-stick-hd-limitazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T15:20:00+00:00"
+    },
+    {
+      "titolo": "Spazio, anche la Giordania punta alla Luna: firmata l'intesa con NASA",
+      "descrizione": "La Giordania firma gli Accordi Artemis con la NASA per collaborare all'esplorazione lunare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656155/giordania-accordi-artemis-nasa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T15:10:00+00:00"
+    },
+    {
+      "titolo": "AUDI E7X, il SUV elettrico per la Cina debutta a Pechino con 750 km di autonomia",
+      "descrizione": "Il secondo modello del marchio nato dalla collaborazione Audi-SAIC si presenta al Salone di Pechino. Il lancio commerciale nella prima metà del 2026.",
+      "link": "https://www.hdmotori.it/audi-e7x-suv-elettrico-salone-pechino/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T15:00:42+00:00"
+    },
+    {
+      "titolo": "Social media: ban anche in Turchia e Norvegia",
+      "descrizione": "In Turchia è stato approvata la legge che vieta l'accesso ai minori di 15 anni, mentre in Norvegia verrà presentato un disegno di legge entro il 2026. The post Social media: ban anche in Turchia e Norvegia appeared first",
+      "link": "https://www.punto-informatico.it/social-media-ban-turchia-norvegia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T14:23:16+00:00"
+    },
     {
       "titolo": "Se pensi di avere tanti giochi, questo account Steam ti farà impallidire",
       "descrizione": "Decine di migliaia di giochi nella libreria di un singolo account: questo utente Steam ha battuto tutti i record sulla piattaforma. The post Se pensi di avere tanti giochi, questo account Steam ti farà impallidire appear",
       "link": "https://www.punto-informatico.it/pensi-avere-tanti-giochi-questo-account-steam-fara-impallidire/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T13:52:01+00:00"
-    },
-    {
-      "titolo": "Microsoft cambia Windows 11: sviluppo guidato dai feedback degli utenti",
-      "descrizione": "Prestazioni, affidabilità, qualità e cura dell’esperienza diventano i quattro pilastri",
-      "link": "https://www.hdblog.it/microsoft/articoli/n656280/microsoft-windows-11-feedback-utenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:50:00+00:00"
-    },
-    {
-      "titolo": "Euro NCAP 2026, 5 camion su 7 ottengono il punteggio massimo",
-      "descrizione": "Per la prima volta cinque camion su sette ottengono il massimo punteggio nella categoria Regional Distribution.",
-      "link": "https://www.hdmotori.it/euro-ncap-2026-camion/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:30:11+00:00"
     },
     {
       "titolo": "Ubuntu 26.04 LTS ufficiale con kernel 7.0 e GNOME 50",
@@ -30,81 +149,11 @@
       "data": "2026-04-24T13:25:49+00:00"
     },
     {
-      "titolo": "Un Android Show prima del Google I/O 2026: è pronto l'annuncio di Aluminium OS?",
-      "descrizione": "Uno speciale Android Show anticiperà di una settimana l'evento Google I/O 2026: tra le novità anche l'arrivo della piattaforma Aluminium OS?",
-      "link": "https://www.hdblog.it/android/articoli/n656264/android-show-prima-google-io-2026-aluminium-os/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:25:00+00:00"
-    },
-    {
-      "titolo": "iPhone perde la battaglia per l'AI? No, per il CEO di Perplexity",
-      "descrizione": "Il \"poter aspettare\" è un'arma.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656262/iphone-battaglia-ai-ceo-perplexity/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:15:00+00:00"
-    },
-    {
-      "titolo": "Daikin Altherma 3 H HT: la nuova pompa di calore non teme le temperature estreme",
-      "descrizione": "Per riscaldare, raffrescare e acqua calda sanitaria.",
-      "link": "https://www.hdblog.it/home/articoli/n656249/daikin-altherma-pompa-calore-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:05:00+00:00"
-    },
-    {
-      "titolo": "BYD Sealion 08: il SUV full size da 643 CV e 900 km di autonomia",
-      "descrizione": "BYD Sealion 08 debutta a Pechino 2026, SUV da 480 kW, ricarica 10-97% in 9 minuti. Estetica \"Ocean\", batterie Blade di 2ª generazione e lusso hi-tech.",
-      "link": "https://www.hdmotori.it/byd-sealion-08-suv-full-size/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T13:00:32+00:00"
-    },
-    {
-      "titolo": "Amazon Leo, lanci imminenti: manderà in orbita 61 satelliti in due giorni",
-      "descrizione": "Amazon Leo continua la sua espansione nello spazio con due missioni ravvicinate previste il 27 e 28 aprile. In orbita oltre 60 nuovi satelliti per potenziare la rete internet globale in orbita bassa",
-      "link": "https://www.hdblog.it/amazon/articoli/n656265/amazon-leo-due-nuovi-lanci-aprile-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T12:50:00+00:00"
-    },
-    {
-      "titolo": "iPhone del ventennale, Apple vuole un display OLED \"micro-curvo\" e senza bordi",
-      "descrizione": "Un pannello OLED più luminoso, più sottile, curvo su tutti e quattro i lati e potenzialmente privo di ritagli visibili",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656259/iphone-ventennale-apple-display-oled/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T12:45:00+00:00"
-    },
-    {
       "titolo": "L’Iran minaccia di tagliare i cavi sottomarini: rischio blackout digitale",
       "descrizione": "L'integrità dei cavi sottomarini che passano dallo stretto di Hormuz potrebbe essere messa in pericolo dalla guerra tra USA e Iran. The post L’Iran minaccia di tagliare i cavi sottomarini: rischio blackout digitale appea",
       "link": "https://www.punto-informatico.it/iran-minaccia-tagliare-cavi-sottomarini-rischio-blackout-digitale/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T12:24:32+00:00"
-    },
-    {
-      "titolo": "Recensione POCO X8 Pro Max, super batteria e prestazioni solidissime!",
-      "descrizione": "Abbiamo provato il POCO X8 Pro Max, super autonomia e prestazioni al top sono i suoi punti di forza",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n656221/poco-x8-pro-max-prova-prezzo-test-sconto-ita/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T12:01:00+00:00"
-    },
-    {
-      "titolo": "La Turchia verso il ban dei social agli under 15, manca solo la firma di Erdoğan",
-      "descrizione": "È estremamente probabile che il presidente turco firmerà.",
-      "link": "https://www.hdblog.it/internet/articoli/n656255/ban-social-turchia-erdogan-firma-under-15/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T11:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi YU7 GT: quando arriva e come sarà la versione da 990 CV",
-      "descrizione": "Annunciata al Salone di Pechino 2026, la versione estrema del SUV elettrico arriverà con 990 CV, 300 km/h di velocità massima e freni Brembo carboceramici.",
-      "link": "https://www.hdmotori.it/xiaomi-yu7-gt-versione-990-cv/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T11:30:40+00:00"
-    },
-    {
-      "titolo": "TP-Link Tapo C-245 ufficiale: videocamera per interni con doppio obiettivo",
-      "descrizione": "La ultra-grandangolo offre una panoramica generale dell'ambiente, la tele zooma in modo dinamico sui punti più importanti.",
-      "link": "https://www.hdblog.it/domotica/articoli/n656252/tp-link-tapo-c-245-specifiche-prezzo-sorveglianza/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T11:25:00+00:00"
     },
     {
       "titolo": "Il futuro del lavoro secondo NVIDIA: agenti AI che non lasciano mai in pace",
@@ -119,55 +168,6 @@
       "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T10:33:34+00:00"
-    },
-    {
-      "titolo": "È ora di iniziare a parlare dell’elefante nella stanza: Polymarket",
-      "descrizione": "Non è lontano il momento in cui, anche da noi, si inizierà a parlare dei mercati predittivi come Polymarket e dei rischi associati. The post È ora di iniziare a parlare dell’elefante nella stanza: Polymarket appeared fir",
-      "link": "https://www.punto-informatico.it/e-ora-di-iniziare-a-parlare-dellelefante-nella-stanza-polymarket/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T10:08:19+00:00"
-    },
-    {
-      "titolo": "SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies — new memory designed as a lower-power HBM for AI workloads",
-      "descrizione": "Japan’s SaiMemory, a SoftBank subsidiary collaborating with Intel, has secured NEDO funding to develop Z-Angle Memory (ZAM), a next-gen DRAM architecture addressing HBM limitations",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-24T10:00:00+00:00"
-    },
-    {
-      "titolo": "Claude Code: Anthropic corregge tre problemi di qualità",
-      "descrizione": "Anthropic ha rilasciato una nuova versione di Claude Code che risolve tre bug segnalati dagli utenti e nuovi connettori per Claude ai servizi esterni. The post Claude Code: Anthropic corregge tre problemi di qualità appe",
-      "link": "https://www.punto-informatico.it/claude-code-anthropic-corregge-tre-problemi-qualita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T09:57:41+00:00"
-    },
-    {
-      "titolo": "Nothing Phone (3): potentissimo, diverso e ora anche scontato (-365€)",
-      "descrizione": "Il Nothing Phone (3), in questa versione con 16 GB di RAM e 512 GB di memoria interna è scontato su eBay di oltre 365 euro. The post Nothing Phone (3): potentissimo, diverso e ora anche scontato (-365€) appeared first on",
-      "link": "https://www.punto-informatico.it/nothing-phone-3-potentissimo-diverso-e-ora-anche-scontato-365e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T09:50:55+00:00"
-    },
-    {
-      "titolo": "Buen camino in streaming: confermate data di uscita e piattaforma",
-      "descrizione": "Dopo il successo al cinema, Buen camino di Checco Zalone arriva in streaming: tra pochi giorni lo potremo vedere a sulla TV e su mobile. The post Buen camino in streaming: confermate data di uscita e piattaforma appeared",
-      "link": "https://www.punto-informatico.it/buen-camino-streaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T09:17:05+00:00"
-    },
-    {
-      "titolo": "Bose QuietComfort SC: cuffie wireless con pochi rivali ora in offerta",
-      "descrizione": "Le cuffie wireless Bose QuietComfort SC hanno la cancellazione del rumore, un'autonomia di 24 ore, sono comodissime e oggi in doppio sconto. The post Bose QuietComfort SC: cuffie wireless con pochi rivali ora in offerta",
-      "link": "https://www.punto-informatico.it/bose-quietcomfort-sc-cuffie-wireless-con-pochi-rivali-ora-offerta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T09:09:58+00:00"
-    },
-    {
-      "titolo": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-      "descrizione": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-      "fonte": "WIRED",
-      "data": "2026-04-24T09:00:00+00:00"
     }
   ]
 }
