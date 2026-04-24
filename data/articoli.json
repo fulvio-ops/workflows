@@ -1,12 +1,47 @@
 {
-  "last_updated": "2026-04-23T19:42:22.068223+00:00",
+  "last_updated": "2026-04-24T03:52:27.784176+00:00",
   "items": [
+    {
+      "titolo": "After using this HP laptop, I get why its 'boring' design is preferred by business users",
+      "descrizione": "HP's ZBook 8 G1i features a breezy build and a reliable battery, making it a great business workstation.",
+      "link": "https://www.zdnet.com/article/hp-zbook-8-g1i-review/",
+      "fonte": "Latest news",
+      "data": "2026-04-24T02:01:07+00:00"
+    },
+    {
+      "titolo": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+      "descrizione": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+      "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+      "fonte": "WIRED",
+      "data": "2026-04-23T23:15:21+00:00"
+    },
+    {
+      "titolo": "This high-tech eye massager makes a great Mother's Day gift - and it's on sale",
+      "descrizione": "The Renpho Eye Massager can help alleviate piercing headaches and migraines - and it's 23% off at Amazon right now.",
+      "link": "https://www.zdnet.com/article/renpho-eye-massager-deal/",
+      "fonte": "Latest news",
+      "data": "2026-04-23T20:19:30+00:00"
+    },
     {
       "titolo": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
       "descrizione": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
       "fonte": "WIRED",
       "data": "2026-04-23T19:26:11+00:00"
+    },
+    {
+      "titolo": "DJI Lito X1 e Lito 1: la nuova era dei droni entry-level per tutti | Recensione",
+      "descrizione": "Abbiamo provato la serie DJI Lito: sensori omnidirezionali e ActiveTrack 360° per i nuovi principianti.",
+      "link": "https://www.hdblog.it/droni/recensioni/n655679/dji-lito-x1-prova-recensione-prezzi-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T19:02:00+00:00"
+    },
+    {
+      "titolo": "Primi passi nel PC gaming? Vi serve un preassemblato come si deve",
+      "descrizione": "Acquistare un preassembato oggi conviene? Scopriamolo con questo Winblu T-Rok B860, con componenti ASUS e NVIDIA.",
+      "link": "https://www.hdblog.it/hardware/speciali/n655240/winblu-asus-nvidia-pc-gaming-t-rok-b860-unieuro/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-23T19:01:00+00:00"
     },
     {
       "titolo": "Assassin's Creed Black Flag Resynced ha una data di lancio: eccolo nel primo video",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/meta-annuncia-live-chat-threads/",
       "fonte": "Punto Informatico",
       "data": "2026-04-23T12:49:01+00:00"
-    },
-    {
-      "titolo": "Gli SMS non mollano: milioni di italiani li usano ancora",
-      "descrizione": "Non ci sono solo le chat di WhatsApp: 23 milioni di italiani continuano a inviare e ricevere SMS, secondo una nuova ricerca nazionale. The post Gli SMS non mollano: milioni di italiani li usano ancora appeared first on P",
-      "link": "https://www.punto-informatico.it/sms-milioni-italiani-usano-ancora/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T11:57:45+00:00"
-    },
-    {
-      "titolo": "Grab this epic Creality K1C 3D printer at its lowest-ever price for a limited time only, now just $369 — huge $190 saving nets you a fast, fully enclosed Core XY rig that beginners and enthusiasts will love",
-      "descrizione": "A huge $190 saving can be had right now on this Creality K1C 3D printer, fully enclosed and ready for fast printing, and on sale for just $369 right now, matching its best-ever price.",
-      "link": "https://www.tomshardware.com/3d-printing/grab-this-epic-creality-k1c-3d-printer-at-its-lowest-ever-price-for-a-limited-time-only-now-just-usd369-huge-usd190-saving-nets-you-a-fast-fully-enclosed-core-xy-rig-that-beginners-and-enthusiasts-with-love",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-23T11:44:53+00:00"
-    },
-    {
-      "titolo": "SpaceX anticipa Microsoft e potrebbe acquistare Cursor",
-      "descrizione": "Microsoft aveva considerato la possibile acquisizione di Cursor, ma non ha presentato un'offerta, quindi è arrivata SpaceX con 60 miliardi di dollari. The post SpaceX anticipa Microsoft e potrebbe acquistare Cursor appea",
-      "link": "https://www.punto-informatico.it/spacex-anticipa-microsoft-potrebbe-acquistare-cursor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T11:07:10+00:00"
-    },
-    {
-      "titolo": "Google Meet prende appunti nelle riunioni in presenza e su Zoom",
-      "descrizione": "L'assistente AI di Google Meet prende appunti nelle riunioni dal vivo e su piattaforme concorrenti, come Zoom e Teams. The post Google Meet prende appunti nelle riunioni in presenza e su Zoom appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/google-meet-prende-appunti-riunioni-in-presenza-zoom/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-23T10:53:37+00:00"
-    },
-    {
-      "titolo": "U.S. Commerce Secretary says Nvidia still hasn't sold any H200 AI GPUs to China — Chinese government is blocking imports in an attempt to push domestic semiconductor industry",
-      "descrizione": "U.S. Commerce Secretary Howard Lutnick says Nvidia still hasn't sold a single H200 AI GPU to China, despite the ban being lifted four months ago. The Chinese government is making it difficult for Chinese companies to imp",
-      "link": "https://www.tomshardware.com/tech-industry/u-s-commerce-secretary-says-nvidia-still-hasnt-sold-any-h200-ai-gpus-to-china-chinese-government-is-blocking-imports-in-an-attempt-to-push-domestic-semiconductor-industry",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-23T10:40:00+00:00"
     }
   ]
 }
