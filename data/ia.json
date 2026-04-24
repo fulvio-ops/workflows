@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-24T08:23:45.464209+00:00",
+  "last_updated": "2026-04-24T14:08:58.053025+00:00",
   "items": [
     {
-      "titolo": "Addio ricerche lunghe: ora i traghetti si prenotano su ChatGPT",
-      "descrizione": "Ferryhopper integra il suo motore di ricerca in ChatGPT per prenotare traghetti con l'AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656197/traghetti-prenotazione-chatgpt-ferryhopper/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T07:40:00+00:00",
+      "titolo": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+      "descrizione": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+      "link": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+      "fonte": "Latest news",
+      "data": "2026-04-24T13:19:02+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,27 +18,27 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Ti fidi delle Google AI Overview? Solo il 39% delle risposte generate è davvero affidabile",
-      "descrizione": "Non tutte le AI Overview generate da Google sono pienamente affidabili: uno studio afferma che oltre la metà non è supportata da fonti.",
-      "link": "https://www.hdblog.it/internet/articoli/n656195/ai-overview-affidabilita-risposte/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T08:15:00+00:00",
+      "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
+      "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
+      "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T10:33:34+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
-      "descrizione": "Anthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-23T15:11:30+00:00",
+      "titolo": "Claude Code: Anthropic corregge tre problemi di qualità",
+      "descrizione": "Anthropic ha rilasciato una nuova versione di Claude Code che risolve tre bug segnalati dagli utenti e nuovi connettori per Claude ai servizi esterni. The post Claude Code: Anthropic corregge tre problemi di qualità appe",
+      "link": "https://www.punto-informatico.it/claude-code-anthropic-corregge-tre-problemi-qualita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T09:57:41+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Come è Qwen 3.6? Al via il rilancio della sfida cinese all’AI americana",
-      "descrizione": "Il modello di Alibaba presentato ad aprile 2026, abbraccia l’era agentica",
-      "link": "https://www.ilsole24ore.com/art/come-e-qwen-36-via-rilancio-sfida-cinese-all-ai-americana-AI4uxGfC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-24T06:35:15+00:00",
+      "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
+      "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
+      "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-24T10:33:34+00:00",
       "modello": "altri"
     }
   ]
