@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-24T03:52:31.035057+00:00",
+  "last_updated": "2026-04-24T08:23:45.464209+00:00",
   "items": [
     {
-      "titolo": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
-      "descrizione": "Anthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-23T15:11:30+00:00",
+      "titolo": "Addio ricerche lunghe: ora i traghetti si prenotano su ChatGPT",
+      "descrizione": "Ferryhopper integra il suo motore di ricerca in ChatGPT per prenotare traghetti con l'AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656197/traghetti-prenotazione-chatgpt-ferryhopper/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-24T07:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot Agent Mode disponibile in Microsoft 365",
-      "descrizione": "Agent Mode, la funzionalità che permette di usare Copilot per eseguire azioni in Word, Excel e PowerPoint, è ora disponibile per tutti gli abbonati. The post Copilot Agent Mode disponibile in Microsoft 365 appeared first",
-      "link": "https://www.punto-informatico.it/copilot-agent-mode-disponibile-microsoft-365/",
+      "titolo": "Agent Mode di Copilot modifica documenti e fogli Excel da solo",
+      "descrizione": "Agent Mode per Copilot arriva su Word, Excel e PowerPoint. L'AI modifica documenti, inserisce formule e aggiorna presentazioni da solo. The post Agent Mode di Copilot modifica documenti e fogli Excel da solo appeared fir",
+      "link": "https://www.punto-informatico.it/agent-mode-copilot-modifica-documenti-fogli-excel-da-solo/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-23T15:51:28+00:00",
+      "data": "2026-04-24T07:16:06+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google e Pentagono: Gemini potrebbe gestire i segreti della difesa",
-      "descrizione": "Google tratta col Pentagono per portare l'AI Gemini in ambienti militari classificati.",
-      "link": "https://www.hdblog.it/google/articoli/n656020/google-gemini-pentagono-difesa/",
+      "titolo": "Ti fidi delle Google AI Overview? Solo il 39% delle risposte generate è davvero affidabile",
+      "descrizione": "Non tutte le AI Overview generate da Google sono pienamente affidabili: uno studio afferma che oltre la metà non è supportata da fonti.",
+      "link": "https://www.hdblog.it/internet/articoli/n656195/ai-overview-affidabilita-risposte/",
       "fonte": "HDblog.it",
-      "data": "2026-04-23T17:10:00+00:00",
+      "data": "2026-04-24T08:15:00+00:00",
       "modello": "gemini"
     },
     {
@@ -32,6 +32,14 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-23T15:11:30+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Come è Qwen 3.6? Al via il rilancio della sfida cinese all’AI americana",
+      "descrizione": "Il modello di Alibaba presentato ad aprile 2026, abbraccia l’era agentica",
+      "link": "https://www.ilsole24ore.com/art/come-e-qwen-36-via-rilancio-sfida-cinese-all-ai-americana-AI4uxGfC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-24T06:35:15+00:00",
+      "modello": "altri"
     }
   ]
 }
