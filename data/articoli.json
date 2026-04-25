@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-04-25T07:46:10.184265+00:00",
+  "last_updated": "2026-04-25T13:39:33.705509+00:00",
   "items": [
+    {
+      "titolo": "Intel has reportedly killed discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — Gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
+      "descrizione": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacenter and workstation s",
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T13:19:05+00:00"
+    },
+    {
+      "titolo": "Avatr svela la station wagon definitiva: 955 CV e autonomia di 1.250 km",
+      "descrizione": "I nuovi colossi cinesi si stanno ritagliando uno spazio sempre maggiore sul car market. L’ultima proposta SW arriva da Avatr",
+      "link": "https://www.hdmotori.it/avatr-station-wagon-06t/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T13:00:19+00:00"
+    },
+    {
+      "titolo": "Lyria 3: l’architettura sonora di DeepMind che impara la grammatica della musica",
+      "descrizione": "Ecco la nostra prova",
+      "link": "https://www.ilsole24ore.com/art/lyria-3-l-architettura-sonora-deepmind-che-impara-grammatica-musica-AIwIimUC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-25T12:57:45+00:00"
+    },
+    {
+      "titolo": "Windows 11: più controllo sugli aggiornamenti",
+      "descrizione": "Microsoft ha annunciato le novità in arrivo per Windows Update, tra cui la possibilità di mettere in pausa gli aggiornamenti per una durata indefinita. The post Windows 11: più controllo sugli aggiornamenti appeared firs",
+      "link": "https://www.punto-informatico.it/windows-11-controllo-aggiornamenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-25T11:13:22+00:00"
+    },
+    {
+      "titolo": "Il ritorno del Casio A159WE-1, tra stile vintage e batteria infinita",
+      "descrizione": "Casio lancia in Europa il modello Vintage A159WE-1 con design classico e batteria da sette anni.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n656327/casio-vintage-a159we1-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T11:05:00+00:00"
+    },
+    {
+      "titolo": "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is critical to unlocking full potential of hybrid CPUs",
+      "descrizione": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true potential is held back by",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T11:00:00+00:00"
+    },
+    {
+      "titolo": "Enthusiast fixes 30-year issue with S3 graphics card — hacking the VBIOS fixes black levels by scalpelling out the Virge DX’s ‘pedestal bit’",
+      "descrizione": "A retro hardware enthusiast has demonstrated a fix that eliminates the washed-out appearance people witness when using 1990s graphics cards from S3.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T10:20:00+00:00"
+    },
+    {
+      "titolo": "Maxi investimento di Google: pronti 40 miliardi per l'AI di Claude",
+      "descrizione": "Google investe fino a 40 miliardi in Anthropic per potenziare l'AI di Claude e sfidare OpenAI.",
+      "link": "https://www.hdblog.it/google/articoli/n656328/google-investimento-anthropic-40-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T10:05:00+00:00"
+    },
+    {
+      "titolo": "US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier — ‘system tracked, engaged, and neutralized multiple target drones,’ has essentially unlimited power source",
+      "descrizione": "The LOCUST Laser Weapon System was tested aboard the USS George H.W. Bush and neutralized multiple target drones.",
+      "link": "https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T10:00:00+00:00"
+    },
+    {
+      "titolo": "Ubuntu rinnova Launchpad: ecco come cambia",
+      "descrizione": "Canonical rinnova Launchpad: nuovo design per le pagine serie e addio al vecchio stile grafico.",
+      "link": "https://www.hdblog.it/linux/articoli/n656329/ubuntu-launchpad-redesign-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T09:05:00+00:00"
+    },
+    {
+      "titolo": "Lynk & Co 10 restyling e GT Concept: il debutto a Pechino",
+      "descrizione": "Dalla Cina al via le prevendite per le nuove 10 e 10+ aggiornate da 925 CV. Architettura a 900V e la sorpresa GT Concept",
+      "link": "https://www.hdmotori.it/lynk-co-10-restyling-gt-concept-pechino/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T09:00:20+00:00"
+    },
+    {
+      "titolo": "MacBook Air 15'' M4 (16+512GB) in offerta al minimo storico: 240€ in meno su Amazon",
+      "descrizione": "Follia Apple per il weekend.",
+      "link": "https://www.hdblog.it/portatili/offerte/n656339/macbook-air-15-m4-16512gb-offerta-minimo-storico/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-25T07:55:00+00:00"
+    },
     {
       "titolo": "Nuova Mercedes GLB 2026: l'auto elettrica con IL CAMBIO! - Video",
       "descrizione": "Con l'arrivo di nuova Mercedes GLB 2026 la firma tedesca mette a dura prova gli scettici dell'elettrico, con un'ottima autonomia ed efficienza",
@@ -58,27 +142,6 @@
       "data": "2026-04-24T17:17:36+00:00"
     },
     {
-      "titolo": "YouTube testa nuove forme di pubblicità, nelle dirette e nel feed abbonamenti",
-      "descrizione": "Per ora sembrano test, ma è abbastanza chiaro che prima o poi ci toccheranno in modo ufficiale.",
-      "link": "https://www.hdblog.it/google/articoli/n656311/youtube-pubblicita-dirette-feed-iscrizioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T17:05:00+00:00"
-    },
-    {
-      "titolo": "Peugeot porta a Pechino il futuro con i Concept 6 e 8",
-      "descrizione": "I due concept anticipano una nuova linea di modelli prodotti in Cina con Dongfeng, destinati sia al mercato locale che all'export.",
-      "link": "https://www.hdmotori.it/peugeot-pechino-concept-6-8/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T17:00:49+00:00"
-    },
-    {
-      "titolo": "La Cina sposta i server nello spazio: 8 miliardi per i data center orbitali",
-      "descrizione": "Pechino finanzia con 8,4 miliardi di dollari la startup per i data center in orbita entro il 2035.",
-      "link": "https://www.hdblog.it/mercato/articoli/n656156/cina-data-center-spazio/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T16:55:00+00:00"
-    },
-    {
       "titolo": "Meta ottiene profitti dalle truffe su Facebook e Instagram?",
       "descrizione": "Un'organizzazione ha denunciato Meta perché ottiene profitti dagli annunci truffa, invece di impedire la loro pubblicazione di Facebook e Instagram. The post Meta ottiene profitti dalle truffe su Facebook e Instagram? ap",
       "link": "https://www.punto-informatico.it/meta-ottiene-profitti-truffe-facebook-instagram/",
@@ -86,32 +149,11 @@
       "data": "2026-04-24T16:35:28+00:00"
     },
     {
-      "titolo": "Spotify, dopo ben 16 anni arrivano le cartelle di playlist anche su mobile",
-      "descrizione": "Il roll-out è partito, anche se graduale. C'è ancora qualche limitazione secondaria, però.",
-      "link": "https://www.hdblog.it/android/articoli/n656309/spotify-app-mobile-cartelle-playlist/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T16:35:00+00:00"
-    },
-    {
       "titolo": "SpaceX: i data center AI nello spazio sono un’idea terribile (forse)",
       "descrizione": "SpaceX riconosce i rischi dei data center AI nello spazio: l'usura dei chip, la dipendenza da Starship e l'ambiente spaziale imprevedibile. The post SpaceX: i data center AI nello spazio sono un’idea terribile (forse) ap",
       "link": "https://www.punto-informatico.it/spacex-data-center-ai-spazio-idea-terribile-forse/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T16:31:28+00:00"
-    },
-    {
-      "titolo": "Taglio fondi NASA: il Congresso si oppone nuovamente al piano Trump",
-      "descrizione": "Il Congresso USA respinge i tagli del 23% alla NASA per non perdere il primato contro la Cina.",
-      "link": "https://www.hdblog.it/mercato/articoli/n656160/taglio-fondi-nasa/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T16:10:00+00:00"
-    },
-    {
-      "titolo": "Geely Eva Cab: il robotaxi che decide 3 volte più velocemente dell'uomo",
-      "descrizione": "Geely presenta Eva Cab a Pechino 2026: il primo robotaxi nativo senza volante né pedali, con AI da 196 miliardi di parametri che supera i riflessi umani.",
-      "link": "https://www.hdmotori.it/geely-eva-cab-robotaxi/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-24T16:00:51+00:00"
     },
     {
       "titolo": "Come ridurre la propria impronta ecologica con l’aiuto dell’AI",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/il-cloud-a-vita-ora-conviene-di-piu-i-piani-lifetime-di-pcloud-ora-costano-meno/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T15:30:27+00:00"
-    },
-    {
-      "titolo": "Social media: ban anche in Turchia e Norvegia",
-      "descrizione": "In Turchia è stato approvata la legge che vieta l'accesso ai minori di 15 anni, mentre in Norvegia verrà presentato un disegno di legge entro il 2026. The post Social media: ban anche in Turchia e Norvegia appeared first",
-      "link": "https://www.punto-informatico.it/social-media-ban-turchia-norvegia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T14:23:16+00:00"
-    },
-    {
-      "titolo": "Se pensi di avere tanti giochi, questo account Steam ti farà impallidire",
-      "descrizione": "Decine di migliaia di giochi nella libreria di un singolo account: questo utente Steam ha battuto tutti i record sulla piattaforma. The post Se pensi di avere tanti giochi, questo account Steam ti farà impallidire appear",
-      "link": "https://www.punto-informatico.it/pensi-avere-tanti-giochi-questo-account-steam-fara-impallidire/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T13:52:01+00:00"
-    },
-    {
-      "titolo": "Ubuntu 26.04 LTS ufficiale con kernel 7.0 e GNOME 50",
-      "descrizione": "Disponibile per il download la nuova distribuzione Ubuntu 26.04 LTS (supporto a lungo termine) con Linux kernel 7.0, GNOME 50 e altre numerose novità, The post Ubuntu 26.04 LTS ufficiale con kernel 7.0 e GNOME 50 appeare",
-      "link": "https://www.punto-informatico.it/ubuntu-26-04-lts-ufficiale-kernel-7-gnome-50/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T13:25:49+00:00"
-    },
-    {
-      "titolo": "L’Iran minaccia di tagliare i cavi sottomarini: rischio blackout digitale",
-      "descrizione": "L'integrità dei cavi sottomarini che passano dallo stretto di Hormuz potrebbe essere messa in pericolo dalla guerra tra USA e Iran. The post L’Iran minaccia di tagliare i cavi sottomarini: rischio blackout digitale appea",
-      "link": "https://www.punto-informatico.it/iran-minaccia-tagliare-cavi-sottomarini-rischio-blackout-digitale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T12:24:32+00:00"
-    },
-    {
-      "titolo": "Il futuro del lavoro secondo NVIDIA: agenti AI che non lasciano mai in pace",
-      "descrizione": "Il CEO di NVIDIA è convinto che l'AI creerà più lavoro, non meno. Ma il prezzo da pagare è un capo AI che non smetterà mai di assillarci. The post Il futuro del lavoro secondo NVIDIA: agenti AI che non lasciano mai in pa",
-      "link": "https://www.punto-informatico.it/futuro-lavoro-nvidia-agenti-ai-che-non-lasciano-mai-in-pace/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T10:55:32+00:00"
-    },
-    {
-      "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T10:33:34+00:00"
     }
   ]
 }
