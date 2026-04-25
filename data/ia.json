@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-25T13:39:37.078630+00:00",
+  "last_updated": "2026-04-25T19:12:23.270323+00:00",
   "items": [
     {
-      "titolo": "Bugatti - Volkswagen, fine del matrimonio: si chiude un'era",
-      "descrizione": "Dalla visione di Piëch al passaggio di consegne a HOF Capital: si chiude dopo quasi trent'anni lo storico legame tra Volkswagen e Bugatti",
-      "link": "https://www.hdmotori.it/bugatti-volkswagen-fine-era/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-25T11:30:34+00:00",
+      "titolo": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
+      "descrizione": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set t",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T15:47:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "descrizione": "ChatGPT, Gemini, Grok e DeepSeek presentano terapie alternative e chemioterapia come opzioni equivalenti per i malati di cancro, ed è un problema. The post I chatbot AI suggeriscono cure alternative al posto della chemio",
-      "link": "https://www.punto-informatico.it/chatbot-ai-suggeriscono-cure-alternative-al-posto-chemio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T10:33:34+00:00",
+      "titolo": "Nasce Gemini Enterprise Agentic: tutte le novità del Google Cloud Next 2026",
+      "descrizione": "Durante l’evento del colosso di Mountain Views confermata l’uscita entro il 2026 della versione migliorata di Apple Siri, basata su Gemini e che girerà su Google Cloud.",
+      "link": "https://www.ilsole24ore.com/art/nasce-gemini-enterprise-agentic-tutte-novita-google-cloud-next-2026-AIlB0yeC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-23T09:24:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "descrizione": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "fonte": "WIRED",
-      "data": "2026-04-25T10:30:00+00:00",
+      "titolo": "Google investirà fino a 40 miliardi in Anthropic",
+      "descrizione": "Google investirà fino a 40 miliardi di dollari in Anthropic e fornirà altri 5 GW di capacità di calcolo nei prossimi cinque anni. The post Google investirà fino a 40 miliardi in Anthropic appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/google-investira-fino-40-miliardi-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-25T15:52:18+00:00",
       "modello": "claude"
     },
     {

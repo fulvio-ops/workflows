@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-04-25T13:39:33.705509+00:00",
+  "last_updated": "2026-04-25T19:12:19.971605+00:00",
   "items": [
     {
-      "titolo": "Intel has reportedly killed discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — Gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
+      "titolo": "Google investirà fino a 40 miliardi in Anthropic",
+      "descrizione": "Google investirà fino a 40 miliardi di dollari in Anthropic e fornirà altri 5 GW di capacità di calcolo nei prossimi cinque anni. The post Google investirà fino a 40 miliardi in Anthropic appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/google-investira-fino-40-miliardi-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-25T15:52:18+00:00"
+    },
+    {
+      "titolo": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
+      "descrizione": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set t",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-25T15:47:26+00:00"
+    },
+    {
+      "titolo": "X annuncia XChat per iOS con crittografia end-to-end",
+      "descrizione": "È disponibile la versione finale dell'app XChat per iOS con crittografia end-to-end e supporto per le chat di gruppo (che sostituiscono le Communities). The post X annuncia XChat per iOS con crittografia end-to-end appea",
+      "link": "https://www.punto-informatico.it/x-annuncia-xchat-ios-crittografia-end-to-end/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-25T14:46:06+00:00"
+    },
+    {
+      "titolo": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
       "descrizione": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacenter and workstation s",
       "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
       "fonte": "Latest from Tom's Hardware",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/meta-ottiene-profitti-truffe-facebook-instagram/",
       "fonte": "Punto Informatico",
       "data": "2026-04-24T16:35:28+00:00"
-    },
-    {
-      "titolo": "SpaceX: i data center AI nello spazio sono un’idea terribile (forse)",
-      "descrizione": "SpaceX riconosce i rischi dei data center AI nello spazio: l'usura dei chip, la dipendenza da Starship e l'ambiente spaziale imprevedibile. The post SpaceX: i data center AI nello spazio sono un’idea terribile (forse) ap",
-      "link": "https://www.punto-informatico.it/spacex-data-center-ai-spazio-idea-terribile-forse/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T16:31:28+00:00"
-    },
-    {
-      "titolo": "Come ridurre la propria impronta ecologica con l’aiuto dell’AI",
-      "descrizione": "Basta un prompt per calcolare la propria impronta ecologica e identificare i cambiamenti quotidiani con il maggiore impatto. The post Come ridurre la propria impronta ecologica con l’aiuto dell’AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/come-ridurre-propria-impronta-ecologica-aiuto-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T15:56:26+00:00"
-    },
-    {
-      "titolo": "Il cloud a vita ora conviene di più: i piani “lifetime” di pCloud ora costano meno",
-      "descrizione": "Con il cloud a vita e un piano lifetime di pCloud è possibile archiviare i propri dati in sicurezza e minimizzando la spesa nel lungo periodo. The post Il cloud a vita ora conviene di più: i piani “lifetime” di pCloud or",
-      "link": "https://www.punto-informatico.it/il-cloud-a-vita-ora-conviene-di-piu-i-piani-lifetime-di-pcloud-ora-costano-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T15:30:27+00:00"
     }
   ]
 }
