@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-25T19:12:19.971605+00:00",
+  "last_updated": "2026-04-26T03:57:00.791192+00:00",
   "items": [
+    {
+      "titolo": "California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner",
+      "descrizione": "The 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, high-profile media figures, and US government officials.",
+      "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
+      "fonte": "WIRED",
+      "data": "2026-04-26T03:26:42+00:00"
+    },
     {
       "titolo": "Google investirà fino a 40 miliardi in Anthropic",
       "descrizione": "Google investirà fino a 40 miliardi di dollari in Anthropic e fornirà altri 5 GW di capacità di calcolo nei prossimi cinque anni. The post Google investirà fino a 40 miliardi in Anthropic appeared first on Punto Informat",
@@ -161,13 +168,6 @@
       "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
       "fonte": "WIRED",
       "data": "2026-04-24T17:17:36+00:00"
-    },
-    {
-      "titolo": "Meta ottiene profitti dalle truffe su Facebook e Instagram?",
-      "descrizione": "Un'organizzazione ha denunciato Meta perché ottiene profitti dagli annunci truffa, invece di impedire la loro pubblicazione di Facebook e Instagram. The post Meta ottiene profitti dalle truffe su Facebook e Instagram? ap",
-      "link": "https://www.punto-informatico.it/meta-ottiene-profitti-truffe-facebook-instagram/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-24T16:35:28+00:00"
     }
   ]
 }
