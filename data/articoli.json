@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-04-26T13:41:54.943241+00:00",
+  "last_updated": "2026-04-26T19:14:37.633965+00:00",
   "items": [
+    {
+      "titolo": "Nuovi prodotti Apple in arrivo sotto la guida di John Ternus",
+      "descrizione": "Sotto la guida di John Ternus (CEO di Apple dal 1 settembre) verranno annunciati prodotti che introdurranno nuove categorie, come l'iPhone pieghevole. The post Nuovi prodotti Apple in arrivo sotto la guida di John Ternus",
+      "link": "https://www.punto-informatico.it/nuovi-prodotti-apple-arrivo-guida-john-ternus/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-26T17:12:20+00:00"
+    },
+    {
+      "titolo": "Snow: nuovi malware distribuiti tramite Microsoft Teams",
+      "descrizione": "Gli esperti di Mandiant hanno rilevato la nuova suite di malware SNOW che sfrutta Microsoft Teams e un'estensione per accedere alle reti e rubare dati. The post Snow: nuovi malware distribuiti tramite Microsoft Teams app",
+      "link": "https://www.punto-informatico.it/snow-nuovi-malware-distribuiti-tramite-microsoft-teams/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-26T15:46:15+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S25 Ultra torna in offerta: a meno di 800€ e con Garanzia Italia è un best buy",
+      "descrizione": "Il Samsung Galaxy S25 Ultra torna di grande attualità ed è ora disponibile in offerta a meno di 800 euro con la promo di oggi.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n656372/samsung-galaxy-s25-ultra-offerta-psprapr26/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-26T15:00:00+00:00"
+    },
+    {
+      "titolo": "Disneyland ha iniziato ad utilizzare il riconoscimento del volto agli ingressi",
+      "descrizione": "L’utilizzo resta facoltativo.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n656370/disneyland-riconoscimento-facciale-ingressi/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-26T14:45:00+00:00"
+    },
+    {
+      "titolo": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
+      "descrizione": "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
+      "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
+      "fonte": "WIRED",
+      "data": "2026-04-26T14:43:47+00:00"
+    },
     {
       "titolo": "Engie Punto Fisso: la tariffa perfetta per chi parte da zero fissa per 12 mesi",
       "descrizione": "Hai appena comprato casa? Scopri Engie Energia Punto Fisso 12 mesi: prezzo bloccato, bollette sotto controllo e più risparmio per arredare la tua casa. The post Engie Punto Fisso: la tariffa perfetta per chi parte da zer",
@@ -133,41 +168,6 @@
       "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
       "fonte": "WIRED",
       "data": "2026-04-26T03:26:42+00:00"
-    },
-    {
-      "titolo": "ExpressVPN, nuova offerta a tempo limitato: sconti fino al 79%",
-      "descrizione": "L'iniziativa termina il 5 maggio e prevede prezzi a partire da 2,39 euro al mese per i piani VPN della durata di due anni. The post ExpressVPN, nuova offerta a tempo limitato: sconti fino al 79% appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/expressvpn-nuova-offerta-a-tempo-limitato-sconti-fino-al-79-per-cento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-25T17:02:40+00:00"
-    },
-    {
-      "titolo": "Google investirà fino a 40 miliardi in Anthropic",
-      "descrizione": "Google investirà fino a 40 miliardi di dollari in Anthropic e fornirà altri 5 GW di capacità di calcolo nei prossimi cinque anni. The post Google investirà fino a 40 miliardi in Anthropic appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/google-investira-fino-40-miliardi-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-25T15:52:18+00:00"
-    },
-    {
-      "titolo": "Intel's upcoming Xeon 7 'Diamond Rapids' server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
-      "descrizione": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set t",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-25T15:47:26+00:00"
-    },
-    {
-      "titolo": "X annuncia XChat per iOS con crittografia end-to-end",
-      "descrizione": "È disponibile la versione finale dell'app XChat per iOS con crittografia end-to-end e supporto per le chat di gruppo (che sostituiscono le Communities). The post X annuncia XChat per iOS con crittografia end-to-end appea",
-      "link": "https://www.punto-informatico.it/x-annuncia-xchat-ios-crittografia-end-to-end/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-25T14:46:06+00:00"
-    },
-    {
-      "titolo": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
-      "descrizione": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacenter and workstation s",
-      "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-25T13:19:05+00:00"
     }
   ]
 }
