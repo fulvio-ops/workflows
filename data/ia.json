@@ -1,20 +1,36 @@
 {
-  "last_updated": "2026-04-27T04:01:18.501148+00:00",
+  "last_updated": "2026-04-27T08:41:37.155753+00:00",
   "items": [
     {
-      "titolo": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece — 'MC7' costs $160, part of company's new Command Series peripheral lineup",
-      "descrizione": "Turtle Beach's new Command Series of peripherals features a lot of screens, and the most interesting implementation is seen in the MC7 mouse. The 2.25-inch LCD rests where your thumb will, while providing macros or glanc",
-      "link": "https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-26T11:15:00+00:00",
+      "titolo": "ChatGPT e la sparatoria di Tumbler Ridge: le scuse di Sam Altman",
+      "descrizione": "Sam Altman si scusa con la comunità di Tumbler Ridge due mesi dopo la strage: OpenAI aveva bannato l'account ChatGPT della responsabile. The post ChatGPT e la sparatoria di Tumbler Ridge: le scuse di Sam Altman appeared",
+      "link": "https://www.punto-informatico.it/chatgpt-sparatoria-tumbler-ridge-scuse-sam-altman/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-27T08:21:40+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google investirà fino a 40 miliardi in Anthropic",
-      "descrizione": "Google investirà fino a 40 miliardi di dollari in Anthropic e fornirà altri 5 GW di capacità di calcolo nei prossimi cinque anni. The post Google investirà fino a 40 miliardi in Anthropic appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/google-investira-fino-40-miliardi-anthropic/",
+      "titolo": "Windows 11 senza Copilot: pulizia solo apparente?",
+      "descrizione": "Microsoft ha iniziato a rimuovere Copilot da alcune app di Windows 11, ma nel caso di Notepad (Blocco note) è solo un cambio di nome e icona. The post Windows 11 senza Copilot: pulizia solo apparente? appeared first on P",
+      "link": "https://www.punto-informatico.it/windows-11-senza-copilot-pulizia-solo-apparente/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-25T15:52:18+00:00",
+      "data": "2026-04-27T07:21:43+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Nasce Gemini Enterprise Agentic: tutte le novità del Google Cloud Next 2026",
+      "descrizione": "Durante l’evento del colosso di Mountain Views confermata l’uscita entro il 2026 della versione migliorata di Apple Siri, basata su Gemini e che girerà su Google Cloud.",
+      "link": "https://www.ilsole24ore.com/art/nasce-gemini-enterprise-agentic-tutte-novita-google-cloud-next-2026-AIlB0yeC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-23T09:24:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "descrizione": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "fonte": "WIRED",
+      "data": "2026-04-25T10:30:00+00:00",
       "modello": "claude"
     },
     {
