@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-27T14:27:54.783402+00:00",
+  "last_updated": "2026-04-27T19:49:00.625937+00:00",
   "items": [
     {
-      "titolo": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
-      "descrizione": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
-      "link": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
-      "fonte": "Latest news",
-      "data": "2026-04-27T14:26:00+00:00",
+      "titolo": "Musk contro OpenAI: al via il processo che scuote la Silicon Valley",
+      "descrizione": "Elon Musk e Sam Altman si affrontano in tribunale per il controllo e il futuro di OpenAI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656478/musk-altman-processo-openai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-27T18:18:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11 senza Copilot: pulizia solo apparente?",
-      "descrizione": "Microsoft ha iniziato a rimuovere Copilot da alcune app di Windows 11, ma nel caso di Notepad (Blocco note) è solo un cambio di nome e icona. The post Windows 11 senza Copilot: pulizia solo apparente? appeared first on P",
-      "link": "https://www.punto-informatico.it/windows-11-senza-copilot-pulizia-solo-apparente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-27T07:21:43+00:00",
+      "titolo": "GitHub Copilot shifts to usage-based pricing June 1 - why that's no surprise",
+      "descrizione": "Under the new approach, if you run out of credits, you can't use the service. GitHub plans to preview the new billing in early May.",
+      "link": "https://www.zdnet.com/article/github-copilot-shifts-to-usage-based-pricing/",
+      "fonte": "Latest news",
+      "data": "2026-04-27T19:33:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
-      "descrizione": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
-      "link": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
-      "fonte": "Latest news",
-      "data": "2026-04-27T14:26:00+00:00",
+      "titolo": "I Samsung Galaxy Glasses con Gemini sono simili ai Ray-Ban Meta",
+      "descrizione": "I render delle Galaxy Glasses rivelano occhiali smart senza display con due fotocamere e Gemini. Il design è simile ai Ray-Ban Meta. The post I Samsung Galaxy Glasses con Gemini sono simili ai Ray-Ban Meta appeared first",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-glasses-gemini-simili-ray-ban-meta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-27T17:26:06+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "descrizione": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "fonte": "WIRED",
-      "data": "2026-04-25T10:30:00+00:00",
+      "titolo": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+      "descrizione": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-27T15:20:36+00:00",
       "modello": "claude"
     },
     {
