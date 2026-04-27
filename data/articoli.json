@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-04-26T19:14:37.633965+00:00",
+  "last_updated": "2026-04-27T04:01:13.926368+00:00",
   "items": [
+    {
+      "titolo": "Nearly half of cybersecurity pros want to quit - here's why",
+      "descrizione": "Research suggests security specialists around the globe are unhappy, but there is hope.",
+      "link": "https://www.zdnet.com/article/nearly-half-of-cybersecurity-pros-want-to-quit-heres-why/",
+      "fonte": "Latest news",
+      "data": "2026-04-26T23:01:43+00:00"
+    },
     {
       "titolo": "Nuovi prodotti Apple in arrivo sotto la guida di John Ternus",
       "descrizione": "Sotto la guida di John Ternus (CEO di Apple dal 1 settembre) verranno annunciati prodotti che introdurranno nuove categorie, come l'iPhone pieghevole. The post Nuovi prodotti Apple in arrivo sotto la guida di John Ternus",
       "link": "https://www.punto-informatico.it/nuovi-prodotti-apple-arrivo-guida-john-ternus/",
       "fonte": "Punto Informatico",
       "data": "2026-04-26T17:12:20+00:00"
+    },
+    {
+      "titolo": "Disney+ in offerta: i piani mensili disponibili a partire da 4,99 euro",
+      "descrizione": "Il prezzo promozionale è valido per i nuovi e vecchi abbonati che attivano un nuovo piano mensile entro il 6 maggio. The post Disney+ in offerta: i piani mensili disponibili a partire da 4,99 euro appeared first on Punto",
+      "link": "https://www.punto-informatico.it/disney-in-offerta-i-piani-mensili-disponibili-a-partire-da-4-99-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-26T17:02:20+00:00"
     },
     {
       "titolo": "Snow: nuovi malware distribuiti tramite Microsoft Teams",
@@ -30,8 +44,8 @@
       "data": "2026-04-26T14:45:00+00:00"
     },
     {
-      "titolo": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
-      "descrizione": "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
+      "titolo": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting",
+      "descrizione": "The word “staged” exploded on social media following the attack, as both right- and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
       "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
       "fonte": "WIRED",
       "data": "2026-04-26T14:43:47+00:00"
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/logitech-mx-keys-s-combo-tastiera-mouse-wireless-poggiapolsi-prezzone/",
       "fonte": "Punto Informatico",
       "data": "2026-04-26T07:44:39+00:00"
-    },
-    {
-      "titolo": "Il CEO di Ford critica Tesla: le EV di Musk non sono più il punto di riferimento",
-      "descrizione": "In un’epoca anche piuttosto recente il fondatore di Tesla, Elon Musk, era definito un genio. Oggi per Ford le dinamiche sono cambiate",
-      "link": "https://www.hdmotori.it/ceo-ford-critica-tesla/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-26T07:00:53+00:00"
-    },
-    {
-      "titolo": "California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner",
-      "descrizione": "The 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, high-profile media figures, and US government officials.",
-      "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
-      "fonte": "WIRED",
-      "data": "2026-04-26T03:26:42+00:00"
     }
   ]
 }
