@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-27T08:41:37.155753+00:00",
+  "last_updated": "2026-04-27T14:27:54.783402+00:00",
   "items": [
     {
-      "titolo": "ChatGPT e la sparatoria di Tumbler Ridge: le scuse di Sam Altman",
-      "descrizione": "Sam Altman si scusa con la comunità di Tumbler Ridge due mesi dopo la strage: OpenAI aveva bannato l'account ChatGPT della responsabile. The post ChatGPT e la sparatoria di Tumbler Ridge: le scuse di Sam Altman appeared",
-      "link": "https://www.punto-informatico.it/chatgpt-sparatoria-tumbler-ridge-scuse-sam-altman/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-27T08:21:40+00:00",
+      "titolo": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+      "descrizione": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+      "link": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+      "fonte": "Latest news",
+      "data": "2026-04-27T14:26:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Nasce Gemini Enterprise Agentic: tutte le novità del Google Cloud Next 2026",
-      "descrizione": "Durante l’evento del colosso di Mountain Views confermata l’uscita entro il 2026 della versione migliorata di Apple Siri, basata su Gemini e che girerà su Google Cloud.",
-      "link": "https://www.ilsole24ore.com/art/nasce-gemini-enterprise-agentic-tutte-novita-google-cloud-next-2026-AIlB0yeC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-23T09:24:00+00:00",
+      "titolo": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+      "descrizione": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+      "link": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+      "fonte": "Latest news",
+      "data": "2026-04-27T14:26:00+00:00",
       "modello": "gemini"
     },
     {
