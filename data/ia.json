@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-28T04:07:54.181706+00:00",
+  "last_updated": "2026-04-28T08:40:24.818393+00:00",
   "items": [
     {
-      "titolo": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "descrizione": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
-      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "fonte": "WIRED",
-      "data": "2026-04-28T00:39:30+00:00",
+      "titolo": "Le api superano i test di matematica: sanno davvero contare",
+      "descrizione": "Secondo un nuovo studio e non soltanto in base alle percezioni umane, le api sanno davvero contare, superando così i test di matematica. The post Le api superano i test di matematica: sanno davvero contare appeared first",
+      "link": "https://www.punto-informatico.it/api-superano-test-matematica-sanno-davvero-contare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-28T07:32:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I Samsung Galaxy Glasses con Gemini sono simili ai Ray-Ban Meta",
-      "descrizione": "I render delle Galaxy Glasses rivelano occhiali smart senza display con due fotocamere e Gemini. Il design è simile ai Ray-Ban Meta. The post I Samsung Galaxy Glasses con Gemini sono simili ai Ray-Ban Meta appeared first",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-glasses-gemini-simili-ray-ban-meta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-27T17:26:06+00:00",
+      "titolo": "Dipendenti Google contro il Pentagono: no all’uso militare di Gemini",
+      "descrizione": "Oltre 600 dipendenti Google chiedono a Pichai di non fornire AI segreta al Pentagono.",
+      "link": "https://www.hdblog.it/mercato/articoli/n656556/google-pentagono-protesta-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-28T08:40:00+00:00",
       "modello": "gemini"
     },
     {
