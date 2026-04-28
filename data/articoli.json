@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-04-27T19:48:57.488617+00:00",
+  "last_updated": "2026-04-28T04:07:49.533045+00:00",
   "items": [
+    {
+      "titolo": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "descrizione": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "fonte": "WIRED",
+      "data": "2026-04-28T00:39:30+00:00"
+    },
+    {
+      "titolo": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+      "descrizione": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+      "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "fonte": "WIRED",
+      "data": "2026-04-27T20:08:51+00:00"
+    },
     {
       "titolo": "Internet ovunque: l’eSIM Airalo è il must-have per le tue vacanze 2026",
       "descrizione": "Con l'eSIM Airalo navighi in oltre 200 destinazioni a prezzi stracciati: è tra le migliori per le tue vacanze 2026. The post Internet ovunque: l’eSIM Airalo è il must-have per le tue vacanze 2026 appeared first on Punto",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-04-27T15:47:06+00:00"
-    },
-    {
-      "titolo": "Huawei Watch Fit 5 e Pro, è l'ora del lancio globale: specifiche e promozioni per l'Italia",
-      "descrizione": "In Cina sono arrivati da qualche giorno, e a breve saranno disponibili anche da noi: scopriamoli.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n656494/huawei-watch-fit-5-pro-italia-prezzi-coupon-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-27T15:45:00+00:00"
-    },
-    {
-      "titolo": "OpenAI lancerà uno smartphone con agenti AI nel 2028?",
-      "descrizione": "Secondo un noto analista, OpenAI ha avviato lo sviluppo di uno smartphone con agenti AI (invece delle app) che arriverà sul mercato nel 2028. The post OpenAI lancerà uno smartphone con agenti AI nel 2028? appeared first",
-      "link": "https://www.punto-informatico.it/openai-smartphone-agenti-ai-2028/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-27T15:41:34+00:00"
     }
   ]
 }
