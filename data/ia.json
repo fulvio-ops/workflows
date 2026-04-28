@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-28T08:40:24.818393+00:00",
+  "last_updated": "2026-04-28T19:56:54.720425+00:00",
   "items": [
     {
-      "titolo": "Le api superano i test di matematica: sanno davvero contare",
-      "descrizione": "Secondo un nuovo studio e non soltanto in base alle percezioni umane, le api sanno davvero contare, superando così i test di matematica. The post Le api superano i test di matematica: sanno davvero contare appeared first",
-      "link": "https://www.punto-informatico.it/api-superano-test-matematica-sanno-davvero-contare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-28T07:32:00+00:00",
+      "titolo": "Market slumps as OpenAI reportedly misses internal targets for active users and revenue — Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news",
+      "descrizione": "Nvidia, Oracle, SoftBank, and CoreWeave saw their stock prices go down because of news that OpenAI has been missing its internal targets. SoftBank stock lost 9.9% of its value on the Tokyo Stock Exchange. Nvidia, AMD, Or",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-28T15:50:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "GitHub Copilot shifts to usage-based pricing June 1 - why that's no surprise",
-      "descrizione": "Under the new approach, if you run out of credits, you can't use the service. GitHub plans to preview the new billing in early May.",
-      "link": "https://www.zdnet.com/article/github-copilot-shifts-to-usage-based-pricing/",
-      "fonte": "Latest news",
-      "data": "2026-04-27T19:33:00+00:00",
+      "titolo": "Copilot gestisce la posta e il calendario di Outlook da solo",
+      "descrizione": "Il nuovo Copilot in Outlook non si limita a rispondere, gestisce la posta, crea regole, riprogramma riunioni e valuta il calendario. The post Copilot gestisce la posta e il calendario di Outlook da solo appeared first on",
+      "link": "https://www.punto-informatico.it/copilot-gestisce-posta-calendario-outlook-da-solo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-28T09:08:28+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Dipendenti Google contro il Pentagono: no all’uso militare di Gemini",
-      "descrizione": "Oltre 600 dipendenti Google chiedono a Pichai di non fornire AI segreta al Pentagono.",
-      "link": "https://www.hdblog.it/mercato/articoli/n656556/google-pentagono-protesta-ai/",
+      "titolo": "Gemini, Google lavora alla \"Assistenza proattiva\": ecco cosa sappiamo",
+      "descrizione": "L'AI anticiperà le richieste dell'utente con suggerimenti puntuali e contestuali.",
+      "link": "https://www.hdblog.it/google/articoli/n656652/google-gemini-proactive-assistance/",
       "fonte": "HDblog.it",
-      "data": "2026-04-28T08:40:00+00:00",
+      "data": "2026-04-28T16:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-      "descrizione": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-27T15:20:36+00:00",
+      "titolo": "L’AI di Claude-Cursor ha combinato un disastro (e ha confessato)",
+      "descrizione": "Benvenuti nell'era dell'AI agentica, in cui l'intelligenza artificiale decide in piena autonomia di cancellare completamente un database. The post L’AI di Claude-Cursor ha combinato un disastro (e ha confessato) appeared",
+      "link": "https://www.punto-informatico.it/ai-claude-cursor-combinato-disastro-confessato/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-28T11:50:34+00:00",
       "modello": "claude"
     },
     {
