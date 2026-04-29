@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-04-29T04:03:56.334243+00:00",
+  "last_updated": "2026-04-29T08:34:24.974670+00:00",
   "items": [
     {
-      "titolo": "OpenAI Really Wants Codex to Shut Up About Goblins",
-      "descrizione": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
-      "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-      "fonte": "WIRED",
-      "data": "2026-04-28T23:45:05+00:00",
+      "titolo": "Elon Musk: Sam Altman ha rubato un ente di beneficenza",
+      "descrizione": "Durante la sua testimonianza al processo, Elon Musk ha spiegato perché ha finanziato la fondazione di OpenAI e descritto Sam Altman come un ladro. The post Elon Musk: Sam Altman ha rubato un ente di beneficenza appeared",
+      "link": "https://www.punto-informatico.it/elon-musk-sam-altman-rubato-ente-beneficenza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-29T08:30:35+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot gestisce la posta e il calendario di Outlook da solo",
-      "descrizione": "Il nuovo Copilot in Outlook non si limita a rispondere, gestisce la posta, crea regole, riprogramma riunioni e valuta il calendario. The post Copilot gestisce la posta e il calendario di Outlook da solo appeared first on",
-      "link": "https://www.punto-informatico.it/copilot-gestisce-posta-calendario-outlook-da-solo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-28T09:08:28+00:00",
+      "titolo": "GitHub Copilot shifts to usage-based pricing June 1 - why that's no surprise",
+      "descrizione": "Under the new approach, if you run out of credits, you can't use the service. GitHub plans to preview the new billing in early May.",
+      "link": "https://www.zdnet.com/article/github-copilot-shifts-to-usage-based-pricing/",
+      "fonte": "Latest news",
+      "data": "2026-04-27T19:33:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini, Google lavora alla \"Assistenza proattiva\": ecco cosa sappiamo",
-      "descrizione": "L'AI anticiperà le richieste dell'utente con suggerimenti puntuali e contestuali.",
-      "link": "https://www.hdblog.it/google/articoli/n656652/google-gemini-proactive-assistance/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-28T16:25:00+00:00",
+      "titolo": "Google aggiorna Gemini: anche in Italia si ricorderà della tue preferenze",
+      "descrizione": "Fondamentalmente il chatbot non dimenticherà più chi siamo una volta chiusa la finestra del browser, ma inizierà a capitalizzare i dettagli.",
+      "link": "https://www.ilsole24ore.com/art/google-aggiorna-gemini-anche-italia-si-ricordera-tue-preferenze-AI6LAAkC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-29T07:47:33+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "L’AI di Claude-Cursor ha combinato un disastro (e ha confessato)",
-      "descrizione": "Benvenuti nell'era dell'AI agentica, in cui l'intelligenza artificiale decide in piena autonomia di cancellare completamente un database. The post L’AI di Claude-Cursor ha combinato un disastro (e ha confessato) appeared",
-      "link": "https://www.punto-informatico.it/ai-claude-cursor-combinato-disastro-confessato/",
+      "titolo": "Claude si collega a Photoshop e altri software creativi",
+      "descrizione": "Anthropic lancia connettori che collegano Claude a Photoshop, Premiere, Blender, Ableton e altri software creativi. The post Claude si collega a Photoshop e altri software creativi appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/claude-si-collega-photoshop-altri-software-creativi/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-28T11:50:34+00:00",
+      "data": "2026-04-29T06:22:58+00:00",
       "modello": "claude"
     },
     {
