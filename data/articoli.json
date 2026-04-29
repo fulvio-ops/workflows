@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-28T19:56:51.426494+00:00",
+  "last_updated": "2026-04-29T04:03:53.189585+00:00",
   "items": [
+    {
+      "titolo": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+      "descrizione": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+      "fonte": "WIRED",
+      "data": "2026-04-28T21:35:17+00:00"
+    },
     {
       "titolo": "Nvidia quietly launches 12GB RTX 5070 laptop GPU — midrange mobile gaming gets more VRAM amid the RAMpocalypse",
       "descrizione": "Despite ongoing memory shortages, Nvidia has launched a higher-capacity 12GB trim of its RTX 5070 laptop GPU. The new part has 50% more capacity compared to Nvidia's existing RTX 5070 8GB model.",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/online-30-giorni-nuovo-drm-ps5-ps4/",
       "fonte": "Punto Informatico",
       "data": "2026-04-28T14:44:39+00:00"
-    },
-    {
-      "titolo": "A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform",
-      "descrizione": "Greg Hogan will oversee Login.gov as the government seeks to integrate driver’s license and passport information into the service, making what one insider calls “a national ID.”",
-      "link": "https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/",
-      "fonte": "WIRED",
-      "data": "2026-04-28T14:38:21+00:00"
     }
   ]
 }
