@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-29T14:31:38.250861+00:00",
+  "last_updated": "2026-04-29T19:54:54.831925+00:00",
   "items": [
     {
-      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
-      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-29T14:22:16+00:00",
+      "titolo": "Robotica ed AI: arriva SamuRoid, il piccolo umanoide che ci capisce",
+      "descrizione": "SamuRoid è un robot umanoide compatto basato su Raspberry Pi che interagisce tramite l'AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656777/samuroid-robot-umanoide-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-29T16:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "GitHub Copilot shifts to usage-based pricing June 1 - why that's no surprise",
-      "descrizione": "Under the new approach, if you run out of credits, you can't use the service. GitHub plans to preview the new billing in early May.",
-      "link": "https://www.zdnet.com/article/github-copilot-shifts-to-usage-based-pricing/",
-      "fonte": "Latest news",
-      "data": "2026-04-27T19:33:00+00:00",
+      "titolo": "Motorola razr 70: smartphone pieghevoli per tutti",
+      "descrizione": "Motorola ha annunciato i nuovi razr 70, razr 70 plus e razr 70 ultra con schermi AMOLED, tre fotocamere, Android 16, Gemini, Copilot e Perplexity. The post Motorola razr 70: smartphone pieghevoli per tutti appeared first",
+      "link": "https://www.punto-informatico.it/motorola-razr-70-smartphone-pieghevoli-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-29T17:12:50+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
-      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-29T14:22:16+00:00",
+      "titolo": "Gemini ora può creare file completi",
+      "descrizione": "Pronti da scaricare e condividere.",
+      "link": "https://www.hdblog.it/google/articoli/n656818/google-gemini-ai-generazione-file/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-29T18:09:00+00:00",
       "modello": "gemini"
     },
     {
