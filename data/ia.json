@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-29T08:34:24.974670+00:00",
+  "last_updated": "2026-04-29T14:31:38.250861+00:00",
   "items": [
     {
-      "titolo": "Elon Musk: Sam Altman ha rubato un ente di beneficenza",
-      "descrizione": "Durante la sua testimonianza al processo, Elon Musk ha spiegato perché ha finanziato la fondazione di OpenAI e descritto Sam Altman come un ladro. The post Elon Musk: Sam Altman ha rubato un ente di beneficenza appeared",
-      "link": "https://www.punto-informatico.it/elon-musk-sam-altman-rubato-ente-beneficenza/",
+      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
+      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-29T08:30:35+00:00",
+      "data": "2026-04-29T14:22:16+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,27 +18,27 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google aggiorna Gemini: anche in Italia si ricorderà della tue preferenze",
-      "descrizione": "Fondamentalmente il chatbot non dimenticherà più chi siamo una volta chiusa la finestra del browser, ma inizierà a capitalizzare i dettagli.",
-      "link": "https://www.ilsole24ore.com/art/google-aggiorna-gemini-anche-italia-si-ricordera-tue-preferenze-AI6LAAkC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-29T07:47:33+00:00",
+      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
+      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-29T14:22:16+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude si collega a Photoshop e altri software creativi",
-      "descrizione": "Anthropic lancia connettori che collegano Claude a Photoshop, Premiere, Blender, Ableton e altri software creativi. The post Claude si collega a Photoshop e altri software creativi appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/claude-si-collega-photoshop-altri-software-creativi/",
+      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
+      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-29T06:22:58+00:00",
+      "data": "2026-04-29T14:22:16+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations — U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
-      "descrizione": "DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-26T12:15:00+00:00",
+      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
+      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
+      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-24T14:22:00+00:00",
       "modello": "altri"
     }
   ]
