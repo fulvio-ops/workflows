@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-30T08:35:53.593182+00:00",
+  "last_updated": "2026-04-30T14:25:00.789333+00:00",
   "items": [
     {
-      "titolo": "Guerra ai goblin: le nuove e bizzarre istruzioni di OpenAI",
-      "descrizione": "OpenAI istruisce GPT-5.5 per evitare termini come goblin e piccioni a causa di strani tic linguistici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656854/openai-gpt-5-5-goblin-piccioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T08:25:00+00:00",
+      "titolo": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
+      "descrizione": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
+      "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
+      "fonte": "Latest news",
+      "data": "2026-04-30T14:18:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Motorola razr 70: smartphone pieghevoli per tutti",
-      "descrizione": "Motorola ha annunciato i nuovi razr 70, razr 70 plus e razr 70 ultra con schermi AMOLED, tre fotocamere, Android 16, Gemini, Copilot e Perplexity. The post Motorola razr 70: smartphone pieghevoli per tutti appeared first",
-      "link": "https://www.punto-informatico.it/motorola-razr-70-smartphone-pieghevoli-2026/",
+      "titolo": "OneNote Copilot legge tabelle e immagini oltre al testo",
+      "descrizione": "Copilot su OneNote ora comprende tabelle, immagini e tag per risposte più complete. Il cambiamento è automatico e lato server. The post OneNote Copilot legge tabelle e immagini oltre al testo appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/onenote-copilot-legge-tabelle-immagini-oltre-testo/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-29T17:12:50+00:00",
+      "data": "2026-04-30T10:55:19+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Gemini ricorda e importa le conversazioni anche in Italia",
-      "descrizione": "Anche gli utenti italiani possono sfruttare la memoria di Gemini e importare le conversazioni dai chatbot di terze parti (ChatGPT e Claude). The post Gemini ricorda e importa le conversazioni anche in Italia appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-ricorda-importa-conversazioni-anche-italia/",
+      "titolo": "GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos",
+      "descrizione": "Sta per arrivare la risposta di OpenAI a Claude Mythos di Anthropic: la variante Cyber dell'ultimo modello GPT, con accesso limitato. The post GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos appeared first on Punto",
+      "link": "https://www.punto-informatico.it/gpt-5-5-cyber-risposta-openai-claude-mythos/",
       "fonte": "Punto Informatico",
-      "data": "2026-04-29T14:22:16+00:00",
+      "data": "2026-04-30T13:12:55+00:00",
       "modello": "claude"
     },
     {
