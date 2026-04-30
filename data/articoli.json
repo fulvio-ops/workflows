@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-04-29T19:54:51.333239+00:00",
+  "last_updated": "2026-04-30T04:05:24.463268+00:00",
   "items": [
+    {
+      "titolo": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "descrizione": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+      "fonte": "WIRED",
+      "data": "2026-04-29T23:41:51+00:00"
+    },
+    {
+      "titolo": "Emergency First Responders Say Waymos Are Getting Worse",
+      "descrizione": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+      "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+      "fonte": "WIRED",
+      "data": "2026-04-29T20:45:37+00:00"
+    },
     {
       "titolo": "Forget Samsung Galaxy S26 Ultra: I found alternatives that are nearly as good for less money",
       "descrizione": "After reviewing the latest Google, Samsung, and Motorola phones, I have a newfound appreciation for last year's models.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/divine-ritorno-vine-disponibile-app/",
       "fonte": "Punto Informatico",
       "data": "2026-04-29T13:24:38+00:00"
-    },
-    {
-      "titolo": "Inferenza AI privata europea: Xference sui data center Aruba",
-      "descrizione": "AI privata e compliance europea: Xference apre la fase beta a 100 early adopter sui data center Aruba, con un modello Hardware-as-a-Service. The post Inferenza AI privata europea: Xference sui data center Aruba appeared",
-      "link": "https://www.punto-informatico.it/inferenza-ai-privata-europea-xference-data-center-aruba/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-29T13:00:53+00:00"
-    },
-    {
-      "titolo": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
-      "descrizione": "We consulted preparedness experts and WIRED's team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
-      "link": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
-      "fonte": "WIRED",
-      "data": "2026-04-29T12:33:00+00:00"
     }
   ]
 }

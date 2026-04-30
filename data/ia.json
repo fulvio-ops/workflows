@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-29T19:54:54.831925+00:00",
+  "last_updated": "2026-04-30T04:05:27.751641+00:00",
   "items": [
     {
-      "titolo": "Robotica ed AI: arriva SamuRoid, il piccolo umanoide che ci capisce",
-      "descrizione": "SamuRoid è un robot umanoide compatto basato su Raspberry Pi che interagisce tramite l'AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656777/samuroid-robot-umanoide-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-29T16:15:00+00:00",
+      "titolo": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "descrizione": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+      "fonte": "WIRED",
+      "data": "2026-04-29T23:41:51+00:00",
       "modello": "chatgpt"
     },
     {
