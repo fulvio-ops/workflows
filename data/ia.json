@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-30T14:25:00.789333+00:00",
+  "last_updated": "2026-04-30T19:50:57.719676+00:00",
   "items": [
     {
-      "titolo": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
-      "descrizione": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
-      "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
-      "fonte": "Latest news",
-      "data": "2026-04-30T14:18:00+00:00",
+      "titolo": "Musk sul banco dei testimoni: i suoi tweet lo contraddicono",
+      "descrizione": "Elon Musk ammette sotto giuramento nel processo contro OpenAI che Tesla non persegue l'AGI, contraddicendo un tweet di settimane prima. The post Musk sul banco dei testimoni: i suoi tweet lo contraddicono appeared first",
+      "link": "https://www.punto-informatico.it/musk-banco-testimoni-suoi-tweet-lo-contraddicono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T17:04:58+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini può creare PDF, DOCX, XLSX e altri file: come funziona",
-      "descrizione": "Google ha aggiunto una funzionalità molto interessante a Gemini: è quella che permette di creare ed esportare file dalle conversazioni. The post Gemini può creare PDF, DOCX, XLSX e altri file: come funziona appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-creare-pdf-docx-xlsx-altri-file-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T08:13:30+00:00",
+      "titolo": "Google aggiorna Gemini: anche in Italia si ricorderà della tue preferenze",
+      "descrizione": "Fondamentalmente il chatbot non dimenticherà più chi siamo una volta chiusa la finestra del browser, ma inizierà a capitalizzare i dettagli.",
+      "link": "https://www.ilsole24ore.com/art/google-aggiorna-gemini-anche-italia-si-ricordera-tue-preferenze-AI6LAAkC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-29T07:47:33+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos",
-      "descrizione": "Sta per arrivare la risposta di OpenAI a Claude Mythos di Anthropic: la variante Cyber dell'ultimo modello GPT, con accesso limitato. The post GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos appeared first on Punto",
-      "link": "https://www.punto-informatico.it/gpt-5-5-cyber-risposta-openai-claude-mythos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T13:12:55+00:00",
+      "titolo": "Anthropic's new Claude Security tool scans your codebase for flaws - and helps you decide what to fix first",
+      "descrizione": "It uses Opus 4.7 to scan, validate, and generate patches, helping fix dangerous flaws before they can be exploited.",
+      "link": "https://www.zdnet.com/article/anthropic-claude-security-ai-tool-scans-codebase-for-flaws/",
+      "fonte": "Latest news",
+      "data": "2026-04-30T17:00:08+00:00",
       "modello": "claude"
     },
     {

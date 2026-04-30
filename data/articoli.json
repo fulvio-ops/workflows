@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-04-30T14:24:57.214159+00:00",
+  "last_updated": "2026-04-30T19:50:54.737067+00:00",
   "items": [
+    {
+      "titolo": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "descrizione": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "fonte": "WIRED",
+      "data": "2026-04-30T18:54:54+00:00"
+    },
+    {
+      "titolo": "Google lancia \"Fonti Preferite\" in Italia: più controllo sui risultati delle ricerche",
+      "descrizione": "È il momento di selezionare HDBlog: ecco cos'è e come funziona l'ultima novità per la ricerca Google.",
+      "link": "https://www.hdblog.it/google/articoli/n656949/google-fonti-preferite-italia-ricera-notizie-come/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T17:36:00+00:00"
+    },
+    {
+      "titolo": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "descrizione": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "fonte": "WIRED",
+      "data": "2026-04-30T17:30:39+00:00"
+    },
+    {
+      "titolo": "Stellantis, la cura Filosa funziona: primo trimestre di solida crescita",
+      "descrizione": "Ricavi a 38,1 miliardi, utile netto di 377 milioni e volumi in crescita del 12%: il primo trimestre 2026 di Stellantis è molto positivo",
+      "link": "https://www.hdmotori.it/stellantis-la-cura-filosa-funziona-primo-trimestre-di-solida-crescita/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T17:00:00+00:00"
+    },
+    {
+      "titolo": "Servizi AI di Google: segnalazione AGCOM alla Commissione UE",
+      "descrizione": "In seguito alla richiesta ricevuta dalla FIEG, AGCOM ha inviato una segnalazione alla Commissione europea sui servizi AI Overview e AI Mode di Google. The post Servizi AI di Google: segnalazione AGCOM alla Commissione UE",
+      "link": "https://www.punto-informatico.it/servizi-ai-google-segnalazione-agcom-commissione-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T16:50:33+00:00"
+    },
+    {
+      "titolo": "Mark Zuckerberg annuncia agenti AI personali e aziendali",
+      "descrizione": "Meta costruisce due tipi di agenti AI, personale per gli utenti, e aziendale per gli imprenditori, che lavorano giorno e notte. The post Mark Zuckerberg annuncia agenti AI personali e aziendali appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/mark-zuckerberg-annuncia-agenti-ai-personali-aziendali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T16:47:06+00:00"
+    },
+    {
+      "titolo": "FIAT Grizzly avvistata in strada: ecco come appare nel traffico",
+      "descrizione": "Fiat punta a rendere il SUV uno dei bestseller della gamma. La Grizzly sta per arrivare a prezzi interessanti",
+      "link": "https://www.hdmotori.it/fiat-grizzly-avvistata-versione-definitiva/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T16:30:27+00:00"
+    },
+    {
+      "titolo": "Tesla Semi, al via la produzione in serie del camion elettrico di Musk",
+      "descrizione": "Tesla Semi, 1.072 CV e ricarica rapida in 30 minuti con autonomia fino a 800 km. Dalle promesse del 2017 alla produzione in serie in Nevada",
+      "link": "https://www.hdmotori.it/tesla-semi-al-via-la-produzione-in-serie-del-camion-elettrico-di-musk/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T16:00:05+00:00"
+    },
+    {
+      "titolo": "Netflix cambia l'app per smartphone: arrivano le Clip in stile TikTok",
+      "descrizione": "Un feed verticale per scoprire nuovi contenuti: come funziona.",
+      "link": "https://www.hdblog.it/android/articoli/n656933/netflix-app-smartphone-aggiornamento-clip-feed/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T15:45:00+00:00"
+    },
+    {
+      "titolo": "Instagram penalizza foto e caroselli non originali",
+      "descrizione": "Meta ha annunciato un aggiornamento delle linee guida di Instagram relative alla penalizzazione degli account che pubblicano foto e caroselli degli altri. The post Instagram penalizza foto e caroselli non originali appea",
+      "link": "https://www.punto-informatico.it/instagram-penalizza-foto-caroselli-non-originali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T15:39:49+00:00"
+    },
+    {
+      "titolo": "Crucial Taiwan undersea cable severed by old shipwreck — backup microwave communications activated to keep population connected",
+      "descrizione": "Bad weather has caused a shipwreck to shift from its original position on the seafloor, severing a crucial undersea link between Dongyin and Beigan islands. These two islands are strategically located near the Chinese co",
+      "link": "https://www.tomshardware.com/networking/crucial-taiwan-undersea-cable-severed-by-old-shipwreck-backup-microwave-communications-activated-to-keep-population-connected",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-04-30T15:33:27+00:00"
+    },
+    {
+      "titolo": "Skoda è diventato il secondo brand auto più venduto in Europa",
+      "descrizione": "225.000 auto consegnate in Europa nei primi tre mesi dell'anno, con una crescita del 17%. È il miglior trimestre della storia del marchio",
+      "link": "https://www.hdmotori.it/skoda-vendite-primo-trimestre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T15:30:48+00:00"
+    },
+    {
+      "titolo": "3 trucchi di produttività non convenzionali suggeriti dall’AI",
+      "descrizione": "Ecco sette trucchi di produttività fuori dal comune suggeriti dall'AI, come applicarli e perché la psicologia spiega il loro successo. The post 3 trucchi di produttività non convenzionali suggeriti dall’AI appeared first",
+      "link": "https://www.punto-informatico.it/3-trucchi-produttivita-non-convenzionali-suggeriti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T15:30:19+00:00"
+    },
+    {
+      "titolo": "Google, da oggi si possono selezionare le fonti di informazione preferite",
+      "descrizione": "Google allarga il servizio “Fonti preferite” a nuovi Paesi tra cui l’Italia. Lanciata l’anno scorso negli Stati Uniti e altri mercati la funzionalità consente all’utente di selezionare le testate che...",
+      "link": "https://www.ilsole24ore.com/art/google-oggi-si-possono-selezionare-fonti-informazione-preferite-AIyNEhnC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-30T15:14:00+00:00"
+    },
+    {
+      "titolo": "OnePlus Pad 4 ufficiale: processore aggiornato e display più luminoso",
+      "descrizione": "Il tablet sarà disponibile a partire dal 5 maggio in India.",
+      "link": "https://www.hdblog.it/tablet/articoli/n656926/oneplus-pad-4-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-04-30T15:10:00+00:00"
+    },
+    {
+      "titolo": "Le Fonti Preferite su Google arrivano in Italia: come funzionano",
+      "descrizione": "Al via la distribuzione globale per le Fonti Preferite su Google: una mano tesa verso gli editori nell'era dell'AI, ma non può bastare. The post Le Fonti Preferite su Google arrivano in Italia: come funzionano appeared f",
+      "link": "https://www.punto-informatico.it/fonti-preferite-google-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T14:54:34+00:00"
+    },
+    {
+      "titolo": "Hosting economico con dominio gratis? C’è Hostinger da soli 2,99€ al mese",
+      "descrizione": "Hostinger propone piani a partire da 2,99 euro al mese con 3 mesi gratuiti e tutto incluso: risparmi fino al 79%. The post Hosting economico con dominio gratis? C’è Hostinger da soli 2,99€ al mese appeared first on Punto",
+      "link": "https://www.punto-informatico.it/hosting-economico-con-dominio-gratis-ce-hostinger-da-soli-299e-al-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-04-30T14:40:08+00:00"
+    },
     {
       "titolo": "Saros è disponibile da oggi: quattro chiacchiere con Housemarque",
       "descrizione": "In occasione del lancio di Saros su PS5, vi raccontiamo qualcosa del team che lo ha creato",
@@ -23,39 +142,11 @@
       "data": "2026-04-30T13:40:00+00:00"
     },
     {
-      "titolo": "Jeep Avenger, il B-SUV campione di vendite cambia i connotati",
-      "descrizione": "Jeep Avenger, il B-SUV più amato dagli italiani si è mostrato per la prima volta con il suo nuovo look in Brasile. Scopriamo le novità",
-      "link": "https://www.hdmotori.it/jeep-avenger-restyling-suv/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T13:30:11+00:00"
-    },
-    {
       "titolo": "GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos",
       "descrizione": "Sta per arrivare la risposta di OpenAI a Claude Mythos di Anthropic: la variante Cyber dell'ultimo modello GPT, con accesso limitato. The post GPT-5.5-Cyber è la risposta di OpenAI a Claude Mythos appeared first on Punto",
       "link": "https://www.punto-informatico.it/gpt-5-5-cyber-risposta-openai-claude-mythos/",
       "fonte": "Punto Informatico",
       "data": "2026-04-30T13:12:55+00:00"
-    },
-    {
-      "titolo": "FIAT 500 Hybrid: Mirafiori riparte, ma i numeri sono al di sotto delle aspettative",
-      "descrizione": "I vertici del Gruppo Stellantis si aspettavano grandi progressi con la FIAT 500 Hybrid. Il tanto atteso exploit per ora non si è verificato",
-      "link": "https://www.hdmotori.it/fiat-500-hybrid-mirafiori-numeri/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T13:00:43+00:00"
-    },
-    {
-      "titolo": "RailEvo, debutta il primo taxi ferroviario al mondo e lo fa in Italia",
-      "descrizione": "Una startup italiana ha presentato il prototipo di un piccolo veicolo elettrico a guida autonoma, prenotabile via app, che viaggia sui binari",
-      "link": "https://www.hdmotori.it/railevo-taxi-ferroviario-prototipo-trentino/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T12:30:34+00:00"
-    },
-    {
-      "titolo": "Samsung lancia Spatial Signage 32”, il display 3D senza occhiali per aziende",
-      "descrizione": "Il nuovo Samsung Spatial Signage SMHX da 32 pollici mostra prodotti in 3D con rotazione a 360 gradi, formato verticale Full HD e installazione semplificata",
-      "link": "https://www.hdblog.it/samsung/articoli/n656897/samsung-display-3d-aziende-32-pollici/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T12:10:00+00:00"
     },
     {
       "titolo": "Tennessee bans crypto ATMs that have become 'payment portal of choice for scammers' — second state to restrict machines after Indiana",
@@ -65,13 +156,6 @@
       "data": "2026-04-30T12:01:14+00:00"
     },
     {
-      "titolo": "Scadono le accise ed Eni taglia il prezzo del diesel di 7,5 centesimi",
-      "descrizione": "Il gruppo energetico va oltre le indicazioni del MIMIT. Anche IP, Q8 e Tamoil ritoccano i listini. Oggi il CdM decide sulla proroga.",
-      "link": "https://www.hdmotori.it/eni-taglio-prezzo-diesel/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T12:00:12+00:00"
-    },
-    {
       "titolo": "Lidl Points da oggi nell’app: come funzionano e a cosa servono",
       "descrizione": "La catena di supermercati lancia i Lidl Points: sono disponibili a partire da oggi nell'app, scopri come funzionano e a cosa servono. The post Lidl Points da oggi nell’app: come funzionano e a cosa servono appeared first",
       "link": "https://www.punto-informatico.it/lidl-points/",
@@ -79,95 +163,11 @@
       "data": "2026-04-30T11:48:21+00:00"
     },
     {
-      "titolo": "Moto G37 ufficiale, c'è anche la variante Power da 7000mAh | PREZZI",
-      "descrizione": "Disponibili da oggi in Italia i due nuovi smartphone.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656890/motorola-g37-power-ufficiali-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T11:35:00+00:00"
-    },
-    {
       "titolo": "Claude Mythos: Casa Bianca vuole la priorità di accesso?",
       "descrizione": "La Casa Bianca non vuole che altre aziende e organizzazioni possano accedere al modello Claude Mythos per motivi di sicurezza e interesse personale. The post Claude Mythos: Casa Bianca vuole la priorità di accesso? appea",
       "link": "https://www.punto-informatico.it/claude-mythos-casa-bianca-vuole-priorita-accesso/",
       "fonte": "Punto Informatico",
       "data": "2026-04-30T11:12:09+00:00"
-    },
-    {
-      "titolo": "Vivo V70 un mese dopo: primi aggiornamenti e test in viaggio | VIDEO",
-      "descrizione": "Abbiamo provato il Vivo V70 per un mese, portandolo in viaggio e scattando tantissime foto. Un medio gamma può sostituire un top?",
-      "link": "https://www.hdblog.it/smartphone/speciali/n656463/vivo-v70-un-mese-dopo/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T11:01:00+00:00"
-    },
-    {
-      "titolo": "Luce freno lampeggiante, dal 7 luglio cambia l’obbligo per le auto",
-      "descrizione": "Dal 2026 le nuove auto devono segnalare le frenate d'emergenza con le luci di stop in modalità intermittente",
-      "link": "https://www.hdmotori.it/luce-freno-lampeggiante-auto-obbligatoria-luglio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-04-30T11:00:40+00:00"
-    },
-    {
-      "titolo": "Homebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico — wireless dongle delivers adaptive triggers and haptic feedback to gamers",
-      "descrizione": "A PC gaming enthusiast has shared a video demo of the new DS5Dongle which unlocks the full gamut of Sony DualSense controller features for Windows users who prefer wireless.",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/homebrew-playstation-dualsense-controller-adapter-for-pc-can-be-built-for-just-usd20-with-a-raspberry-pi-pico-wireless-dongle-delivers-adaptive-triggers-and-haptic-feedback-to-gamers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-30T10:57:49+00:00"
-    },
-    {
-      "titolo": "OneNote Copilot legge tabelle e immagini oltre al testo",
-      "descrizione": "Copilot su OneNote ora comprende tabelle, immagini e tag per risposte più complete. Il cambiamento è automatico e lato server. The post OneNote Copilot legge tabelle e immagini oltre al testo appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/onenote-copilot-legge-tabelle-immagini-oltre-testo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T10:55:19+00:00"
-    },
-    {
-      "titolo": "Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates — Chinese chipmakers continue to leech market share from Nvidia",
-      "descrizione": "The results come as Chinese chipmakers continue to absorb market share from Nvidia.",
-      "link": "https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-30T10:30:00+00:00"
-    },
-    {
-      "titolo": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete",
-      "descrizione": "Housing construction projects in Texas are facing delays of up to two months as contractors are having a harder time finding and keeping electricians. Data center projects are pricing out housing projects from the labor",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/exploding-ai-data-center-build-outs-delay-texas-housing-projects-data-centers-high-demand-for-electricians-prices-out-contractors-homes-now-take-two-months-longer-to-complete",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-04-30T10:00:00+00:00"
-    },
-    {
-      "titolo": "Prime Day 2026 anticipato da Amazon: c’è la conferma ufficiale",
-      "descrizione": "Amazon ha comunicato che l'evento Prime Day 2026 andrà in scena nel mese di giugno, in anticipo rispetto a quanto visto negli anni scorsi. The post Prime Day 2026 anticipato da Amazon: c’è la conferma ufficiale appeared",
-      "link": "https://www.punto-informatico.it/prime-day-2026-anticipato-amazon-conferma-ufficiale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T09:41:56+00:00"
-    },
-    {
-      "titolo": "Sconto sui costi fissi e tariffe luce e gas bloccate: l’occasione di primavera firmata Engie",
-      "descrizione": "Con la Promo Special Days di Primavera puoi avere migliori condizioni per bloccare il prezzo di luce e gas con Engie. The post Sconto sui costi fissi e tariffe luce e gas bloccate: l’occasione di primavera firmata Engie",
-      "link": "https://www.punto-informatico.it/sconto-sui-costi-fissi-e-tariffe-luce-e-gas-bloccate-loccasione-di-primavera-firmata-engie/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T09:08:09+00:00"
-    },
-    {
-      "titolo": "Fino a -700€ sui piani a vita di pCloud: cloud storage per sempre",
-      "descrizione": "Risparmia ora e non pensarci mai più: i piani a vita per lo storage su pCloud sono in forte sconto, non lasciarti sfuggire l'occasione. The post Fino a -700€ sui piani a vita di pCloud: cloud storage per sempre appeared",
-      "link": "https://www.punto-informatico.it/sconto-piani-vita-pcloud-cloud-storage-sempre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T08:40:38+00:00"
-    },
-    {
-      "titolo": "I migliori Smart Tag economici in offerta su Amazon proprio oggi",
-      "descrizione": "Dai un'occhiata ai migliori smart tag economici in offerta speciale su Amazon proprio oggi a un prezzo così incredibile da essere best buy. The post I migliori Smart Tag economici in offerta su Amazon proprio oggi appear",
-      "link": "https://www.punto-informatico.it/i-migliori-smart-tag-economici-in-offerta-su-amazon-proprio-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T08:34:19+00:00"
-    },
-    {
-      "titolo": "DJI Osmo Action 4 con accessori inclusi in offerta a tempo su Amazon",
-      "descrizione": "La DJI Osmo Action 4 garantisce immagini spettacolari in qualsiasi condizione, anche sott'acqua, ed è in offerta a tempo su Amazon. The post DJI Osmo Action 4 con accessori inclusi in offerta a tempo su Amazon appeared f",
-      "link": "https://www.punto-informatico.it/dji-osmo-action-4-con-accessori-inclusi-in-offerta-tempo-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-04-30T07:28:05+00:00"
     }
   ]
 }
