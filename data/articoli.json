@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-01T13:55:32.912628+00:00",
+  "last_updated": "2026-05-01T19:40:24.552783+00:00",
   "items": [
+    {
+      "titolo": "Canonical under sustained DDoS attack as Ubuntu 26 releases — Iranian group 313 Team claims responsibility",
+      "descrizione": "Canonical under sustained DDoS attack as Ubuntu 26 releases",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canonical-under-sustained-ddos-attack-as-ubuntu-26-releases-iranian-group-313-team-claims-responsibility",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-01T19:15:21+00:00"
+    },
+    {
+      "titolo": "The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled",
+      "descrizione": "Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned.",
+      "link": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
+      "fonte": "WIRED",
+      "data": "2026-05-01T16:49:22+00:00"
+    },
+    {
+      "titolo": "Accordo tra Pentagono, Microsoft, NVIDIA, AWS e Reflection",
+      "descrizione": "Il Dipartimento della Guerra userà i modelli di OpenAI, SpaceX, Google, Microsoft, NVIDIA, AWS e Reflection per attività militari classificate. The post Accordo tra Pentagono, Microsoft, NVIDIA, AWS e Reflection appeared",
+      "link": "https://www.punto-informatico.it/accordo-pentagono-microsoft-nvidia-aws-reflection/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-01T16:11:01+00:00"
+    },
+    {
+      "titolo": "The Pentagon announces AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, and more — LLMs to be deployed on classified Department of War networks ‘for lawful operational use’",
+      "descrizione": "The U.S. Department of War announced agreements with seven AI providers, allowing it to deploy multiple LLMs for its use and avoiding lock up with a single vendor.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-01T16:00:45+00:00"
+    },
+    {
+      "titolo": "Virgin Galactic ci riprova: ecco la nuova navicella spaziale",
+      "descrizione": "Virgin Galactic svela il nuovo spazioplano mentre le riserve di denaro crollano drasticamente.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657010/virgin-galactic-nuovo-veicolo-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-01T15:55:00+00:00"
+    },
+    {
+      "titolo": "OpenAI migliora la sicurezza degli account con Yubico",
+      "descrizione": "OpenAI ha annunciato impostazioni di sicurezza più avanzate per proteggere gli account e una collaborazione con Yubico per la vendita di due YubiKey. The post OpenAI migliora la sicurezza degli account con Yubico appeare",
+      "link": "https://www.punto-informatico.it/openai-migliora-sicurezza-account-yubico/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-01T15:04:09+00:00"
+    },
+    {
+      "titolo": "Alla 24 ore del Nürburgring c'è anche un Dacia Logan. E ha una storia incredibile",
+      "descrizione": "Un team di appassionati, due incidenti gravi, un'intera ricostruzione fatta in garage. E ora di nuovo in pista.",
+      "link": "https://www.hdmotori.it/dacia-logan-24-ore-nurburgring-storia-emozionante/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-01T15:00:04+00:00"
+    },
+    {
+      "titolo": "Sonoff lancia NSPanel Pro Gen 2 il nuovo display smart con Matter",
+      "descrizione": "Sonoff lancia NSPanel Pro Gen 2: display touchscreen da 3,95 pollici con supporto Matter e ZigBee.",
+      "link": "https://www.hdblog.it/domotica/articoli/n657001/sonoff-nspanel-pro-gen-2-matter/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-01T14:25:00+00:00"
+    },
+    {
+      "titolo": "Osimhen, contenzioso risolto con Mercedes: rate versate in un’unica soluzione",
+      "descrizione": "Dopo la denuncia pervenuta da Milano l’attuale attaccante del Galatasaray, Victor Osimhen, ha pagato Mercedes",
+      "link": "https://www.hdmotori.it/osimhen-contenzioso-mercedes-rate/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-01T14:00:20+00:00"
+    },
     {
       "titolo": "Huawei could seize China’s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo — Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030",
       "descrizione": "Huawei is reportedly on track to become China’s top AI chip supplier as Nvidia faces export restrictions and customs delays. Analysts forecast China’s domestic AI chip market could hit $67 billion by 2030.",
@@ -105,69 +168,6 @@
       "link": "https://www.hdblog.it/sicurezza/articoli/n656965/openai-cyber-access-restrictions/",
       "fonte": "HDblog.it",
       "data": "2026-05-01T10:25:00+00:00"
-    },
-    {
-      "titolo": "Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles — system part of $17.9 billion Golden Dome missile-defense ini",
-      "descrizione": "New Pentagon FY2027 budget documents reveal the Joint Laser Weapon System, a containerized 300kW+ laser weapon designed to intercept cruise missiles as part of the US military’s Golden Dome missile-defense initiative.",
-      "link": "https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-01T10:00:00+00:00"
-    },
-    {
-      "titolo": "Intel rilascia nuovi driver Wi-Fi e Bluetooth per Windows 11 e 10",
-      "descrizione": "Migliorano prestazioni e stabilità per tanti hardware compatibili",
-      "link": "https://www.hdblog.it/intel/articoli/n656974/intel-nuovi-driver-wifi-bluetooth-windows-11-10/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T09:25:00+00:00"
-    },
-    {
-      "titolo": "ADAS sempre più cari. Perché è colpa (anche) dell'AI",
-      "descrizione": "L’aumento della domanda di chip per i data center AI sta sottraendo memoria DRAM all'automotive. BYD è il primo costruttore ad ammettere i rincari.",
-      "link": "https://www.hdmotori.it/adas-piu-cari-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T09:00:43+00:00"
-    },
-    {
-      "titolo": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
-      "descrizione": "YouTube’s search and recommendation algorithms are driving children to Russian-language content even when they seek out videos in Kyrgyz, creating a cultural shift that concerns some parents.",
-      "link": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
-      "fonte": "WIRED",
-      "data": "2026-05-01T09:00:00+00:00"
-    },
-    {
-      "titolo": "Anthropic punta a 900 miliardi: il sorpasso su OpenAI è vicino",
-      "descrizione": "Anthropic punta a una valutazione di 900 miliardi di dollari per superare OpenAI entro due settimane.",
-      "link": "https://www.hdblog.it/mercato/articoli/n656966/anthropic-valutazione-900-miliardi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T08:55:00+00:00"
-    },
-    {
-      "titolo": "Sony lancia la nuova soundbar HT-B500: Dolby Atmos, configurazione 3.1 e DTS:X",
-      "descrizione": "Si parte dalla Cina, con un prezzo di circa 290 euro",
-      "link": "https://www.hdblog.it/sony/articoli/n656970/sony-ht-b500-nuova-soundbar-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T08:40:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 si aggiorna: arriva la modalità Xbox e molto altro",
-      "descrizione": "Microsoft lancia KB5083631: arrivano modalità Xbox, nuovi file supportati e feedback aptico su PC.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n656959/windows-11-update-xbox-mode/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T08:25:00+00:00"
-    },
-    {
-      "titolo": "Meta ammette che i suoi social stanno perdendo utenti",
-      "descrizione": "È successo tutto in questi primi mesi dell'anno",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n656908/meta-social-perdono-utenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T08:10:00+00:00"
-    },
-    {
-      "titolo": "Con pCloud: fino a 10 TB di spazio cloud a vita senza abbonamenti",
-      "descrizione": "Le offerte di Pcloud mettono a disposizione piani cloud a vita fino a 10 TB in super sconto. Ecco i vantaggi dello storage senza abbonamenti. The post Con pCloud: fino a 10 TB di spazio cloud a vita senza abbonamenti app",
-      "link": "https://www.punto-informatico.it/con-pcloud-fino-a-10-tb-di-spazio-cloud-a-vita-senza-abbonamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-01T08:04:04+00:00"
     }
   ]
 }
