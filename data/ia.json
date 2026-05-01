@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-05-01T08:25:23.697144+00:00",
+  "last_updated": "2026-05-01T13:55:35.901200+00:00",
   "items": [
     {
-      "titolo": "Musk ammette che xAI ha usato i modelli di OpenAI per Grok",
-      "descrizione": "Musk fa causa a OpenAI per ragioni etiche e nel frattempo ammette che xAI ha usato i modelli di OpenAI per migliorare Grok. The post Musk ammette che xAI ha usato i modelli di OpenAI per Grok appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/musk-ammette-xai-ha-usato-modelli-openai-grok/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-01T08:20:41+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Copilot si evolve: arrivano i modelli di Anthropic dentro Word",
-      "descrizione": "Anthropic arriva su Microsoft Word tramite Copilot per migliorare la gestione dei documenti.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n656960/microsoft-word-anthropic-copilot-update/",
+      "titolo": "Ho provato RoboUp Raccoon 2 SE, un robot tagliaerba senza filo a meno di 500 euro",
+      "descrizione": "Quello dei robot tagliaerba è uno dei segmenti più vivaci dell’outdoor tech e ngli ultimi anni ha vissuto una trasformazione rapidissima: se fino a poco tempo fa il filo...",
+      "link": "https://www.hdblog.it/domotica/recensioni/n655806/ho-provato-roboup-raccoon-2-se-un-robot-tagliaerba-senza-filo-a-meno-di-500-euro/",
       "fonte": "HDblog.it",
-      "data": "2026-05-01T07:25:00+00:00",
-      "modello": "copilot"
+      "data": "2026-05-01T11:30:00+00:00",
+      "modello": "chatgpt"
     },
     {
       "titolo": "Google aggiorna Gemini: anche in Italia si ricorderà della tue preferenze",
@@ -26,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Copilot si evolve: arrivano i modelli di Anthropic dentro Word",
-      "descrizione": "Anthropic arriva su Microsoft Word tramite Copilot per migliorare la gestione dei documenti.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n656960/microsoft-word-anthropic-copilot-update/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T07:25:00+00:00",
+      "titolo": "NSA usa Claude Mythos per trovare bug nei software Microsoft",
+      "descrizione": "La NSA utilizzerebbe il modello Claude Mythos di Anthropic per cercare vulnerabilità nei software di Microsoft e in quelli di altre aziende. The post NSA usa Claude Mythos per trovare bug nei software Microsoft appeared",
+      "link": "https://www.punto-informatico.it/nsa-claude-mythos-bug-software-microsoft/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-01T13:33:21+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
-      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
-      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-24T14:22:00+00:00",
+      "titolo": "DeepSeek, Mistral e NOVA AI: trasparenza sulle allucinazioni",
+      "descrizione": "L'autorità antitrust ha accettato gli impegni di DeepSeek, Mistral AI e Scaleup per garantire una maggiore trasparenza sul rischio allucinazioni. The post DeepSeek, Mistral e NOVA AI: trasparenza sulle allucinazioni appe",
+      "link": "https://www.punto-informatico.it/deepseek-mistral-nova-ai-trasparenza-allucinazioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-01T09:53:07+00:00",
       "modello": "altri"
     }
   ]
