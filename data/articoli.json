@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-05-02T13:50:03.240347+00:00",
+  "last_updated": "2026-05-02T19:18:57.824286+00:00",
   "items": [
+    {
+      "titolo": "Un razzo Falcon 9 colpirà la Luna il 5 agosto",
+      "descrizione": "Lo stadio superiore del razzo Falcon 9 di SpaceX, lanciato il 15 gennaio 2025, colpirà la Luna il 5 agosto alla velocità di circa 8.700 Km/h. The post Un razzo Falcon 9 colpirà la Luna il 5 agosto appeared first on Punto",
+      "link": "https://www.punto-informatico.it/razzo-falcon-9-colpira-luna-5-agosto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-02T17:00:46+00:00"
+    },
+    {
+      "titolo": "This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover — equipped with a 5-inch HD display and M.2 NVMe SSD slot",
+      "descrizione": "The Wokyis M5 Retro Dock Station will add USB ports, memory card readers, and an external SSD enclosure to your Mac mini while giving you a small '80s Macintosh on your desk.",
+      "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-02T16:57:48+00:00"
+    },
+    {
+      "titolo": "Cyberbullismo: Parlamento UE chiede sanzioni alle piattaforme",
+      "descrizione": "Il Parlamento europeo ha chiesto alla Commissione misure più efficaci per contrastare il cyberbullismo, tra cui sanzioni per le piattaforme online. The post Cyberbullismo: Parlamento UE chiede sanzioni alle piattaforme a",
+      "link": "https://www.punto-informatico.it/cyberbullismo-parlamento-ue-chiede-sanzioni-piattaforme/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-02T14:36:18+00:00"
+    },
+    {
+      "titolo": "Retailer selling broken RTX 5090 GPUs for as low as $1,760 — GPUs were damaged during transport, but include all components on the PCB",
+      "descrizione": "A French retailer is willing to sell you defective RTX 5090s for half of what they cost new, on the condition that you'll be able to repair or recycle them. You can either get a random 5090 variant, depending on stock, f",
+      "link": "https://www.tomshardware.com/pc-components/gpus/retailer-selling-broken-rtx-5090-gpus-for-as-low-as-usd1-760-gpus-were-damaged-during-transport-but-include-all-components-on-the-pcb",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-02T14:20:36+00:00"
+    },
+    {
+      "titolo": "Enthusiast creates Peltier thermoelectric cooler from scratch — impressive rig uses two 360mm AIOs, homemade DC controllers, and a custom loop",
+      "descrizione": "A YouTuber made his own Peltier liquid cooling system to see if GPUs benefit from thermoelectric cooling. Sadly, the cooler was barely capable of cooling an RTX 3070 below ambient temperatures despite consuming over 300",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-creates-peltier-thermoelectric-cooler-from-scratch-impressive-rig-uses-two-360mm-aios-homemade-dc-controllers-and-a-custom-loop",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-02T14:00:00+00:00"
+    },
     {
       "titolo": "Addio ad Alex Zanardi, simbolo di resilienza e leggenda dello sport",
       "descrizione": "Scompare a 59 anni il campione italiano: il ricordo commosso di BMW e il bilancio di una vita straordinaria tra corse, sfide e rinascite",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/arrivano-pannelli-solari-trasformano-pioggia-energia/",
       "fonte": "Punto Informatico",
       "data": "2026-05-02T07:00:44+00:00"
-    },
-    {
-      "titolo": "Columbia Promo Codes: 15% Off | May2026",
-      "descrizione": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-05-02T05:00:00+00:00"
-    },
-    {
-      "titolo": "30% VistaPrint Coupon & Promo Codes | May 2026",
-      "descrizione": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "link": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "fonte": "WIRED",
-      "data": "2026-05-02T05:00:00+00:00"
-    },
-    {
-      "titolo": "Canonical under sustained DDoS attack as Ubuntu 26 releases — Iranian group 313 Team claims responsibility",
-      "descrizione": "Canonical under sustained DDoS attack as Ubuntu 26 releases",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canonical-under-sustained-ddos-attack-as-ubuntu-26-releases-iranian-group-313-team-claims-responsibility",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-01T19:15:21+00:00"
-    },
-    {
-      "titolo": "Google Pixel 10a in offerta a 414€ su eBay in quattro colorazioni diverse",
-      "descrizione": "Fino a 7 anni di aggiornamenti, comparto fotografico superiore alla media e ottima autonomia.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n657023/google-pixel-10a-128-gb-offerta-psprapr26/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-01T18:37:00+00:00"
-    },
-    {
-      "titolo": "The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled",
-      "descrizione": "Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned.",
-      "link": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
-      "fonte": "WIRED",
-      "data": "2026-05-01T16:49:22+00:00"
     }
   ]
 }
