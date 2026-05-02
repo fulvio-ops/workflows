@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-02T08:00:25.554278+00:00",
+  "last_updated": "2026-05-02T13:50:07.245570+00:00",
   "items": [
     {
-      "titolo": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-      "descrizione": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.",
-      "link": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-      "fonte": "WIRED",
-      "data": "2026-05-01T21:46:46+00:00",
+      "titolo": "Sam Altman dice che OpenAI non vuole sostituirci con l’AI…",
+      "descrizione": "OpenAI dice di non voler sostituire i lavoratori con l'AI. I fatti degli ultimi dodici mesi raccontano una storia diversa. The post Sam Altman dice che OpenAI non vuole sostituirci con l’AI… appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/sam-altman-dice-openai-non-vuole-sostituirci-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-02T09:44:13+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "NSA usa Claude Mythos per trovare bug nei software Microsoft",
-      "descrizione": "La NSA utilizzerebbe il modello Claude Mythos di Anthropic per cercare vulnerabilità nei software di Microsoft e in quelli di altre aziende. The post NSA usa Claude Mythos per trovare bug nei software Microsoft appeared",
-      "link": "https://www.punto-informatico.it/nsa-claude-mythos-bug-software-microsoft/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-01T13:33:21+00:00",
+      "titolo": "Disneyland Now Uses Face Recognition on Visitors",
+      "descrizione": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "fonte": "WIRED",
+      "data": "2026-05-02T10:30:00+00:00",
       "modello": "claude"
     },
     {
