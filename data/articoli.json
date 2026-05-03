@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-05-03T13:50:18.557898+00:00",
+  "last_updated": "2026-05-03T19:28:59.054016+00:00",
   "items": [
+    {
+      "titolo": "Dreamina AI: ecco come utilizzare la suite AI senza limitazioni dall’Italia",
+      "descrizione": "Dreamina AI è accessibile dall'Italia senza limitazioni: per sfruttare appieno la suite AI è sufficiente ricorrere a una VPN, ecco i dettagli. The post Dreamina AI: ecco come utilizzare la suite AI senza limitazioni dall",
+      "link": "https://www.punto-informatico.it/dreamina-ai-ecco-come-utilizzare-la-suite-ai-senza-limitazioni-dallitalia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-03T17:30:24+00:00"
+    },
+    {
+      "titolo": "Enthusiast builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines",
+      "descrizione": "A Chinese TechTuber scaled a tower PC large enough for a human to work and play in. It has air conditioning, too.",
+      "link": "https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-03T15:24:10+00:00"
+    },
+    {
+      "titolo": "Cyberattacco di Salt Typhoon contro Sistemi Informativi",
+      "descrizione": "Sistemi Informativi (società italiana di Roma del gruppo IBM) è stata colpita da un attacco informatico, probabilmente dal gruppo cinese Salt Typhoon. The post Cyberattacco di Salt Typhoon contro Sistemi Informativi appe",
+      "link": "https://www.punto-informatico.it/cyberattacco-salt-typhoon-contro-sistemi-informativi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-03T14:56:48+00:00"
+    },
+    {
+      "titolo": "Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky",
+      "descrizione": "Nvidia is apparently discontinuing some older embedded platforms earlier than anticipated, but this is mostly about market reality finally catching up, not abrupt discontinuation.",
+      "link": "https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-03T14:53:08+00:00"
+    },
+    {
+      "titolo": "I setup a $4 router reboot timer, and it's made my internet reliably faster",
+      "descrizione": "I've tried so many methods to reboot my router, but the best solution costs barely anything.",
+      "link": "https://www.zdnet.com/article/router-rebooter-review/",
+      "fonte": "Latest news",
+      "data": "2026-05-03T14:00:39+00:00"
+    },
     {
       "titolo": "Falsi investimenti in criptovalute: smantellati call center",
       "descrizione": "Al termine di un'operazione guidata da Europol, le autorità di Austria e Albania hanno smantellato un'organizzazione esperta in truffe con criptovalute. The post Falsi investimenti in criptovalute: smantellati call cente",
@@ -133,41 +168,6 @@
       "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-02T16:57:48+00:00"
-    },
-    {
-      "titolo": "Cyberbullismo: Parlamento UE chiede sanzioni alle piattaforme",
-      "descrizione": "Il Parlamento europeo ha chiesto alla Commissione misure più efficaci per contrastare il cyberbullismo, tra cui sanzioni per le piattaforme online. The post Cyberbullismo: Parlamento UE chiede sanzioni alle piattaforme a",
-      "link": "https://www.punto-informatico.it/cyberbullismo-parlamento-ue-chiede-sanzioni-piattaforme/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-02T14:36:18+00:00"
-    },
-    {
-      "titolo": "Retailer selling broken RTX 5090 GPUs for as low as $1,760 — GPUs were damaged during transport, but include all components on the PCB",
-      "descrizione": "A French retailer is willing to sell you defective RTX 5090s for half of what they cost new, on the condition that you'll be able to repair or recycle them. You can either get a random 5090 variant, depending on stock, f",
-      "link": "https://www.tomshardware.com/pc-components/gpus/retailer-selling-broken-rtx-5090-gpus-for-as-low-as-usd1-760-gpus-were-damaged-during-transport-but-include-all-components-on-the-pcb",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-02T14:20:36+00:00"
-    },
-    {
-      "titolo": "Enthusiast creates Peltier thermoelectric cooler from scratch — impressive rig uses two 360mm AIOs, homemade DC controllers, and a custom loop",
-      "descrizione": "A YouTuber made his own Peltier liquid cooling system to see if GPUs benefit from thermoelectric cooling. Sadly, the cooler was barely capable of cooling an RTX 3070 below ambient temperatures despite consuming over 300",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-creates-peltier-thermoelectric-cooler-from-scratch-impressive-rig-uses-two-360mm-aios-homemade-dc-controllers-and-a-custom-loop",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-02T14:00:00+00:00"
-    },
-    {
-      "titolo": "Addio ad Alex Zanardi, simbolo di resilienza e leggenda dello sport",
-      "descrizione": "Scompare a 59 anni il campione italiano: il ricordo commosso di BMW e il bilancio di una vita straordinaria tra corse, sfide e rinascite",
-      "link": "https://www.hdmotori.it/addio-ad-alex-zanardi-simbolo-di-resilienza-e-leggenda-dello-sport/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-02T12:43:39+00:00"
-    },
-    {
-      "titolo": "iPhone del ventennale: rivoluzione nel design, ma non nel nome",
-      "descrizione": "A differenza di iPhone X, non dovrebbe essere trattato come un \"modello speciale\".",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657046/iphone-20-2027-pro-design-schermo-curvo-nome-rumor/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-02T11:35:00+00:00"
     }
   ]
 }
