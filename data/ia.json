@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T08:16:24.486746+00:00",
+  "last_updated": "2026-05-03T13:50:22.806225+00:00",
   "items": [
     {
       "titolo": "Sam Altman dice che OpenAI non vuole sostituirci con l’AI…",
@@ -18,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Disneyland Now Uses Face Recognition on Visitors",
-      "descrizione": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "fonte": "WIRED",
-      "data": "2026-05-02T10:30:00+00:00",
+      "titolo": "Anthropic in early talks to buy DRAM-less AI inference chips from UK startup — Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch",
+      "descrizione": "Anthropic has reportedly held early discussions with London-based chip startup Fractile about purchasing the company's inference accelerators.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-03T12:51:54+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "DeepSeek, Mistral e NOVA AI: trasparenza sulle allucinazioni",
-      "descrizione": "L'autorità antitrust ha accettato gli impegni di DeepSeek, Mistral AI e Scaleup per garantire una maggiore trasparenza sul rischio allucinazioni. The post DeepSeek, Mistral e NOVA AI: trasparenza sulle allucinazioni appe",
-      "link": "https://www.punto-informatico.it/deepseek-mistral-nova-ai-trasparenza-allucinazioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-01T09:53:07+00:00",
+      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
+      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
+      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-24T14:22:00+00:00",
       "modello": "altri"
     }
   ]
