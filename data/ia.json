@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-04T14:32:25.971123+00:00",
+  "last_updated": "2026-05-04T19:56:20.901394+00:00",
   "items": [
     {
-      "titolo": "Grok sarà il terzo chatbot su CarPlay: tutto pronto, integrazione imminente",
-      "descrizione": "Dopo l'arrivo di ChatGPT e Perplexity, CarPlay sta per accogliere anche l'intelligenza artificiale di Grok",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657165/grok-terzo-chatbot-carplay-integrazione-imminente/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-04T14:05:00+00:00",
+      "titolo": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
+      "descrizione": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
+      "link": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
+      "fonte": "Latest news",
+      "data": "2026-05-04T17:38:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini cambia volto: Google prepara una nuova app, ecco le prime immagini",
-      "descrizione": "Google sta preparando una revisione profonda dell'app Gemini",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657177/gemini-cambia-volto-google-nuova-app/",
+      "titolo": "Il primo speaker smart con Gemini di terze parti potrebbe essere di Walmart",
+      "descrizione": "Sembra in arrivo una versione economica del Google Home Speaker.",
+      "link": "https://www.hdblog.it/domotica/articoli/n657215/google-gemini-terze-parti-walmart-onn-speaker/",
       "fonte": "HDblog.it",
-      "data": "2026-05-04T13:40:00+00:00",
+      "data": "2026-05-04T17:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic in early talks to buy DRAM-less AI inference chips from UK startup — Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch",
-      "descrizione": "Anthropic has reportedly held early discussions with London-based chip startup Fractile about purchasing the company's inference accelerators.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-03T12:51:54+00:00",
+      "titolo": "Claude cancella l’intero database di un’azienda in nove secondi…",
+      "descrizione": "Claude Opus 4.6 dentro Cursor ha cancellato il database di produzione e i backup di PocketOS in nove secondi. The post Claude cancella l’intero database di un’azienda in nove secondi… appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/claude-cancella-intero-database-azienda-nove-secondi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-04T16:52:57+00:00",
       "modello": "claude"
     },
     {
