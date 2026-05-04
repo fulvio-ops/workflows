@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-04T08:42:31.869355+00:00",
+  "last_updated": "2026-05-04T14:32:25.971123+00:00",
   "items": [
     {
-      "titolo": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-      "descrizione": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-      "link": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "fonte": "Latest news",
-      "data": "2026-05-03T17:00:45+00:00",
+      "titolo": "Grok sarà il terzo chatbot su CarPlay: tutto pronto, integrazione imminente",
+      "descrizione": "Dopo l'arrivo di ChatGPT e Perplexity, CarPlay sta per accogliere anche l'intelligenza artificiale di Grok",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657165/grok-terzo-chatbot-carplay-integrazione-imminente/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-04T14:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
-      "descrizione": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
-      "link": "https://www.zdnet.com/article/google-maps-vs-waze/",
-      "fonte": "Latest news",
-      "data": "2026-05-01T17:46:00+00:00",
+      "titolo": "Gemini cambia volto: Google prepara una nuova app, ecco le prime immagini",
+      "descrizione": "Google sta preparando una revisione profonda dell'app Gemini",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657177/gemini-cambia-volto-google-nuova-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-04T13:40:00+00:00",
       "modello": "gemini"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "DeepSeek, Mistral e NOVA AI dovranno avvisare meglio sul rischio \"allucinazioni\"",
-      "descrizione": "Al centro dei procedimenti c’è la trasparenza",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n657128/deepseek-mistral-nova-ai-allucinazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-04T08:25:00+00:00",
+      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
+      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
+      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-24T14:22:00+00:00",
       "modello": "altri"
     }
   ]
