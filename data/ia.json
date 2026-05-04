@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:11:04.988109+00:00",
+  "last_updated": "2026-05-04T08:42:31.869355+00:00",
   "items": [
     {
       "titolo": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
@@ -26,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
-      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
-      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-24T14:22:00+00:00",
+      "titolo": "DeepSeek, Mistral e NOVA AI dovranno avvisare meglio sul rischio \"allucinazioni\"",
+      "descrizione": "Al centro dei procedimenti c’è la trasparenza",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n657128/deepseek-mistral-nova-ai-allucinazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-04T08:25:00+00:00",
       "modello": "altri"
     }
   ]
