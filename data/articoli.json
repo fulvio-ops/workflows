@@ -1,26 +1,131 @@
 {
-  "last_updated": "2026-05-05T14:25:21.076661+00:00",
+  "last_updated": "2026-05-05T19:52:56.745157+00:00",
   "items": [
+    {
+      "titolo": "Le auto più vendute in Italia ad aprile 2026",
+      "descrizione": "Ecco la classifica dei modelli più venduti in Italia nel mese di aprile 2026 e le classifiche per alimentazione.",
+      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-aprile-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T19:00:38+00:00"
+    },
+    {
+      "titolo": "Daemon Tools è stato compromesso: Kaspersky individua backdoor cinese",
+      "descrizione": "A quanto pare ci sono già diverse migliaia di computer infetti.",
+      "link": "https://www.hdblog.it/windows/articoli/n657346/daemon-tools-backdoor-hackerato-kaspersky/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T17:45:00+00:00"
+    },
+    {
+      "titolo": "Microsoft reimposta i widget su Windows 11: via i feed automatici di MSN",
+      "descrizione": "Gli utenti avranno la possibilità di decidere quali widget visualizzare.",
+      "link": "https://www.hdblog.it/windows-os/articoli/n657340/microsoft-widget-windows-11-disattivati/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T17:15:00+00:00"
+    },
+    {
+      "titolo": "Mercedes G63 da 1,3 milioni livrea Al-Nassr, l'ultima follia di CR7",
+      "descrizione": "Cristiano Ronaldo aggiunge al suo garage da 25 milioni di dollari una Mercedes-AMG G63 Cabriolet unica al mondo",
+      "link": "https://www.hdmotori.it/cristiano-ronaldo-mercedes-amg-g63-cabriolet/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T17:00:50+00:00"
+    },
+    {
+      "titolo": "UE sempre più vicina al ban di apparecchiature di rete Huawei e ZTE",
+      "descrizione": "L'UE ha ufficialmente raccomandato agli operatori europei di non usare apparecchiature dei due produttori cinesi, considerati ad alto rischio per la sicurezza nazionale. Non è proprio un ban, ma ci...",
+      "link": "https://www.hdblog.it/zte/articoli/n657338/huawei-zte-reti-unione-europea/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T16:35:00+00:00"
+    },
+    {
+      "titolo": "Volvo avvia l’integrazione di Google Gemini su oltre 2,5 milioni di auto",
+      "descrizione": "Gemini sostituisce Google Assistant portando a bordo tutti i vantaggi dell’intelligenza artificiale. Un nuovo di fruire la tecnologia a bordo",
+      "link": "https://www.hdmotori.it/volvo-google-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T16:30:40+00:00"
+    },
+    {
+      "titolo": "Meta analizzerà struttura ossea e altri indizi per identificare i bambini sui social",
+      "descrizione": "L'analisi sarà basata su AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657308/meta-analisi-ai-bambini-instagram/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T16:25:00+00:00"
+    },
+    {
+      "titolo": "La verifica dell’età è una minaccia per il web aperto",
+      "descrizione": "Un gruppo di aziende e organizzazioni ha evidenziato che la verifica dell'età è una minaccia per il web aperto e un rischio per sicurezza e privacy. The post La verifica dell’età è una minaccia per il web aperto appeared",
+      "link": "https://www.punto-informatico.it/verifica-eta-minaccia-web-aperto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-05T16:09:16+00:00"
+    },
+    {
+      "titolo": "Data center AI nel mare alimentati dalle onde, il progetto folle",
+      "descrizione": "Mentre SpaceX immagina i data center nello spazio, Panthalassa nell'oceano. Energia dalle onde, raffreddamento naturale e zero emissioni. The post Data center AI nel mare alimentati dalle onde, il progetto folle appeared",
+      "link": "https://www.punto-informatico.it/data-center-ai-mare-alimentati-onde-progetto-folle/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-05T15:49:29+00:00"
+    },
+    {
+      "titolo": "Non è un paese per single: il bestseller di Felicia Kingsley su Prime Video | Clip",
+      "descrizione": "Matilde Gioli e Cristiano Caccamo protagonisti della commedia romantica tratta dal romanzo di Felicia Kingsley, in arrivo su Prime Video nel 2026.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n601126/prime-video-bestseller-felicia-kingsley/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T15:43:00+00:00"
+    },
+    {
+      "titolo": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+      "descrizione": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
+      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+      "fonte": "WIRED",
+      "data": "2026-05-05T15:34:33+00:00"
+    },
+    {
+      "titolo": "BMW iX3 Flow Edition, l'auto che muta pelle con un clic",
+      "descrizione": "Tecnologia E-Ink sul cofano con otto animazioni personalizzabili: la BMW iX3 Flow Edition trasforma la carrozzeria in un display dinamico",
+      "link": "https://www.hdmotori.it/bmw-ix3-flow-edition/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T15:30:54+00:00"
+    },
+    {
+      "titolo": "Meta userà l’AI per stimare l’età: non riconosce il volto, ma legge segnali nei profili",
+      "descrizione": "Ecco come funziona la tecnologia per riconoscere l’età di Mark Zuckerberg",
+      "link": "https://www.ilsole24ore.com/art/meta-usera-l-ai-stimare-l-eta-non-riconosce-volto-ma-legge-segnali-profili-AIZRPwsC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-05T15:22:07+00:00"
+    },
+    {
+      "titolo": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+      "descrizione": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
+      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+      "fonte": "WIRED",
+      "data": "2026-05-05T15:10:19+00:00"
+    },
+    {
+      "titolo": "Bose Lifestyle Ultra ufficiali: la sfida a Sonos è lanciata",
+      "descrizione": "Uno speaker bookshelf, una soundbar e un subwoofer.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n657326/bose-lifestyle-ultra-specifiche-speaker-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T15:05:00+00:00"
+    },
+    {
+      "titolo": "I bagarini sono il male: Steam Controller a più di 400 euro su eBay",
+      "descrizione": "Prezzi più che quadruplicati per chi rivende lo Steam Controller su eBay e altri marketplace: la piaga dei bagarini colpisce ancora. The post I bagarini sono il male: Steam Controller a più di 400 euro su eBay appeared f",
+      "link": "https://www.punto-informatico.it/bagarini-steam-controller-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-05T14:31:03+00:00"
+    },
+    {
+      "titolo": "Ride1Up batte tutti, ecco la prima bici elettrica allo stato semi-solido",
+      "descrizione": "Ride1Up lancia la Revv1 EVO, la prima e-bike al mondo con batteria allo stato semi-solido. Più sicura, ricarica rapida e una durata doppia",
+      "link": "https://www.hdmotori.it/ride1up-revv1-evo-batteria-stato-semi-solido/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T14:30:49+00:00"
+    },
     {
       "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
       "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-05T14:11:12+00:00"
-    },
-    {
-      "titolo": "Snap ci parla di Specs: cosa aspettarsi dagli occhiali AR in arrivo entro fine anno",
-      "descrizione": "Intervista ad Antoine Gilbert, responsabile dell’AR Studio di Parigi di Snap",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657279/specs-snap-occhiali-ar-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T14:05:00+00:00"
-    },
-    {
-      "titolo": "NIO punta ai 900 Volt: la nuova architettura elettrica che cambia ricarica e autonomia",
-      "descrizione": "Il costruttore cinese espande la collaborazione con Onsemi per portare i chip EliteSiC M3e su tutta la gamma.",
-      "link": "https://www.hdmotori.it/nio-architettura-900-volt-cosa-cambia-autonomia-ricarica/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T14:00:18+00:00"
     },
     {
       "titolo": "Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand — Chinese fabs can barely keep up as Nvidia's market share craters within the region",
@@ -51,22 +156,8 @@
       "data": "2026-05-05T12:30:03+00:00"
     },
     {
-      "titolo": "Mini PC ROG GR70 ufficiale: potenza desktop in meno di 3 litri | PREZZO",
-      "descrizione": "Il nuovo ROG GR70 integra processore Ryzen 9 9955HX3D con 3D V-Cache, grafica NVIDIA Blackwell e supporto DLSS 4 per frame rate elevati e gameplay fluido",
-      "link": "https://www.hdblog.it/asus/articoli/n657298/asus-rog-mini-pc-gaming-gr70-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T12:15:00+00:00"
-    },
-    {
-      "titolo": "La Red Bull RB17 è pronta per la produzione: missile da 1.200 CV",
-      "descrizione": "Dietro lo sviluppo dell'hypercar V10 della RB c’è lo zampino di Adrian Newey. La RB17 è entrata nella fase finale di produzione e test",
-      "link": "https://www.hdmotori.it/red-bull-rb17-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T12:00:06+00:00"
-    },
-    {
       "titolo": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "descrizione": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+      "descrizione": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
       "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
       "fonte": "WIRED",
       "data": "2026-05-05T11:59:20+00:00"
@@ -77,97 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-05T11:53:22+00:00"
-    },
-    {
-      "titolo": "Nothing torna a giocare con i Pokémon: a che cosa si riferisce l'ultimo teaser?",
-      "descrizione": "Flaaffy shiny è in realtà un indizio chiaro.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657291/nothing-ear-open-colore-blu-flaaffy-shiny-teaser/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T11:40:00+00:00"
-    },
-    {
-      "titolo": "Migliori Notebook 13 Pollici 2026: Guida all’Acquisto",
-      "descrizione": "Scopri i migliori notebook 13 pollici del 2026: guida completa ai modelli Apple e Windows, con focus su prestazioni, autonomia e qualità-prezzo.",
-      "link": "https://www.hdblog.it/portatili/guide/n656905/migliori-notebook-13-pollici/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T11:33:00+00:00"
-    },
-    {
-      "titolo": "Mercato auto Italia: ad aprile 2026 +11,6%, elettriche +98,6%",
-      "descrizione": "Il mese si conferma positivo, con il boom delle auto elettrificate sostenuto dagli incentivi. Rimangono le incertezze legate ai dazi e al caro benzina.",
-      "link": "https://www.hdmotori.it/mercato-auto-italia-aprile-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T11:30:36+00:00"
-    },
-    {
-      "titolo": "Intel e Samsung potrebbero realizzare i processori Apple",
-      "descrizione": "Secondo Bloomberg, Apple avrebbe avviato discussioni con Intel e Samsung per la realizzazione dei futuri chip nelle loro fabbriche statunitensi. The post Intel e Samsung potrebbero realizzare i processori Apple appeared",
-      "link": "https://www.punto-informatico.it/intel-samsung-potrebbero-realizzare-processori-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T11:28:46+00:00"
-    },
-    {
-      "titolo": "Fairphone 3 sarà aggiornato anche dopo la fine del supporto ufficiale",
-      "descrizione": "Per chi vorrà passare alla custom ROM /e/os sono previsti altri due anni di aggiornamenti. Anche del sistema operativo!",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657295/fairphone-3-supporto-custom-rom-eos/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T11:25:00+00:00"
-    },
-    {
-      "titolo": "China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production — government seeking to localize critical chip supply chain amid AI boom and export restrictions",
-      "descrizione": "China is targeting 70% local wafer sourcing as firms like Eswin scale 12-inch production, aiming to reduce reliance on foreign suppliers and support growing AI chip demand.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T11:06:00+00:00"
-    },
-    {
-      "titolo": "Messaggi RCS tra iPhone e Android con la crittografia end-to-end",
-      "descrizione": "I messaggi tra iPhone e Android saranno finalmente crittografati con iOS 26.5. Apple pubblica la conferma nelle note della Release Candidate. The post Messaggi RCS tra iPhone e Android con la crittografia end-to-end appe",
-      "link": "https://www.punto-informatico.it/messaggi-rcs-iphone-android-con-crittografia-end-to-end/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T10:45:05+00:00"
-    },
-    {
-      "titolo": "Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests — embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p)",
-      "descrizione": "A YouTuber has tested Intel's 12 P-core Core 9 273PQE and discovered the chip outperforms the Core i9-14900K by up to 9% in games potentially making the 273PQE Intel's fastest gaming CPU.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T10:30:00+00:00"
-    },
-    {
-      "titolo": "The Secret to Amelia Dimoldenberg’s Online Superstardom? Control",
-      "descrizione": "The host of Chicken Shop Date joined WIRED’s Big Interview podcast to talk about turning down bad deals, beating the algorithm, and the importance of being over-prepared.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/",
-      "fonte": "WIRED",
-      "data": "2026-05-05T10:30:00+00:00"
-    },
-    {
-      "titolo": "Ultimi pezzi per queste 5 offerte tech su eBay con coupon",
-      "descrizione": "Ultimi pezzi rimasti per queste 5 offerte tech a un prezzo speciale grazie al coupon di eBay che ti permette di risparmiare fino a 45€ extra. The post Ultimi pezzi per queste 5 offerte tech su eBay con coupon appeared fi",
-      "link": "https://www.punto-informatico.it/ultimi-pezzi-per-queste-5-offerte-tech-su-ebay-con-coupon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T10:02:22+00:00"
-    },
-    {
-      "titolo": "Enthusiast recreates 43-year-old Apple Lisa with FPGA board — first commercial computer with a GUI faithfully cloned with modernized machine",
-      "descrizione": "An enthusiast has taken the time to recreate the Apple Lisa, the first commercial PC with a GUI, with an FPGA board.",
-      "link": "https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T10:00:00+00:00"
-    },
-    {
-      "titolo": "CEO di NVIDIA difende l’AI: crea lavoro, non lo distrugge",
-      "descrizione": "Jensen Huang, CEO di NVIDIA, al Milken Institute ha dichiarato che l'AI crea lavoro, non lo distrugge. Ma le stime parlano di tutt'altro. The post CEO di NVIDIA difende l’AI: crea lavoro, non lo distrugge appeared first",
-      "link": "https://www.punto-informatico.it/ceo-nvidia-difende-ai-crea-lavoro-non-lo-distrugge/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T09:47:30+00:00"
-    },
-    {
-      "titolo": "The Best Sustainable Surf Gear (2026): Patagonia, Billabong, Outerknown",
-      "descrizione": "Reduce unnecessary plastic waste and petroleum-based neoprene at your local break with the best sustainable wetsuits, sunglasses, and more.",
-      "link": "https://www.wired.com/story/best-sustainable-surf-gear/",
-      "fonte": "WIRED",
-      "data": "2026-05-05T09:02:00+00:00"
     }
   ]
 }
