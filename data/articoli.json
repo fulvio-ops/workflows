@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-04T19:56:17.369349+00:00",
+  "last_updated": "2026-05-05T03:52:18.327612+00:00",
   "items": [
+    {
+      "titolo": "Intel swipes Qualcomm veteran of 25 years to lead client computing — Alex Katouzian jumps ship to oversee consumer CPUs and physical AI",
+      "descrizione": "Intel appoints Alex Katouzian to lead client computing and physical AI efforts and confirms Pushkar Ranade as CTO, signaling a deeper shift toward AI-driven and edge computing systems",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/intel-swipes-qualcomm-veteran-of-25-years-to-lead-client-computing-alex-katouzian-jumps-ship-to-oversee-consumer-cpus-and-physical-ai",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-04T21:43:28+00:00"
+    },
+    {
+      "titolo": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
+      "descrizione": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
+      "link": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
+      "fonte": "Latest news",
+      "data": "2026-05-04T20:44:58+00:00"
+    },
+    {
+      "titolo": "Steam Controller scalpers are asking for $300+ on eBay — Valve's $99 controller demands high price as pre-orders sell out almost immediately",
+      "descrizione": "Valve's long-anticipated Steam Controller sold out almost immediately, and scalpers have stepped in with price demands of $300 or more.",
+      "link": "https://www.tomshardware.com/peripherals/steam-controller-scalpers-are-asking-for-usd300-on-ebay-valves-usd99-controller-demands-high-price-as-pre-orders-sell-out-almost-immediately",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-04T20:05:05+00:00"
+    },
     {
       "titolo": "Recensione Ecovacs DEETBOT X12 OMNICYCLONE",
       "descrizione": "Ogni mese assistiamo all’uscita di nuovi robot per la pulizia domestica ed è incredibile come le aziende riescano costantemente a portare nuove soluzioni ingegneristiche. Ecovacs...",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/rete-logistica-amazon-ascs/",
       "fonte": "Punto Informatico",
       "data": "2026-05-04T11:58:44+00:00"
-    },
-    {
-      "titolo": "Microsoft lancia un agente AI su Word che rivede i contratti",
-      "descrizione": "Microsoft ha lanciato un agente AI su Word pensato specificamente per i team legali. Legal Agent analizza le revisioni, segnala rischi e responsabilità e tiene traccia delle trattative. Non si tratta di un assistente gen",
-      "link": "https://www.punto-informatico.it/microsoft-agente-ai-word-rivede-contratti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-04T11:25:08+00:00"
-    },
-    {
-      "titolo": "What I Packed to Run 80 Miles Across the Italian Apennine Mountains",
-      "descrizione": "Here’s everything you need to survive while running many mountain miles. It all fits into a 10-pound pack.",
-      "link": "https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/",
-      "fonte": "WIRED",
-      "data": "2026-05-04T10:32:00+00:00"
-    },
-    {
-      "titolo": "A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress",
-      "descrizione": "Alexis Goldstein, a former Consumer Financial Protection Bureau employee, was fired this year for recording DOGE’s incursion into the agency.",
-      "link": "https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/",
-      "fonte": "WIRED",
-      "data": "2026-05-04T10:30:00+00:00"
     }
   ]
 }

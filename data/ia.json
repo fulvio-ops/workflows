@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-04T19:56:20.901394+00:00",
+  "last_updated": "2026-05-05T03:52:22.233638+00:00",
   "items": [
     {
-      "titolo": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-      "descrizione": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-      "link": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-      "fonte": "Latest news",
-      "data": "2026-05-04T17:38:00+00:00",
+      "titolo": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+      "descrizione": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
+      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+      "fonte": "WIRED",
+      "data": "2026-05-04T23:19:52+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude cancella l’intero database di un’azienda in nove secondi…",
-      "descrizione": "Claude Opus 4.6 dentro Cursor ha cancellato il database di produzione e i backup di PocketOS in nove secondi. The post Claude cancella l’intero database di un’azienda in nove secondi… appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/claude-cancella-intero-database-azienda-nove-secondi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-04T16:52:57+00:00",
+      "titolo": "Trump administration considers mandatory pre-release vetting of AI models — Anthropic's Mythos cited as catalyst for policy reversal",
+      "descrizione": "The Trump administration is said to be discussing an executive order that would establish a government review process for new AI models before they’re released to the public.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-04T21:33:53+00:00",
       "modello": "claude"
     },
     {
