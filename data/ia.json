@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-05-05T08:28:12.610232+00:00",
+  "last_updated": "2026-05-05T14:25:24.107514+00:00",
   "items": [
     {
-      "titolo": "L’unico esperto AI di Musk al processo avverte sui pericoli dell’AGI",
-      "descrizione": "Stuart Russell testimonia al processo Musk vs OpenAI sui rischi dell'AGI e della corsa agli armamenti tra laboratori AI. The post L’unico esperto AI di Musk al processo avverte sui pericoli dell’AGI appeared first on Pun",
-      "link": "https://www.punto-informatico.it/unico-esperto-ai-musk-processo-avverte-pericoli-agi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:19:24+00:00",
+      "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
+      "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T14:11:12+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google accelera la diffusione di Gemini for Home in Europa",
-      "descrizione": "Google accelera il rilascio di Gemini for Home in Europa e Asia azzerando le liste d'attesa.",
-      "link": "https://www.hdblog.it/google/articoli/n657237/gemini-home-europa-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T07:20:00+00:00",
+      "titolo": "Google aggiorna Gemini: anche in Italia si ricorderà della tue preferenze",
+      "descrizione": "Fondamentalmente il chatbot non dimenticherà più chi siamo una volta chiusa la finestra del browser, ma inizierà a capitalizzare i dettagli.",
+      "link": "https://www.ilsole24ore.com/art/google-aggiorna-gemini-anche-italia-si-ricordera-tue-preferenze-AI6LAAkC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-04-29T07:47:33+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Trump administration considers mandatory pre-release vetting of AI models — Anthropic's Mythos cited as catalyst for policy reversal",
-      "descrizione": "The Trump administration is said to be discussing an executive order that would establish a government review process for new AI models before they’re released to the public.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models",
+      "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
+      "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-04T21:33:53+00:00",
+      "data": "2026-05-05T14:11:12+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Ecco DeepSeek V4, il ritorno dell’”effetto Sputnik”: la Cina punta sul low cost",
-      "descrizione": "Il nuovo modello porta il contesto a un milione di token, punta sugli agenti e riduce i costi, funzionando anche su chip Huawei.",
-      "link": "https://www.ilsole24ore.com/art/ecco-deepseek-v4-ritorno-dell-effetto-sputnik-cina-punta-low-cost-AIpT0qgC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-04-24T14:22:00+00:00",
-      "modello": "altri"
     }
   ]
 }

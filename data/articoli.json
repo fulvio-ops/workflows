@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-05-05T08:28:09.117772+00:00",
+  "last_updated": "2026-05-05T14:25:21.076661+00:00",
   "items": [
     {
-      "titolo": "Windows 11, Microsoft rinnova un altro elemento storico dell'interfaccia",
-      "descrizione": "Anche la finestra Esegui ottiene un'interfaccia al passo coi tempi.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n657256/windows-11-novita-finestra-esegui-design/",
+      "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
+      "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T14:11:12+00:00"
+    },
+    {
+      "titolo": "Snap ci parla di Specs: cosa aspettarsi dagli occhiali AR in arrivo entro fine anno",
+      "descrizione": "Intervista ad Antoine Gilbert, responsabile dell’AR Studio di Parigi di Snap",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657279/specs-snap-occhiali-ar-2026/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T08:25:00+00:00"
+      "data": "2026-05-05T14:05:00+00:00"
     },
     {
-      "titolo": "Un archivio in cui salvare per sempre gli stati di WhatsApp: Meta ci sta lavorando",
-      "descrizione": "In fase di test la funzionalità di WhatsApp che archivia gli stati condivisi, fino a oggi rimasta un'esclusiva degli account Business.",
-      "link": "https://www.hdblog.it/android/articoli/n657241/archivio-salvataggio-stati-whatsapp-android/",
+      "titolo": "NIO punta ai 900 Volt: la nuova architettura elettrica che cambia ricarica e autonomia",
+      "descrizione": "Il costruttore cinese espande la collaborazione con Onsemi per portare i chip EliteSiC M3e su tutta la gamma.",
+      "link": "https://www.hdmotori.it/nio-architettura-900-volt-cosa-cambia-autonomia-ricarica/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T08:20:00+00:00"
+      "data": "2026-05-05T14:00:18+00:00"
     },
     {
-      "titolo": "Il CEO di Nvidia rassicura: l'AI è un volano per l’occupazione e l’industria",
-      "descrizione": "Jensen Huang di Nvidia rassicura i lavoratori: la AI creerà nuovi impieghi e reindustrializzerà gli USA.",
-      "link": "https://www.hdblog.it/mercato/articoli/n657244/nvidia-jensen-huang-lavoro-ai/",
+      "titolo": "Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand — Chinese fabs can barely keep up as Nvidia's market share craters within the region",
+      "descrizione": "The projection, based on orders already received from major Chinese technology firms including Alibaba, ByteDance, and Tencent, would represent growth of at least 60% year-over-year.",
+      "link": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T13:29:27+00:00"
+    },
+    {
+      "titolo": "Meta dovrà pagare altri 3,7 miliardi in New Mexico?",
+      "descrizione": "Lo Stato del New Mexico vuole che i servizi di Meta siano considerati un disturbo per la quiete pubblica e ha chiesto un pagamento di 3,7 miliardi. The post Meta dovrà pagare altri 3,7 miliardi in New Mexico? appeared fi",
+      "link": "https://www.punto-informatico.it/meta-dovra-pagare-altri-37-miliardi-new-mexico/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-05T13:28:14+00:00"
+    },
+    {
+      "titolo": "Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ",
+      "descrizione": "Lenovo has focused on trimming fat and including a brilliant display and long battery life with the Yoga Slim 7i Aura Edition.",
+      "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T12:50:52+00:00"
+    },
+    {
+      "titolo": "Apple considering Intel and Samsung for US chip production, report claims — consumer electronics giant looks to diversify supply chain amid chip shortages",
+      "descrizione": "Apple is reportedly in early talks with Intel and Samsung to secure more production for its advanced chips, as the company is constrained by the limited availability of advanced nodes that its SoCs are produced on.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T12:30:03+00:00"
+    },
+    {
+      "titolo": "Mini PC ROG GR70 ufficiale: potenza desktop in meno di 3 litri | PREZZO",
+      "descrizione": "Il nuovo ROG GR70 integra processore Ryzen 9 9955HX3D con 3D V-Cache, grafica NVIDIA Blackwell e supporto DLSS 4 per frame rate elevati e gameplay fluido",
+      "link": "https://www.hdblog.it/asus/articoli/n657298/asus-rog-mini-pc-gaming-gr70-specifiche-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:55:00+00:00"
+      "data": "2026-05-05T12:15:00+00:00"
     },
     {
-      "titolo": "L’AI aiuta Agenzia delle Entrate a combattere l’evasione fiscale",
-      "descrizione": "Il Fisco sta già utilizzando L'AI per velocizzare l'elaborazione dei dati, ma i funzionari rimangono centrali nel contrasto all'evasione. The post L’AI aiuta Agenzia delle Entrate a combattere l’evasione fiscale appeared",
-      "link": "https://www.punto-informatico.it/ai-agenzia-entrate-combattere-evasione-fiscale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:49:58+00:00"
-    },
-    {
-      "titolo": "Gli uccelli di città hanno più paura delle donne",
-      "descrizione": "Gli scienziati hanno scoperto qualcosa di interessante nel mondo degli uccelli di città: hanno più paura delle donne che degli uomini. The post Gli uccelli di città hanno più paura delle donne appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/uccelli-citta-hanno-piu-paura-donne/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:44:27+00:00"
-    },
-    {
-      "titolo": "realme 16 Pro+ 5G: super batteria da 7000mAh e fotocamera da 200MP",
-      "descrizione": "Il realme 16 Pro+ 5G, in questa versione da 8GB di RAM e 256GB di memoria, con batteria da 7000mAh e fotocamera da 200 MP è in offerta al 25%. The post realme 16 Pro+ 5G: super batteria da 7000mAh e fotocamera da 200MP a",
-      "link": "https://www.punto-informatico.it/realme-16-pro-5g-super-batteria-da-7000mah-fotocamera-200mp/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:34:23+00:00"
-    },
-    {
-      "titolo": "SSD: tutti già prenotati fino al 2029?",
-      "descrizione": "Il mercato di SSD e HDD è decisamente florido e i risultati finanziari di aziende come Sandisk e Seagate lo confermano. Il trend è però legato a contratti di fornitura pluriennali con i grandi...",
-      "link": "https://www.hdblog.it/hardware/articoli/n657235/ssd-tutti-prenotati-fino-2029-sandisk-wd-seagate/",
+      "titolo": "La Red Bull RB17 è pronta per la produzione: missile da 1.200 CV",
+      "descrizione": "Dietro lo sviluppo dell'hypercar V10 della RB c’è lo zampino di Adrian Newey. La RB17 è entrata nella fase finale di produzione e test",
+      "link": "https://www.hdmotori.it/red-bull-rb17-produzione/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:25:00+00:00"
+      "data": "2026-05-05T12:00:06+00:00"
     },
     {
-      "titolo": "Google accelera la diffusione di Gemini for Home in Europa",
-      "descrizione": "Google accelera il rilascio di Gemini for Home in Europa e Asia azzerando le liste d'attesa.",
-      "link": "https://www.hdblog.it/google/articoli/n657237/gemini-home-europa-google/",
+      "titolo": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "descrizione": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "fonte": "WIRED",
+      "data": "2026-05-05T11:59:20+00:00"
+    },
+    {
+      "titolo": "Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs — firmly states US should have 'the first, the most, and the best' when it comes to AI hardware",
+      "descrizione": "Nvidia's Jensen Huang reiterates that American companies should be able to ship their products globally, but maintains that the latest AI accelerators should remain in America.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T11:53:22+00:00"
+    },
+    {
+      "titolo": "Nothing torna a giocare con i Pokémon: a che cosa si riferisce l'ultimo teaser?",
+      "descrizione": "Flaaffy shiny è in realtà un indizio chiaro.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657291/nothing-ear-open-colore-blu-flaaffy-shiny-teaser/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:20:00+00:00"
+      "data": "2026-05-05T11:40:00+00:00"
     },
     {
-      "titolo": "L’unico esperto AI di Musk al processo avverte sui pericoli dell’AGI",
-      "descrizione": "Stuart Russell testimonia al processo Musk vs OpenAI sui rischi dell'AGI e della corsa agli armamenti tra laboratori AI. The post L’unico esperto AI di Musk al processo avverte sui pericoli dell’AGI appeared first on Pun",
-      "link": "https://www.punto-informatico.it/unico-esperto-ai-musk-processo-avverte-pericoli-agi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:19:24+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Band 10 Pro, un leak svela il design: schermo ampio e tanta autonomia",
-      "descrizione": "Al lancio non dovrebbe mancare molto.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657225/xiaomi-smart-band-10-pro-leak-design-prezzo/",
+      "titolo": "Migliori Notebook 13 Pollici 2026: Guida all’Acquisto",
+      "descrizione": "Scopri i migliori notebook 13 pollici del 2026: guida completa ai modelli Apple e Windows, con focus su prestazioni, autonomia e qualità-prezzo.",
+      "link": "https://www.hdblog.it/portatili/guide/n656905/migliori-notebook-13-pollici/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:15:00+00:00"
+      "data": "2026-05-05T11:33:00+00:00"
     },
     {
-      "titolo": "Apple vuole dipendere meno da TSMC per i chip: avviati contatti con Intel e Samsung",
-      "descrizione": "Apple starebbe valutando Intel e Samsung come possibili partner aggiuntivi",
-      "link": "https://www.hdblog.it/hardware/articoli/n657240/apple-tsmc-chip-contatti-intel-samsung/",
+      "titolo": "Mercato auto Italia: ad aprile 2026 +11,6%, elettriche +98,6%",
+      "descrizione": "Il mese si conferma positivo, con il boom delle auto elettrificate sostenuto dagli incentivi. Rimangono le incertezze legate ai dazi e al caro benzina.",
+      "link": "https://www.hdmotori.it/mercato-auto-italia-aprile-2026/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:10:00+00:00"
+      "data": "2026-05-05T11:30:36+00:00"
     },
     {
-      "titolo": "Sistemi Informativi: comunicato ufficiale sull’intrusione",
-      "descrizione": "IBM ha fornito maggiori informazioni sull'attacco informatico effettuato da ignoti cybercriminali (forse Salt Typhoon) contro Sistemi Informativi. The post Sistemi Informativi: comunicato ufficiale sull’intrusione appear",
-      "link": "https://www.punto-informatico.it/sistemi-informativi-comunicato-ufficiale-intrusione/",
+      "titolo": "Intel e Samsung potrebbero realizzare i processori Apple",
+      "descrizione": "Secondo Bloomberg, Apple avrebbe avviato discussioni con Intel e Samsung per la realizzazione dei futuri chip nelle loro fabbriche statunitensi. The post Intel e Samsung potrebbero realizzare i processori Apple appeared",
+      "link": "https://www.punto-informatico.it/intel-samsung-potrebbero-realizzare-processori-apple/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:09:51+00:00"
+      "data": "2026-05-05T11:28:46+00:00"
     },
     {
-      "titolo": "Xiaomi 17T e 17T Pro, eccoli qua: design anticipato dai render per la stampa",
-      "descrizione": "Similitudini e differenze: tutto quello che sappiamo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657222/xiaomi-17t-pro-design-render-stampa-specifiche/",
+      "titolo": "Fairphone 3 sarà aggiornato anche dopo la fine del supporto ufficiale",
+      "descrizione": "Per chi vorrà passare alla custom ROM /e/os sono previsti altri due anni di aggiornamenti. Anche del sistema operativo!",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657295/fairphone-3-supporto-custom-rom-eos/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T07:05:00+00:00"
+      "data": "2026-05-05T11:25:00+00:00"
     },
     {
-      "titolo": "HUAWEI Band 11: display da 1,62″, impermeabile e 14gg di autonomia",
-      "descrizione": "La splendida HUAWEI Band 11 con display da 1,62 pollici, impermeabilità fino a 5 ATM e con 14 giorni di autonomia è in offerta al 31%. The post HUAWEI Band 11: display da 1,62″, impermeabile e 14gg di autonomia appeared",
-      "link": "https://www.punto-informatico.it/huawei-band-11-display-da-162-impermeabile-14gg-di-autonomia/",
+      "titolo": "China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production — government seeking to localize critical chip supply chain amid AI boom and export restrictions",
+      "descrizione": "China is targeting 70% local wafer sourcing as firms like Eswin scale 12-inch production, aiming to reduce reliance on foreign suppliers and support growing AI chip demand.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T11:06:00+00:00"
+    },
+    {
+      "titolo": "Messaggi RCS tra iPhone e Android con la crittografia end-to-end",
+      "descrizione": "I messaggi tra iPhone e Android saranno finalmente crittografati con iOS 26.5. Apple pubblica la conferma nelle note della Release Candidate. The post Messaggi RCS tra iPhone e Android con la crittografia end-to-end appe",
+      "link": "https://www.punto-informatico.it/messaggi-rcs-iphone-android-con-crittografia-end-to-end/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:03:59+00:00"
+      "data": "2026-05-05T10:45:05+00:00"
     },
     {
-      "titolo": "Risolto il mistero della formazione dei Dodici Apostoli",
-      "descrizione": "Gli scienziati hanno finalmente risolto il mistero della formazione dei Dodici Apostoli rivelando una delle incognite più inspiegabili. The post Risolto il mistero della formazione dei Dodici Apostoli appeared first on P",
-      "link": "https://www.punto-informatico.it/risolto-mistero-formazione-dodici-apostoli/",
+      "titolo": "Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests — embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p)",
+      "descrizione": "A YouTuber has tested Intel's 12 P-core Core 9 273PQE and discovered the chip outperforms the Core i9-14900K by up to 9% in games potentially making the 273PQE Intel's fastest gaming CPU.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T10:30:00+00:00"
+    },
+    {
+      "titolo": "The Secret to Amelia Dimoldenberg’s Online Superstardom? Control",
+      "descrizione": "The host of Chicken Shop Date joined WIRED’s Big Interview podcast to talk about turning down bad deals, beating the algorithm, and the importance of being over-prepared.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/",
+      "fonte": "WIRED",
+      "data": "2026-05-05T10:30:00+00:00"
+    },
+    {
+      "titolo": "Ultimi pezzi per queste 5 offerte tech su eBay con coupon",
+      "descrizione": "Ultimi pezzi rimasti per queste 5 offerte tech a un prezzo speciale grazie al coupon di eBay che ti permette di risparmiare fino a 45€ extra. The post Ultimi pezzi per queste 5 offerte tech su eBay con coupon appeared fi",
+      "link": "https://www.punto-informatico.it/ultimi-pezzi-per-queste-5-offerte-tech-su-ebay-con-coupon/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T07:02:13+00:00"
+      "data": "2026-05-05T10:02:22+00:00"
     },
     {
-      "titolo": "Documenti vuoti o danneggiati su Outlook: Microsoft interviene per risolvere il bug",
-      "descrizione": "Microsoft assicura che il problema dei documenti vuoti o danneggiati su Outlook sta per essere risolto.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n657204/documenti-vuoti-microsoft-outlook/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T06:55:00+00:00"
+      "titolo": "Enthusiast recreates 43-year-old Apple Lisa with FPGA board — first commercial computer with a GUI faithfully cloned with modernized machine",
+      "descrizione": "An enthusiast has taken the time to recreate the Apple Lisa, the first commercial PC with a GUI, with an FPGA board.",
+      "link": "https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-05T10:00:00+00:00"
     },
     {
-      "titolo": "Dai Roomba ai cani robot: è nata Familiar Machines & Magic",
-      "descrizione": "La nuova startup di Colin Angle (ex iRobot) presenta Familiar, un robot a quattro zampe morbido ed espressivo pensato per la casa. The post Dai Roomba ai cani robot: è nata Familiar Machines & Magic appeared first on Pun",
-      "link": "https://www.punto-informatico.it/cani-robot-familiar-machines-magic/",
+      "titolo": "CEO di NVIDIA difende l’AI: crea lavoro, non lo distrugge",
+      "descrizione": "Jensen Huang, CEO di NVIDIA, al Milken Institute ha dichiarato che l'AI crea lavoro, non lo distrugge. Ma le stime parlano di tutt'altro. The post CEO di NVIDIA difende l’AI: crea lavoro, non lo distrugge appeared first",
+      "link": "https://www.punto-informatico.it/ceo-nvidia-difende-ai-crea-lavoro-non-lo-distrugge/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T06:41:38+00:00"
+      "data": "2026-05-05T09:47:30+00:00"
     },
     {
-      "titolo": "Addio litio? La nuova batteria economica dura 16 anni senza perdite",
-      "descrizione": "Scienziati cinesi creano una batteria al ferro economica e duratura per lo stoccaggio energetico.",
-      "link": "https://www.hdblog.it/green/articoli/n657229/batteria-ferro-cina-costo-litio/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T06:35:00+00:00"
-    },
-    {
-      "titolo": "Apple rilascia le RC di iOS 26.5, iPadOS 26.5, macOS 26.5 Tahoe e watchOS 26.5",
-      "descrizione": "La prossima settimana le versioni stabili",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657232/apple-rilascia-rc-ios-ipados-macos-2-3-4/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T06:18:00+00:00"
-    },
-    {
-      "titolo": "Festeggia gli 8 anni di Surfshark VPN con l’offerta di compleanno",
-      "descrizione": "Festeggia oggi stesso gli 8 anni di Surfshark VPN mettendo al sicuro i tuoi dispositivi e navigando senza limiti con l'offerta di compleanno. The post Festeggia gli 8 anni di Surfshark VPN con l’offerta di compleanno app",
-      "link": "https://www.punto-informatico.it/festeggia-8-anni-surfshark-vpn-offerta-compleanno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T06:12:08+00:00"
-    },
-    {
-      "titolo": "50 tonnellate di Steam Machine: sta arrivando, ora ne siamo certi",
-      "descrizione": "Valve ha ricevuto circa 50 tonnellate di console nei magazzini USA, è il segnale concreto di un lancio imminente per la Steam Machine. The post 50 tonnellate di Steam Machine: sta arrivando, ora ne siamo certi appeared f",
-      "link": "https://www.punto-informatico.it/steam-machine-sta-arrivando/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T06:07:10+00:00"
-    },
-    {
-      "titolo": "Naviga senza limiti né roaming all’estero con le eSIM Saily",
-      "descrizione": "Naviga con il tuo smartphone senza limiti né roaming quando sei in viaggio all'estero grazie alle eSIM Saily e ai suoi piani convenienti. The post Naviga senza limiti né roaming all’estero con le eSIM Saily appeared firs",
-      "link": "https://www.punto-informatico.it/naviga-senza-limiti-ne-roaming-estero-esim-saily/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T05:42:38+00:00"
-    },
-    {
-      "titolo": "Big AI insieme a Wall Street per accelerare l'adozione dell'AI enterprise",
-      "descrizione": "Miliardi e miliardi di dollari per diffondere sempre più velocemente l'AI tra le grandi aziende.",
-      "link": "https://www.hdblog.it/business/articoli/n657220/openai-anthropic-joint-venture-enterprise-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T05:35:00+00:00"
-    },
-    {
-      "titolo": "TF Mastercard Gold: la carta di credito a canone zero con assicurazione di viaggio inclusa",
-      "descrizione": "Alla scoperta della carta di credito a canone zero e con assicurazione di viaggio inclusa emessa da TF Bank. The post TF Mastercard Gold: la carta di credito a canone zero con assicurazione di viaggio inclusa appeared fi",
-      "link": "https://www.punto-informatico.it/fintech/carte/tf-mastercard-gold-la-carta-di-credito-a-canone-zero-con-assicurazione-di-viaggio-inclusa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T05:34:34+00:00"
+      "titolo": "The Best Sustainable Surf Gear (2026): Patagonia, Billabong, Outerknown",
+      "descrizione": "Reduce unnecessary plastic waste and petroleum-based neoprene at your local break with the best sustainable wetsuits, sunglasses, and more.",
+      "link": "https://www.wired.com/story/best-sustainable-surf-gear/",
+      "fonte": "WIRED",
+      "data": "2026-05-05T09:02:00+00:00"
     }
   ]
 }
