@@ -1,12 +1,152 @@
 {
-  "last_updated": "2026-05-06T14:48:37.085149+00:00",
+  "last_updated": "2026-05-06T20:02:20.755912+00:00",
   "items": [
     {
-      "titolo": "Samsung Galaxy Ring 2 migliorerà tre aspetti: autonomia, comfort e sensori",
-      "descrizione": "Con più autonomia, sensori più precisi e più comodo da indossare: le nuove indiscrezioni sul Samsung Galaxy Ring 2 che arrivano dalla Corea.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657454/samsung-galaxy-ring-2-autonomia-comfort-sensori/",
+      "titolo": "Trump's Team Wants Him to Accept an Iran Deal He's Already Rejected",
+      "descrizione": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
+      "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
+      "fonte": "WIRED",
+      "data": "2026-05-06T19:32:03+00:00"
+    },
+    {
+      "titolo": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "descrizione": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "fonte": "WIRED",
+      "data": "2026-05-06T18:00:00+00:00"
+    },
+    {
+      "titolo": "Amazon Blink, arrivano i videocitofoni 2K | Subito in super sconto!",
+      "descrizione": "Disponibili sia senza fili sia cablati, per la massima versatilità.",
+      "link": "https://www.hdblog.it/amazon/articoli/n657503/amazon-blink-videocitofoni-2k-prezzi-quando/",
       "fonte": "HDblog.it",
-      "data": "2026-05-06T14:45:00+00:00"
+      "data": "2026-05-06T17:35:00+00:00"
+    },
+    {
+      "titolo": "Un vecchio reattore USA ora alimenta l'intelligenza artificiale",
+      "descrizione": "Un reattore di ricerca dello Utah produce elettricità per l'AI per la prima volta in mezzo secolo.",
+      "link": "https://www.hdblog.it/green/articoli/n657395/reattore-nucleare-utah-energia-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T17:30:00+00:00"
+    },
+    {
+      "titolo": "Motubrain: il nuovo cervello unico per robot nasce in Cina",
+      "descrizione": "ShengShu Technology lancia Motubrain, un modello AI unico per rendere i robot autonomi e versatili.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657408/motubrain-ai-robotica-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T17:15:00+00:00"
+    },
+    {
+      "titolo": "Nvidia invests $300 million in Corning to build three new US-based optical fiber plants — AI infrastructure deal would boost fiber production capacity by over 50%",
+      "descrizione": "Nvidia invests $300 million in Corning to help partners that deploy its hardware in the U.S. to get enough of optical fiber, grant Nvidia control over a significant chunk of domestic fiber production.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-invests-usd300-million-in-corning-to-build-three-new-us-based-optical-fiber-plants-ai-infrastructure-deal-would-boost-fiber-production-capacity-by-over-50-percent",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-06T17:13:05+00:00"
+    },
+    {
+      "titolo": "AMD vola in borsa grazie alla corsa all'intelligenza artificiale",
+      "descrizione": "Il fatto che le CPU siano sempre più tenute in considerazione gioca particolarmente a favore della società americana.",
+      "link": "https://www.hdblog.it/hardware/articoli/n657498/amd-ai-azioni-borsa-valori-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T17:05:00+00:00"
+    },
+    {
+      "titolo": "Mazda CX-60 2026: i prezzi per il mercato italiano",
+      "descrizione": "Il SUV premium giapponese è disponibile in Italia con prezzi che vanno dai 55.150 euro della versione Prime-line con il motore diesel mild hybrid, ai 71.500 euro dell’allestimento Takumi...",
+      "link": "https://www.hdmotori.it/mazda-cx-60-2026-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T17:00:23+00:00"
+    },
+    {
+      "titolo": "KAI: il robot umanoide tuttofare con 18.000 sensori e pelle tattile",
+      "descrizione": "Kinetix AI lancia KAI, un umanoide con 115 gradi di libertà e pelle tattile per la casa.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657386/kai-robot-umanoide-kinetix-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:55:00+00:00"
+    },
+    {
+      "titolo": "World Wide Mafia, ‘Ndrangheta: il trailer della docuserie in arrivo su Disney+",
+      "descrizione": "Gli episodi saranno disponibili dal 20 maggio.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n657487/world-wide-mafia-ndrangheta-trailer/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:45:00+00:00"
+    },
+    {
+      "titolo": "Lumai Iris Nova: il server ottico che abbatte i consumi AI del 90%",
+      "descrizione": "Lumai lancia Iris Nova, il primo server ottico che gestisce modelli AI risparmiando il 90% di energia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657376/lumai-iris-nova-calcolo-ottico/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:20:00+00:00"
+    },
+    {
+      "titolo": "PayPal, è ufficiale: tornerà a essere un'azienda tecnologica",
+      "descrizione": "La rivoluzione sarà guidata dall'AI (immancabilmente)",
+      "link": "https://www.hdblog.it/mercato/articoli/n657451/paypal-ufficiale-azienda-tecnologica/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:15:00+00:00"
+    },
+    {
+      "titolo": "Recensione Motorola Moto G77, rimandato a settembre! VIDEO",
+      "descrizione": "Abbiamo provato il nuovo Moto G77, uno smartphone riuscito a metà. Nel complesso ha diversi punti di forza ma è proposto ad un prezzo che, ora, è davvero troppo alto",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n656526/motorola-moto-g77-prova-test-prezzo-sconto-ita/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:01:00+00:00"
+    },
+    {
+      "titolo": "Nuova Jeep Avenger: il restyling la rende più aggressiva",
+      "descrizione": "La filiale brasiliana di Jeep ha presentato in anteprima la Avenger restyling. Due giorni dopo l'annuncio si è mostrata sotto il sole di Rio",
+      "link": "https://www.hdmotori.it/nuova-jeep-avenger-restyling/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T16:00:43+00:00"
+    },
+    {
+      "titolo": "Sony Xperia 1 VIII avvistato su Amazon e Geekbench, ecco quando arriva",
+      "descrizione": "In arrivo il 26 giugno con Snapdragon 8 Elite Gen 5, jack audio... e niente obiettivo tele variabile?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657483/sony-xperia-1-viii-amazon-benchmark-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:45:00+00:00"
+    },
+    {
+      "titolo": "Google migliora la ricerca con l'AI: link più visibili e nuove fonti nelle risposte",
+      "descrizione": "Scopriamo le novità.",
+      "link": "https://www.hdblog.it/google/articoli/n657472/google-overview-ai-mode-novita-link-ricerca/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:40:00+00:00"
+    },
+    {
+      "titolo": "Come usare l’AI per prepararsi alle situazioni che spaventano",
+      "descrizione": "Questo prompt chiede all'AI di descrivere passo dopo passo cosa aspettarsi, trasformando l'ignoto in qualcosa di familiare e gestibile. The post Come usare l’AI per prepararsi alle situazioni che spaventano appeared firs",
+      "link": "https://www.punto-informatico.it/come-usare-ai-prepararsi-situazioni-che-spaventano/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T15:30:39+00:00"
+    },
+    {
+      "titolo": "Il prossimo Ford Ranger sarà cinese? Forse Geely lo ha svelato",
+      "descrizione": "Il paradosso Ford: tra l'allarme per la \"minaccia cinese\" e le trattative segrete con Geely. Dal nuovo Ranger elettrico alla Xiaomi di Farley",
+      "link": "https://www.hdmotori.it/ford-geely-collaborazione-ranger-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:30:04+00:00"
+    },
+    {
+      "titolo": "Google lavora a un nuovo abbonamento intermedio per Gemini: \"AI Ultra Lite\"",
+      "descrizione": "In lavorazione anche una dashboard per monitorare il consumo di token.",
+      "link": "https://www.hdblog.it/google/articoli/n657479/google-gemini-piano-intermedio-ai-ultra-lite/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:25:00+00:00"
+    },
+    {
+      "titolo": "Google aggiorna la ricerca AI per evidenziare le fonti",
+      "descrizione": "Google ha aggiornato AI Overview e AI Mode per fornire maggiori informazioni sugli argomenti e mostrare più link alle fonti delle notizie. The post Google aggiorna la ricerca AI per evidenziare le fonti appeared first on",
+      "link": "https://www.punto-informatico.it/google-aggiorna-ricerca-ai-evidenziare-fonti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T15:23:39+00:00"
+    },
+    {
+      "titolo": "Addio sonda: come funziona la colonscopia virtuale assistita dall'AI",
+      "descrizione": "La colonscopia virtuale con AI offre uno screening del colon efficace e senza sedazione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657466/colonscopia-virtuale-ai-screening/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:15:00+00:00"
     },
     {
       "titolo": "Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device",
@@ -16,20 +156,6 @@
       "data": "2026-05-06T14:44:41+00:00"
     },
     {
-      "titolo": "Grandi eventi, nuove regole AGCOM: ecco quali dovranno essere trasmessi in chiaro",
-      "descrizione": "Nuove regole: ampliata la lista degli eventi “di interesse pubblico”",
-      "link": "https://www.hdblog.it/eventi/articoli/n657464/grandi-eventi-agcom-cambia-regole/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T14:35:00+00:00"
-    },
-    {
-      "titolo": "Il prezzo della benzina supera 1,9 euro al litro, ai massimi da 2 anni",
-      "descrizione": "Dopo il taglio delle accise parziale per la benzina, i prezzi raggiungono un livello che non era mai più stato toccato negli ultimi due anni. Per un pieno sono necessari oltre 8 euro in...",
-      "link": "https://www.hdmotori.it/prezzo-benzina-massimi-2-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T14:30:48+00:00"
-    },
-    {
       "titolo": "Energizer ha la batteria anti-ingestione per bambini: come funziona",
       "descrizione": "Arriva la batteria a bottone più sicura: Energizer introduce una tecnologia che riduce i rischi legati all'ingestione da parte dei bambini. The post Energizer ha la batteria anti-ingestione per bambini: come funziona app",
       "link": "https://www.punto-informatico.it/energizer-ultimate-child-shield/",
@@ -37,137 +163,11 @@
       "data": "2026-05-06T14:21:27+00:00"
     },
     {
-      "titolo": "MacBook Neo, successo dirompente: Apple cerca di raddoppiare la produzione",
-      "descrizione": "TSMC è però al momento oberata di lavoro nel campo AI. Apple potrebbe essere costretta a spendere parecchio.",
-      "link": "https://www.hdblog.it/portatili/articoli/n657462/apple-macbook-neo-raddoppio-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T14:05:00+00:00"
-    },
-    {
-      "titolo": "La F1 riapre ai motori V8: pro e contro di un parziale ritorno al passato",
-      "descrizione": "Il prossimo ciclo tecnico della F1 potrebbe rappresentare una svolta. In occasione del GP di Miami si è parlato di un ritorno ai V8",
-      "link": "https://www.hdmotori.it/f1-motori-v8-ritorno/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T14:00:02+00:00"
-    },
-    {
       "titolo": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
       "descrizione": "The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room.",
       "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
       "fonte": "WIRED",
       "data": "2026-05-06T13:30:00+00:00"
-    },
-    {
-      "titolo": "Intel, accordo con Apple per i chip vicino: e i titoli volano in borsa",
-      "descrizione": "Sta per riannodarsi un'alleanza storica?",
-      "link": "https://www.hdblog.it/apple/articoli/n657446/intel-record-borsa-apple-chip-partnership/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T13:25:00+00:00"
-    },
-    {
-      "titolo": "reMarkable Paper Pure: display e-ink Carta, zero distrazioni e 3 settimane di batteria",
-      "descrizione": "reMarkable Paper Pure ha un display Canvas basato su tecnologia E Ink Carta 1300",
-      "link": "https://www.hdblog.it/tablet/articoli/n657453/remarkable-paper-pro-prezzo-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T13:20:00+00:00"
-    },
-    {
-      "titolo": "LG è stata premiata per la sostenibilità delle sue smart TV della gamma 2026",
-      "descrizione": "LG ottiene certificazioni globali per la sostenibilità delle smart TV 2026, con riconoscimenti da Intertek e E-Cycle Governance",
-      "link": "https://www.hdblog.it/tv/articoli/n657447/lg-tv-2026-sostenibili-certificazioni-ambientali/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T13:15:00+00:00"
-    },
-    {
-      "titolo": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs",
-      "descrizione": "AMD plans to expand its portfolio of CPUs for data centers that will be targeted at different workloads.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T13:11:02+00:00"
-    },
-    {
-      "titolo": "Tesla “aggira” i dazi e vende la Model 3 a meno di 25.000 euro",
-      "descrizione": "Un accordo commerciale ha ridotto i dazi sulle auto cinesi dal 100% al 6,1%, ecco perché la Tesla Model 3 costa così poco",
-      "link": "https://www.hdmotori.it/tesla-model-3-meno-25000-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T13:00:00+00:00"
-    },
-    {
-      "titolo": "Contrasto al caporalato digitale: SPID e trasparenza",
-      "descrizione": "Le piattaforme digitali devono consentire ai rider di accedere con SPID, CIE o CNS e fornire informazioni trasparenti sul funzionamento dell'algoritmo. The post Contrasto al caporalato digitale: SPID e trasparenza appear",
-      "link": "https://www.punto-informatico.it/contrasto-al-caporalato-digitale-spid-e-trasparenza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T12:53:42+00:00"
-    },
-    {
-      "titolo": "Internet è messo a rischio da guerre, censure e blackout",
-      "descrizione": "Crescono le minacce alla rete: dal Medio Oriente all'Africa, il report di Cloudflare mostra come internet sia sempre più vulnerabile. The post Internet è messo a rischio da guerre, censure e blackout appeared first on Pu",
-      "link": "https://www.punto-informatico.it/internet-rischio-guerre-censure-blackout/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T12:52:46+00:00"
-    },
-    {
-      "titolo": "TIM taglia i prezzi dei prodotti Apple: gli sconti su iPhone 17, AirPods e gli altri",
-      "descrizione": "Nuove promo TIM su dispositivi Apple: iPhone 17 da 16 euro al mese e sconti con permuta e portabilità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657444/tim-promo-iphone-a-rate-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T12:45:00+00:00"
-    },
-    {
-      "titolo": "World Password Day 2026: gli errori più comuni da evitare, dalle cifre ai trend social",
-      "descrizione": "Si celebra il World Password Day 2026: c'è ancora tanto da migliorare quando si tratta di scegliere e di gestire i codici segreti.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n657443/world-password-day-2026-errori-comuni-cifre-trend/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T12:40:00+00:00"
-    },
-    {
-      "titolo": "Edge carica in RAM tutte le password in chiaro, ma per Microsoft non è un problema",
-      "descrizione": "È l'unico browser Chromium a comportarsi così. Microsoft dice che, in chiaro o criptate, se un malware riesce ad arrivare a leggere le password il sistema è già talmente compromesso che non fa...",
-      "link": "https://www.hdblog.it/microsoft/articoli/n657442/microsoft-edge-password-chiaro-chromium/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T12:25:00+00:00"
-    },
-    {
-      "titolo": "Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support",
-      "descrizione": "This Samsung Odyssey OLED G60SF gaming monitor is now at an all-time low price of just $649.99 for a limited-time only, thanks to Woot, saving you $349.",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T11:50:18+00:00"
-    },
-    {
-      "titolo": "Dark pattern su Facebook e Instagram: indagini in Irlanda",
-      "descrizione": "L'autorità irlandese ha avviato due indagini per accertare la violazione del DSA con il design di Facebook e Instagram che impedisce la scelta del feed. The post Dark pattern su Facebook e Instagram: indagini in Irlanda",
-      "link": "https://www.punto-informatico.it/dark-pattern-facebook-instagram-indagini-irlanda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T11:02:27+00:00"
-    },
-    {
-      "titolo": "Global semiconductor sales hit nearly $300 billion in Q1 2026 — chips are on track to top $1 trillion for this year, says report",
-      "descrizione": "Sales of chips in Q1 2026 hit $298.5 billion and are on track to exceed $1 trillion this year, according to the Semiconductor Industry Association.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/global-semiconductor-sales-hit-nearly-usd300-billion-in-q1-2026-chips-are-on-track-to-top-usd1-trillion-for-this-year-says-report",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T10:00:00+00:00"
-    },
-    {
-      "titolo": "Denmark presses pause on new data center grid connections as total requests hit 60 GW — Nordic nation is the latest to put the brakes on AI buildouts",
-      "descrizione": "Denmark's Energinet grid operator has pressed pause on new connection requests in the country as potential new data centers and other installations put total demands of up to 60 GW on its docket.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T09:30:00+00:00"
-    },
-    {
-      "titolo": "Case editrici fanno causa a Meta: ha copiato i libri parola per parola",
-      "descrizione": "Cinque case editrici fanno causa a Meta. Llama riproduce testi protetti dopo l'addestramento su libri scaricati da siti pirata. The post Case editrici fanno causa a Meta: ha copiato i libri parola per parola appeared fir",
-      "link": "https://www.punto-informatico.it/case-editrici-fanno-causa-a-meta-ha-copiato-i-libri-parola-per-parola/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T09:24:57+00:00"
-    },
-    {
-      "titolo": "Microsoft Edge, le password sono leggibili nella memoria RAM",
-      "descrizione": "Le credenziali salvate in Edge sono leggibili nella memoria di sistema anche quando non in uso. Per Microsoft il comportamento non è un problema. The post Microsoft Edge, le password sono leggibili nella memoria RAM appe",
-      "link": "https://www.punto-informatico.it/microsoft-edge-password-leggibili-memoria-ram/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T08:48:57+00:00"
     }
   ]
 }

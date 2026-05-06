@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-05-06T14:48:40.375988+00:00",
+  "last_updated": "2026-05-06T20:02:24.806055+00:00",
   "items": [
     {
-      "titolo": "SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion",
-      "descrizione": "The capital figures in this filing far exceed what was disclosed when Elon Musk announced Terafab in March, where the project carried a $20 billion price tag.",
-      "link": "https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T11:41:32+00:00",
+      "titolo": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "descrizione": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "fonte": "WIRED",
+      "data": "2026-05-06T18:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Home con Gemini 3.1 capisce i comandi complessi",
-      "descrizione": "Google aggiorna Gemini per Home alla versione 3.1 con comandi multi-step e gestione degli eventi del calendario. The post Google Home con Gemini 3.1 capisce i comandi complessi appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/google-home-gemini-3-1-capisce-comandi-complessi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T11:17:07+00:00",
+      "titolo": "Xbox CEO Asha Sharma kills Copilot for Gaming — overhauls leadership with CoreAI veterans",
+      "descrizione": "Sharma took over as Xbox CEO in February after Phil Spencer retired following 38 years at Microsoft.",
+      "link": "https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-06T17:51:36+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google lavora a un nuovo abbonamento intermedio per Gemini: \"AI Ultra Lite\"",
+      "descrizione": "In lavorazione anche una dashboard per monitorare il consumo di token.",
+      "link": "https://www.hdblog.it/google/articoli/n657479/google-gemini-piano-intermedio-ai-ultra-lite/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T15:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Apple iOS 27: scelta tra ChatGPT, Gemini e Claude?",
-      "descrizione": "Gli utenti potranno scegliere ChatGPT, Gemini, Claude e altri modelli AI di terze parti per le funzionalità di Apple Intelligence disponibili in iOS27. The post Apple iOS 27: scelta tra ChatGPT, Gemini e Claude? appeared",
-      "link": "https://www.punto-informatico.it/apple-ios-27-scelta-chatgpt-gemini-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-06T08:30:33+00:00",
+      "titolo": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+      "descrizione": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "fonte": "WIRED",
+      "data": "2026-05-06T18:28:52+00:00",
       "modello": "claude"
     },
     {
