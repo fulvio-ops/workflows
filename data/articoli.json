@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T19:52:56.745157+00:00",
+  "last_updated": "2026-05-06T04:07:21.125747+00:00",
   "items": [
     {
       "titolo": "Le auto più vendute in Italia ad aprile 2026",
@@ -7,6 +7,13 @@
       "link": "https://www.hdmotori.it/auto-piu-vendute-italia-aprile-2026/",
       "fonte": "HDblog.it",
       "data": "2026-05-05T19:00:38+00:00"
+    },
+    {
+      "titolo": "Snap ci parla di Specs: cosa aspettarsi dagli occhiali AR in arrivo entro fine anno",
+      "descrizione": "Intervista ad Antoine Gilbert, responsabile dell’AR Studio di Parigi di Snap",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657279/specs-snap-occhiali-ar-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-05T19:00:00+00:00"
     },
     {
       "titolo": "Daemon Tools è stato compromesso: Kaspersky individua backdoor cinese",
@@ -112,13 +119,6 @@
       "link": "https://www.punto-informatico.it/bagarini-steam-controller-ebay/",
       "fonte": "Punto Informatico",
       "data": "2026-05-05T14:31:03+00:00"
-    },
-    {
-      "titolo": "Ride1Up batte tutti, ecco la prima bici elettrica allo stato semi-solido",
-      "descrizione": "Ride1Up lancia la Revv1 EVO, la prima e-bike al mondo con batteria allo stato semi-solido. Più sicura, ricarica rapida e una durata doppia",
-      "link": "https://www.hdmotori.it/ride1up-revv1-evo-batteria-stato-semi-solido/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T14:30:49+00:00"
     },
     {
       "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
