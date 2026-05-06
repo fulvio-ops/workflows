@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-05-06T04:07:27.042899+00:00",
+  "last_updated": "2026-05-06T14:48:40.375988+00:00",
   "items": [
     {
-      "titolo": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-      "descrizione": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-      "fonte": "WIRED",
-      "data": "2026-05-05T23:24:58+00:00",
+      "titolo": "SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion",
+      "descrizione": "The capital figures in this filing far exceed what was disclosed when Elon Musk announced Terafab in March, where the project carried a $20 billion price tag.",
+      "link": "https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-06T11:41:32+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Volvo avvia l’integrazione di Google Gemini su oltre 2,5 milioni di auto",
-      "descrizione": "Gemini sostituisce Google Assistant portando a bordo tutti i vantaggi dell’intelligenza artificiale. Un nuovo di fruire la tecnologia a bordo",
-      "link": "https://www.hdmotori.it/volvo-google-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T16:30:40+00:00",
+      "titolo": "Google Home con Gemini 3.1 capisce i comandi complessi",
+      "descrizione": "Google aggiorna Gemini per Home alla versione 3.1 con comandi multi-step e gestione degli eventi del calendario. The post Google Home con Gemini 3.1 capisce i comandi complessi appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/google-home-gemini-3-1-capisce-comandi-complessi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T11:17:07+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
-      "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T14:11:12+00:00",
+      "titolo": "Apple iOS 27: scelta tra ChatGPT, Gemini e Claude?",
+      "descrizione": "Gli utenti potranno scegliere ChatGPT, Gemini, Claude e altri modelli AI di terze parti per le funzionalità di Apple Intelligence disponibili in iOS27. The post Apple iOS 27: scelta tra ChatGPT, Gemini e Claude? appeared",
+      "link": "https://www.punto-informatico.it/apple-ios-27-scelta-chatgpt-gemini-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T08:30:33+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Case editrici fanno causa a Meta: ha copiato i libri parola per parola",
+      "descrizione": "Cinque case editrici fanno causa a Meta. Llama riproduce testi protetti dopo l'addestramento su libri scaricati da siti pirata. The post Case editrici fanno causa a Meta: ha copiato i libri parola per parola appeared fir",
+      "link": "https://www.punto-informatico.it/case-editrici-fanno-causa-a-meta-ha-copiato-i-libri-parola-per-parola/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T09:24:57+00:00",
+      "modello": "altri"
     }
   ]
 }

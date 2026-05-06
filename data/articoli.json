@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-05-06T04:07:21.125747+00:00",
+  "last_updated": "2026-05-06T14:48:37.085149+00:00",
   "items": [
     {
-      "titolo": "Le auto più vendute in Italia ad aprile 2026",
-      "descrizione": "Ecco la classifica dei modelli più venduti in Italia nel mese di aprile 2026 e le classifiche per alimentazione.",
-      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-aprile-2026/",
+      "titolo": "Samsung Galaxy Ring 2 migliorerà tre aspetti: autonomia, comfort e sensori",
+      "descrizione": "Con più autonomia, sensori più precisi e più comodo da indossare: le nuove indiscrezioni sul Samsung Galaxy Ring 2 che arrivano dalla Corea.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657454/samsung-galaxy-ring-2-autonomia-comfort-sensori/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T19:00:38+00:00"
+      "data": "2026-05-06T14:45:00+00:00"
     },
     {
-      "titolo": "Snap ci parla di Specs: cosa aspettarsi dagli occhiali AR in arrivo entro fine anno",
-      "descrizione": "Intervista ad Antoine Gilbert, responsabile dell’AR Studio di Parigi di Snap",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657279/specs-snap-occhiali-ar-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T19:00:00+00:00"
+      "titolo": "Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device",
+      "descrizione": "Valve just released the 3D CAD files for the Steam Controller and Puck under a CC BY-NC-SA 4.0 International license, allowing gamers and enthusiasts to design and 3D print their own accessories for these gadgets. The co",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-06T14:44:41+00:00"
     },
     {
-      "titolo": "Daemon Tools è stato compromesso: Kaspersky individua backdoor cinese",
-      "descrizione": "A quanto pare ci sono già diverse migliaia di computer infetti.",
-      "link": "https://www.hdblog.it/windows/articoli/n657346/daemon-tools-backdoor-hackerato-kaspersky/",
+      "titolo": "Grandi eventi, nuove regole AGCOM: ecco quali dovranno essere trasmessi in chiaro",
+      "descrizione": "Nuove regole: ampliata la lista degli eventi “di interesse pubblico”",
+      "link": "https://www.hdblog.it/eventi/articoli/n657464/grandi-eventi-agcom-cambia-regole/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T17:45:00+00:00"
+      "data": "2026-05-06T14:35:00+00:00"
     },
     {
-      "titolo": "Microsoft reimposta i widget su Windows 11: via i feed automatici di MSN",
-      "descrizione": "Gli utenti avranno la possibilità di decidere quali widget visualizzare.",
-      "link": "https://www.hdblog.it/windows-os/articoli/n657340/microsoft-widget-windows-11-disattivati/",
+      "titolo": "Il prezzo della benzina supera 1,9 euro al litro, ai massimi da 2 anni",
+      "descrizione": "Dopo il taglio delle accise parziale per la benzina, i prezzi raggiungono un livello che non era mai più stato toccato negli ultimi due anni. Per un pieno sono necessari oltre 8 euro in...",
+      "link": "https://www.hdmotori.it/prezzo-benzina-massimi-2-anni/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T17:15:00+00:00"
+      "data": "2026-05-06T14:30:48+00:00"
     },
     {
-      "titolo": "Mercedes G63 da 1,3 milioni livrea Al-Nassr, l'ultima follia di CR7",
-      "descrizione": "Cristiano Ronaldo aggiunge al suo garage da 25 milioni di dollari una Mercedes-AMG G63 Cabriolet unica al mondo",
-      "link": "https://www.hdmotori.it/cristiano-ronaldo-mercedes-amg-g63-cabriolet/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T17:00:50+00:00"
-    },
-    {
-      "titolo": "UE sempre più vicina al ban di apparecchiature di rete Huawei e ZTE",
-      "descrizione": "L'UE ha ufficialmente raccomandato agli operatori europei di non usare apparecchiature dei due produttori cinesi, considerati ad alto rischio per la sicurezza nazionale. Non è proprio un ban, ma ci...",
-      "link": "https://www.hdblog.it/zte/articoli/n657338/huawei-zte-reti-unione-europea/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T16:35:00+00:00"
-    },
-    {
-      "titolo": "Volvo avvia l’integrazione di Google Gemini su oltre 2,5 milioni di auto",
-      "descrizione": "Gemini sostituisce Google Assistant portando a bordo tutti i vantaggi dell’intelligenza artificiale. Un nuovo di fruire la tecnologia a bordo",
-      "link": "https://www.hdmotori.it/volvo-google-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T16:30:40+00:00"
-    },
-    {
-      "titolo": "Meta analizzerà struttura ossea e altri indizi per identificare i bambini sui social",
-      "descrizione": "L'analisi sarà basata su AI",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657308/meta-analisi-ai-bambini-instagram/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-05T16:25:00+00:00"
-    },
-    {
-      "titolo": "La verifica dell’età è una minaccia per il web aperto",
-      "descrizione": "Un gruppo di aziende e organizzazioni ha evidenziato che la verifica dell'età è una minaccia per il web aperto e un rischio per sicurezza e privacy. The post La verifica dell’età è una minaccia per il web aperto appeared",
-      "link": "https://www.punto-informatico.it/verifica-eta-minaccia-web-aperto/",
+      "titolo": "Energizer ha la batteria anti-ingestione per bambini: come funziona",
+      "descrizione": "Arriva la batteria a bottone più sicura: Energizer introduce una tecnologia che riduce i rischi legati all'ingestione da parte dei bambini. The post Energizer ha la batteria anti-ingestione per bambini: come funziona app",
+      "link": "https://www.punto-informatico.it/energizer-ultimate-child-shield/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T16:09:16+00:00"
+      "data": "2026-05-06T14:21:27+00:00"
     },
     {
-      "titolo": "Data center AI nel mare alimentati dalle onde, il progetto folle",
-      "descrizione": "Mentre SpaceX immagina i data center nello spazio, Panthalassa nell'oceano. Energia dalle onde, raffreddamento naturale e zero emissioni. The post Data center AI nel mare alimentati dalle onde, il progetto folle appeared",
-      "link": "https://www.punto-informatico.it/data-center-ai-mare-alimentati-onde-progetto-folle/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-05T15:49:29+00:00"
-    },
-    {
-      "titolo": "Non è un paese per single: il bestseller di Felicia Kingsley su Prime Video | Clip",
-      "descrizione": "Matilde Gioli e Cristiano Caccamo protagonisti della commedia romantica tratta dal romanzo di Felicia Kingsley, in arrivo su Prime Video nel 2026.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n601126/prime-video-bestseller-felicia-kingsley/",
+      "titolo": "MacBook Neo, successo dirompente: Apple cerca di raddoppiare la produzione",
+      "descrizione": "TSMC è però al momento oberata di lavoro nel campo AI. Apple potrebbe essere costretta a spendere parecchio.",
+      "link": "https://www.hdblog.it/portatili/articoli/n657462/apple-macbook-neo-raddoppio-produzione/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T15:43:00+00:00"
+      "data": "2026-05-06T14:05:00+00:00"
     },
     {
-      "titolo": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
-      "descrizione": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
-      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+      "titolo": "La F1 riapre ai motori V8: pro e contro di un parziale ritorno al passato",
+      "descrizione": "Il prossimo ciclo tecnico della F1 potrebbe rappresentare una svolta. In occasione del GP di Miami si è parlato di un ritorno ai V8",
+      "link": "https://www.hdmotori.it/f1-motori-v8-ritorno/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T14:00:02+00:00"
+    },
+    {
+      "titolo": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
+      "descrizione": "The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room.",
+      "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
       "fonte": "WIRED",
-      "data": "2026-05-05T15:34:33+00:00"
+      "data": "2026-05-06T13:30:00+00:00"
     },
     {
-      "titolo": "BMW iX3 Flow Edition, l'auto che muta pelle con un clic",
-      "descrizione": "Tecnologia E-Ink sul cofano con otto animazioni personalizzabili: la BMW iX3 Flow Edition trasforma la carrozzeria in un display dinamico",
-      "link": "https://www.hdmotori.it/bmw-ix3-flow-edition/",
+      "titolo": "Intel, accordo con Apple per i chip vicino: e i titoli volano in borsa",
+      "descrizione": "Sta per riannodarsi un'alleanza storica?",
+      "link": "https://www.hdblog.it/apple/articoli/n657446/intel-record-borsa-apple-chip-partnership/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T15:30:54+00:00"
+      "data": "2026-05-06T13:25:00+00:00"
     },
     {
-      "titolo": "Meta userà l’AI per stimare l’età: non riconosce il volto, ma legge segnali nei profili",
-      "descrizione": "Ecco come funziona la tecnologia per riconoscere l’età di Mark Zuckerberg",
-      "link": "https://www.ilsole24ore.com/art/meta-usera-l-ai-stimare-l-eta-non-riconosce-volto-ma-legge-segnali-profili-AIZRPwsC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-05T15:22:07+00:00"
-    },
-    {
-      "titolo": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-      "descrizione": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
-      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
-      "fonte": "WIRED",
-      "data": "2026-05-05T15:10:19+00:00"
-    },
-    {
-      "titolo": "Bose Lifestyle Ultra ufficiali: la sfida a Sonos è lanciata",
-      "descrizione": "Uno speaker bookshelf, una soundbar e un subwoofer.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n657326/bose-lifestyle-ultra-specifiche-speaker-prezzi/",
+      "titolo": "reMarkable Paper Pure: display e-ink Carta, zero distrazioni e 3 settimane di batteria",
+      "descrizione": "reMarkable Paper Pure ha un display Canvas basato su tecnologia E Ink Carta 1300",
+      "link": "https://www.hdblog.it/tablet/articoli/n657453/remarkable-paper-pro-prezzo-caratteristiche/",
       "fonte": "HDblog.it",
-      "data": "2026-05-05T15:05:00+00:00"
+      "data": "2026-05-06T13:20:00+00:00"
     },
     {
-      "titolo": "I bagarini sono il male: Steam Controller a più di 400 euro su eBay",
-      "descrizione": "Prezzi più che quadruplicati per chi rivende lo Steam Controller su eBay e altri marketplace: la piaga dei bagarini colpisce ancora. The post I bagarini sono il male: Steam Controller a più di 400 euro su eBay appeared f",
-      "link": "https://www.punto-informatico.it/bagarini-steam-controller-ebay/",
+      "titolo": "LG è stata premiata per la sostenibilità delle sue smart TV della gamma 2026",
+      "descrizione": "LG ottiene certificazioni globali per la sostenibilità delle smart TV 2026, con riconoscimenti da Intertek e E-Cycle Governance",
+      "link": "https://www.hdblog.it/tv/articoli/n657447/lg-tv-2026-sostenibili-certificazioni-ambientali/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T13:15:00+00:00"
+    },
+    {
+      "titolo": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs",
+      "descrizione": "AMD plans to expand its portfolio of CPUs for data centers that will be targeted at different workloads.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-06T13:11:02+00:00"
+    },
+    {
+      "titolo": "Tesla “aggira” i dazi e vende la Model 3 a meno di 25.000 euro",
+      "descrizione": "Un accordo commerciale ha ridotto i dazi sulle auto cinesi dal 100% al 6,1%, ecco perché la Tesla Model 3 costa così poco",
+      "link": "https://www.hdmotori.it/tesla-model-3-meno-25000-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T13:00:00+00:00"
+    },
+    {
+      "titolo": "Contrasto al caporalato digitale: SPID e trasparenza",
+      "descrizione": "Le piattaforme digitali devono consentire ai rider di accedere con SPID, CIE o CNS e fornire informazioni trasparenti sul funzionamento dell'algoritmo. The post Contrasto al caporalato digitale: SPID e trasparenza appear",
+      "link": "https://www.punto-informatico.it/contrasto-al-caporalato-digitale-spid-e-trasparenza/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T14:31:03+00:00"
+      "data": "2026-05-06T12:53:42+00:00"
     },
     {
-      "titolo": "Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington",
-      "descrizione": "OpenAI and Anthropic, which had existing evaluation partnerships with the center dating to 2024, renegotiated their deals to align with priorities in Trump's AI Action Plan.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T14:11:12+00:00"
-    },
-    {
-      "titolo": "Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand — Chinese fabs can barely keep up as Nvidia's market share craters within the region",
-      "descrizione": "The projection, based on orders already received from major Chinese technology firms including Alibaba, ByteDance, and Tencent, would represent growth of at least 60% year-over-year.",
-      "link": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T13:29:27+00:00"
-    },
-    {
-      "titolo": "Meta dovrà pagare altri 3,7 miliardi in New Mexico?",
-      "descrizione": "Lo Stato del New Mexico vuole che i servizi di Meta siano considerati un disturbo per la quiete pubblica e ha chiesto un pagamento di 3,7 miliardi. The post Meta dovrà pagare altri 3,7 miliardi in New Mexico? appeared fi",
-      "link": "https://www.punto-informatico.it/meta-dovra-pagare-altri-37-miliardi-new-mexico/",
+      "titolo": "Internet è messo a rischio da guerre, censure e blackout",
+      "descrizione": "Crescono le minacce alla rete: dal Medio Oriente all'Africa, il report di Cloudflare mostra come internet sia sempre più vulnerabile. The post Internet è messo a rischio da guerre, censure e blackout appeared first on Pu",
+      "link": "https://www.punto-informatico.it/internet-rischio-guerre-censure-blackout/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-05T13:28:14+00:00"
+      "data": "2026-05-06T12:52:46+00:00"
     },
     {
-      "titolo": "Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ",
-      "descrizione": "Lenovo has focused on trimming fat and including a brilliant display and long battery life with the Yoga Slim 7i Aura Edition.",
-      "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review",
+      "titolo": "TIM taglia i prezzi dei prodotti Apple: gli sconti su iPhone 17, AirPods e gli altri",
+      "descrizione": "Nuove promo TIM su dispositivi Apple: iPhone 17 da 16 euro al mese e sconti con permuta e portabilità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657444/tim-promo-iphone-a-rate-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T12:45:00+00:00"
+    },
+    {
+      "titolo": "World Password Day 2026: gli errori più comuni da evitare, dalle cifre ai trend social",
+      "descrizione": "Si celebra il World Password Day 2026: c'è ancora tanto da migliorare quando si tratta di scegliere e di gestire i codici segreti.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n657443/world-password-day-2026-errori-comuni-cifre-trend/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T12:40:00+00:00"
+    },
+    {
+      "titolo": "Edge carica in RAM tutte le password in chiaro, ma per Microsoft non è un problema",
+      "descrizione": "È l'unico browser Chromium a comportarsi così. Microsoft dice che, in chiaro o criptate, se un malware riesce ad arrivare a leggere le password il sistema è già talmente compromesso che non fa...",
+      "link": "https://www.hdblog.it/microsoft/articoli/n657442/microsoft-edge-password-chiaro-chromium/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-06T12:25:00+00:00"
+    },
+    {
+      "titolo": "Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support",
+      "descrizione": "This Samsung Odyssey OLED G60SF gaming monitor is now at an all-time low price of just $649.99 for a limited-time only, thanks to Woot, saving you $349.",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T12:50:52+00:00"
+      "data": "2026-05-06T11:50:18+00:00"
     },
     {
-      "titolo": "Apple considering Intel and Samsung for US chip production, report claims — consumer electronics giant looks to diversify supply chain amid chip shortages",
-      "descrizione": "Apple is reportedly in early talks with Intel and Samsung to secure more production for its advanced chips, as the company is constrained by the limited availability of advanced nodes that its SoCs are produced on.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages",
+      "titolo": "Dark pattern su Facebook e Instagram: indagini in Irlanda",
+      "descrizione": "L'autorità irlandese ha avviato due indagini per accertare la violazione del DSA con il design di Facebook e Instagram che impedisce la scelta del feed. The post Dark pattern su Facebook e Instagram: indagini in Irlanda",
+      "link": "https://www.punto-informatico.it/dark-pattern-facebook-instagram-indagini-irlanda/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T11:02:27+00:00"
+    },
+    {
+      "titolo": "Global semiconductor sales hit nearly $300 billion in Q1 2026 — chips are on track to top $1 trillion for this year, says report",
+      "descrizione": "Sales of chips in Q1 2026 hit $298.5 billion and are on track to exceed $1 trillion this year, according to the Semiconductor Industry Association.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/global-semiconductor-sales-hit-nearly-usd300-billion-in-q1-2026-chips-are-on-track-to-top-usd1-trillion-for-this-year-says-report",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T12:30:03+00:00"
+      "data": "2026-05-06T10:00:00+00:00"
     },
     {
-      "titolo": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "descrizione": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "fonte": "WIRED",
-      "data": "2026-05-05T11:59:20+00:00"
-    },
-    {
-      "titolo": "Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs — firmly states US should have 'the first, the most, and the best' when it comes to AI hardware",
-      "descrizione": "Nvidia's Jensen Huang reiterates that American companies should be able to ship their products globally, but maintains that the latest AI accelerators should remain in America.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware",
+      "titolo": "Denmark presses pause on new data center grid connections as total requests hit 60 GW — Nordic nation is the latest to put the brakes on AI buildouts",
+      "descrizione": "Denmark's Energinet grid operator has pressed pause on new connection requests in the country as potential new data centers and other installations put total demands of up to 60 GW on its docket.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-05T11:53:22+00:00"
+      "data": "2026-05-06T09:30:00+00:00"
+    },
+    {
+      "titolo": "Case editrici fanno causa a Meta: ha copiato i libri parola per parola",
+      "descrizione": "Cinque case editrici fanno causa a Meta. Llama riproduce testi protetti dopo l'addestramento su libri scaricati da siti pirata. The post Case editrici fanno causa a Meta: ha copiato i libri parola per parola appeared fir",
+      "link": "https://www.punto-informatico.it/case-editrici-fanno-causa-a-meta-ha-copiato-i-libri-parola-per-parola/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T09:24:57+00:00"
+    },
+    {
+      "titolo": "Microsoft Edge, le password sono leggibili nella memoria RAM",
+      "descrizione": "Le credenziali salvate in Edge sono leggibili nella memoria di sistema anche quando non in uso. Per Microsoft il comportamento non è un problema. The post Microsoft Edge, le password sono leggibili nella memoria RAM appe",
+      "link": "https://www.punto-informatico.it/microsoft-edge-password-leggibili-memoria-ram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-06T08:48:57+00:00"
     }
   ]
 }
