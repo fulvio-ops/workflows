@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-07T08:48:08.558815+00:00",
+  "last_updated": "2026-05-07T15:05:12.785410+00:00",
   "items": [
     {
-      "titolo": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "descrizione": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "fonte": "WIRED",
-      "data": "2026-05-06T23:23:45+00:00",
+      "titolo": "Halo, si va avanti: partono i lavori per il nuovo capitolo della saga principale",
+      "descrizione": "Halo Studios cerca un nuovo Narrative Design Director.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n657613/halo-nuovo-gioco-campagna-flood-endless/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T13:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Gemini Agent: arriva il nuovo assistente che lavora per te",
-      "descrizione": "Google testa Gemini Agent, un assistente attivo 24 ore su 24 per gestire compiti e acquisti.",
-      "link": "https://www.hdblog.it/google/articoli/n657537/gemini-agent-google-assistente-personale/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T08:05:00+00:00",
+      "titolo": "L’app Fitbit cambia, Google lancia il Coach Ai con Gemini e un tracker senza schermo",
+      "descrizione": "Rivoluzione in casa Google: l’app Fitbit cambierà ufficialmente nome e volto per trasformarsi nella nuova app “Google Health”. La mossa vuole risolvere alla radice il problema della frammentazione dei dati...",
+      "link": "https://www.ilsole24ore.com/art/l-app-fitbit-cambia-google-lancia-coach-con-gemini-e-tracker-senza-schermo-AIinBbsC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-07T14:17:57+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic userà il data center Colossus 1 di SpaceXAI",
-      "descrizione": "Anthropic utilizzerà la capacità di calcolo del data center Colossus 1 di SpaceXAI (nuovo nome di xAI) per migliorare le prestazioni di Claude. The post Anthropic userà il data center Colossus 1 di SpaceXAI appeared firs",
-      "link": "https://www.punto-informatico.it/anthropic-data-center-colossus-1-spacexai/",
+      "titolo": "Claude spiega come costruire esplosivi",
+      "descrizione": "I ricercatori di Mindgard hanno ottenuto le istruzioni per costruire un esplosivo attraverso la manipolazione psicologica di Claude Sonnet 4.5. The post Claude spiega come costruire esplosivi appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/claude-spiega-come-costruire-esplosivi/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-07T07:16:03+00:00",
+      "data": "2026-05-07T14:53:27+00:00",
       "modello": "claude"
     }
   ]
