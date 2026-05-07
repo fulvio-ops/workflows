@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-07T15:05:06.032498+00:00",
+  "last_updated": "2026-05-07T19:55:29.390547+00:00",
   "items": [
+    {
+      "titolo": "Fastweb+Vodafone contro iliad: chiesto lo stop alla pubblicità con Megan Gale",
+      "descrizione": "Benedetto Levi pubblica la diffida",
+      "link": "https://www.hdblog.it/iliad/articoli/n657647/fastweb-diffida-iliad-spot-megan-gale/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T19:33:00+00:00"
+    },
+    {
+      "titolo": "AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E — roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor",
+      "descrizione": "AMD launches a new MI350P PCIe AI-accelerator card with half the cores and memory of its flagship Instinct MI355X GPU. The new card provides customers with a drop-in upgrade solution for existing air-cooled servers.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-07T19:07:58+00:00"
+    },
+    {
+      "titolo": "World password day, il furto di credenziali colpisce il 67% delle aziende italiane",
+      "descrizione": "Lo studio di Genetec, società fornitrice di software di sicurezza, in occasione della Giornata mondiale: il furto delle credenziali resta il problema principale; l’Italia punta a risolvere questa questione orientando la",
+      "link": "https://www.ilsole24ore.com/art/world-password-day-furto-credenziali-colpisce-67percento-aziende-italiane-AISvT8vC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-07T18:56:44+00:00"
+    },
+    {
+      "titolo": "Ho provato Huawei Watch Fit 5 Pro, e mi era mancato! | VIDEO",
+      "descrizione": "Abbiamo provato il nuovo Huawei Watch Fit 5 Pro, uno smartwatch molto interessante che coniuga dimensioni compatte e comfort con prestazioni e funzionalità di fascia alta",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n657531/huawei-watch-fit-5-pro-test-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T18:50:00+00:00"
+    },
+    {
+      "titolo": "L'AI copia il cervello umano: un progetto della Statale di Milano",
+      "descrizione": "Così la capacità di analisi migliora",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657607/ai-cervello-umano-statale-milano/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T17:40:00+00:00"
+    },
+    {
+      "titolo": "1X avvia la produzione di NEO: 100 mila robot umanoidi entro il 2027",
+      "descrizione": "La società 1X apre in California una fabbrica per produrre 100.000 umanoidi NEO entro il 2027.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657534/fabbrica-robot-umanoidi-1x-neo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T17:30:00+00:00"
+    },
+    {
+      "titolo": "LineShine è il nuovo mostro di calcolo cinese da 2 exaflop",
+      "descrizione": "La Cina presenta LineShine, supercomputer da 2 exaflop basato su tecnologia interamente locale.",
+      "link": "https://www.hdblog.it/hardware/articoli/n657526/supercomputer-cina-lineshine-2-exaflop/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T17:15:00+00:00"
+    },
+    {
+      "titolo": "Samsung non rinuncia agli Exynos: i nuovi chip a 1.4nm saranno pura potenza",
+      "descrizione": "Pare che Samsung abbia iniziato a lavorare sui nuovi chip Exynos con processo produttivo a 1.4 nanometri.",
+      "link": "https://www.hdblog.it/hardware/articoli/n657612/samsung-nuovi-chip-exynos/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T17:05:00+00:00"
+    },
+    {
+      "titolo": "Google annuncia Fitbit Air con la nuova app Health",
+      "descrizione": "Fitbit Air è il nuovo fitness tracker di Google senza schermo e pulsanti, mentre Google Health è l'app per registrare i dati (sostituirà l'app Fitbit). The post Google annuncia Fitbit Air con la nuova app Health appeared",
+      "link": "https://www.punto-informatico.it/google-annuncia-fitbit-air-nuova-app-health/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T17:02:49+00:00"
+    },
+    {
+      "titolo": "Laser e squali: ecco la tecnologia che he rivela l'età reale di quelli più rari",
+      "descrizione": "Ricercatori australiani usano laser e geochimica per proteggere lo squalo dente di lancia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657517/laser-protezione-squali-rari/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T16:45:00+00:00"
+    },
+    {
+      "titolo": "Lanciato un nuovo simulatore di guida, rivoluzione nel Motorsport",
+      "descrizione": "Si chiama Delta T1 Sport ed è opera di Ansible Motion, azienda leader nella produzione di simulatori Driver-in-the-Loop",
+      "link": "https://www.hdmotori.it/nuovo-simulatore-guida-rivoluzione-motorsport/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T16:30:06+00:00"
+    },
+    {
+      "titolo": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "descrizione": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "fonte": "WIRED",
+      "data": "2026-05-07T16:25:48+00:00"
+    },
+    {
+      "titolo": "Nothing Ear (open), novità in arrivo: stesse cuffiette, cambia il colore",
+      "descrizione": "Tra poco disponibili in Italia anche in blu: ecco da quando.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657633/nothing-ear-open-blu-nuovo-colore-italia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T16:10:00+00:00"
+    },
+    {
+      "titolo": "Kimera fa rivivere lo spirito racing della Lancia 037: K39 Race Car correrà al Pikes Peak",
+      "descrizione": "L’iconica Lancia 037 trova nell’erede creata da Kimera Automobili una nuova speranza per fare la storia nelle sfide di velocità",
+      "link": "https://www.hdmotori.it/kimera-k39-race-car-pikes-peak/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T16:00:36+00:00"
+    },
+    {
+      "titolo": "Yann LeCun ai giovani: Non lasciatevi bloccare dalla paura dell’AI",
+      "descrizione": "Yann LeCun invita i giovani a non farsi paralizzare dalla paura dell'intelligenza artificiale. Consiglia di ascoltare gli economisti, non chi vende l'AI. The post Yann LeCun ai giovani: Non lasciatevi bloccare dalla paur",
+      "link": "https://www.punto-informatico.it/yann-lecun-giovani-non-lasciatevi-bloccare-paura-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T15:58:57+00:00"
+    },
+    {
+      "titolo": "Character.AI: denuncia negli USA per i chatbot dottori",
+      "descrizione": "La Pennsylvania ha denunciato Character.AI perché i suoi chatbot forniscono consigli medici affermando di essere dottori con regolare licenza. The post Character.AI: denuncia negli USA per i chatbot dottori appeared firs",
+      "link": "https://www.punto-informatico.it/character-ai-denuncia-usa-chatbot-dottori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T15:49:17+00:00"
+    },
+    {
+      "titolo": "Elle arriva su Prime Video: il liceo di Elle Woods si fa vedere nel teaser ufficiale",
+      "descrizione": "Elle racconta l’adolescenza di Elle Woods e debutta il 1° luglio su Prime Video.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n645913/elle-prequel-prime-video-luglio/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T15:45:00+00:00"
+    },
+    {
+      "titolo": "SwitchBot Standing Circulator Fan: il ventilatore smart pensato per ogni stagione",
+      "descrizione": "SwitchBot Standing Circulator Fan combina controllo smart, autonomia fino a 28 ore e ventilazione silenziosa per la casa.",
+      "link": "https://www.hdblog.it/home/articoli/n656910/switchbot-standing-circulator-fan-il-ventilatore-smart-pensato-per-ogni-stagione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T15:35:00+00:00"
+    },
+    {
+      "titolo": "Diabetes Detection Needs Better Tools. They’re on the Way",
+      "descrizione": "Blood glucose levels can be a reliable indicator of diabetes risk. But in some populations, it's not enough to catch the disease early.",
+      "link": "https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/",
+      "fonte": "WIRED",
+      "data": "2026-05-07T15:32:45+00:00"
+    },
+    {
+      "titolo": "Come usare l’AI per informarsi e tenersi aggiornati in 20 minuti",
+      "descrizione": "un prompt AI trasforma il bombardamento di notizie in un resoconto chiaro, strutturato e personalizzato per essere davvero più informati. The post Come usare l’AI per informarsi e tenersi aggiornati in 20 minuti appeared",
+      "link": "https://www.punto-informatico.it/come-usare-ai-informarsi-tenersi-aggiornati-20-minuti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T15:30:07+00:00"
+    },
+    {
+      "titolo": "Lian Li’s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups — five new wood-finished models are available now",
+      "descrizione": "The updated version adds a dark walnut finish while retaining support for dual systems, large GPUs, and extensive cooling setups.",
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-07T15:23:07+00:00"
+    },
+    {
+      "titolo": "Kodak Cam Shot Mini 1 ERA a 35€: bellissima mini fotocamera stampante in bianco e nero",
+      "descrizione": "Kodak Cam Shot Mini 1 ERA è in sconto del 39% su Amazon e la prendi a 35€ circa soltanto.",
+      "link": "https://www.hdblog.it/hardware/offerte/n657638/kodak-cam-shot-mini-1-era-promozione-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T15:16:00+00:00"
+    },
     {
       "titolo": "Mercedes Classe C elettrica: i prezzi per il mercato italiano",
       "descrizione": "Mercedes-Benz ha scelto di promuovere una nuova variante 100% elettrica della Classe C. Doppio motore da 490 CV e autonomia di 762 km",
@@ -14,160 +168,6 @@
       "link": "https://www.punto-informatico.it/postemobile-rete-tim-migrazione-completata/",
       "fonte": "Punto Informatico",
       "data": "2026-05-07T14:59:37+00:00"
-    },
-    {
-      "titolo": "Govee, arrivano tre nuove lampade da pavimento RGB super personalizzabili",
-      "descrizione": "Due su tre sono già disponibili all'acquisto su Amazon Italia.",
-      "link": "https://www.hdblog.it/domotica/articoli/n657634/govee-luci-pavimento-prezzi-novita-specifiche-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:55:00+00:00"
-    },
-    {
-      "titolo": "Motherboard sales 'collapse' by more than 25% as chipmakers strangle enthusiast PC market to build more AI chips — Asus projected to sell 5 million fewer boards in 2025, Gigabyte, MSI, and ASRock also expected to see red",
-      "descrizione": "The combined sales of the four biggest motherboard manufacturers are expected to fall by at least 28% in 2026, with the entire industry selling 11.7 million less units due to increasing PC component costs.",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-07T14:48:44+00:00"
-    },
-    {
-      "titolo": "La visione dell'Europa per l'AI: regole più semplici, senza rinunciare alla sicurezza",
-      "descrizione": "Raggiunto a Bruxelles un accordo per semplificare le regole europee sull'intelligenza artificiale: innovazione, competitività e sicurezza.",
-      "link": "https://www.hdblog.it/business/articoli/n657618/visione-europa-ai-regole-piu-semplici-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:45:00+00:00"
-    },
-    {
-      "titolo": "Spotify, il DJ virtuale / assistente vocale è arrivato anche in Italia",
-      "descrizione": "Un mix tra conduttore radiofonico virtuale e assistente vocale.",
-      "link": "https://www.hdblog.it/android/articoli/n657628/spotify-dj-ai-italiano-comandi-vocali/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:25:00+00:00"
-    },
-    {
-      "titolo": "L’app Fitbit cambia, Google lancia il Coach Ai con Gemini e un tracker senza schermo",
-      "descrizione": "Rivoluzione in casa Google: l’app Fitbit cambierà ufficialmente nome e volto per trasformarsi nella nuova app “Google Health”. La mossa vuole risolvere alla radice il problema della frammentazione dei dati...",
-      "link": "https://www.ilsole24ore.com/art/l-app-fitbit-cambia-google-lancia-coach-con-gemini-e-tracker-senza-schermo-AIinBbsC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-07T14:17:57+00:00"
-    },
-    {
-      "titolo": "Huawei nova 15 Max ufficiale con X Button laterale e super batteria da 8500mAh",
-      "descrizione": "In arrivo sul mercato internazionale in tre colorazioni.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657615/huawei-nova-15-max-caratteristiche-batteria-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:15:00+00:00"
-    },
-    {
-      "titolo": "Questo smartwatch di Huawei è un gioiello: arriva anche da noi per quasi 4.000 euro",
-      "descrizione": "Ben 99 diamanti naturali e inserti in cristallo di zaffiro.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657611/huawei-watch-ultimate-design-spring-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:10:00+00:00"
-    },
-    {
-      "titolo": "Frame Gen obbligatoria per il nuovo LEGO Batman anche a dettagli minimi?",
-      "descrizione": "Frame Gen... per andare in FHD a 1080p con dettagli minimi? Che vuol dire che il gioco viene effettivamente renderizzato dal motore a 15 FPS? Non sta per niente in piedi.",
-      "link": "https://www.hdblog.it/games/articoli/n657621/lego-batman-legacy-dark-knight-requisiti/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T14:05:00+00:00"
-    },
-    {
-      "titolo": "Hyundai Tucson Dark Line: l’offerta per il mese di maggio con anticipo zero e interessi zero",
-      "descrizione": "Per tutto il mese di maggio Hyundai propone la Tucson Dark Line MY26 con il finanziamento Hyundai Plus a TAN 0% e anticipo zero",
-      "link": "https://www.hdmotori.it/hyundai-tucson-dark-line-offerta-maggio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T13:30:00+00:00"
-    },
-    {
-      "titolo": "L’Italia è il sesto Paese al mondo per ransomware, gli attacchi sono raddoppiati in un anno",
-      "descrizione": "Nel 2025 Yarix ha registrato oltre 520mila eventi di sicurezza: il 30% si è trasformato in incidente e 741 casi hanno raggiunto il livello critico.",
-      "link": "https://www.ilsole24ore.com/art/l-italia-e-sesto-paese-mondo-ransomware-attacchi-sono-raddoppiati-un-anno-AIznQqvC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-07T13:04:10+00:00"
-    },
-    {
-      "titolo": "Maserati GT2 Stradale 914: tributo al design esclusivo del Tridente",
-      "descrizione": "L’esemplare Fuoriserie inneggia alla storia di Maserati con elementi racing e il poderoso motore V6 Nettuno da 640 CV",
-      "link": "https://www.hdmotori.it/maserati-gt2-stradale-914/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T13:00:30+00:00"
-    },
-    {
-      "titolo": "OnePlus Nord CE6 Lite ufficiale: economico, ma con tante rinunce | Prezzo",
-      "descrizione": "OnePlus Nord CE6 Lite è ufficiale in India con batteria da 7.000 mAh, display LCD a 144 Hz e prezzo molto competitivo nella fascia economica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657605/oneplus-nord-ce6-lite-immagini-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T12:55:00+00:00"
-    },
-    {
-      "titolo": "Musk's SpaceX has rented out access to its supercomputer's 220,000 Nvidia GPUs and 300 megawatts of AI compute power to rival Anthropic — Musk says “No one set off my evil detector,” Antrhropic also interested in orbital",
-      "descrizione": "Anthropic has signed a deal with SpaceX to access the latter's massive data center, which has over 220,000 Nvidia GPUs and 300 megawatts of computing power.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-07T12:19:55+00:00"
-    },
-    {
-      "titolo": "Pechino sfida Washington per la corsa alla Luna",
-      "descrizione": "Il 17 febbraio scorso, a Pechino, si è tenuta la grande cerimonia-spettacolo del Capodanno cinese, che ha aperto quello che, secondo quel calendario, è l’Anno del Cavallo. Durante lo spettacolo,...",
-      "link": "https://www.ilsole24ore.com/art/sulla-luna-pechino-sfida-washington-spazio-AI3p4zqC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-07T12:17:00+00:00"
-    },
-    {
-      "titolo": "Crisi dei fertilizzanti, Africa e Asia soffrono la fame",
-      "descrizione": "I più colpiti dal blocco dello stretto di Hormuz non saranno i trasporti aerei, rimasti senza cherosene, o gli automobilisti senza benzina, ma gli agricoltori senza fertilizzanti. Tanto che l’Onu...",
-      "link": "https://www.ilsole24ore.com/art/crisi-fertilizzanti-africa-e-asia-soffrono-fame-AIUah0qC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-07T12:16:00+00:00"
-    },
-    {
-      "titolo": "Save $1,100 on this powerful gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — ABS Stratos Aqua on deep discount",
-      "descrizione": "Score the potent ABS Stratos Aqua ready-to-game prebuilt with i9-14900KF and RTX 5070 Ti for just $2,175.",
-      "link": "https://www.tomshardware.com/pc-components/save-usd1-100-on-this-powerful-gaming-rig-with-nvidia-rtx-5070-ti-intel-14900kf-32gb-of-ram-and-2tb-of-storage-abs-stratos-aqua-on-deep-discount",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-07T12:04:43+00:00"
-    },
-    {
-      "titolo": "Spotify lancia il suo DJ in Italia: sceglie i brani con la voce di Alex",
-      "descrizione": "Con il rollout internazionale, Spotify porta il DJ virtuale in Italia: la sua voce accompagna gli utenti Premium nella scoperta musicale. The post Spotify lancia il suo DJ in Italia: sceglie i brani con la voce di Alex a",
-      "link": "https://www.punto-informatico.it/spotify-dj-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-07T11:59:26+00:00"
-    },
-    {
-      "titolo": "Nvidia’s ISP piracy defense backfires as judge refuses to dismiss copyright lawsuit over more than 197,000 pirated books — scripts in NeMo Framework allegedly ‘have no other purpose’ than to speed up infringement",
-      "descrizione": "Nvidia said that its NeMo Megatron Framework has non-infringing uses and that it's not liable for any piracy that its users might do.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-isp-piracy-defense-backfires-as-judge-refuses-to-dismiss-copyright-lawsuit-over-more-than-197-000-pirated-books-scripts-in-nemo-framework-allegedly-have-no-other-purpose-than-to-speed-up-infringement",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-07T11:54:02+00:00"
-    },
-    {
-      "titolo": "Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’",
-      "descrizione": "Brian Michael Hinds found accidental internet fame through a resemblance to the controversial manosphere figure. He’s still wrestling with what to do with it.",
-      "link": "https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/",
-      "fonte": "WIRED",
-      "data": "2026-05-07T10:30:00+00:00"
-    },
-    {
-      "titolo": "I PDF Adobe diventano esperienze interattive condivisibili con l’AI",
-      "descrizione": "Adobe lancia PDF Spaces su Acrobat. Si caricano i documenti, l'AI genera presentazioni interattive con riassunto audio e chatbot personalizzato. The post I PDF Adobe diventano esperienze interattive condivisibili con l’A",
-      "link": "https://www.punto-informatico.it/pdf-adobe-diventano-esperienze-interattive-condivisibili-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-07T10:20:41+00:00"
-    },
-    {
-      "titolo": "Samsung chip workers reject $340,000 one-time bonus, demand annual payouts like SK hynix's $900,000 — workers want share of AI windfall, impending 18-day strike could cost Samsung up to $11.7 billion",
-      "descrizione": "Negotiations between the National Samsung Electronics Union, which represents workers in the company’s chipmaking division, and management have seemingly broken down over a single issue.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-07T10:15:48+00:00"
-    },
-    {
-      "titolo": "Meravigliosa Smart TV 4K da 65 pollici a soli 474€ su Amazon",
-      "descrizione": "Una meravigliosa Smart TV 4K da 65 pollici di ultima generazione è in offerta speciale su Amazon a soli 474€: semplicemente imperdibile. The post Meravigliosa Smart TV 4K da 65 pollici a soli 474€ su Amazon appeared firs",
-      "link": "https://www.punto-informatico.it/meravigliosa-smart-tv-4k-65-pollici-soli-474-euro-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-07T10:11:44+00:00"
     }
   ]
 }
