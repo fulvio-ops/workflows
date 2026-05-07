@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-05-07T04:06:49.719149+00:00",
+  "last_updated": "2026-05-07T08:48:04.786967+00:00",
   "items": [
     {
-      "titolo": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "descrizione": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "fonte": "WIRED",
-      "data": "2026-05-06T23:23:45+00:00"
-    },
-    {
-      "titolo": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
-      "descrizione": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
-      "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
-      "fonte": "WIRED",
-      "data": "2026-05-06T19:32:03+00:00"
-    },
-    {
-      "titolo": "Recensione Motorola Moto G77, rimandato a settembre! VIDEO",
-      "descrizione": "Abbiamo provato il nuovo Moto G77, uno smartphone riuscito a metà. Nel complesso ha diversi punti di forza ma è proposto ad un prezzo che, ora, è davvero troppo alto",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n656526/motorola-moto-g77-prova-test-prezzo-sconto-ita/",
+      "titolo": "Musk sfida i colossi dei chip: ecco il piano Terafab da 119 miliardi",
+      "descrizione": "SpaceX valuta un investimento record in Texas per produrre chip destinati a AI, Tesla e satelliti.",
+      "link": "https://www.hdblog.it/mercato/articoli/n657549/spacex-terafab-chip-texas/",
       "fonte": "HDblog.it",
-      "data": "2026-05-06T19:01:00+00:00"
+      "data": "2026-05-07T08:40:00+00:00"
     },
     {
-      "titolo": "PayPal, è ufficiale: tornerà a essere un'azienda tecnologica",
-      "descrizione": "La rivoluzione sarà guidata dall'AI (immancabilmente)",
-      "link": "https://www.hdblog.it/mercato/articoli/n657451/paypal-ufficiale-azienda-tecnologica/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T19:00:00+00:00"
-    },
-    {
-      "titolo": "Megan Gale ritorna: il volto storico di Omnitel protagonista del nuovo spot iliad",
-      "descrizione": "Megan Gale torna protagonista di una campagna pubblicitaria telco",
-      "link": "https://www.hdblog.it/iliad/articoli/n657385/megan-gale-protagonista-spot-iliad/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T18:59:00+00:00"
-    },
-    {
-      "titolo": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-      "descrizione": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-      "fonte": "WIRED",
-      "data": "2026-05-06T18:00:00+00:00"
-    },
-    {
-      "titolo": "Amazon Blink, arrivano i videocitofoni 2K | Subito in super sconto!",
-      "descrizione": "Disponibili sia senza fili sia cablati, per la massima versatilità.",
-      "link": "https://www.hdblog.it/amazon/articoli/n657503/amazon-blink-videocitofoni-2k-prezzi-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T17:35:00+00:00"
-    },
-    {
-      "titolo": "Un vecchio reattore USA ora alimenta l'intelligenza artificiale",
-      "descrizione": "Un reattore di ricerca dello Utah produce elettricità per l'AI per la prima volta in mezzo secolo.",
-      "link": "https://www.hdblog.it/green/articoli/n657395/reattore-nucleare-utah-energia-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T17:30:00+00:00"
-    },
-    {
-      "titolo": "Motubrain: il nuovo cervello unico per robot nasce in Cina",
-      "descrizione": "ShengShu Technology lancia Motubrain, un modello AI unico per rendere i robot autonomi e versatili.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657408/motubrain-ai-robotica-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T17:15:00+00:00"
-    },
-    {
-      "titolo": "Nvidia invests $300 million in Corning to build three new US-based optical fiber plants — AI infrastructure deal would boost fiber production capacity by over 50%",
-      "descrizione": "Nvidia invests $300 million in Corning to help partners that deploy its hardware in the U.S. to get enough of optical fiber, grant Nvidia control over a significant chunk of domestic fiber production.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-invests-usd300-million-in-corning-to-build-three-new-us-based-optical-fiber-plants-ai-infrastructure-deal-would-boost-fiber-production-capacity-by-over-50-percent",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T17:13:05+00:00"
-    },
-    {
-      "titolo": "AMD vola in borsa grazie alla corsa all'intelligenza artificiale",
-      "descrizione": "Il fatto che le CPU siano sempre più tenute in considerazione gioca particolarmente a favore della società americana.",
-      "link": "https://www.hdblog.it/hardware/articoli/n657498/amd-ai-azioni-borsa-valori-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T17:05:00+00:00"
-    },
-    {
-      "titolo": "Mazda CX-60 2026: i prezzi per il mercato italiano",
-      "descrizione": "Il SUV premium giapponese è disponibile in Italia con prezzi che vanno dai 55.150 euro della versione Prime-line con il motore diesel mild hybrid, ai 71.500 euro dell’allestimento Takumi...",
-      "link": "https://www.hdmotori.it/mazda-cx-60-2026-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T17:00:23+00:00"
-    },
-    {
-      "titolo": "KAI: il robot umanoide tuttofare con 18.000 sensori e pelle tattile",
-      "descrizione": "Kinetix AI lancia KAI, un umanoide con 115 gradi di libertà e pelle tattile per la casa.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657386/kai-robot-umanoide-kinetix-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T16:55:00+00:00"
-    },
-    {
-      "titolo": "World Wide Mafia, ‘Ndrangheta: il trailer della docuserie in arrivo su Disney+",
-      "descrizione": "Gli episodi saranno disponibili dal 20 maggio.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n657487/world-wide-mafia-ndrangheta-trailer/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T16:45:00+00:00"
-    },
-    {
-      "titolo": "Lumai Iris Nova: il server ottico che abbatte i consumi AI del 90%",
-      "descrizione": "Lumai lancia Iris Nova, il primo server ottico che gestisce modelli AI risparmiando il 90% di energia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657376/lumai-iris-nova-calcolo-ottico/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T16:20:00+00:00"
-    },
-    {
-      "titolo": "Nuova Jeep Avenger: il restyling la rende più aggressiva",
-      "descrizione": "La filiale brasiliana di Jeep ha presentato in anteprima la Avenger restyling. Due giorni dopo l'annuncio si è mostrata sotto il sole di Rio",
-      "link": "https://www.hdmotori.it/nuova-jeep-avenger-restyling/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T16:00:43+00:00"
-    },
-    {
-      "titolo": "Sony Xperia 1 VIII avvistato su Amazon e Geekbench, ecco quando arriva",
-      "descrizione": "In arrivo il 26 giugno con Snapdragon 8 Elite Gen 5, jack audio... e niente obiettivo tele variabile?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657483/sony-xperia-1-viii-amazon-benchmark-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T15:45:00+00:00"
-    },
-    {
-      "titolo": "Google migliora la ricerca con l'AI: link più visibili e nuove fonti nelle risposte",
-      "descrizione": "Scopriamo le novità.",
-      "link": "https://www.hdblog.it/google/articoli/n657472/google-overview-ai-mode-novita-link-ricerca/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-06T15:40:00+00:00"
-    },
-    {
-      "titolo": "Come usare l’AI per prepararsi alle situazioni che spaventano",
-      "descrizione": "Questo prompt chiede all'AI di descrivere passo dopo passo cosa aspettarsi, trasformando l'ignoto in qualcosa di familiare e gestibile. The post Come usare l’AI per prepararsi alle situazioni che spaventano appeared firs",
-      "link": "https://www.punto-informatico.it/come-usare-ai-prepararsi-situazioni-che-spaventano/",
+      "titolo": "Tutti saremo spiati da insetti cyborg spia “invisibili”",
+      "descrizione": "Una start up tedesca sta progettando insetti cyborg spia, ma non è la prima volta che rischiamo di essere spiati da insetti con telecamere. The post Tutti saremo spiati da insetti cyborg spia “invisibili” appeared first",
+      "link": "https://www.punto-informatico.it/tutti-saremo-spiati-insetti-cyborg-spia-invisibili/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-06T15:30:39+00:00"
+      "data": "2026-05-07T08:37:57+00:00"
     },
     {
-      "titolo": "Il prossimo Ford Ranger sarà cinese? Forse Geely lo ha svelato",
-      "descrizione": "Il paradosso Ford: tra l'allarme per la \"minaccia cinese\" e le trattative segrete con Geely. Dal nuovo Ranger elettrico alla Xiaomi di Farley",
-      "link": "https://www.hdmotori.it/ford-geely-collaborazione-ranger-elettrico/",
+      "titolo": "Xbox avrà una nuova animazione all'avvio dalla prossima settimana: ecco il video",
+      "descrizione": "Il nuovo logo comincia a sbarcare su Xbox",
+      "link": "https://www.hdblog.it/microsoft/articoli/n657545/xbox-nuovo-video-avvio-settimana-prossima/",
       "fonte": "HDblog.it",
-      "data": "2026-05-06T15:30:04+00:00"
+      "data": "2026-05-07T08:35:00+00:00"
     },
     {
-      "titolo": "Google lavora a un nuovo abbonamento intermedio per Gemini: \"AI Ultra Lite\"",
-      "descrizione": "In lavorazione anche una dashboard per monitorare il consumo di token.",
-      "link": "https://www.hdblog.it/google/articoli/n657479/google-gemini-piano-intermedio-ai-ultra-lite/",
+      "titolo": "Huawei Watch Fit 5 Series arriva in Italia: benessere, stile e pagamenti dal polso",
+      "descrizione": "Il wearable si conferma uno dei pochi segmenti dell’elettronica di consumo ancora caratterizzato da una crescita strutturale. In questo contesto Huawei ha consolidato un vantaggio competitivo che nel 2025 l’ha...",
+      "link": "https://www.ilsole24ore.com/art/huawei-watch-fit-5-series-arriva-italia-benessere-stile-e-pagamenti-polso-AINPsrtC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-07T08:32:02+00:00"
+    },
+    {
+      "titolo": "Bollo auto, sconto del 5% con la domiciliazione bancaria: chi può richiederlo",
+      "descrizione": "La Regione Piemonte ha attivato il servizio “Domicilia il bollo”. Chi sceglie l'addebito automatico sul conto corrente paga il 5% in meno",
+      "link": "https://www.hdmotori.it/bollo-auto-sconto-domiciliazione-bancaria-piemonte/",
       "fonte": "HDblog.it",
-      "data": "2026-05-06T15:25:00+00:00"
+      "data": "2026-05-07T08:30:55+00:00"
     },
     {
-      "titolo": "Google aggiorna la ricerca AI per evidenziare le fonti",
-      "descrizione": "Google ha aggiornato AI Overview e AI Mode per fornire maggiori informazioni sugli argomenti e mostrare più link alle fonti delle notizie. The post Google aggiorna la ricerca AI per evidenziare le fonti appeared first on",
-      "link": "https://www.punto-informatico.it/google-aggiorna-ricerca-ai-evidenziare-fonti/",
+      "titolo": "Trasloco fibra Iliad, con l’ok di Agcom gli impegni diventano vincolanti",
+      "descrizione": "Iliad dovrà garantire il trasloco della linea internet mantenendo condizioni economiche e servizi. Agcom rende vincolanti gli impegni dell’operatore",
+      "link": "https://www.hdblog.it/iliad/articoli/n657550/iliad-agcom-trasloco-fibra-impegni-approvazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T08:25:00+00:00"
+    },
+    {
+      "titolo": "One UI 8.5 arriva in Italia: ecco tutti i Samsung Galaxy compatibili",
+      "descrizione": "Samsung ha avviato il rollout per la nuova versione di One UI: l'elenco degli smartphone e dei tablet Galaxy supportati, anche in Italia. The post One UI 8.5 arriva in Italia: ecco tutti i Samsung Galaxy compatibili appe",
+      "link": "https://www.punto-informatico.it/one-ui-8-5italia-samsung-galaxy-compatibili/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-06T15:23:39+00:00"
+      "data": "2026-05-07T08:21:05+00:00"
     },
     {
-      "titolo": "Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device",
-      "descrizione": "Valve just released the 3D CAD files for the Steam Controller and Puck under a CC BY-NC-SA 4.0 International license, allowing gamers and enthusiasts to design and 3D print their own accessories for these gadgets. The co",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T14:44:41+00:00"
+      "titolo": "A Brema inizia un'altra storia, quella della nuova Mercedes-Benz GLC elettrica",
+      "descrizione": "Con oltre 10 milioni di auto prodotte e 10.500 dipendenti, Brema si conferma centro di eccellenza per Mercedes-Benz. Qui nasce la nuova GLC",
+      "link": "https://www.hdmotori.it/mercedes-benz-glc-brema/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T08:00:33+00:00"
     },
     {
-      "titolo": "Energizer ha la batteria anti-ingestione per bambini: come funziona",
-      "descrizione": "Arriva la batteria a bottone più sicura: Energizer introduce una tecnologia che riduce i rischi legati all'ingestione da parte dei bambini. The post Energizer ha la batteria anti-ingestione per bambini: come funziona app",
-      "link": "https://www.punto-informatico.it/energizer-ultimate-child-shield/",
+      "titolo": "Gli scienziati hanno trovato il confine della Via Lattea",
+      "descrizione": "Dopo tanto tempo di ricerche, finalmente gli scienziati hanno trovato il confine della Via Lattea a circa 40 mila anni luce dal centro. The post Gli scienziati hanno trovato il confine della Via Lattea appeared first on",
+      "link": "https://www.punto-informatico.it/scienziati-trovato-confine-via-lattea/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-06T14:21:27+00:00"
+      "data": "2026-05-07T07:57:06+00:00"
+    },
+    {
+      "titolo": "Huawei Mate 90 Pro Max, il ritorno della telefoto con zoom 10x?",
+      "descrizione": "In generale il comparto fotografico promette faville, con sensore principale da 1\" e doppia tele.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657542/huawei-mate-90-pro-max-zoom-10x-telefoto/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:55:00+00:00"
+    },
+    {
+      "titolo": "Xbox cambia boot: la nuova animazione di avvio per Series X/S",
+      "descrizione": "A partire dal 13 maggio, le Xbox Series X/S avranno un nuovo boot: cambia l'animazione per rafforzare la rinnovata identità del marchio. The post Xbox cambia boot: la nuova animazione di avvio per Series X/S appeared fir",
+      "link": "https://www.punto-informatico.it/xbox-cambia-boot-nuova-animazione-avvio-series-x-s/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T07:54:09+00:00"
+    },
+    {
+      "titolo": "OnePlus 16 alza l'asticella: periscopio da 200 MP e batteria da 9.000 mAh",
+      "descrizione": "Dopo un 15 più moderato, OnePlus 16 potrebbe alzare l'asticella della scheda tecnica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657535/oneplus-16-rumor-batteria-fotocamera-soc/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:50:00+00:00"
+    },
+    {
+      "titolo": "Google vuole che i musicisti emergenti usino l’AI, la strategia",
+      "descrizione": "Google offre Flow Music agli artisti emergenti. La strategia è inserire l'AI nel processo creativo dei musicisti del futuro fin dall'inizio. The post Google vuole che i musicisti emergenti usino l’AI, la strategia appear",
+      "link": "https://www.punto-informatico.it/google-musicisti-emergenti-usino-ai-strategia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T07:42:36+00:00"
+    },
+    {
+      "titolo": "Luce e gas, prezzi in calo ad aprile: le conseguenze sulla bolletta",
+      "descrizione": "Ma il mese prossimo la situazione potrebbe cambiare di nuovo.",
+      "link": "https://www.hdblog.it/green/articoli/n657530/energia-elettrica-luce-gas-aprile-2026-gme-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:40:00+00:00"
+    },
+    {
+      "titolo": "Samsung One UI 8.5 stabile è in rollout, ma in Italia serve un pizzico di pazienza",
+      "descrizione": "La One UI 8.5 stabile è stata confermata ufficialmente da Samsung. Il rollout globale inizierà nei prossimi giorni anche in Europa con tante novità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657536/samsung-one-ui-85-quando-arriva-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:35:00+00:00"
+    },
+    {
+      "titolo": "Lexus TZ, il nuovo SUV elettrico con tre file di sedili",
+      "descrizione": "Dal concetto di \"Driving Lounge\" ai 530 km di autonomia: come il nuovo Lexus TZ a sei posti ridefinisce il lusso giapponese",
+      "link": "https://www.hdmotori.it/lexus-tz-suv-6-posti/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:30:21+00:00"
+    },
+    {
+      "titolo": "Energizer lancia le pile a bottone che non bruciano se ingerite",
+      "descrizione": "Energizer presenta pile al litio che evitano ustioni esofagee e segnalano l'ingestione con un colorante.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n657529/energizer-batterie-sicurezza-bambini/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:25:00+00:00"
+    },
+    {
+      "titolo": "Stop a virus, malware e truffe online con Avast al 60% di sconto",
+      "descrizione": "Ottieni subito una soluzione efficace ed efficiente contro virus, malware e truffe online con Avast, ora in offerta speciale al 60% di sconto. The post Stop a virus, malware e truffe online con Avast al 60% di sconto app",
+      "link": "https://www.punto-informatico.it/stop-virus-malware-truffe-online-avast-60-percento-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T07:16:09+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro, nessun ritorno al titanio: Apple continuerà ad usare l'alluminio",
+      "descrizione": "Nessuna marcia indietro secondo i rumor che arrivano dalla Cina.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657512/iphone-18-pro-apple-alluminio-titanio-leak-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-07T07:05:00+00:00"
+    },
+    {
+      "titolo": "Claude: gli agenti AI riflettono sulle sessioni passate e imparano",
+      "descrizione": "Gli agenti di Claude rivedono le sessioni passate, identificano schemi e aggiornano la memoria. Anthropic continua a umanizzare la propria AI. The post Claude: gli agenti AI riflettono sulle sessioni passate e imparano a",
+      "link": "https://www.punto-informatico.it/claude-agenti-ai-riflettono-sessioni-passate-imparano/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T06:55:26+00:00"
+    },
+    {
+      "titolo": "Meta prepara l’agente IA «Hatch» e lo shopping automatico su Instagram",
+      "descrizione": "Il nuovo progetto di Meta punta a trasformare le piattaforme social in assistenti digitali capaci di eseguire compiti complessi e automatizzare lo shopping online",
+      "link": "https://www.ilsole24ore.com/art/meta-prepara-l-agente-ia-hatch-e-shopping-automatico-instagram-AIojdFvC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-07T06:52:00+00:00"
+    },
+    {
+      "titolo": "Chrome e modello AI da 4 GB: Google chiarisce, ma non convince",
+      "descrizione": "Secondo Google, il modello AI scaricato in locale da Chrome è presente dal 2024 ed è possibile eliminarlo dalle impostazioni, ma non è così. The post Chrome e modello AI da 4 GB: Google chiarisce, ma non convince appeare",
+      "link": "https://www.punto-informatico.it/chrome-modello-ai-4-gb-google-chiarisce/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T06:09:15+00:00"
+    },
+    {
+      "titolo": "Guarda la semifinale di Pechino Express su NOW a un prezzo folle",
+      "descrizione": "Assicurati la semifinale di Pechino Express in streaming grazie a NOW, la piattaforma che offre i contenuti di Sky a un prezzo folle. The post Guarda la semifinale di Pechino Express su NOW a un prezzo folle appeared fir",
+      "link": "https://www.punto-informatico.it/guarda-semifinale-pechino-express-now-prezzo-folle/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-07T06:00:35+00:00"
+    },
+    {
+      "titolo": "Pragmata, fantascienza a due mani: Capcom scommette sull’ibrido tra azione e cervello",
+      "descrizione": "Il nuovo titolo di Capcom unisce spari e hacking in tempo reale: visione forte, meccaniche originali, ma ritmo irregolare e qualche limite nell’IA frenano un esperimento ambizioso.",
+      "link": "https://www.ilsole24ore.com/art/pragmata-fantascienza-due-mani-capcom-scommette-sull-ibrido-azione-e-cervello-AIbzGHjC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-07T05:31:29+00:00"
     }
   ]
 }

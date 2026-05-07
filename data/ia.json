@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:06:53.286444+00:00",
+  "last_updated": "2026-05-07T08:48:08.558815+00:00",
   "items": [
     {
       "titolo": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
@@ -18,28 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google lavora a un nuovo abbonamento intermedio per Gemini: \"AI Ultra Lite\"",
-      "descrizione": "In lavorazione anche una dashboard per monitorare il consumo di token.",
-      "link": "https://www.hdblog.it/google/articoli/n657479/google-gemini-piano-intermedio-ai-ultra-lite/",
+      "titolo": "Google Gemini Agent: arriva il nuovo assistente che lavora per te",
+      "descrizione": "Google testa Gemini Agent, un assistente attivo 24 ore su 24 per gestire compiti e acquisti.",
+      "link": "https://www.hdblog.it/google/articoli/n657537/gemini-agent-google-assistente-personale/",
       "fonte": "HDblog.it",
-      "data": "2026-05-06T15:25:00+00:00",
+      "data": "2026-05-07T08:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "descrizione": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "fonte": "WIRED",
-      "data": "2026-05-06T18:28:52+00:00",
-      "modello": "claude"
-    },
-    {
-      "titolo": "Case editrici fanno causa a Meta: ha copiato i libri parola per parola",
-      "descrizione": "Cinque case editrici fanno causa a Meta. Llama riproduce testi protetti dopo l'addestramento su libri scaricati da siti pirata. The post Case editrici fanno causa a Meta: ha copiato i libri parola per parola appeared fir",
-      "link": "https://www.punto-informatico.it/case-editrici-fanno-causa-a-meta-ha-copiato-i-libri-parola-per-parola/",
+      "titolo": "Anthropic userà il data center Colossus 1 di SpaceXAI",
+      "descrizione": "Anthropic utilizzerà la capacità di calcolo del data center Colossus 1 di SpaceXAI (nuovo nome di xAI) per migliorare le prestazioni di Claude. The post Anthropic userà il data center Colossus 1 di SpaceXAI appeared firs",
+      "link": "https://www.punto-informatico.it/anthropic-data-center-colossus-1-spacexai/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-06T09:24:57+00:00",
-      "modello": "altri"
+      "data": "2026-05-07T07:16:03+00:00",
+      "modello": "claude"
     }
   ]
 }
