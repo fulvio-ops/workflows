@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-05-07T19:55:29.390547+00:00",
+  "last_updated": "2026-05-08T03:55:05.891940+00:00",
   "items": [
+    {
+      "titolo": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "descrizione": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "fonte": "WIRED",
+      "data": "2026-05-08T01:42:14+00:00"
+    },
+    {
+      "titolo": "Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given — Copy Fail-like vulnerability had its embargo broken",
+      "descrizione": "Dirty Frag exploit gets root on most Linux machines since 2017, no patches available",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-08T00:17:41+00:00"
+    },
     {
       "titolo": "Fastweb+Vodafone contro iliad: chiesto lo stop alla pubblicità con Megan Gale",
       "descrizione": "Benedetto Levi pubblica la diffida",
@@ -79,8 +93,8 @@
       "data": "2026-05-07T16:30:06+00:00"
     },
     {
-      "titolo": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
-      "descrizione": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "titolo": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+      "descrizione": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
       "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
       "fonte": "WIRED",
       "data": "2026-05-07T16:25:48+00:00"
@@ -154,20 +168,6 @@
       "link": "https://www.hdblog.it/hardware/offerte/n657638/kodak-cam-shot-mini-1-era-promozione-amazon/",
       "fonte": "HDblog.it",
       "data": "2026-05-07T15:16:00+00:00"
-    },
-    {
-      "titolo": "Mercedes Classe C elettrica: i prezzi per il mercato italiano",
-      "descrizione": "Mercedes-Benz ha scelto di promuovere una nuova variante 100% elettrica della Classe C. Doppio motore da 490 CV e autonomia di 762 km",
-      "link": "https://www.hdmotori.it/mercedes-classe-c-elettrica-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-07T15:00:43+00:00"
-    },
-    {
-      "titolo": "PosteMobile: tutti i clienti sono su rete TIM, migrazione completata",
-      "descrizione": "Poste Italiane conferma di aver completato la migrazione: tutte le utenze PosteMobile sono ora gestite sulle infrastrutture della rete TIM. The post PosteMobile: tutti i clienti sono su rete TIM, migrazione completata ap",
-      "link": "https://www.punto-informatico.it/postemobile-rete-tim-migrazione-completata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-07T14:59:37+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-07T19:55:34.175928+00:00",
+  "last_updated": "2026-05-08T03:55:09.877408+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
-      "descrizione": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "titolo": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "descrizione": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
       "fonte": "WIRED",
-      "data": "2026-05-07T16:25:48+00:00",
+      "data": "2026-05-08T01:42:14+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "L’app Fitbit cambia, Google lancia il Coach Ai con Gemini e un tracker senza schermo",
-      "descrizione": "Rivoluzione in casa Google: l’app Fitbit cambierà ufficialmente nome e volto per trasformarsi nella nuova app “Google Health”. La mossa vuole risolvere alla radice il problema della frammentazione dei dati...",
-      "link": "https://www.ilsole24ore.com/art/l-app-fitbit-cambia-google-lancia-coach-con-gemini-e-tracker-senza-schermo-AIinBbsC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-07T14:17:57+00:00",
+      "titolo": "How to Disable Google's Gemini in Chrome",
+      "descrizione": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "fonte": "WIRED",
+      "data": "2026-05-07T20:31:57+00:00",
       "modello": "gemini"
     },
     {
