@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-08T03:55:09.877408+00:00",
+  "last_updated": "2026-05-08T07:58:48.637188+00:00",
   "items": [
     {
-      "titolo": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "descrizione": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "fonte": "WIRED",
-      "data": "2026-05-08T01:42:14+00:00",
+      "titolo": "Un contatto fidato su ChatGPT, che l'AI può avvisare per chiedere aiuto al posto tuo",
+      "descrizione": "Ora è possibile indicare un contatto fidato su ChatGPT, da contattare se l'AI identifica un potenziale rischio di autolesionismo o suicidio.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n657672/contatto-fidato-chatgpt-aiuto-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-08T07:55:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude spiega come costruire esplosivi",
-      "descrizione": "I ricercatori di Mindgard hanno ottenuto le istruzioni per costruire un esplosivo attraverso la manipolazione psicologica di Claude Sonnet 4.5. The post Claude spiega come costruire esplosivi appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/claude-spiega-come-costruire-esplosivi/",
+      "titolo": "Mythos di Anthropic scova su Firefox bug nascosti da 15 anni",
+      "descrizione": "Con Mythos di Anthropic Firefox è passato da 31 a 423 bug corretti in un anno, incluse vulnerabilità nella sandbox e bug nascosti da anni. The post Mythos di Anthropic scova su Firefox bug nascosti da 15 anni appeared fi",
+      "link": "https://www.punto-informatico.it/mythos-anthropic-scova-firefox-bug-nascosti-da-15-anni/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-07T14:53:27+00:00",
+      "data": "2026-05-08T07:46:22+00:00",
       "modello": "claude"
     }
   ]
