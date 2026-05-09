@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-05-09T08:12:11.929577+00:00",
+  "last_updated": "2026-05-09T13:54:21.157022+00:00",
   "items": [
+    {
+      "titolo": "Nextorage NEM-PAC 2TB SSD Review: A solid, PS5-ready workhorse",
+      "descrizione": "The Nextorage NEM-PAC is a quiet contender with good performance and a PS5-compliant heatsink. It’s a competent Gen 4 SSD but is otherwise unexciting.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/nextorage-nem-pac-2tb-ssd-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-09T13:37:47+00:00"
+    },
+    {
+      "titolo": "Testing Nvidia's RTX Mega Geometry tech — VRAM-reducing tech a leap forward for path-traced rendering",
+      "descrizione": "We took Nvidia's RTX Mega Geometry technology through a series of tests in Alan Wake 2 and the RTX Bonsai Diorama Demo to see how this tech reduces VRAM consumption and eliminates visual artifacts, thus helping pave the",
+      "link": "https://www.tomshardware.com/pc-components/gpus/testing-nvidias-rtx-mega-geometry-tech-vram-reducing-tech-a-leap-forward-for-path-traced-rendering",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-09T13:00:38+00:00"
+    },
+    {
+      "titolo": "Supermicro-tied execs used Thailand government entity to ship Nvidia AI GPUs to China — report alleges Chinese web giant Alibaba received restricted servers",
+      "descrizione": "A network to smuggle restricted Nvidia AI hardware has been found: it shipped to Alibaba, among other destinations.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/supermicro-tied-execs-used-thailand-government-entity-to-ship-nvidia-ai-gpus-to-china-report-alleges-chinese-web-giant-alibaba-received-restricted-servers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-09T10:40:00+00:00"
+    },
+    {
+      "titolo": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+      "descrizione": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+      "fonte": "WIRED",
+      "data": "2026-05-09T10:30:00+00:00"
+    },
+    {
+      "titolo": "Tappy è il telecomando wireless di Boox per sfogliare gli eBook",
+      "descrizione": "Tappy è compatibile con tutti i dispositivi Android.",
+      "link": "https://www.hdblog.it/tablet/articoli/n657782/boox-tappy-telecomando-wireless-sfogliare-ebook/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T10:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 25H2: novità per Esplora file e touchpad",
+      "descrizione": "Microsoft ha annunciato nuove build di Windows 11 con diversi miglioramenti che riguardano principalmente Esplora file e le gesture con i touchpad. The post Windows 11 25H2: novità per Esplora file e touchpad appeared fi",
+      "link": "https://www.punto-informatico.it/windows-11-25h2-novita-esplora-file-touchpad/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-09T10:20:00+00:00"
+    },
+    {
+      "titolo": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy",
+      "descrizione": "A grey-market economy of API proxy services in China is reselling access to Anthropic's Claude models at as little as 10% of the official price.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-09T10:20:00+00:00"
+    },
+    {
+      "titolo": "La revisione auto potrebbe cambiare, l'UE ipotizza test più numerosi e severi",
+      "descrizione": "Revisioni valide in tutta l'Unione e lotta dura ai contachilometri schilometrati: le novità della bozza UE per proteggere i consumatori",
+      "link": "https://www.hdmotori.it/revisione-auto-bozza-ue/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T10:00:41+00:00"
+    },
+    {
+      "titolo": "Simulazioni spaziali 100 volte più veloci con la nuova Physics AI",
+      "descrizione": "La Physics AI di Flexcompute e Northrop Grumman accelera le simulazioni spaziali di 100 volte.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657667/physics-ai-simulazioni-spazio-northrop-grumman/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T09:05:00+00:00"
+    },
+    {
+      "titolo": "Hyundai sviluppa il telaio body-on-frame per l'off-road elettrico",
+      "descrizione": "Svelato da un brevetto, il nuovo layout della batteria offrirà robustezza e prestazioni senza precedenti su un inedito pick-up del marchio.",
+      "link": "https://www.hdmotori.it/hyundai-telaio-body-on-frame-off-road-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T09:00:20+00:00"
+    },
+    {
+      "titolo": "Tablet a mano di 200€ su Amazon? Questo Xiaomi è il modello giusto",
+      "descrizione": "Lo Xiaomi Redi Pad 2 è in offerta su Amazon e ora costa meno di 200 euro: per tanti è un best buy.",
+      "link": "https://www.hdblog.it/tablet/offerte/n657809/tablet-xioami-offerta-amazon-200-euro-mag26/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T08:55:00+00:00"
+    },
     {
       "titolo": "Nuova batosta per il DOGE di Musk: tagli alle sovvenzioni incostituzionali",
       "descrizione": "Il \"dipartimento\" usava ChatGPT per stabilire se i progetti sovvenzionati facevano parte di iniziative DEI; se sì, addio sovvenzioni. Niente controlli, niente verifiche.",
@@ -72,46 +149,11 @@
       "data": "2026-05-08T17:05:00+00:00"
     },
     {
-      "titolo": "Toyota Professional, al via il nuovo Programma Allestimenti",
-      "descrizione": "Con 3 anni di garanzia integrata e canoni da 149 euro: l’offerta Toyota Professional che azzera i pensieri degli artigiani e delle aziende",
-      "link": "https://www.hdmotori.it/toyota-professional-al-via-il-nuovo-programma-allestimenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T16:30:51+00:00"
-    },
-    {
-      "titolo": "ASUS Gold Store, tasso zero più kasko: ROG, Zenbook e ProArt in promo fino al 1° giugno",
-      "descrizione": "Dal 5 maggio al 1° giugno ASUS attiva nei Gold Store una promo esclusiva che unisce finanziamento a Tasso Zero, copertura Kasko per 12 mesi e garanzia estesa a 3 anni su una selezione di notebook...",
-      "link": "https://www.hdblog.it/portatili/offerte/n657624/asus-gold-store-tasso-zero-kasko-notebook/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T16:30:00+00:00"
-    },
-    {
-      "titolo": "La crisi dei chip di memoria mette in difficoltà anche l'Internet Archive",
-      "descrizione": "I prezzi degli hard disk meccanici, usati per l'archiviazione delle vecchie istanze del Web, è triplicato nell'ultimo periodo. E internet continua a espandersi...",
-      "link": "https://www.hdblog.it/hardware/articoli/n657776/crisi-chip-internet-archive-wikimedia-hdd/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T16:05:00+00:00"
-    },
-    {
-      "titolo": "OnePlus sta riducendo drasticamente il supporto software dei suoi smartphone?",
-      "descrizione": "A quanto pare il recentissimo Nord CE6 riceverà solo 2 major e 4 anni di patch, a differenza della formula 4+6 del diretto predecessore CE5. E il marketing della società è anche piuttosto fuorviante.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657772/oneplus-nord-ce-6-supporto-software-major-patch/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T15:45:00+00:00"
-    },
-    {
       "titolo": "Il prompt AI per ottenere risposte precise al primo tentativo",
       "descrizione": "Basta riscrivere i prompt tre volte, una frase aggiunta alla fine di qualsiasi richiesta cambia radicalmente la qualità delle risposte dell'AI. The post Il prompt AI per ottenere risposte precise al primo tentativo appea",
       "link": "https://www.punto-informatico.it/prompt-ai-ottenere-risposte-precise-primo-tentativo/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T15:30:15+00:00"
-    },
-    {
-      "titolo": "Kia Sportage TriFuel al debutto: ecco le prime impressioni al volante - Video",
-      "descrizione": "Abbiamo provato la nuova Kia Sportage nella motorizzazione TriFuel che abbina al Full Hybrid benzina l'alimentazione a GPL",
-      "link": "https://www.hdmotori.it/prove/kia-sportage-trifuel-primo-contatto-su-strada/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T15:30:04+00:00"
     },
     {
       "titolo": "Apple AirPods Pro 3 con cancellazione attiva del rumore a 50€ in meno",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/nuovi-chip-snapdragon-smartphone-economici/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T15:08:15+00:00"
-    },
-    {
-      "titolo": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "descrizione": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "fonte": "WIRED",
-      "data": "2026-05-08T15:00:00+00:00"
-    },
-    {
-      "titolo": "Ma quale aumento: Amazon ti fa risparmiare 40 euro su Switch 2",
-      "descrizione": "Nintendo ha annunciato un aumento di prezzo per Switch 2, ma puoi ancora evitarlo, anzi risparmiare: ecco lo sconto che fa per te. The post Ma quale aumento: Amazon ti fa risparmiare 40 euro su Switch 2 appeared first on",
-      "link": "https://www.punto-informatico.it/ma-quale-aumento-amazon-ti-fa-risparmiare-40-euro-su-switch-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T14:52:24+00:00"
-    },
-    {
-      "titolo": "North Korean fake remote worker scam lands two Americans 18-month prison sentences for hosting laptops — US firms unknowingly shipped laptops to “employees” who secretly worked from overseas via remote desktop, generatin",
-      "descrizione": "Two Americans have been sentenced to prison for helping North Korean operatives infiltrate nearly 70 US companies through fraudulent remote IT jobs, enabling overseas access to company laptops via RDP and generating over",
-      "link": "https://www.tomshardware.com/tech-industry/north-korean-fake-remote-worker-scam-lands-two-americans-18-month-prison-sentences-for-hosting-laptops-us-firms-unknowingly-shipped-laptops-to-employees-who-secretly-worked-from-overseas-via-remote-desktop-generating-usd1-2-million-for-pyongyang",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-08T14:37:15+00:00"
-    },
-    {
-      "titolo": "Cybertruck perde pezzi, letteralmente: le ruote si possono staccare",
-      "descrizione": "Richiamo per alcuni Tesla Cybertruck: i fori dei prigionieri potrebbero danneggiarsi e provocare il distacco delle ruote dal pick-up. The post Cybertruck perde pezzi, letteralmente: le ruote si possono staccare appeared",
-      "link": "https://www.punto-informatico.it/cybertruck-perde-pezzi-ruote-possono-staccare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T14:22:17+00:00"
-    },
-    {
-      "titolo": "Eventi da trasmettere in chiaro: ecco il nuovo elenco",
-      "descrizione": "AGCOM ha approvato il nuovo elenco degli eventi (sportivi e culturali) di particolare rilevanza per la società che devono essere trasmessi in chiaro. The post Eventi da trasmettere in chiaro: ecco il nuovo elenco appeare",
-      "link": "https://www.punto-informatico.it/eventi-trasmettere-chiaro-nuovo-elenco/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T13:54:05+00:00"
-    },
-    {
-      "titolo": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
-      "descrizione": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for your needs.",
-      "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "fonte": "Latest news",
-      "data": "2026-05-08T13:20:00+00:00"
     }
   ]
 }
