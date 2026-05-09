@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-09T03:57:53.917180+00:00",
+  "last_updated": "2026-05-09T08:12:14.919368+00:00",
   "items": [
     {
-      "titolo": "HUAWEI MatePad Pro Max: nuovo tablet con schermo OLED",
-      "descrizione": "Il nuovo HUAWEI MatePad Pro Max ha uno schermo OLED da 13,2 pollici, 12 GB di RAM, 256/512 GB di storage, fotocamere da 50 e 12 megapixel. The post HUAWEI MatePad Pro Max: nuovo tablet con schermo OLED appeared first on",
-      "link": "https://www.punto-informatico.it/huawei-matepad-pro-max-nuovo-tablet-schermo-oled/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T17:06:35+00:00",
+      "titolo": "Nuova batosta per il DOGE di Musk: tagli alle sovvenzioni incostituzionali",
+      "descrizione": "Il \"dipartimento\" usava ChatGPT per stabilire se i progetti sovvenzionati facevano parte di iniziative DEI; se sì, addio sovvenzioni. Niente controlli, niente verifiche.",
+      "link": "https://www.hdblog.it/mercato/articoli/n657798/elon-musk-doge-ai-incostituzionale-sovvenzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T08:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Spotify accoglie i podcast AI generati da Claude Code e Codex",
-      "descrizione": "Gli agenti AI possono generare riassunti audio e salvarli come podcast personali su Spotify. Basta aggiungere salva su Spotify al prompt. The post Spotify accoglie i podcast AI generati da Claude Code e Codex appeared fi",
-      "link": "https://www.punto-informatico.it/spotify-accoglie-podcast-ai-generati-claude-code-codex/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T09:21:34+00:00",
+      "titolo": "Anthropic, al vaglio una raccolta fondi per una valutazione da 1.000 miliardi di dollari",
+      "descrizione": "Anthropic sta valutando la possibilità di raccogliere decine di miliardi di dollari, quest’estate, per finanziare una grande espansione della sua capacità di calcolo. Una mossa simile potrebbe portare la sua...",
+      "link": "https://www.ilsole24ore.com/art/anthropic-vaglio-raccolta-fondi-una-valutazione-1000-miliardi-dollari-AI8HJ0wC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-08T05:31:00+00:00",
       "modello": "claude"
     }
   ]

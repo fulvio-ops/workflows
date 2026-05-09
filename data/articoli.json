@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-09T03:57:50.353650+00:00",
+  "last_updated": "2026-05-09T08:12:11.929577+00:00",
   "items": [
+    {
+      "titolo": "Nuova batosta per il DOGE di Musk: tagli alle sovvenzioni incostituzionali",
+      "descrizione": "Il \"dipartimento\" usava ChatGPT per stabilire se i progetti sovvenzionati facevano parte di iniziative DEI; se sì, addio sovvenzioni. Niente controlli, niente verifiche.",
+      "link": "https://www.hdblog.it/mercato/articoli/n657798/elon-musk-doge-ai-incostituzionale-sovvenzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T08:05:00+00:00"
+    },
+    {
+      "titolo": "La Classe G si veste di azzurro: Mansory crea la versione più disturbante di sempre",
+      "descrizione": "Persino gli appassionati delle varianti più assurde della Mercedes Classe G rimarranno a bocca aperta. Scopriamo l’ultima opera di Mansory",
+      "link": "https://www.hdmotori.it/mercedes-classe-g-cabrio-mansory/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T08:00:28+00:00"
+    },
+    {
+      "titolo": "Arriva su Mac l'agente AI di Perplexity: gestione dei file in totale autonomia",
+      "descrizione": "Perplexity lancia l'app su macOS per tutti, con AI che gestisce file, app e processi: ottimizzata per Mac mini.",
+      "link": "https://www.hdblog.it/portatili/articoli/n657793/mac-agente-ai-perplexity/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T07:25:00+00:00"
+    },
     {
       "titolo": "Ho provato OPPO Find X9 Ultra in Cina tra skyline e panda | VIDEO",
       "descrizione": "Abbiamo provato le fotocamere di OPPO Find X9 Ultra in giro per Chengdu e Chongqing. Probabilmente è il miglior top di gamma come completezza per le fotocamere. Ci ha convinto?",
@@ -100,32 +121,11 @@
       "data": "2026-05-08T15:10:44+00:00"
     },
     {
-      "titolo": "TikTok: i riassunti dell’AI in cui scambia un cane per un origami saranno disattivati",
-      "descrizione": "La funzione era disponibile in via sperimentale per alcuni utenti.",
-      "link": "https://www.hdblog.it/social/articoli/n657760/tiktok-riassunti-ai-disattivati/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T15:10:00+00:00"
-    },
-    {
       "titolo": "Nuovi chip Snapdragon per smartphone economici",
       "descrizione": "Snapdragon 6 Gen 5 e 4 Gen 5 sono i nuovi chip annunciati da Qualcomm per smartphone di fascia media/bassa che arriveranno sul mercato nei prossimi mesi. The post Nuovi chip Snapdragon per smartphone economici appeared f",
       "link": "https://www.punto-informatico.it/nuovi-chip-snapdragon-smartphone-economici/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T15:08:15+00:00"
-    },
-    {
-      "titolo": "Linux, attenzione alla falla \"Dirty Frag\", ancora più pericolosa di CopyFail",
-      "descrizione": "Assomiglia a CopyFail ma è virtualmente più pericolosa perché ancora non ci sono patch. Fortunatamente c'è una misura temporanea per mettere la macchina in sicurezza.",
-      "link": "https://www.hdblog.it/linux/articoli/n657766/linux-falla-grave-dirty-frag-copyfail-root/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T15:05:00+00:00"
-    },
-    {
-      "titolo": "Bugatti Chiron Pur Sport: la distrazione che poteva costare una fortuna [VIDEO]",
-      "descrizione": "Anche i miliardari sbagliano: il video della Bugatti Chiron Pur Sport che trascina il tubo del carburante in California fa il giro del web",
-      "link": "https://www.hdmotori.it/bugatti-chiron-pompa-benzina-video-virale/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T15:00:56+00:00"
     },
     {
       "titolo": "There’s a Long-Shot Proposal to Protect California Workers From AI",
@@ -140,13 +140,6 @@
       "link": "https://www.punto-informatico.it/ma-quale-aumento-amazon-ti-fa-risparmiare-40-euro-su-switch-2/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T14:52:24+00:00"
-    },
-    {
-      "titolo": "Nanoleaf cambia pelle: AI e robot per una tecnologia accessibile a tutti",
-      "descrizione": "Non solo domotica per l'azienda specializzata in illuminazione smart.",
-      "link": "https://www.hdblog.it/domotica/articoli/n657753/nanoleaf-ai-robotica-novita-futuro/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T14:50:00+00:00"
     },
     {
       "titolo": "North Korean fake remote worker scam lands two Americans 18-month prison sentences for hosting laptops — US firms unknowingly shipped laptops to “employees” who secretly worked from overseas via remote desktop, generatin",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/eventi-trasmettere-chiaro-nuovo-elenco/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T13:54:05+00:00"
+    },
+    {
+      "titolo": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
+      "descrizione": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for your needs.",
+      "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "fonte": "Latest news",
+      "data": "2026-05-08T13:20:00+00:00"
     }
   ]
 }
