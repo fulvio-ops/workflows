@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-05-09T13:54:21.157022+00:00",
+  "last_updated": "2026-05-09T19:35:00.696208+00:00",
   "items": [
+    {
+      "titolo": "F1 2027, dietrofront parziale sull’elettrico e più motore termico",
+      "descrizione": "Un rovesciamento inatteso nella F1, con il ritorno a un ripartizione della potenza più orientata al motore termico rispetto al PU elettrica",
+      "link": "https://www.hdmotori.it/f1-2027-dietrofront-parziale-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-09T17:30:43+00:00"
+    },
+    {
+      "titolo": "Accesso ai dati bloccato: denuncia per LinkedIn",
+      "descrizione": "L'organizzazione noyb ha denunciato LinkedIn perché non permette di accedere gratuitamente ai dati, ma chiede di sottoscrivere l'abbonamento Premium. The post Accesso ai dati bloccato: denuncia per LinkedIn appeared firs",
+      "link": "https://www.punto-informatico.it/accesso-dati-bloccato-denuncia-linkedin/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-09T16:47:10+00:00"
+    },
+    {
+      "titolo": "Dirty Frag: nuove vulnerabilità per le distribuzioni Linux",
+      "descrizione": "Dirty Frag è il nome di un exploit che sfrutta due nuove vulnerabilità del kernel Linux per ottenere privilegi root ed eseguire qualsiasi azione. The post Dirty Frag: nuove vulnerabilità per le distribuzioni Linux appear",
+      "link": "https://www.punto-informatico.it/dirty-frag-nuove-vulnerabilita-distribuzioni-linux/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-09T16:02:20+00:00"
+    },
+    {
+      "titolo": "Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises",
+      "descrizione": "Maryland is complaining to the federal energy regulator about PJM's plan to charge it $2 billion for grid upgrades that will mostly benefit data centers, especially as the state claims that the majority of these developm",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-09T14:22:45+00:00"
+    },
     {
       "titolo": "Nextorage NEM-PAC 2TB SSD Review: A solid, PS5-ready workhorse",
       "descrizione": "The Nextorage NEM-PAC is a quiet contender with good performance and a PS5-compliant heatsink. It’s a competent Gen 4 SSD but is otherwise unexciting.",
@@ -72,7 +100,7 @@
       "data": "2026-05-09T09:00:20+00:00"
     },
     {
-      "titolo": "Tablet a mano di 200€ su Amazon? Questo Xiaomi è il modello giusto",
+      "titolo": "Tablet a meno di 200€ su Amazon? Questo Xiaomi è il modello giusto",
       "descrizione": "Lo Xiaomi Redi Pad 2 è in offerta su Amazon e ora costa meno di 200 euro: per tanti è un best buy.",
       "link": "https://www.hdblog.it/tablet/offerte/n657809/tablet-xioami-offerta-amazon-200-euro-mag26/",
       "fonte": "HDblog.it",
@@ -135,39 +163,11 @@
       "data": "2026-05-08T17:20:00+00:00"
     },
     {
-      "titolo": "Gigabyte lancia una RTX 5090 incredibile: doppio flow-through, overclock massiccio",
-      "descrizione": "Un PCB in stile Founders Edition ancora più estremo ed efficace.",
-      "link": "https://www.hdblog.it/hardware/articoli/n657788/gigabyte-aorus-rtx-5090-infinity-specifiche-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T17:15:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi OmniVoice: AI di sintesi vocale super potente libera e open-source",
-      "descrizione": "Può creare sintesi vocali di qualità anche con meno di 10 ore di materiale sorgente. OK, chi si mette a provare con il Dothraki?",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n657783/xiaomi-ai-modello-omnivoice-open-source/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T17:05:00+00:00"
-    },
-    {
       "titolo": "Il prompt AI per ottenere risposte precise al primo tentativo",
       "descrizione": "Basta riscrivere i prompt tre volte, una frase aggiunta alla fine di qualsiasi richiesta cambia radicalmente la qualità delle risposte dell'AI. The post Il prompt AI per ottenere risposte precise al primo tentativo appea",
       "link": "https://www.punto-informatico.it/prompt-ai-ottenere-risposte-precise-primo-tentativo/",
       "fonte": "Punto Informatico",
       "data": "2026-05-08T15:30:15+00:00"
-    },
-    {
-      "titolo": "Apple AirPods Pro 3 con cancellazione attiva del rumore a 50€ in meno",
-      "descrizione": "Le Apple AirPods Pro 3 con cancellazione attiva del rumore, traduzione in tempo reale e rilevamento della frequenza cardiaca, sono in offerta su Amazon. The post Apple AirPods Pro 3 con cancellazione attiva del rumore a",
-      "link": "https://www.punto-informatico.it/apple-airpods-pro-3-cancellazione-attiva-del-rumore-50e-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T15:10:44+00:00"
-    },
-    {
-      "titolo": "Nuovi chip Snapdragon per smartphone economici",
-      "descrizione": "Snapdragon 6 Gen 5 e 4 Gen 5 sono i nuovi chip annunciati da Qualcomm per smartphone di fascia media/bassa che arriveranno sul mercato nei prossimi mesi. The post Nuovi chip Snapdragon per smartphone economici appeared f",
-      "link": "https://www.punto-informatico.it/nuovi-chip-snapdragon-smartphone-economici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T15:08:15+00:00"
     }
   ]
 }
