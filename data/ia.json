@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:22:19.502202+00:00",
+  "last_updated": "2026-05-10T13:56:54.897648+00:00",
   "items": [
     {
       "titolo": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy",
@@ -10,14 +10,6 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Xbox CEO Asha Sharma kills Copilot for Gaming — overhauls leadership with CoreAI veterans",
-      "descrizione": "Sharma took over as Xbox CEO in February after Phil Spencer retired following 38 years at Microsoft.",
-      "link": "https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-06T17:51:36+00:00",
-      "modello": "copilot"
-    },
-    {
       "titolo": "How to Disable Google's Gemini in Chrome",
       "descrizione": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
       "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
@@ -26,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy",
-      "descrizione": "A grey-market economy of API proxy services in China is reselling access to Anthropic's Claude models at as little as 10% of the official price.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-09T10:20:00+00:00",
+      "titolo": "Sito fake di Claude distribuisce la backdoor Beagle",
+      "descrizione": "Un sito fasullo di Claude distribuisce una presunta versione Pro per Windows, ma si tratta della backdoor Beagle che consente l'accesso remoto al PC. The post Sito fake di Claude distribuisce la backdoor Beagle appeared",
+      "link": "https://www.punto-informatico.it/sito-fake-claude-distribuisce-backdoor-beagle/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-10T13:14:36+00:00",
       "modello": "claude"
     }
   ]

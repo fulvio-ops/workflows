@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-10T08:22:15.208262+00:00",
+  "last_updated": "2026-05-10T13:56:51.465013+00:00",
   "items": [
+    {
+      "titolo": "China's Hanyuan-2 debuts as 'world's first' dual-core quantum computer — 200-qubit claims incredible power efficiency, but lacks critical performance benchmarks",
+      "descrizione": "CAS Cold Atom Technology, a Wuhan-based firm affiliated with the Chinese Academy of Sciences (CAS), unveiled what it calls the world's first dual-core quantum computer.",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/china-claims-worlds-first-dual-core-quantum-computer",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T13:31:55+00:00"
+    },
+    {
+      "titolo": "La sicurezza prima di tutto con la videocamera Ring oggi a soli 49€",
+      "descrizione": "Con la videocamera Ring puoi mettere al sicuro la tua abitazione e soprattutto la famiglia con una spesa minima di 49 euro circa. The post La sicurezza prima di tutto con la videocamera Ring oggi a soli 49€ appeared firs",
+      "link": "https://www.punto-informatico.it/sicurezza-prima-di-tutto-con-videocamera-ring-oggi-soli-49e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-10T12:40:21+00:00"
+    },
+    {
+      "titolo": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine massive 6.2 million-square-foot facility over",
+      "descrizione": "QTS says the extra 29 million gallons were consumed during temporary construction activities, including concrete work, dust control, and site preparation.",
+      "link": "https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T12:40:00+00:00"
+    },
+    {
+      "titolo": "Sony ULT WEAR: cuffie wireless con batteria da 30 ore in sconto di 49€",
+      "descrizione": "Approfitta dello sconto di 49€ su Amazon e fai tue le cuffie wireless Sony ULT WEAR, con autonomia da 30 ore e cancellazione del rumore. The post Sony ULT WEAR: cuffie wireless con batteria da 30 ore in sconto di 49€ app",
+      "link": "https://www.punto-informatico.it/sony-ult-wear-cuffie-wireless-con-batteria-da-30-ore-sconto-50e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-10T12:28:28+00:00"
+    },
+    {
+      "titolo": "Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer",
+      "descrizione": "Louis Rossmann has officially pledged $10,000 to cover the initial legal fees for an independent software developer threatened with a cease and desist letter from Bambu Lab. He posted a video on Saturday to mobilize the",
+      "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T11:35:00+00:00"
+    },
+    {
+      "titolo": "Alieni e misteri nei cieli: online i file mai visti del Pentagono",
+      "descrizione": "Il governo USA lancia un portale con video e documenti inediti sugli avvistamenti UFO nei cieli.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657824/pentagono-documenti-ufo-online/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-10T11:05:00+00:00"
+    },
+    {
+      "titolo": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in A",
+      "descrizione": "Turns out, Nvidia's older Turing-era V100 AI GPU is still pretty capable today, even with just 16GB of VRAM. A YouTuber got his hands on the SMX variant for just $100, converted it to a PCIe x16 interface for another $10",
+      "link": "https://www.tomshardware.com/pc-components/gpus/usd200-nvidia-server-ai-gpu-hacked-into-a-pcie-card-with-custom-pcb-and-3d-printed-cooling-modded-tesla-v100-smx-gpu-turing-data-center-card-runs-ai-llms-and-is-more-efficient-than-many-modern-midrange-offerings-in-ai-inference",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T10:50:00+00:00"
+    },
+    {
+      "titolo": "DJI Osmo Pocket 4P: nuove conferme dal teaser ufficiale",
+      "descrizione": "DJI anticipa Osmo Pocket 4P, la nuova gimbal camera con doppio sensore e teleobiettivo.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n657823/dji-osmo-pocket-4p-doppia-camera/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-10T10:05:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S25 Ultra non passa di moda: a questo prezzo è un'ottima scelta",
+      "descrizione": "Il Samsung Galaxy S25 Ultra è in offerta e diventa una delle opzioni più interessanti del momento per uno smartphone di fascia alta di qualità.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n657829/samsung-galaxy-s25-ultra-offerta-maggio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-10T09:35:00+00:00"
+    },
+    {
+      "titolo": "OnePlus 15 in offerta: a questo prezzo è il top di gamma da prendere?",
+      "descrizione": "Il OnePlus 15 è in offerta e diventa oggi un vero e proprio flagship killer con tanta potenza, un'autonomia elevata e un ottimo prezzo.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n657820/oneplus-15-offerta-mag26/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-10T09:00:00+00:00"
+    },
+    {
+      "titolo": "JDownloader: sito torna online dopo attacco informatico",
+      "descrizione": "AppWork ha riportato online il sito ufficiale di JDownloader e pubblicato ulteriori dettagli sull'attacco supply chain avvenuto tra il 6 e 7 maggio. The post JDownloader: sito torna online dopo attacco informatico appear",
+      "link": "https://www.punto-informatico.it/jdownloader-sito-torna-online-dopo-attacco-informatico/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-10T08:58:38+00:00"
+    },
+    {
+      "titolo": "Dyson PencilWash, la pulizia per sottrazione, solo 2 Kg il peso",
+      "descrizione": "La lavapavimento della società britannica spinge sulla semplicità: niente aspirazione, design ultraleggero, uso immediato. Brilla nella manutenzione quotidiana, ma paga pegno su sporco difficile e versatilità. Una scelta",
+      "link": "https://www.ilsole24ore.com/art/dyson-pencilwash-pulizia-sottrazione-solo-2-kg-peso-AIRh7ImC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-10T08:46:36+00:00"
+    },
     {
       "titolo": "NASA e Blue Origin verso la Luna: iniziano i test sulla Mark 2",
       "descrizione": "La NASA inizia i test a terra con il prototipo del lander Blue Origin per le missioni lunari.",
@@ -84,90 +168,6 @@
       "link": "https://www.punto-informatico.it/windows-11-25h2-novita-esplora-file-touchpad/",
       "fonte": "Punto Informatico",
       "data": "2026-05-09T10:20:00+00:00"
-    },
-    {
-      "titolo": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy",
-      "descrizione": "A grey-market economy of API proxy services in China is reselling access to Anthropic's Claude models at as little as 10% of the official price.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-09T10:20:00+00:00"
-    },
-    {
-      "titolo": "La revisione auto potrebbe cambiare, l'UE ipotizza test più numerosi e severi",
-      "descrizione": "Revisioni valide in tutta l'Unione e lotta dura ai contachilometri schilometrati: le novità della bozza UE per proteggere i consumatori",
-      "link": "https://www.hdmotori.it/revisione-auto-bozza-ue/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T10:00:41+00:00"
-    },
-    {
-      "titolo": "Simulazioni spaziali 100 volte più veloci con la nuova Physics AI",
-      "descrizione": "La Physics AI di Flexcompute e Northrop Grumman accelera le simulazioni spaziali di 100 volte.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657667/physics-ai-simulazioni-spazio-northrop-grumman/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T09:05:00+00:00"
-    },
-    {
-      "titolo": "Hyundai sviluppa il telaio body-on-frame per l'off-road elettrico",
-      "descrizione": "Svelato da un brevetto, il nuovo layout della batteria offrirà robustezza e prestazioni senza precedenti su un inedito pick-up del marchio.",
-      "link": "https://www.hdmotori.it/hyundai-telaio-body-on-frame-off-road-elettrico/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T09:00:20+00:00"
-    },
-    {
-      "titolo": "Tablet a meno di 200€ su Amazon? Questo Xiaomi è il modello giusto",
-      "descrizione": "Lo Xiaomi Redi Pad 2 è in offerta su Amazon e ora costa meno di 200 euro: per tanti è un best buy.",
-      "link": "https://www.hdblog.it/tablet/offerte/n657809/tablet-xioami-offerta-amazon-200-euro-mag26/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T08:55:00+00:00"
-    },
-    {
-      "titolo": "Nuova batosta per il DOGE di Musk: tagli alle sovvenzioni incostituzionali",
-      "descrizione": "Il \"dipartimento\" usava ChatGPT per stabilire se i progetti sovvenzionati facevano parte di iniziative DEI; se sì, addio sovvenzioni. Niente controlli, niente verifiche.",
-      "link": "https://www.hdblog.it/mercato/articoli/n657798/elon-musk-doge-ai-incostituzionale-sovvenzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T08:05:00+00:00"
-    },
-    {
-      "titolo": "La Classe G si veste di azzurro: Mansory crea la versione più disturbante di sempre",
-      "descrizione": "Persino gli appassionati delle varianti più assurde della Mercedes Classe G rimarranno a bocca aperta. Scopriamo l’ultima opera di Mansory",
-      "link": "https://www.hdmotori.it/mercedes-classe-g-cabrio-mansory/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T08:00:28+00:00"
-    },
-    {
-      "titolo": "Arriva su Mac l'agente AI di Perplexity: gestione dei file in totale autonomia",
-      "descrizione": "Perplexity lancia l'app su macOS per tutti, con AI che gestisce file, app e processi: ottimizzata per Mac mini.",
-      "link": "https://www.hdblog.it/portatili/articoli/n657793/mac-agente-ai-perplexity/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T07:25:00+00:00"
-    },
-    {
-      "titolo": "Ho provato OPPO Find X9 Ultra in Cina tra skyline e panda | VIDEO",
-      "descrizione": "Abbiamo provato le fotocamere di OPPO Find X9 Ultra in giro per Chengdu e Chongqing. Probabilmente è il miglior top di gamma come completezza per le fotocamere. Ci ha convinto?",
-      "link": "https://www.hdblog.it/smartphone/speciali/n657434/oppo-find-x9-ultra-test-viaggio-foto-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T18:45:00+00:00"
-    },
-    {
-      "titolo": "Apple reportedly strikes deal for Intel to make some of its chips — two tech giants reached a preliminary agreement for Intel to make processors for Cupertino",
-      "descrizione": "Intel and Apple have reportedly reached a deal in which the former will manufacture chips for the latter.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apple-reportedly-strikes-deal-for-intel-to-make-some-of-its-chips-two-tech-giants-reached-a-preliminary-agreement-for-intel-to-make-processors-for-cupertino",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-08T18:09:03+00:00"
-    },
-    {
-      "titolo": "Crisi dei chip, Samsung alle prese anche con le proteste dei lavoratori",
-      "descrizione": "I dipendenti cercano condizioni economiche migliori e minacciano di incrociare le braccia per 18 giorni. In un mercato già incredibilmente sotto pressione potrebbe costare carissimo alla società.",
-      "link": "https://www.hdblog.it/hardware/articoli/n657796/crisi-memorie-samsung-proteste-lavoratori-scioperi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T18:05:00+00:00"
-    },
-    {
-      "titolo": "Worried about the nationwide Canvas data breach? Take these 6 steps now",
-      "descrizione": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here's how to deal with it.",
-      "link": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
-      "fonte": "Latest news",
-      "data": "2026-05-08T17:20:00+00:00"
     }
   ]
 }
