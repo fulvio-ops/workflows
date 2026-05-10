@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-05-10T04:17:15.773244+00:00",
+  "last_updated": "2026-05-10T08:22:15.208262+00:00",
   "items": [
+    {
+      "titolo": "NASA e Blue Origin verso la Luna: iniziano i test sulla Mark 2",
+      "descrizione": "La NASA inizia i test a terra con il prototipo del lander Blue Origin per le missioni lunari.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657802/test-artemis-mark-2-blue-origin/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-10T08:05:00+00:00"
+    },
+    {
+      "titolo": "Cialde e Capsule più buone sono di Caffè Borbone ancora più economiche su eBay",
+      "descrizione": "Cialde e Capsule di alta qualità sono solo quelle di Caffè Borbone e su eBay sono ancora più economiche grazie alle offerte imperdibili. The post Cialde e Capsule più buone sono di Caffè Borbone ancora più economiche su",
+      "link": "https://www.punto-informatico.it/cialde-e-capsule-piu-buone-sono-di-caffe-borbone-ancora-piu-economiche-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-10T06:00:48+00:00"
+    },
     {
       "titolo": "F1 2027, dietrofront parziale sull’elettrico e più motore termico",
       "descrizione": "Un rovesciamento inatteso nella F1, con il ritorno a un ripartizione della potenza più orientata al motore termico rispetto al PU elettrica",
@@ -149,25 +163,11 @@
       "data": "2026-05-08T18:05:00+00:00"
     },
     {
-      "titolo": "Google Meet migliora le riunioni affollate: chi arriva tardi non sarà più escluso",
-      "descrizione": "Tutto grazie alla nuova modalità live stream: come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n657789/google-meet-live-stream-riunioni-adaptive-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-08T17:55:00+00:00"
-    },
-    {
       "titolo": "Worried about the nationwide Canvas data breach? Take these 6 steps now",
       "descrizione": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here's how to deal with it.",
       "link": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
       "fonte": "Latest news",
       "data": "2026-05-08T17:20:00+00:00"
-    },
-    {
-      "titolo": "Il prompt AI per ottenere risposte precise al primo tentativo",
-      "descrizione": "Basta riscrivere i prompt tre volte, una frase aggiunta alla fine di qualsiasi richiesta cambia radicalmente la qualità delle risposte dell'AI. The post Il prompt AI per ottenere risposte precise al primo tentativo appea",
-      "link": "https://www.punto-informatico.it/prompt-ai-ottenere-risposte-precise-primo-tentativo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-08T15:30:15+00:00"
     }
   ]
 }
