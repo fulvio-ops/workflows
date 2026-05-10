@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-10T13:56:51.465013+00:00",
+  "last_updated": "2026-05-10T19:35:03.221072+00:00",
   "items": [
+    {
+      "titolo": "AMD's excellent Radeon RX 9070 with 16 GB of VRAM hits all-time low pricing — PowerColor Hellhound variant is 23% off list price",
+      "descrizione": "If you've been looking for a GPU upgrade but were disappointed by the ongoing market conditions, a small window of opportunity has just sprung open. AMD's fantastic RX 9070 is on sale for just $554, discounted $165 from",
+      "link": "https://www.tomshardware.com/pc-components/amds-excellent-radeon-rx-9070-with-16-gb-of-vram-hits-all-time-low-pricing-powercolor-hellhound-variant-is-23-percent-off-list-price",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T15:22:39+00:00"
+    },
+    {
+      "titolo": "MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in se",
+      "descrizione": "MIT researchers have developed a 3D-printed three-sided zipper that rapidly transforms floppy structures into rigid beams, robotic limbs, and deployable frameworks using triangular geometry.",
+      "link": "https://www.tomshardware.com/3d-printing/mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-10T15:15:09+00:00"
+    },
+    {
+      "titolo": "AI, la Cina cambia passo: non più modelli ma piattaforme per l’economia reale",
+      "descrizione": "Da DeepSeek a Alibaba, Tencent e ByteDance, la sfida si sposta dai benchmark all’integrazione nei processi aziendali. Architetture complete, costi competitivi e modelli sempre più orientati agli agenti ridefiniscono la c",
+      "link": "https://www.ilsole24ore.com/art/ai-cina-cambia-passo-non-piu-modelli-ma-piattaforme-l-economia-reale-AIuRJgpC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-10T15:09:13+00:00"
+    },
     {
       "titolo": "China's Hanyuan-2 debuts as 'world's first' dual-core quantum computer — 200-qubit claims incredible power efficiency, but lacks critical performance benchmarks",
       "descrizione": "CAS Cold Atom Technology, a Wuhan-based firm affiliated with the Chinese Academy of Sciences (CAS), unveiled what it calls the world's first dual-core quantum computer.",
@@ -16,7 +37,7 @@
       "data": "2026-05-10T12:40:21+00:00"
     },
     {
-      "titolo": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine massive 6.2 million-square-foot facility over",
+      "titolo": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine builders of massive 6.2 million-square-foot f",
       "descrizione": "QTS says the extra 29 million gallons were consumed during temporary construction activities, including concrete work, dust control, and site preparation.",
       "link": "https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water",
       "fonte": "Latest from Tom's Hardware",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/supermicro-tied-execs-used-thailand-government-entity-to-ship-nvidia-ai-gpus-to-china-report-alleges-chinese-web-giant-alibaba-received-restricted-servers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-09T10:40:00+00:00"
-    },
-    {
-      "titolo": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "descrizione": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-      "fonte": "WIRED",
-      "data": "2026-05-09T10:30:00+00:00"
-    },
-    {
-      "titolo": "Tappy è il telecomando wireless di Boox per sfogliare gli eBook",
-      "descrizione": "Tappy è compatibile con tutti i dispositivi Android.",
-      "link": "https://www.hdblog.it/tablet/articoli/n657782/boox-tappy-telecomando-wireless-sfogliare-ebook/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-09T10:25:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 25H2: novità per Esplora file e touchpad",
-      "descrizione": "Microsoft ha annunciato nuove build di Windows 11 con diversi miglioramenti che riguardano principalmente Esplora file e le gesture con i touchpad. The post Windows 11 25H2: novità per Esplora file e touchpad appeared fi",
-      "link": "https://www.punto-informatico.it/windows-11-25h2-novita-esplora-file-touchpad/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-09T10:20:00+00:00"
     }
   ]
 }
