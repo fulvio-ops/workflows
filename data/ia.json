@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-11T15:37:02.567694+00:00",
+  "last_updated": "2026-05-11T20:04:33.653451+00:00",
   "items": [
     {
-      "titolo": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-11T12:34:46+00:00",
+      "titolo": "Privacy Filter su Hugging Face, ma è la versione infetta",
+      "descrizione": "Un falso repository del modello Privacy Filter di OpenAI è stato usato per distribuire un infostealer per Windows che può rubare numerosi dati. The post Privacy Filter su Hugging Face, ma è la versione infetta appeared f",
+      "link": "https://www.punto-informatico.it/privacy-filter-hugging-face-versione-infetta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-11T17:06:20+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-11T12:34:46+00:00",
+      "titolo": "Google sta per lanciare Gemini \"Omnia\", un nuovo modello AI per i video",
+      "descrizione": "La qualità è decisamente impressionante, e sta migliorando drasticamente a velocità forsennata.",
+      "link": "https://www.hdblog.it/google/articoli/n657975/google-gemini-omnia-video-ai-generazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-11T17:25:00+00:00",
       "modello": "gemini"
     },
     {
