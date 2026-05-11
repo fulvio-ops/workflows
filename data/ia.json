@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-11T10:00:30.046138+00:00",
+  "last_updated": "2026-05-11T15:37:02.567694+00:00",
   "items": [
     {
-      "titolo": "Instagram: fine della crittografia end-to-end nei DM, cosa cambia",
-      "descrizione": "Instagram chiude il capitolo della crittografia end-to-end nei DM. La funzione era opt-in e nascosta nelle impostazioni di ogni singola chat. The post Instagram: fine della crittografia end-to-end nei DM, cosa cambia app",
-      "link": "https://www.punto-informatico.it/instagram-fine-crittografia-end-to-end-dm-cosa-cambia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-11T09:04:46+00:00",
+      "titolo": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "fonte": "Latest news",
+      "data": "2026-05-11T12:34:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "How to Disable Google's Gemini in Chrome",
-      "descrizione": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-      "fonte": "WIRED",
-      "data": "2026-05-07T20:31:57+00:00",
+      "titolo": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "fonte": "Latest news",
+      "data": "2026-05-11T12:34:46+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Chat condivise di Claude per distribuire malware su Mac",
-      "descrizione": "Sfruttando i link sponsorizzati dei motori di ricerca e le chat condivise di Claude, i cybercriminali distribuiscono l'infostealer MacSync per macOS. The post Chat condivise di Claude per distribuire malware su Mac appea",
-      "link": "https://www.punto-informatico.it/chat-condivise-claude-distribuire-malware-mac/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-11T09:05:30+00:00",
+      "titolo": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "fonte": "Latest news",
+      "data": "2026-05-11T12:34:46+00:00",
       "modello": "claude"
     },
     {
