@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-11T04:37:40.681470+00:00",
+  "last_updated": "2026-05-11T10:00:30.046138+00:00",
   "items": [
     {
-      "titolo": "MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in se",
-      "descrizione": "MIT researchers have developed a 3D-printed three-sided zipper that rapidly transforms floppy structures into rigid beams, robotic limbs, and deployable frameworks using triangular geometry.",
-      "link": "https://www.tomshardware.com/3d-printing/mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-10T15:15:09+00:00",
+      "titolo": "Instagram: fine della crittografia end-to-end nei DM, cosa cambia",
+      "descrizione": "Instagram chiude il capitolo della crittografia end-to-end nei DM. La funzione era opt-in e nascosta nelle impostazioni di ogni singola chat. The post Instagram: fine della crittografia end-to-end nei DM, cosa cambia app",
+      "link": "https://www.punto-informatico.it/instagram-fine-crittografia-end-to-end-dm-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-11T09:04:46+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Sito fake di Claude distribuisce la backdoor Beagle",
-      "descrizione": "Un sito fasullo di Claude distribuisce una presunta versione Pro per Windows, ma si tratta della backdoor Beagle che consente l'accesso remoto al PC. The post Sito fake di Claude distribuisce la backdoor Beagle appeared",
-      "link": "https://www.punto-informatico.it/sito-fake-claude-distribuisce-backdoor-beagle/",
+      "titolo": "Chat condivise di Claude per distribuire malware su Mac",
+      "descrizione": "Sfruttando i link sponsorizzati dei motori di ricerca e le chat condivise di Claude, i cybercriminali distribuiscono l'infostealer MacSync per macOS. The post Chat condivise di Claude per distribuire malware su Mac appea",
+      "link": "https://www.punto-informatico.it/chat-condivise-claude-distribuire-malware-mac/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-10T13:14:36+00:00",
+      "data": "2026-05-11T09:05:30+00:00",
       "modello": "claude"
     },
     {
