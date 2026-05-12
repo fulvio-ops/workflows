@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-12T15:09:19.355245+00:00",
+  "last_updated": "2026-05-12T20:10:32.989153+00:00",
   "items": [
     {
-      "titolo": "Elon Musk non ha detto nulla sull’accordo Microsoft-OpenAI",
-      "descrizione": "Durante la testimonianza al processo, Satya Nadella (CEO di Microsoft) ha dichiarato che Elon Musk non ha mai obiettato sull'accordo con OpenAI. The post Elon Musk non ha detto nulla sull’accordo Microsoft-OpenAI appeare",
-      "link": "https://www.punto-informatico.it/elon-musk-accordo-microsoft-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-12T10:10:46+00:00",
+      "titolo": "Android 17 diventa un sistema operativo AI agentico con Gemini Intelligence",
+      "descrizione": "Apripista i Pixel 10 e i Galaxy S26, ma si prevede una rapida espansione anche su smartwatch, auto, tablet e tanto altro entro fine anno.",
+      "link": "https://www.hdblog.it/google/articoli/n658050/android-gemini-intelligence-ai-agentica/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-12T19:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini su Google Home smette di fare il moralista sui cocktail…",
-      "descrizione": "Per mesi chi chiedeva a Google Nest Hub la ricetta di un margarita si beccava un bel due di picche. Ora Mountain View ha allentato la presa, e Gemini per Google Home ha finalmente accettato l’idea che gli adulti possano",
-      "link": "https://www.punto-informatico.it/gemini-google-home-smette-fare-moralista-cocktail/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-12T14:18:46+00:00",
+      "titolo": "Android 17 diventa un sistema operativo AI agentico con Gemini Intelligence",
+      "descrizione": "Apripista i Pixel 10 e i Galaxy S26, ma si prevede una rapida espansione anche su smartwatch, auto, tablet e tanto altro entro fine anno.",
+      "link": "https://www.hdblog.it/google/articoli/n658050/android-gemini-intelligence-ai-agentica/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-12T19:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-12T01:59:09+00:00",
+      "titolo": "Anthropic e Google portano gli agenti AI nella finanza: analisi, mercati e bilanci diventano conversazioni",
+      "descrizione": "Anthropic lancia un plugin per il settore finanziario con agenti AI dedicati a compliance, analisi e contabilità. Alphabet porta anche in Europa la nuova versione di Google Finance basata su Gemini:",
+      "link": "https://www.ilsole24ore.com/art/anthropic-e-google-portano-agenti-nella-finanza-analisi-mercati-e-bilanci-diventano-conversazioni-AIxmqM2C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-12T16:10:00+00:00",
       "modello": "claude"
     },
     {
