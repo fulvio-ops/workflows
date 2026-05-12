@@ -1,36 +1,44 @@
 {
-  "last_updated": "2026-05-12T09:12:51.264465+00:00",
+  "last_updated": "2026-05-12T15:09:19.355245+00:00",
   "items": [
     {
-      "titolo": "Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos",
-      "descrizione": "OpenAI lancia Daybreak basato su Codex Security e su GPT-5.5-Cyber. L'obiettivo è trovare e correggere le vulnerabilità nel codice. The post Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos appeared first",
-      "link": "https://www.punto-informatico.it/daybreak-openai-cybersicurezza-claude-mythos/",
+      "titolo": "Elon Musk non ha detto nulla sull’accordo Microsoft-OpenAI",
+      "descrizione": "Durante la testimonianza al processo, Satya Nadella (CEO di Microsoft) ha dichiarato che Elon Musk non ha mai obiettato sull'accordo con OpenAI. The post Elon Musk non ha detto nulla sull’accordo Microsoft-OpenAI appeare",
+      "link": "https://www.punto-informatico.it/elon-musk-accordo-microsoft-openai/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-12T07:12:04+00:00",
+      "data": "2026-05-12T10:10:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Omni di Google, il generatore video ancora più realistico",
-      "descrizione": "Google starebbe preparando Gemini Omni, un generatore video di nuova generazione capace di rimixare clip e modificarle in chat. The post Gemini Omni di Google, il generatore video ancora più realistico appeared first on",
-      "link": "https://www.punto-informatico.it/gemini-omni-google-generatore-video-ancora-piu-realistico/",
+      "titolo": "Copilot meno invadente su Office: arriva il pulsante unico",
+      "descrizione": "Microsoft riorganizza l'accesso a Copilot su Word, Excel, PowerPoint e Outlook con un punto di ingresso unico, suggerimenti contestuali. The post Copilot meno invadente su Office: arriva il pulsante unico appeared first",
+      "link": "https://www.punto-informatico.it/copilot-meno-invadente-office-pulsante-unico/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-12T07:48:09+00:00",
+      "data": "2026-05-12T10:17:50+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Gemini su Google Home smette di fare il moralista sui cocktail…",
+      "descrizione": "Per mesi chi chiedeva a Google Nest Hub la ricetta di un margarita si beccava un bel due di picche. Ora Mountain View ha allentato la presa, e Gemini per Google Home ha finalmente accettato l’idea che gli adulti possano",
+      "link": "https://www.punto-informatico.it/gemini-google-home-smette-fare-moralista-cocktail/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-12T14:18:46+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos",
-      "descrizione": "OpenAI lancia Daybreak basato su Codex Security e su GPT-5.5-Cyber. L'obiettivo è trovare e correggere le vulnerabilità nel codice. The post Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos appeared first",
-      "link": "https://www.punto-informatico.it/daybreak-openai-cybersicurezza-claude-mythos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-12T07:12:04+00:00",
+      "titolo": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
+      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
+      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "fonte": "Latest news",
+      "data": "2026-05-12T01:59:09+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "AI, la Cina cambia passo: non più modelli ma piattaforme per l’economia reale",
-      "descrizione": "Da DeepSeek a Alibaba, Tencent e ByteDance, la sfida si sposta dai benchmark all’integrazione nei processi aziendali. Architetture complete, costi competitivi e modelli sempre più orientati agli agenti ridefiniscono la c",
-      "link": "https://www.ilsole24ore.com/art/ai-cina-cambia-passo-non-piu-modelli-ma-piattaforme-l-economia-reale-AIuRJgpC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-10T15:09:13+00:00",
+      "titolo": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfir",
+      "descrizione": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader “Mini Shai-Hulud” su",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-12T11:53:04+00:00",
       "modello": "altri"
     }
   ]
