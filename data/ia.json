@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-12T04:07:17.251289+00:00",
+  "last_updated": "2026-05-12T09:12:51.264465+00:00",
   "items": [
     {
-      "titolo": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-12T01:59:09+00:00",
+      "titolo": "Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos",
+      "descrizione": "OpenAI lancia Daybreak basato su Codex Security e su GPT-5.5-Cyber. L'obiettivo è trovare e correggere le vulnerabilità nel codice. The post Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos appeared first",
+      "link": "https://www.punto-informatico.it/daybreak-openai-cybersicurezza-claude-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-12T07:12:04+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-12T01:59:09+00:00",
+      "titolo": "Gemini Omni di Google, il generatore video ancora più realistico",
+      "descrizione": "Google starebbe preparando Gemini Omni, un generatore video di nuova generazione capace di rimixare clip e modificarle in chat. The post Gemini Omni di Google, il generatore video ancora più realistico appeared first on",
+      "link": "https://www.punto-informatico.it/gemini-omni-google-generatore-video-ancora-piu-realistico/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-12T07:48:09+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "descrizione": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "fonte": "Latest news",
-      "data": "2026-05-12T01:59:09+00:00",
+      "titolo": "Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos",
+      "descrizione": "OpenAI lancia Daybreak basato su Codex Security e su GPT-5.5-Cyber. L'obiettivo è trovare e correggere le vulnerabilità nel codice. The post Daybreak di OpenAI per la cybersicurezza, bye bye Claude Mythos appeared first",
+      "link": "https://www.punto-informatico.it/daybreak-openai-cybersicurezza-claude-mythos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-12T07:12:04+00:00",
       "modello": "claude"
     },
     {
