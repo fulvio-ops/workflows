@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-13T09:20:20.002167+00:00",
+  "last_updated": "2026-05-13T15:14:59.332981+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Health: ragazzo muore dopo i consigli dell'AI, avviata causa legale",
-      "descrizione": "Una famiglia fa causa a OpenAI sostenendo che i suggerimenti medici di ChatGPT abbiano ucciso il figlio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n658157/causa-openai-overdose-chatgpt/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T09:05:00+00:00",
+      "titolo": "MDASH, arriva il sistema AI di Microsoft per la cybersicurezza",
+      "descrizione": "Microsoft risponde a Daybreak di OpenAI e a Mythos di Anthropic con MDASH, un sistema con con oltre cento AI specializzate per la sicurezza. The post MDASH, arriva il sistema AI di Microsoft per la cybersicurezza appeare",
+      "link": "https://www.punto-informatico.it/mdash-sistema-ai-microsoft-cybersicurezza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-13T10:20:48+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Widget su misura con Gemini: la nuova funzione di Android",
-      "descrizione": "Create My Widget è la nuova funzione di Android che permette di costruire widget personalizzati descrivendoli a parole a Gemini. The post Widget su misura con Gemini: la nuova funzione di Android appeared first on Punto",
-      "link": "https://www.punto-informatico.it/widget-su-misura-gemini-nuova-funzione-android/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-13T09:01:28+00:00",
+      "titolo": "Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS — Google VP says devices to also ship with Qualcomm and MediaTek chips",
+      "descrizione": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
+      "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-13T10:58:33+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Svolta epocale in arrivo per Siri: da assistente vocale ad agente AI",
-      "descrizione": "Apple vuole dare nuovo impulso a Siri, facendolo evolvere e trasformandolo da semplice chatbot ad agente AI in grado di competere con ChatGPT, Claude e Gemini.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658146/wwdc-2026-novita-siri-agente-ai/",
+      "titolo": "Claude down: nuovi disservizi segnalati in Italia (e non solo) | Risolto",
+      "descrizione": "Ancora!",
+      "link": "https://www.hdblog.it/internet/articoli/n639182/claude-down-disservizi-segnalazioni-italia/",
       "fonte": "HDblog.it",
-      "data": "2026-05-13T08:35:00+00:00",
+      "data": "2026-05-13T12:39:00+00:00",
       "modello": "claude"
     },
     {
