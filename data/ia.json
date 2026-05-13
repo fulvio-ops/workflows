@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-05-13T04:14:10.619867+00:00",
+  "last_updated": "2026-05-13T09:20:20.002167+00:00",
   "items": [
     {
-      "titolo": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-      "descrizione": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-      "fonte": "WIRED",
-      "data": "2026-05-13T00:10:05+00:00",
+      "titolo": "ChatGPT Health: ragazzo muore dopo i consigli dell'AI, avviata causa legale",
+      "descrizione": "Una famiglia fa causa a OpenAI sostenendo che i suggerimenti medici di ChatGPT abbiano ucciso il figlio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658157/causa-openai-overdose-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T09:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot meno invadente su Office: arriva il pulsante unico",
-      "descrizione": "Microsoft riorganizza l'accesso a Copilot su Word, Excel, PowerPoint e Outlook con un punto di ingresso unico, suggerimenti contestuali. The post Copilot meno invadente su Office: arriva il pulsante unico appeared first",
-      "link": "https://www.punto-informatico.it/copilot-meno-invadente-office-pulsante-unico/",
+      "titolo": "Widget su misura con Gemini: la nuova funzione di Android",
+      "descrizione": "Create My Widget è la nuova funzione di Android che permette di costruire widget personalizzati descrivendoli a parole a Gemini. The post Widget su misura con Gemini: la nuova funzione di Android appeared first on Punto",
+      "link": "https://www.punto-informatico.it/widget-su-misura-gemini-nuova-funzione-android/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-12T10:17:50+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Android 17 diventa un sistema operativo AI agentico con Gemini Intelligence",
-      "descrizione": "Apripista i Pixel 10 e i Galaxy S26, ma si prevede una rapida espansione anche su smartwatch, auto, tablet e tanto altro entro fine anno.",
-      "link": "https://www.hdblog.it/google/articoli/n658050/android-gemini-intelligence-ai-agentica/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-12T19:00:00+00:00",
+      "data": "2026-05-13T09:01:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic e Google portano gli agenti AI nella finanza: analisi, mercati e bilanci diventano conversazioni",
-      "descrizione": "Anthropic lancia un plugin per il settore finanziario con agenti AI dedicati a compliance, analisi e contabilità. Alphabet porta anche in Europa la nuova versione di Google Finance basata su Gemini:",
-      "link": "https://www.ilsole24ore.com/art/anthropic-e-google-portano-agenti-nella-finanza-analisi-mercati-e-bilanci-diventano-conversazioni-AIxmqM2C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-12T16:10:00+00:00",
+      "titolo": "Svolta epocale in arrivo per Siri: da assistente vocale ad agente AI",
+      "descrizione": "Apple vuole dare nuovo impulso a Siri, facendolo evolvere e trasformandolo da semplice chatbot ad agente AI in grado di competere con ChatGPT, Claude e Gemini.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658146/wwdc-2026-novita-siri-agente-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T08:35:00+00:00",
       "modello": "claude"
     },
     {
