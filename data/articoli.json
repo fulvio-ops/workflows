@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-05-12T20:10:29.533344+00:00",
+  "last_updated": "2026-05-13T04:14:07.179095+00:00",
   "items": [
+    {
+      "titolo": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "descrizione": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "fonte": "WIRED",
+      "data": "2026-05-13T00:10:05+00:00"
+    },
+    {
+      "titolo": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+      "descrizione": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+      "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+      "fonte": "WIRED",
+      "data": "2026-05-12T22:51:45+00:00"
+    },
     {
       "titolo": "Un mese (e più) con Apple MacBook Pro M5 Max: semplicemente esagerato! | VIDEO",
       "descrizione": "Abbiamo provato il MacBook Pro M5 Max nella sua versione quasi maxata per oltre un mese. Ecco come è andata!",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/trump-administration-reportedly-debating-ban-on-chinese-cellular-modules-in-expansion-of-fcc-crackdown-potential-restrictions-could-impact-everything-from-smart-devices-and-routers-to-connected-cars-and-industrial-iot-systems",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-12T15:23:24+00:00"
-    },
-    {
-      "titolo": "Social media: legge UE per vietare l’accesso ai minori?",
-      "descrizione": "La Presidenza della Commissione UE ha dichiarato che, entro l'estate, potrebbe essere presentata una legge per vietare l'uso dei social media ai minori. The post Social media: legge UE per vietare l’accesso ai minori? ap",
-      "link": "https://www.punto-informatico.it/social-media-legge-ue-vietare-accesso-minori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-12T14:20:16+00:00"
-    },
-    {
-      "titolo": "Jensen Huang snubbed by White House for President Trump’s China state visit — Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk",
-      "descrizione": "Jensen Huang was reportedly not invited to President Trump's state visit to China, even though the Nvidia CEO has accompanied the U.S. president in several state visits across the globe. One expert says that this is a \"s",
-      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-12T13:57:10+00:00"
     }
   ]
 }
