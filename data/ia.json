@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-05-13T15:14:59.332981+00:00",
+  "last_updated": "2026-05-13T20:11:37.191411+00:00",
   "items": [
     {
-      "titolo": "MDASH, arriva il sistema AI di Microsoft per la cybersicurezza",
-      "descrizione": "Microsoft risponde a Daybreak di OpenAI e a Mythos di Anthropic con MDASH, un sistema con con oltre cento AI specializzate per la sicurezza. The post MDASH, arriva il sistema AI di Microsoft per la cybersicurezza appeare",
-      "link": "https://www.punto-informatico.it/mdash-sistema-ai-microsoft-cybersicurezza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-13T10:20:48+00:00",
+      "titolo": "Stellantis entra nella WCM Association: un nuovo capitolo",
+      "descrizione": "\"Un impegno verso l'eccellenza industriale\": Francesco Ciancia e i vertici dell'Associazione celebrano una collaborazione destinata a ridefinire gli standard del settore",
+      "link": "https://www.hdmotori.it/stellantis-entra-wcm-association/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T18:00:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS — Google VP says devices to also ship with Qualcomm and MediaTek chips",
+      "titolo": "Intel, Qualcomm confirm Googlebook AI laptop partnerships, opening Arm and x86 possibilities for new OS — Google VP says devices to also ship with MediaTek chips",
       "descrizione": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
       "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
       "fonte": "Latest from Tom's Hardware",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude down: nuovi disservizi segnalati in Italia (e non solo) | Risolto",
-      "descrizione": "Ancora!",
-      "link": "https://www.hdblog.it/internet/articoli/n639182/claude-down-disservizi-segnalazioni-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:39:00+00:00",
+      "titolo": "OpenAI Daybreak e Microsoft MDASH: arrivano le risposte di OpenAI e Microsoft all’Ai caccia vulnerabilità di Anthropic",
+      "descrizione": "Dopo il polverone sollevato da Anthropic con la presentazione di Glasswing, OpenAI e Microsoft corrono ai ripari lanciando, rispettivamente, Daybreak e MDASH, le loro piattaforme AI pensate per mettere al...",
+      "link": "https://www.ilsole24ore.com/art/openai-daybreak-e-microsoft-mdash-arrivano-risposte-openai-e-microsoft-all-ai-caccia-vulnerabilita-anthropic-AIBuuf3C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-13T16:46:56+00:00",
       "modello": "claude"
     },
     {

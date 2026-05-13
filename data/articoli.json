@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-13T15:14:56.201930+00:00",
+  "last_updated": "2026-05-13T20:11:33.855836+00:00",
   "items": [
+    {
+      "titolo": "Adobe Express vs Canva: Which design tool is better?",
+      "descrizione": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
+      "link": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-13T20:09:59+00:00"
+    },
+    {
+      "titolo": "My new favorite Android file manager is way better than Google's default - and it's free",
+      "descrizione": "Material Files is free to use and has no in-app purchases. Here's what makes it so perfect.",
+      "link": "https://www.zdnet.com/article/this-android-file-manager-is-the-best-ive-tried/",
+      "fonte": "Latest news",
+      "data": "2026-05-13T20:00:39+00:00"
+    },
+    {
+      "titolo": "L'ultima novità di WhatsApp per la privacy: le chat in incognito con Meta AI",
+      "descrizione": "Sono arrivate le chat in incognito con Meta AI all'interno di WhatsApp: nessuno può leggere i messaggi scambiati, ma non era già così?",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n658232/novita-whatsapp-privacy-chat-incognito-meta-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T18:30:00+00:00"
+    },
+    {
+      "titolo": "Klipsch Pro Media Lumina Review: Slimmer subwoofer, even slimmer bass",
+      "descrizione": "Klipsch's new ProMedia Lumina brings customizable LED backlighting to the company's iconic PC speaker lineup and redesigns both the speakers and the subwoofer.",
+      "link": "https://www.tomshardware.com/speakers/klipsch-pro-media-lumina-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-13T18:14:36+00:00"
+    },
+    {
+      "titolo": "Stellantis entra nella WCM Association: un nuovo capitolo",
+      "descrizione": "\"Un impegno verso l'eccellenza industriale\": Francesco Ciancia e i vertici dell'Associazione celebrano una collaborazione destinata a ridefinire gli standard del settore",
+      "link": "https://www.hdmotori.it/stellantis-entra-wcm-association/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T18:00:26+00:00"
+    },
+    {
+      "titolo": "WhatsApp: modalità Incognito per le chat con Meta AI",
+      "descrizione": "La modalità Incognito, disponibile su WhatsApp nei prossimi mesi, permetterà di avviare chat temporanee private con Meta AI senza salvare i messaggi. The post WhatsApp: modalità Incognito per le chat con Meta AI appeared",
+      "link": "https://www.punto-informatico.it/whatsapp-modalita-incognito-chat-meta-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-13T17:39:27+00:00"
+    },
+    {
+      "titolo": "Spotify: gli account per bambini disponibili da oggi per il piano free",
+      "descrizione": "Si potrà controllare l’accesso a brani e artisti specifici.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n658257/spotify-account-bambini-piano-free/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T17:35:00+00:00"
+    },
+    {
+      "titolo": "Oliver Zipse lascia la carica di CEO del BMW Group, si chiude un'era",
+      "descrizione": "Dopo 35 anni di servizio e il lancio della NEUE KLASSE, Oliver Zipse cede la guida del Gruppo a Milan Nedeljković per un nuovo corso BMW",
+      "link": "https://www.hdmotori.it/oliver-zipse-ceo-bmw-group-addio/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T17:30:10+00:00"
+    },
+    {
+      "titolo": "iOS e iPadOS 26.5 portano in Italia una nuova feature per la privacy",
+      "descrizione": "Tutti i dispositivi dotati di modem proprietario Apple possono disattivare la condivisione della posizione precisa con l'operatore di rete.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658259/apple-iphone-privacy-modem-c1-c1x-operatore/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T17:25:00+00:00"
+    },
+    {
+      "titolo": "ASUS ROG celebra i 20 anni con una scheda madre effetto nostalgia",
+      "descrizione": "A quanto pare avremo una 20th anniversary Edition della prima scheda madre lanciata dal brand ROG.",
+      "link": "https://www.hdblog.it/hardware/articoli/n658255/asus-rog-crosshair-20th-anniversary-edition/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T17:15:00+00:00"
+    },
+    {
+      "titolo": "Stellantis Pro One al Transpotec: numeri da leader e la novità TRIS",
+      "descrizione": "Stellantis Pro One domina il mercato italiano: 39% di quota e gamma rinnovata, i numeri del successo e il nuovo Fiat TRIS",
+      "link": "https://www.hdmotori.it/stellantis-pro-one-transpotec-leadership-mercato-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T17:00:55+00:00"
+    },
+    {
+      "titolo": "OpenAI Daybreak e Microsoft MDASH: arrivano le risposte di OpenAI e Microsoft all’Ai caccia vulnerabilità di Anthropic",
+      "descrizione": "Dopo il polverone sollevato da Anthropic con la presentazione di Glasswing, OpenAI e Microsoft corrono ai ripari lanciando, rispettivamente, Daybreak e MDASH, le loro piattaforme AI pensate per mettere al...",
+      "link": "https://www.ilsole24ore.com/art/openai-daybreak-e-microsoft-mdash-arrivano-risposte-openai-e-microsoft-all-ai-caccia-vulnerabilita-anthropic-AIBuuf3C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-13T16:46:56+00:00"
+    },
+    {
+      "titolo": "Hyundai NEXO, appena 5 minuti per un pieno di idrogeno: autonomia di 826 km",
+      "descrizione": "Dall'autonomia record di 826 km al rifornimento in soli 5 minuti: la terza generazione di Hyundai NEXO debutta sul mercato italiano",
+      "link": "https://www.hdmotori.it/hyundai-nexo-idrogeno-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T16:30:39+00:00"
+    },
+    {
+      "titolo": "Biglietto unico europeo per i viaggi in treno",
+      "descrizione": "La Commissione europea ha proposto il biglietto unico per i treni di più operatori, acquistabile con un'unica transazione su una singola piattaforma. The post Biglietto unico europeo per i viaggi in treno appeared first",
+      "link": "https://www.punto-informatico.it/biglietto-unico-europeo-viaggi-treno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-13T16:25:52+00:00"
+    },
+    {
+      "titolo": "Emissioni di gas serra: nell’UE diminuiscono, ma senza decrescita economica",
+      "descrizione": "Dati incoraggianti",
+      "link": "https://www.hdblog.it/green/articoli/n658213/emissioni-gas-serra-ue-decrescita-economica/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T16:20:00+00:00"
+    },
+    {
+      "titolo": "Lenovo ThinkStation P4 porta la 3D V-Cache nelle workstation professionali",
+      "descrizione": "È il primo sistema con processori Ryzen 9000 PRO... e per non farsi mancare niente, anche delle belle NVIDIA RTX Pro Blackwell 6000.",
+      "link": "https://www.hdblog.it/hardware/articoli/n658246/lenovo-thinkpad-p4-ryzen-pro-9000-v-cache/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T16:05:00+00:00"
+    },
+    {
+      "titolo": "Kia al Transpotec 2026, debutta la gamma PBV con il nuovo PV5",
+      "descrizione": "Kia riparte dai veicoli commerciali: a Fiera Milano debutta il PV5. Ecco la strategia PBV tra mobilità sostenibile, partner d'eccellenza e ambiziosi obiettivi al 2030",
+      "link": "https://www.hdmotori.it/kia-ritorno-veicoli-commerciali-gamma-pbv/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T16:00:51+00:00"
+    },
+    {
+      "titolo": "Reattori a sali fusi per l'AI: l'accordo tra Terrestrial e Riot",
+      "descrizione": "Terrestrial Energy e Riot Platforms collaboreranno per alimentare i data center con reattori nucleari a sale fuso da 392 MW.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658239/terrestrial-energy-riot-platforms-accordo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-13T15:55:00+00:00"
+    },
+    {
+      "titolo": "Get Audible for 30 days totally free - here's how",
+      "descrizione": "I recently signed up for Audible's free trial deal, and I'm glad I did. Here's what to know.",
+      "link": "https://www.zdnet.com/article/audible-free-trial-deal/",
+      "fonte": "Latest news",
+      "data": "2026-05-13T15:53:00+00:00"
+    },
+    {
+      "titolo": "Luce e gas con Pulsee: 245€ di extra sconto e prezzi fissi per 24 mesi",
+      "descrizione": "Scegliendo Pulsee è possibile accedere a un'offerta luce e gas a prezzo fisso per 24 mesi e risparmiare fino a 245 euro extra con un codice sconto. The post Luce e gas con Pulsee: 245€ di extra sconto e prezzi fissi per",
+      "link": "https://www.punto-informatico.it/luce-e-gas-con-pulsee-245e-di-extra-sconto-e-prezzi-fissi-per-24-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-13T15:40:34+00:00"
+    },
+    {
+      "titolo": "Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC — plant to fill missing chemical link to scale EUV materials",
+      "descrizione": "The plant, located in Yunlin County, is expected to come online as early as 2028 and will co-develop advanced photoresists with TSMC.",
+      "link": "https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-13T15:37:18+00:00"
+    },
+    {
+      "titolo": "Il prompt AI del pesce rosso per iniziare a pensare con semplicità",
+      "descrizione": "Il prompt del pesce rosso chiede all'AI di concentrarsi solo sul presente, producendo risposte più semplici e paradossalmente più utili. The post Il prompt AI del pesce rosso per iniziare a pensare con semplicità appeare",
+      "link": "https://www.punto-informatico.it/prompt-ai-pesce-rosso-iniziare-pensare-con-semplicita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-13T15:30:40+00:00"
+    },
     {
       "titolo": "Your TV's RS-232 port is a powerful automation tool - how to unlock it (and what it can do)",
       "descrizione": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to unlock it for more advanced programming.",
@@ -9,165 +163,11 @@
       "data": "2026-05-13T15:00:38+00:00"
     },
     {
-      "titolo": "Xiaomi Scooter 6: la guida completa ai 5 nuovi modelli in Italia",
-      "descrizione": "Xiaomi lancia in Italia la Electric Scooter 6 Series: 5 modelli con ruote da 12\", comfort estremo e autonomia fino a 75km. Prezzi e offerte",
-      "link": "https://www.hdmotori.it/xiaomi-electric-scooter-6-series-prezzi-uscita-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T15:00:30+00:00"
-    },
-    {
       "titolo": "Apple iOS 27: molte novità per l’app Fotocamera e Siri",
       "descrizione": "Apple aggiornerà l'app Fotocamera con iOS 27 (nuove interfaccia e funzionalità) e rinnoverà completamente Siri (sarà disponibile anche un'app dedicata). The post Apple iOS 27: molte novità per l’app Fotocamera e Siri app",
       "link": "https://www.punto-informatico.it/apple-ios-27-molte-novita-app-fotocamera-siri/",
       "fonte": "Punto Informatico",
       "data": "2026-05-13T15:00:28+00:00"
-    },
-    {
-      "titolo": "Trump's Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket",
-      "descrizione": "Republicans still have the midterms to get through, but administration officials have already set their sights on the next election.",
-      "link": "https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/",
-      "fonte": "WIRED",
-      "data": "2026-05-13T15:00:00+00:00"
-    },
-    {
-      "titolo": "Moto Tag 2 è in vendita, ma Motorola non l'ha detto ancora a nessuno",
-      "descrizione": "Motorola ha reso già disponibile il nuovo Moto Tag 2 anche in Italia: caratteristiche e prezzo.",
-      "link": "https://www.hdblog.it/motorola/articoli/n658193/motorola-moto-tag-2-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T14:15:00+00:00"
-    },
-    {
-      "titolo": "BMW brevetta un cambio manuale che impedisce di inserire la marcia sbagliata",
-      "descrizione": "BMW: sensore rileva la marcia inserita e la velocità del motore, bloccando automaticamente i rapporti che potrebbero danneggiare il motore",
-      "link": "https://www.hdmotori.it/bmw-brevetto-cambio-manuale-errori-marce/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T14:00:44+00:00"
-    },
-    {
-      "titolo": "Meta Connect 2026, le date dell'evento e uno spoiler che ci ha svelato Meta AI",
-      "descrizione": "Occhiali smart e intelligenza artificiale, ma anche realtà virtuale e metaverso: cosa vedremo all'evento Meta Connect 2026 di settembre.",
-      "link": "https://www.hdblog.it/eventi/articoli/n658209/meta-connect-2026-date-spoiler/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:45:00+00:00"
-    },
-    {
-      "titolo": "Adobe Premiere, l'app per Android presto sarà realtà: l'annuncio di Google",
-      "descrizione": "Ci siamo quasi.",
-      "link": "https://www.hdblog.it/android/articoli/n658215/adobe-premiere-android-app-ai-quando-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:35:00+00:00"
-    },
-    {
-      "titolo": "La Lamborghini Revuelto NA63 omaggia il Nord America con 1.015 CV",
-      "descrizione": "Una nuova serie limitata della Lamborghini Revuelto dedicata al Nord America con motore V12 ibrido celebra un legame indissolubile",
-      "link": "https://www.hdmotori.it/lamborghini-revuelto-na63-omaggia-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:30:45+00:00"
-    },
-    {
-      "titolo": "Offerte luce e gas contro i rincari: prezzo fisso e bollette più leggere con Octopus",
-      "descrizione": "Con Octopus Energy è possibile bloccare il prezzo di luce e gas per 12 mesi e tagliare la bolletta: ecco la promozione da attivare oggi. The post Offerte luce e gas contro i rincari: prezzo fisso e bollette più leggere c",
-      "link": "https://www.punto-informatico.it/offerte-luce-e-gas-contro-i-rincari-prezzo-fisso-e-bollette-piu-leggere-con-octopus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-13T13:30:20+00:00"
-    },
-    {
-      "titolo": "Sorveglianza di massa con Azure: Microsoft taglia i vertici in Israele",
-      "descrizione": "La divisione passa sotto il controllo di Microsoft Francia.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n658200/microsoft-azure-israele-sorveglianza-massa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:25:00+00:00"
-    },
-    {
-      "titolo": "Apple Watch, Kindle Scribe e Razr Fold: offerte tech da non ignorare oggi",
-      "descrizione": "Amazon e MediaWorld spingono su smartwatch, smart TV, rete WiFi, cuffie premium e pieghevoli: ecco le migliori offerte tech di oggi, 13 maggio.",
-      "link": "https://www.hdblog.it/amazon/offerte/n658216/offerte-tech-13-maggio-2026-amazon-mediaworld-/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:05:00+00:00"
-    },
-    {
-      "titolo": "Toyota Corolla spegne 60 candeline e aggiorna la gamma",
-      "descrizione": "Toyota ha annunciato il lancio di una serie di edizioni speciali per celebrare il 60° anniversario della sua leggendaria Corolla",
-      "link": "https://www.hdmotori.it/toyota-corolla-gamma-rinnovata-60-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T13:00:04+00:00"
-    },
-    {
-      "titolo": "Amazfit lancia Cheetah 2 Ultra, sportwatch per il trail con torcia, SOS e mappe offline",
-      "descrizione": "Amazfit ha lanciato in Europa il nuovo Cheetah 2 Ultra, smartwatch progettato per trail runner e sportivi che affrontano lunghe distanze in montagna",
-      "link": "https://www.hdblog.it/indossabili/articoli/n658214/amazfit-chetaah-2-ultra-trail-running-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:50:00+00:00"
-    },
-    {
-      "titolo": "Microsoft launches Cloud‑Initiated Driver Recovery for remote rollback of faulty updates — no user action or OEM intervention will be needed to handle broken drivers delivered via Windows Update",
-      "descrizione": "Microsoft introduces Cloud-Initiated Driver Recovery, an important Windows reliability change designed to minimize buggy driver mayhem.",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-launches-cloud-initiated-driver-recovery-for-remote-rollback-of-faulty-updates-no-user-action-or-oem-intervention-will-be-needed-to-handle-broken-drivers-delivered-via-windows-update",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-13T12:42:58+00:00"
-    },
-    {
-      "titolo": "Claude down: nuovi disservizi segnalati in Italia (e non solo) | Risolto",
-      "descrizione": "Ancora!",
-      "link": "https://www.hdblog.it/internet/articoli/n639182/claude-down-disservizi-segnalazioni-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:39:00+00:00"
-    },
-    {
-      "titolo": "Instagram: su Android arrivano il supporto per foto Ultra HDR e la Night Mode",
-      "descrizione": "Le novità sono state annunciate nel corso dell’Android Show 2026.",
-      "link": "https://www.hdblog.it/android/articoli/n658205/instagram-android-foto-ultra-hdr-night-mode/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:35:00+00:00"
-    },
-    {
-      "titolo": "DM di Instagram senza crittografia: EFF critica Meta",
-      "descrizione": "La Electronic Frontier Foundation ha criticato la decisione di Meta di rimuovere la crittografia end-to-end per i messaggi diretti di Instagram. The post DM di Instagram senza crittografia: EFF critica Meta appeared firs",
-      "link": "https://www.punto-informatico.it/dm-instagram-senza-crittografia-eff-critica-meta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-13T12:33:33+00:00"
-    },
-    {
-      "titolo": "Instagram, niente più chat tutte private: che cambia per noi e che alternative privacy ci sono",
-      "descrizione": "Instagram ha chiuso una strada che negli ultimi anni sembrava inevitabile destino, per questo social come per internet in generale: la via della messaggistica (davvero) privata. Dal 8 maggio 2026...",
-      "link": "https://www.ilsole24ore.com/art/instagram-niente-piu-chat-tutte-private-che-cambia-noi-e-che-alternative-privacy-ci-sono-AIwRXx2C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-13T12:31:31+00:00"
-    },
-    {
-      "titolo": "Sassi dai cavalcavia, torna la paura per un fenomeno mai del tutto scomparso",
-      "descrizione": "L'episodio riaccende l'attenzione su un fenomeno che in Italia ha già causato morti: quello del lancio dei sassi dal cavalcavia",
-      "link": "https://www.hdmotori.it/sassi-cavalcavia-paura-strade-italiane/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:30:06+00:00"
-    },
-    {
-      "titolo": "Motorola Razr Fold a 1399€ da MediaWorld: -1.000€ e biglietto Mondiali 2026 incluso",
-      "descrizione": "Il Motorola Razr Fold FIFA Edition è in esclusiva da MediaWorld a 1.399€ con MW Club. In regalo un biglietto per la FIFA World Cup 26.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n658208/motorola-razr-fold-fifa-edition-mediaworld-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:25:00+00:00"
-    },
-    {
-      "titolo": "BAIC B81, il gigante cinese \"clone\" della Classe G (a un quarto del prezzo)",
-      "descrizione": "Dall'esercito alla tecnologia LiDAR: la BAIC B81 è il nuovo fuoristrada elettrico a lungo raggio (EREV) che democratizza il lusso",
-      "link": "https://www.hdmotori.it/baic-b81-clone-cinese-mercedes-classe-g/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-13T12:00:38+00:00"
-    },
-    {
-      "titolo": "Grab a big $250 savings on this RTX 5070 Ti and 9850X3D combo deal for your next 4K gaming PC build — Newegg discount brings together one of AMD's fastest X3D gaming CPUs for just $1,264",
-      "descrizione": "Save over $250 on this Newegg combo deal that nets you the AMD Ryzen 7 9850X3D with an Nvidia GeForce RTX 5070 Ti graphics card from Gigabyte, now just $1,264.99.",
-      "link": "https://www.tomshardware.com/pc-components/grab-a-big-usd250-savings-on-this-rtx-5070-ti-and-9850x3d-combo-deal-for-your-next-4k-gaming-pc-build-newegg-discount-brings-together-one-of-amds-fastest-x3d-gaming-cpus-for-just-usd1-264",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-13T11:48:51+00:00"
-    },
-    {
-      "titolo": "Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day — Korean PM calls emergency meeting as strike looms",
-      "descrizione": "South Korean Prime Minister Kim Min-seok responded by convening an emergency ministerial meeting.",
-      "link": "https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-13T11:41:52+00:00"
     }
   ]
 }
