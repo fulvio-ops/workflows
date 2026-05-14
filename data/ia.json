@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-14T09:09:54.571645+00:00",
+  "last_updated": "2026-05-14T14:43:10.901717+00:00",
   "items": [
     {
-      "titolo": "WhatsApp, in test una novità per gli stati: le reazioni con emoji diventano più rapide",
-      "descrizione": "Le novità in test su Android",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658303/whatsapp-reazioni-rapide-emoji/",
+      "titolo": "Meno grattacapi con il rollback automatico dei driver problematici su Windows 11",
+      "descrizione": "In test una novità legata a Windows Update che permetterà a Microsoft di eliminare i driver corrotti e tornare a una versione precedente.",
+      "link": "https://www.hdblog.it/windows-os/articoli/n658354/rollback-automatico-driver-problematici-windows-11/",
       "fonte": "HDblog.it",
-      "data": "2026-05-14T08:40:00+00:00",
+      "data": "2026-05-14T14:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google AI Quests in Italia: imparare l'intelligenza artificiale, giocando",
-      "descrizione": "Attività interattive e missioni da portare a termine per imparare i principi dell'intelligenza artificiale: Google AI Quests è disponibile.",
-      "link": "https://www.hdblog.it/google/articoli/n658281/google-ai-quests-italia-imparare-giocando/",
+      "titolo": "Google Home Display, spunta un indizio concreto: nuovo smart display con Gemini",
+      "descrizione": "Dal codice dell'applicazione Google Home su iOS spunta un riferimento a Google Home Display: in arrivo un nuovo schermo smart per la casa?",
+      "link": "https://www.hdblog.it/domotica/articoli/n658339/google-home-display-indizio-concreto-smart-display/",
       "fonte": "HDblog.it",
-      "data": "2026-05-14T07:55:00+00:00",
+      "data": "2026-05-14T13:20:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI Daybreak e Microsoft MDASH: arrivano le risposte di OpenAI e Microsoft all’Ai caccia vulnerabilità di Anthropic",
-      "descrizione": "Dopo il polverone sollevato da Anthropic con la presentazione di Glasswing, OpenAI e Microsoft corrono ai ripari lanciando, rispettivamente, Daybreak e MDASH, le loro piattaforme AI pensate per mettere al...",
-      "link": "https://www.ilsole24ore.com/art/openai-daybreak-e-microsoft-mdash-arrivano-risposte-openai-e-microsoft-all-ai-caccia-vulnerabilita-anthropic-AIBuuf3C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-13T16:46:56+00:00",
+      "titolo": "Claude lo ha aiutato a recuperare 400.000 dollari in Bitcoin",
+      "descrizione": "Recupera la password del wallet crypto grazie a Claude e, dopo 11 anni, riesce ad allungare le mano sul proprio tesoro in Bitcoin. The post Claude lo ha aiutato a recuperare 400.000 dollari in Bitcoin appeared first on P",
+      "link": "https://www.punto-informatico.it/claude-aiutato-recuperare-400000-dollari-bitcoin/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-14T13:06:57+00:00",
       "modello": "claude"
     },
     {
