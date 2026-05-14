@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-05-14T04:13:39.846008+00:00",
+  "last_updated": "2026-05-14T09:09:54.571645+00:00",
   "items": [
     {
-      "titolo": "Stellantis entra nella WCM Association: un nuovo capitolo",
-      "descrizione": "\"Un impegno verso l'eccellenza industriale\": Francesco Ciancia e i vertici dell'Associazione celebrano una collaborazione destinata a ridefinire gli standard del settore",
-      "link": "https://www.hdmotori.it/stellantis-entra-wcm-association/",
+      "titolo": "WhatsApp, in test una novità per gli stati: le reazioni con emoji diventano più rapide",
+      "descrizione": "Le novità in test su Android",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658303/whatsapp-reazioni-rapide-emoji/",
       "fonte": "HDblog.it",
-      "data": "2026-05-13T18:00:26+00:00",
+      "data": "2026-05-14T08:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Intel, Qualcomm confirm Googlebook AI laptop partnerships, opening ARM andx86 possibilities for new OS — Google VP says devices to also ship with MediaTek chips",
-      "descrizione": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
-      "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-13T10:58:33+00:00",
+      "titolo": "Microsoft Edge: nuove funzionalità AI su desktop e mobile",
+      "descrizione": "Microsoft ha annunciato nuove funzionalità AI per Edge su desktop e mobile che sfruttano l'integrazione di Copilot nel browser (alcune solo negli USA). The post Microsoft Edge: nuove funzionalità AI su desktop e mobile a",
+      "link": "https://www.punto-informatico.it/microsoft-edge-nuove-funzionalita-ai-desktop-mobile/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-14T07:40:25+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google AI Quests in Italia: imparare l'intelligenza artificiale, giocando",
+      "descrizione": "Attività interattive e missioni da portare a termine per imparare i principi dell'intelligenza artificiale: Google AI Quests è disponibile.",
+      "link": "https://www.hdblog.it/google/articoli/n658281/google-ai-quests-italia-imparare-giocando/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-14T07:55:00+00:00",
       "modello": "gemini"
     },
     {
