@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-05-14T14:43:10.901717+00:00",
+  "last_updated": "2026-05-14T20:02:56.697729+00:00",
   "items": [
     {
-      "titolo": "Meno grattacapi con il rollback automatico dei driver problematici su Windows 11",
-      "descrizione": "In test una novità legata a Windows Update che permetterà a Microsoft di eliminare i driver corrotti e tornare a una versione precedente.",
-      "link": "https://www.hdblog.it/windows-os/articoli/n658354/rollback-automatico-driver-problematici-windows-11/",
+      "titolo": "OpenAI non è più la preferita dalle aziende: cambia il dominio a favore di Anthropic",
+      "descrizione": "Anthropic supera OpenAI tra i clienti aziendali secondo gli ultimi dati finanziari di Ramp.",
+      "link": "https://www.hdblog.it/mercato/articoli/n658368/anthropic-supera-openai-aziende/",
       "fonte": "HDblog.it",
-      "data": "2026-05-14T14:35:00+00:00",
+      "data": "2026-05-14T15:45:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Edge: nuove funzionalità AI su desktop e mobile",
-      "descrizione": "Microsoft ha annunciato nuove funzionalità AI per Edge su desktop e mobile che sfruttano l'integrazione di Copilot nel browser (alcune solo negli USA). The post Microsoft Edge: nuove funzionalità AI su desktop e mobile a",
-      "link": "https://www.punto-informatico.it/microsoft-edge-nuove-funzionalita-ai-desktop-mobile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-14T07:40:25+00:00",
+      "titolo": "I'm no Copilot fan, but these 6 new AI skills turned Edge into my favorite mobile browser",
+      "descrizione": "With Edge's mobile app, you can now request summaries of multiple tabs, turn pages into podcasts, and tap into your browsing history and past chats.",
+      "link": "https://www.zdnet.com/article/microsoft-edge-ai-copilot-new-skills/",
+      "fonte": "Latest news",
+      "data": "2026-05-14T16:49:59+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Home Display, spunta un indizio concreto: nuovo smart display con Gemini",
-      "descrizione": "Dal codice dell'applicazione Google Home su iOS spunta un riferimento a Google Home Display: in arrivo un nuovo schermo smart per la casa?",
-      "link": "https://www.hdblog.it/domotica/articoli/n658339/google-home-display-indizio-concreto-smart-display/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-14T13:20:00+00:00",
+      "titolo": "Android cambia pelle con Gemini Intelligence: il sistema operativo ora è un’AI agentica",
+      "descrizione": "Non più soltanto un sistema operativo, ma una piattaforma cognitiva capace di comprendere il contesto, anticipare le intenzioni dell’utente e agire in autonomia dentro applicazioni, browser e servizi. Da Android...",
+      "link": "https://www.ilsole24ore.com/art/android-cambia-pelle-gemini-intelligence-sistema-operativo-ora-e-un-ai-agentica-AILPrD3C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-14T06:10:16+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude lo ha aiutato a recuperare 400.000 dollari in Bitcoin",
-      "descrizione": "Recupera la password del wallet crypto grazie a Claude e, dopo 11 anni, riesce ad allungare le mano sul proprio tesoro in Bitcoin. The post Claude lo ha aiutato a recuperare 400.000 dollari in Bitcoin appeared first on P",
-      "link": "https://www.punto-informatico.it/claude-aiutato-recuperare-400000-dollari-bitcoin/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-14T13:06:57+00:00",
+      "titolo": "Anthropic's Mythos is evolving faster than expected, reports AI safety agency",
+      "descrizione": "Only a month after its initial release, Anthropic's storied Mythos model is breaking new testing boundaries.",
+      "link": "https://www.zdnet.com/article/uk-ai-safety-institute-updates-its-testing-on-mythos/",
+      "fonte": "Latest news",
+      "data": "2026-05-14T17:32:00+00:00",
       "modello": "claude"
     },
     {
