@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-05-13T20:11:33.855836+00:00",
+  "last_updated": "2026-05-14T04:13:35.972906+00:00",
   "items": [
+    {
+      "titolo": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+      "descrizione": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+      "fonte": "WIRED",
+      "data": "2026-05-13T21:58:47+00:00"
+    },
     {
       "titolo": "Adobe Express vs Canva: Which design tool is better?",
       "descrizione": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
@@ -161,13 +168,6 @@
       "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
       "fonte": "Latest news",
       "data": "2026-05-13T15:00:38+00:00"
-    },
-    {
-      "titolo": "Apple iOS 27: molte novità per l’app Fotocamera e Siri",
-      "descrizione": "Apple aggiornerà l'app Fotocamera con iOS 27 (nuove interfaccia e funzionalità) e rinnoverà completamente Siri (sarà disponibile anche un'app dedicata). The post Apple iOS 27: molte novità per l’app Fotocamera e Siri app",
-      "link": "https://www.punto-informatico.it/apple-ios-27-molte-novita-app-fotocamera-siri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-13T15:00:28+00:00"
     }
   ]
 }
