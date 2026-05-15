@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-15T14:37:01.638507+00:00",
+  "last_updated": "2026-05-15T19:55:06.494697+00:00",
   "items": [
+    {
+      "titolo": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
+      "descrizione": "I've rounded up the best laptop deals live right now so you don't have to.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-laptop-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-15T18:30:45+00:00"
+    },
+    {
+      "titolo": "Xiaomi, gli auricolari clip-on promettono molto bene: leggerissimi e premium",
+      "descrizione": "La società ha impiegato addirittura il titanio per ottenere un peso super contenuto.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n658530/xiaomi-auricolari-clip-titanio-specifiche-peso/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T18:05:00+00:00"
+    },
+    {
+      "titolo": "Android Auto runs faster and smoother now thanks to my 4 easy tweaks",
+      "descrizione": "These simple changes can make an immediate impact on your in-car experience.",
+      "link": "https://www.zdnet.com/article/4-fixes-that-made-android-auto-more-responsive/",
+      "fonte": "Latest news",
+      "data": "2026-05-15T17:41:51+00:00"
+    },
+    {
+      "titolo": "OpenAI lancia ChatGPT per la gestione delle finanze personali",
+      "descrizione": "OpenAI porta la finanza personale dentro ChatGPT: domande sui propri conti, pianificazione a lungo termine e analisi delle spese. The post OpenAI lancia ChatGPT per la gestione delle finanze personali appeared first on P",
+      "link": "https://www.punto-informatico.it/openai-chatgpt-gestione-finanze-personali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T17:41:09+00:00"
+    },
+    {
+      "titolo": "Occhiali Meta Ray-Ban Display, arrivano giochi e app di terze parti",
+      "descrizione": "Sui Ray-Ban Display arriveranno app, micro-applicazioni e minigiochi pensati per il display da venti gradi nella lente. The post Occhiali Meta Ray-Ban Display, arrivano giochi e app di terze parti appeared first on Punto",
+      "link": "https://www.punto-informatico.it/occhiali-meta-ray-ban-display-arrivano-giochi-app-terze-parti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T17:16:42+00:00"
+    },
+    {
+      "titolo": "Android Quick Share, arriva il metodo \"universale\" per inviare file a iPhone",
+      "descrizione": "Con un codice QR. Ma, un momento... quindi vuol dire che non tutti gli smartphone Android potranno interfacciarsi con AirDrop?",
+      "link": "https://www.hdblog.it/google/articoli/n658526/google-android-file-iphone-codice-qr-quick-share/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T17:15:00+00:00"
+    },
+    {
+      "titolo": "I found the best early Memorial Day phones deals: Save big on Samsung, Google, Apple and more",
+      "descrizione": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-15T17:10:42+00:00"
+    },
+    {
+      "titolo": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "descrizione": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "fonte": "WIRED",
+      "data": "2026-05-15T17:09:17+00:00"
+    },
+    {
+      "titolo": "Energia nucleare: nuovi dati sui sali fusi riaprono le speranze",
+      "descrizione": "Scienziati dell'ORNL svelano dati inediti sui sali fusi per reattori nucleari avanzati.",
+      "link": "https://www.hdblog.it/green/articoli/n658437/nucleare-sali-fusi-dati-ornl/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T16:55:00+00:00"
+    },
+    {
+      "titolo": "Centinaia di militari britannici espongono informazioni sensibili su Strava",
+      "descrizione": "Oltre 500, solo dall'inizio dell'anno. Svelati dettagli anche di basi con armi nucleari.",
+      "link": "https://www.hdblog.it/android/articoli/n658522/strava-500-militari-uk-dati-privacy-basi-nucleari/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T16:35:00+00:00"
+    },
+    {
+      "titolo": "Quando il lusso di Rolls-Royce incontra l'energia del \"Kongoverse\"",
+      "descrizione": "Solo cinque esemplari al mondo per un'opera d'arte itinerante che fonde il lusso Bespoke con il \"Kongoverse\": originalità made in Rolls-Royce",
+      "link": "https://www.hdmotori.it/rolls-royce-kongoverse/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T16:30:15+00:00"
+    },
+    {
+      "titolo": "Batterie stampate in 3D: raddoppia la capacità di energia",
+      "descrizione": "Nuovi elettrodi 3D raddoppiano la capacità delle batterie mantenendo ricariche ultra veloci.",
+      "link": "https://www.hdblog.it/green/articoli/n658403/batterie-3d-raddoppio-capacita/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T16:20:00+00:00"
+    },
+    {
+      "titolo": "Microsoft Edge non caricherà più le password in memoria",
+      "descrizione": "Anche se non è considerata una vulnerabilità, Microsoft modificherà Edge per non caricare più in memoria le password salvate nel password manager. The post Microsoft Edge non caricherà più le password in memoria appeared",
+      "link": "https://www.punto-informatico.it/microsoft-edge-non-carichera-piu-password-memoria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T16:04:01+00:00"
+    },
+    {
+      "titolo": "Satan II, il missile russo da 35.000 km che spaventa l’Occidente",
+      "descrizione": "La Russia ha testato con successo il missile Sarmat, capace di colpire obiettivi a distanze record.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658418/test-missile-sarmat-russia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T15:55:00+00:00"
+    },
+    {
+      "titolo": "Opel, con Leapmotor non sarà un’operazione rebadging",
+      "descrizione": "Opel, brand nell’universo Stellantis, ha spiegato che l’alleanza con Leapmotor non porterà a un modello rimarchiato",
+      "link": "https://www.hdmotori.it/opel-leapmotor-rebadging/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T15:30:16+00:00"
+    },
+    {
+      "titolo": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+      "descrizione": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-15T15:23:00+00:00"
+    },
+    {
+      "titolo": "Google floats reduced initial 5GB free cloud storage limit, users claim — 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts'",
+      "descrizione": "While Google has not publicly announced the change, the company confirmed that it is testing a new approach designed to improve account security and data recovery.",
+      "link": "https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-15T15:13:41+00:00"
+    },
+    {
+      "titolo": "Cosori Twinfry Compact: la friggitrice ad aria cuoce perfettamente su tutti i lati",
+      "descrizione": "Prezzo Italia.",
+      "link": "https://www.hdblog.it/home/articoli/n658493/cosori-twinfry-compact-friggitrice-aria-prezzo-ita/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T15:05:00+00:00"
+    },
+    {
+      "titolo": "Patente B, le nuove regole volute dall'UE: dalla licenza a 17 anni a esami più duri",
+      "descrizione": "L'Unione Europea ha tracciato le nuove regole per la Patente B, dalla licenza di guida a chi ha 17 anni a esami più rigidi a prova di ADAS",
+      "link": "https://www.hdmotori.it/patente-b-nuove-regole/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T15:00:31+00:00"
+    },
+    {
+      "titolo": "Hai 10 minuti? Prova questo mix tra Wikipedia e Windows XP",
+      "descrizione": "Wikipedia File Explorer è il progetto amatoriale che trasforma l'enciclopedia online in un'esperienza nostalgica ispirata a Windows XP. The post Hai 10 minuti? Prova questo mix tra Wikipedia e Windows XP appeared first o",
+      "link": "https://www.punto-informatico.it/wikipedia-file-explorer/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T14:56:43+00:00"
+    },
+    {
+      "titolo": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base",
+      "descrizione": "Pennsylvania residents blame Governor Josh Shapiro for the large number of data center projects in the state, despite his efforts to introduce policies that will balance development with the welfare of the people.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/pennsylvania-residents-complain-they-are-being-bulldozed-over-ai-data-center-concerns-lambast-gov-shapiro-in-two-hour-town-hall-say-he-is-losing-support-base",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-15T14:46:19+00:00"
+    },
+    {
+      "titolo": "Batterie scariche in orbita? Arriva il primo Wi-Fi dell’energia",
+      "descrizione": "Star Catcher ottiene 65 milioni di dollari per creare la prima rete elettrica solare in orbita.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658415/rete-energetica-spaziale-star-catcher/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T14:40:00+00:00"
+    },
     {
       "titolo": "Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)",
       "descrizione": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
@@ -9,165 +163,11 @@
       "data": "2026-05-15T14:26:31+00:00"
     },
     {
-      "titolo": "Snapseed 4.0: ecco la scorciatoia Android per scattare direttamente nell'app",
-      "descrizione": "Ulteriore aggiornamento per l'appa Snapseed per Android a una settimana dal lancio della versione 4.0, ecco la scorciatoia allo scatto diretto con la fotocamera tramite pressione prolungata...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658473/snapseed-4-0-android-scorciatoia-home/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T14:20:00+00:00"
-    },
-    {
       "titolo": "Trump says China is blocking Nvidia H200 purchases despite US approval — says country 'chose not to' sanction purchases, pushing homegrown chips instead",
       "descrizione": "President Donald Trump said on Friday that Beijing is refusing to let Chinese companies buy Nvidia's H200 AI chips.",
       "link": "https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-15T14:17:41+00:00"
-    },
-    {
-      "titolo": "Homey, la casa domotica in salotto con l'app per Android TV e LG webOS",
-      "descrizione": "E anche in auto con la piattaforma web.",
-      "link": "https://www.hdblog.it/tv/articoli/n658483/homey-android-tv-lg-webos-auto-app-domotica-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T14:10:00+00:00"
-    },
-    {
-      "titolo": "xAI lancia Grok Build: l’agente di coding AI, come funziona",
-      "descrizione": "xAI ha lanciato Grok Build, il suo agente di coding pensato per sfidare Claude Code di Anthropic e gli strumenti di OpenAI. The post xAI lancia Grok Build: l’agente di coding AI, come funziona appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/xai-grok-build-agente-coding/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T14:08:08+00:00"
-    },
-    {
-      "titolo": "Parchi solari e dune alte centinaia di metri per far piovere nel deserto",
-      "descrizione": "Al via la sperimentazione nella penisola arabica.",
-      "link": "https://www.hdblog.it/green/articoli/n658465/fotovoltaico-deserto-energia-pioggia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T14:05:00+00:00"
-    },
-    {
-      "titolo": "Lamborghini Revuelto SV, spiata in azione in Italia",
-      "descrizione": "Per tenere alto l’hype sulla Revuelto i vertici di Lamborghini potrebbero proporre nel 2027 una versione SV",
-      "link": "https://www.hdmotori.it/lamborghini-revuelto-nuova-versione-sv/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T14:00:10+00:00"
-    },
-    {
-      "titolo": "Meta Ray-Ban Display e app di terze parti: ci siamo, aperte le porte agli sviluppatori",
-      "descrizione": "L'apertura alle app degli sviluppatori di terze parti espande notevolmente l'ecosistema software a supporto dei Meta Ray-Ban Display.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n658477/meta-ray-ban-display-app-terze-parti/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:55:00+00:00"
-    },
-    {
-      "titolo": "Stretto di Hormuz, camion al posto delle navi: è la soluzione alla crisi?",
-      "descrizione": "Con lo Stretto di Hormuz chiuso al traffico commerciale, Arabia Saudita ed Emirati hanno costruito in poche settimane un corridoio terrestre",
-      "link": "https://www.hdmotori.it/stretto-hormuz-camion-trasporto-materie-prime/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:30:06+00:00"
-    },
-    {
-      "titolo": "Recensione Lefant V1: un aspirapolvere economico ma ricco di funzioni",
-      "descrizione": "Abbiamo provato uno degli aspirapolvere più economici di Amazon, ma comunque ricco di funzioni come i LED, un'asta allungabile ed una buona potenza d'aspirazione. Come va questo Lefant V1?",
-      "link": "https://www.hdblog.it/home/recensioni/n647465/lefant-v1-recensione-aspirapolvere-test-prova/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:30:00+00:00"
-    },
-    {
-      "titolo": "Spazio, il lancio dei satelliti rilascia fuliggine in atmosfera (e inquina 500 volte di più delle auto)",
-      "descrizione": "Indagine dell’University College di Londra: anche l’industria spaziale impatta sul clima. Secondo la ricerca britannica i lanci delle megacostellazioni iniziati nel 2019 arriveranno a rappresentare il 42% dell’inquinamen",
-      "link": "https://www.ilsole24ore.com/art/spazio-lancio-satelliti-rilascia-fuliggine-atmosfera-e-inquina-500-volte-piu-auto-AIUguZ4C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-15T13:18:52+00:00"
-    },
-    {
-      "titolo": "Nvidia può vendere i chip H200 in Cina: ok da USA, ma qualcosa sta bloccando tutto",
-      "descrizione": "Accordo formalmente possibile, commercialmente ancora bloccato",
-      "link": "https://www.hdblog.it/hardware/articoli/n658478/nvidia-h200-cina-stati-uniti-consegne/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:15:00+00:00"
-    },
-    {
-      "titolo": "Honor Robot Phone, il telefono più originale degli ultimi tempi ha una finestra di lancio",
-      "descrizione": "Non è solo un concept: arriverà sul mercato, e ora sappiamo quando.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658475/honor-robot-phone-quando-esce-lancio-q3-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:05:00+00:00"
-    },
-    {
-      "titolo": "Truffa bonus carburante: attenzione ai falsi SMS INPS",
-      "descrizione": "Ignoti cybercriminali inviano falsi SMS dell'INPS relativi ad un bonus carburante per chiedere agli utenti di inserire i dati della carta di credito. The post Truffa bonus carburante: attenzione ai falsi SMS INPS appeare",
-      "link": "https://www.punto-informatico.it/truffa-bonus-carburante-attenzione-falsi-sms-inps/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T13:02:00+00:00"
-    },
-    {
-      "titolo": "KITT, dall’esposizione al museo alla ricezione di una multa paradossale",
-      "descrizione": "Chi ha qualche ruga sul viso si ricorderà la magica KITT, la Pontiac Trans Am nera di Supercar. La vettura ha ricevuto una multa assurda",
-      "link": "https://www.hdmotori.it/kitt-esposizione-museo-multa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T13:00:45+00:00"
-    },
-    {
-      "titolo": "Le PMI italiane risparmiano più di 5 ore a settimana grazie all’AI",
-      "descrizione": "Tra le PMI italiane, quasi 8 aziende su 10 utilizzano già l'AI per lavorare, ma qual è il vantaggio reale in termini di tempo risparmiato? The post Le PMI italiane risparmiano più di 5 ore a settimana grazie all’AI appea",
-      "link": "https://www.punto-informatico.it/pmi-italiane-risparmiano-5-ore-settimana-grazie-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T12:36:14+00:00"
-    },
-    {
-      "titolo": "HUAWEI WATCH FIT 5 Pro + FreeBuds SE 4 in offerta speciale su Amazon",
-      "descrizione": "Il HUAWEI WATCH FIT 5 Pro + le cuffiette Bluetooth FreeBuds SE 4 sono in offerta speciale su Amazon a 45 euro in meno. The post HUAWEI WATCH FIT 5 Pro + FreeBuds SE 4 in offerta speciale su Amazon appeared first on Punto",
-      "link": "https://www.punto-informatico.it/huawei-watch-fit-5-pro-freebuds-se-4-offerta-speciale-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T12:10:07+00:00"
-    },
-    {
-      "titolo": "Solo 5 GB gratis con l’account Gmail: la spiegazione di Google",
-      "descrizione": "Google ha confermato l'esperimento: in alcuni territori ha iniziato a introdurre una nuova policy relativo allo storage per i nuovi account. The post Solo 5 GB gratis con l’account Gmail: la spiegazione di Google appeare",
-      "link": "https://www.punto-informatico.it/solo-5-gb-gratis-account-gmail-spiegazione-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T11:51:35+00:00"
-    },
-    {
-      "titolo": "Si registrano per sbaglio mentre commettono cybercrimini, arrestati",
-      "descrizione": "Per vendicarsi di essere stati licenziati, i gemelli Akhter hanno cancellato 96 database governativi... senza accorgersi che si stavano registrando.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n658469/gemelli-akhter-arrestati-ripicca-licenziamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T11:35:00+00:00"
-    },
-    {
-      "titolo": "L’AI ha un problema: nessuno vuole i suoi data center",
-      "descrizione": "Consumi energetici, rumore e impatto ambientale alimentano l'opposizione ai nuovi data center per l'intelligenza artificiale. The post L’AI ha un problema: nessuno vuole i suoi data center appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/ai-problema-nessuno-vuole-data-center/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T10:14:49+00:00"
-    },
-    {
-      "titolo": "Your Sonos smart speaker has an underutilized automation feature - 5 helpful ways I use mine",
-      "descrizione": "A smart home can be overwhelming, but these Sonos commands are easy - and essential to any routine.",
-      "link": "https://www.zdnet.com/article/my-favorite-sonos-voice-control-commands/",
-      "fonte": "Latest news",
-      "data": "2026-05-15T10:00:54+00:00"
-    },
-    {
-      "titolo": "Australian who smuggled 50 pounds of cocaine inside printers get nine years behind bars — five devices intercepted by border forces had compressed powder stuffed in the paper trays",
-      "descrizione": "A member of a crime syndicate that tried to smuggle cocaine hidden inside printers has been sentenced to nine years behind bars.",
-      "link": "https://www.tomshardware.com/peripherals/printers/australian-who-smuggled-50-pounds-of-cocaine-hidden-inside-printers-get-nine-years-behind-bars-five-devices-intercepted-by-border-forces-had-compressed-powder-stuffed-in-the-paper-trays",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-15T09:40:00+00:00"
-    },
-    {
-      "titolo": "Windows 11: molte novità in arrivo a fine maggio",
-      "descrizione": "Microoft ha rilasciato tre build nel canale Release Preview del programma Insider per Windows 25H2/24H2 e 26H1 con diverse novità e miglioramenti. The post Windows 11: molte novità in arrivo a fine maggio appeared first",
-      "link": "https://www.punto-informatico.it/windows-11-molte-novita-arrivo-fine-maggio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T09:25:57+00:00"
-    },
-    {
-      "titolo": "I 5 gadget hi-tech imperdibile su Amazon Haul a meno di 5 euro",
-      "descrizione": "Una carrellata di prodotti in vendita a prezzo stracciato su Amazon Haul: trova l'occasione hi-tech per te o da regalare, risparmiando. The post I 5 gadget hi-tech imperdibile su Amazon Haul a meno di 5 euro appeared fir",
-      "link": "https://www.punto-informatico.it/5-gadget-hitech-imperdibile-amazon-haul-meno-5-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T09:24:02+00:00"
     }
   ]
 }

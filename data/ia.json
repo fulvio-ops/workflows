@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-05-15T14:37:05.602376+00:00",
+  "last_updated": "2026-05-15T19:55:09.168057+00:00",
   "items": [
     {
-      "titolo": "xAI lancia Grok Build: l’agente di coding AI, come funziona",
-      "descrizione": "xAI ha lanciato Grok Build, il suo agente di coding pensato per sfidare Claude Code di Anthropic e gli strumenti di OpenAI. The post xAI lancia Grok Build: l’agente di coding AI, come funziona appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/xai-grok-build-agente-coding/",
+      "titolo": "OpenAI lancia ChatGPT per la gestione delle finanze personali",
+      "descrizione": "OpenAI porta la finanza personale dentro ChatGPT: domande sui propri conti, pianificazione a lungo termine e analisi delle spese. The post OpenAI lancia ChatGPT per la gestione delle finanze personali appeared first on P",
+      "link": "https://www.punto-informatico.it/openai-chatgpt-gestione-finanze-personali/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-15T14:08:08+00:00",
+      "data": "2026-05-15T17:41:09+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I'm no Copilot fan, but these 6 new AI skills turned Edge into my favorite mobile browser",
-      "descrizione": "With Edge's mobile app, you can now request summaries of multiple tabs, turn pages into podcasts, and tap into your browsing history and past chats.",
-      "link": "https://www.zdnet.com/article/microsoft-edge-ai-copilot-new-skills/",
-      "fonte": "Latest news",
-      "data": "2026-05-14T16:49:59+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Google lancia i “Googlebook”: i laptop con Gemini integrato nel cursore del mouse",
-      "descrizione": "Google prova a superare il concetto di Chromebook. La nuova categoria si chiama “ Googlebook ” ed è pensata attorno a Gemini, il modello di intelligenza artificiale della società. I...",
-      "link": "https://www.ilsole24ore.com/art/google-lancia-googlebook-laptop-gemini-integrato-cursore-mouse-AIV3QK3C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-15T06:24:00+00:00",
+      "titolo": "10 prompt per correggere i difetti di Gemini e avere risposte migliori",
+      "descrizione": "Gemini è veloce e versatile, ma ha dei punti deboli. 10 prompt mirati per correggere i difetti, dalle invenzioni alla perdita di contesto. The post 10 prompt per correggere i difetti di Gemini e avere risposte migliori a",
+      "link": "https://www.punto-informatico.it/10-prompt-correggere-difetti-gemini-avere-risposte-migliori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T15:30:10+00:00",
       "modello": "gemini"
     },
     {
@@ -32,14 +24,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-05-15T14:08:08+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfir",
-      "descrizione": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader “Mini Shai-Hulud” su",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-12T11:53:04+00:00",
-      "modello": "altri"
     }
   ]
 }
