@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-15T04:19:34.882106+00:00",
+  "last_updated": "2026-05-15T09:24:33.960228+00:00",
   "items": [
     {
-      "titolo": "The Real Losers of the Musk v. Altman Trial",
-      "descrizione": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "fonte": "WIRED",
-      "data": "2026-05-15T00:49:53+00:00",
+      "titolo": "Programmare senza stare al computer: OpenAI porta Codex su iOS e Android",
+      "descrizione": "Gli sviluppatori possono monitorare e gestire le attività di programmazione direttamente dallo smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658445/openai-porta-codex-ios-e-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-15T09:10:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Android cambia pelle con Gemini Intelligence: il sistema operativo ora è un’AI agentica",
-      "descrizione": "Non più soltanto un sistema operativo, ma una piattaforma cognitiva capace di comprendere il contesto, anticipare le intenzioni dell’utente e agire in autonomia dentro applicazioni, browser e servizi. Da Android...",
-      "link": "https://www.ilsole24ore.com/art/android-cambia-pelle-gemini-intelligence-sistema-operativo-ora-e-un-ai-agentica-AILPrD3C",
+      "titolo": "Google lancia i “Googlebook”: i laptop con Gemini integrato nel cursore del mouse",
+      "descrizione": "Google prova a superare il concetto di Chromebook. La nuova categoria si chiama “ Googlebook ” ed è pensata attorno a Gemini, il modello di intelligenza artificiale della società. I...",
+      "link": "https://www.ilsole24ore.com/art/google-lancia-googlebook-laptop-gemini-integrato-cursore-mouse-AIV3QK3C",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-14T06:10:16+00:00",
+      "data": "2026-05-15T06:24:00+00:00",
       "modello": "gemini"
     },
     {
