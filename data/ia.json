@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-15T09:24:33.960228+00:00",
+  "last_updated": "2026-05-15T14:37:05.602376+00:00",
   "items": [
     {
-      "titolo": "Programmare senza stare al computer: OpenAI porta Codex su iOS e Android",
-      "descrizione": "Gli sviluppatori possono monitorare e gestire le attività di programmazione direttamente dallo smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658445/openai-porta-codex-ios-e-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T09:10:00+00:00",
+      "titolo": "xAI lancia Grok Build: l’agente di coding AI, come funziona",
+      "descrizione": "xAI ha lanciato Grok Build, il suo agente di coding pensato per sfidare Claude Code di Anthropic e gli strumenti di OpenAI. The post xAI lancia Grok Build: l’agente di coding AI, come funziona appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/xai-grok-build-agente-coding/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T14:08:08+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Mythos is evolving faster than expected, reports AI safety agency",
-      "descrizione": "Only a month after its initial release, Anthropic's storied Mythos model is breaking new testing boundaries.",
-      "link": "https://www.zdnet.com/article/uk-ai-safety-institute-updates-its-testing-on-mythos/",
-      "fonte": "Latest news",
-      "data": "2026-05-14T17:32:00+00:00",
+      "titolo": "xAI lancia Grok Build: l’agente di coding AI, come funziona",
+      "descrizione": "xAI ha lanciato Grok Build, il suo agente di coding pensato per sfidare Claude Code di Anthropic e gli strumenti di OpenAI. The post xAI lancia Grok Build: l’agente di coding AI, come funziona appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/xai-grok-build-agente-coding/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-15T14:08:08+00:00",
       "modello": "claude"
     },
     {
