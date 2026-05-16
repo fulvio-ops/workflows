@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-16T04:04:00.892167+00:00",
+  "last_updated": "2026-05-16T08:20:07.487424+00:00",
   "items": [
     {
-      "titolo": "OpenAI lancia ChatGPT per la gestione delle finanze personali",
-      "descrizione": "OpenAI porta la finanza personale dentro ChatGPT: domande sui propri conti, pianificazione a lungo termine e analisi delle spese. The post OpenAI lancia ChatGPT per la gestione delle finanze personali appeared first on P",
-      "link": "https://www.punto-informatico.it/openai-chatgpt-gestione-finanze-personali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T17:41:09+00:00",
+      "titolo": "Cervello da 42 KB: come le api insegnano ai robot a tornare a casa",
+      "descrizione": "Un sistema AI ispirato alle api permette ai droni di navigare per 600 metri con soli 42 kilobyte.",
+      "link": "https://www.hdblog.it/droni/articoli/n658503/droni-ai-ispirati-api-navigazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T07:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "10 prompt per correggere i difetti di Gemini e avere risposte migliori",
-      "descrizione": "Gemini è veloce e versatile, ma ha dei punti deboli. 10 prompt mirati per correggere i difetti, dalle invenzioni alla perdita di contesto. The post 10 prompt per correggere i difetti di Gemini e avere risposte migliori a",
-      "link": "https://www.punto-informatico.it/10-prompt-correggere-difetti-gemini-avere-risposte-migliori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T15:30:10+00:00",
+      "titolo": "Gemini Intelligence, requisiti molto elevati: escluso anche Galaxy Z Fold 7?",
+      "descrizione": "Servono 12 GB di RAM, un chip \"flagship\" (anche uno Snapdragon S4 del 2012?) e soprattutto il supporto ufficiale a Gemini Nano v3.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658532/gemini-intelligence-google-requisiti-ram-cpu/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T08:05:00+00:00",
       "modello": "gemini"
     },
     {
