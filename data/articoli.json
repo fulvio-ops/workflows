@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-16T08:20:02.664994+00:00",
+  "last_updated": "2026-05-16T14:00:46.704475+00:00",
   "items": [
+    {
+      "titolo": "60% of PC gamers have no plans to build a new PC in the next two years — AI pricing crunch on RAM and other components paralyze enthusiast market",
+      "descrizione": "A survey of Tom's Hardware readers has revealed that 60% of PC gamers are not planning to build a new PC in the next two years.",
+      "link": "https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-16T13:43:39+00:00"
+    },
+    {
+      "titolo": "Modder uses Nintendo Switch to boost aging 3D printer's speed by 90%, dropping 3DBenchy print time from 90 minutes to a mere 8 minutes and 41 seconds — enthusiast claims big quality improvements by using jailbroken quad-",
+      "descrizione": "A keen nozzle-head has dramatically sped up their 3D printer using the portable power of a Nintendo Switch and Klipper firmware replacement.",
+      "link": "https://www.tomshardware.com/3d-printing/modder-uses-nintendo-switch-to-boost-aging-3d-printers-speed-by-90-percent-dropping-3dbenchy-print-time-from-90-minutes-to-a-mere-8-minutes-and-41-seconds-enthusiast-claims-big-quality-improvements-by-using-jailbroken-quad-core-console",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-16T12:20:24+00:00"
+    },
+    {
+      "titolo": "AI data centers trigger massive 'irreversible' 76% electricity price spike in largest US region — federal watchdog demands tech giants pay for their own power infrastructure",
+      "descrizione": "Industry watchdog Monitoring Analytics says that PJM Interconnection is not doing enough to prevent power prices from spiking due to massive data center demand.",
+      "link": "https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-16T12:02:35+00:00"
+    },
+    {
+      "titolo": "Mercedes Classe S GUARD restyling: motore V12 e blindatura VR10",
+      "descrizione": "La Classe S GUARD offre una protezione balistica di massimo livello senza rinunciare al lusso. È rimasta l’unica versione con il V12.",
+      "link": "https://www.hdmotori.it/mercedes-classe-s-guard-restyling-blindatura/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T12:00:50+00:00"
+    },
+    {
+      "titolo": "Cacciatore di portaerei: gli Stati Uniti finanziano l'arma ipersonica definitiva",
+      "descrizione": "Gli Stati Uniti riavviano il programma ARRW per sviluppare missili ipersonici lanciati da bombardieri.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658504/missile-ipersonico-arrw-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T11:05:00+00:00"
+    },
+    {
+      "titolo": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+      "descrizione": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+      "fonte": "WIRED",
+      "data": "2026-05-16T10:30:00+00:00"
+    },
+    {
+      "titolo": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "descrizione": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
+      "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+      "fonte": "WIRED",
+      "data": "2026-05-16T09:30:00+00:00"
+    },
+    {
+      "titolo": "Echo Show 5: il nuovo modello con audio potenziato e Alexa+ è in sconto su Amazon",
+      "descrizione": "Lo schermo intelligente con cui gestire casa, guardare show e videochiamare.",
+      "link": "https://www.hdblog.it/amazon/offerte/n658548/echo-show-5-nuovo-modello-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T09:18:00+00:00"
+    },
+    {
+      "titolo": "The best external hard drives of 2026: Expert tested and reviewed",
+      "descrizione": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
+      "link": "https://www.zdnet.com/article/best-external-hard-drive/",
+      "fonte": "Latest news",
+      "data": "2026-05-16T09:00:40+00:00"
+    },
+    {
+      "titolo": "H-Dual: così l’idrogeno rivoluziona l’autotrasporto in Italia",
+      "descrizione": "Una partnership tra attori di primo piano, tra cui Ford e il Politecnico di Milano, annuncia il primo veicolo pesante con tecnologia dual-fuel a idrogeno.",
+      "link": "https://www.hdmotori.it/h-dual-idrogeno-autotrasporto-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T09:00:10+00:00"
+    },
+    {
+      "titolo": "Figure AI: i robot umanoidi ora lavorano per 8 ore in totale autonomia",
+      "descrizione": "I robot di Figure AI completano turni di 8 ore in totale autonomia grazie al sistema Helix-02.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658509/figure-ai-robot-umanoidi-helix-02/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T08:45:00+00:00"
+    },
+    {
+      "titolo": "Xbox cambia nome ma non troppo: ora si chiama XBOX",
+      "descrizione": "Tutto in maiuscolo, esatto.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n658540/xbox-nome-rebranding-strategia-cambiamento-sharma/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T08:25:00+00:00"
+    },
     {
       "titolo": "Gemini Intelligence, requisiti molto elevati: escluso anche Galaxy Z Fold 7?",
       "descrizione": "Servono 12 GB di RAM, un chip \"flagship\" (anche uno Snapdragon S4 del 2012?) e soprattutto il supporto ufficiale a Gemini Nano v3.",
@@ -84,90 +168,6 @@
       "link": "https://www.punto-informatico.it/occhiali-meta-ray-ban-display-arrivano-giochi-app-terze-parti/",
       "fonte": "Punto Informatico",
       "data": "2026-05-15T17:16:42+00:00"
-    },
-    {
-      "titolo": "Android Quick Share, arriva il metodo \"universale\" per inviare file a iPhone",
-      "descrizione": "Con un codice QR. Ma, un momento... quindi vuol dire che non tutti gli smartphone Android potranno interfacciarsi con AirDrop?",
-      "link": "https://www.hdblog.it/google/articoli/n658526/google-android-file-iphone-codice-qr-quick-share/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T17:15:00+00:00"
-    },
-    {
-      "titolo": "I found the best early Memorial Day phones deals: Save big on Samsung, Google, Apple and more",
-      "descrizione": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
-      "link": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-15T17:10:42+00:00"
-    },
-    {
-      "titolo": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-      "descrizione": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-      "fonte": "WIRED",
-      "data": "2026-05-15T17:09:17+00:00"
-    },
-    {
-      "titolo": "Energia nucleare: nuovi dati sui sali fusi riaprono le speranze",
-      "descrizione": "Scienziati dell'ORNL svelano dati inediti sui sali fusi per reattori nucleari avanzati.",
-      "link": "https://www.hdblog.it/green/articoli/n658437/nucleare-sali-fusi-dati-ornl/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T16:55:00+00:00"
-    },
-    {
-      "titolo": "Centinaia di militari britannici espongono informazioni sensibili su Strava",
-      "descrizione": "Oltre 500, solo dall'inizio dell'anno. Svelati dettagli anche di basi con armi nucleari.",
-      "link": "https://www.hdblog.it/android/articoli/n658522/strava-500-militari-uk-dati-privacy-basi-nucleari/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T16:35:00+00:00"
-    },
-    {
-      "titolo": "Quando il lusso di Rolls-Royce incontra l'energia del \"Kongoverse\"",
-      "descrizione": "Solo cinque esemplari al mondo per un'opera d'arte itinerante che fonde il lusso Bespoke con il \"Kongoverse\": originalità made in Rolls-Royce",
-      "link": "https://www.hdmotori.it/rolls-royce-kongoverse/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T16:30:15+00:00"
-    },
-    {
-      "titolo": "Batterie stampate in 3D: raddoppia la capacità di energia",
-      "descrizione": "Nuovi elettrodi 3D raddoppiano la capacità delle batterie mantenendo ricariche ultra veloci.",
-      "link": "https://www.hdblog.it/green/articoli/n658403/batterie-3d-raddoppio-capacita/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T16:20:00+00:00"
-    },
-    {
-      "titolo": "Microsoft Edge non caricherà più le password in memoria",
-      "descrizione": "Anche se non è considerata una vulnerabilità, Microsoft modificherà Edge per non caricare più in memoria le password salvate nel password manager. The post Microsoft Edge non caricherà più le password in memoria appeared",
-      "link": "https://www.punto-informatico.it/microsoft-edge-non-carichera-piu-password-memoria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T16:04:01+00:00"
-    },
-    {
-      "titolo": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
-      "descrizione": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
-      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
-      "fonte": "Latest news",
-      "data": "2026-05-15T15:23:00+00:00"
-    },
-    {
-      "titolo": "Google floats reduced initial 5GB free cloud storage limit, users claim — 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts'",
-      "descrizione": "While Google has not publicly announced the change, the company confirmed that it is testing a new approach designed to improve account security and data recovery.",
-      "link": "https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-15T15:13:41+00:00"
-    },
-    {
-      "titolo": "Hai 10 minuti? Prova questo mix tra Wikipedia e Windows XP",
-      "descrizione": "Wikipedia File Explorer è il progetto amatoriale che trasforma l'enciclopedia online in un'esperienza nostalgica ispirata a Windows XP. The post Hai 10 minuti? Prova questo mix tra Wikipedia e Windows XP appeared first o",
-      "link": "https://www.punto-informatico.it/wikipedia-file-explorer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T14:56:43+00:00"
-    },
-    {
-      "titolo": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base",
-      "descrizione": "Pennsylvania residents blame Governor Josh Shapiro for the large number of data center projects in the state, despite his efforts to introduce policies that will balance development with the welfare of the people.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/pennsylvania-residents-complain-they-are-being-bulldozed-over-ai-data-center-concerns-lambast-gov-shapiro-in-two-hour-town-hall-say-he-is-losing-support-base",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-15T14:46:19+00:00"
     }
   ]
 }

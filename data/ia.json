@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-16T08:20:07.487424+00:00",
+  "last_updated": "2026-05-16T14:00:51.132943+00:00",
   "items": [
     {
-      "titolo": "Cervello da 42 KB: come le api insegnano ai robot a tornare a casa",
-      "descrizione": "Un sistema AI ispirato alle api permette ai droni di navigare per 600 metri con soli 42 kilobyte.",
-      "link": "https://www.hdblog.it/droni/articoli/n658503/droni-ai-ispirati-api-navigazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-16T07:40:00+00:00",
+      "titolo": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+      "descrizione": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+      "fonte": "WIRED",
+      "data": "2026-05-16T10:30:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "xAI lancia Grok Build: l’agente di coding AI, come funziona",
-      "descrizione": "xAI ha lanciato Grok Build, il suo agente di coding pensato per sfidare Claude Code di Anthropic e gli strumenti di OpenAI. The post xAI lancia Grok Build: l’agente di coding AI, come funziona appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/xai-grok-build-agente-coding/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T14:08:08+00:00",
+      "titolo": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
+      "descrizione": "Apple M5 architecture gets its first privilege escalation exploit",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-16T11:00:00+00:00",
       "modello": "claude"
     }
   ]
