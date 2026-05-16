@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-05-16T14:00:46.704475+00:00",
+  "last_updated": "2026-05-16T19:34:33.356195+00:00",
   "items": [
+    {
+      "titolo": "Windows 11, novità importanti in arrivo per menu Start e taskbar: scopriamole",
+      "descrizione": "Microsoft ascolta gli utenti con alcune modifiche attese già in fase di test.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n658557/windows-11-come-spostare-taskbar-menu-start-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T16:35:00+00:00"
+    },
+    {
+      "titolo": "Getty Images + Shutterstock: via libera alla fusione",
+      "descrizione": "L'autorità antitrust del Regno Unito ha approvato la fusione tra Getty Images e Shutterstock, ma quest'ultima deve vendere il suo business editoriale. The post Getty Images + Shutterstock: via libera alla fusione appeare",
+      "link": "https://www.punto-informatico.it/getty-images-shutterstock-via-libera-fusione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-16T16:22:32+00:00"
+    },
+    {
+      "titolo": "Trump calls $14 billion Taiwan arms deal a 'negotiating chip' with China after Xi said Taiwan issue could lead to 'clashes and even conflicts' — Trump says 'Taiwan would be very smart to cool it a little bit'",
+      "descrizione": "Trump's remarks came at the close of a two-day summit with Chinese President Xi Jinping.",
+      "link": "https://www.tomshardware.com/tech-industry/trump-calls-taiwan-arms-deal-a-negotiating-chip-with-china",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-16T14:40:24+00:00"
+    },
+    {
+      "titolo": "Vivo V70 FE: lo smartphone con fotocamera da 200MP è al minimo storico su Amazon",
+      "descrizione": "Sconto del 16% e minimo storico per il Vivo V70 FE, smartphone di fascia media con fotocamera principale da 200 MP con zoom 30x, batteria da 5250 mAh, ricarica a 90W e doppia certificazione IP68/IP69.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n658550/vivo-v70-fotocamera-200mp-minimo-storico-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-16T13:53:00+00:00"
+    },
     {
       "titolo": "60% of PC gamers have no plans to build a new PC in the next two years — AI pricing crunch on RAM and other components paralyze enthusiast market",
       "descrizione": "A survey of Tom's Hardware readers has revealed that 60% of PC gamers are not planning to build a new PC in the next two years.",
@@ -107,13 +135,6 @@
       "data": "2026-05-16T07:20:00+00:00"
     },
     {
-      "titolo": "La Turchia svela Güçhan: il motore jet che sfida la potenza degli F-35",
-      "descrizione": "La Turchia presenta Güçhan, un turbofan da 42.000 libbre di spinta per i futuri caccia stealth.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n658500/motore-turchia-guchan-f35/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-16T06:25:00+00:00"
-    },
-    {
       "titolo": "Frequenze impazzite sul digitale terrestre: aggiornati i multiplex nazionali",
       "descrizione": "Le frequenze sono impazzite sul digitale terrestre a seguito di un ulteriore aggiornamento dei multiplex nazionali in tutta Italia. The post Frequenze impazzite sul digitale terrestre: aggiornati i multiplex nazionali ap",
       "link": "https://www.punto-informatico.it/frequenze-impazzite-digitale-terrestre-aggiornati-multiplex-nazionali/",
@@ -142,32 +163,11 @@
       "data": "2026-05-15T18:30:45+00:00"
     },
     {
-      "titolo": "Xiaomi, gli auricolari clip-on promettono molto bene: leggerissimi e premium",
-      "descrizione": "La società ha impiegato addirittura il titanio per ottenere un peso super contenuto.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n658530/xiaomi-auricolari-clip-titanio-specifiche-peso/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-15T18:05:00+00:00"
-    },
-    {
       "titolo": "Android Auto runs faster and smoother now thanks to my 4 easy tweaks",
       "descrizione": "These simple changes can make an immediate impact on your in-car experience.",
       "link": "https://www.zdnet.com/article/4-fixes-that-made-android-auto-more-responsive/",
       "fonte": "Latest news",
       "data": "2026-05-15T17:41:51+00:00"
-    },
-    {
-      "titolo": "OpenAI lancia ChatGPT per la gestione delle finanze personali",
-      "descrizione": "OpenAI porta la finanza personale dentro ChatGPT: domande sui propri conti, pianificazione a lungo termine e analisi delle spese. The post OpenAI lancia ChatGPT per la gestione delle finanze personali appeared first on P",
-      "link": "https://www.punto-informatico.it/openai-chatgpt-gestione-finanze-personali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T17:41:09+00:00"
-    },
-    {
-      "titolo": "Occhiali Meta Ray-Ban Display, arrivano giochi e app di terze parti",
-      "descrizione": "Sui Ray-Ban Display arriveranno app, micro-applicazioni e minigiochi pensati per il display da venti gradi nella lente. The post Occhiali Meta Ray-Ban Display, arrivano giochi e app di terze parti appeared first on Punto",
-      "link": "https://www.punto-informatico.it/occhiali-meta-ray-ban-display-arrivano-giochi-app-terze-parti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-15T17:16:42+00:00"
     }
   ]
 }
