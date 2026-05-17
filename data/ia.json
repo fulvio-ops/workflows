@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T13:58:52.172907+00:00",
+  "last_updated": "2026-05-17T19:37:37.472615+00:00",
   "items": [
     {
       "titolo": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
-      "descrizione": "Apple M5 architecture gets its first privilege escalation exploit",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-16T11:00:00+00:00",
+      "titolo": "Claude Mythos usato per scoprire vulnerabilità di macOS",
+      "descrizione": "I ricercatori di Calif hanno scoperto due vulnerabilità nel kernel di macOS e scritto il codice dell'exploit con l'aiuto del modello Claude Mythos. The post Claude Mythos usato per scoprire vulnerabilità di macOS appeare",
+      "link": "https://www.punto-informatico.it/claude-mythos-usato-scoprire-vulnerabilita-macos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-17T14:45:25+00:00",
       "modello": "claude"
     }
   ]
