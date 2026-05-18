@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-18T15:56:55.499616+00:00",
+  "last_updated": "2026-05-18T20:02:32.102242+00:00",
   "items": [
     {
-      "titolo": "Elon Musk vs Sam Altman: sentenza attesa in settimana",
-      "descrizione": "In settimana dovrebbe arrivare il verdetto della giuria dopo la fine del primo processo nato dalla denuncia di Elon Musk contro OpenAI e Microsoft. The post Elon Musk vs Sam Altman: sentenza attesa in settimana appeared",
-      "link": "https://www.punto-informatico.it/elon-musk-vs-sam-altman-sentenza-attesa-settimana/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T08:52:07+00:00",
+      "titolo": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
+      "descrizione": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-18T19:38:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Edge rimuove Raccolte e lista app dalla barra laterale",
-      "descrizione": "Microsoft ritira le Raccolte e la lista app dalla barra laterale di Edge, mantenendo invece Copilot. Agli utenti non va giù. The post Microsoft Edge rimuove Raccolte e lista app dalla barra laterale appeared first on Pun",
-      "link": "https://www.punto-informatico.it/microsoft-edge-rimuove-raccolte-lista-app-barra-laterale/",
+      "titolo": "Tasto Copilot su Windows 11: si può tornare a Ctrl destro",
+      "descrizione": "Dopo le proteste degli utenti, il tasto Copilot che ha sostituito Ctrl destro sulle tastiere Windows potrà essere rimappato. The post Tasto Copilot su Windows 11: si può tornare a Ctrl destro appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/tasto-copilot-windows-11-si-puo-tornare-ctrl-destro/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-18T09:19:59+00:00",
+      "data": "2026-05-18T16:34:50+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini: in arrivo il livello di ragionamento \"Extended\" e integrazioni con app esterne",
-      "descrizione": "Pensato per scegliere quanto tempo concedere al modello nella gestione di determinate richieste",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658664/gemini-prepara-il-livello-extended-integrazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T12:35:00+00:00",
+      "titolo": "How to Watch Google I/O 2026",
+      "descrizione": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
+      "link": "https://www.wired.com/story/how-to-watch-google-io/",
+      "fonte": "WIRED",
+      "data": "2026-05-18T11:00:00+00:00",
       "modello": "gemini"
     },
     {

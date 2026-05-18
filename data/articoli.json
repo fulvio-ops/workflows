@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-05-18T15:56:51.582877+00:00",
+  "last_updated": "2026-05-18T20:02:28.784553+00:00",
   "items": [
+    {
+      "titolo": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
+      "descrizione": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-18T19:38:46+00:00"
+    },
+    {
+      "titolo": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
+      "descrizione": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-18T18:44:53+00:00"
+    },
+    {
+      "titolo": "Recensione Honor 600 Lite: design, display, super batteria, ma occhio al prezzo! VIDEO",
+      "descrizione": "Abbiamo provato il nuovo Honor 600 Lite, il più economico della nuova famiglia Honor 600, ecco come è andata!",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n658583/honor-600-lite-test-prova-prezzo-sconto-offerta/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T18:21:00+00:00"
+    },
+    {
+      "titolo": "Cade nella truffa, il Tribunale condanna la banca: i 20mila euro tornano al cliente",
+      "descrizione": "SMS falsi e chiamate spoofing hanno portato al furto di 20mila euro: il giudice ha riconosciuto piene responsabilità alla banca",
+      "link": "https://www.hdblog.it/mercato/articoli/n658653/truffa-bancaria-milano-rimborso-codici-otp/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T18:20:00+00:00"
+    },
+    {
+      "titolo": "Renault Niagara: il teaser del nuovo pick-up per il Sud America",
+      "descrizione": "Derivato dal concept del 2023, il nuovo modello arriverà sui mercati dell’America Latina a settembre.",
+      "link": "https://www.hdmotori.it/renault-niagara-teaser-pick-up/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T18:00:59+00:00"
+    },
+    {
+      "titolo": "Govee TV Backlight, arriva la versione 3: più precisa e realistica",
+      "descrizione": "Già disponibili entrambe le varianti su Amazon Italia.",
+      "link": "https://www.hdblog.it/tv/articoli/n658705/govee-tv-backlight-3-novita-differenze-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T17:45:00+00:00"
+    },
+    {
+      "titolo": "Musk perde la causa contro Altman per OpenAI",
+      "descrizione": "Niente da fare, almeno per ora. Elon Musk ha perso la sua causa contro Sam Altman sul futuro di OpenAI . Una giuria federale di Oakland, in California, ha...",
+      "link": "https://www.ilsole24ore.com/art/media-musk-perde-causa-contro-altman-openai-AIBFW28C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-18T17:42:00+00:00"
+    },
+    {
+      "titolo": "Incentivi auto elettriche 2026: in Germania fino a 6.000 euro",
+      "descrizione": "Il bonus tedesco è riservato ai privati, copre acquisto e leasing di veicoli nuovi e varia in base al reddito familiare e al numero di figli.",
+      "link": "https://www.hdmotori.it/incentivi-auto-elettriche-2026-germania/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T17:30:43+00:00"
+    },
+    {
+      "titolo": "Cane robot, ufficiale quello di Ecovacs: supporto emotivo senza impegno",
+      "descrizione": "Si chiama LilMilo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658667/cane-robot-ufficiale-ecovacs/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T17:15:00+00:00"
+    },
+    {
+      "titolo": "Leapmotor D99, ecco gli interni della monovolume con 700 km di autonomia",
+      "descrizione": "La casa cinese del gruppo Stellantis mostra per la prima volta l'abitacolo del suo MPV ammiraglia.",
+      "link": "https://www.hdmotori.it/leapmotor-d99-interni-monovolume/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T17:00:39+00:00"
+    },
+    {
+      "titolo": "Drone gonfiabile marshmallow: la scommessa di Celeste Ecoflyers",
+      "descrizione": "La startup francese Celeste Ecoflyers testa un drone con ali gonfiabili per consegne lente e sicure.",
+      "link": "https://www.hdblog.it/droni/articoli/n658692/celeste-ecoflyers-drone-gonfiabile-das10/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T16:55:00+00:00"
+    },
+    {
+      "titolo": "REDMI Watch 6: versione NFC per pagamenti contactless",
+      "descrizione": "Arriva in Italia il REDMI Watch 6 con schermo AMOLED da 2,07 pollici, GPS, Galileo, autonomia fino a 24 giorni e chip NFC per pagamenti contactless. The post REDMI Watch 6: versione NFC per pagamenti contactless appeared",
+      "link": "https://www.punto-informatico.it/redmi-watch-6-versione-nfc-pagamenti-contactless/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-18T16:32:19+00:00"
+    },
+    {
+      "titolo": "Da nord a sud, prime multe per chi circola in monopattino senza targa",
+      "descrizione": "La polizia locale di diverse città italiane ha iniziato ad effettuare i controlli e a sanzionare chi non ha adeguato il monopattino elettrico alla nuova normativa in vigore da pochi giorni.",
+      "link": "https://www.hdmotori.it/multe-monopattino-senza-targa/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T16:30:46+00:00"
+    },
+    {
+      "titolo": "Arrivano le nuove icone di Google: come cambiano Gmail, Calendario e non solo",
+      "descrizione": "La nuova grafica delle app di Google comincia ad essere visibile per alcuni utenti.",
+      "link": "https://www.hdblog.it/google/articoli/n658668/nuove-icone-google/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T16:20:00+00:00"
+    },
+    {
+      "titolo": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips — Adata, TeamGroup, and others take on substantial debt to survive shortages",
+      "descrizione": "Adata is the largest single borrower in the group, having completed a NT$2 billion convertible bond issuance and secured NT$12 billion in bank loans.",
+      "link": "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-18T16:09:58+00:00"
+    },
+    {
+      "titolo": "Dacia Duster Hybrid-g 150 4x4: l'abbiamo sporcata sullo sterrato - Video",
+      "descrizione": "Abbiamo provato la Dacia Duster 4x4 sia su strada che su sterrato e ci ha stupito molto piacevolmente la sua grande sicurezza",
+      "link": "https://www.hdmotori.it/prove/dacia-duster-hybrid-g-150-4x4-prova-su-sterrato/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T16:00:03+00:00"
+    },
     {
       "titolo": "L'Italia ha sempre più fame di energia elettrica. Continua il boom del fotovoltaico",
       "descrizione": "I dati Terna di aprile 2026.",
@@ -44,20 +156,6 @@
       "data": "2026-05-18T15:00:51+00:00"
     },
     {
-      "titolo": "MOVA V70 Ultra Complete arriva in Italia: lo sporco negli angoli è senza scampo",
-      "descrizione": "Prezzo e promo.",
-      "link": "https://www.hdblog.it/home/articoli/n658678/mova-v70-ultra-complete-robot-aspirapolvere-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T14:40:00+00:00"
-    },
-    {
-      "titolo": "LEPAS presenta la piattaforma LEX: gestione termica estrema",
-      "descrizione": "Gestione termica estrema e guida progressiva: i segreti dell'architettura LEX sviluppata da oltre 1.200 ingegneri per affrontare ogni clima",
-      "link": "https://www.hdmotori.it/lepas-piattaforma-lex/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T14:30:57+00:00"
-    },
-    {
       "titolo": "Best Buy and Amazon just dropped prices on SSDs ahead of Memorial Day - I found the best deals",
       "descrizione": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs ahead of Memorial Day.",
       "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-ssd-deals/",
@@ -65,109 +163,11 @@
       "data": "2026-05-18T14:21:19+00:00"
     },
     {
-      "titolo": "Samsung verso lo sciopero più grande della sua storia: filiera tech a rischio",
-      "descrizione": "Uno sciopero potrebbe minacciare la crescita economica e le esportazioni.",
-      "link": "https://www.hdblog.it/samsung/articoli/n658676/samsung-sciopero-grande-storia-filiera-tech/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T14:20:00+00:00"
-    },
-    {
       "titolo": "These are the best early Memorial Day 2026 TV deals I've found so far",
       "descrizione": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
       "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
       "fonte": "Latest news",
       "data": "2026-05-18T14:05:00+00:00"
-    },
-    {
-      "titolo": "Bending Spoons acquisisce Tractive, specializzata in collari smart per animali",
-      "descrizione": "Completata l’acquisizione di Tractive, società austriaca nota per collari smart per animali domestici",
-      "link": "https://www.hdblog.it/business/articoli/n658672/bending-spoons-terza-acquisizione/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T13:35:00+00:00"
-    },
-    {
-      "titolo": "Asus lancia le prime RAM targate ROG: ben 48GB e prezzo oltre il limite",
-      "descrizione": "Le nuove RAM Asus ROG promettono potenza elevatissima per le sessioni di lavoro e gaming più impegnative.",
-      "link": "https://www.hdblog.it/hardware/articoli/n658641/asus-ram-rog-memorie-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T13:05:00+00:00"
-    },
-    {
-      "titolo": "Fumata nera per l'iPhone Air di Xiaomi: troppo sottile e tanti compromessi",
-      "descrizione": "Xiaomi ha deciso di mettere da parte il prossimo e sottilissimo smartphone 17 Air.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658619/xiaomi-17-air-cancellato/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T12:55:00+00:00"
-    },
-    {
-      "titolo": "Redmagic 11S Pro ufficiali: specifiche da top gaming e lancio globale vicino",
-      "descrizione": "I nuovi Redmagic 11S Pro arriveranno presto anche in Europa: il lancio globale dei nuovi smartphone gaming è fissato per il 27 maggio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658666/redmagic-11s-pro-plus-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T12:50:00+00:00"
-    },
-    {
-      "titolo": "MSI apre lo store online ufficiale in Italia: sconti a tempo su laptop e monitor gaming",
-      "descrizione": "MSI ha lanciato il suo store online ufficiale in Italia con offerte fino al 30%, premi esclusivi e vantaggi dedicati a gamer e creator",
-      "link": "https://www.hdblog.it/hardware/articoli/n658661/msi-promo-sconti-negozio-online-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T12:45:00+00:00"
-    },
-    {
-      "titolo": "Tutto a meno di 1€ su Amazon Haul, salvo esaurimento scorte",
-      "descrizione": "Scopri tutti gli articoli in offerta speciale a meno di 1€ su Amazon Haul, disponibili solo fino a esaurimento scorte: fai l'affare oggi. The post Tutto a meno di 1€ su Amazon Haul, salvo esaurimento scorte appeared firs",
-      "link": "https://www.punto-informatico.it/tutto-a-meno-di-1e-su-amazon-haul-salvo-esaurimento-scorte/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T11:30:47+00:00"
-    },
-    {
-      "titolo": "Teams ritira Together Mode, le riunioni virtuali con tutti insieme",
-      "descrizione": "Microsoft ritira Together Mode di Teams, la funzione che piazzava in una platea virtuale. L'azienda si concentra su qualità video e stabilità. The post Teams ritira Together Mode, le riunioni virtuali con tutti insieme a",
-      "link": "https://www.punto-informatico.it/teams-ritira-together-mode-riunioni-virtuali-tutti-insieme/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T11:24:21+00:00"
-    },
-    {
-      "titolo": "Gemini si prende una pausa per pensare e diventa più potente",
-      "descrizione": "Google aggiorna Gemini con un livello di pensiero esteso e l'integrazione di app di terze parti, come Canva. The post Gemini si prende una pausa per pensare e diventa più potente appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/gemini-si-prende-pausa-pensare-diventa-piu-potente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T10:57:27+00:00"
-    },
-    {
-      "titolo": "Apple approverà le app iOS per il vibe coding?",
-      "descrizione": "Apple avrebbe avviato lo sviluppo di un sistema che permette la distribuzione di app iOS per il vibe coding garantendo sicurezza e privacy. The post Apple approverà le app iOS per il vibe coding? appeared first on Punto",
-      "link": "https://www.punto-informatico.it/apple-approvera-app-ios-vibe-coding/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T10:23:07+00:00"
-    },
-    {
-      "titolo": "Luce e gas a prezzo fisso: l’offerta anti-rincari che fa risparmiare è di Octopus",
-      "descrizione": "Con Octopus Energy è possibile sfruttare l'offerta a prezzo fisso anti-rincari per luce e gas: ecco la promo da attivare in questo momento. The post Luce e gas a prezzo fisso: l’offerta anti-rincari che fa risparmiare è",
-      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-lofferta-anti-rincari-che-fa-risparmiare-e-di-octopus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T10:15:35+00:00"
-    },
-    {
-      "titolo": "Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford'",
-      "descrizione": "Internal Samsung wage negotiation transcripts show the company proposed bonuses of 607% of annual salary for its memory chip division in March,",
-      "link": "https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-18T10:00:00+00:00"
-    },
-    {
-      "titolo": "Motorola razr 70 (8/256GB) in doppio sconto e possibile pagamento a rate",
-      "descrizione": "Il Motorola razr 70 con 8GB di RAM e 256GB di memoria interna è in offerta su Amazon con sconto di 200 euro e possibile pagamento a rate. The post Motorola razr 70 (8/256GB) in doppio sconto e possibile pagamento a rate",
-      "link": "https://www.punto-informatico.it/motorola-razr-70-8-256gb-doppio-sconto-possibile-pagamento-rate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T09:45:48+00:00"
-    },
-    {
-      "titolo": "Cinque petardi tech per casa, divertimento e produttività su eBay a prezzo folle",
-      "descrizione": "Abbiamo scovato cinque petardi tech per casa, divertimento e produttività in offerta su eBay a un prezzo folle: approfittane subito. The post Cinque petardi tech per casa, divertimento e produttività su eBay a prezzo fol",
-      "link": "https://www.punto-informatico.it/cinque-petardi-tech-per-casa-divertimento-e-produttivita-su-ebay-a-prezzo-folle/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T09:41:39+00:00"
     }
   ]
 }
