@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-18T10:41:07.383638+00:00",
+  "last_updated": "2026-05-18T15:56:55.499616+00:00",
   "items": [
     {
-      "titolo": "Arriva l'app \"Anti-gatto\" per macOS",
-      "descrizione": "Niente più digitazioni casuali sulla tastiera del nostro Mac a opera del gatto: una semplice app permette di bloccarla e sbloccarla in modo rapido ed emette suoni di deterrenza per educare il felino.",
-      "link": "https://www.hdblog.it/apple/articoli/n658611/cats-lock-app-anti-gatto-tastiera/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T09:20:00+00:00",
+      "titolo": "Elon Musk vs Sam Altman: sentenza attesa in settimana",
+      "descrizione": "In settimana dovrebbe arrivare il verdetto della giuria dopo la fine del primo processo nato dalla denuncia di Elon Musk contro OpenAI e Microsoft. The post Elon Musk vs Sam Altman: sentenza attesa in settimana appeared",
+      "link": "https://www.punto-informatico.it/elon-musk-vs-sam-altman-sentenza-attesa-settimana/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-18T08:52:07+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft ammette il flop: il tasto Copilot è d'intralcio e sarà possibile rimapparlo",
-      "descrizione": "Tornerà ad essere il CTRL destro o il tasto per i menù contestuali",
-      "link": "https://www.hdblog.it/microsoft/articoli/n658635/copilot-pc-tasto-inutile-rimappabile/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-18T09:50:00+00:00",
+      "titolo": "Microsoft Edge rimuove Raccolte e lista app dalla barra laterale",
+      "descrizione": "Microsoft ritira le Raccolte e la lista app dalla barra laterale di Edge, mantenendo invece Copilot. Agli utenti non va giù. The post Microsoft Edge rimuove Raccolte e lista app dalla barra laterale appeared first on Pun",
+      "link": "https://www.punto-informatico.it/microsoft-edge-rimuove-raccolte-lista-app-barra-laterale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-18T09:19:59+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Fitbit Air con Gemini usa l’Ai per alimentare un sistema operativo del corpo",
-      "descrizione": "Il nuovo tracker di Mountain View prova a costruire un’infrastruttura di dati personali su salute e benessere basata sull’intelligenza artificiale",
-      "link": "https://www.ilsole24ore.com/art/fitbit-air-gemini-usa-l-ai-alimentare-sistema-operativo-corpo-AIZznp0C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-17T12:29:32+00:00",
+      "titolo": "Gemini: in arrivo il livello di ragionamento \"Extended\" e integrazioni con app esterne",
+      "descrizione": "Pensato per scegliere quanto tempo concedere al modello nella gestione di determinate richieste",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658664/gemini-prepara-il-livello-extended-integrazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-18T12:35:00+00:00",
       "modello": "gemini"
     },
     {
