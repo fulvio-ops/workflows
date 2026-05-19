@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:34:35.860985+00:00",
+  "last_updated": "2026-05-19T10:08:40.711370+00:00",
   "items": [
     {
       "titolo": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google I/O 2026 live blog: Updates on Android, Gemini AI, XR, and more we expect",
-      "descrizione": "We're reporting live from Mountain View at Google's annual developer conference. Stay tuned for the latest updates.",
-      "link": "https://www.zdnet.com/article/google-io-live-blog-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-19T02:56:39+00:00",
+      "titolo": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+      "descrizione": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
+      "link": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+      "fonte": "WIRED",
+      "data": "2026-05-19T10:00:00+00:00",
       "modello": "gemini"
     },
     {
