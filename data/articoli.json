@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-05-19T10:08:37.649337+00:00",
+  "last_updated": "2026-05-19T15:50:32.846376+00:00",
   "items": [
     {
-      "titolo": "Anche Sony sotto accusa, doppio guadagno con PS5: prezzi aumentati e dazi rimborsati",
-      "descrizione": "La casa giapponese è al centro di una nuova class action",
-      "link": "https://www.hdblog.it/sony/articoli/n658773/sony-class-action-prezzo-ps5-rimborso-dazi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T10:05:00+00:00"
-    },
-    {
-      "titolo": "Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators — 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures dow",
-      "descrizione": "Innovative London-based PC cooling firm Billet Labs builds and showcases a completely passive, fanless, gaming build.",
-      "link": "https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-19T10:00:00+00:00"
-    },
-    {
-      "titolo": "Nuovo cingolato robotico tedesco: lancia missili a 5 chilometri di distanza",
-      "descrizione": "Il robot cingolato tedesco Ziesel supera i test di fuoco ravvicinati con i missili Spike.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n658751/robot-ziesel-missili-anticarro/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:55:00+00:00"
-    },
-    {
-      "titolo": "Record mondiale per il fotovoltaico con le celle perovskite/CIGS",
-      "descrizione": "Cresce l'efficienza di conversione.",
-      "link": "https://www.hdblog.it/green/articoli/n658753/fotovoltaico-record-celle-perovskite-cigs/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:50:00+00:00"
-    },
-    {
-      "titolo": "Apple, ecco gli inviti per la WWDC26: keynote l’8 giugno e focus sui nuovi OS",
-      "descrizione": "Il keynote si terrà l’8 giugno alle 19:00, ora italiana",
-      "link": "https://www.hdblog.it/apple/articoli/n658768/apple-inviti-wwdc26-keynote/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:40:00+00:00"
-    },
-    {
-      "titolo": "Fans secretly mapped 24 terabytes of Minecraft’s infamous 2b2t server, million‑square‑block archive to be shared via torrent — Intense digital archaeology project has taken years, risked player wrath",
-      "descrizione": "A digital gaming archaeology project has archived 24TB of data, preserving a million squared block of Minecraft’s infamous 2b2t server.",
-      "link": "https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-19T09:40:00+00:00"
-    },
-    {
-      "titolo": "Batteria abbondante e design ricercato: Vivo prepara il debutto della serie S60",
-      "descrizione": "Vivo presenterà la serie S60 il 29 maggio in Cina con design cangiante, Live Photo avanzate e specifiche premium basate su Snapdragon 8s Gen 3",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658763/vivo-s60-s60e-data-di-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:35:00+00:00"
-    },
-    {
-      "titolo": "Lamborghini è il datore di lavoro ideale in Italia: il motivo è facile da intuire",
-      "descrizione": "Con il 79,8% delle preferenze, la casa di Sant'Agata Bolognese si aggiudica il Randstad Employer Brand 2026.",
-      "link": "https://www.hdmotori.it/lamborghini-miglior-datore-lavoro-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:30:16+00:00"
-    },
-    {
-      "titolo": "HMD Fame, in arrivo un nuovo telefono compatto per i più giovani?",
-      "descrizione": "Piccolo, essenziale, ma senza rinunciare alle funzionalità fondamentali.",
-      "link": "https://www.hdblog.it/hmd/articoli/n658762/hmd-fame-telefono-giovani-xploraone/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:25:00+00:00"
-    },
-    {
-      "titolo": "Amazon Kindle: in arrivo la batteria sostituibile?",
-      "descrizione": "Una stringa all'interno del nuovo firmware Kindle 5.19.4 riporta alcune frasi che citano direttamente il cambio della batteria e la risoluzione di eventuali problemi di riconoscimento della nuova...",
-      "link": "https://www.hdblog.it/amazon/articoli/n658728/amazon-kindle-batteria-sostituibile-direttivva-eu/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:15:00+00:00"
-    },
-    {
-      "titolo": "Google I/O 2026 inizia oggi alle 19 ora italiana, dove guardarlo",
-      "descrizione": "Google I/O 2026 si può seguire in streaming su YouTube e sito Google I/O. Attesi annunci su AI agentica, Android 17, Chrome e nuovi modelli. The post Google I/O 2026 inizia oggi alle 19 ora italiana, dove guardarlo appea",
-      "link": "https://www.punto-informatico.it/google-i-o-2026-inizia-oggi-19-ora-italiana-dove-guardarlo/",
+      "titolo": "Microsoft annuncia nuovi Surface Pro e Laptop per aziende",
+      "descrizione": "Microsoft ha annunciato i nuovi Surface Pro 12 (13 pollici) e Laptop 8 (13, 13,8 e 15 pollici) for Business con processori Intel Core Ultra Serie 3. The post Microsoft annuncia nuovi Surface Pro e Laptop per aziende appe",
+      "link": "https://www.punto-informatico.it/microsoft-annuncia-nuovi-surface-pro-laptop-aziende/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-19T09:13:55+00:00"
+      "data": "2026-05-19T15:41:37+00:00"
     },
     {
-      "titolo": "Riorganizzazione Meta: 7.000 dipendenti spostati su progetti AI",
-      "descrizione": "Meta sposta 7.000 dipendenti sulla AI e si prepara a licenziarne altri 8.000 in settimana.",
-      "link": "https://www.hdblog.it/mercato/articoli/n658752/meta-licenziamenti-lavoratori-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:05:00+00:00"
-    },
-    {
-      "titolo": "Stellantis, in programma una E-Car accessibile a tutti: prime anticipazioni",
-      "descrizione": "Per recuperare terreno sui colossi cinesi dell’elettrico il Gruppo Stellantis ha in mente una E-Car innovativa prodotta in Italia",
-      "link": "https://www.hdmotori.it/stellantis-e-car-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T09:00:42+00:00"
-    },
-    {
-      "titolo": "Da Xiaomi anche una mini doppia lavasciuga da tavolo",
-      "descrizione": "Xiaomi Mijia Mini Dual-Zone Washing and Drying Machine è una mini lavasciuga a doppio cestello, in grado di lavare e asciugare due piccoli carichi separatamente.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n658742/xiaomi-mini-doppia-lavasciuga-da-tavolo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T08:55:00+00:00"
-    },
-    {
-      "titolo": "Google cambia le icone di Gmail, Drive e tutte le app Workspace",
-      "descrizione": "Le nuove icone Google Workspace sono in fase di roll out. Sfumature di colore, angoli arrotondati e forme nuove. The post Google cambia le icone di Gmail, Drive e tutte le app Workspace appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/google-cambia-icone-gmail-drive-tutte-app-workspace/",
+      "titolo": "Viaggio in auto quest’estate? L’AI lo pianifica in pochi minuti",
+      "descrizione": "Pianificare un viaggio in auto richiede ore di ricerca tra mappe, recensioni e confronti di prezzo. I chatbot AI possono farlo in pochi minuti. The post Viaggio in auto quest’estate? L’AI lo pianifica in pochi minuti app",
+      "link": "https://www.punto-informatico.it/viaggio-auto-estate-ai-pianifica-pochi-minuti/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-19T08:50:34+00:00"
+      "data": "2026-05-19T15:30:35+00:00"
     },
     {
-      "titolo": "Apple iOS 27: nuovi strumenti di scrittura AI",
-      "descrizione": "Apple migliorerà gli strumenti di scrittura in iOS 27, aggiungendo un correttore grammaticale (simile a Grammarly) e l'opzione per chiedere aiuto a Siri. The post Apple iOS 27: nuovi strumenti di scrittura AI appeared fi",
-      "link": "https://www.punto-informatico.it/apple-ios-27-nuovi-strumenti-scrittura-ai/",
+      "titolo": "HUAWEI FreeClip 2: auricolari open-ear protagonisti delle offerte di maggio",
+      "descrizione": "FreeClip 2 in offerta a 159€: scopri il comfort del design open-ear e risparmia con il coupon A20CSFL2. Promo valida per tutto il periodo promozionale, charm in regalo! The post HUAWEI FreeClip 2: auricolari open-ear pro",
+      "link": "https://www.punto-informatico.it/huawei-freeclip-2-auricolari-open-ear-protagonisti-delle-offerte-di-maggio/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-19T08:47:56+00:00"
+      "data": "2026-05-19T15:29:58+00:00"
     },
     {
-      "titolo": "Quanto è spesso Sony Xperia 1 VIII?",
-      "descrizione": "La scheda tecnica ufficiale di Sony dice 8,3 mm, ma... il calibro di OnLeaks dice 8,59. Chi ha ragione?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658757/sony-xperia-1-viii-spessore-controversia/",
+      "titolo": "Trump Phone esiste! Primo video hands-on del camaleontico smartphone presidenziale",
+      "descrizione": "Esiste, ed è Assembled in the USA.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658804/trump-t1-phone-video-hands-on-caratteristiche/",
       "fonte": "HDblog.it",
-      "data": "2026-05-19T08:45:00+00:00"
+      "data": "2026-05-19T15:25:00+00:00"
     },
     {
-      "titolo": "Unreal Engine 5.8, parola chiave \"ottimizzazione\", per handheld e Switch 2",
-      "descrizione": "Ma non è l'unica novità",
-      "link": "https://www.hdblog.it/games/articoli/n658748/unreal-engine-5-8-ottimizzazione-basse-prestazioni/",
+      "titolo": "Volete un braccio robotico modulare? E' su Kickstarter",
+      "descrizione": "Kynooe lancia un braccio robotico con AI modulare e senza codice, ideale per video e automazione.",
+      "link": "https://www.hdblog.it/domotica/articoli/n658823/kynooe-braccio-robotico-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-05-19T08:40:00+00:00"
+      "data": "2026-05-19T15:20:00+00:00"
     },
     {
-      "titolo": "Samsung presenta la One UI 9.0 beta in Italia, ma servirà pazienza",
-      "descrizione": "Samsung ha annunciato la beta della One UI 9.0 basata su Android 17, inizialmente disponibile solo per i Galaxy S26 in mercati selezionati",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658749/samsung-one-ui-9-beta-novita-presentazione-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T08:35:00+00:00"
+      "titolo": "Dell: gli agenti AI rivoluzioneranno mercati e cure mediche, ma chi potrà premetterseli?",
+      "descrizione": "Dal palco dell’evento Dell Technologies World a Las Vegas, Michael Dell ha spiegato che non siamo più di fronte all’ennesimo software da usare in azienda",
+      "link": "https://www.ilsole24ore.com/art/dell-agenti-rivoluzioneranno-mercati-e-cure-mediche-ma-chi-potra-premetterseli-AIq15m9C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-19T15:20:00+00:00"
     },
     {
-      "titolo": "Ferrari Luce, le ultime foto spia prima del debutto del 25 maggio",
-      "descrizione": "Manca poco al debutto della Ferrari Luce, intanto giungono da Maranello le foto spia del muletto che svelano le proporzioni dell'auto",
-      "link": "https://www.hdmotori.it/ferrari-luce-ultime-foto-spia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T08:30:58+00:00"
-    },
-    {
-      "titolo": "Motorola sta finalmente dicendo addio ai display con bordi curvi?",
-      "descrizione": "Anche l'Edge (2026) rivolto al mercato nordamericano avrà il display piatto. Chissà, magari con la prossima generazione l'adozione sarà unanime.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658746/motorola-edge-2026-render-display-piatto/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T08:15:00+00:00"
-    },
-    {
-      "titolo": "La batteria di accumulo della Lidl è perfetta per il fotovoltaico da balcone",
-      "descrizione": "C'è anche la versione che si controlla da app.",
-      "link": "https://www.hdblog.it/home/articoli/n658733/lidl-tronic-batteria-accumulo-balcone-fotovoltaico/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T08:05:00+00:00"
-    },
-    {
-      "titolo": "Musk perde la causa, insulta la giudice e annuncia ricorso",
-      "descrizione": "Dopo la lettura del verdetto, Elon Musk ha insultato la giudice (il post è stato successivamente cancellato) e confermato che presenterà appello. The post Musk perde la causa, insulta la giudice e annuncia ricorso appear",
-      "link": "https://www.punto-informatico.it/musk-perde-causa-insulta-giudice-annuncia-ricorso/",
+      "titolo": "Internet all’estero: restare connessi diventa più conveniente, ecco come fare",
+      "descrizione": "Con Airalo e le sue eSIM è possibile avere Internet all'estero e restare connessi in viaggio: per i nuovi utenti oggi c'è uno sconto del 15%. The post Internet all’estero: restare connessi diventa più conveniente, ecco c",
+      "link": "https://www.punto-informatico.it/internet-allestero-restare-connessi-diventa-piu-conveniente-ecco-come-fare/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-19T07:36:05+00:00"
+      "data": "2026-05-19T15:15:47+00:00"
     },
     {
-      "titolo": "G3 Ferrari G10181: friggitrice e griglia ad aria da 10L in super offerta",
-      "descrizione": "La friggitrice e griglia ad aria G3 Ferrari G10181 da 10 litri è in super sconto al 27%, e quindi è tua a soli 99 euro su Amazon. The post G3 Ferrari G10181: friggitrice e griglia ad aria da 10L in super offerta appeared",
-      "link": "https://www.punto-informatico.it/g3-ferrari-g10181-friggitrice-griglia-ad-aria-10l-super-offerta/",
+      "titolo": "Mercedes-Benz GLC elettrica, superati tutti i record di ordini nella storia del marchio",
+      "descrizione": "Nei primi 100 giorni di commercializzazione la GLC EV ha superato qualsiasi altro modello elettrico mai lanciato da Mercedes-Benz",
+      "link": "https://www.hdmotori.it/mercedes-benz-glc-elettrica-record-ordini/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T15:00:37+00:00"
+    },
+    {
+      "titolo": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+      "descrizione": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+      "link": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-19T14:56:24+00:00"
+    },
+    {
+      "titolo": "Il casco del Mandaloriano va realmente in orbita: cinema e spazio si incontrano",
+      "descrizione": "Un modello del casco di Star Wars vola nello spazio per il debutto del nuovo film nelle sale.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n658813/star-wars-casco-mandaloriano-spazio-satellite/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T14:35:00+00:00"
+    },
+    {
+      "titolo": "In vendita la Ferrari sviluppata da Schumacher: riemerge dopo 18 anni",
+      "descrizione": "Tenuta nascosta per quasi due decenni la primissima F430 Scuderia in tonalità Blu Scozia è pronta a far felice un facoltoso collezionista",
+      "link": "https://www.hdmotori.it/vendita-ferrari-schumacher/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T14:30:17+00:00"
+    },
+    {
+      "titolo": "Nintendo vola in Borsa, l'AI rallenta: gli investitori puntano di nuovo sui videogiochi",
+      "descrizione": "Ritorno di fiamma per i business più tradizionali.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n658801/nintendo-borsa-tokyo-crescita-giappone-ai-switch-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T14:20:00+00:00"
+    },
+    {
+      "titolo": "Dazi illegali e mancato rimborso: denuncia per Amazon",
+      "descrizione": "Un gruppo di consumatori ha denunciato Amazon perché vuole il rimborso delle somme pagate in più per l'acquisto dei prodotti interessati dai dazi. The post Dazi illegali e mancato rimborso: denuncia per Amazon appeared f",
+      "link": "https://www.punto-informatico.it/dazi-illegali-mancato-rimborso-denuncia-amazon/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-19T07:21:57+00:00"
+      "data": "2026-05-19T14:13:16+00:00"
+    },
+    {
+      "titolo": "Mozilla contro il Regno Unito: non ha capito perché i giovani usano la VPN",
+      "descrizione": "Mozilla interviene sulla questione VPN, anche se non si può dire che sia disinteressata",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n658817/regno-unito-ban-vpn-mozilla-risponde/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T14:10:00+00:00"
+    },
+    {
+      "titolo": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
+      "descrizione": "The job, which is associated with the Zuckerberg family office, is located in Kauai, Hawaii, where the Meta CEO owns a massive compound.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+      "fonte": "WIRED",
+      "data": "2026-05-19T14:00:47+00:00"
+    },
+    {
+      "titolo": "Honda MSX125 Grom 2026: in Italia arriva solo Tricolour",
+      "descrizione": "La Honda Grom supera le 863.000 vendite e si rinnova per il 2026. In Italia arriva solo nella grintosa versione Tricolour",
+      "link": "https://www.hdmotori.it/honda-grom-2026-tricolour-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T14:00:23+00:00"
+    },
+    {
+      "titolo": "Fortnite torna ufficialmente su App Store di iPhone e iPad in tutto il mondo",
+      "descrizione": "Dopo anni di contenziosi legali, Fortnite torna su App Store",
+      "link": "https://www.hdblog.it/apple/articoli/n658803/fortnite-app-store-ufficiale-global/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T13:45:00+00:00"
+    },
+    {
+      "titolo": "Prova Insta360 Mic Pro: microfoni wireless con display e-ink e modalità cardioide | VIDEO",
+      "descrizione": "Abbiamo provato i nuovi microfoni semi-professionali di Insta360 con display e-ink che permette di nascondere i loghi fastidiosi dei brand. Come qualità si posizionano al vertice, ma per 329 euro.",
+      "link": "https://www.hdblog.it/fotografia/recensioni/n657903/recensione-insta-mic-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T13:30:00+00:00"
+    },
+    {
+      "titolo": "Engie, offerta in scadenza: le tariffe luce e gas valide fino al 20 maggio",
+      "descrizione": "Le nuove tariffe luce e gas del fornitore energetico Engie con cui è possibile bloccare il costo della materia prima per 12 mesi. The post Engie, offerta in scadenza: le tariffe luce e gas valide fino al 20 maggio appear",
+      "link": "https://www.punto-informatico.it/engie-offerta-in-scadenza-le-tariffe-luce-e-gas-valide-fino-al-20-maggio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-19T13:14:56+00:00"
+    },
+    {
+      "titolo": "Mozilla contraria alla verifica dell’età per le VPN",
+      "descrizione": "Mozilla ha espresso il suo parere negativo all'introduzione della verifica dell'età per le VPN nel Regno Unito (misura in discussione anche in Europa). The post Mozilla contraria alla verifica dell’età per le VPN appeare",
+      "link": "https://www.punto-informatico.it/mozilla-contraria-verifica-eta-vpn/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-19T13:08:28+00:00"
+    },
+    {
+      "titolo": "Beats PowerBeats Fit, Sony WH-1000XM5, iPad Air M3 e altro: le top offerte di oggi",
+      "descrizione": "Le migliori offerte su Amazon e MediaWorld di oggi, 19 maggio 2026.",
+      "link": "https://www.hdblog.it/amazon/offerte/n658797/migliori-offerte-19-maggio-2026-top-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T13:05:00+00:00"
+    },
+    {
+      "titolo": "Mercedes apre alle forniture militari: il CEO non esclude un ruolo nel settore difesa",
+      "descrizione": "Veicoli militari, Sprinter fuoristrada e Classe G specializzate. Come Mercedes-Benz potrebbe investire nell'ambito militare",
+      "link": "https://www.hdmotori.it/mercedes-benz-forniture-militari-difesa/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T13:00:27+00:00"
+    },
+    {
+      "titolo": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
+      "descrizione": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
+      "link": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
+      "fonte": "Latest news",
+      "data": "2026-05-19T13:00:00+00:00"
+    },
+    {
+      "titolo": "Gli elettrodomestici Samsung sceglieranno gli orari migliori in cui consumare energia",
+      "descrizione": "Grazie a SmartThings e alla funzione Spostamento Consumi, gli elettrodomestici Samsung possono suggerire gli orari migliori per usare energia a costi ridotti",
+      "link": "https://www.hdblog.it/samsung/articoli/n658796/samsung-efficienza-elettrodmestici-codice-ue/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-19T12:45:00+00:00"
     }
   ]
 }

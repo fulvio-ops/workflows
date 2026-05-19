@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-05-19T10:08:40.711370+00:00",
+  "last_updated": "2026-05-19T15:50:35.490139+00:00",
   "items": [
     {
-      "titolo": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
-      "descrizione": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-18T19:38:46+00:00",
+      "titolo": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+      "descrizione": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
+      "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+      "fonte": "WIRED",
+      "data": "2026-05-19T15:00:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Tasto Copilot su Windows 11: si può tornare a Ctrl destro",
-      "descrizione": "Dopo le proteste degli utenti, il tasto Copilot che ha sostituito Ctrl destro sulle tastiere Windows potrà essere rimappato. The post Tasto Copilot su Windows 11: si può tornare a Ctrl destro appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/tasto-copilot-windows-11-si-puo-tornare-ctrl-destro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-18T16:34:50+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-      "descrizione": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
-      "link": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-      "fonte": "WIRED",
-      "data": "2026-05-19T10:00:00+00:00",
+      "titolo": "Google I/O 2026 live updates: Biggest news on Android, Gemini AI, XR, and more we're seeing",
+      "descrizione": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
+      "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
+      "fonte": "Latest news",
+      "data": "2026-05-19T13:44:00+00:00",
       "modello": "gemini"
     },
     {
