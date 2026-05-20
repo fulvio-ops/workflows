@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:37:55.746344+00:00",
+  "last_updated": "2026-05-20T09:54:24.903546+00:00",
   "items": [
     {
       "titolo": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more",
-      "descrizione": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
-      "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
-      "fonte": "Latest news",
-      "data": "2026-05-19T22:17:00+00:00",
+      "titolo": "Creare app Android in pochi minuti grazie a Google AI Studio",
+      "descrizione": "Chiunque può creare app Android con Google AI Studio, basta descrivere l'app. Gemini la sviluppa con supporto GPS, Bluetooth e NFC. The post Creare app Android in pochi minuti grazie a Google AI Studio appeared first on",
+      "link": "https://www.punto-informatico.it/creare-app-android-pochi-minuti-google-ai-studio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-20T09:42:34+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "ChatGPT, Claude e Gemini usati come esca: oltre 92.000 attacchi malware",
-      "descrizione": "I dati presentati da Kaspersky durante la conferenza Horizons a Roma",
-      "link": "https://www.hdblog.it/business/articoli/n658829/chatgpt-claude-usati-come-esca/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T16:40:00+00:00",
+      "titolo": "I’m a Normie. Can Normies Really Vibe Code?",
+      "descrizione": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+      "link": "https://www.wired.com/story/normie-vibe-code/",
+      "fonte": "WIRED",
+      "data": "2026-05-18T10:00:00+00:00",
       "modello": "claude"
     }
   ]
