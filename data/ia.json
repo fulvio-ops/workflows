@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-20T15:57:54.759191+00:00",
+  "last_updated": "2026-05-20T20:30:37.442928+00:00",
   "items": [
     {
-      "titolo": "Klarna lancia la nuova app su ChatGPT: prodotti e prezzi aggiornati in tempo reale",
-      "descrizione": "Klarna porta la ricerca di prodotti dentro ChatGPT",
-      "link": "https://www.hdblog.it/mercato/articoli/n658958/klarna-lancia-app-chatgpt/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-20T14:15:00+00:00",
+      "titolo": "Immagini di ChatGPT con il watermark invisibile SynthID di Google",
+      "descrizione": "Le immagini generate da ChatGPT e Codex integreranno i watermark SynthID di Google oltre alle credenziali C2PA. The post Immagini di ChatGPT con il watermark invisibile SynthID di Google appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/immagini-chatgpt-watermark-invisibile-synthid-google/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-20T12:57:40+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Omni trasforma qualsiasi cosa in video",
-      "descrizione": "Google lancia Gemini Omni al I/O 2026, un modello che genera video da qualsiasi combinazione di testo, immagini e audio. The post Gemini Omni trasforma qualsiasi cosa in video appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/gemini-omni-trasforma-qualsiasi-cosa-video/",
+      "titolo": "Google annuncia nuove funzionalità AI in Play Store",
+      "descrizione": "Google ha annunciato nuove funzionalità AI per il Play Store, tra cui quella che permette agli utenti di cercare un'app o un gioco con Gemini. The post Google annuncia nuove funzionalità AI in Play Store appeared first o",
+      "link": "https://www.punto-informatico.it/google-annuncia-nuove-funzionalita-ai-play-store/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-20T15:35:06+00:00",
+      "data": "2026-05-20T17:37:19+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Colpo di scena nell'AI: uno dei co-fondatori di OpenAI passa ad Anthropic",
-      "descrizione": "Il pioniere della AI Andrej Karpathy lascia i suoi progetti per unirsi al team di Anthropic.",
-      "link": "https://www.hdblog.it/mercato/articoli/n658950/andrej-karpathy-anthropic-ricerca-ai/",
+      "titolo": "L'AI di Anthropic ha già violato le nuove misure di sicurezza di Apple M5",
+      "descrizione": "Mythos colpisce ancora.",
+      "link": "https://www.hdblog.it/apple/articoli/n659000/apple-m5-exploit-memoria-anthropic-mythos/",
       "fonte": "HDblog.it",
-      "data": "2026-05-20T14:05:00+00:00",
+      "data": "2026-05-20T18:05:00+00:00",
       "modello": "claude"
     }
   ]
