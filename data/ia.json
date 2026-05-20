@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T20:04:57.973743+00:00",
+  "last_updated": "2026-05-20T04:37:55.746344+00:00",
   "items": [
     {
       "titolo": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google rinnova Gemini: cambia il look e arriva il nuovo modello 3.5 Flash",
-      "descrizione": "Ecco le novità svelate nel corso del Google I/O 2026.",
-      "link": "https://www.hdblog.it/google/articoli/n658855/google-gemini-novita-3-5-flash-ai-neural-io-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-19T19:05:00+00:00",
+      "titolo": "Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more",
+      "descrizione": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
+      "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
+      "fonte": "Latest news",
+      "data": "2026-05-19T22:17:00+00:00",
       "modello": "gemini"
     },
     {
