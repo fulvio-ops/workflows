@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-20T09:54:24.903546+00:00",
+  "last_updated": "2026-05-20T15:57:54.759191+00:00",
   "items": [
     {
-      "titolo": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
-      "descrizione": "Older metadata could be stripped out. OpenAI's new approach hides signals in the pixels themselves.",
-      "link": "https://www.zdnet.com/article/openai-image-watermarks-help-spot-ai-fakes/",
-      "fonte": "Latest news",
-      "data": "2026-05-19T17:45:36+00:00",
+      "titolo": "Klarna lancia la nuova app su ChatGPT: prodotti e prezzi aggiornati in tempo reale",
+      "descrizione": "Klarna porta la ricerca di prodotti dentro ChatGPT",
+      "link": "https://www.hdblog.it/mercato/articoli/n658958/klarna-lancia-app-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-20T14:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Creare app Android in pochi minuti grazie a Google AI Studio",
-      "descrizione": "Chiunque può creare app Android con Google AI Studio, basta descrivere l'app. Gemini la sviluppa con supporto GPS, Bluetooth e NFC. The post Creare app Android in pochi minuti grazie a Google AI Studio appeared first on",
-      "link": "https://www.punto-informatico.it/creare-app-android-pochi-minuti-google-ai-studio/",
+      "titolo": "Gemini Omni trasforma qualsiasi cosa in video",
+      "descrizione": "Google lancia Gemini Omni al I/O 2026, un modello che genera video da qualsiasi combinazione di testo, immagini e audio. The post Gemini Omni trasforma qualsiasi cosa in video appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/gemini-omni-trasforma-qualsiasi-cosa-video/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-20T09:42:34+00:00",
+      "data": "2026-05-20T15:35:06+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I’m a Normie. Can Normies Really Vibe Code?",
-      "descrizione": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-      "link": "https://www.wired.com/story/normie-vibe-code/",
-      "fonte": "WIRED",
-      "data": "2026-05-18T10:00:00+00:00",
+      "titolo": "Colpo di scena nell'AI: uno dei co-fondatori di OpenAI passa ad Anthropic",
+      "descrizione": "Il pioniere della AI Andrej Karpathy lascia i suoi progetti per unirsi al team di Anthropic.",
+      "link": "https://www.hdblog.it/mercato/articoli/n658950/andrej-karpathy-anthropic-ricerca-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-20T14:05:00+00:00",
       "modello": "claude"
     }
   ]
