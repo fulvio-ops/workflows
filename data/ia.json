@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-05-21T04:45:44.187361+00:00",
+  "last_updated": "2026-05-21T10:03:55.272751+00:00",
   "items": [
     {
-      "titolo": "Immagini di ChatGPT con il watermark invisibile SynthID di Google",
-      "descrizione": "Le immagini generate da ChatGPT e Codex integreranno i watermark SynthID di Google oltre alle credenziali C2PA. The post Immagini di ChatGPT con il watermark invisibile SynthID di Google appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/immagini-chatgpt-watermark-invisibile-synthid-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-20T12:57:40+00:00",
+      "titolo": "GPT-5: il modello di OpenAI ha risolto un enigma matematico del 1946",
+      "descrizione": "Il nuovo modello di OpenAI risolve un enigma geometrico di Erdős intatto dal 1946.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659056/openai-risolve-congettura-erdos/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T09:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google annuncia nuove funzionalità AI in Play Store",
-      "descrizione": "Google ha annunciato nuove funzionalità AI per il Play Store, tra cui quella che permette agli utenti di cercare un'app o un gioco con Gemini. The post Google annuncia nuove funzionalità AI in Play Store appeared first o",
-      "link": "https://www.punto-informatico.it/google-annuncia-nuove-funzionalita-ai-play-store/",
+      "titolo": "Ask YouTube, si fa una domanda e l’AI risponde con video e Short",
+      "descrizione": "YouTube integra la ricerca AI conversazionale con Ask YouTube e aggiunge Gemini Omni per il remix degli Short. The post Ask YouTube, si fa una domanda e l’AI risponde con video e Short appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/ask-youtube-si-fa-domanda-ai-risponde-video-short/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-20T17:37:19+00:00",
+      "data": "2026-05-21T07:03:30+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-      "descrizione": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival.",
-      "link": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-      "fonte": "WIRED",
-      "data": "2026-05-20T21:43:40+00:00",
+      "titolo": "Un racconto scritto dall’AI ha vinto un premio letterario? Il caso",
+      "descrizione": "Gli organizzatori del concorso letterario hanno chiesto a Claude di verificare se il racconto è stato scritto dall'AI: che cortocircuito. The post Un racconto scritto dall’AI ha vinto un premio letterario? Il caso appear",
+      "link": "https://www.punto-informatico.it/racconto-scritto-ai-vinto-premio-letterario/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T07:07:46+00:00",
       "modello": "claude"
     }
   ]
