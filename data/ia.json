@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T15:52:21.815781+00:00",
+  "last_updated": "2026-05-21T20:11:54.863901+00:00",
   "items": [
     {
       "titolo": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Ricerca di Google, arriva la pubblicità AI con chatbot e descrizioni",
-      "descrizione": "Google aggiunge la pubblicità AI nella Ricerca, con le descrizioni generate da Gemini e chatbot integrato negli annunci. The post Ricerca di Google, arriva la pubblicità AI con chatbot e descrizioni appeared first on Pun",
-      "link": "https://www.punto-informatico.it/ricerca-google-arriva-pubblicita-ai-chatbot-descrizioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-21T14:26:05+00:00",
+      "titolo": "Google showed me the future of Android Auto - and now I dread my own car",
+      "descrizione": "The latest showcase of Android Auto highlighted key improvements to the user interface, map design, Gemini features, and more.",
+      "link": "https://www.zdnet.com/article/google-io-android-auto-demo/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T19:58:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic: 15 miliardi l'anno per usufruire dei data center di Elon Musk",
-      "descrizione": "Anthropic pagherà 15 miliardi di dollari all'anno a SpaceX per usare i data center Colossus.",
-      "link": "https://www.hdblog.it/mercato/articoli/n659109/anthropic-spacex-accordo-15-miliardi-data-center/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T15:25:00+00:00",
+      "titolo": "Anthropic paga SpaceX per i data center Colossus di Musk",
+      "descrizione": "Anthropic paga 1,25 miliardi di dollari al mese a SpaceX per i data center Colossus. L'accordo vale 15 miliardi di dollari all'anno fino al 2029. The post Anthropic paga SpaceX per i data center Colossus di Musk appeared",
+      "link": "https://www.punto-informatico.it/anthropic-paga-spacex-data-center-colossus-musk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T16:53:57+00:00",
       "modello": "claude"
     }
   ]

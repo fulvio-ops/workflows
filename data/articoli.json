@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-05-21T15:52:18.334861+00:00",
+  "last_updated": "2026-05-21T20:11:49.435987+00:00",
   "items": [
+    {
+      "titolo": "How Sony nearly ruled spatial audio - until Apple changed music forever",
+      "descrizione": "At CES 2019, Sony dubbed its 360 Reality Audio the 'future of music.' Apple and Dolby had other plans.",
+      "link": "https://www.zdnet.com/article/sony-360-reality-audio-apple-streaming-music/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T19:26:09+00:00"
+    },
+    {
+      "titolo": "Ho provato NexLawn VIDAR: Il robot senza filo che riconosce gli ostacoli",
+      "descrizione": "Prova completa del NexLawn VIDAR: navigazione LiDAR 360° 3D, rilevamento degli ostacoli e nessun filo perimetrale: il robot tagliaerba definitivo per grandi giardini.",
+      "link": "https://www.hdblog.it/domotica/recensioni/n658130/recensione-nexlawn-vidar-il-robot-senza-filo-che-riconosce-gli-ostacoli/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T19:06:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17 Max è il flagship con più autonomia di sempre per il brand",
+      "descrizione": "Un bel \"padellone\", da ben 6,9\" di diagonale.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659096/xiaomi-17-max-batteria-specifiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T19:05:00+00:00"
+    },
+    {
+      "titolo": "Ferrari, ritorna il cambio manuale? L’idea di una frizione fake divide",
+      "descrizione": "La Casa modenese vuole riportare in auge il cambio manuale con una soluzione inedita. Scopriamo le caratteristiche",
+      "link": "https://www.hdmotori.it/ferrari-ritorno-cambio-manuale-frizione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T17:30:50+00:00"
+    },
+    {
+      "titolo": "Mozilla mostra il nuovo design Nova di Firefox",
+      "descrizione": "Mozilla ha svelato il nuovo design Nova che cambia l'estetica dell'interfaccia (icone, colori, forme) e migliora l'accesso alle funzionalità principali. The post Mozilla mostra il nuovo design Nova di Firefox appeared fi",
+      "link": "https://www.punto-informatico.it/mozilla-mostra-nuovo-design-nova-firefox/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T17:21:21+00:00"
+    },
+    {
+      "titolo": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+      "descrizione": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+      "link": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T17:12:51+00:00"
+    },
+    {
+      "titolo": "Google Beam si aggiorna: le videochiamate 3D ora sembrano reali",
+      "descrizione": "Google Beam si aggiorna: i partecipanti in 2D ora appaiono a grandezza naturale e con audio spaziale.",
+      "link": "https://www.hdblog.it/google/articoli/n659124/google-io-beam-audio-spaziale/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T16:55:00+00:00"
+    },
+    {
+      "titolo": "I found the best early Memorial Day phone deals: Save big on Samsung, Google, Apple and more",
+      "descrizione": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T16:54:22+00:00"
+    },
+    {
+      "titolo": "Anthropic paga SpaceX per i data center Colossus di Musk",
+      "descrizione": "Anthropic paga 1,25 miliardi di dollari al mese a SpaceX per i data center Colossus. L'accordo vale 15 miliardi di dollari all'anno fino al 2029. The post Anthropic paga SpaceX per i data center Colossus di Musk appeared",
+      "link": "https://www.punto-informatico.it/anthropic-paga-spacex-data-center-colossus-musk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T16:53:57+00:00"
+    },
+    {
+      "titolo": "Open-source non-profit claims Bambu Lab violated license — SFC steps in after multi-billion dollar 3D printer giant threatened independent developer, issued cease-and-desist demand on OrcaSlicer fork that restored cloud",
+      "descrizione": "The SFC says that including proprietary code alongside software under AGPLv3 breaks the open-source license, and that Bambu Lab has been doing this for years.",
+      "link": "https://www.tomshardware.com/3d-printing/open-source-non-profit-claims-bambu-lab-violated-license-move-follows-cease-and-desist-demand-on-orcaslicer-fork-that-restored-cloud-printing-features-without-using-bambu-connect",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-21T16:53:24+00:00"
+    },
+    {
+      "titolo": "Starlink aumenta di nuovo i prezzi: ecco quanto costerà navigare adesso",
+      "descrizione": "Starlink aumenta i prezzi in Italia di sei euro al mese su tutti i piani residenziali fissi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659130/starlink-aumento-prezzi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T16:35:00+00:00"
+    },
+    {
+      "titolo": "LibreOffice attacca Microsoft: Il formato OOXML è assurdo",
+      "descrizione": "The Document Foundation, l'azienda dietro LibreOffice, denuncia OOXML come formato proprietario mascherato da standard aperto. The post LibreOffice attacca Microsoft: Il formato OOXML è assurdo appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/libreoffice-attacca-microsoft-formato-ooxml-assurdo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T16:34:51+00:00"
+    },
+    {
+      "titolo": "Astraux AL6 e AL7: due microcar elettriche al debutto in Italia",
+      "descrizione": "China Car Company ha annunciato due microcar che si distinguono per il design non convenzionale e per la dotazione tecnologica completa.",
+      "link": "https://www.hdmotori.it/astraux-al6-al7-microcar-elettriche/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T16:30:23+00:00"
+    },
+    {
+      "titolo": "Home Depot and Lowe's have power tool deals for up to $400 off ahead of Memorial Day",
+      "descrizione": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
+      "link": "https://www.zdnet.com/article/best-early-power-tool-deals-memorial-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T16:30:00+00:00"
+    },
+    {
+      "titolo": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+      "descrizione": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T16:28:00+00:00"
+    },
+    {
+      "titolo": "Spotify, accordo con Universal Music sull’Ai: in app cover e remix dei fan",
+      "descrizione": "La piattaforma di streaming annuncia la nuova intesa di licensing. E in più diversifica con pre-sale dei concerti e prompt podcast",
+      "link": "https://www.ilsole24ore.com/art/spotify-accordo-universal-music-sull-ai-app-cover-e-remix-fan-AIvNvvCD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-21T16:27:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 10 Pro è ufficiale: così sembra uno smartwatch",
+      "descrizione": "Design curato, tanta autonomia e c'è pure una modalità gaming.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n659128/xiaomi-smart-band-10-pro-ufficiale-prezzo-funzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T16:25:00+00:00"
+    },
+    {
+      "titolo": "Best Buy and Amazon just dropped prices on SSDs ahead of Memorial Day - I found the best deals",
+      "descrizione": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs ahead of Memorial Day.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-ssd-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T16:23:00+00:00"
+    },
+    {
+      "titolo": "These are the best early Memorial Day 2026 TV deals I've found so far",
+      "descrizione": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-21T16:14:00+00:00"
+    },
+    {
+      "titolo": "N26 lancia in Italia la sua eSIM solo dati per navigare in oltre 100 Paesi",
+      "descrizione": "L’eSIM è attivabile sia dai clienti privati che con conto business.",
+      "link": "https://www.hdblog.it/virtuali/articoli/n659125/n26-esim-solo-dati-per-navigare-in-100-paesi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-21T16:10:00+00:00"
+    },
+    {
+      "titolo": "5 abitudini da principiante con l’AI che fanno perdere tempo",
+      "descrizione": "Cinque errori comuni degli utenti alle prime armi con l'AI e i prompt concreti per correggere subito il tiro e smettere di perdere tempo. The post 5 abitudini da principiante con l’AI che fanno perdere tempo appeared fir",
+      "link": "https://www.punto-informatico.it/5-abitudini-principiante-ai-fanno-perdere-tempo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-21T15:57:40+00:00"
+    },
     {
       "titolo": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
       "descrizione": "Memorial Day is this weekend. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
@@ -21,153 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-21T15:41:01+00:00"
-    },
-    {
-      "titolo": "Fiat Grizzly SUV e Fastback: svelata la prima immagine ufficiale",
-      "descrizione": "Il piano industriale di Stellantis mostra in anticipo le forme dei prossimi crossover. Versioni a 7 posti e Fastback in arrivo sul mercato, possibile lancio a Parigi in autunno.",
-      "link": "https://www.hdmotori.it/fiat-grizzly-suv-fastback-prima-immagine/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T15:30:49+00:00"
-    },
-    {
-      "titolo": "GitHub svela nuovi dettagli sul furto del codice interno",
-      "descrizione": "GitHub ha svelato che il furto dei repository è avvenuto in seguito all'accesso effettuato con le credenziali rubate tramite l'estensione Nx Console. The post GitHub svela nuovi dettagli sul furto del codice interno appe",
-      "link": "https://www.punto-informatico.it/github-svela-nuovi-dettagli-furto-codice-interno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-21T15:27:53+00:00"
-    },
-    {
-      "titolo": "EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis — European car factories warn of imminent supply chain collapse",
-      "descrizione": "The European Commission is preparing to propose a temporary exemption for a Chinese semiconductor manufacturer from the EU's 20th Russia sanctions package.",
-      "link": "https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-21T15:26:25+00:00"
-    },
-    {
-      "titolo": "Anthropic: 15 miliardi l'anno per usufruire dei data center di Elon Musk",
-      "descrizione": "Anthropic pagherà 15 miliardi di dollari all'anno a SpaceX per usare i data center Colossus.",
-      "link": "https://www.hdblog.it/mercato/articoli/n659109/anthropic-spacex-accordo-15-miliardi-data-center/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T15:25:00+00:00"
-    },
-    {
-      "titolo": "Nostalgia di Xbox 360? Un launcher indie riporta l'UI Metro su PC Windows 11",
-      "descrizione": "La strada verso un software completo è ancora lunga, ma il lavoro fatto fin qui è di qualità sorprendente.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n659121/windows-11-app-launcher-xbox-360-metro-ui/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T15:20:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi, arrivano i primi auricolari a clip: massimo comfort e zero isolamento",
-      "descrizione": "Design premium, leggerissimi, molto sofisticati, prezzi equivalenti a circa 110€.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n659117/xiaomi-auricolari-tws-open-clip-specifiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T15:05:00+00:00"
-    },
-    {
-      "titolo": "I found the 10 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
-      "descrizione": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
-      "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-21T14:43:00+00:00"
-    },
-    {
-      "titolo": "Bimby e Folletto trainano Vorwerk: ricavi record nel 2025, Italia secondo mercato",
-      "descrizione": "Oltre un milione di Bimby TM7 consegnati nel primo anno",
-      "link": "https://www.hdblog.it/home/articoli/n659112/bimby-folletto-trainano-vorwerk-ricavi-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:42:00+00:00"
-    },
-    {
-      "titolo": "Anthropic arriva in Italia: ufficio a Milano aperto entro fine mese",
-      "descrizione": "La società, fondata da due americani con padre italiano, si espande sempre di più nel Vecchio Continente.",
-      "link": "https://www.hdblog.it/business/articoli/n659116/anthropic-nuovo-ufficio-milano-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:35:00+00:00"
-    },
-    {
-      "titolo": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
-      "descrizione": "I've rounded up the best laptop deals live right now ahead of the holiday weekend.",
-      "link": "https://www.zdnet.com/article/best-early-memorial-day-laptop-deals-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-21T14:30:00+00:00"
-    },
-    {
-      "titolo": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
-      "descrizione": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
-      "link": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
-      "fonte": "Latest news",
-      "data": "2026-05-21T14:27:08+00:00"
-    },
-    {
-      "titolo": "Non solo ID chiamate e antispam, ora Truecaller ha anche un'offerta eSIM",
-      "descrizione": "Non più solo ID chiamate e filtro antispam: adesso Truecaller è anche eSIM; il nuova servizio è già disponibile anche dall'Italia.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n659100/truecaller-esim/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:25:00+00:00"
-    },
-    {
-      "titolo": "Dopo il successo di Flipper Zero è in arrivo Flipper One, ma non è un \"sequel\"",
-      "descrizione": "Sarà una sorta di micro-PC Linux super versatile, con doppia Ethernet, Wi-Fi e super espandibile. Ma la strada è ancora lunga.",
-      "link": "https://www.hdblog.it/hardware/articoli/n659110/flipper-one-hacking-linux-reti-wifi-ethernet/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:15:00+00:00"
-    },
-    {
-      "titolo": "Airbnb cambia pelle: dalla spesa al noleggio auto, ecco come cambiano i viaggi",
-      "descrizione": "Nuova homepage e tanta AI.",
-      "link": "https://www.hdblog.it/android/articoli/n659097/airbnb-novita-ai-servizi-noleggio-auto-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:10:00+00:00"
-    },
-    {
-      "titolo": "6 pet deals you don't want to miss this Memorial Day weekend, including robot litter boxes",
-      "descrizione": "I have two cats. These are the pet tech products I own and recommend or plan to buy while these Memorial Day deals last.",
-      "link": "https://www.zdnet.com/article/pet-deals-memorial-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-21T14:10:00+00:00"
-    },
-    {
-      "titolo": "Eddy Cue sarà \"Persona dell'Anno\": arriva la nomina del Cannes Lions",
-      "descrizione": "La premiazione avverrà durante la prossima edizione, che si terrà dal 20 al 26 giugno",
-      "link": "https://www.hdblog.it/apple/articoli/n659101/apple-eddy-cue-persona-dell-anno-cannes-lions/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:05:00+00:00"
-    },
-    {
-      "titolo": "Affonda col Tesla Cybertruck in un lago: il test finisce malissimo",
-      "descrizione": "Credeva che il pick-up della Tesla fosse anfibio e si è lanciato a tutta velocità nell’acqua. Il risultato lo vedete nell’immagine in basso",
-      "link": "https://www.hdmotori.it/tesla-cybertruck-lago-test/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T14:00:19+00:00"
-    },
-    {
-      "titolo": "WhatsApp consentirà di gestire lo spazio occupato dagli aggiornamenti di stato",
-      "descrizione": "La funzione permetterà di risparmiare memoria sul dispositivo e sul cloud.",
-      "link": "https://www.hdblog.it/android/articoli/n659102/whatsapp-gestione-spazio-aggiornamenti-di-stato/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T13:55:00+00:00"
-    },
-    {
-      "titolo": "Classifica Migliori Bilance Pesapersone Smart e Digitali (2026)",
-      "descrizione": "Cerchi una bilancia pesapersone precisissima? Guida alla migliore bilancia pesapersone professionale e ai modelli smart. Scegli lo strumento più accurato.",
-      "link": "https://www.hdblog.it/home/guide/n657397/migliori-bilance-pesapersone/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T13:36:00+00:00"
-    },
-    {
-      "titolo": "Gemini e Canva all'unisono: crei con AI e ritocchi come un professionista",
-      "descrizione": "Gemini stringe la mano a Canva: le immagini IA diventano progetti modificabili con Magic Layers e Brand Kit.",
-      "link": "https://www.hdblog.it/business/articoli/n659070/gemini-canva-modificare-immagini-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T13:35:00+00:00"
-    },
-    {
-      "titolo": "Letbe Punk 500, il bobber di Haojin sbarca ufficialmente in Europa",
-      "descrizione": "Letbe Punk da 500 cc arriva in Europa: motore da 44 CV perfetto per la patente A2, ricca dotazione tecnologica e un prezzo competitivo",
-      "link": "https://www.hdmotori.it/letbe-punk-bobber-500-a2-europa-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-21T13:30:56+00:00"
     }
   ]
 }
