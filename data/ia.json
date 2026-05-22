@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-21T20:11:54.863901+00:00",
+  "last_updated": "2026-05-22T04:36:46.542538+00:00",
   "items": [
     {
-      "titolo": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
-      "descrizione": "As memory content per rack increases in Vera Rubin platform, it now accounts for nearly 25% of its cost.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-21T15:41:01+00:00",
+      "titolo": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "descrizione": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+      "fonte": "WIRED",
+      "data": "2026-05-22T00:04:25+00:00",
       "modello": "chatgpt"
     },
     {
