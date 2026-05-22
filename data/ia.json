@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-05-22T04:36:46.542538+00:00",
+  "last_updated": "2026-05-22T09:50:16.488814+00:00",
   "items": [
     {
-      "titolo": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "descrizione": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "fonte": "WIRED",
-      "data": "2026-05-22T00:04:25+00:00",
+      "titolo": "ChatGPT su PowerPoint per creare presentazioni con i prompt",
+      "descrizione": "ChatGPT sbarca su Microsoft PowerPoint. Consente di creare e modificare presentazioni con prompt. L'AI pesca da Gmail, Outlook e SharePoint. The post ChatGPT su PowerPoint per creare presentazioni con i prompt appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-powerpoint-creare-presentazioni-prompt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-22T09:23:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google showed me the future of Android Auto - and now I dread my own car",
-      "descrizione": "The latest showcase of Android Auto highlighted key improvements to the user interface, map design, Gemini features, and more.",
-      "link": "https://www.zdnet.com/article/google-io-android-auto-demo/",
-      "fonte": "Latest news",
-      "data": "2026-05-21T19:58:00+00:00",
+      "titolo": "Copilot dà fastidio: Microsoft cambia Office dopo le proteste",
+      "descrizione": "Dopo le proteste degli utenti, Microsoft ora permette di spostare il tasto fluttuante di Copilot nelle applicazioni del pacchetto Office. The post Copilot dà fastidio: Microsoft cambia Office dopo le proteste appeared fi",
+      "link": "https://www.punto-informatico.it/copilot-fastidio-microsoft-cambia-office-dopo-proteste/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-22T06:19:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "I limiti di Antigravity sono troppo bassi: Google li triplica per la seconda volta",
+      "descrizione": "In tanti si stanno lamentando delle quote d'utilizzo troppo basse dei nuovi prodotti legati a Gemini",
+      "link": "https://www.hdblog.it/google/articoli/n659184/google-triplica-quote-antigravity/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-22T09:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic paga SpaceX per i data center Colossus di Musk",
-      "descrizione": "Anthropic paga 1,25 miliardi di dollari al mese a SpaceX per i data center Colossus. L'accordo vale 15 miliardi di dollari all'anno fino al 2029. The post Anthropic paga SpaceX per i data center Colossus di Musk appeared",
-      "link": "https://www.punto-informatico.it/anthropic-paga-spacex-data-center-colossus-musk/",
+      "titolo": "Il 75% del codice di Satispay è scritto con l’AI di Claude",
+      "descrizione": "L'AI generativa di Claude ha accelerato fortemente la scrittura del codice per Satispay: questa la testimonianza della fintech italiana. The post Il 75% del codice di Satispay è scritto con l’AI di Claude appeared first",
+      "link": "https://www.punto-informatico.it/codice-satispay-scritto-ai-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-21T16:53:57+00:00",
+      "data": "2026-05-22T09:39:30+00:00",
       "modello": "claude"
     }
   ]
