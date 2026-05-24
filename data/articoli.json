@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-05-24T08:44:41.065013+00:00",
+  "last_updated": "2026-05-24T14:02:24.334875+00:00",
   "items": [
+    {
+      "titolo": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+      "descrizione": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-24T13:39:04+00:00"
+    },
+    {
+      "titolo": "First ever Cray T3D Supercomputer goes up for auction with $81,000 reserve — Europe’s fastest supercomputer in June 1996 goes on the block",
+      "descrizione": "The first Cray T3D supercomputer ever produced, serial number 6001, was recently put up for auction, with opening bids from £60,000 (~$81,000) invited.",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/first-ever-cray-t3d-supercomputer-goes-up-for-auction-with-usd81-000-reserve-europes-fastest-supercomputer-in-june-1996-goes-on-the-block",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-24T13:35:29+00:00"
+    },
+    {
+      "titolo": "Steam Machine appears in Vulkan’s conformant product database — upcoming Valve console is certified compliant with the graphics API",
+      "descrizione": "The Khronos Group, which created the Vulkan API standard and continues to develop and maintain it, added the Steam Machine to its list of conformant products. This does not indicate how far or soon a product will come to",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-24T13:17:28+00:00"
+    },
+    {
+      "titolo": "Industria 5.0, la fabbrica del futuro rimette l’uomo al centro",
+      "descrizione": "Un progetto italiano dimostra come l’IA possa migliorare condizioni lavorative e produttività. Ma solo se abbinata a valori umani e formazione",
+      "link": "https://www.ilsole24ore.com/art/industria-50-fabbrica-futuro-rimette-l-uomo-centro-AIIHETFD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-24T13:05:00+00:00"
+    },
+    {
+      "titolo": "I found the 11 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+      "descrizione": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+      "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-24T12:53:23+00:00"
+    },
+    {
+      "titolo": "Researcher develops 'spray-on' stealth coating for drones — volcanic rock formulation claims to reduce radar return signals by up to 43dB, compared to 20 to 30dB for typical radar absorbent material",
+      "descrizione": "Users can easily spray on this radar absorbent material on any drone to increase their survivability in contested skies.",
+      "link": "https://www.tomshardware.com/tech-industry/researcher-develops-spray-on-stealth-coating-for-drones-volcanic-rock-formulation-claims-to-reduce-radar-return-signals-by-up-to-43db-compared-to-20-to-30db-for-typical-radar-absorbent-material",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-24T12:25:00+00:00"
+    },
+    {
+      "titolo": "Cyberpunk 2077 cosplay jacket features a $1,200 flexible OLED collar that you can game on with a Steam Controller — dual Raspberry Pi 4s power the wearable tech",
+      "descrizione": "A robotics and animatronic cosplay enthusiast has made a real-life Cyberpunk 2077 NUSA Infiltrator jacket with a built-in collar display.",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/cyberpunk-2077-cosplay-jacket-features-a-usd1-200-flexible-oled-collar-that-you-can-actually-play-games-on-with-a-steam-controller-dual-raspberry-pi-4s-power-the-wearable-tech",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-24T11:18:54+00:00"
+    },
+    {
+      "titolo": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
+      "descrizione": "Memorial Day is here. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
+      "link": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-24T11:09:54+00:00"
+    },
+    {
+      "titolo": "Commercial satellite supplying intel to Ukraine is cornered by four Russian spacecraft — US Space Force can only watch as Russia threatens 'quasi-civilian' targets",
+      "descrizione": "These Russian satellites are getting uncomfortably close to a U.S.- and European-operated radar satellite, particularly in Ukraine, used for reconnaissance missions. While their intentions are unclear, these maneuvers co",
+      "link": "https://www.tomshardware.com/tech-industry/russia-moves-four-satellites-to-close-gap-with-commercial-radar-satellite-delivering-intelligence-to-ukraine-while-fifth-satellite-makes-similar-move-us-officials-believe-some-of-them-to-be-part-of-an-anti-satellite-weapons-program",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-24T11:00:00+00:00"
+    },
+    {
+      "titolo": "Stampa 3D, dal Giappone una nuova resina riutilizzabile fino a 10 volte",
+      "descrizione": "Ridurrebbe decisamente l'impatto ambientale di questa tecnologia",
+      "link": "https://www.hdblog.it/green/articoli/n659238/stampa-3d-giappone-nuova-resina-riutilizzabile/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-24T10:35:00+00:00"
+    },
+    {
+      "titolo": "La TV non è morta: i giovani italiani continuano a comprarla",
+      "descrizione": "Il nuovo report Auditel-Ipsos Doxa conferma che la TV continua a essere centrale nella vita dei giovani italiani, anche nell’epoca dello streaming",
+      "link": "https://www.hdblog.it/tv/articoli/n659204/diffusione-tv-giovani-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-24T10:05:00+00:00"
+    },
+    {
+      "titolo": "Il miglior smartphone per fare foto? Nella fascia media va considerato vivo V70",
+      "descrizione": "È un medio gamma di lusso con un’identità chiara. Non è per i fanatici dei numeri puri dei chip",
+      "link": "https://www.ilsole24ore.com/art/il-miglior-smartphone-fare-foto-fascia-media-va-considerato-vivo-v70-AIktbQ8C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-24T09:34:11+00:00"
+    },
+    {
+      "titolo": "Mini LED, QLED e Micro RGB: guida alle sigle TV, non farti fregare dal marketing",
+      "descrizione": "MiniLED, QD-MiniLED, SQD-MiniLED, RGB MiniLED, RGB MiniLED Evo, Micro RGB, True RGB: tante sigle che confondono. Facciamo chiarezza.",
+      "link": "https://www.hdblog.it/tv/articoli/n658815/miniled-sqdminiled-rgbminiled-microrgb-tv-4k-guida/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-24T09:31:00+00:00"
+    },
+    {
+      "titolo": "Predatori sessuali su Discord: denuncia in Texas",
+      "descrizione": "Il Procuratore del Texas ha presentato una denuncia contro Discord perché consente ai predatori sessuali di cercare e contattare i minorenni. The post Predatori sessuali su Discord: denuncia in Texas appeared first on Pu",
+      "link": "https://www.punto-informatico.it/predatori-sessuali-su-discord-denuncia-in-texas/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-24T09:26:10+00:00"
+    },
+    {
+      "titolo": "Disconnessione e semplicità: la tecnologia riscopre il valore del limite",
+      "descrizione": "Dai lettori audio ai taccuini e-ink, cresce la nicchia di mercato che trasforma la rinuncia alla connessione continua in un lusso cognitivo",
+      "link": "https://www.ilsole24ore.com/art/disconnessione-e-semplicita-tecnologia-riscopre-valore-limite-AIGPvTCD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-24T09:17:08+00:00"
+    },
+    {
+      "titolo": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
+      "descrizione": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
+      "link": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+      "fonte": "WIRED",
+      "data": "2026-05-24T09:00:00+00:00"
+    },
     {
       "titolo": "Honda Prelude e:HEV: come va la GT ibrida con il DNA della Type R",
       "descrizione": "Abbiamo provato su strada la sesta generazione dell’icona giapponese, che ritorna con una motorizzazione full hybrid e il telaio derivato dalla Civic Type R.",
@@ -56,118 +168,6 @@
       "link": "https://www.zdnet.com/article/smart-home-best-memorial-day-deals-2026/",
       "fonte": "Latest news",
       "data": "2026-05-23T18:13:16+00:00"
-    },
-    {
-      "titolo": "I test robot vacuums for a living, and these are the best Memorial Day deals right now",
-      "descrizione": "This is one of the best times of the year to buy a robot vacuum, thanks to these Memorial Day deals.",
-      "link": "https://www.zdnet.com/article/robot-vacuums-best-memorial-day-deals-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-23T16:33:16+00:00"
-    },
-    {
-      "titolo": "Monopolio ricerca: Google difende l’accordo con Apple",
-      "descrizione": "Google ha spiegato in dettaglio perché la sentenza di primo grado è sbagliata, evidenziando la regolarità dell'accordo sottoscritto con Apple. The post Monopolio ricerca: Google difende l’accordo con Apple appeared first",
-      "link": "https://www.punto-informatico.it/monopolio-ricerca-google-difende-accordo-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-23T15:44:04+00:00"
-    },
-    {
-      "titolo": "Windows 11: nuove build con funzioni di accessibilità",
-      "descrizione": "Microsoft ha rilasciato nuove versioni preliminari di Windows 11 che includono diversi miglioramenti per le funzioni di accessibilità. The post Windows 11: nuove build con funzioni di accessibilità appeared first on Punt",
-      "link": "https://www.punto-informatico.it/windows-11-nuove-build-funzioni-accessibilita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-23T14:31:50+00:00"
-    },
-    {
-      "titolo": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI",
-      "descrizione": "Agentic AI is consuming so many tokens that it's draining AI budgets way faster than expected. Jevons Paradox rings true 161 years after it was coined.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-23T13:43:00+00:00"
-    },
-    {
-      "titolo": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
-      "descrizione": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
-      "link": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
-      "fonte": "WIRED",
-      "data": "2026-05-23T13:37:45+00:00"
-    },
-    {
-      "titolo": "Paura per Alain Prost, rapina e aggressione nella sua villa",
-      "descrizione": "Il quattro volte campione del mondo di Formula 1 è stato aggredito da una banda di malviventi a Nyon; i ladri hanno svaligiato la cassaforte",
-      "link": "https://www.hdmotori.it/alain-prost-rapina-aggressione-villa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-23T13:00:21+00:00"
-    },
-    {
-      "titolo": "Navigare protetti costa meno: la promo ExpressVPN ti costa meno di 3€",
-      "descrizione": "ExpressVPN lancia una nuova promozione con sconti fino al 79% sui piani biennali e 4 mesi gratis inclusi. Prezzi da 2,39€ al mese. The post Navigare protetti costa meno: la promo ExpressVPN ti costa meno di 3€ appeared f",
-      "link": "https://www.punto-informatico.it/navigare-protetti-costa-meno-la-promo-expressvpn-ti-costa-meno-di-3e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-23T12:45:14+00:00"
-    },
-    {
-      "titolo": "Iliad sorprende con GIGA PRIME: l’offerta super completa con giga e show inclusi a 12€",
-      "descrizione": "Scopri Iliad GIGA PRIME: 300 GB in 5G, minuti e SMS illimitati, 30 GB in Europa e 12 mesi di Amazon Prime inclusi a soli 12,99€ al mese. Scoprila! The post Iliad sorprende con GIGA PRIME: l’offerta super completa con gig",
-      "link": "https://www.punto-informatico.it/liad-sorprende-con-giga-prime-lofferta-super-completa-con-giga-e-show-inclusi-a-12e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-23T12:38:07+00:00"
-    },
-    {
-      "titolo": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
-      "descrizione": "Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight.",
-      "link": "https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-23T12:00:00+00:00"
-    },
-    {
-      "titolo": "Recensione Sony 1000X THE COLLEXION, belle come non mai!",
-      "descrizione": "Abbiamo provato le nuove Sony 1000X THE COLLEXION, le nuove cuffie di fascia premium dell'azienda giapponese che puntano alla fascia luxury",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n659235/sony-1000x-the-collexion-prezzo-test-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-23T11:30:00+00:00"
-    },
-    {
-      "titolo": "One UI 8.5 stabile su Galaxy S23, Z Fold 5 e Flip 5: Samsung comincia la distribuzione",
-      "descrizione": "Per i Galaxy S23 il rollout è già cominciato in Europa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659289/one-ui-8-5-stabile-galaxy-s23-ultra-fold-flip-5/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-23T11:05:00+00:00"
-    },
-    {
-      "titolo": "Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more — cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusia",
-      "descrizione": "A device that 'looks like a normal USB cable' but packs in an ESP32-S3 microcontroller, micro SD card storage, and Wi-Fi capabilities has enjoyed great success on Kickstarter.",
-      "link": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/wi-fi-controlled-hacking-usb-cable-stealthily-packs-in-an-esp32-s3-microsd-storage-and-more-cable-can-execute-remote-payload-execution-keystroke-injection-and-more-but-is-built-for-makers-developers-enthusiasts-and-cybersecurity-learners",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-23T11:00:00+00:00"
-    },
-    {
-      "titolo": "Meno caos, più ordine: così Microsoft Teams sta per cambiare volto",
-      "descrizione": "Un'interfaccia più pulita: ecco le novità.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n659290/microsoft-teams-interfaccia-redesign-nuova-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-23T10:35:00+00:00"
-    },
-    {
-      "titolo": "Dove sono finite Giulia e Stelvio? Stellantis fa chiarezza su Alfa Romeo",
-      "descrizione": "Stellantis ha diramato una nota nella quale ha analizzato le strategie di Alfa Romeo, non trascurando il futuro ruolo di Giulia e Stelvio",
-      "link": "https://www.hdmotori.it/alfa-romeo-stellantis/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-23T10:30:55+00:00"
-    },
-    {
-      "titolo": "Elegoo’s Centauri Carbon 2 Combo 3D printer gets a $50 discount — brings beginner friendly 3D printing at $399",
-      "descrizione": "Elegoo’s family-friendly 3D printer offers seamless four-color printing, quick filament switching, and support for high-temperature materials.",
-      "link": "https://www.tomshardware.com/pc-components/elegoos-centauri-carbon-2-combo-3d-printer-gets-a-usd50-discount-brings-beginner-friendly-3d-printing-at-usd399",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-23T10:30:00+00:00"
-    },
-    {
-      "titolo": "Valorant anti-cheat update soft-bricks $6,000 cheating hardware, company then trolls cheaters on social media — studio tweets 'congrats to the owners of a brand new $6k paperweight'",
-      "descrizione": "Riot Games has updated its Vanguard anti-cheat software in Valorant to block cheaters using DMA devices that cost up to $6,000.",
-      "link": "https://www.tomshardware.com/software/valorant-dev-bans-players-who-spent-usd6-000-on-cheats-then-trolls-them-on-social-media-studio-tweets-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-23T10:30:00+00:00"
     }
   ]
 }
