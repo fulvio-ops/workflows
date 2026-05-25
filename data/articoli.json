@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-05-24T19:41:26.839491+00:00",
+  "last_updated": "2026-05-25T04:53:35.126277+00:00",
   "items": [
+    {
+      "titolo": "Looking for a new computer? Save hundreds on these Memorial Day desktop deals",
+      "descrizione": "If you're looking for a new PC, now is the best time to do it. Many retailers are offering great deals on desktops for the Memorial Day weekend.",
+      "link": "https://www.zdnet.com/article/best-desktop-deals-memorial-day-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-25T02:37:24+00:00"
+    },
+    {
+      "titolo": "This HP laptop is a great MacBook alternative - and it's 50% off for Memorial Day",
+      "descrizione": "The OmniBook 5 is on sale for $530. It's a solid laptop with a long battery life, an OLED screen, and strong performance.",
+      "link": "https://www.zdnet.com/article/hp-omnibook-5-memorial-day-deal-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-24T23:37:00+00:00"
+    },
     {
       "titolo": "Motorola Edge 70 Pro+ ora ha una data di lancio: cosa sappiamo",
       "descrizione": "Il debutto è vicino, almeno in India.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/predatori-sessuali-su-discord-denuncia-in-texas/",
       "fonte": "Punto Informatico",
       "data": "2026-05-24T09:26:10+00:00"
-    },
-    {
-      "titolo": "Disconnessione e semplicità: la tecnologia riscopre il valore del limite",
-      "descrizione": "Dai lettori audio ai taccuini e-ink, cresce la nicchia di mercato che trasforma la rinuncia alla connessione continua in un lusso cognitivo",
-      "link": "https://www.ilsole24ore.com/art/disconnessione-e-semplicita-tecnologia-riscopre-valore-limite-AIGPvTCD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-24T09:17:08+00:00"
-    },
-    {
-      "titolo": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
-      "descrizione": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
-      "link": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
-      "fonte": "WIRED",
-      "data": "2026-05-24T09:00:00+00:00"
     }
   ]
 }
