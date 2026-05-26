@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-05-26T16:10:41.168760+00:00",
+  "last_updated": "2026-05-26T20:26:18.307855+00:00",
   "items": [
+    {
+      "titolo": "I found the best Memorial Day phone deals, and it's your last chance to save big on a new device",
+      "descrizione": "I've rounded up the best smartphone deals you can shop this Memorial Day. Discounts are still live, so now is a great time to save.",
+      "link": "https://www.zdnet.com/article/best-memorial-day-phones-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-05-26T18:59:34+00:00"
+    },
+    {
+      "titolo": "Riciclare un vecchio Kindle come dashboard smart home non è tanto difficile",
+      "descrizione": "Un jailbreak, un paio di app e via!",
+      "link": "https://www.hdblog.it/domotica/articoli/n659488/amazon-kindle-dashboard-home-assistant-jailbreak/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T18:46:00+00:00"
+    },
+    {
+      "titolo": "Megan Gale testimonial di Iliad, il Giurì ha deciso sul ricorso di Fastweb",
+      "descrizione": "a decisione sul ricorso presentato da Fastweb è attesa oggi",
+      "link": "https://www.hdblog.it/iliad/articoli/n659526/megan-gale-campagna-iliad-fastweb/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T18:45:00+00:00"
+    },
+    {
+      "titolo": "Last chance for these Memorial Day TV deals at Amazon and Best Buy",
+      "descrizione": "Memorial Day might have passed, but you can still save big on TVs from Samsung, LG, and more.",
+      "link": "https://www.zdnet.com/article/best-memorial-day-2026-tv-deals/",
+      "fonte": "Latest news",
+      "data": "2026-05-26T18:28:00+00:00"
+    },
+    {
+      "titolo": "AGIBOT A2 si esibisce a Giacarta prima di entrare nelle fabbriche",
+      "descrizione": "L'umanoide AGIBOT A2 stupisce a Giacarta ballando e scrivendo in un evento culturale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659471/agibot-robot-umanoide-giacarta/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T17:25:00+00:00"
+    },
+    {
+      "titolo": "Backup dei vecchi videogiochi con un comune drive Blu-Ray grazie a OmniDrive",
+      "descrizione": "Un firmware open-source per tutti i drive basati su uno specifico chipset MediaTek.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659558/backup-videogiochi-blu-ray-omnidrive/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T17:15:00+00:00"
+    },
+    {
+      "titolo": "Teledyne lancia un mini cingolato robot per spiare i nemici",
+      "descrizione": "Teledyne FLIR lancia FirstLook 125, un mini robot da ricognizione lanciabile e resistente agli urti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659456/mini-robot-militare-lanciabile-flir/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T16:55:00+00:00"
+    },
+    {
+      "titolo": "Nvidia is finally ditching its iconic GPU Control Panel after 20 years — new driver updates only ship in the Nvidia App",
+      "descrizione": "Nvidia has finally retired its 20-year-old control panel for GeForce GPUs. From now on, new GeForce drivers will only include the Nvidia App.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-finally-ditching-its-iconic-control-panel-after-20-years-new-driver-updates-only-ship-in-the-nvidia-app",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-26T16:45:59+00:00"
+    },
+    {
+      "titolo": "Xiaomi, il 2026 parte male: calo spedizioni smartphone, crollo degli utili",
+      "descrizione": "Tra i primi cinque produttori globali è stata quella che ha osservato il calo peggiore.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659556/xiaomi-risultati-q1-2026-calo-smartphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T16:45:00+00:00"
+    },
+    {
+      "titolo": "Articoli da ascoltare su Spotify nella libreria degli audiolibri",
+      "descrizione": "Spotify aggiunge oltre 650 articoli narrati da Rolling Stone, Wired, Vogue e altre riviste alla libreria audiolibri. The post Articoli da ascoltare su Spotify nella libreria degli audiolibri appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/articoli-ascoltare-spotify-libreria-audiolibri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-26T16:41:34+00:00"
+    },
+    {
+      "titolo": "Lenovo ThinkPad X13, L14 e L16 disponibili in Italia",
+      "descrizione": "ThinkPad X13, L14 e L16 sono i nuovi notebook di Lenovo con Intel Core Ultra Serie 3 e AMD Ryzen AI 400 PRO, fino a 64 GB di RAM e SSD fino a 2 TB. The post Lenovo ThinkPad X13, L14 e L16 disponibili in Italia appeared f",
+      "link": "https://www.punto-informatico.it/lenovo-thinkpad-x13-l14-l16-disponibili-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-26T16:40:25+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo 33 Stradale, la \"bellezza necessaria\" trionfa al Compasso d'Oro",
+      "descrizione": "L'Alfa Romeo 33 Stradale riceve la Menzione d'Onore nella categoria “Design per la mobilità”, confermando l'eccellenza stilistica del marchio",
+      "link": "https://www.hdmotori.it/alfa-romeo-33-stradale-compasso-oro/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T16:30:55+00:00"
+    },
+    {
+      "titolo": "Il nuovo drone ULTRA Turbo della US Air Force vola verso il Medio Oriente",
+      "descrizione": "Il drone ULTRA Turbo della US Air Force debutta in Medio Oriente con 60 ore di autonomia.",
+      "link": "https://www.hdblog.it/droni/articoli/n659480/us-air-force-drone-ultra-turbo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T16:25:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang: Non conta cosa studiano i figli, ma come usano l’AI",
+      "descrizione": "Jensen Huang spiega perché nell'era dell'intelligenza artificiale conta più saper usare l'AI che scegliere il corso di studi giusto. The post Jensen Huang: Non conta cosa studiano i figli, ma come usano l’AI appeared fir",
+      "link": "https://www.punto-informatico.it/jensen-huang-non-conta-cosa-studiano-figli-come-usano-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-26T16:18:35+00:00"
+    },
+    {
+      "titolo": "Fine di un'era, il mitico NVIDIA Control Panel sul viale del tramonto",
+      "descrizione": "Ormai il porting delle funzioni verso la nuova NVIDIA app è completo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659551/nvidia-control-panel-pensione-app-novita-grd/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T16:15:00+00:00"
+    },
     {
       "titolo": "Seconda beta di One UI 9 per Galaxy S26 con patch di sicurezza per giugno",
       "descrizione": "Samsung rilascia la seconda beta One UI 9 con Android 17 per i Galaxy S26, correggendo diversi bug.",
@@ -63,111 +168,6 @@
       "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
       "fonte": "Latest news",
       "data": "2026-05-26T14:58:00+00:00"
-    },
-    {
-      "titolo": "La Ferrari Luce di Jony Ive non piace: è ‘un insulto estetico’",
-      "descrizione": "Da Calenda a Montezemolo, la nuova Ferrari Luce ha già una schiera di detrattori: il design non convince, Jony Ive ha preso un granchio? The post La Ferrari Luce di Jony Ive non piace: è ‘un insulto estetico’ appeared fi",
-      "link": "https://www.punto-informatico.it/ferrari-luce-jony-ive-non-piace-insulto-estetico/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-26T14:57:55+00:00"
-    },
-    {
-      "titolo": "Anche Caviar ha fatto un Trump Phone: un iPhone 17 Pro Max da oltre 10.000$",
-      "descrizione": "Almeno questo è progettato realmente negli USA",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659542/caviar-trump-phone-oro-iphone-17-pro-max/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:55:00+00:00"
-    },
-    {
-      "titolo": "L'acqua nasce dalle rocce secche: la scoperta dell'Università di Bologna",
-      "descrizione": "Una ricerca italiana scopre che l'idrogeno produce acqua reagendo con le rocce profonde.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n659541/acqua-rocce-secche-scoperta/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:50:00+00:00"
-    },
-    {
-      "titolo": "Enciclica di Papa Leone XIV sull’AI: chi applaude e chi dissente",
-      "descrizione": "Magnifica humanitas di Leone XIV genera reazioni opposte, chi vede un contributo importante e chi la definisce un'opinione sbagliata. The post Enciclica di Papa Leone XIV sull’AI: chi applaude e chi dissente appeared fir",
-      "link": "https://www.punto-informatico.it/enciclica-papa-leone-xiv-ai-chi-applaude-chi-dissente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-26T14:48:37+00:00"
-    },
-    {
-      "titolo": "The US Can Put People on the Moon. Why Can’t It Get Iranians Online?",
-      "descrizione": "Jason Rezaian spent years reporting from Iran before being imprisoned by the regime. He says internet access is key to transforming the country—if only the US government would do something about it.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
-      "fonte": "WIRED",
-      "data": "2026-05-26T14:41:54+00:00"
-    },
-    {
-      "titolo": "15 Best Travel Toiletry Bags, Tested Over Many Miles (2026)",
-      "descrizione": "Our team evaluated a ton of toiletry bags to find the best storage, organization, and design options for all your essentials.",
-      "link": "https://www.wired.com/gallery/best-toiletry-bags/",
-      "fonte": "WIRED",
-      "data": "2026-05-26T14:35:00+00:00"
-    },
-    {
-      "titolo": "Mazda CX-6e, svelati gli interni ispirati all'estetica giapponese",
-      "descrizione": "Per il SUV elettrico in arrivo in estate il concetto del Ma guida il design dell'abitacolo tra spazio, semplicità e materiali artigianali",
-      "link": "https://www.hdmotori.it/mazda-cx-6e-svelati-gli-interni-ispirati-allestetica-giapponese/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:30:55+00:00"
-    },
-    {
-      "titolo": "Blue Origin riceve il via libera per il lancio di New Glenn",
-      "descrizione": "Blue Origin ottiene il via libera dalla FAA per il lancio del razzo New Glenn dopo lo stop di aprile.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659536/blue-origin-new-glenn-via-libera-faa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:25:00+00:00"
-    },
-    {
-      "titolo": "3D printing enthusiast smashes 59-second 3DBenchy for new speed world record —Minuteman 3D printer with revamped bed motion system breaches minute mark",
-      "descrizione": "A 3D printing enthusiast broke the 3DBenchy speed record with a cute little boat model printed in 59 seconds.",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-smashes-59-second-3dbenchy-for-new-speed-world-record-minuteman-3d-printer-with-revamped-bed-motion-system-breaches-minute-mark",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-26T14:18:04+00:00"
-    },
-    {
-      "titolo": "L'AI di Gemini scambia gatti per procioni, pick-up per camion e canguri per persone",
-      "descrizione": "La curiosa testimonianza arriva da un utente australiano: il riconoscimento visivo da parte dell'AI di Gemini non è impeccabile, anzi.",
-      "link": "https://www.hdblog.it/google/articoli/n659529/lai-gemini-scambia-gatti-procioni-canguri-persone/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:10:00+00:00"
-    },
-    {
-      "titolo": "La \"Luce\" spegne il mito del Cavallino?",
-      "descrizione": "Dopo la Purosangue riusciranno da Maranello a dimostrare che i critici si sbagliavano anche questa volta?",
-      "link": "https://www.hdmotori.it/la-luce-spegne-il-mito-del-cavallino/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T14:00:34+00:00"
-    },
-    {
-      "titolo": "La Germania presenta il nuovo Eurofighter Tranche 4",
-      "descrizione": "Airbus svela il nuovo Eurofighter Tranche 4 destinato alla difesa della Germania.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659459/eurofighter-tranche-4-germania/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T13:50:00+00:00"
-    },
-    {
-      "titolo": "Last chance on Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
-      "descrizione": "In the market for a new laptop? I've rounded up the best laptop deals still live following Memorial Day weekend.",
-      "link": "https://www.zdnet.com/article/best-memorial-day-laptop-deals-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-26T13:39:00+00:00"
-    },
-    {
-      "titolo": "Ferrari Luce, i segreti della batteria della prima elettrica del Cavallino",
-      "descrizione": "Le caratteristiche tecniche della Ferrari Luce sono destinate a cambiare il mercato green del lusso. Le soluzioni innovative offrono performance elevatissime.",
-      "link": "https://www.hdmotori.it/ferrari-luce-batteria-elettrica/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T13:30:34+00:00"
-    },
-    {
-      "titolo": "Nuovi chip AI per la NSA e accordo con Anthropic?",
-      "descrizione": "La Casa Bianca avrebbe chiesto 9 miliardi di dollari per l'acquisto di chip AI e potrebbe firmare un contratto per l'accesso a Claude da parte della NSA. The post Nuovi chip AI per la NSA e accordo con Anthropic? appeare",
-      "link": "https://www.punto-informatico.it/nuovi-chip-ai-nsa-accordo-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-26T13:29:28+00:00"
     }
   ]
 }
