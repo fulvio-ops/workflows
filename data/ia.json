@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:35:28.156361+00:00",
+  "last_updated": "2026-05-26T10:18:46.913553+00:00",
   "items": [
     {
       "titolo": "The AI Era Is Creating a Bug Hunting Arms Race",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Even If You Hate AI, You Will Use Google AI Search",
-      "descrizione": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-      "fonte": "WIRED",
-      "data": "2026-05-22T15:00:00+00:00",
+      "titolo": "La riscossa di Google: dall’assistente Spark al modello Omni. Tutte le novità di Google I/O",
+      "descrizione": "Gemini supera i 900 milioni di utenti. Quest’anno l’investimento previsto dichiara il Ceo Sundar Pichai sarà sei volte superiore, raggiungendo la cifra di 180-190 miliardi di dollari",
+      "link": "https://www.ilsole24ore.com/art/la-riscossa-google-dall-assistente-spark-modello-omni-tutte-novita-google-io-AIaNmF9C",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-19T17:47:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Mythos ha trovato oltre 10.000 vulnerabilità",
-      "descrizione": "I partner di Anthropic che partecipano al Project Glasswing hanno trovato oltre 10.000 vulnerabilità nei software utilizzando il modello Claude Mythos. The post Claude Mythos ha trovato oltre 10.000 vulnerabilità appeare",
-      "link": "https://www.punto-informatico.it/claude-mythos-trovato-oltre-10000-vulnerabilita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-25T09:20:36+00:00",
+      "titolo": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "descrizione": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "fonte": "WIRED",
+      "data": "2026-05-26T10:00:00+00:00",
       "modello": "claude"
     }
   ]
