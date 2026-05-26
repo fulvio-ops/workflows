@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-05-26T10:18:46.913553+00:00",
+  "last_updated": "2026-05-26T16:10:46.387076+00:00",
   "items": [
     {
-      "titolo": "The AI Era Is Creating a Bug Hunting Arms Race",
-      "descrizione": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "fonte": "WIRED",
-      "data": "2026-05-25T10:30:00+00:00",
+      "titolo": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
+      "descrizione": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
+      "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
+      "fonte": "Latest news",
+      "data": "2026-05-26T16:05:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "La riscossa di Google: dall’assistente Spark al modello Omni. Tutte le novità di Google I/O",
-      "descrizione": "Gemini supera i 900 milioni di utenti. Quest’anno l’investimento previsto dichiara il Ceo Sundar Pichai sarà sei volte superiore, raggiungendo la cifra di 180-190 miliardi di dollari",
-      "link": "https://www.ilsole24ore.com/art/la-riscossa-google-dall-assistente-spark-modello-omni-tutte-novita-google-io-AIaNmF9C",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-19T17:47:00+00:00",
+      "titolo": "L'AI di Gemini scambia gatti per procioni, pick-up per camion e canguri per persone",
+      "descrizione": "La curiosa testimonianza arriva da un utente australiano: il riconoscimento visivo da parte dell'AI di Gemini non è impeccabile, anzi.",
+      "link": "https://www.hdblog.it/google/articoli/n659529/lai-gemini-scambia-gatti-procioni-canguri-persone/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-26T14:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "descrizione": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "fonte": "WIRED",
-      "data": "2026-05-26T10:00:00+00:00",
+      "titolo": "Nuovi chip AI per la NSA e accordo con Anthropic?",
+      "descrizione": "La Casa Bianca avrebbe chiesto 9 miliardi di dollari per l'acquisto di chip AI e potrebbe firmare un contratto per l'accesso a Claude da parte della NSA. The post Nuovi chip AI per la NSA e accordo con Anthropic? appeare",
+      "link": "https://www.punto-informatico.it/nuovi-chip-ai-nsa-accordo-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-26T13:29:28+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
+      "descrizione": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
+      "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
+      "fonte": "Latest news",
+      "data": "2026-05-26T16:05:21+00:00",
+      "modello": "altri"
     }
   ]
 }
