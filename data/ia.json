@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T20:26:21.528159+00:00",
+  "last_updated": "2026-05-27T04:50:15.420961+00:00",
   "items": [
     {
       "titolo": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
@@ -10,11 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Nuovi chip AI per la NSA e accordo con Anthropic?",
-      "descrizione": "La Casa Bianca avrebbe chiesto 9 miliardi di dollari per l'acquisto di chip AI e potrebbe firmare un contratto per l'accesso a Claude da parte della NSA. The post Nuovi chip AI per la NSA e accordo con Anthropic? appeare",
-      "link": "https://www.punto-informatico.it/nuovi-chip-ai-nsa-accordo-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-26T13:29:28+00:00",
+      "titolo": "I was intrigued by Google's new video-cloning Omni AI - then I considered the implications",
+      "descrizione": "Google's Gemini Omni combines realism, avatars, style control, and natural-language editing in one AI video tool.",
+      "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
+      "fonte": "Latest news",
+      "data": "2026-05-27T01:30:48+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "descrizione": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "fonte": "WIRED",
+      "data": "2026-05-26T20:46:03+00:00",
       "modello": "claude"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-05-26T20:26:18.307855+00:00",
+  "last_updated": "2026-05-27T04:50:12.456770+00:00",
   "items": [
+    {
+      "titolo": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "descrizione": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "fonte": "WIRED",
+      "data": "2026-05-26T20:46:03+00:00"
+    },
+    {
+      "titolo": "The Best Movies to Stream This Month (May 2026)",
+      "descrizione": "Bugonia, Good Boy, and Send Help are among the films deserving of your eyeballs this month.",
+      "link": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
+      "fonte": "WIRED",
+      "data": "2026-05-26T20:29:54+00:00"
+    },
     {
       "titolo": "I found the best Memorial Day phone deals, and it's your last chance to save big on a new device",
       "descrizione": "I've rounded up the best smartphone deals you can shop this Memorial Day. Discounts are still live, so now is a great time to save.",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/cpus/intels-new-bartlett-lake-flagship-loses-fight-to-a-four-year-old-cpu-core-9-273pqe-has-50-percent-more-p-cores-but-cant-surpass-core-i9-13900k-in-games",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-26T15:14:03+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia il nuovo aspirapolvere con funzionalità smart e prezzo contenuto",
-      "descrizione": "Il nuovo Mijia Cordless Vacuum Cleaner 4 Pro sarà per ora in vendita in Cina.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n659544/xiaomi-lancia-aspirapolvere-mijia-vacuum-4-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-26T15:10:00+00:00"
-    },
-    {
-      "titolo": "I found the best Memorial Day Apple deals still available: Save on iPad, Apple Watch, and more",
-      "descrizione": "Summer is almost here, and you can find deals on all things Apple with these lingering Memorial Day sales.",
-      "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-05-26T14:58:00+00:00"
     }
   ]
 }
