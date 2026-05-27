@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-27T10:30:43.278905+00:00",
+  "last_updated": "2026-05-27T16:13:14.212039+00:00",
   "items": [
     {
-      "titolo": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
-      "descrizione": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
-      "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
-      "fonte": "Latest news",
-      "data": "2026-05-26T16:05:21+00:00",
+      "titolo": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "descrizione": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "fonte": "WIRED",
+      "data": "2026-05-27T14:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -24,14 +24,6 @@
       "fonte": "WIRED",
       "data": "2026-05-26T20:46:03+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
-      "descrizione": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
-      "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
-      "fonte": "Latest news",
-      "data": "2026-05-26T16:05:21+00:00",
-      "modello": "altri"
     }
   ]
 }
