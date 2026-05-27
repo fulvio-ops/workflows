@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T16:13:14.212039+00:00",
+  "last_updated": "2026-05-27T20:29:36.406895+00:00",
   "items": [
     {
       "titolo": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-      "descrizione": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-      "fonte": "WIRED",
-      "data": "2026-05-26T20:46:03+00:00",
+      "titolo": "Perché Progetti di Claude supera NotebookLM di Google",
+      "descrizione": "NotebookLM di Google eccelle nel recupero fedele delle fonti, ma arranca quando serve ragionamento e personalizzazione. The post Perché Progetti di Claude supera NotebookLM di Google appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/perche-progetti-claude-supera-notebooklm-google/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-27T16:57:40+00:00",
       "modello": "claude"
     }
   ]
