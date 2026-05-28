@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-27T20:29:36.406895+00:00",
+  "last_updated": "2026-05-28T04:42:10.781371+00:00",
   "items": [
     {
-      "titolo": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-      "descrizione": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "titolo": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "descrizione": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "fonte": "WIRED",
-      "data": "2026-05-27T14:00:00+00:00",
+      "data": "2026-05-28T00:10:42+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Perché Progetti di Claude supera NotebookLM di Google",
-      "descrizione": "NotebookLM di Google eccelle nel recupero fedele delle fonti, ma arranca quando serve ragionamento e personalizzazione. The post Perché Progetti di Claude supera NotebookLM di Google appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/perche-progetti-claude-supera-notebooklm-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-27T16:57:40+00:00",
+      "titolo": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "descrizione": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "fonte": "WIRED",
+      "data": "2026-05-28T00:10:42+00:00",
       "modello": "claude"
     }
   ]

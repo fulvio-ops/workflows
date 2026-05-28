@@ -1,19 +1,40 @@
 {
-  "last_updated": "2026-05-27T20:29:32.879750+00:00",
+  "last_updated": "2026-05-28T04:42:06.682217+00:00",
   "items": [
     {
-      "titolo": "Steam Deck OLED, Valve aumenta (e tanto) i prezzi anche in Italia: oltre 200 euro in più",
-      "descrizione": "Rincari da capogiro: la colpa è della crisi delle memorie.",
-      "link": "https://www.hdblog.it/games/articoli/n659693/steam-deck-valve-aumento-prezzi-italia-oled/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-27T19:31:00+00:00"
+      "titolo": "Tablet e Smartphone in offerta folle su eBay",
+      "descrizione": "Scopri la nostra selezione di tablet e smartphone in offerta folle su eBay per una produttività e un intrattenimento senza rinunce. The post Tablet e Smartphone in offerta folle su eBay appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/tablet-e-smartphone-in-offerta-folle-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-28T04:30:14+00:00"
+    },
+    {
+      "titolo": "I demoed Sony's new modular theater system, and the audio quality was next level",
+      "descrizione": "The Sony Bravia Theater Trio might look unassuming, but you shouldn't judge a book by its cover.",
+      "link": "https://www.zdnet.com/article/sony-bravia-trio-hands-on/",
+      "fonte": "Latest news",
+      "data": "2026-05-28T01:00:36+00:00"
+    },
+    {
+      "titolo": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+      "descrizione": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic.",
+      "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+      "fonte": "WIRED",
+      "data": "2026-05-27T22:22:23+00:00"
     },
     {
       "titolo": "REDMAGIC 11S Pro provato: dopo sei mesi arriva anche la ricarica wireless inversa | VIDEO",
       "descrizione": "Abbiamo provato il nuovo aggiornamento di metà anno dello smartphone da gaming più chiacchierato: selfie camera noscosta, batteria incredibile, raffreddamento a liquido e ventole integrata e...",
       "link": "https://www.hdblog.it/smartphone/recensioni/n659413/redmagic-11s-pro-test-gaming/",
       "fonte": "HDblog.it",
-      "data": "2026-05-27T18:34:00+00:00"
+      "data": "2026-05-27T19:32:00+00:00"
+    },
+    {
+      "titolo": "Steam Deck OLED, Valve aumenta (e tanto) i prezzi anche in Italia: oltre 200 euro in più",
+      "descrizione": "Rincari da capogiro: la colpa è della crisi delle memorie.",
+      "link": "https://www.hdblog.it/games/articoli/n659693/steam-deck-valve-aumento-prezzi-italia-oled/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-27T19:31:00+00:00"
     },
     {
       "titolo": "Motorola, risolto il caso Amazon: i link affiliati \"non erano intenzionali\"",
@@ -114,13 +135,6 @@
       "data": "2026-05-27T16:06:00+00:00"
     },
     {
-      "titolo": "I listened to Sony's new modular Bravia theater system, and 'Dune' never sounded so real",
-      "descrizione": "The Sony Bravia Theater Trio might look unassuming, but you shouldn't judge a book by its cover.",
-      "link": "https://www.zdnet.com/article/sony-bravia-trio-hands-on/",
-      "fonte": "Latest news",
-      "data": "2026-05-27T16:00:50+00:00"
-    },
-    {
       "titolo": "Luce e gas a prezzo fisso: stop ai rincari con la nuova promo di Octopus",
       "descrizione": "Con l'offerta luce e gas a prezzo fisso di Octopus è possibile bloccare il costo dell'energia per 12 mesi e risparmiare: ecco la promo. The post Luce e gas a prezzo fisso: stop ai rincari con la nuova promo di Octopus ap",
       "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-stop-ai-rincari-con-la-nuova-promo-di-octopus/",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/amazon-fire-os-16-android-16-solo-smart-tv/",
       "fonte": "Punto Informatico",
       "data": "2026-05-27T15:07:49+00:00"
-    },
-    {
-      "titolo": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
-      "descrizione": "NVIDIA's new server CPU doesn't win outright in most tests, but it's running very close to AMD's EPYC, which is incredible for a first-generation custom server core from NVIDIA.",
-      "link": "https://www.tomshardware.com/desktops/servers/nvidias-vera-cpu-tested-in-common-linux-benchmarks-88-core-monster-competes-or-beats-amd-epyc-intel-xeon-in-carefully-curated-test",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-27T13:52:31+00:00"
-    },
-    {
-      "titolo": "Pentagono usa Starlink per guidare i droni kamikaze in Iran",
-      "descrizione": "SpaceX avrebbe chiesto al Pentagono di pagare 25.000 dollari/mese per il servizio Starlink usato per guidare i droni LUCAS contro obiettivi iraniani. The post Pentagono usa Starlink per guidare i droni kamikaze in Iran a",
-      "link": "https://www.punto-informatico.it/pentagono-usa-starlink-per-guidare-i-droni-kamikaze-in-iran/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-27T13:02:28+00:00"
     }
   ]
 }
