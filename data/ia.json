@@ -1,20 +1,36 @@
 {
-  "last_updated": "2026-05-28T10:33:41.623645+00:00",
+  "last_updated": "2026-05-28T16:34:24.073704+00:00",
   "items": [
     {
-      "titolo": "Come vedere la RAI in diretta streaming dall’estero",
-      "descrizione": "Guardare la Rai in diretta streaming dall’estero non è sempre possibile. Capita spesso di aprire RaiPlay fuori dall’Italia senza protezione e di trovare il messaggio “Il contenuto non è disponibile nel tuo Paese”. Non è",
-      "link": "https://www.punto-informatico.it/rai-diretta-streaming-estero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-28T08:18:40+00:00",
+      "titolo": "iOS 27, Apple prepara tante novità in chiave AI: le anticipazioni",
+      "descrizione": "Fotocamera, galleria e Comandi Rapidi nell'ultimo report di Bloomberg",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659804/apple-ios-27-fotocamera-ai-comandi-rapidi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-28T15:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "descrizione": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "fonte": "WIRED",
-      "data": "2026-05-28T00:10:42+00:00",
+      "titolo": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
+      "descrizione": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how.",
+      "link": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+      "fonte": "Latest news",
+      "data": "2026-05-28T13:10:13+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "How to force Google AI Overviews to prioritize your favorite news sources",
+      "descrizione": "Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.",
+      "link": "https://www.zdnet.com/article/how-to-force-google-ai-overviews-to-prioritize-your-favorite-news-sources/",
+      "fonte": "Latest news",
+      "data": "2026-05-28T16:02:42+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Cosa sono gli artefatti di Claude e come usarli",
+      "descrizione": "Gli Artefatti di Claude trasformano una semplice conversazione in un ambiente di lavoro collaborativo dove ogni output si può modificare e condividere. The post Cosa sono gli artefatti di Claude e come usarli appeared fi",
+      "link": "https://www.punto-informatico.it/cosa-sono-artefatti-claude-come-usarli/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-28T16:15:32+00:00",
       "modello": "claude"
     }
   ]
