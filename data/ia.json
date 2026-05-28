@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-28T16:34:24.073704+00:00",
+  "last_updated": "2026-05-28T20:37:49.852911+00:00",
   "items": [
     {
-      "titolo": "iOS 27, Apple prepara tante novità in chiave AI: le anticipazioni",
-      "descrizione": "Fotocamera, galleria e Comandi Rapidi nell'ultimo report di Bloomberg",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659804/apple-ios-27-fotocamera-ai-comandi-rapidi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-28T15:05:00+00:00",
+      "titolo": "Researchers say they can spy on your browsing by measuring SSD activity through a browser API — claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using",
+      "descrizione": "FROST exploits the Origin Private File System (OPFS), a browser API that lets websites create and store files on a user's local disk.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/researchers-say-they-can-spy-on-your-browsing-by-measuring-ssd-activity-through-a-browser-api",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-28T13:10:38+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Cosa sono gli artefatti di Claude e come usarli",
-      "descrizione": "Gli Artefatti di Claude trasformano una semplice conversazione in un ambiente di lavoro collaborativo dove ogni output si può modificare e condividere. The post Cosa sono gli artefatti di Claude e come usarli appeared fi",
-      "link": "https://www.punto-informatico.it/cosa-sono-artefatti-claude-come-usarli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-28T16:15:32+00:00",
+      "titolo": "Anthropic launches Opus 4.8, with honesty as its killer feature",
+      "descrizione": "Anthropic's latest Claude model isn't just faster or smarter. Opus 4.8 is being pitched as more honest, more careful, and better suited to complex coding projects.",
+      "link": "https://www.zdnet.com/article/anthropics-launches-opus-4-8-where-honesty-is-the-killer-feature/",
+      "fonte": "Latest news",
+      "data": "2026-05-28T17:00:04+00:00",
       "modello": "claude"
     }
   ]
