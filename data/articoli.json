@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-05-29T16:09:02.531972+00:00",
+  "last_updated": "2026-05-29T20:38:26.532700+00:00",
   "items": [
+    {
+      "titolo": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
+      "descrizione": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
+      "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-29T19:48:40+00:00"
+    },
+    {
+      "titolo": "Meno RAM, ma più batteria e funzioni: il nuovo patto degli smartphone low cost",
+      "descrizione": "La crisi delle RAM sta cambiando il mercato degli smartphone di fascia bassa. I brand stanno diminuendo la RAM, ma compensando con più batteria, miglior display e funzioni AI.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n654975/realme-c100-5g-test-ram-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T18:25:00+00:00"
+    },
+    {
+      "titolo": "Scontrini e POS allineati fanno emergere 5 miliardi di euro: è magia o era evasione?",
+      "descrizione": "Secondo l’Agenzia delle Entrate, la maggiore tracciabilità dei pagamenti elettronici ha generato circa un miliardo di euro di extra gettito IVA",
+      "link": "https://www.hdblog.it/mercato/articoli/n659896/pos-scontrini-evasione-dati-inizio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T18:24:00+00:00"
+    },
+    {
+      "titolo": "Fable è stato rinviato ancora: c'è l'annuncio ufficiale di Xbox. Colpa di GTA 6?",
+      "descrizione": "Ecco qual è la nuova finestra di lancio.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n659942/fable-rinvio-xbox-quando-esce-febbraio-2027-data/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T18:05:00+00:00"
+    },
+    {
+      "titolo": "Quasi al 50% gli auricolari Marshall Minor IV: conquistano già con il design",
+      "descrizione": "Doppio sconto su Amazon per i Marshall Minor IV, auricolari con un design ricercato, autonomia di 30 ore, controlli touch e connessione multipoint.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n659941/auricolari-marshall-minor-iv-doppio-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T18:01:00+00:00"
+    },
+    {
+      "titolo": "L'incredibile ASUS ROG Zephyrus Duo 2026 arriva in Italia, ma i prezzi...",
+      "descrizione": "Si parte da 4.999 euro... per arrivare addirittura a 6.299.",
+      "link": "https://www.hdblog.it/portatili/articoli/n659943/asus-rog-zephyrus-duo-2026-italia-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:55:00+00:00"
+    },
+    {
+      "titolo": "MediaWorld ai cinesi di JD.com, l'UE vuole vederci chiaro e blocca l'acquisizione",
+      "descrizione": "Il sospetto è che dietro ci siano agevolazioni dal governo di Pechino.",
+      "link": "https://www.hdblog.it/business/articoli/n659939/mediaworld-jd-com-europa-blocca-acquisizione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:50:00+00:00"
+    },
+    {
+      "titolo": "Energia nucleare pulita: dagli USA arriva la svolta sui rifiuti",
+      "descrizione": "Startup USA trasforma scorie nucleari in combustibile aumentando l'energia di 100 volte.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659753/energia-nucleare-riciclo-scorie/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:40:00+00:00"
+    },
+    {
+      "titolo": "Con One UI 9 i Galaxy somigliano un po' più agli iPhone nella gestione delle chiamate",
+      "descrizione": "Cosa cambia nell'ultima beta.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659931/samsung-galaxy-one-ui-9-registro-chiamate-iphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:35:00+00:00"
+    },
+    {
+      "titolo": "Creative Sound Blaster AE-X ufficiale: ecco la scheda audio per audiofili",
+      "descrizione": "DAC ESS Sabre e preamplificatore integrato per cuffie.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659940/creative-scheda-audio-sound-blaster-audiofili/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:25:00+00:00"
+    },
+    {
+      "titolo": "G.Skill e Cooler Master lanciano le prime RAM DDR5 con ventola",
+      "descrizione": "I dissipatori sono talmente spessi che occupano due slot.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659938/g-skill-cooler-master-ram-ddr5-ventola-blower/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T17:05:00+00:00"
+    },
+    {
+      "titolo": "Nucleare pulito, progetto italo-francese: Newcleo installa il cuore di Precursor",
+      "descrizione": "Newcleo installa il recipiente principale del reattore Precursor, al via i test entro l'anno.",
+      "link": "https://www.hdblog.it/green/articoli/n659860/newcleo-reattore-piombo-precursor/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T16:55:00+00:00"
+    },
+    {
+      "titolo": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
+      "descrizione": "Project Lightwell is an AI‑powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here's what we know so far.",
+      "link": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
+      "fonte": "Latest news",
+      "data": "2026-05-29T16:26:00+00:00"
+    },
+    {
+      "titolo": "Samsung, primi sample di memorie HBM4E inviate ai partner",
+      "descrizione": "Importante traguardo per le memorie da datacenter next-gen.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659930/samsung-hbm4e-primi-sample-spediti/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-29T16:15:00+00:00"
+    },
     {
       "titolo": "Una Porsche Cayenne cabriolet? Esiste davvero (ed è stata appena venduta)",
       "descrizione": "Una Porsche Cayenne senza tetto con motore V8 e 230.000 km è stata venduta all'asta in California. Ecco la storia e il prezzo finale di questo bizzarro SUV cabriolet.",
@@ -30,39 +128,11 @@
       "data": "2026-05-29T15:20:36+00:00"
     },
     {
-      "titolo": "TP-Link Archer 8 anticipa il futuro: è il primo router Wi-Fi 8 al mondo",
-      "descrizione": "TP-Link svela Archer 8, il primo router con tecnologia Wi-Fi 8",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659919/tp-link-archer-8-wifi-8/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T15:10:00+00:00"
-    },
-    {
-      "titolo": "Wuling Binguo Pro, 30.000 ordini in 28 giorni per la BEV cinese da circa 8.000 euro",
-      "descrizione": "La joint venture SAIC-GM-Wuling lancia il quarto modello della famiglia Binguo.",
-      "link": "https://www.hdmotori.it/wuling-binguo-pro-ordini-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T15:00:30+00:00"
-    },
-    {
       "titolo": "Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn’t empty your wallet",
       "descrizione": "Corsair’s 3200D mid-tower chassis delivers strong airflow, support for large GPUs and radiators, plus three RS120 ARGB fans, all in a clean-looking windowed chassis priced under $80.",
       "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-29T14:40:53+00:00"
-    },
-    {
-      "titolo": "Che sensazioni trasmette la Ferrari Luce? Il test di Hamilton e Leclerc",
-      "descrizione": "I due piloti della Scuderia Ferrari si sono messi alla guida della prima Ferrari elettrica della storia sulla pista di Balocco.",
-      "link": "https://www.hdmotori.it/ferrari-luce-test-hamilton-leclerc/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T14:30:52+00:00"
-    },
-    {
-      "titolo": "Mitsubishi, torna un mito del passato: pubblicato il teaser della nuova Pajero",
-      "descrizione": "Mitsubishi produrrà un nuovo SUV chiamato Pajero ed è previsto il ritorno anche del nome Montero sul mercato spagnolo",
-      "link": "https://www.hdmotori.it/mitsubishi-torna-pajero-teaser/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T14:00:24+00:00"
     },
     {
       "titolo": "FIFA World Cup 2026: Meta annuncia misure antitruffa",
@@ -72,60 +142,11 @@
       "data": "2026-05-29T13:48:28+00:00"
     },
     {
-      "titolo": "Amazfit Helio Strap 2 certificato alla FCC: in arrivo il fitness tracker senza schermo",
-      "descrizione": "L'erede di Amazfit Helio Strap è in arrivo: cosa sappiamo.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n659908/amazfit-helio-strap-2-quando-esce-2026-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T13:40:00+00:00"
-    },
-    {
-      "titolo": "Trump Mobile, il sito ufficiale indica ancora il T1 Phone come \"American-made\"",
-      "descrizione": "Una parola rimasta nel posto sbagliato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659911/trump-mobile-sito-ufficiale-t1-phone/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T13:35:00+00:00"
-    },
-    {
       "titolo": "Physical AI, l’Intelligenza artificiale prende corpo nella fabbrica",
       "descrizione": "A Sps Italia 2026 robotica collaborativa, droni, sistemi di visione e agenti AI raccontano il passaggio dagli algoritmi che analizzano i dati a tecnologie capaci di osservare, decidere e intervenire nei processi produtti",
       "link": "https://www.ilsole24ore.com/art/physical-ai-l-intelligenza-artificiale-prende-corpo-fabbrica-AIF0EyLD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-05-29T13:20:06+00:00"
-    },
-    {
-      "titolo": "Hugging Face lancia il robot umanoide fai da te: per ora accontentatevi delle gambe",
-      "descrizione": "Hugging Face presenta LeRobot Humanoid: 2.500 dollari per gambe robotiche stampabili.",
-      "link": "https://www.hdblog.it/robotica/articoli/n659886/hugging-face-robot-umanoide/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T13:20:00+00:00"
-    },
-    {
-      "titolo": "Misurata l'energia più piccola di sempre: infranta la soglia dello zeptojoule",
-      "descrizione": "Le ricadute sul calcolo quantistico e l'astrofisica.",
-      "link": "https://www.hdblog.it/scienza/articoli/n659894/zeptojoule-energia-calcolo-quantistico-misura/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T13:15:00+00:00"
-    },
-    {
-      "titolo": "CUPRA Tavascan, il SUV elettrico diventa più accessibile con la versione da 190 CV",
-      "descrizione": "Cupra Tavascan espande la sua offerta puntando su tecnologia e un rapporto valore-prezzo ancora più competitivo",
-      "link": "https://www.hdmotori.it/cupra-tavascan-entry-level-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T13:00:45+00:00"
-    },
-    {
-      "titolo": "Gli italiani sanno cos’è l’AI ma in pochi la usano: il nuovo report Samsung",
-      "descrizione": "Per il 56% degli italiani l’AI coincide con i chatbot.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659903/italiani-usano-poco-ai-secondo-report-samsung/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T12:55:00+00:00"
-    },
-    {
-      "titolo": "Galaxy S26, Pixel 10 e TV OLED e altro in sconto: le offerte tech di oggi",
-      "descrizione": "Galaxy S26 con tablet in regalo, Pixel 10 in forte sconto, TV OLED, monitor gaming e cuffie Sony: le migliori offerte tech di oggi su Amazon e MediaWorld.",
-      "link": "https://www.hdblog.it/amazon/offerte/n659905/migliori-offerte-oggi-29-maggio-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T12:45:00+00:00"
     },
     {
       "titolo": "Le chat di Gemini si potranno condividere via Google Drive",
@@ -147,27 +168,6 @@
       "link": "https://www.zdnet.com/article/5-best-practices-for-migrating-to-a-new-crm/",
       "fonte": "Latest news",
       "data": "2026-05-29T12:00:45+00:00"
-    },
-    {
-      "titolo": "Pocket a huge $252 saving on a two-year PIA VPN subscription and score two months for free — 88% discount on no-logs provider with servers in 90 different countries and support for unlimited connections",
-      "descrizione": "Grab this PIA 2-year VPN deal for only $34.58 and save a massive $252.22 compared to a standard monthly sub, unlocking access to privacy-protecting connections online for the equivalent of just $1.33 a month, with two mo",
-      "link": "https://www.tomshardware.com/software/vpn/pocket-a-huge-usd252-saving-on-a-two-year-pia-vpn-subscription-and-score-two-months-for-free-88-percent-discount-on-no-logs-provider-with-servers-in-90-different-countries-and-support-for-unlimited-connections",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-29T11:44:21+00:00"
-    },
-    {
-      "titolo": "Ambernic's retro gaming handhelds are quietly losing RAM capacity and being downgraded to older LPDDR3 memory — company says 1GB capacity is still the standard, 512MB models 'an unexpected error'",
-      "descrizione": "Anbernic silently ships some retro gaming handhelds with less memory than initially advertised, without notifying customers.",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/gaming-handhelds-are-quietly-losing-ram-vendors-aggressively-trim-memory-specs-as-supply-dries-up",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-29T10:40:00+00:00"
-    },
-    {
-      "titolo": "Anthropic vale 965 miliardi di dollari (più di OpenAI)",
-      "descrizione": "Al termine dell'ultimo round di finanziamenti, la valutazione di Anthropic ha raggiunto i 965 miliardi di dollari, superiori agli 852 miliardi di OpenAI. The post Anthropic vale 965 miliardi di dollari (più di OpenAI) ap",
-      "link": "https://www.punto-informatico.it/anthropic-vale-965-miliardi-dollari-piu-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-29T10:38:43+00:00"
     }
   ]
 }

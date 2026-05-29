@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T16:09:05.258058+00:00",
+  "last_updated": "2026-05-29T20:38:29.449878+00:00",
   "items": [
     {
       "titolo": "Anthropic vale 965 miliardi di dollari (più di OpenAI)",
@@ -10,11 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "I've used Gemini in Android Auto for 2 months now, and it's transformed my daily drive in 4 ways",
-      "descrizione": "Gemini has made voice control in my car fun and useful, and I'm still discovering new ways to use it.",
-      "link": "https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/",
-      "fonte": "Latest news",
-      "data": "2026-05-29T15:26:51+00:00",
+      "titolo": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
+      "descrizione": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
+      "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-29T19:48:40+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "descrizione": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "fonte": "WIRED",
+      "data": "2026-05-29T19:07:46+00:00",
       "modello": "gemini"
     },
     {
