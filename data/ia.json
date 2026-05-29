@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:44:07.957531+00:00",
+  "last_updated": "2026-05-29T10:14:14.678240+00:00",
   "items": [
     {
       "titolo": "Researchers say they can spy on your browsing by measuring SSD activity through a browser API — claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "AI Model Release Tracker: Opus 4.8's misalignment rates similar to Claude Mythos Preview",
-      "descrizione": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "fonte": "Latest news",
-      "data": "2026-05-28T21:11:11+00:00",
+      "titolo": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
+      "descrizione": "A new report cites an AI consultant claiming a client accidentally spent $500,000,000 on Claude in a single month.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-29T09:44:01+00:00",
       "modello": "claude"
     }
   ]
