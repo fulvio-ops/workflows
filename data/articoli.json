@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-05-29T20:38:26.532700+00:00",
+  "last_updated": "2026-05-30T04:18:39.432051+00:00",
   "items": [
+    {
+      "titolo": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+      "descrizione": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. But some of its details are really out there.",
+      "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+      "fonte": "WIRED",
+      "data": "2026-05-29T20:53:09+00:00"
+    },
     {
       "titolo": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
       "descrizione": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/xiaomi-annuncia-nuovo-tablet-redmi-pad-2-9-7/",
       "fonte": "Punto Informatico",
       "data": "2026-05-29T12:32:06+00:00"
-    },
-    {
-      "titolo": "5 best practices for migrating to a new CRM",
-      "descrizione": "Switching CRMs risks data loss and workflow disruption. These five best practices keep things on track.",
-      "link": "https://www.zdnet.com/article/5-best-practices-for-migrating-to-a-new-crm/",
-      "fonte": "Latest news",
-      "data": "2026-05-29T12:00:45+00:00"
     }
   ]
 }
