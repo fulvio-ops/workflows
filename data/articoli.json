@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-05-30T08:41:04.994405+00:00",
+  "last_updated": "2026-05-30T14:06:21.959304+00:00",
   "items": [
+    {
+      "titolo": "Fiido M1 Pro - in prova la Fat Bike più stilosa sul mercato",
+      "descrizione": "Abbiamo provato la nuova Fiido M1 Pro, una Fat Bike dalle caratteristiche molto interessanti e uniche per questa categoria.",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n658756/fiido-m1-pro-la-fat-bike-piu-stilosa/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T13:31:00+00:00"
+    },
+    {
+      "titolo": "Chips Act 2.0: investimenti per 120 miliardi di euro",
+      "descrizione": "All'inizio di giugno, la Commissione europea dovrebbe annunciare il Chips Act 2.0 che prevede investimenti (pubblici e privati) per 120 miliardi di euro. The post Chips Act 2.0: investimenti per 120 miliardi di euro appe",
+      "link": "https://www.punto-informatico.it/chips-act-2-investimenti-120-miliardi-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-30T13:19:53+00:00"
+    },
+    {
+      "titolo": "Nikon weaponizes lower prices to break ASML's lithography monopoly — tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers",
+      "descrizione": "Nikon will try to claw back lithography customers by selling argon fluoride (ArF) tools for less than the market leader, ASML.",
+      "link": "https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-30T13:00:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro, la fotocamera avrà una novità importante e molto costosa",
+      "descrizione": "Dobbiamo aspettarci un incremento dei prezzi?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659975/iphone-18-pro-apple-apertura-variabile-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T12:25:00+00:00"
+    },
+    {
+      "titolo": "Dallo storyboard alla clip in pochi minuti: come l’Ai riscrive la produzione video",
+      "descrizione": "Attraverso i modelli di intelligenza artificiale è oramai possibile produrre interi film senza troupe (o quasi)",
+      "link": "https://www.ilsole24ore.com/art/dallo-storyboard-clip-pochi-minuti-come-l-ai-riscrive-produzione-video-AI3aKwDD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-30T12:23:07+00:00"
+    },
+    {
+      "titolo": "Sellers circumvent Lenovo’s retro handheld ban with cheap wholesale storefronts — $41 gray-market G02 units pop up on Alibaba following initial storefront purge, systems were pulled from sale amid copyright drama and reg",
+      "descrizione": "Lenovo has pulled the G02 from sale on different Chinese e-commerce platforms after the company discovered that it was being sold outside of China.",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/the-usd60-retro-gaming-handheld-that-escaped-china-has-been-brought-back-home-lenovos-g02-pulled-from-sale-amid-copyright-drama-and-regional-restrictions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-30T11:30:00+00:00"
+    },
+    {
+      "titolo": "Acer annuncia Nitro Blaze Link: handheld Linux per lo streaming con 1 GB di RAM",
+      "descrizione": "Le possibilità della nuova piattaforma di Acer non sono poi così ampie",
+      "link": "https://www.hdblog.it/acer/articoli/n659966/acer-nitro-blaze-link-console-portatile-streaming/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T11:25:00+00:00"
+    },
+    {
+      "titolo": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
+      "descrizione": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials.",
+      "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
+      "fonte": "WIRED",
+      "data": "2026-05-30T11:00:00+00:00"
+    },
+    {
+      "titolo": "Un immenso cimitero di rottami spaziali minaccia la Terra, sono oltre 33.000",
+      "descrizione": "Oltre 33mila detriti sfrecciano intorno alla Terra minacciando satelliti e future missioni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659955/detriti-spaziali-pericolo-orbita/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T10:55:00+00:00"
+    },
+    {
+      "titolo": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
+      "descrizione": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
+      "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
+      "fonte": "WIRED",
+      "data": "2026-05-30T10:39:00+00:00"
+    },
+    {
+      "titolo": "Pentagon eyes 3D-printed military boats made from volcanic fiber — non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases",
+      "descrizione": "Voltage Vessels hopes to allow the U.S. Navy to build boats where they're needed and reduce reliance on an overly long supply chain. The company claims that it can forward deploy its 3D printers in-theater and also incre",
+      "link": "https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-30T10:30:00+00:00"
+    },
+    {
+      "titolo": "Telemarketing, caos dopo il decreto: vantaggi solo per alcuni operatori",
+      "descrizione": "Il decreto Bollette limita il telemarketing aggressivo ma il PD denuncia squilibri a favore degli operatori storici.",
+      "link": "https://www.hdblog.it/business/articoli/n659947/telemarketing-decreto-vantaggi-operatori/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T10:25:00+00:00"
+    },
+    {
+      "titolo": "Microsoft minaccia azioni legali contro Nightmare Eclipse",
+      "descrizione": "Microsoft potrebbe avviare un'azione legale contro il ricercatore Nightmare Eclipse che ha pubblicato i dettagli di sei vulnerabilità di Windows 11. The post Microsoft minaccia azioni legali contro Nightmare Eclipse appe",
+      "link": "https://www.punto-informatico.it/microsoft-minaccia-azioni-legali-contro-nightmare-eclipse/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-30T09:00:32+00:00"
+    },
+    {
+      "titolo": "Is the Ferrari Luce’s Design Really That Bad? 3 Italian Auto Experts Weigh In",
+      "descrizione": "The first electric Ferrari is already this year’s most divisive car. We asked three Italian auto industry professionals to explain where the EV’s design makes sense, and where it doesn’t add up.",
+      "link": "https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/",
+      "fonte": "WIRED",
+      "data": "2026-05-30T09:00:00+00:00"
+    },
+    {
+      "titolo": "Vivo S60 ufficiale, anche in \"Vitality Edition\": upper midrange solidissimi",
+      "descrizione": "Ben 7.200 mAh e Snapdragon 8s Gen 3 per un massimo di 555 euro. Arriverà da noi?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659945/vivo-s60-vitality-specifiche-immagini-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-30T08:55:00+00:00"
+    },
     {
       "titolo": "Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste",
       "descrizione": "The activewear giant has used chemical recycling to make jersey for 16 teams competing in the tournament. But the technique is unlikely to help solve fashion’s waste issue.",
@@ -63,111 +168,6 @@
       "link": "https://www.punto-informatico.it/tivusat-719-canali-notizie-intrattenimento-film-show-tanto-altro/",
       "fonte": "Punto Informatico",
       "data": "2026-05-30T06:00:49+00:00"
-    },
-    {
-      "titolo": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
-      "descrizione": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. But some of its details are really out there.",
-      "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
-      "fonte": "WIRED",
-      "data": "2026-05-29T20:53:09+00:00"
-    },
-    {
-      "titolo": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
-      "descrizione": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
-      "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-29T19:48:40+00:00"
-    },
-    {
-      "titolo": "Meno RAM, ma più batteria e funzioni: il nuovo patto degli smartphone low cost",
-      "descrizione": "La crisi delle RAM sta cambiando il mercato degli smartphone di fascia bassa. I brand stanno diminuendo la RAM, ma compensando con più batteria, miglior display e funzioni AI.",
-      "link": "https://www.hdblog.it/smartphone/speciali/n654975/realme-c100-5g-test-ram-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T18:25:00+00:00"
-    },
-    {
-      "titolo": "Scontrini e POS allineati fanno emergere 5 miliardi di euro: è magia o era evasione?",
-      "descrizione": "Secondo l’Agenzia delle Entrate, la maggiore tracciabilità dei pagamenti elettronici ha generato circa un miliardo di euro di extra gettito IVA",
-      "link": "https://www.hdblog.it/mercato/articoli/n659896/pos-scontrini-evasione-dati-inizio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T18:24:00+00:00"
-    },
-    {
-      "titolo": "Fable è stato rinviato ancora: c'è l'annuncio ufficiale di Xbox. Colpa di GTA 6?",
-      "descrizione": "Ecco qual è la nuova finestra di lancio.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n659942/fable-rinvio-xbox-quando-esce-febbraio-2027-data/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T18:05:00+00:00"
-    },
-    {
-      "titolo": "Quasi al 50% gli auricolari Marshall Minor IV: conquistano già con il design",
-      "descrizione": "Doppio sconto su Amazon per i Marshall Minor IV, auricolari con un design ricercato, autonomia di 30 ore, controlli touch e connessione multipoint.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n659941/auricolari-marshall-minor-iv-doppio-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T18:01:00+00:00"
-    },
-    {
-      "titolo": "L'incredibile ASUS ROG Zephyrus Duo 2026 arriva in Italia, ma i prezzi...",
-      "descrizione": "Si parte da 4.999 euro... per arrivare addirittura a 6.299.",
-      "link": "https://www.hdblog.it/portatili/articoli/n659943/asus-rog-zephyrus-duo-2026-italia-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:55:00+00:00"
-    },
-    {
-      "titolo": "MediaWorld ai cinesi di JD.com, l'UE vuole vederci chiaro e blocca l'acquisizione",
-      "descrizione": "Il sospetto è che dietro ci siano agevolazioni dal governo di Pechino.",
-      "link": "https://www.hdblog.it/business/articoli/n659939/mediaworld-jd-com-europa-blocca-acquisizione/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:50:00+00:00"
-    },
-    {
-      "titolo": "Energia nucleare pulita: dagli USA arriva la svolta sui rifiuti",
-      "descrizione": "Startup USA trasforma scorie nucleari in combustibile aumentando l'energia di 100 volte.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659753/energia-nucleare-riciclo-scorie/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:40:00+00:00"
-    },
-    {
-      "titolo": "Con One UI 9 i Galaxy somigliano un po' più agli iPhone nella gestione delle chiamate",
-      "descrizione": "Cosa cambia nell'ultima beta.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659931/samsung-galaxy-one-ui-9-registro-chiamate-iphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:35:00+00:00"
-    },
-    {
-      "titolo": "Creative Sound Blaster AE-X ufficiale: ecco la scheda audio per audiofili",
-      "descrizione": "DAC ESS Sabre e preamplificatore integrato per cuffie.",
-      "link": "https://www.hdblog.it/hardware/articoli/n659940/creative-scheda-audio-sound-blaster-audiofili/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:25:00+00:00"
-    },
-    {
-      "titolo": "G.Skill e Cooler Master lanciano le prime RAM DDR5 con ventola",
-      "descrizione": "I dissipatori sono talmente spessi che occupano due slot.",
-      "link": "https://www.hdblog.it/hardware/articoli/n659938/g-skill-cooler-master-ram-ddr5-ventola-blower/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T17:05:00+00:00"
-    },
-    {
-      "titolo": "Nucleare pulito, progetto italo-francese: Newcleo installa il cuore di Precursor",
-      "descrizione": "Newcleo installa il recipiente principale del reattore Precursor, al via i test entro l'anno.",
-      "link": "https://www.hdblog.it/green/articoli/n659860/newcleo-reattore-piombo-precursor/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-29T16:55:00+00:00"
-    },
-    {
-      "titolo": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
-      "descrizione": "Project Lightwell is an AI‑powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here's what we know so far.",
-      "link": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
-      "fonte": "Latest news",
-      "data": "2026-05-29T16:26:00+00:00"
-    },
-    {
-      "titolo": "Samsung Movingstyle Essential Review: A Screen on Wheels",
-      "descrizione": "Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.",
-      "link": "https://www.wired.com/review/samsung-movingstyle-32-m7/",
-      "fonte": "WIRED",
-      "data": "2026-05-29T15:52:17+00:00"
     }
   ]
 }
