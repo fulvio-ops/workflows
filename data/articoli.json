@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-05-31T04:53:01.047636+00:00",
+  "last_updated": "2026-05-31T09:24:04.947721+00:00",
   "items": [
+    {
+      "titolo": "How Turkey Hacked the Hair Transplant Industry",
+      "descrizione": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "fonte": "WIRED",
+      "data": "2026-05-31T09:00:00+00:00"
+    },
+    {
+      "titolo": "Bose SoundTouch: come farlo rinascere con un chip ESP32 dopo lo stop del cloud",
+      "descrizione": "Una soluzione davvero geniale.",
+      "link": "https://www.hdblog.it/hardware/articoli/n659921/bose-soundtouch-hack-esp32-cloud-come-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T08:35:00+00:00"
+    },
+    {
+      "titolo": "Mano robotica impara a suonare il pianoforte: ci mette solo due minuti",
+      "descrizione": "Una mano robotica impara a suonare il pianoforte in due metri e apre a nuove terapie mediche.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659960/mano-robotica-pianoforte-medicina/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T07:55:00+00:00"
+    },
+    {
+      "titolo": "Iliad GIGA PRIME: non solo tanti giga ma anche 1 anno di Amazon Prime gratis",
+      "descrizione": "Scopri Iliad GIGA PRIME con 300 GB in 5G, minuti illimitati e 12 mesi di Amazon Prime inclusi. L'offerta definitiva per godersi l'estate! The post Iliad GIGA PRIME: non solo tanti giga ma anche 1 anno di Amazon Prime gra",
+      "link": "https://www.punto-informatico.it/iliad-giga-prime-non-solo-tanti-giga-ma-anche-1-anno-di-amazon-prime-gratis/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T07:47:49+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 10 a soli 30€: impermeabile fino a 5ATM e 21gg di autonomia",
+      "descrizione": "La Xiaomi Smart Band 10 è impermeabile fino a 5 ATM, ha 21gg di autonomia, oltre 150 modalità sportive ed è in offerta a soli 30€. The post Xiaomi Smart Band 10 a soli 30€: impermeabile fino a 5ATM e 21gg di autonomia ap",
+      "link": "https://www.punto-informatico.it/xiaomi-smart-band-10-soli-30e-impermeabile-5atm-21gg-autonomia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T07:21:40+00:00"
+    },
+    {
+      "titolo": "Cetrioli di mare zombie: gli arti tagliati continuano a vivere per anni",
+      "descrizione": "I tessuti isolati di un cetriolo di mare sopravvivono e crescono da soli in acqua per oltre tre anni.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n659959/cetriolo-mare-tessuti-immortali/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T06:55:00+00:00"
+    },
+    {
+      "titolo": "GoPro MISSION 1, partite le vendite in Italia: prezzi e disponibilità",
+      "descrizione": "Disponibili per l’acquisto tutti i modelli annunciati e i numerosi accessori.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n659969/gopro-mission-1-prezzi-e-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T06:35:00+00:00"
+    },
     {
       "titolo": "Primo anno gratis: IONOS è davvero la soluzione migliore per il tuo sito",
       "descrizione": "Con IONOS puoi costruire un sito professionale in autonomia, senza scrivere codice. Modelli pronti, dominio gratuito il primo anno e supporto 24/7. The post Primo anno gratis: IONOS è davvero la soluzione migliore per il",
@@ -119,55 +168,6 @@
       "link": "https://www.punto-informatico.it/microsoft-minaccia-azioni-legali-contro-nightmare-eclipse/",
       "fonte": "Punto Informatico",
       "data": "2026-05-30T09:00:32+00:00"
-    },
-    {
-      "titolo": "Is the Ferrari Luce’s Design Really That Bad? 3 Italian Auto Experts Weigh In",
-      "descrizione": "The first electric Ferrari is already this year’s most divisive car. We asked three Italian auto industry professionals to explain where the EV’s design makes sense, and where it doesn’t add up.",
-      "link": "https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/",
-      "fonte": "WIRED",
-      "data": "2026-05-30T09:00:00+00:00"
-    },
-    {
-      "titolo": "Vivo S60 ufficiale, anche in \"Vitality Edition\": upper midrange solidissimi",
-      "descrizione": "Ben 7.200 mAh e Snapdragon 8s Gen 3 per un massimo di 555 euro. Arriverà da noi?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659945/vivo-s60-vitality-specifiche-immagini-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T08:55:00+00:00"
-    },
-    {
-      "titolo": "Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste",
-      "descrizione": "The activewear giant has used chemical recycling to make jersey for 16 teams competing in the tournament. But the technique is unlikely to help solve fashion’s waste issue.",
-      "link": "https://www.wired.com/story/nike-recycled-world-cup-uniforms/",
-      "fonte": "WIRED",
-      "data": "2026-05-30T08:30:00+00:00"
-    },
-    {
-      "titolo": "Apple Music valuta nuovi abbonamenti e limiti ai brani",
-      "descrizione": "Indizi nell'app Android suggeriscono l'arrivo di nuovi piani e limiti di skip su Apple Music.",
-      "link": "https://www.hdblog.it/apple/articoli/n659954/apple-music-nuovi-abbonamenti-limiti/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T08:25:00+00:00"
-    },
-    {
-      "titolo": "Musk costruirà lo scudo spaziale di Trump: accordo da 4 miliardi per Golden Dome",
-      "descrizione": "SpaceX ottiene un contratto da 4,16 miliardi di dollari per i satelliti dello scudo Golden Dome.",
-      "link": "https://www.hdblog.it/mercato/articoli/n659956/spacex-contratto-satelliti-golden-dome/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T07:55:00+00:00"
-    },
-    {
-      "titolo": "House of the Dragon 3: il trailer promette fuoco, fiamme e tradimenti",
-      "descrizione": "Il trailer di House of the Dragon 3 anticipa una stagione di battaglie aeree e tradimenti.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n659953/house-of-the-dragon-3-trailer-hbo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T07:25:00+00:00"
-    },
-    {
-      "titolo": "Realme 16 Pro 5G: ottima batteria, spettacolare fotocamera e prezzo conveniente",
-      "descrizione": "Il Realme 16 Pro 5G ha un'ottima batteria da 6500mAh, una spettacolare fotocamera da 200MP ed è scontato di 116 euro. The post Realme 16 Pro 5G: ottima batteria, spettacolare fotocamera e prezzo conveniente appeared firs",
-      "link": "https://www.punto-informatico.it/realme-16-pro-5g-ottima-batteria-spettacolare-fotocamera-prezzo-conveniente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-30T07:13:29+00:00"
     }
   ]
 }
