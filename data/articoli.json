@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-05-31T14:12:15.669665+00:00",
+  "last_updated": "2026-05-31T19:41:48.341225+00:00",
   "items": [
+    {
+      "titolo": "Samsung Galaxy Watch 9 sarà anche Classic? Spunta l'indizio",
+      "descrizione": "Una mossa inattesa: Samsung cambia strategia?",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660000/samsung-galaxy-watch-9-classic-leak-wear-os-ultra/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T16:40:00+00:00"
+    },
+    {
+      "titolo": "Huawei Mate 90 punterà forte sulla fotografia con teleconverter e novità per lo zoom",
+      "descrizione": "Cosa dicono gli ultimi rumor in arrivo dalla Cina.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659999/huawei-mate-90-teleconverter-zoom-10x-fotocamera/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T16:25:00+00:00"
+    },
+    {
+      "titolo": "Computex 2026: Acer annuncia tre nuovi tablet Android",
+      "descrizione": "Inconia Duo S14, S12 e D12 sono i nuovi tablet Android per visualizzazione e creazione dei contenuti annunciati da Acer al Computex 2026. The post Computex 2026: Acer annuncia tre nuovi tablet Android appeared first on P",
+      "link": "https://www.punto-informatico.it/computex-2026-acer-annuncia-tre-nuovi-tablet-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T16:20:10+00:00"
+    },
+    {
+      "titolo": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
+      "descrizione": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two configs, one with a 12",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-31T15:47:07+00:00"
+    },
+    {
+      "titolo": "Core i7-14700F gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $470 discount — Newegg's ABS Cyclone Aqua prebuilt is $1,329 with code",
+      "descrizione": "Newegg's ABS Cyclone Aqua prebuilt combines Intel's 20-core Core i7-14700F with Nvidia's RTX 5060, and 32GB of DDR5 memory for less than the cost of building a comparable system",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/core-i7-14700f-gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd470-discount-neweggs-abs-cyclone-aqua-prebuilt-is-usd1-329-with-code",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-31T15:01:35+00:00"
+    },
+    {
+      "titolo": "One UI 8.5 anche sui modelli economici: update per Galaxy A16 5G, A17 5G e M55",
+      "descrizione": "Non solo flagship: Samsung pensa anche alla fascia bassa.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659994/one-ui-85-samsung-galaxy-a16-a17-5g-m55-stabile/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T14:50:00+00:00"
+    },
+    {
+      "titolo": "Computex 2026: Acer svela nuovi notebook TravelMate",
+      "descrizione": "Acer ha annunciato quattro nuovi notebook per l'utenza business: TravelMate P6 14 AI, TravelMate P2 Spin 14, TravelMate X2 14 e TravelMate X2 15. The post Computex 2026: Acer svela nuovi notebook TravelMate appeared firs",
+      "link": "https://www.punto-informatico.it/computex-2026-acer-svela-nuovi-notebook-travelmate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T14:34:08+00:00"
+    },
+    {
+      "titolo": "Amazfit T-Rex 3: sconto del 40% per chiudere maggio al meglio",
+      "descrizione": "L'Amazfit T-Rex 3 è uno smartwatch che garantisce resistenza, autonomia, qualità del display e monitoraggio completo di salute e sport. Oggi è scontato del 40% su Amazon.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n659993/smartwatch-amazfit-t-rex-3-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T14:26:00+00:00"
+    },
     {
       "titolo": "Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
       "descrizione": "Acer ha presentato i notebook Swift Air 14, Swift Spin 14 AI, Aspire X 16 AI e Aspire 18 AI con processori Intel, fino a 32 GB di RAM e SSD fino a 2 TB. The post Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
@@ -100,20 +156,6 @@
       "data": "2026-05-31T07:21:40+00:00"
     },
     {
-      "titolo": "Cetrioli di mare zombie: gli arti tagliati continuano a vivere per anni",
-      "descrizione": "I tessuti isolati di un cetriolo di mare sopravvivono e crescono da soli in acqua per oltre tre anni.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n659959/cetriolo-mare-tessuti-immortali/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-31T06:55:00+00:00"
-    },
-    {
-      "titolo": "GoPro MISSION 1, partite le vendite in Italia: prezzi e disponibilità",
-      "descrizione": "Disponibili per l’acquisto tutti i modelli annunciati e i numerosi accessori.",
-      "link": "https://www.hdblog.it/fotografia/articoli/n659969/gopro-mission-1-prezzi-e-disponibilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-31T06:35:00+00:00"
-    },
-    {
       "titolo": "Primo anno gratis: IONOS è davvero la soluzione migliore per il tuo sito",
       "descrizione": "Con IONOS puoi costruire un sito professionale in autonomia, senza scrivere codice. Modelli pronti, dominio gratuito il primo anno e supporto 24/7. The post Primo anno gratis: IONOS è davvero la soluzione migliore per il",
       "link": "https://www.punto-informatico.it/primo-anno-gratis-ionos-e-davvero-la-soluzione-migliore-per-il-tuo-sito/",
@@ -126,48 +168,6 @@
       "link": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-05-30T17:10:16+00:00"
-    },
-    {
-      "titolo": "Call of Duty Modern Warfare 4, Infinity Ward svela ambizioni e retroscena",
-      "descrizione": "Che gioco dobbiamo aspettarci? Parola agli sviluppatori.",
-      "link": "https://www.hdblog.it/games/articoli/n659976/call-of-duty-modern-warfare-4-infinity-ward-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T15:35:00+00:00"
-    },
-    {
-      "titolo": "AMD Ryzen 7 5800X and Nvidia RTX 5060 combo is only $439 — deal includes a free CPU cooler, totaling out to $150 in savings for a great budget setup",
-      "descrizione": "If you've been looking to upgrade from an older system or just want to build a new one but 2026 prices have stopped you, we've got just the deal. The CPU and GPU are the two most important parts of a PC build, and Newegg",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x-and-nvidia-rtx-5060-combo-is-only-usd439-deal-includes-a-free-cpu-cooler-totaling-out-to-usd150-in-savings-for-a-great-budget-setup",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-30T14:49:34+00:00"
-    },
-    {
-      "titolo": "Fiido M1 Pro - in prova la Fat Bike più stilosa sul mercato",
-      "descrizione": "Abbiamo provato la nuova Fiido M1 Pro, una Fat Bike dalle caratteristiche molto interessanti e uniche per questa categoria.",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n658756/fiido-m1-pro-la-fat-bike-piu-stilosa/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T13:31:00+00:00"
-    },
-    {
-      "titolo": "Chips Act 2.0: investimenti per 120 miliardi di euro",
-      "descrizione": "All'inizio di giugno, la Commissione europea dovrebbe annunciare il Chips Act 2.0 che prevede investimenti (pubblici e privati) per 120 miliardi di euro. The post Chips Act 2.0: investimenti per 120 miliardi di euro appe",
-      "link": "https://www.punto-informatico.it/chips-act-2-investimenti-120-miliardi-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-30T13:19:53+00:00"
-    },
-    {
-      "titolo": "Nikon weaponizes lower prices to break ASML's lithography monopoly — tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers",
-      "descrizione": "Nikon will try to claw back lithography customers by selling argon fluoride (ArF) tools for less than the market leader, ASML.",
-      "link": "https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-30T13:00:00+00:00"
-    },
-    {
-      "titolo": "iPhone 18 Pro, la fotocamera avrà una novità importante e molto costosa",
-      "descrizione": "Dobbiamo aspettarci un incremento dei prezzi?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659975/iphone-18-pro-apple-apertura-variabile-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T12:25:00+00:00"
     }
   ]
 }
