@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-31T09:24:04.947721+00:00",
+  "last_updated": "2026-05-31T14:12:15.669665+00:00",
   "items": [
+    {
+      "titolo": "Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
+      "descrizione": "Acer ha presentato i notebook Swift Air 14, Swift Spin 14 AI, Aspire X 16 AI e Aspire 18 AI con processori Intel, fino a 32 GB di RAM e SSD fino a 2 TB. The post Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
+      "link": "https://www.punto-informatico.it/computex-2026-acer-annuncia-nuovi-notebook-swift-aspire/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T13:54:31+00:00"
+    },
+    {
+      "titolo": "Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows — shares a video of ‘the first time Windows ran on Nvidia Tegra Arm’ from 2010",
+      "descrizione": "Microsoft veteran Steven Sinofsky is here to remind folks that excitement about a new PC era fueled by Nvidia and Arm culminated in the Surface RT 16 years ago.",
+      "link": "https://www.tomshardware.com/pc-components/microsoft-veteran-recalls-the-last-time-nvidia-and-arm-was-the-future-of-windows-shares-a-video-of-the-first-time-windows-ran-on-nvidia-tegra-arm-from-2010",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-31T13:05:00+00:00"
+    },
+    {
+      "titolo": "SoftBank investe 75 miliardi in Francia per costruire il più grande hub IA d’Europa",
+      "descrizione": "Il gruppo giapponese guidato da Masayoshi Son punta su energia nucleare e iter autorizzativi accelerati per la corsa all’intelligenza artificiale",
+      "link": "https://www.ilsole24ore.com/art/softbank-investe-75-miliardi-francia-costruire-piu-grande-hub-ia-d-europa-AIfUELOD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-05-31T12:04:00+00:00"
+    },
+    {
+      "titolo": "You can still run the original Nvidia Control Panel by grabbing it from the Microsoft Store today — app remains useful to adjust a handful of RTX Pro and Quadro features, and may be handy for troubleshooting",
+      "descrizione": "The old Nvidia Control Panel is now a separate, optional download, but is it worth grabbing?",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/you-can-still-run-the-original-nvidia-control-panel-by-grabbing-it-from-the-microsoft-store-today-app-remains-useful-to-adjust-a-handful-of-rtx-pro-and-quadro-features-and-may-be-handy-for-troubleshooting",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-05-31T11:30:00+00:00"
+    },
+    {
+      "titolo": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
+      "descrizione": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
+      "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
+      "fonte": "WIRED",
+      "data": "2026-05-31T11:01:00+00:00"
+    },
+    {
+      "titolo": "Your TV's RS-232 port is a versatile automation tool - how to unlock its full potential",
+      "descrizione": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to use it for more advanced programming.",
+      "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
+      "fonte": "Latest news",
+      "data": "2026-05-31T11:00:41+00:00"
+    },
+    {
+      "titolo": "Acer lancia due modelli di occhiali smart con AI e realtà aumentata",
+      "descrizione": "Acer lancia due modelli di occhiali smart basati su realtà aumentata e intelligenza artificiale.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n659984/acer-occhiali-smart-gr0-gi0/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T10:55:00+00:00"
+    },
+    {
+      "titolo": "Wikipedia, 700 editor minacciano sciopero: ripercussioni su AI e Internet tutta",
+      "descrizione": "Protesta contro il licenziamento del team Community Tech",
+      "link": "https://www.hdblog.it/mercato/articoli/n659907/wikipedia-editor-minacciano-sciopero-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T10:25:00+00:00"
+    },
+    {
+      "titolo": "Un mese con le cuffie ultraleggere da gaming e ufficio: Sony Inzone H6 Air",
+      "descrizione": "Abbiamo provato le nuove cuffie open-back di Sony ultraleggere. Pesano 200 grammi e quasi non si avvertono anche dopo ore di gaming o lavoro. Il microfono cardioide staccabile è la chicca. Prezzo di...",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n659744/sony-inzone-h6-air-test-prezzo-recensione/",
+      "fonte": "HDblog.it",
+      "data": "2026-05-31T09:31:00+00:00"
+    },
     {
       "titolo": "How Turkey Hacked the Hair Transplant Industry",
       "descrizione": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
@@ -105,69 +168,6 @@
       "link": "https://www.hdblog.it/smartphone/articoli/n659975/iphone-18-pro-apple-apertura-variabile-prezzo/",
       "fonte": "HDblog.it",
       "data": "2026-05-30T12:25:00+00:00"
-    },
-    {
-      "titolo": "Dallo storyboard alla clip in pochi minuti: come l’Ai riscrive la produzione video",
-      "descrizione": "Attraverso i modelli di intelligenza artificiale è oramai possibile produrre interi film senza troupe (o quasi)",
-      "link": "https://www.ilsole24ore.com/art/dallo-storyboard-clip-pochi-minuti-come-l-ai-riscrive-produzione-video-AI3aKwDD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-30T12:23:07+00:00"
-    },
-    {
-      "titolo": "Sellers circumvent Lenovo’s retro handheld ban with cheap wholesale storefronts — $41 gray-market G02 units pop up on Alibaba following initial storefront purge, systems were pulled from sale amid copyright drama and reg",
-      "descrizione": "Lenovo has pulled the G02 from sale on different Chinese e-commerce platforms after the company discovered that it was being sold outside of China.",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/the-usd60-retro-gaming-handheld-that-escaped-china-has-been-brought-back-home-lenovos-g02-pulled-from-sale-amid-copyright-drama-and-regional-restrictions",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-30T11:30:00+00:00"
-    },
-    {
-      "titolo": "Acer annuncia Nitro Blaze Link: handheld Linux per lo streaming con 1 GB di RAM",
-      "descrizione": "Le possibilità della nuova piattaforma di Acer non sono poi così ampie",
-      "link": "https://www.hdblog.it/acer/articoli/n659966/acer-nitro-blaze-link-console-portatile-streaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T11:25:00+00:00"
-    },
-    {
-      "titolo": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
-      "descrizione": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials.",
-      "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
-      "fonte": "WIRED",
-      "data": "2026-05-30T11:00:00+00:00"
-    },
-    {
-      "titolo": "Un immenso cimitero di rottami spaziali minaccia la Terra, sono oltre 33.000",
-      "descrizione": "Oltre 33mila detriti sfrecciano intorno alla Terra minacciando satelliti e future missioni.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659955/detriti-spaziali-pericolo-orbita/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T10:55:00+00:00"
-    },
-    {
-      "titolo": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-      "descrizione": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
-      "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
-      "fonte": "WIRED",
-      "data": "2026-05-30T10:39:00+00:00"
-    },
-    {
-      "titolo": "Pentagon eyes 3D-printed military boats made from volcanic fiber — non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases",
-      "descrizione": "Voltage Vessels hopes to allow the U.S. Navy to build boats where they're needed and reduce reliance on an overly long supply chain. The company claims that it can forward deploy its 3D printers in-theater and also incre",
-      "link": "https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-30T10:30:00+00:00"
-    },
-    {
-      "titolo": "Telemarketing, caos dopo il decreto: vantaggi solo per alcuni operatori",
-      "descrizione": "Il decreto Bollette limita il telemarketing aggressivo ma il PD denuncia squilibri a favore degli operatori storici.",
-      "link": "https://www.hdblog.it/business/articoli/n659947/telemarketing-decreto-vantaggi-operatori/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-30T10:25:00+00:00"
-    },
-    {
-      "titolo": "Microsoft minaccia azioni legali contro Nightmare Eclipse",
-      "descrizione": "Microsoft potrebbe avviare un'azione legale contro il ricercatore Nightmare Eclipse che ha pubblicato i dettagli di sei vulnerabilità di Windows 11. The post Microsoft minaccia azioni legali contro Nightmare Eclipse appe",
-      "link": "https://www.punto-informatico.it/microsoft-minaccia-azioni-legali-contro-nightmare-eclipse/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-30T09:00:32+00:00"
     }
   ]
 }
