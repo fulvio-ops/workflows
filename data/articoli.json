@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-01T05:17:29.486383+00:00",
+  "last_updated": "2026-06-01T12:09:50.157435+00:00",
   "items": [
     {
-      "titolo": "Arriva un nuovo canale dedicato alla musica sul digitale terrestre",
-      "descrizione": "Sulla piattaforma digitale terrestre è arrivato un nuovo canale completamente dedicato alla musica: scopri come ottenerlo anche tu. The post Arriva un nuovo canale dedicato alla musica sul digitale terrestre appeared fir",
-      "link": "https://www.punto-informatico.it/arriva-nuovo-canale-dedicato-musica-digitale-terrestre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T05:00:27+00:00"
-    },
-    {
-      "titolo": "Nvidia unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026 – new platform promises to turn Windows into an agentic AI OS with Arm CPU, Blackwell GPU, and 128GB unified memory",
-      "descrizione": "At Computex 2026, Nvidia CEO Jensen Huang unveiled the RTX Spark Superchip, a new Arm laptop and desktop platform that powers agentic AI on Windows with a 20-core Arm CPU, powerful 6144-CUDA-core Blackwell GPU, and up to",
-      "link": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
+      "titolo": "Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant — company claims coolant offers 1,000 times higher electrical impedance over standard cooling",
+      "descrizione": "Supermicro demonstrates upcoming servers based on AMD’s EPYC ‘Venice’ CPUs, MI450 accelerators, and Nvidia’s Vera Rubin-based solutions.",
+      "link": "https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T04:52:13+00:00"
+      "data": "2026-06-01T12:02:07+00:00"
     },
     {
-      "titolo": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
-      "descrizione": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s upcoming EPYC Venice",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+      "titolo": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
+      "descrizione": "The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been using this loophole",
+      "link": "https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T03:00:00+00:00"
+      "data": "2026-06-01T11:32:24+00:00"
     },
     {
-      "titolo": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 — RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
-      "descrizione": "AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/amds-formerly-china-exclusive-radeon-rx-9070-gre-goes-global-for-usd549-on-june-2-rdna-4-gpu-will-bridge-the-gap-between-rx-9060-xt-and-rx-9070",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T02:00:21+00:00"
-    },
-    {
-      "titolo": "Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
-      "descrizione": "Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.",
-      "link": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T00:21:39+00:00"
-    },
-    {
-      "titolo": "VPN per una estate più sicura e libera: la nuova offerta di NordVPN",
-      "descrizione": "Fino al 77% di sconto sui piani della durata di due anni e quattro mesi extra di servizio in regalo per ciascun piano. The post VPN per una estate più sicura e libera: la nuova offerta di NordVPN appeared first on Punto",
-      "link": "https://www.punto-informatico.it/vpn-estate-sicura-nuova-offerta-nordvpn/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-31T17:02:57+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Watch 9 sarà anche Classic? Spunta l'indizio",
-      "descrizione": "Una mossa inattesa: Samsung cambia strategia?",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660000/samsung-galaxy-watch-9-classic-leak-wear-os-ultra/",
+      "titolo": "BMW progetta le auto del futuro con l'AI: addio ai vecchi crash test?",
+      "descrizione": "BMW e Mistral AI lanciano i Large Industry Models, un'intelligenza artificiale su misura per rivoluzionare i crash test virtuali grazie a un petabyte di dati.",
+      "link": "https://www.hdmotori.it/bmw-mistral-ai-crash-test-simulazione/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T16:40:00+00:00"
+      "data": "2026-06-01T11:30:16+00:00"
     },
     {
-      "titolo": "Huawei Mate 90 punterà forte sulla fotografia con teleconverter e novità per lo zoom",
-      "descrizione": "Cosa dicono gli ultimi rumor in arrivo dalla Cina.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659999/huawei-mate-90-teleconverter-zoom-10x-fotocamera/",
+      "titolo": "ASUS ROG Xbox Ally, arriva la versione OLED... ma è una strana edizione limitata",
+      "descrizione": "Si potrà comprare solo in bundle con gli occhiali Xreal R1. Il prezzo del bundle probabilmente sarà stratosferico...",
+      "link": "https://www.hdblog.it/asus/articoli/n660061/asus-computex-xbox-ally-oled-x20-bundle/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T16:25:00+00:00"
+      "data": "2026-06-01T11:25:00+00:00"
     },
     {
-      "titolo": "Computex 2026: Acer annuncia tre nuovi tablet Android",
-      "descrizione": "Inconia Duo S14, S12 e D12 sono i nuovi tablet Android per visualizzazione e creazione dei contenuti annunciati da Acer al Computex 2026. The post Computex 2026: Acer annuncia tre nuovi tablet Android appeared first on P",
-      "link": "https://www.punto-informatico.it/computex-2026-acer-annuncia-tre-nuovi-tablet-android/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-31T16:20:10+00:00"
-    },
-    {
-      "titolo": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
-      "descrizione": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two configs, one with a 12",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-31T15:47:07+00:00"
-    },
-    {
-      "titolo": "Core i7-14700F gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $470 discount — Newegg's ABS Cyclone Aqua prebuilt is $1,329 with code",
-      "descrizione": "Newegg's ABS Cyclone Aqua prebuilt combines Intel's 20-core Core i7-14700F with Nvidia's RTX 5060, and 32GB of DDR5 memory for less than the cost of building a comparable system",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/core-i7-14700f-gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd470-discount-neweggs-abs-cyclone-aqua-prebuilt-is-usd1-329-with-code",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-31T15:01:35+00:00"
-    },
-    {
-      "titolo": "One UI 8.5 anche sui modelli economici: update per Galaxy A16 5G, A17 5G e M55",
-      "descrizione": "Non solo flagship: Samsung pensa anche alla fascia bassa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659994/one-ui-85-samsung-galaxy-a16-a17-5g-m55-stabile/",
+      "titolo": "Meta, il tool che traccia mouse e app dei dipendenti rischia lo scontro con il GDPR",
+      "descrizione": "Il sistema potrebbe includere anche dati e comunicazioni di dipendenti non statunitensi",
+      "link": "https://www.hdblog.it/business/articoli/n660058/meta-tool-registra-mouse-dipendenti-gdpr/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T14:50:00+00:00"
+      "data": "2026-06-01T11:05:00+00:00"
     },
     {
-      "titolo": "Computex 2026: Acer svela nuovi notebook TravelMate",
-      "descrizione": "Acer ha annunciato quattro nuovi notebook per l'utenza business: TravelMate P6 14 AI, TravelMate P2 Spin 14, TravelMate X2 14 e TravelMate X2 15. The post Computex 2026: Acer svela nuovi notebook TravelMate appeared firs",
-      "link": "https://www.punto-informatico.it/computex-2026-acer-svela-nuovi-notebook-travelmate/",
+      "titolo": "NVIDIA DGX Station for Windows: supercomputer sulla scrivania",
+      "descrizione": "DGX Station for Windows è un supercomputer con chip GB300 (CPU Grace e GPU Blackwell Ultra) che può eseguire modelli AI con 1.000 miliardi di parametri. The post NVIDIA DGX Station for Windows: supercomputer sulla scriva",
+      "link": "https://www.punto-informatico.it/nvidia-dgx-station-windows-supercomputer-scrivania/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-31T14:34:08+00:00"
+      "data": "2026-06-01T10:51:11+00:00"
     },
     {
-      "titolo": "Amazfit T-Rex 3: sconto del 40% per chiudere maggio al meglio",
-      "descrizione": "L'Amazfit T-Rex 3 è uno smartwatch che garantisce resistenza, autonomia, qualità del display e monitoraggio completo di salute e sport. Oggi è scontato del 40% su Amazon.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n659993/smartwatch-amazfit-t-rex-3-sconto-amazon/",
+      "titolo": "Xiaomi sfiderà Samsung con un Privacy Display gestito solo dal software?",
+      "descrizione": "Xiaomi avrebbe in mente un Privacy Display simile a quello di Galaxy S26 Ultra, ma senza hardware dedicato.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660036/xiaomi-privacy-display/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T14:26:00+00:00"
+      "data": "2026-06-01T10:50:00+00:00"
     },
     {
-      "titolo": "Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
-      "descrizione": "Acer ha presentato i notebook Swift Air 14, Swift Spin 14 AI, Aspire X 16 AI e Aspire 18 AI con processori Intel, fino a 32 GB di RAM e SSD fino a 2 TB. The post Computex 2026: Acer annuncia nuovi notebook Swift e Aspire",
-      "link": "https://www.punto-informatico.it/computex-2026-acer-annuncia-nuovi-notebook-swift-aspire/",
+      "titolo": "I chip ARM N1 e N1X di NVIDIA per laptop stanno arrivando",
+      "descrizione": "Arrivano i chip ARM per laptop N1 e N1X di Nvidia. Lenovo e Dell preparano i primi laptop. Qualcomm perde l'esclusiva su Windows su ARM. The post I chip ARM N1 e N1X di NVIDIA per laptop stanno arrivando appeared first o",
+      "link": "https://www.punto-informatico.it/chip-arm-n1-n1x-nvidia-laptop-stanno-arrivando/",
       "fonte": "Punto Informatico",
-      "data": "2026-05-31T13:54:31+00:00"
+      "data": "2026-06-01T10:49:23+00:00"
     },
     {
-      "titolo": "Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows — shares a video of ‘the first time Windows ran on Nvidia Tegra Arm’ from 2010",
-      "descrizione": "Microsoft veteran Steven Sinofsky is here to remind folks that excitement about a new PC era fueled by Nvidia and Arm culminated in the Surface RT 16 years ago.",
-      "link": "https://www.tomshardware.com/pc-components/microsoft-veteran-recalls-the-last-time-nvidia-and-arm-was-the-future-of-windows-shares-a-video-of-the-first-time-windows-ran-on-nvidia-tegra-arm-from-2010",
+      "titolo": "Nuovi Apple TV e HomePod mini in autunno? Forse questa volta ci siamo",
+      "descrizione": "Ormai li stiamo inseguendo da mesi",
+      "link": "https://www.hdblog.it/apple/articoli/n660049/apple-tv-homepod-mini-nuovo-modello/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T10:40:00+00:00"
+    },
+    {
+      "titolo": "Tesla, il FSD si espande in Europa: approvato anche in Estonia",
+      "descrizione": "La tecnologia di guida autonoma avanzata, sviluppata da Tesla, è stata approvata in Estonia dopo la recente approvazione nei Paesi Bassi.",
+      "link": "https://www.hdmotori.it/tesla-sistema-avanzato-guida-autonoma-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T10:30:46+00:00"
+    },
+    {
+      "titolo": "Intel warns it has 'a healthy dose of paranoia' over Nvidia entrance into PC market — company says RTX Spark is 'great for the market' while touting the virtues of x86",
+      "descrizione": "Intel reacts to Nvidia’s RTX Spark announcement, and says that it’s treating the green giant’s entrance into consumer SoCs with “a healthy dose of skepticism.\"",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-warns-it-has-a-healthy-dose-of-paranoia-over-nvidia-entrance-into-pc-market-company-says-rtx-spark-is-great-for-the-market-while-touting-the-virtues-of-x86",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-31T13:05:00+00:00"
+      "data": "2026-06-01T10:30:00+00:00"
     },
     {
-      "titolo": "SoftBank investe 75 miliardi in Francia per costruire il più grande hub IA d’Europa",
-      "descrizione": "Il gruppo giapponese guidato da Masayoshi Son punta su energia nucleare e iter autorizzativi accelerati per la corsa all’intelligenza artificiale",
-      "link": "https://www.ilsole24ore.com/art/softbank-investe-75-miliardi-francia-costruire-piu-grande-hub-ia-d-europa-AIfUELOD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-05-31T12:04:00+00:00"
-    },
-    {
-      "titolo": "You can still run the original Nvidia Control Panel by grabbing it from the Microsoft Store today — app remains useful to adjust a handful of RTX Pro and Quadro features, and may be handy for troubleshooting",
-      "descrizione": "The old Nvidia Control Panel is now a separate, optional download, but is it worth grabbing?",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/you-can-still-run-the-original-nvidia-control-panel-by-grabbing-it-from-the-microsoft-store-today-app-remains-useful-to-adjust-a-handful-of-rtx-pro-and-quadro-features-and-may-be-handy-for-troubleshooting",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-31T11:30:00+00:00"
-    },
-    {
-      "titolo": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
-      "descrizione": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
-      "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
+      "titolo": "‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
+      "descrizione": "Sellers of products with names like Boner Bears and DTF have voluntarily recalled their products after testing positive for the active ingredients in Viagra and Cialis.",
+      "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
       "fonte": "WIRED",
-      "data": "2026-05-31T11:01:00+00:00"
+      "data": "2026-06-01T10:30:00+00:00"
     },
     {
-      "titolo": "Your TV's RS-232 port is a versatile automation tool - how to unlock its full potential",
-      "descrizione": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to use it for more advanced programming.",
-      "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
-      "fonte": "Latest news",
-      "data": "2026-05-31T11:00:41+00:00"
-    },
-    {
-      "titolo": "Acer lancia due modelli di occhiali smart con AI e realtà aumentata",
-      "descrizione": "Acer lancia due modelli di occhiali smart basati su realtà aumentata e intelligenza artificiale.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n659984/acer-occhiali-smart-gr0-gi0/",
+      "titolo": "iPhone Ultra, trapela una nuova immagine del \"Dummy\" in colorazione bianca",
+      "descrizione": "Altre conferme rispetto a quanto abbiamo notato nelle scorse settimane.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660053/apple-iphone-ultra-pieghevole-dummy--immagine/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T10:55:00+00:00"
+      "data": "2026-06-01T10:25:00+00:00"
     },
     {
-      "titolo": "Wikipedia, 700 editor minacciano sciopero: ripercussioni su AI e Internet tutta",
-      "descrizione": "Protesta contro il licenziamento del team Community Tech",
-      "link": "https://www.hdblog.it/mercato/articoli/n659907/wikipedia-editor-minacciano-sciopero-ai/",
+      "titolo": "NVIDIA RTX Spark, Huang promette compatibilità totale con le app Windows",
+      "descrizione": "L’ipotesi più naturale è che RTX Spark utilizzi ancora Prism",
+      "link": "https://www.hdblog.it/portatili/articoli/n660047/nvidia-rtx-spark-huang-compatibilita/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T10:25:00+00:00"
+      "data": "2026-06-01T10:10:00+00:00"
     },
     {
-      "titolo": "Un mese con le cuffie ultraleggere da gaming e ufficio: Sony Inzone H6 Air",
-      "descrizione": "Abbiamo provato le nuove cuffie open-back di Sony ultraleggere. Pesano 200 grammi e quasi non si avvertono anche dopo ore di gaming o lavoro. Il microfono cardioide staccabile è la chicca. Prezzo di...",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n659744/sony-inzone-h6-air-test-prezzo-recensione/",
+      "titolo": "Google Home Speaker, forse finalmente ci siamo: lancio il 25 giugno?",
+      "descrizione": "Best Buy Canada indica finalmente una data precisa. Sarà vera?",
+      "link": "https://www.hdblog.it/google/articoli/n660048/google-home-speaker-quando-lancio-data/",
       "fonte": "HDblog.it",
-      "data": "2026-05-31T09:31:00+00:00"
+      "data": "2026-06-01T10:05:00+00:00"
     },
     {
-      "titolo": "How Turkey Hacked the Hair Transplant Industry",
-      "descrizione": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-      "fonte": "WIRED",
-      "data": "2026-05-31T09:00:00+00:00"
+      "titolo": "Ferrari Luce \"elettrizza\" i social: 48 milioni di views in due giorni",
+      "descrizione": "Il lancio della prima Ferrari elettrica nella storia del Cavallino fa registrare visualizzazioni record sui social, ma il sentiment evidenzia una forte polarizzazione tra gli utenti.",
+      "link": "https://www.hdmotori.it/ferrari-luce-elettrizza-social/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T09:30:20+00:00"
+    },
+    {
+      "titolo": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals — broader training data set and second-gen transformer architecture combine for improved image quality",
+      "descrizione": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better output image quality.",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-4-5-ray-reconstruction-update-arrives-in-august-for-better-ray-tracing-visuals-broader-training-data-set-and-second-gen-transformer-architecture-combine-for-improved-image-quality",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T09:30:00+00:00"
+    },
+    {
+      "titolo": "Tutti parlano di Meta, ma Apple vuole rubare clienti a Ray-Ban",
+      "descrizione": "Apple mira al mercato degli occhiali, non solo a quello degli smart glasse. Ecco perché Cupertino guarda a Ray-Ban più che a Meta e Samsung. The post Tutti parlano di Meta, ma Apple vuole rubare clienti a Ray-Ban appeare",
+      "link": "https://www.punto-informatico.it/tutti-parlano-meta-ma-apple-vuole-rubare-clienti-ray-ban/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T09:22:06+00:00"
+    },
+    {
+      "titolo": "Le migliori offerte Belkin su Amazon oggi",
+      "descrizione": "Scopri le migliori offerte firmate Belkin su Amazon solo per oggi: fai una scorpacciata di altissima qualità e risparmio prima che finiscano. The post Le migliori offerte Belkin su Amazon oggi appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/le-migliori-offerte-belkin-su-amazon-oggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T09:19:43+00:00"
+    },
+    {
+      "titolo": "Vivo X Fold 6 è ormai imminente con una batteria incredibile",
+      "descrizione": "Addirittura 7.000 mAh. Mai visti su un pieghevole!",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660041/vivo-x-fold-6-quando-batteria-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T09:15:00+00:00"
+    },
+    {
+      "titolo": "Microsoft Surface Laptop Ultra weilds Nvidia's RTX Spark superchip with 128GB of RAM, 20 Arm CPU cores, and a Blackwell GPU — 15-inch mini-LED PixelSense Ultra display rounds out the powerful package",
+      "descrizione": "Powered by Nvidia's RTX Spark Superchip, the Surface Laptop Ultra features 20 Arm CPU cores, 6,144 CUDA cores, and up to 128GB of unified memory",
+      "link": "https://www.tomshardware.com/laptops/microsoft-surface-laptop-ultra-weilds-nvidias-rtx-spark-superchip-with-128gb-of-ram-20-arm-cpu-cores-and-a-blackwell-gpu-15-inch-mini-led-pixelsense-ultra-display-rounds-out-the-powerful-package",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T09:00:00+00:00"
+    },
+    {
+      "titolo": "Energia extra ovunque con il Power Bank MagSafe Pieghevole di Anker a 23€",
+      "descrizione": "Solo 23€ per avere una fonte di energia extra ovunque grazie al potente e versatile Power Bank MagSafe Pieghevole di Anker in promo su Amazon. The post Energia extra ovunque con il Power Bank MagSafe Pieghevole di Anker",
+      "link": "https://www.punto-informatico.it/energia-extra-ovunque-power-bank-magsafe-pieghevole-anker-23-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T08:54:35+00:00"
+    },
+    {
+      "titolo": "Surface Laptop Ultra: schermo touch mini-LED e RTX Spark",
+      "descrizione": "Il Surface Laptop Ultra è un notebook con schermo touch da 15 pollici, chip NVIDIA RTX Spark e 128 GB di RAM per sviluppatori e creatori di contenuti. The post Surface Laptop Ultra: schermo touch mini-LED e RTX Spark app",
+      "link": "https://www.punto-informatico.it/surface-laptop-ultra-schermo-touch-mini-led-rtx-spark/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T08:50:30+00:00"
+    },
+    {
+      "titolo": "NVIDIA GeForce RTX, tutte le nuove schede e PC annunciati al Computex",
+      "descrizione": "Schede desktop, PC fissi preassemblati, laptop e anche qualche monitor.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660037/nvidia-geforce-rtx-50-computex-novita-schede/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T08:45:00+00:00"
     }
   ]
 }
