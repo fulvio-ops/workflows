@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-05-31T19:41:48.341225+00:00",
+  "last_updated": "2026-06-01T05:17:29.486383+00:00",
   "items": [
+    {
+      "titolo": "Arriva un nuovo canale dedicato alla musica sul digitale terrestre",
+      "descrizione": "Sulla piattaforma digitale terrestre è arrivato un nuovo canale completamente dedicato alla musica: scopri come ottenerlo anche tu. The post Arriva un nuovo canale dedicato alla musica sul digitale terrestre appeared fir",
+      "link": "https://www.punto-informatico.it/arriva-nuovo-canale-dedicato-musica-digitale-terrestre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T05:00:27+00:00"
+    },
+    {
+      "titolo": "Nvidia unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026 – new platform promises to turn Windows into an agentic AI OS with Arm CPU, Blackwell GPU, and 128GB unified memory",
+      "descrizione": "At Computex 2026, Nvidia CEO Jensen Huang unveiled the RTX Spark Superchip, a new Arm laptop and desktop platform that powers agentic AI on Windows with a 20-core Arm CPU, powerful 6144-CUDA-core Blackwell GPU, and up to",
+      "link": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T04:52:13+00:00"
+    },
+    {
+      "titolo": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
+      "descrizione": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s upcoming EPYC Venice",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T03:00:00+00:00"
+    },
+    {
+      "titolo": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 — RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
+      "descrizione": "AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-formerly-china-exclusive-radeon-rx-9070-gre-goes-global-for-usd549-on-june-2-rdna-4-gpu-will-bridge-the-gap-between-rx-9060-xt-and-rx-9070",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T02:00:21+00:00"
+    },
+    {
+      "titolo": "Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
+      "descrizione": "Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T00:21:39+00:00"
+    },
+    {
+      "titolo": "VPN per una estate più sicura e libera: la nuova offerta di NordVPN",
+      "descrizione": "Fino al 77% di sconto sui piani della durata di due anni e quattro mesi extra di servizio in regalo per ciascun piano. The post VPN per una estate più sicura e libera: la nuova offerta di NordVPN appeared first on Punto",
+      "link": "https://www.punto-informatico.it/vpn-estate-sicura-nuova-offerta-nordvpn/",
+      "fonte": "Punto Informatico",
+      "data": "2026-05-31T17:02:57+00:00"
+    },
     {
       "titolo": "Samsung Galaxy Watch 9 sarà anche Classic? Spunta l'indizio",
       "descrizione": "Una mossa inattesa: Samsung cambia strategia?",
@@ -126,48 +168,6 @@
       "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
       "fonte": "WIRED",
       "data": "2026-05-31T09:00:00+00:00"
-    },
-    {
-      "titolo": "Bose SoundTouch: come farlo rinascere con un chip ESP32 dopo lo stop del cloud",
-      "descrizione": "Una soluzione davvero geniale.",
-      "link": "https://www.hdblog.it/hardware/articoli/n659921/bose-soundtouch-hack-esp32-cloud-come-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-31T08:35:00+00:00"
-    },
-    {
-      "titolo": "Mano robotica impara a suonare il pianoforte: ci mette solo due minuti",
-      "descrizione": "Una mano robotica impara a suonare il pianoforte in due metri e apre a nuove terapie mediche.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659960/mano-robotica-pianoforte-medicina/",
-      "fonte": "HDblog.it",
-      "data": "2026-05-31T07:55:00+00:00"
-    },
-    {
-      "titolo": "Iliad GIGA PRIME: non solo tanti giga ma anche 1 anno di Amazon Prime gratis",
-      "descrizione": "Scopri Iliad GIGA PRIME con 300 GB in 5G, minuti illimitati e 12 mesi di Amazon Prime inclusi. L'offerta definitiva per godersi l'estate! The post Iliad GIGA PRIME: non solo tanti giga ma anche 1 anno di Amazon Prime gra",
-      "link": "https://www.punto-informatico.it/iliad-giga-prime-non-solo-tanti-giga-ma-anche-1-anno-di-amazon-prime-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-31T07:47:49+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Band 10 a soli 30€: impermeabile fino a 5ATM e 21gg di autonomia",
-      "descrizione": "La Xiaomi Smart Band 10 è impermeabile fino a 5 ATM, ha 21gg di autonomia, oltre 150 modalità sportive ed è in offerta a soli 30€. The post Xiaomi Smart Band 10 a soli 30€: impermeabile fino a 5ATM e 21gg di autonomia ap",
-      "link": "https://www.punto-informatico.it/xiaomi-smart-band-10-soli-30e-impermeabile-5atm-21gg-autonomia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-31T07:21:40+00:00"
-    },
-    {
-      "titolo": "Primo anno gratis: IONOS è davvero la soluzione migliore per il tuo sito",
-      "descrizione": "Con IONOS puoi costruire un sito professionale in autonomia, senza scrivere codice. Modelli pronti, dominio gratuito il primo anno e supporto 24/7. The post Primo anno gratis: IONOS è davvero la soluzione migliore per il",
-      "link": "https://www.punto-informatico.it/primo-anno-gratis-ionos-e-davvero-la-soluzione-migliore-per-il-tuo-sito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-05-30T19:16:51+00:00"
-    },
-    {
-      "titolo": "California Assembly passes 3D printer bill that would criminalize bypassing mandated gun-blocking software",
-      "descrizione": "California's Assembly has passed AB 2047, the California Firearm Printing Prevention Act, sending the amended bill to the state Senate.",
-      "link": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-30T17:10:16+00:00"
     }
   ]
 }
