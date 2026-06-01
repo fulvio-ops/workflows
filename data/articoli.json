@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-01T12:09:50.157435+00:00",
+  "last_updated": "2026-06-01T18:16:52.350877+00:00",
   "items": [
     {
-      "titolo": "Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant — company claims coolant offers 1,000 times higher electrical impedance over standard cooling",
-      "descrizione": "Supermicro demonstrates upcoming servers based on AMD’s EPYC ‘Venice’ CPUs, MI450 accelerators, and Nvidia’s Vera Rubin-based solutions.",
-      "link": "https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T12:02:07+00:00"
-    },
-    {
-      "titolo": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
-      "descrizione": "The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been using this loophole",
-      "link": "https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T11:32:24+00:00"
-    },
-    {
-      "titolo": "BMW progetta le auto del futuro con l'AI: addio ai vecchi crash test?",
-      "descrizione": "BMW e Mistral AI lanciano i Large Industry Models, un'intelligenza artificiale su misura per rivoluzionare i crash test virtuali grazie a un petabyte di dati.",
-      "link": "https://www.hdmotori.it/bmw-mistral-ai-crash-test-simulazione/",
+      "titolo": "Intel prepara la sua GPU AI: più efficiente ed economica rispetto a NVIDIA e AMD",
+      "descrizione": "Sono pensate per le operazioni di inferenza, non di addestramento, e userà memorie economiche e si potrà raffreddare ad aria.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660107/intel-gpu-ai-inferenza-lpddr5-dissipatore-aria/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T11:30:16+00:00"
+      "data": "2026-06-01T18:05:00+00:00"
     },
     {
-      "titolo": "ASUS ROG Xbox Ally, arriva la versione OLED... ma è una strana edizione limitata",
-      "descrizione": "Si potrà comprare solo in bundle con gli occhiali Xreal R1. Il prezzo del bundle probabilmente sarà stratosferico...",
-      "link": "https://www.hdblog.it/asus/articoli/n660061/asus-computex-xbox-ally-oled-x20-bundle/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T11:25:00+00:00"
+      "titolo": "New PC? This MX Linux version is the best distro for you",
+      "descrizione": "MX Linux has released a version that includes certain features and software that make it a brilliant option for computers that are 1-3 years old.",
+      "link": "https://www.zdnet.com/article/mx-linux-xfce-ahs-might-be-the-best-distribution-for-newer-hardware/",
+      "fonte": "Latest news",
+      "data": "2026-06-01T18:04:28+00:00"
     },
     {
-      "titolo": "Meta, il tool che traccia mouse e app dei dipendenti rischia lo scontro con il GDPR",
-      "descrizione": "Il sistema potrebbe includere anche dati e comunicazioni di dipendenti non statunitensi",
-      "link": "https://www.hdblog.it/business/articoli/n660058/meta-tool-registra-mouse-dipendenti-gdpr/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T11:05:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA DGX Station for Windows: supercomputer sulla scrivania",
-      "descrizione": "DGX Station for Windows è un supercomputer con chip GB300 (CPU Grace e GPU Blackwell Ultra) che può eseguire modelli AI con 1.000 miliardi di parametri. The post NVIDIA DGX Station for Windows: supercomputer sulla scriva",
-      "link": "https://www.punto-informatico.it/nvidia-dgx-station-windows-supercomputer-scrivania/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T10:51:11+00:00"
-    },
-    {
-      "titolo": "Xiaomi sfiderà Samsung con un Privacy Display gestito solo dal software?",
-      "descrizione": "Xiaomi avrebbe in mente un Privacy Display simile a quello di Galaxy S26 Ultra, ma senza hardware dedicato.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660036/xiaomi-privacy-display/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:50:00+00:00"
-    },
-    {
-      "titolo": "I chip ARM N1 e N1X di NVIDIA per laptop stanno arrivando",
-      "descrizione": "Arrivano i chip ARM per laptop N1 e N1X di Nvidia. Lenovo e Dell preparano i primi laptop. Qualcomm perde l'esclusiva su Windows su ARM. The post I chip ARM N1 e N1X di NVIDIA per laptop stanno arrivando appeared first o",
-      "link": "https://www.punto-informatico.it/chip-arm-n1-n1x-nvidia-laptop-stanno-arrivando/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T10:49:23+00:00"
-    },
-    {
-      "titolo": "Nuovi Apple TV e HomePod mini in autunno? Forse questa volta ci siamo",
-      "descrizione": "Ormai li stiamo inseguendo da mesi",
-      "link": "https://www.hdblog.it/apple/articoli/n660049/apple-tv-homepod-mini-nuovo-modello/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:40:00+00:00"
-    },
-    {
-      "titolo": "Tesla, il FSD si espande in Europa: approvato anche in Estonia",
-      "descrizione": "La tecnologia di guida autonoma avanzata, sviluppata da Tesla, è stata approvata in Estonia dopo la recente approvazione nei Paesi Bassi.",
-      "link": "https://www.hdmotori.it/tesla-sistema-avanzato-guida-autonoma-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:30:46+00:00"
-    },
-    {
-      "titolo": "Intel warns it has 'a healthy dose of paranoia' over Nvidia entrance into PC market — company says RTX Spark is 'great for the market' while touting the virtues of x86",
-      "descrizione": "Intel reacts to Nvidia’s RTX Spark announcement, and says that it’s treating the green giant’s entrance into consumer SoCs with “a healthy dose of skepticism.\"",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-warns-it-has-a-healthy-dose-of-paranoia-over-nvidia-entrance-into-pc-market-company-says-rtx-spark-is-great-for-the-market-while-touting-the-virtues-of-x86",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T10:30:00+00:00"
-    },
-    {
-      "titolo": "‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
-      "descrizione": "Sellers of products with names like Boner Bears and DTF have voluntarily recalled their products after testing positive for the active ingredients in Viagra and Cialis.",
-      "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
+      "titolo": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "descrizione": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
       "fonte": "WIRED",
-      "data": "2026-06-01T10:30:00+00:00"
+      "data": "2026-06-01T17:17:58+00:00"
     },
     {
-      "titolo": "iPhone Ultra, trapela una nuova immagine del \"Dummy\" in colorazione bianca",
-      "descrizione": "Altre conferme rispetto a quanto abbiamo notato nelle scorse settimane.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660053/apple-iphone-ultra-pieghevole-dummy--immagine/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:25:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA RTX Spark, Huang promette compatibilità totale con le app Windows",
-      "descrizione": "L’ipotesi più naturale è che RTX Spark utilizzi ancora Prism",
-      "link": "https://www.hdblog.it/portatili/articoli/n660047/nvidia-rtx-spark-huang-compatibilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:10:00+00:00"
-    },
-    {
-      "titolo": "Google Home Speaker, forse finalmente ci siamo: lancio il 25 giugno?",
-      "descrizione": "Best Buy Canada indica finalmente una data precisa. Sarà vera?",
-      "link": "https://www.hdblog.it/google/articoli/n660048/google-home-speaker-quando-lancio-data/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T10:05:00+00:00"
-    },
-    {
-      "titolo": "Ferrari Luce \"elettrizza\" i social: 48 milioni di views in due giorni",
-      "descrizione": "Il lancio della prima Ferrari elettrica nella storia del Cavallino fa registrare visualizzazioni record sui social, ma il sentiment evidenzia una forte polarizzazione tra gli utenti.",
-      "link": "https://www.hdmotori.it/ferrari-luce-elettrizza-social/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T09:30:20+00:00"
-    },
-    {
-      "titolo": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals — broader training data set and second-gen transformer architecture combine for improved image quality",
-      "descrizione": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better output image quality.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-4-5-ray-reconstruction-update-arrives-in-august-for-better-ray-tracing-visuals-broader-training-data-set-and-second-gen-transformer-architecture-combine-for-improved-image-quality",
+      "titolo": "Anthropic files for IPO — Claude maker races OpenAI and SpaceX to Wall Street",
+      "descrizione": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
+      "link": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T09:30:00+00:00"
+      "data": "2026-06-01T17:01:41+00:00"
     },
     {
-      "titolo": "Tutti parlano di Meta, ma Apple vuole rubare clienti a Ray-Ban",
-      "descrizione": "Apple mira al mercato degli occhiali, non solo a quello degli smart glasse. Ecco perché Cupertino guarda a Ray-Ban più che a Meta e Samsung. The post Tutti parlano di Meta, ma Apple vuole rubare clienti a Ray-Ban appeare",
-      "link": "https://www.punto-informatico.it/tutti-parlano-meta-ma-apple-vuole-rubare-clienti-ray-ban/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T09:22:06+00:00"
-    },
-    {
-      "titolo": "Le migliori offerte Belkin su Amazon oggi",
-      "descrizione": "Scopri le migliori offerte firmate Belkin su Amazon solo per oggi: fai una scorpacciata di altissima qualità e risparmio prima che finiscano. The post Le migliori offerte Belkin su Amazon oggi appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/le-migliori-offerte-belkin-su-amazon-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T09:19:43+00:00"
-    },
-    {
-      "titolo": "Vivo X Fold 6 è ormai imminente con una batteria incredibile",
-      "descrizione": "Addirittura 7.000 mAh. Mai visti su un pieghevole!",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660041/vivo-x-fold-6-quando-batteria-specifiche/",
+      "titolo": "Nuovo metodo del MIT permette di estrarre litio a temperatura ambiente",
+      "descrizione": "Scienziati del MIT estraggono litio a temperatura ambiente azzerando i rifiuti minerari.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660016/estrazione-litio-temperatura-ambiente-mit/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T09:15:00+00:00"
+      "data": "2026-06-01T16:55:00+00:00"
     },
     {
-      "titolo": "Microsoft Surface Laptop Ultra weilds Nvidia's RTX Spark superchip with 128GB of RAM, 20 Arm CPU cores, and a Blackwell GPU — 15-inch mini-LED PixelSense Ultra display rounds out the powerful package",
-      "descrizione": "Powered by Nvidia's RTX Spark Superchip, the Surface Laptop Ultra features 20 Arm CPU cores, 6,144 CUDA cores, and up to 128GB of unified memory",
-      "link": "https://www.tomshardware.com/laptops/microsoft-surface-laptop-ultra-weilds-nvidias-rtx-spark-superchip-with-128gb-of-ram-20-arm-cpu-cores-and-a-blackwell-gpu-15-inch-mini-led-pixelsense-ultra-display-rounds-out-the-powerful-package",
+      "titolo": "My top 7 laptop-bag essentials now, after decades of remote work",
+      "descrizione": "Have gear, will travel: Here are the gadgets powering my mobile office this summer.",
+      "link": "https://www.zdnet.com/article/my-tech-laptop-bag-essentials/",
+      "fonte": "Latest news",
+      "data": "2026-06-01T16:29:17+00:00"
+    },
+    {
+      "titolo": "Computex 2026 Day Zero Wrap-Up: Nvidia launches RTX Spark Superchip assault on laptop and desktop markets, Intel readies Xeon 6+",
+      "descrizione": "Here's the best of what was announced during the opening hours of Computex 2026",
+      "link": "https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T09:00:00+00:00"
+      "data": "2026-06-01T16:26:24+00:00"
     },
     {
-      "titolo": "Energia extra ovunque con il Power Bank MagSafe Pieghevole di Anker a 23€",
-      "descrizione": "Solo 23€ per avere una fonte di energia extra ovunque grazie al potente e versatile Power Bank MagSafe Pieghevole di Anker in promo su Amazon. The post Energia extra ovunque con il Power Bank MagSafe Pieghevole di Anker",
-      "link": "https://www.punto-informatico.it/energia-extra-ovunque-power-bank-magsafe-pieghevole-anker-23-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T08:54:35+00:00"
-    },
-    {
-      "titolo": "Surface Laptop Ultra: schermo touch mini-LED e RTX Spark",
-      "descrizione": "Il Surface Laptop Ultra è un notebook con schermo touch da 15 pollici, chip NVIDIA RTX Spark e 128 GB di RAM per sviluppatori e creatori di contenuti. The post Surface Laptop Ultra: schermo touch mini-LED e RTX Spark app",
-      "link": "https://www.punto-informatico.it/surface-laptop-ultra-schermo-touch-mini-led-rtx-spark/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T08:50:30+00:00"
-    },
-    {
-      "titolo": "NVIDIA GeForce RTX, tutte le nuove schede e PC annunciati al Computex",
-      "descrizione": "Schede desktop, PC fissi preassemblati, laptop e anche qualche monitor.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660037/nvidia-geforce-rtx-50-computex-novita-schede/",
+      "titolo": "ASUS Sfida i MacBook Pro con i laptop ProArt basati su NVIDIA RTX Spark",
+      "descrizione": "Macchine estremamente ambiziose che arriveranno quest'autunno. Prezzi ancora ignoti per il momento.",
+      "link": "https://www.hdblog.it/portatili/articoli/n660096/asus-proart-p14-p16-nvidia-rtx-spark-macbook-pro/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T08:45:00+00:00"
+      "data": "2026-06-01T16:25:00+00:00"
+    },
+    {
+      "titolo": "Social vietati ai minori di 15 anni in Italia: la legge è pronta",
+      "descrizione": "Manca solo l'OK del governo",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660068/social-vietati-ai-minori-15-anni-in-italia-legge/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T16:20:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's RTX Spark could caplitalize where Qualcomm's Arm-based efforts have not — following the expiration of Qualcomm's Windows on Arm deal, Nvidia stands poised to pick up the slack",
+      "descrizione": "Nvidia unveiled the RTX Spark superchip on May 31st ahead of its GTC Taipei event, putting a 20-core Arm-based Grace CPU and a Blackwell RTX GPU on a single package.",
+      "link": "https://www.tomshardware.com/laptops/nvidia-enters-the-windows-pc-market-with-rtx-spark",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-01T16:16:28+00:00"
+    },
+    {
+      "titolo": "Xiaomi ha prodotto un condizionatore a pavimento super potente",
+      "descrizione": "Ideale per ambienti molto grandi... E portafogli belli profondi.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n660094/xiaomi-mijia-condizionatore-pavimento-3-cv/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T16:05:00+00:00"
+    },
+    {
+      "titolo": "Brutto incidente al Bergamo Historic Gran Prix: Ferrari si schianta contro un albero",
+      "descrizione": "Guidare una Ferrari d’epoca non è un gioco da ragazzi. Un iconico modello ha fatto una pessima fine al Bergamo Historic Gran Prix",
+      "link": "https://www.hdmotori.it/incidente-bergamo-historic-gran-prix-ferrari/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T16:00:03+00:00"
+    },
+    {
+      "titolo": "Addio zanzare: un dispositivo laser le distrugge in volo",
+      "descrizione": "Un ingegnere usa la visione artificiale e un laser per eliminare ogni zanzara in casa.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660085/laser-ai-sterminio-zanzare/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T15:55:00+00:00"
+    },
+    {
+      "titolo": "7 prompt AI assurdi per la produttività che funzionano davvero",
+      "descrizione": "La produttività non deve essere sempre seria. Sette prompt che usano scenari assurdi per trasformare i compiti in missioni irresistibili. The post 7 prompt AI assurdi per la produttività che funzionano davvero appeared f",
+      "link": "https://www.punto-informatico.it/7-prompt-ai-assurdi-produttivita-funzionano-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T15:30:29+00:00"
+    },
+    {
+      "titolo": "Fonti Ue: «Al lavoro con Anthropic per garantire un accesso sicuro a Mythos»",
+      "descrizione": "La Commissione Europea ha avviato una serie di «incontri proficui» con Anthropic e continuerà a continuare a lavorare per concordare i termini e le condizioni del futuro accesso...",
+      "link": "https://www.ilsole24ore.com/art/fonti-ue-al-lavoro-anthropic-garantire-accesso-sicuro-mythos-AIwdTQPD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-01T15:12:47+00:00"
+    },
+    {
+      "titolo": "Android, il supporto ad Apple AirDrop tramite Quick Share arriva anche su Xiaomi",
+      "descrizione": "Per ora solo su 17T Pro, ma speriamo sia solo il primo di tanti!",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660090/xiaomi-17t-pro-airdrop-supporto-apple-iphone-mac/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T15:05:00+00:00"
+    },
+    {
+      "titolo": "Ritorna un mito balcanico per fronteggiare Dacia con prezzi più economici",
+      "descrizione": "Yugo lancia il guanto di sfida a Dacia con un'utilitaria da soli 12.000 euro. Prototipo su strada già nel 2027",
+      "link": "https://www.hdmotori.it/yugo-ritorno-sfida-dacia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T15:00:28+00:00"
+    },
+    {
+      "titolo": "Poco X8 Pro arriva anche in colorazione Bold Yellow: nuovo colore e nuovo prezzo",
+      "descrizione": "Xiaomi punta a rivitalizzare il suo medio gamma più interessante",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660086/poco-x8-pro-nuovo-colore-bold-yellow/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T14:55:00+00:00"
+    },
+    {
+      "titolo": "L'ascesa dei brand cinesi nel mercato TV: gli storici accordi di Sony e Panasonic | VIDEO",
+      "descrizione": "L'ascesa dei brand cinesi pare inarrestabile anche nel mercato delle televisioni. Capiamo la situazione analizzando i recenti accordi tra Sony-TCL e Panasonic-Skyworth.",
+      "link": "https://www.hdblog.it/tv/articoli/n659796/mercato-tv-sony-tcl-panasonic-skyworth-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T14:31:00+00:00"
+    },
+    {
+      "titolo": "BMW: in arrivo una nuova versione per il SUV iX3",
+      "descrizione": "La Casa bavarese si prepara al lancio dell'iX3 40 con 635 km WLTP, Black Package per M Performance e tante tecnologie all’avanguardia",
+      "link": "https://www.hdmotori.it/bmw-nuova-versione-suv-ix3/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-01T14:30:30+00:00"
+    },
+    {
+      "titolo": "ASUS ROG XBOX Ally X20: console celebrativa con occhiali AR",
+      "descrizione": "ASUS ha svelato la console ROG XBOX Ally X20 che verrà offerta insieme agli occhiali ROG XREAL R1 Edition 20 per celebrare i 20 anni del marchio ROG. The post ASUS ROG XBOX Ally X20: console celebrativa con occhiali AR a",
+      "link": "https://www.punto-informatico.it/asus-rog-xbox-ally-x20-console-celebrativa-occhiali-ar/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T14:28:29+00:00"
+    },
+    {
+      "titolo": "Come vedere Canale 5 in diretta streaming dall’estero",
+      "descrizione": "Guida completa su come guardare Canale 5 (e altri canali Mediaset) in diretta streaming dall'estero grazie all'utilizzo di una VPN. The post Come vedere Canale 5 in diretta streaming dall’estero appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/canale5-diretta-streaming-estero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T14:11:34+00:00"
+    },
+    {
+      "titolo": "Migliori VPN per vedere Sky Go all’estero del 2026",
+      "descrizione": "Sky Go è da anni uno dei servizi più apprezzati del pacchetto Sky. In qualsiasi momento è possibile vedere o rivedere i programmi trasmessi da Sky in diretta utilizzando il PC, lo smartphone o il tablet. Il problema nasc",
+      "link": "https://www.punto-informatico.it/vpn-sky-go-italia-migliore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T14:07:41+00:00"
+    },
+    {
+      "titolo": "Cronologia Wifi: Come Controllare e Cancellare",
+      "descrizione": "Sui moderni modem forniti insieme agli abbonamenti di telefonia fissa e Internet vengono registrati due importanti dati personali: la cronologia di navigazione web e la cronologia dell’attività WiFi. Questi dati vengono",
+      "link": "https://www.punto-informatico.it/cronologia-wifi-router-come-controllare-cancellare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-01T13:58:17+00:00"
     }
   ]
 }

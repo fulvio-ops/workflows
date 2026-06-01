@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-06-01T12:09:53.846222+00:00",
+  "last_updated": "2026-06-01T18:16:55.992493+00:00",
   "items": [
     {
-      "titolo": "Hacker usano i link di condivisione ChatGPT per distribuire malware",
-      "descrizione": "Gli hacker usano le funzioni di condivisione di ChatGPT per ospitare pagine fake su chatgpt.com e distribuire malware. The post Hacker usano i link di condivisione ChatGPT per distribuire malware appeared first on Punto",
-      "link": "https://www.punto-informatico.it/hacker-usano-link-condivisione-chatgpt-distribuire-malware/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T11:14:08+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
-      "descrizione": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
-      "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+      "titolo": "Anthropic files for IPO — Claude maker races OpenAI and SpaceX to Wall Street",
+      "descrizione": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
+      "link": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-05-29T19:48:40+00:00",
-      "modello": "copilot"
+      "data": "2026-06-01T17:01:41+00:00",
+      "modello": "chatgpt"
     },
     {
       "titolo": "I've used Android Auto with Gemini for 2 months now - it's transformed my drives in 4 ways",
@@ -26,20 +18,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "The Vatican’s Man Inside Anthropic",
-      "descrizione": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
-      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "titolo": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "descrizione": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
       "fonte": "WIRED",
-      "data": "2026-05-29T15:00:00+00:00",
+      "data": "2026-06-01T17:17:58+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "BMW progetta le auto del futuro con l'AI: addio ai vecchi crash test?",
-      "descrizione": "BMW e Mistral AI lanciano i Large Industry Models, un'intelligenza artificiale su misura per rivoluzionare i crash test virtuali grazie a un petabyte di dati.",
-      "link": "https://www.hdmotori.it/bmw-mistral-ai-crash-test-simulazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T11:30:16+00:00",
-      "modello": "altri"
     }
   ]
 }
