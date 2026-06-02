@@ -1,19 +1,152 @@
 {
-  "last_updated": "2026-06-02T10:55:41.778248+00:00",
+  "last_updated": "2026-06-02T16:55:52.028866+00:00",
   "items": [
     {
-      "titolo": "SharkNinja lancia la sua prima macchina del caffè automatica: ecco AutoBarista",
-      "descrizione": "899 euro per quello che sulla carta è un prodotto estremamente completo.",
-      "link": "https://www.hdblog.it/home/articoli/n660146/sharkninja-autobarista-prezzo-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T10:45:00+00:00"
+      "titolo": "Microsoft debuts Surface RTX Spark Dev Box — Nvidia-powered mini-PC helps devs get ready for an agentic Windows",
+      "descrizione": "At Microsoft Build, the company debuted its Surface RTX Spark Dev Box, a system for developers to come up with new AI applications.",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/microsoft-debuts-surface-rtx-spark-dev-box-nvidia-powered-mini-pc-helps-devs-get-ready-for-an-agentic-windows",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T16:47:17+00:00"
     },
     {
-      "titolo": "Android 17, arriva la Beta 4.1: ormai la versione stabile è dietro l'angolo",
-      "descrizione": "Scopriamo le novità incluse nell'aggiornamento",
-      "link": "https://www.hdblog.it/google/articoli/n660142/android-17-beta-4-1-novita-aggiornamento/",
+      "titolo": "NordVPN inizia giugno in modo speciale: ecco la nuova offerta",
+      "descrizione": "I piani della durata di due anni beneficiano di uno sconto massimo del 77% e di quattro mesi extra di servizio in regalo. The post NordVPN inizia giugno in modo speciale: ecco la nuova offerta appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/nordvpn-offerta-giugno-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T16:42:11+00:00"
+    },
+    {
+      "titolo": "ASUS, nuovo VivoWatch al Computex: sempre più funzioni healthcare",
+      "descrizione": "Migliorano i materiali, display più grande, e monitoraggio più avanzato.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660169/asus-vivowatch-6-computex-specifiche-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-06-02T10:35:00+00:00"
+      "data": "2026-06-02T16:35:00+00:00"
+    },
+    {
+      "titolo": "Carta di credito gratuita e senza conto corrente collegato con TF Bank",
+      "descrizione": "Inoltre include acquisti senza interessi fino a 55 giorni, pagamenti rateali e un'assicurazione di viaggio completa. The post Carta di credito gratuita e senza conto corrente collegato con TF Bank appeared first on Punto",
+      "link": "https://www.punto-informatico.it/fintech/carte/carta-di-credito-gratuita-senza-conto-tf-bank/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T16:26:41+00:00"
+    },
+    {
+      "titolo": "Partiful Is Putting Ticket Payments on Its Platform",
+      "descrizione": "In the social event planner’s first major move toward monetization, Partiful is getting ticketing directly in the app.",
+      "link": "https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T16:00:00+00:00"
+    },
+    {
+      "titolo": "Forget Amazon - these are the best Costco deals I've found this week",
+      "descrizione": "Prime Day may be coming soon, but Costco already has great discounts live on home essentials, top tech, and more.",
+      "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-02T15:51:40+00:00"
+    },
+    {
+      "titolo": "Clutch è un Forza Horizon con più storia e più personalizzazione delle auto | Trailer",
+      "descrizione": "Un veterano di Playground Games si è messo in testa di raccontare anche una bella storia.",
+      "link": "https://www.hdblog.it/games/articoli/n660165/clutch-arcade-racing-open-world-narrativa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T15:45:00+00:00"
+    },
+    {
+      "titolo": "AMD is considering a potential Ryzen 5 9600X3D — company says six-core Zen 5 X3D chip 'maybe something we look at doing... later this year'",
+      "descrizione": "AMD says that six-core X3D chips don't make sense for a broad market for a number of reasons, but a six-core X3D chip with the Zen 5 architecture is something the company is considering.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-is-considering-a-potential-ryzen-5-9600x3d-company-says-six-core-zen-5-x3d-chip-maybe-something-we-look-at-doing-later-this-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T15:00:00+00:00"
+    },
+    {
+      "titolo": "Galaxy Z Fold 8 \"Wide\" ancora protagonista: rumor su fotocamere, batteria e peso",
+      "descrizione": "L'identikit si fa sempre più completo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660162/samsung-galaxy-z-fold-8-wide-fotocamera-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T14:45:00+00:00"
+    },
+    {
+      "titolo": "Phison shows PCIe 6.0 X3 SSD controller with 28 GB/s of bandwidth and 6.8 million IOPS, supports 2 petabytes per drive— also new power-sipping E37T SSDs for PCIe 5.0 systems consume a mere 4.5W",
+      "descrizione": "Phison's booth at Computex 2026 had its new PCIe 6.0 SSD controller, dubbed the X3, on display, with claims of up to 28 GB/s of sequential throughput and 6.8 million IOPS in random read/write workloads.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/phison-shows-pcie-6-0-x3-ssd-controller-with-28-gb-s-of-bandwidth-and-6-8-million-iops-supports-2-petabytes-per-drive-also-new-power-sipping-e37t-ssds-for-pcie-5-0-systems-consume-a-mere-4-5w",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T13:54:22+00:00"
+    },
+    {
+      "titolo": "La modalità Xbox inizia a comparire su Windows 11",
+      "descrizione": "I PC Windows 11 si trasformano in console grazie alla nuova interfaccia Xbox gestibile da controller.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660159/windows-11-modalita-xbox-pc/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T13:45:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT è pericoloso: denuncia per OpenAI in Florida",
+      "descrizione": "Il Procuratore Generale della Florida ha denunciato OpenAI e Sam Altman per aver nascosto la pericolosità di ChatGPT, dando precedenza ai profitti. The post ChatGPT è pericoloso: denuncia per OpenAI in Florida appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-pericoloso-denuncia-openai-florida/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T13:06:10+00:00"
+    },
+    {
+      "titolo": "Reolink, arrivano due nuove famiglie di videocamere di sorveglianza",
+      "descrizione": "OMVI racchiude le soluzioni più potenti e sofisticate, Power-Efficient invece è per ridurre i consumi.",
+      "link": "https://www.hdblog.it/domotica/articoli/n660152/reolink-omvi-power-efficient-videosorveglianza/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T12:05:00+00:00"
+    },
+    {
+      "titolo": "Le auto più vendute in Italia a maggio 2026: la classifica completa",
+      "descrizione": "Il mercato italiano sta attraversando una fase positiva. A maggio, in base ai dati diffusi dal MIT, le immatricolazioni sono state 150.096",
+      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-maggio-2026-classifica/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T12:00:05+00:00"
+    },
+    {
+      "titolo": "OpenAI copia il mitico Clippy: la novità è dentro Codex",
+      "descrizione": "Nuovi compagni animati guidati dall'AI arrivano su OpenAI Codex per assistere i programmatori.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660125/openai-copia-il-mitico-clippy-la-novita-e-dentro-codex/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T11:45:00+00:00"
+    },
+    {
+      "titolo": "Microsoft rilascia le nuove ISO per le versioni preview di Windows 11",
+      "descrizione": "Arrivano le nuove ISO per le installazioni pulite delle ultime versioni di Windows 11",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660147/microsoft-nuove-iso-windows-11/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T11:35:00+00:00"
+    },
+    {
+      "titolo": "Svelato il team dietro al film di Streets of Rage | Tutti i dettagli",
+      "descrizione": "Grandi novità per il film di Streets of Rage con un nuovo regista e gli sceneggiatori di Sonic.",
+      "link": "https://www.hdblog.it/games/articoli/n660121/streets-of-rage-film-regista-sceneggiatori/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T11:25:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang says Nvidia wants to 'reinvent the single most important tool of humanity' with RTX Spark — Nvidia CEO touts support of 'literally every computer maker in the world' for its agentic AI PC platform",
+      "descrizione": "In a press Q&A held at Computex 2026, Nvidia CEO Jensen Huang discussed why the company is entering the PC market now and its ambitions for the future of computing.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-wants-to-reinvent-the-single-most-important-tool-of-humanity-with-rtx-spark-nvidia-ceo-touts-support-of-literally-every-computer-maker-in-the-world-for-its-agentic-ai-pc-platform",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T11:20:00+00:00"
+    },
+    {
+      "titolo": "La Lancia Montecarlo V6 torna in vita: il render fa sognare i puristi",
+      "descrizione": "Una versione moderna di una Montecarlo potrebbe rilanciare Lancia nel mercato delle supercar con motore rigorosamente termico",
+      "link": "https://www.hdmotori.it/lancia-montecarlo-v6-render/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T11:00:34+00:00"
+    },
+    {
+      "titolo": "Drones to protect undersea cables from Russian sabotage touted in new defense pact — US one of three partners developing new tech to protect $1.8 trillion in daily transactions",
+      "descrizione": "The Australian, UK, and U.S. governments just announced a cooperation to develop new technologies to protect underwater cables. The move comes after recent incidents of damages to undersea cables across the world, as wel",
+      "link": "https://www.tomshardware.com/tech-industry/drones-to-protect-undersea-cables-from-russian-sabotage-touted-in-new-defense-pact-us-one-of-three-partners-developing-new-tech-to-protect-usd1-8-trillion-in-daily-transactions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T11:00:00+00:00"
+    },
+    {
+      "titolo": "Take home Gigabyte's Aero X16 gaming laptop for just $1,389.99 and save $610 — packed with 32GB of RAM and a powerful RTX 5070 GPU",
+      "descrizione": "Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1389.99 in this Best Buy deal.",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/take-home-gigabytes-aero-x16-gaming-laptop-for-just-usd1-389-99-and-save-usd610-packed-with-32gb-of-ram-and-a-powerful-rtx-5070-gpu",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T10:56:16+00:00"
     },
     {
       "titolo": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
@@ -21,27 +154,6 @@
       "link": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
       "fonte": "WIRED",
       "data": "2026-06-02T10:31:00+00:00"
-    },
-    {
-      "titolo": "Queste cover bisognerebbe evitarle in estate: surriscaldano lo smartphone",
-      "descrizione": "Cover e temperatura dello smartphone sono due concetti più collegati di quanto si possa pensare. Ipotizziamo una situazione molto comune con il telefono sotto carica, qualche video aperto,...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660059/cover-surriscaldamento-smartphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T10:25:00+00:00"
-    },
-    {
-      "titolo": "Sony FlexStrike, finalmente prezzi e tempistiche del fight stick per PS5 e PC",
-      "descrizione": "Sappiamo anche quando arriverà e quanto costerà il primo monitor PlayStation, che però almeno inizialmente sarà disponibile solo in USA e Giappone.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660143/sony-flexstrike-playstation-prezzi-quando-monitor/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T10:15:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA RTX Spark, qualche dettaglio tecnico in più su CPU e GPU",
-      "descrizione": "CPU da 20 core, GPU da 6.144 CUDA Core e fino a 128 GB di RAM LPDDR5X unificata.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660137/nvidia-rtx-spark-cpu-gpu-core-cuda-memoria/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T09:45:00+00:00"
     },
     {
       "titolo": "The Trump Administration Is at War With Itself Over AI Regulation",
@@ -56,118 +168,6 @@
       "link": "https://www.punto-informatico.it/centinaia-account-instagram-rubati-aiuto-meta-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-06-02T09:18:06+00:00"
-    },
-    {
-      "titolo": "Samsung non è interessata a Nvidia RTX Spark? I possibili scenari",
-      "descrizione": "Samsung potrebbe non adottare la piattaforma per molto tempo",
-      "link": "https://www.hdblog.it/portatili/articoli/n660130/samsung-rtx-spark-no-portatili-in-arrivo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T09:15:00+00:00"
-    },
-    {
-      "titolo": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
-      "descrizione": "A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public documents show that some institutions ask for these c",
-      "link": "https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-02T09:00:00+00:00"
-    },
-    {
-      "titolo": "Meet the Accidental Editor in Chief of Muslim Media",
-      "descrizione": "Ameer Al-Khatahtbeh was just trying to find an outlet for Muslim news. Now he has more than 12 million followers.",
-      "link": "https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/",
-      "fonte": "WIRED",
-      "data": "2026-06-02T09:00:00+00:00"
-    },
-    {
-      "titolo": "Meta ha in serbo quattro nuovi occhiali smart e un ciondolo AI",
-      "descrizione": "Meta pianifica il lancio di quattro nuovi occhiali smart e un ciondolo acustico entro fine 2026.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660120/occhiali-smart-meta-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T08:55:00+00:00"
-    },
-    {
-      "titolo": "Apple ha rilasciato iOS 26.5.1 per gli iPhone 17 e macOS 26.5.1",
-      "descrizione": "Si tratta di aggiornamenti molto mirati per problemi specifici",
-      "link": "https://www.hdblog.it/apple/articoli/n660127/apple-ios-26-5-1-iphone-17-macos-26-5-1/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T08:25:00+00:00"
-    },
-    {
-      "titolo": "GTA 6, gli sviluppatori di Rockstar formano un sindacato: è scontro sui licenziamenti",
-      "descrizione": "Continua la tensione interna mentre GTA 6 si avvicina.",
-      "link": "https://www.hdblog.it/games/articoli/n660114/gta-6-sindacato-rockstar-game-workers-union-rgwu/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T08:15:00+00:00"
-    },
-    {
-      "titolo": "MSI Prestige N16 Flip AI+, ecco il primo convertibile con NVIDIA RTX Spark",
-      "descrizione": "Dispositivo super prestigioso e di fascia top, con ben 99,9 Wh di batteria e display Tandem OLED.",
-      "link": "https://www.hdblog.it/portatili/articoli/n660131/msi-prestige-n16-flip-ai-nvidia-rtx-spark/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T08:05:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S26: prestazioni, AI e autonomia per un acquisto senza rimpianti",
-      "descrizione": "Il Samsung Galaxy S26 garantisce prestazioni eccellenti, un'ottima gestione dell'AI, un'autonomia interessante e ora un prezzo fantastico. The post Samsung Galaxy S26: prestazioni, AI e autonomia per un acquisto senza ri",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s26-prestazioni-ai-autonomia-per-acquisto-senza-rimpianti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T08:02:59+00:00"
-    },
-    {
-      "titolo": "Sfida stellare a Wall Street, anche Anthropic si quota in borsa",
-      "descrizione": "Anthropic avvia i piani segreti per la quotazione in borsa e punta a mille miliardi di dollari.",
-      "link": "https://www.hdblog.it/mercato/articoli/n660116/anthropic-quotazione-borsa-wall-street/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T07:55:00+00:00"
-    },
-    {
-      "titolo": "30 ore per volare dall'Italia agli USA: la rotta intercontinentale più assurda",
-      "descrizione": "Se non è un record poco ci manca.",
-      "link": "https://www.hdblog.it/green/articoli/n660060/volo-italia-usa-30-ore-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T07:40:00+00:00"
-    },
-    {
-      "titolo": "Due BOMBE Apple a prezzo stracciato oggi su Amazon da acquistare subito",
-      "descrizione": "Abbiamo scoperto due articoli firmati Apple in offerta a prezzo stracciato proprio oggi su Amazon da acquistare subito, prima che finiscano. The post Due BOMBE Apple a prezzo stracciato oggi su Amazon da acquistare subit",
-      "link": "https://www.punto-informatico.it/due-bombe-apple-a-prezzo-stracciato-oggi-su-amazon-da-acquistare-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T06:18:39+00:00"
-    },
-    {
-      "titolo": "Viaggia senza brutte sorprese: bilancia per valigie in sconto su Haul",
-      "descrizione": "Evita le brutte sorprese in aeroporto: questa bilancia elettronica portatile con display ti dice esattamente quanto pesano le tue valigie. The post Viaggia senza brutte sorprese: bilancia per valigie in sconto su Haul ap",
-      "link": "https://www.punto-informatico.it/viaggia-senza-brutte-sorprese-bilancia-valigie-sconto-haul/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T06:05:05+00:00"
-    },
-    {
-      "titolo": "TotalAV in offerta: proteggi i tuoi dispositivi e risparmia fino all’80%",
-      "descrizione": "Scopri TotalAV, la suite di sicurezza che protegge PC, smartphone e tablet da virus, malware e phishing. Approfitta degli sconti fino all'80%. The post TotalAV in offerta: proteggi i tuoi dispositivi e risparmia fino all",
-      "link": "https://www.punto-informatico.it/totalav-in-offerta-proteggi-i-tuoi-dispositivi-e-risparmia-fino-all80/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T06:00:02+00:00"
-    },
-    {
-      "titolo": "Asus scommette sugli agenti AI: il futuro del PC passa dall’intelligenza artificiale",
-      "descrizione": "Al Computex 2026 il colosso taiwanese celebra i vent’anni di ROG, presenta l’assistente Zenni Claw e rilancia la sfida dell’intelligenza artificiale integrata nei dispositivi",
-      "link": "https://www.ilsole24ore.com/art/asus-scommette-agenti-ai-futuro-pc-passa-dall-intelligenza-artificiale-AIh2wkOD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-02T05:23:00+00:00"
-    },
-    {
-      "titolo": "Amazon Prime Day: annunciate le date dell’evento e tutte le novità",
-      "descrizione": "Amazon ha annunciato ufficialmente le date del Prime Day: tantissimi prodotti in sconto e incredibili novità durante tutto l'evento. The post Amazon Prime Day: annunciate le date dell’evento e tutte le novità appeared fi",
-      "link": "https://www.punto-informatico.it/amazon-prime-day-annunciate-date-evento-tutte-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T05:01:31+00:00"
-    },
-    {
-      "titolo": "Office Depot Coupons: Save With Promo Codes in June 2026",
-      "descrizione": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "fonte": "WIRED",
-      "data": "2026-06-02T05:00:00+00:00"
     }
   ]
 }
