@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-02T05:01:14.077951+00:00",
+  "last_updated": "2026-06-02T10:55:41.778248+00:00",
   "items": [
     {
-      "titolo": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
-      "descrizione": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
-      "link": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
-      "fonte": "Latest news",
-      "data": "2026-06-02T00:44:00+00:00"
-    },
-    {
-      "titolo": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
-      "descrizione": "Sony recently announced the new Bravia 9 II True RGB TV. Is it worth upgrading from the older Bravia 9 Mini LED? I break down the differences.",
-      "link": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
-      "fonte": "Latest news",
-      "data": "2026-06-02T00:23:00+00:00"
-    },
-    {
-      "titolo": "This $4 router reboot timer is the cheap internet fix I didn't know I needed - and it works reliably",
-      "descrizione": "I've tried so many methods to reboot my router, but the best solution costs less than a cup of Joe.",
-      "link": "https://www.zdnet.com/article/router-rebooter-review/",
-      "fonte": "Latest news",
-      "data": "2026-06-01T18:50:00+00:00"
-    },
-    {
-      "titolo": "Intel prepara la sua GPU AI: più efficiente ed economica rispetto a NVIDIA e AMD",
-      "descrizione": "Sono pensate per le operazioni di inferenza, non di addestramento, e userà memorie economiche e si potrà raffreddare ad aria.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660107/intel-gpu-ai-inferenza-lpddr5-dissipatore-aria/",
+      "titolo": "SharkNinja lancia la sua prima macchina del caffè automatica: ecco AutoBarista",
+      "descrizione": "899 euro per quello che sulla carta è un prodotto estremamente completo.",
+      "link": "https://www.hdblog.it/home/articoli/n660146/sharkninja-autobarista-prezzo-specifiche/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T18:05:00+00:00"
+      "data": "2026-06-02T10:45:00+00:00"
     },
     {
-      "titolo": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "descrizione": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "titolo": "Android 17, arriva la Beta 4.1: ormai la versione stabile è dietro l'angolo",
+      "descrizione": "Scopriamo le novità incluse nell'aggiornamento",
+      "link": "https://www.hdblog.it/google/articoli/n660142/android-17-beta-4-1-novita-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T10:35:00+00:00"
+    },
+    {
+      "titolo": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
+      "descrizione": "The air purifier giant’s P50 pedestal fan is whisper-quiet and surprisingly versatile, even if its built-in voice assistant feels stuck in beta.",
+      "link": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
       "fonte": "WIRED",
-      "data": "2026-06-01T17:17:58+00:00"
+      "data": "2026-06-02T10:31:00+00:00"
     },
     {
-      "titolo": "Anthropic files for IPO — Claude maker races OpenAI and SpaceX to Wall Street",
-      "descrizione": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T17:01:41+00:00"
-    },
-    {
-      "titolo": "Nuovo metodo del MIT permette di estrarre litio a temperatura ambiente",
-      "descrizione": "Scienziati del MIT estraggono litio a temperatura ambiente azzerando i rifiuti minerari.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660016/estrazione-litio-temperatura-ambiente-mit/",
+      "titolo": "Queste cover bisognerebbe evitarle in estate: surriscaldano lo smartphone",
+      "descrizione": "Cover e temperatura dello smartphone sono due concetti più collegati di quanto si possa pensare. Ipotizziamo una situazione molto comune con il telefono sotto carica, qualche video aperto,...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660059/cover-surriscaldamento-smartphone/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T16:55:00+00:00"
+      "data": "2026-06-02T10:25:00+00:00"
     },
     {
-      "titolo": "My top 7 laptop-bag essentials now, after decades of remote work",
-      "descrizione": "Have gear, will travel: Here are the gadgets powering my mobile office this summer.",
-      "link": "https://www.zdnet.com/article/my-tech-laptop-bag-essentials/",
-      "fonte": "Latest news",
-      "data": "2026-06-01T16:29:17+00:00"
-    },
-    {
-      "titolo": "Computex 2026 Day Zero Wrap-Up: Nvidia launches RTX Spark Superchip assault on laptop and desktop markets, Intel readies Xeon 6+",
-      "descrizione": "Here's the best of what was announced during the opening hours of Computex 2026",
-      "link": "https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T16:26:24+00:00"
-    },
-    {
-      "titolo": "ASUS Sfida i MacBook Pro con i laptop ProArt basati su NVIDIA RTX Spark",
-      "descrizione": "Macchine estremamente ambiziose che arriveranno quest'autunno. Prezzi ancora ignoti per il momento.",
-      "link": "https://www.hdblog.it/portatili/articoli/n660096/asus-proart-p14-p16-nvidia-rtx-spark-macbook-pro/",
+      "titolo": "Sony FlexStrike, finalmente prezzi e tempistiche del fight stick per PS5 e PC",
+      "descrizione": "Sappiamo anche quando arriverà e quanto costerà il primo monitor PlayStation, che però almeno inizialmente sarà disponibile solo in USA e Giappone.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660143/sony-flexstrike-playstation-prezzi-quando-monitor/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T16:25:00+00:00"
+      "data": "2026-06-02T10:15:00+00:00"
     },
     {
-      "titolo": "Social vietati ai minori di 15 anni in Italia: la legge è pronta",
-      "descrizione": "Manca solo l'OK del governo",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660068/social-vietati-ai-minori-15-anni-in-italia-legge/",
+      "titolo": "NVIDIA RTX Spark, qualche dettaglio tecnico in più su CPU e GPU",
+      "descrizione": "CPU da 20 core, GPU da 6.144 CUDA Core e fino a 128 GB di RAM LPDDR5X unificata.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660137/nvidia-rtx-spark-cpu-gpu-core-cuda-memoria/",
       "fonte": "HDblog.it",
-      "data": "2026-06-01T16:20:00+00:00"
+      "data": "2026-06-02T09:45:00+00:00"
     },
     {
-      "titolo": "Nvidia's RTX Spark could caplitalize where Qualcomm's Arm-based efforts have not — following the expiration of Qualcomm's Windows on Arm deal, Nvidia stands poised to pick up the slack",
-      "descrizione": "Nvidia unveiled the RTX Spark superchip on May 31st ahead of its GTC Taipei event, putting a 20-core Arm-based Grace CPU and a Blackwell RTX GPU on a single package.",
-      "link": "https://www.tomshardware.com/laptops/nvidia-enters-the-windows-pc-market-with-rtx-spark",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T16:16:28+00:00"
+      "titolo": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "descrizione": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+      "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T09:30:00+00:00"
     },
     {
-      "titolo": "Xiaomi ha prodotto un condizionatore a pavimento super potente",
-      "descrizione": "Ideale per ambienti molto grandi... E portafogli belli profondi.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660094/xiaomi-mijia-condizionatore-pavimento-3-cv/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T16:05:00+00:00"
-    },
-    {
-      "titolo": "Brutto incidente al Bergamo Historic Gran Prix: Ferrari si schianta contro un albero",
-      "descrizione": "Guidare una Ferrari d’epoca non è un gioco da ragazzi. Un iconico modello ha fatto una pessima fine al Bergamo Historic Gran Prix",
-      "link": "https://www.hdmotori.it/incidente-bergamo-historic-gran-prix-ferrari/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T16:00:03+00:00"
-    },
-    {
-      "titolo": "Addio zanzare: un dispositivo laser le distrugge in volo",
-      "descrizione": "Un ingegnere usa la visione artificiale e un laser per eliminare ogni zanzara in casa.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660085/laser-ai-sterminio-zanzare/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T15:55:00+00:00"
-    },
-    {
-      "titolo": "7 prompt AI assurdi per la produttività che funzionano davvero",
-      "descrizione": "La produttività non deve essere sempre seria. Sette prompt che usano scenari assurdi per trasformare i compiti in missioni irresistibili. The post 7 prompt AI assurdi per la produttività che funzionano davvero appeared f",
-      "link": "https://www.punto-informatico.it/7-prompt-ai-assurdi-produttivita-funzionano-davvero/",
+      "titolo": "Centinaia di account Instagram rubati con l’aiuto di Meta AI",
+      "descrizione": "Una grave vulnerabilità ha permesso di rubare centinaia di account Instagram sfruttando Meta AI per ottenere il link di reset della password. The post Centinaia di account Instagram rubati con l’aiuto di Meta AI appeared",
+      "link": "https://www.punto-informatico.it/centinaia-account-instagram-rubati-aiuto-meta-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-01T15:30:29+00:00"
+      "data": "2026-06-02T09:18:06+00:00"
     },
     {
-      "titolo": "Fonti Ue: «Al lavoro con Anthropic per garantire un accesso sicuro a Mythos»",
-      "descrizione": "La Commissione Europea ha avviato una serie di «incontri proficui» con Anthropic e continuerà a continuare a lavorare per concordare i termini e le condizioni del futuro accesso...",
-      "link": "https://www.ilsole24ore.com/art/fonti-ue-al-lavoro-anthropic-garantire-accesso-sicuro-mythos-AIwdTQPD",
+      "titolo": "Samsung non è interessata a Nvidia RTX Spark? I possibili scenari",
+      "descrizione": "Samsung potrebbe non adottare la piattaforma per molto tempo",
+      "link": "https://www.hdblog.it/portatili/articoli/n660130/samsung-rtx-spark-no-portatili-in-arrivo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T09:15:00+00:00"
+    },
+    {
+      "titolo": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
+      "descrizione": "A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public documents show that some institutions ask for these c",
+      "link": "https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T09:00:00+00:00"
+    },
+    {
+      "titolo": "Meet the Accidental Editor in Chief of Muslim Media",
+      "descrizione": "Ameer Al-Khatahtbeh was just trying to find an outlet for Muslim news. Now he has more than 12 million followers.",
+      "link": "https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T09:00:00+00:00"
+    },
+    {
+      "titolo": "Meta ha in serbo quattro nuovi occhiali smart e un ciondolo AI",
+      "descrizione": "Meta pianifica il lancio di quattro nuovi occhiali smart e un ciondolo acustico entro fine 2026.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660120/occhiali-smart-meta-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T08:55:00+00:00"
+    },
+    {
+      "titolo": "Apple ha rilasciato iOS 26.5.1 per gli iPhone 17 e macOS 26.5.1",
+      "descrizione": "Si tratta di aggiornamenti molto mirati per problemi specifici",
+      "link": "https://www.hdblog.it/apple/articoli/n660127/apple-ios-26-5-1-iphone-17-macos-26-5-1/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T08:25:00+00:00"
+    },
+    {
+      "titolo": "GTA 6, gli sviluppatori di Rockstar formano un sindacato: è scontro sui licenziamenti",
+      "descrizione": "Continua la tensione interna mentre GTA 6 si avvicina.",
+      "link": "https://www.hdblog.it/games/articoli/n660114/gta-6-sindacato-rockstar-game-workers-union-rgwu/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T08:15:00+00:00"
+    },
+    {
+      "titolo": "MSI Prestige N16 Flip AI+, ecco il primo convertibile con NVIDIA RTX Spark",
+      "descrizione": "Dispositivo super prestigioso e di fascia top, con ben 99,9 Wh di batteria e display Tandem OLED.",
+      "link": "https://www.hdblog.it/portatili/articoli/n660131/msi-prestige-n16-flip-ai-nvidia-rtx-spark/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T08:05:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S26: prestazioni, AI e autonomia per un acquisto senza rimpianti",
+      "descrizione": "Il Samsung Galaxy S26 garantisce prestazioni eccellenti, un'ottima gestione dell'AI, un'autonomia interessante e ora un prezzo fantastico. The post Samsung Galaxy S26: prestazioni, AI e autonomia per un acquisto senza ri",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-s26-prestazioni-ai-autonomia-per-acquisto-senza-rimpianti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T08:02:59+00:00"
+    },
+    {
+      "titolo": "Sfida stellare a Wall Street, anche Anthropic si quota in borsa",
+      "descrizione": "Anthropic avvia i piani segreti per la quotazione in borsa e punta a mille miliardi di dollari.",
+      "link": "https://www.hdblog.it/mercato/articoli/n660116/anthropic-quotazione-borsa-wall-street/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T07:55:00+00:00"
+    },
+    {
+      "titolo": "30 ore per volare dall'Italia agli USA: la rotta intercontinentale più assurda",
+      "descrizione": "Se non è un record poco ci manca.",
+      "link": "https://www.hdblog.it/green/articoli/n660060/volo-italia-usa-30-ore-perche/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T07:40:00+00:00"
+    },
+    {
+      "titolo": "Due BOMBE Apple a prezzo stracciato oggi su Amazon da acquistare subito",
+      "descrizione": "Abbiamo scoperto due articoli firmati Apple in offerta a prezzo stracciato proprio oggi su Amazon da acquistare subito, prima che finiscano. The post Due BOMBE Apple a prezzo stracciato oggi su Amazon da acquistare subit",
+      "link": "https://www.punto-informatico.it/due-bombe-apple-a-prezzo-stracciato-oggi-su-amazon-da-acquistare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T06:18:39+00:00"
+    },
+    {
+      "titolo": "Viaggia senza brutte sorprese: bilancia per valigie in sconto su Haul",
+      "descrizione": "Evita le brutte sorprese in aeroporto: questa bilancia elettronica portatile con display ti dice esattamente quanto pesano le tue valigie. The post Viaggia senza brutte sorprese: bilancia per valigie in sconto su Haul ap",
+      "link": "https://www.punto-informatico.it/viaggia-senza-brutte-sorprese-bilancia-valigie-sconto-haul/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T06:05:05+00:00"
+    },
+    {
+      "titolo": "TotalAV in offerta: proteggi i tuoi dispositivi e risparmia fino all’80%",
+      "descrizione": "Scopri TotalAV, la suite di sicurezza che protegge PC, smartphone e tablet da virus, malware e phishing. Approfitta degli sconti fino all'80%. The post TotalAV in offerta: proteggi i tuoi dispositivi e risparmia fino all",
+      "link": "https://www.punto-informatico.it/totalav-in-offerta-proteggi-i-tuoi-dispositivi-e-risparmia-fino-all80/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T06:00:02+00:00"
+    },
+    {
+      "titolo": "Asus scommette sugli agenti AI: il futuro del PC passa dall’intelligenza artificiale",
+      "descrizione": "Al Computex 2026 il colosso taiwanese celebra i vent’anni di ROG, presenta l’assistente Zenni Claw e rilancia la sfida dell’intelligenza artificiale integrata nei dispositivi",
+      "link": "https://www.ilsole24ore.com/art/asus-scommette-agenti-ai-futuro-pc-passa-dall-intelligenza-artificiale-AIh2wkOD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-01T15:12:47+00:00"
+      "data": "2026-06-02T05:23:00+00:00"
     },
     {
-      "titolo": "Android, il supporto ad Apple AirDrop tramite Quick Share arriva anche su Xiaomi",
-      "descrizione": "Per ora solo su 17T Pro, ma speriamo sia solo il primo di tanti!",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660090/xiaomi-17t-pro-airdrop-supporto-apple-iphone-mac/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T15:05:00+00:00"
-    },
-    {
-      "titolo": "Ritorna un mito balcanico per fronteggiare Dacia con prezzi più economici",
-      "descrizione": "Yugo lancia il guanto di sfida a Dacia con un'utilitaria da soli 12.000 euro. Prototipo su strada già nel 2027",
-      "link": "https://www.hdmotori.it/yugo-ritorno-sfida-dacia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T15:00:28+00:00"
-    },
-    {
-      "titolo": "Poco X8 Pro arriva anche in colorazione Bold Yellow: nuovo colore e nuovo prezzo",
-      "descrizione": "Xiaomi punta a rivitalizzare il suo medio gamma più interessante",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660086/poco-x8-pro-nuovo-colore-bold-yellow/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-01T14:55:00+00:00"
-    },
-    {
-      "titolo": "ASUS ROG XBOX Ally X20: console celebrativa con occhiali AR",
-      "descrizione": "ASUS ha svelato la console ROG XBOX Ally X20 che verrà offerta insieme agli occhiali ROG XREAL R1 Edition 20 per celebrare i 20 anni del marchio ROG. The post ASUS ROG XBOX Ally X20: console celebrativa con occhiali AR a",
-      "link": "https://www.punto-informatico.it/asus-rog-xbox-ally-x20-console-celebrativa-occhiali-ar/",
+      "titolo": "Amazon Prime Day: annunciate le date dell’evento e tutte le novità",
+      "descrizione": "Amazon ha annunciato ufficialmente le date del Prime Day: tantissimi prodotti in sconto e incredibili novità durante tutto l'evento. The post Amazon Prime Day: annunciate le date dell’evento e tutte le novità appeared fi",
+      "link": "https://www.punto-informatico.it/amazon-prime-day-annunciate-date-evento-tutte-novita/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-01T14:28:29+00:00"
+      "data": "2026-06-02T05:01:31+00:00"
     },
     {
-      "titolo": "Come vedere Canale 5 in diretta streaming dall’estero",
-      "descrizione": "Guida completa su come guardare Canale 5 (e altri canali Mediaset) in diretta streaming dall'estero grazie all'utilizzo di una VPN. The post Come vedere Canale 5 in diretta streaming dall’estero appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/canale5-diretta-streaming-estero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T14:11:34+00:00"
-    },
-    {
-      "titolo": "Migliori VPN per vedere Sky Go all’estero del 2026",
-      "descrizione": "Sky Go è da anni uno dei servizi più apprezzati del pacchetto Sky. In qualsiasi momento è possibile vedere o rivedere i programmi trasmessi da Sky in diretta utilizzando il PC, lo smartphone o il tablet. Il problema nasc",
-      "link": "https://www.punto-informatico.it/vpn-sky-go-italia-migliore/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T14:07:41+00:00"
-    },
-    {
-      "titolo": "Cronologia Wifi: Come Controllare e Cancellare",
-      "descrizione": "Sui moderni modem forniti insieme agli abbonamenti di telefonia fissa e Internet vengono registrati due importanti dati personali: la cronologia di navigazione web e la cronologia dell’attività WiFi. Questi dati vengono",
-      "link": "https://www.punto-informatico.it/cronologia-wifi-router-come-controllare-cancellare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-01T13:58:17+00:00"
+      "titolo": "Office Depot Coupons: Save With Promo Codes in June 2026",
+      "descrizione": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "link": "https://www.wired.com/story/office-depot-promo-codes/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T05:00:00+00:00"
     }
   ]
 }

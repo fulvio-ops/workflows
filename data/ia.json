@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-02T05:01:18.325878+00:00",
+  "last_updated": "2026-06-02T10:55:44.766250+00:00",
   "items": [
     {
-      "titolo": "Anthropic files for IPO — Claude maker races OpenAI and SpaceX to Wall Street",
-      "descrizione": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-01T17:01:41+00:00",
+      "titolo": "Alphabet vuole raccogliere 80 miliardi di dollari: servono per le infrastrutture AI",
+      "descrizione": "Alphabet è pronta a raccogliere i capitali per finanziare la costruzione delle sue prossime infrastrutture AI",
+      "link": "https://www.hdblog.it/google/articoli/n660145/alphabet-raccolta-80-miliardi-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T10:55:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "descrizione": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "fonte": "WIRED",
-      "data": "2026-06-01T17:17:58+00:00",
+      "titolo": "Anthropic prepara l’IPO e offre Claude Mythos all’UE",
+      "descrizione": "Anthropic ha presentato la documentazione relativa alla quotazione in Borsa e approvato la richiesta di accesso a Claude Mythos della ENISA. The post Anthropic prepara l’IPO e offre Claude Mythos all’UE appeared first on",
+      "link": "https://www.punto-informatico.it/anthropic-prepara-ipo-offre-claude-mythos-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T10:24:52+00:00",
       "modello": "claude"
     }
   ]
