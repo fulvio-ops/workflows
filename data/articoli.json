@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-06-02T16:55:52.028866+00:00",
+  "last_updated": "2026-06-02T21:24:33.710021+00:00",
   "items": [
+    {
+      "titolo": "Intel addresses Arrow Lake blunder: 'We needed to build back our reputation' — says Arrow Lake Refresh's low price a key first step, laying the groundwork for Nova Lake",
+      "descrizione": "Intel knows that Arrow Lake dealt a blow to its reputation among enthusiasts. Arrow Lake Refresh was an effort to correct that issue, laying the groundwork for Nova Lake later this year.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-addresses-arrow-lake-blunder-we-needed-to-build-back-our-reputation-says-arrow-lake-refreshs-low-price-a-key-first-step-laying-the-groundwork-for-nova-lake",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T20:00:00+00:00"
+    },
+    {
+      "titolo": "Microsoft announces Majorana 2 quantum computing chip — claims a practical machine will come in 2029",
+      "descrizione": "Microsoft's Majorana 2 quantum computing chip switches to lead-based materials. Microsoft is accelerating its roadmap and expects a practical machine in 2029.",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/microsoft-announces-majorana-2-quantum-computing-chip-claims-a-practical-machine-will-come-in-2029",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-02T19:37:59+00:00"
+    },
+    {
+      "titolo": "Build 2026: Microsoft's MDASH exits preview with 100+ specialized threat-hunting AI agents",
+      "descrizione": "Microsoft's Build 2026 security news centers on an agentic AI vulnerability system designed to find real exploitable flaws, connect them to Defender and GitHub, and help developers fix them faster.",
+      "link": "https://www.zdnet.com/article/build-2026-mdash-security-ai-agents/",
+      "fonte": "Latest news",
+      "data": "2026-06-02T19:00:04+00:00"
+    },
+    {
+      "titolo": "4 Nvidia RTX Spark laptops I'm most excited to try - including Microsoft's new Ultra",
+      "descrizione": "Nvidia just announced its new RTX Spark CPU on models from all the major PC brands. These four look the most interesting.",
+      "link": "https://www.zdnet.com/article/all-the-new-pcs-powered-by-nvidias-new-n1x-cpu/",
+      "fonte": "Latest news",
+      "data": "2026-06-02T18:24:00+00:00"
+    },
+    {
+      "titolo": "Surface RTX Spark Dev Box: mini PC per lo sviluppo AI",
+      "descrizione": "Surface RTX Spark Dev Box è un mini PC con chip NVIDIA RTX Spark che permette lo sviluppo AI locale con Windows 11 Pro e numerosi tool. The post Surface RTX Spark Dev Box: mini PC per lo sviluppo AI appeared first on Pun",
+      "link": "https://www.punto-informatico.it/surface-rtx-spark-dev-box-mini-pc-sviluppo-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-02T18:22:21+00:00"
+    },
+    {
+      "titolo": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
+      "descrizione": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
+      "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T18:00:00+00:00"
+    },
+    {
+      "titolo": "Microsoft, ecco il primo miniPC Surface: un dev kit basato su NVIDIA RTX Spark",
+      "descrizione": "Per ora non sappiamo quanto costerà né quando arriverà, ma è molto probabile che sarà parecchio caro.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660176/microsoft-surface-rtx-spark-dev-box-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-02T17:45:00+00:00"
+    },
     {
       "titolo": "Microsoft debuts Surface RTX Spark Dev Box — Nvidia-powered mini-PC helps devs get ready for an agentic Windows",
       "descrizione": "At Microsoft Build, the company debuted its Surface RTX Spark Dev Box, a system for developers to come up with new AI applications.",
@@ -114,60 +163,11 @@
       "data": "2026-06-02T11:35:00+00:00"
     },
     {
-      "titolo": "Svelato il team dietro al film di Streets of Rage | Tutti i dettagli",
-      "descrizione": "Grandi novità per il film di Streets of Rage con un nuovo regista e gli sceneggiatori di Sonic.",
-      "link": "https://www.hdblog.it/games/articoli/n660121/streets-of-rage-film-regista-sceneggiatori/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T11:25:00+00:00"
-    },
-    {
       "titolo": "Jensen Huang says Nvidia wants to 'reinvent the single most important tool of humanity' with RTX Spark — Nvidia CEO touts support of 'literally every computer maker in the world' for its agentic AI PC platform",
       "descrizione": "In a press Q&A held at Computex 2026, Nvidia CEO Jensen Huang discussed why the company is entering the PC market now and its ambitions for the future of computing.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-wants-to-reinvent-the-single-most-important-tool-of-humanity-with-rtx-spark-nvidia-ceo-touts-support-of-literally-every-computer-maker-in-the-world-for-its-agentic-ai-pc-platform",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-02T11:20:00+00:00"
-    },
-    {
-      "titolo": "La Lancia Montecarlo V6 torna in vita: il render fa sognare i puristi",
-      "descrizione": "Una versione moderna di una Montecarlo potrebbe rilanciare Lancia nel mercato delle supercar con motore rigorosamente termico",
-      "link": "https://www.hdmotori.it/lancia-montecarlo-v6-render/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T11:00:34+00:00"
-    },
-    {
-      "titolo": "Drones to protect undersea cables from Russian sabotage touted in new defense pact — US one of three partners developing new tech to protect $1.8 trillion in daily transactions",
-      "descrizione": "The Australian, UK, and U.S. governments just announced a cooperation to develop new technologies to protect underwater cables. The move comes after recent incidents of damages to undersea cables across the world, as wel",
-      "link": "https://www.tomshardware.com/tech-industry/drones-to-protect-undersea-cables-from-russian-sabotage-touted-in-new-defense-pact-us-one-of-three-partners-developing-new-tech-to-protect-usd1-8-trillion-in-daily-transactions",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-02T11:00:00+00:00"
-    },
-    {
-      "titolo": "Take home Gigabyte's Aero X16 gaming laptop for just $1,389.99 and save $610 — packed with 32GB of RAM and a powerful RTX 5070 GPU",
-      "descrizione": "Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1389.99 in this Best Buy deal.",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/take-home-gigabytes-aero-x16-gaming-laptop-for-just-usd1-389-99-and-save-usd610-packed-with-32gb-of-ram-and-a-powerful-rtx-5070-gpu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-02T10:56:16+00:00"
-    },
-    {
-      "titolo": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
-      "descrizione": "The air purifier giant’s P50 pedestal fan is whisper-quiet and surprisingly versatile, even if its built-in voice assistant feels stuck in beta.",
-      "link": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
-      "fonte": "WIRED",
-      "data": "2026-06-02T10:31:00+00:00"
-    },
-    {
-      "titolo": "The Trump Administration Is at War With Itself Over AI Regulation",
-      "descrizione": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
-      "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
-      "fonte": "WIRED",
-      "data": "2026-06-02T09:30:00+00:00"
-    },
-    {
-      "titolo": "Centinaia di account Instagram rubati con l’aiuto di Meta AI",
-      "descrizione": "Una grave vulnerabilità ha permesso di rubare centinaia di account Instagram sfruttando Meta AI per ottenere il link di reset della password. The post Centinaia di account Instagram rubati con l’aiuto di Meta AI appeared",
-      "link": "https://www.punto-informatico.it/centinaia-account-instagram-rubati-aiuto-meta-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-02T09:18:06+00:00"
     }
   ]
 }
