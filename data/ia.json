@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-06-03T05:18:44.331468+00:00",
+  "last_updated": "2026-06-03T11:23:13.305215+00:00",
   "items": [
     {
-      "titolo": "ChatGPT di nuovo in tribunale: \"cultura tossica di menzogne\"",
-      "descrizione": "Succede in Florida",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660156/chatgpt-tribunale-cultura-tossica-menzogne/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-02T16:25:00+00:00",
+      "titolo": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "descrizione": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
+      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "fonte": "WIRED",
+      "data": "2026-06-02T15:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "This easy prompt trick gave me better AI-generated images - no matter the model",
-      "descrizione": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Try this foolproof prompt.",
-      "link": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-      "fonte": "Latest news",
-      "data": "2026-06-02T12:00:00+00:00",
+      "titolo": "Github Copilot customers report up to 100-fold price hikes — AI sticker shock bites as Microsoft switches to usage-based pricing",
+      "descrizione": "Github Copilot customers suffer from sticker shock syndrome as Microsoft switches to usage-based pricing — customers reporting ten- to hundred-fold price hikes",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/github-copilot-customers-suffer-from-sticker-shock-as-microsoft-switches-to-usage-based-pricing-customers-report-up-to-100-fold-price-hikes",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-03T09:55:12+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "TIM porta Google AI Pro ai clienti consumer: tre mesi gratis per provarlo",
+      "descrizione": "TIM primo operatore in Italia a offrire Google AI Pro ai clienti consumer",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660250/tim-google-ai-pro-clienti-consumer/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T11:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "descrizione": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
-      "link": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "fonte": "Latest news",
-      "data": "2026-06-03T01:07:00+00:00",
+      "titolo": "Project Glasswing: Claude Mythos accessibile in 15 paesi",
+      "descrizione": "Anthropic ha esteso Project Glasswing ad oltre 15 paesi, quindi altre 150 organizzazioni potranno usare Claude Mythos per cercare le vulnerabilità. The post Project Glasswing: Claude Mythos accessibile in 15 paesi appear",
+      "link": "https://www.punto-informatico.it/project-glasswing-claude-mythos-accessibile-15-paesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-03T10:06:33+00:00",
       "modello": "claude"
     }
   ]
