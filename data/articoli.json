@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-06-03T11:23:09.017100+00:00",
+  "last_updated": "2026-06-03T17:18:56.424736+00:00",
   "items": [
+    {
+      "titolo": "How to try out over 85 Linux distros, no installation required - with DistroSea",
+      "descrizione": "This web-based Linux platform makes it easy to explore dozens of distributions, from the familiar to the obscure. It's free and works in any browser.",
+      "link": "https://www.zdnet.com/article/try-dozens-of-linux-distros-no-installation-distrosea/",
+      "fonte": "Latest news",
+      "data": "2026-06-03T17:04:15+00:00"
+    },
+    {
+      "titolo": "Comandi Linux arrivano su Windows e le skill AI per il vibe coding",
+      "descrizione": "Microsoft rilascia Coreutils per Windows con comandi Linux nativi e le Skill AI per guidare gli agenti nella creazione di app Windows native. The post Comandi Linux arrivano su Windows e le skill AI per il vibe coding ap",
+      "link": "https://www.punto-informatico.it/comandi-linux-windows-skill-ai-vibe-coding/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-03T16:55:50+00:00"
+    },
+    {
+      "titolo": "Bombardieri B-1B: ora sono pronti per le armi ipersoniche",
+      "descrizione": "Boeing e l'aviazione Usa aggiornano il B-1B Lancer per trasportare missili ipersonici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660192/b1b-lancer-missili-ipersonici/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T16:55:00+00:00"
+    },
+    {
+      "titolo": "Meta ha fatto strage di account fasulli: chiusi oltre 1 milione di profili",
+      "descrizione": "Meta ha contribuito a smantellare una rete asiatica che perpetrava truffe online, cancellando milioni di account.",
+      "link": "https://www.hdblog.it/business/articoli/n660264/meta-chiude-account-falsi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T16:40:00+00:00"
+    },
+    {
+      "titolo": "Meta lancia l’agente AI per WhatsApp Business in tutto il mondo",
+      "descrizione": "L'agente AI di WhatsApp Business gestisce il supporto clienti 24/7, risponde ai clienti, raccomanda i prodotti, e prenota gli appuntamenti. The post Meta lancia l’agente AI per WhatsApp Business in tutto il mondo appeare",
+      "link": "https://www.punto-informatico.it/meta-agente-ai-whatsapp-business-tutto-mondo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-03T16:32:16+00:00"
+    },
+    {
+      "titolo": "Toyota, il più grande colosso dell'auto al mondo non è più la prima azienda del Giappone",
+      "descrizione": "Sorpasso storico in Borsa per SoftBank, che dopo 23 anni toglie la vetta a Toyota come punto di riferimento per valore in Giappone",
+      "link": "https://www.hdmotori.it/toyota-seconda-azienda-giappone/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T16:30:21+00:00"
+    },
+    {
+      "titolo": "Silo torna su Apple TV: ecco la data e il trailer ufficiale della stagione 3",
+      "descrizione": "La stagione 3 di Silo arriva il 3 luglio su Apple TV esplorando le origini dei bunker.",
+      "link": "https://www.hdblog.it/apple/articoli/n655868/trailer-silo-apple-tv-luglio/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T16:15:00+00:00"
+    },
+    {
+      "titolo": "Lian Li's Edge Platinum V2 PSUs have an LED dust indicator, magnetic filter, and a snap-on fan and USB header hub — Edge line's trademark 90-degree power connector also returns",
+      "descrizione": "Lian Li's Edge V2 PSUs add a dust-detecting LED indicator, a removable filter, and a snap-on hub for fans and USB devices. They should arrive in September, at up to 1350 watts.",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/lian-lis-edge-platinum-v2-psus-have-an-led-dust-indicator-magnetic-filter-and-a-snap-on-fan-and-usb-header-hub-edge-lines-trademark-90-degree-power-connector-also-returns",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-03T16:07:56+00:00"
+    },
+    {
+      "titolo": "I asked Bluetooth reps about why our devices don't always connect properly - and learned the hard truth",
+      "descrizione": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "link": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "fonte": "Latest news",
+      "data": "2026-06-03T16:00:44+00:00"
+    },
+    {
+      "titolo": "Audi Q7, la terza generazione si farà: il teaser svela un dettaglio",
+      "descrizione": "Audi ha rilasciato il teaser della terza generazione di Q7, l'ammiraglia SUV che debutterà nella seconda metà del 2026",
+      "link": "https://www.hdmotori.it/audi-q7-teaser-terza-generazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T16:00:30+00:00"
+    },
+    {
+      "titolo": "Tetti verdi per salvare le città dal caldo: riducono le bollette e curano la mente",
+      "descrizione": "I giardini sui tetti riducono il caldo in classe, tagliano i consumi e combattono lo stress urbano.",
+      "link": "https://www.hdblog.it/home/articoli/n660291/tetti-verdi-benefici-clima-citta/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T15:55:00+00:00"
+    },
+    {
+      "titolo": "Sovranità tecnologica: quattro iniziative dell’UE",
+      "descrizione": "La Commissione europea ha presentato una serie di misure per ridurre la dipendenza esterna in tre settori principali: chip, cloud e software. The post Sovranità tecnologica: quattro iniziative dell’UE appeared first on P",
+      "link": "https://www.punto-informatico.it/sovranita-tecnologica-quattro-iniziative-dellue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-03T15:52:05+00:00"
+    },
+    {
+      "titolo": "Arriva ChatMinerva, l’AI italiana con accesso al Web in tempo reale",
+      "descrizione": "Un sistema in cui caricare foto di pagine in lingua straniera da tradurre, e magari anche riassumere, in italiano in tempo reale. Oppure un modello a cui chiedere di analizzare...",
+      "link": "https://www.ilsole24ore.com/art/arriva-chatminerva-l-ai-italiana-accesso-web-tempo-reale-AIRGHdRD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-03T15:33:39+00:00"
+    },
+    {
+      "titolo": "Basta nascondere l'aspirapolvere, per SharkNinja è un oggetto d'arredo",
+      "descrizione": "SharkNinja lancia Luxe Collection, nuovi aspirapolvere di design che si integrano perfettamente nell'arredamento.",
+      "link": "https://www.hdblog.it/home/articoli/n660277/shark-luxe-collection-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T15:10:00+00:00"
+    },
+    {
+      "titolo": "AMD executives react to Nvidia’s RTX Spark — ‘you’re just wrong if you don’t get a Strix Halo notebook’",
+      "descrizione": "AMD welcomes Nvidia into the market with RTX Spark, saying that its Strix Halo and upcoming Gorgon Halo products will be superior.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-executives-react-to-nvidias-rtx-spark-youre-just-wrong-if-you-dont-get-a-strix-halo-notebook",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-03T15:00:00+00:00"
+    },
+    {
+      "titolo": "Google Home, ora Nest Cam riconosce gli animali domestici con Pet Memory",
+      "descrizione": "E Ask Home arriva anche in Italia.",
+      "link": "https://www.hdblog.it/google/articoli/n660247/google-home-pet-memory-ask-gemini-italia-update/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T14:15:00+00:00"
+    },
+    {
+      "titolo": "L'Europa vuole essere indipendente: il piano in quattro punti per la sovranità tecnologica",
+      "descrizione": "Bruxelles ha presentato il piano per rafforzare la sovranità tecnologica: focus su semiconduttori, AI, cloud, open source ed energia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660265/europa-indipendente-piano-sovranita-tecnologica/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T14:05:00+00:00"
+    },
+    {
+      "titolo": "Apple, ecco le migliori app e giochi del 2026: c’è anche un'italiana tra i vincitori",
+      "descrizione": "I vincitori in sei categorie saranno premiati alla WWDC26",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660270/apple-premia-migliori-app-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T13:35:00+00:00"
+    },
+    {
+      "titolo": "Polaroid lancia la nuova istantanea Go Generation 3 con ottica migliorata",
+      "descrizione": "Design rinnovato e cinque diversi colori per l’istantanea più piccola di Polaroid.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n660262/polaroid-nuova-istantanea-go-generation-3-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T13:10:00+00:00"
+    },
+    {
+      "titolo": "Fitbit Air, gli accessori ufficiali non vi piacciono? Google vi invita a stamparveli",
+      "descrizione": "Google rilascia i file per la stampa 3D degli accessori di Fitbit Air",
+      "link": "https://www.hdblog.it/google/articoli/n660259/fitbit-air-file-cad-stampa-accessori/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T13:05:00+00:00"
+    },
+    {
+      "titolo": "Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices — hardware designed to run AI agents instead of traditional apps",
+      "descrizione": "Microsoft has unveiled Project Solara, an Android-based chip-to-cloud platform for AI-first enterprise devices. The system combines Qualcomm and MediaTek hardware, Azure-hosted agents, and adaptive interfaces, with refer",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-03T12:19:40+00:00"
+    },
     {
       "titolo": "Microsoft svela MAI-Thinking-1 e altri sei modelli AI",
       "descrizione": "Microsoft ha svelato sette nuovi modelli AI, tra cui MAI-Thinking-1, primo della famiglia con capacità di ragionamento (prestazioni simili a Sonnet 4.6). The post Microsoft svela MAI-Thinking-1 e altri sei modelli AI app",
@@ -9,25 +156,11 @@
       "data": "2026-06-03T11:20:16+00:00"
     },
     {
-      "titolo": "Amazon Prime Day a Palermo, i dettagli: ecco programma e iniziative in riva al mare",
-      "descrizione": "Dal 19 al 21 giugno Palermo ospiterà eventi gratuiti Amazon con concerti, incontri e spazi dedicati a Prime Day e Alexa+",
-      "link": "https://www.hdblog.it/amazon/articoli/n660254/evento-prime-palermo-amazon-programma/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T11:20:00+00:00"
-    },
-    {
-      "titolo": "Steam, il pacchetto Snap ARM64 su Ubuntu è finalmente stabile",
-      "descrizione": "Certificato e testato su varie macchine Linux con chip ARM, come NVIDIA DGX Spark.",
-      "link": "https://www.hdblog.it/games/articoli/n660252/steam-linux-ubuntu-arm-64-snap-stabile/",
-      "fonte": "HDblog.it",
+      "titolo": "Korean tech workers splash cash on luxury brands after bumper bonus payouts — luxury goods sales rocket nearly 150% in Gyeonggi Province semiconductor belt",
+      "descrizione": "South Korean media has noted a surge in spending on luxury goods following big bonus payouts to semiconductor workers.",
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/korean-tech-workers-splash-cash-on-luxury-brands-after-bumper-bonus-payouts-luxury-goods-sales-rocket-nearly-150-percent-in-gyeonggi-province-semiconductor-belt",
+      "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "TIM porta Google AI Pro ai clienti consumer: tre mesi gratis per provarlo",
-      "descrizione": "TIM primo operatore in Italia a offrire Google AI Pro ai clienti consumer",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660250/tim-google-ai-pro-clienti-consumer/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T11:10:00+00:00"
     },
     {
       "titolo": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
@@ -35,139 +168,6 @@
       "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
       "fonte": "WIRED",
       "data": "2026-06-03T11:00:00+00:00"
-    },
-    {
-      "titolo": "Noctua's first-ever AIO features a silenced Asetek Emma V2 pump and NF-A12/14 fans — 240mm NL-LC1 starts at around $250, could cost $325 for 420mm cooler",
-      "descrizione": "Noctua is officially entering the AIO market on June 16 with its new \"NL-LC1\" liquid cooler that starts at 220 EUR (around $250) for the 240mm variant. It features a customized Asetek Emma V2 pump with a lot of soundproo",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/noctuas-first-ever-aio-features-a-silenced-asetek-emma-v2-pump-and-nf-a12-14-fans-240mm-nl-lc1-starts-at-usd250-goes-up-to-usd325-for-420mm-cooler",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-03T10:59:00+00:00"
-    },
-    {
-      "titolo": "Il pianeta si prepara al grande caldo: El Niño sta arrivando",
-      "descrizione": "L'allarme lanciato dalla WMO.",
-      "link": "https://www.hdblog.it/green/articoli/n660239/el-nino-wmo-clima-caldo-quando-arriva-conseguenze/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:50:00+00:00"
-    },
-    {
-      "titolo": "Amazfit alla conquista degli atleti Hyrox con i nuovi Balance Ultra e 3 | Prezzi",
-      "descrizione": "Balance Ultra e Balance 3 offrono GPS dual band, mappe offline, AMOLED da 3.000 nit e autonomia fino a 30 giorni",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660245/amazfit-balance-ultra-3-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:40:00+00:00"
-    },
-    {
-      "titolo": "Microsoft Scout, l’assistente AI che analizza calendario e email",
-      "descrizione": "Microsoft lancia Scout, un assistente AI personale costruito su OpenClaw che monitora calendario, traffico ed email. The post Microsoft Scout, l’assistente AI che analizza calendario e email appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/microsoft-scout-assistente-ai-analizza-calendario-email/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-03T10:35:18+00:00"
-    },
-    {
-      "titolo": "Tanti giochi PC gratis per gli abbonati Amazon Prime a giugno, anche Mafia III",
-      "descrizione": "Proposta piuttosto solida questo mese del colosso di Jeff Bezos.",
-      "link": "https://www.hdblog.it/amazon/articoli/n660241/amazon-prime-gaming-luna-giochi-gratis-giugno/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:25:00+00:00"
-    },
-    {
-      "titolo": "Realme 16 5G arriverà anche in Italia il 10 giugno, ma con qualche differenza",
-      "descrizione": "Sarà presentato ufficialmente il 10 giugno",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660242/realme-16-5g-italia-differenza-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:20:00+00:00"
-    },
-    {
-      "titolo": "Fiat mostra finalmente le nuove e inedite Grizzly e Grizzly Fastback",
-      "descrizione": "Dopo una lunga attesa, Stellantis mostra in anteprima le nuove Fiat Grizzly e Grizzly Fastback, che proiettano il marchio italiano fra i C-SUV",
-      "link": "https://www.hdmotori.it/fiat-grizzly-grizzly-fastback/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:15:41+00:00"
-    },
-    {
-      "titolo": "Tutti gli annunci PS5 dello State of Play: da Wolverine a God of War Laufey",
-      "descrizione": "Ufficiale God of War Laufey, ma anche tanti altri giochi in arrivo su PS5",
-      "link": "https://www.hdblog.it/sony/articoli/n660233/sony-state-of-play-tutti-gli-annunci-god-of-war/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:15:00+00:00"
-    },
-    {
-      "titolo": "GoPro warns 'substantial doubt about the company’s ability to continue' in regulatory filings — AI memory shortage hits action camera maker",
-      "descrizione": "Higher memory costs and lower sales is hitting GoPro hard. The company isn't filing for bankruptcy yet, but it might end up doing that if it does not resolve the issue sooner.",
-      "link": "https://www.tomshardware.com/pc-components/ram/memory-chip-crisis-hits-action-camera-industry-gopro-says-that-its-in-substantial-doubt-about-the-companys-ability-to-continue-in-regulatory-filings",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-03T10:10:00+00:00"
-    },
-    {
-      "titolo": "Game of Thrones: Dragonfire porta la guerra dei Targaryen su Android e iOS",
-      "descrizione": "Draghi, alleanze, strategia e sullo sfondo le vicende di House of The Dragon.",
-      "link": "https://www.hdblog.it/games/articoli/n660225/game-of-thrones-dragonfire-download-androdi-ios/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T10:05:00+00:00"
-    },
-    {
-      "titolo": "The first settings I immediately change on every new iPhone - and why",
-      "descrizione": "A new iPhone is very good out of the box. It's even better once you fix the default settings and turn on a few features.",
-      "link": "https://www.zdnet.com/article/new-iphone-settings-i-immediately-change-why/",
-      "fonte": "Latest news",
-      "data": "2026-06-03T10:00:44+00:00"
-    },
-    {
-      "titolo": "How AI agents will transform your customer service - despite 3 hurdles",
-      "descrizione": "A new survey of 6,500 service pros shows investments in agentic AI are essential for business success.",
-      "link": "https://www.zdnet.com/article/how-ai-agents-are-transforming-customer-service/",
-      "fonte": "Latest news",
-      "data": "2026-06-03T10:00:42+00:00"
-    },
-    {
-      "titolo": "Monica Lewinsky Has Always Hated Notifications",
-      "descrizione": "The writer and anti-bullying activist is on social media, but to protect her nervous system, she prefers not to be alerted.",
-      "link": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
-      "fonte": "WIRED",
-      "data": "2026-06-03T10:00:00+00:00"
-    },
-    {
-      "titolo": "X come TikTok? Arrivano i video di reazione ai post",
-      "descrizione": "X lancia i video di reazione stile TikTok per ora solo su dispositivi iOS.",
-      "link": "https://www.hdblog.it/games/articoli/n660227/x-video-reazione-tiktok/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T09:55:00+00:00"
-    },
-    {
-      "titolo": "Oppo non si ferma: in arrivo un nuovo midrange con batteria da 10.000mAh",
-      "descrizione": "Oppo sarebbe al lavoro su un nuovo smartphone medio gamma con enorme batteria da 10.000mAh.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660214/oppo-smartphone-batteria-10000mah/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T09:50:00+00:00"
-    },
-    {
-      "titolo": "Oura Ring evolve con nuovi strumenti per contraccettivi e menopausa",
-      "descrizione": "Le nuove funzioni di Oura Ring permettono di analizzare l’impatto dei contraccettivi su sonno, temperatura basale e HRV",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660235/oura-ring-menopausa-benessere-femminile/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T09:45:00+00:00"
-    },
-    {
-      "titolo": "Idrogeno verde: il ruolo chiave delle perovskiti",
-      "descrizione": "Ricercatori dell'Università di Birmingham hanno sviluppato un materiale in grado di scindere l'acqua in idrogeno a temperature molto più basse rispetto alle tecnologie attuali, aprendo scenari nuovi...",
-      "link": "https://www.hdblog.it/green/articoli/n660213/perovskite-idrogeno-verde-bassa-temperatura/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T09:40:00+00:00"
-    },
-    {
-      "titolo": "Migliori Cloud per Foto e Archiviare Video Online (Classifica 2026)",
-      "descrizione": "La lista dei migliori servizi di archiviazione foto del 2026: dove archiviare le foto in modo sicuro. The post Migliori Cloud per Foto e Archiviare Video Online (Classifica 2026) appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/come-archiviare-foto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-03T09:38:13+00:00"
-    },
-    {
-      "titolo": "L'asta che non ti aspetti, un'Alfa 75 Polizia Gruppo A ufficiale in vendita",
-      "descrizione": "Una delle auto più iconiche del Biscione, con la livrea ufficiale della Polizia, verrà messa all’incanto. Un'Alfa 75 molto speciale",
-      "link": "https://www.hdmotori.it/asta-alfa-romeo-75-poliza-ufficiale-vendita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T09:30:09+00:00"
     }
   ]
 }

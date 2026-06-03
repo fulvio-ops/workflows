@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-03T11:23:13.305215+00:00",
+  "last_updated": "2026-06-03T17:18:59.412116+00:00",
   "items": [
     {
-      "titolo": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-      "descrizione": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
-      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-      "fonte": "WIRED",
-      "data": "2026-06-02T15:30:00+00:00",
+      "titolo": "I asked Bluetooth reps about why our devices don't always connect properly - and learned the hard truth",
+      "descrizione": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "link": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "fonte": "Latest news",
+      "data": "2026-06-03T16:00:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Github Copilot customers report up to 100-fold price hikes — AI sticker shock bites as Microsoft switches to usage-based pricing",
-      "descrizione": "Github Copilot customers suffer from sticker shock syndrome as Microsoft switches to usage-based pricing — customers reporting ten- to hundred-fold price hikes",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/github-copilot-customers-suffer-from-sticker-shock-as-microsoft-switches-to-usage-based-pricing-customers-report-up-to-100-fold-price-hikes",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-03T09:55:12+00:00",
+      "titolo": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
+      "descrizione": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
+      "link": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
+      "fonte": "Latest news",
+      "data": "2026-06-03T17:02:07+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "TIM porta Google AI Pro ai clienti consumer: tre mesi gratis per provarlo",
-      "descrizione": "TIM primo operatore in Italia a offrire Google AI Pro ai clienti consumer",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660250/tim-google-ai-pro-clienti-consumer/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T11:10:00+00:00",
+      "titolo": "Gemini: 7 funzioni nascoste che quasi nessuno usa, ma dovrebbe",
+      "descrizione": "Gemini non è solo una chat, integra ricerca approfondita, conversazione vocale, analisi dei video, assistenti personalizzati e automazioni. The post Gemini: 7 funzioni nascoste che quasi nessuno usa, ma dovrebbe appeared",
+      "link": "https://www.punto-informatico.it/gemini-7-funzioni-nascoste-quasi-nessuno-usa-ma-dovrebbe/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-03T15:30:18+00:00",
       "modello": "gemini"
     },
     {
