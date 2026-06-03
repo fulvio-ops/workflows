@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-06-03T17:18:56.424736+00:00",
+  "last_updated": "2026-06-03T21:30:23.198423+00:00",
   "items": [
+    {
+      "titolo": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
+      "descrizione": "Influential figures, including Nick Fuentes, have been accused of “hijacking” the murder of Henry Nowak to push a racist agenda.",
+      "link": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/",
+      "fonte": "WIRED",
+      "data": "2026-06-03T18:29:11+00:00"
+    },
+    {
+      "titolo": "Switch 2, c'è un Nintendo Direct dietro l'angolo: ecco la data anticipata dai leak",
+      "descrizione": "Finalmente stiamo per scoprire il futuro di Switch 2?",
+      "link": "https://www.hdblog.it/nintendo/articoli/n660300/nintendo-direct-giugno-ora-data-quando-switch-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T18:25:00+00:00"
+    },
+    {
+      "titolo": "School Tech Awards 2026: i migliori progetti scolastici premiati da Siemens",
+      "descrizione": "«Siamo nel mezzo di una nuova rivoluzione industriale: quella dell’intelligenza artificiale, e voi avete nelle vostre mani gli strumenti per creare il futuro», con queste parole Floriano Masoero , CEO di...",
+      "link": "https://www.ilsole24ore.com/art/school-tech-awards-2026-migliori-progetti-scolastici-premiati-siemens-AI3pypRD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-03T18:16:45+00:00"
+    },
+    {
+      "titolo": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "descrizione": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+      "fonte": "WIRED",
+      "data": "2026-06-03T18:00:00+00:00"
+    },
+    {
+      "titolo": "Apple Music Classical annuncia partnership con una prestigiosa sala concerti",
+      "descrizione": "Un'istituzione londinese",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660263/apple-music-classical-partnership-sala-concerti/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-03T17:30:00+00:00"
+    },
     {
       "titolo": "How to try out over 85 Linux distros, no installation required - with DistroSea",
       "descrizione": "This web-based Linux platform makes it easy to explore dozens of distributions, from the familiar to the obscure. It's free and works in any browser.",
@@ -58,18 +93,18 @@
       "data": "2026-06-03T16:07:56+00:00"
     },
     {
-      "titolo": "I asked Bluetooth reps about why our devices don't always connect properly - and learned the hard truth",
-      "descrizione": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
-      "link": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-      "fonte": "Latest news",
-      "data": "2026-06-03T16:00:44+00:00"
-    },
-    {
       "titolo": "Audi Q7, la terza generazione si farà: il teaser svela un dettaglio",
       "descrizione": "Audi ha rilasciato il teaser della terza generazione di Q7, l'ammiraglia SUV che debutterà nella seconda metà del 2026",
       "link": "https://www.hdmotori.it/audi-q7-teaser-terza-generazione/",
       "fonte": "HDblog.it",
       "data": "2026-06-03T16:00:30+00:00"
+    },
+    {
+      "titolo": "I asked Bluetooth reps why our devices don't always connect properly - and learned the hard truth",
+      "descrizione": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "link": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "fonte": "Latest news",
+      "data": "2026-06-03T16:00:00+00:00"
     },
     {
       "titolo": "Tetti verdi per salvare le città dal caldo: riducono le bollette e curano la mente",
@@ -121,27 +156,6 @@
       "data": "2026-06-03T14:05:00+00:00"
     },
     {
-      "titolo": "Apple, ecco le migliori app e giochi del 2026: c’è anche un'italiana tra i vincitori",
-      "descrizione": "I vincitori in sei categorie saranno premiati alla WWDC26",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660270/apple-premia-migliori-app-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T13:35:00+00:00"
-    },
-    {
-      "titolo": "Polaroid lancia la nuova istantanea Go Generation 3 con ottica migliorata",
-      "descrizione": "Design rinnovato e cinque diversi colori per l’istantanea più piccola di Polaroid.",
-      "link": "https://www.hdblog.it/fotografia/articoli/n660262/polaroid-nuova-istantanea-go-generation-3-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T13:10:00+00:00"
-    },
-    {
-      "titolo": "Fitbit Air, gli accessori ufficiali non vi piacciono? Google vi invita a stamparveli",
-      "descrizione": "Google rilascia i file per la stampa 3D degli accessori di Fitbit Air",
-      "link": "https://www.hdblog.it/google/articoli/n660259/fitbit-air-file-cad-stampa-accessori/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-03T13:05:00+00:00"
-    },
-    {
       "titolo": "Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices — hardware designed to run AI agents instead of traditional apps",
       "descrizione": "Microsoft has unveiled Project Solara, an Android-based chip-to-cloud platform for AI-first enterprise devices. The system combines Qualcomm and MediaTek hardware, Azure-hosted agents, and adaptive interfaces, with refer",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/microsoft-svela-mai-thinking-1-altri-sei-modelli-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-06-03T11:20:16+00:00"
-    },
-    {
-      "titolo": "Korean tech workers splash cash on luxury brands after bumper bonus payouts — luxury goods sales rocket nearly 150% in Gyeonggi Province semiconductor belt",
-      "descrizione": "South Korean media has noted a surge in spending on luxury goods following big bonus payouts to semiconductor workers.",
-      "link": "https://www.tomshardware.com/tech-industry/manufacturing/korean-tech-workers-splash-cash-on-luxury-brands-after-bumper-bonus-payouts-luxury-goods-sales-rocket-nearly-150-percent-in-gyeonggi-province-semiconductor-belt",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "descrizione": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "fonte": "WIRED",
-      "data": "2026-06-03T11:00:00+00:00"
     }
   ]
 }
