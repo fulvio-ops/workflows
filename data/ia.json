@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T21:24:37.330572+00:00",
+  "last_updated": "2026-06-03T05:18:44.331468+00:00",
   "items": [
     {
       "titolo": "ChatGPT di nuovo in tribunale: \"cultura tossica di menzogne\"",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "I set 10 honesty traps for Claude Opus 4.8 - and a legal test broke it",
-      "descrizione": "I tested Opus 4.8 against 4.7 using coding, medical, finance, and legal traps, then cross-checked the results with multiple AIs.",
+      "titolo": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
+      "descrizione": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
       "link": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
       "fonte": "Latest news",
-      "data": "2026-06-02T12:41:00+00:00",
+      "data": "2026-06-03T01:07:00+00:00",
       "modello": "claude"
     }
   ]
