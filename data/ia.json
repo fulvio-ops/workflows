@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-04T10:12:29.964245+00:00",
+  "last_updated": "2026-06-04T15:45:34.652888+00:00",
   "items": [
     {
-      "titolo": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "descrizione": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "fonte": "WIRED",
-      "data": "2026-06-04T01:01:00+00:00",
+      "titolo": "Museo del Risorgimento, un manifesto per l’AI",
+      "descrizione": "C’è un momento in cui l’intelligenza artificiale smette di essere futuro e diventa pratica ordinaria: una didascalia generata più rapidamente, un archivio interrogato meglio, una visita...",
+      "link": "https://www.ilsole24ore.com/art/museo-risorgimento-manifesto-l-ai-AIWbdkID",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-04T15:00:08+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
-      "descrizione": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
-      "link": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
+      "titolo": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
+      "descrizione": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
+      "link": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
       "fonte": "Latest news",
-      "data": "2026-06-03T17:02:07+00:00",
+      "data": "2026-06-04T13:47:00+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "descrizione": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "fonte": "WIRED",
-      "data": "2026-06-04T01:01:00+00:00",
+      "titolo": "AI per creare armi biologiche: il rischio c’è, i big lo sanno",
+      "descrizione": "In una lettera aperta, i vertici di OpenAI, Anthropic, DeepMind e Meta concordano sul fatto che il rischio esiste: bisogna prevenirlo. The post AI per creare armi biologiche: il rischio c’è, i big lo sanno appeared first",
+      "link": "https://www.punto-informatico.it/ai-creare-armi-biologiche-rischio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-04T11:35:52+00:00",
       "modello": "claude"
     }
   ]
