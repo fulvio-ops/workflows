@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-04T15:45:34.652888+00:00",
+  "last_updated": "2026-06-04T20:25:44.976623+00:00",
   "items": [
     {
-      "titolo": "Museo del Risorgimento, un manifesto per l’AI",
-      "descrizione": "C’è un momento in cui l’intelligenza artificiale smette di essere futuro e diventa pratica ordinaria: una didascalia generata più rapidamente, un archivio interrogato meglio, una visita...",
-      "link": "https://www.ilsole24ore.com/art/museo-risorgimento-manifesto-l-ai-AIWbdkID",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-04T15:00:08+00:00",
+      "titolo": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
+      "descrizione": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
+      "link": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
+      "fonte": "Latest news",
+      "data": "2026-06-04T13:47:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "TIM regala Google AI Pro e Plus ai suoi clienti: come attivare",
-      "descrizione": "Come attivare i tre mesi gratuiti dei piani Google AI Pro e Plus se si è clienti TIM e cosa fare per evitare spese di rinnovo non previste. The post TIM regala Google AI Pro e Plus ai suoi clienti: come attivare appeared",
-      "link": "https://www.punto-informatico.it/tim-regala-google-ai-pro-plus-come-attivare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-04T08:25:44+00:00",
+      "titolo": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
+      "descrizione": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
+      "link": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
+      "fonte": "Latest news",
+      "data": "2026-06-04T18:04:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI per creare armi biologiche: il rischio c’è, i big lo sanno",
-      "descrizione": "In una lettera aperta, i vertici di OpenAI, Anthropic, DeepMind e Meta concordano sul fatto che il rischio esiste: bisogna prevenirlo. The post AI per creare armi biologiche: il rischio c’è, i big lo sanno appeared first",
-      "link": "https://www.punto-informatico.it/ai-creare-armi-biologiche-rischio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-04T11:35:52+00:00",
+      "titolo": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "descrizione": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+      "fonte": "WIRED",
+      "data": "2026-06-04T18:44:49+00:00",
       "modello": "claude"
     }
   ]
