@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-06-05T10:16:46.647234+00:00",
+  "last_updated": "2026-06-05T15:28:35.428597+00:00",
   "items": [
     {
-      "titolo": "OpenAI migliora la memoria di ChatGPT",
-      "descrizione": "OpenAI ha migliorato la memoria di ChatGPT e gli utenti possono ora vedere e modificare le informazioni ricordate dal chatbot tramite un riassunto. The post OpenAI migliora la memoria di ChatGPT appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/openai-migliora-memoria-chatgpt/",
+      "titolo": "Hacker russi usano ChatGPT e Gemini per colpire l’Ucraina",
+      "descrizione": "I cybercriminali hanno sfruttato ChatGPT e Gemini per scrivere il codice dei malware e generare le immagini usati per le campagne di cyberspionaggio. The post Hacker russi usano ChatGPT e Gemini per colpire l’Ucraina app",
+      "link": "https://www.punto-informatico.it/hacker-russi-usano-chatgpt-gemini-colpire-ucraina/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-05T07:39:03+00:00",
+      "data": "2026-06-05T14:56:31+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
-      "descrizione": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
-      "link": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
-      "fonte": "Latest news",
-      "data": "2026-06-04T13:47:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Il nuovo HONOR Pad X8b: autonomia record e display a 90 Hz",
-      "descrizione": "Il nuovo tablet HONOR punta su grande autonomia, schermo a 90 Hz e funzioni AI integrate tramite Gemini: ecco cosa c'è nel Pad X8b. The post Il nuovo HONOR Pad X8b: autonomia record e display a 90 Hz appeared first on Pu",
-      "link": "https://www.punto-informatico.it/honor-pad-x8b/",
+      "titolo": "Hacker russi usano ChatGPT e Gemini per colpire l’Ucraina",
+      "descrizione": "I cybercriminali hanno sfruttato ChatGPT e Gemini per scrivere il codice dei malware e generare le immagini usati per le campagne di cyberspionaggio. The post Hacker russi usano ChatGPT e Gemini per colpire l’Ucraina app",
+      "link": "https://www.punto-informatico.it/hacker-russi-usano-chatgpt-gemini-colpire-ucraina/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-05T09:29:07+00:00",
+      "data": "2026-06-05T14:56:31+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Auto-miglioramento ricorsivo: l’AI riscrive il proprio codice",
-      "descrizione": "Anthropic ha suggerito di rallentare lo sviluppo per evitare che i sistemi AI utilizzino l'auto-miglioramento ricorsivo per progettare i loro successori. The post Auto-miglioramento ricorsivo: l’AI riscrive il proprio co",
-      "link": "https://www.punto-informatico.it/auto-miglioramento-ricorsivo-ai-riscrive-proprio-codice/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-05T09:01:49+00:00",
+      "titolo": "Il rischioso auto-miglioramento ricorsivo dell'AI. Anthropic invoca un freno, ma corre",
+      "descrizione": "L'AI si auto-migliora e Anthropic invoca un rallentamento o un blocco nello sviluppo della tecnologia, ma nel frattempo continua a correre.",
+      "link": "https://www.hdblog.it/business/articoli/n660497/auto-miglioramento-ricorsivo-ai-anthropic/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-05T12:55:00+00:00",
       "modello": "claude"
     }
   ]
