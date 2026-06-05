@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T15:28:35.428597+00:00",
+  "last_updated": "2026-06-05T20:13:55.190813+00:00",
   "items": [
     {
       "titolo": "Hacker russi usano ChatGPT e Gemini per colpire l’Ucraina",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Il rischioso auto-miglioramento ricorsivo dell'AI. Anthropic invoca un freno, ma corre",
-      "descrizione": "L'AI si auto-migliora e Anthropic invoca un rallentamento o un blocco nello sviluppo della tecnologia, ma nel frattempo continua a correre.",
-      "link": "https://www.hdblog.it/business/articoli/n660497/auto-miglioramento-ricorsivo-ai-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T12:55:00+00:00",
+      "titolo": "NSA using Claude Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
+      "descrizione": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-05T16:53:46+00:00",
       "modello": "claude"
     }
   ]
