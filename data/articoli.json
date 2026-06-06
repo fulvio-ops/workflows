@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-06T04:29:37.935572+00:00",
+  "last_updated": "2026-06-06T08:46:38.958448+00:00",
   "items": [
+    {
+      "titolo": "Starlink supera 12 milioni di utenti e annuncia satelliti V3 super veloci",
+      "descrizione": "Starlink raggiunge 12 milioni di utenti e prepara i satelliti V3 per aumentare la banda di 100 volte.",
+      "link": "https://www.hdblog.it/mercato/articoli/n660546/starlink-satelliti-v3-banda-spacex/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-06T07:55:00+00:00"
+    },
+    {
+      "titolo": "La lista canali del digitale terrestre cambia ancora: tutte le novità",
+      "descrizione": "Continua ad aggiornarsi la lista dei canali del digitale terrestre che, in queste ore, cambia ancora apportando ulteriori interessanti novità. The post La lista canali del digitale terrestre cambia ancora: tutte le novit",
+      "link": "https://www.punto-informatico.it/lista-canali-digitale-terrestre-cambia-ancora-novita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-06T07:00:44+00:00"
+    },
+    {
+      "titolo": "Meta, datacenter AI sotto i tendoni per fare più in fretta | Foto",
+      "descrizione": "Centinaia di milioni di dollari di acceleratori e infrastrutture AI... sotto una tenda.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660540/meta-data-center-ai-tendoni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-06T06:55:00+00:00"
+    },
     {
       "titolo": "7 unique Father's Day gifts and gadgets your dad doesn't already have",
       "descrizione": "Father's Day is coming up, and we found the most useful items your father figure will appreciate, based on our testing.",
@@ -147,27 +168,6 @@
       "link": "https://www.zdnet.com/article/siri-upgrade-would-make-me-rethink-homepod-over-sonos-bose/",
       "fonte": "Latest news",
       "data": "2026-06-05T14:11:45+00:00"
-    },
-    {
-      "titolo": "Sonda impazzita su Marte, la NASA dice addio a MAVEN",
-      "descrizione": "Dopo undici anni di attività e un guasto misterioso, la NASA dichiara irrecuperabile la sonda MAVEN.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660450/nasa-addio-sonda-maven-marte/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T14:05:00+00:00"
-    },
-    {
-      "titolo": "Mondiali di calcio 2026: tutte le novità di WhatsApp",
-      "descrizione": "WhatsApp introduce nuove funzioni dedicate ai Mondiali di calcio 2026: canali, emoji, sticker, effetti e Meta AI per seguire il torneo. The post Mondiali di calcio 2026: tutte le novità di WhatsApp appeared first on Punt",
-      "link": "https://www.punto-informatico.it/mondiali-calcio-2026-novita-whatsapp/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-05T14:03:22+00:00"
-    },
-    {
-      "titolo": "Google Search introduce i profili, ma solo per creator e personaggi famosi",
-      "descrizione": "Si potrà personalizzare la propria pagina di riferimento su Google Search.",
-      "link": "https://www.hdblog.it/google/articoli/n660510/google-search-introduce-i-profili-per-creator/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T13:55:00+00:00"
     }
   ]
 }
