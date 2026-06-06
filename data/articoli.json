@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-06T14:09:35.443617+00:00",
+  "last_updated": "2026-06-06T19:47:45.123252+00:00",
   "items": [
+    {
+      "titolo": "Surface Pro e Laptop con Snapdragon X2: possibili specifiche",
+      "descrizione": "Queste sono le principali specifiche dei nuovi Surface Pro e Laptop con processori Snapdragon X2 che Microsoft dovrebbe annunciare il 16 giugno. The post Surface Pro e Laptop con Snapdragon X2: possibili specifiche appea",
+      "link": "https://www.punto-informatico.it/surface-pro-laptop-snapdragon-x2-possibili-specifiche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-06T16:09:10+00:00"
+    },
+    {
+      "titolo": "Nubia Air: ottimo schermo, design super sottile e prezzo (oggi) ridotto del 30%",
+      "descrizione": "Design ultrasottile, batteria da 5000 mAh, display AMOLED luminoso e funzioni AI: il Nubia Air è in promo su Amazon a poco più di 170€.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n660562/nubia-air-smartphone-design-sottile-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-06T15:56:00+00:00"
+    },
+    {
+      "titolo": "Google userà le GPU NVIDIA di SpaceX per Gemini Enterprise",
+      "descrizione": "Google pagherà 920 milioni di dollari al mese per usare circa 110.000 GPU NVIDIA di SpaceX, necessarie per soddisfare la domanda di Gemini Enterprise. The post Google userà le GPU NVIDIA di SpaceX per Gemini Enterprise a",
+      "link": "https://www.punto-informatico.it/google-usera-gpu-nvidia-spacex-gemini-enterprise/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-06T14:57:55+00:00"
+    },
     {
       "titolo": "ENGIE punta sull’energia personalizzata e blocca il prezzo per 12 mesi",
       "descrizione": "Prezzo fisso, tariffa variabile o soluzioni per chi consuma di più: scopri come ENGIE personalizza l'energia in base alle esigenze di ogni famiglia. The post ENGIE punta sull’energia personalizzata e blocca il prezzo per",
@@ -128,37 +149,9 @@
       "data": "2026-06-05T17:31:28+00:00"
     },
     {
-      "titolo": "iOS 27 punterà al sodo migliorando l'autonomia degli iPhone",
-      "descrizione": "iOS 26 ha badato tanto sulla forma, iOS 27 punterà sulla sostanza.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660528/ios-27-autonomia-batteria-iphone-wwdc-2026-update/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T17:05:00+00:00"
-    },
-    {
-      "titolo": "Ghost Bat di Boeing è invisibile ai radar: il drone supera i test chiave",
-      "descrizione": "Il drone autonomo MQ-28 Ghost Bat di Boeing supera i test radar di invisibilità e vola negli USA.",
-      "link": "https://www.hdblog.it/droni/articoli/n660438/boeing-mq28-ghost-bat-test-radar/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T16:55:00+00:00"
-    },
-    {
-      "titolo": "I bot prendono il sopravvento su internet: gli umani sono ufficialmente superati",
-      "descrizione": "I dati di Cloudflare confermano che i bot, spinti dagli agenti AI, generano più traffico degli utenti umani.",
-      "link": "https://www.hdblog.it/business/articoli/n660480/bot-internet-umani-superati/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T16:45:00+00:00"
-    },
-    {
-      "titolo": "Joshua Jackson entra nel cast di Your Friends and Neighbors su Apple TV",
-      "descrizione": "Joshua Jackson si unisce ufficialmente alla terza stagione del successo Apple TV Your Friends and Neighbors.",
-      "link": "https://www.hdblog.it/apple/articoli/n660433/joshua-jackson-your-friends-neighbors-stagione-3/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-05T16:25:00+00:00"
-    },
-    {
-      "titolo": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
-      "descrizione": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
-      "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "titolo": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
+      "descrizione": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
+      "link": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
       "fonte": "WIRED",
       "data": "2026-06-05T16:00:00+00:00"
     },
@@ -166,6 +159,13 @@
       "titolo": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
       "descrizione": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment.",
       "link": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
+      "fonte": "WIRED",
+      "data": "2026-06-05T16:00:00+00:00"
+    },
+    {
+      "titolo": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
+      "descrizione": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
+      "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
       "fonte": "WIRED",
       "data": "2026-06-05T16:00:00+00:00"
     }
