@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-06-07T19:47:57.755889+00:00",
+  "last_updated": "2026-06-08T05:02:34.680784+00:00",
   "items": [
+    {
+      "titolo": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",
+      "descrizione": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
+      "link": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
+      "fonte": "Latest news",
+      "data": "2026-06-08T02:00:43+00:00"
+    },
+    {
+      "titolo": "I drove with Apple CarPlay for over 25,000 miles last year - these apps were the most essential",
+      "descrizione": "I spend a lot of time driving. These are the CarPlay apps that make every ride easy.",
+      "link": "https://www.zdnet.com/article/carplay-best-apps-after-25000-miles-last-year/",
+      "fonte": "Latest news",
+      "data": "2026-06-07T19:49:00+00:00"
+    },
     {
       "titolo": "Donald Trump vuole ottenere quote delle aziende AI?",
       "descrizione": "Donald Trump ha dichiarato che incontrerà i dirigenti delle principali aziende AI per discutere di un'eventuale partecipazione azionaria del governo. The post Donald Trump vuole ottenere quote delle aziende AI? appeared",
@@ -100,13 +114,6 @@
       "data": "2026-06-07T11:00:00+00:00"
     },
     {
-      "titolo": "I saw the Surface Laptop Ultra at Computex and it's clear: Microsoft has gone beastmode",
-      "descrizione": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
-      "link": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
-      "fonte": "Latest news",
-      "data": "2026-06-07T10:30:38+00:00"
-    },
-    {
       "titolo": "Google chiede di liberare 32 milioni di zanzare sterili | Ecco perché",
       "descrizione": "Google intende liberare 32 milioni di zanzare sterili contro i virus in California e Florida",
       "link": "https://www.hdblog.it/tecnologia/articoli/n660571/progetto-debug-google-32-milioni-zanzare/",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/airalo-esim-come-restare-connessi-in-viaggio-senza-roaming-spendendo-poco/",
       "fonte": "Punto Informatico",
       "data": "2026-06-07T07:00:11+00:00"
-    },
-    {
-      "titolo": "L’industria dell’auto in Germania è al tramonto?",
-      "descrizione": "La Germania vive la fine dell'era industriale in cui ha primeggiato per decenni, tra crollo dell'occupazione, rivoluzione elettrica e spostamento delle competenze tecnologiche verso altri...",
-      "link": "https://www.hdmotori.it/industria-auto-germania/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-07T07:00:09+00:00"
     }
   ]
 }
