@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-06-08T05:02:40.851131+00:00",
+  "last_updated": "2026-06-08T11:21:00.646077+00:00",
   "items": [
     {
-      "titolo": "The feature Apple needs to make HomePod stand out isn't audio-related",
-      "descrizione": "Few smart speakers have assistants with as much potential as Siri. A meaningful upgrade would make the HomePod my first choice.",
-      "link": "https://www.zdnet.com/article/the-feature-apple-needs-to-make-homepod-stand-out-isnt-audio-related/",
-      "fonte": "Latest news",
-      "data": "2026-06-07T11:35:41+00:00",
+      "titolo": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "descrizione": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T10:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google userà le GPU NVIDIA di SpaceX per Gemini Enterprise",
-      "descrizione": "Google pagherà 920 milioni di dollari al mese per usare circa 110.000 GPU NVIDIA di SpaceX, necessarie per soddisfare la domanda di Gemini Enterprise. The post Google userà le GPU NVIDIA di SpaceX per Gemini Enterprise a",
-      "link": "https://www.punto-informatico.it/google-usera-gpu-nvidia-spacex-gemini-enterprise/",
+      "titolo": "App Copilot apparirà sui PC Windows aziendali senza il consenso",
+      "descrizione": "L'app Microsoft 365 Copilot apparirà sui PC aziendali senza consenso degli utenti. Il rollout sarà in più fasi da giugno a luglio. The post App Copilot apparirà sui PC Windows aziendali senza il consenso appeared first o",
+      "link": "https://www.punto-informatico.it/app-copilot-apparira-pc-windows-aziendali-senza-consenso/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-06T14:57:55+00:00",
+      "data": "2026-06-08T08:23:12+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google svuota i magazzini: nuovi Home con Gemini ormai imminenti",
+      "descrizione": "I Google Home attuali risultano esauriti sul Google Store. Un nuovo indizio conferma l'arrivo imminente degli smart speaker progettati per Gemini for Home",
+      "link": "https://www.hdblog.it/google/articoli/n660658/nuovi-google-home-indizi-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T10:55:00+00:00",
       "modello": "gemini"
     },
     {
