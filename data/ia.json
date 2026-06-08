@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T16:29:18.031274+00:00",
+  "last_updated": "2026-06-08T20:35:15.655296+00:00",
   "items": [
     {
       "titolo": "E' possibile ridurre i tempi di imbarco in aereo? Esiste un metodo scientifico",
@@ -10,12 +10,12 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "App Copilot apparirà sui PC Windows aziendali senza il consenso",
-      "descrizione": "L'app Microsoft 365 Copilot apparirà sui PC aziendali senza consenso degli utenti. Il rollout sarà in più fasi da giugno a luglio. The post App Copilot apparirà sui PC Windows aziendali senza il consenso appeared first o",
-      "link": "https://www.punto-informatico.it/app-copilot-apparira-pc-windows-aziendali-senza-consenso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T08:23:12+00:00",
-      "modello": "copilot"
+      "titolo": "Apple’s New Siri AI Is Ready to Get Personal",
+      "descrizione": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T18:17:44+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Crypto-Funded Chinese Peptide Labs Are Booming",

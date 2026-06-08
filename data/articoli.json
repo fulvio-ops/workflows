@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-06-08T16:29:14.716669+00:00",
+  "last_updated": "2026-06-08T20:35:12.530116+00:00",
   "items": [
+    {
+      "titolo": "Levelplay shows off magnetically attached fans that are reversible, connect via pogo pins and USB-C – plus an AIO that trades a screen for a big knob",
+      "descrizione": "Levelplay took to Computex with some interesting cooling concepts, like magnetic fans that can be reversed in seconds, and an AIO that puts a big tactile knob for fan control on top of your CPU.",
+      "link": "https://www.tomshardware.com/pc-components/cooling/levelplay-shows-off-magnetically-attached-fans-that-are-reversible-connect-via-pogo-pins-and-usb-c-plus-an-aio-that-trades-a-screen-for-a-big-knob",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-08T19:32:35+00:00"
+    },
+    {
+      "titolo": "Recensione Honor MagicBook 16 2026: il notebook da 16\" che dura un giorno intero (con Panther Lake) | VIDEO",
+      "descrizione": "Honor MagicBook 16 2026: dopo 2 settimane di test sul campo, analizziamo nel dettaglio il notebook da 16\" con Intel Core Ultra 5 325 e batteria da 80Wh. Per meno di 999 euro merita la vostra...",
+      "link": "https://www.hdblog.it/portatili/recensioni/n660023/honor-magicbook-recensione-test-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T19:00:00+00:00"
+    },
+    {
+      "titolo": "Apple rilascia le prime beta di iOS 27, iPadOS 26, macOS 27 e watchOS 27",
+      "descrizione": "Riservate agli sviluppatori",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660733/apple-rilascia-prime-beta-ios-27/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T18:50:00+00:00"
+    },
+    {
+      "titolo": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+      "descrizione": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
+      "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T18:40:32+00:00"
+    },
+    {
+      "titolo": "Apple Intelligence cambia architettura: Siri riparte da Gemini e da nuovo modello AI",
+      "descrizione": "Apple ha annunciato alla WWDC 2026 una revisione importante di Apple Intelligence, partendo da una nuova architettura costruita su Foundation Models sviluppati in collaborazione con Google e basati...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660726/apple-intelligence-cambia-architettura-siri/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T17:50:00+00:00"
+    },
+    {
+      "titolo": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+      "descrizione": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+      "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T17:44:28+00:00"
+    },
+    {
+      "titolo": "iOS 27 e iPadOS 27 ufficiali: Apple migliora interfaccia, ricerca e accelera le app",
+      "descrizione": "Apple ha ufficializzato iOS 27, il prossimo grande aggiornamento software per iPhone. La nuova versione non si presenta come una release costruita attorno a una sola funzione, ma come un intervento...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660712/ios-27-ufficiale-apple-prestazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T17:35:00+00:00"
+    },
+    {
+      "titolo": "macOS 27 Golden Gate ufficiale alla WWDC 2026, le principali novità",
+      "descrizione": "Il sistema operativo dei Mac evolve ancora.",
+      "link": "https://www.hdblog.it/apple/articoli/n660723/macos-27-novita-liquid-glass-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T17:24:00+00:00"
+    },
+    {
+      "titolo": "NSO continua a prendere di mira WhatsApp, Meta torna in tribunale",
+      "descrizione": "Zuckerberg e soci accusano la controversa società israeliana di aver violato gli ordini del tribunale.",
+      "link": "https://www.hdblog.it/android/articoli/n660710/whatsapp-nso-pegasus-tribunale-spear-phishing/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T17:05:00+00:00"
+    },
+    {
+      "titolo": "Addio a un'icona di concretezza: la Fiat Tipo è fuori produzione",
+      "descrizione": "Dopo undici anni di successi, la Fiat Tipo esce dal configuratore e rimane disponibile unicamente in stock. A ottobre sarà sostituita dalla Grizzly.",
+      "link": "https://www.hdmotori.it/addio-fiat-tipo-fuori-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T17:00:04+00:00"
+    },
+    {
+      "titolo": "NotebookLM si aggiorna con Gemini 3.5: cosa cambia",
+      "descrizione": "NotebookLM passa a Gemini 3.5 con ragionamento visibile, output in XLSX, PPTX, SVG e altri formati, e la possibilità di partire da idee vaghe. The post NotebookLM si aggiorna con Gemini 3.5: cosa cambia appeared first on",
+      "link": "https://www.punto-informatico.it/notebooklm-si-aggiorna-gemini-3-5-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-08T16:59:44+00:00"
+    },
+    {
+      "titolo": "Reattore a fusione ARC da 400 MW: sempre più vicino all'uso commerciale",
+      "descrizione": "Il progetto del reattore ARC è realistico e produrrà 400 megawatt di elettricità netta.",
+      "link": "https://www.hdblog.it/green/articoli/n660602/fusione-nucleare-reattore-arc-cfs/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T16:55:00+00:00"
+    },
+    {
+      "titolo": "Addio all’orbiter MAVEN della NASA dopo 11 anni",
+      "descrizione": "L'orbiter MAVEN ha cessato le sue operazioni di osservazione della superficie marziana e di trasmissione dei dati ricevuti da Curiosity e Perseverance. The post Addio all’orbiter MAVEN della NASA dopo 11 anni appeared fi",
+      "link": "https://www.punto-informatico.it/addio-orbiter-maven-nasa-dopo-11-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-08T16:36:48+00:00"
+    },
+    {
+      "titolo": "Qualche problema di stabilità per PC Dell e HP, stavolta Microsoft è innocente",
+      "descrizione": "Dell ha distribuito una versione buggata del suo assistente al troubleshooting, HP ha sbagliato ad applicare alcuni certificati di autenticazione.",
+      "link": "https://www.hdblog.it/portatili/articoli/n660708/hp-dell-laptop-alienware-crash-bsod-certificati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T16:35:00+00:00"
+    },
+    {
+      "titolo": "Honda Civic Type R: la HRC sarà prodotta",
+      "descrizione": "La Casa giapponese porterà al debutto nel 2026 una Civic Type R HRC Concept. Honda vuole alzare l’asticella con aggiornamenti mirati",
+      "link": "https://www.hdmotori.it/honda-civic-type-r-hrc/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T16:30:13+00:00"
+    },
+    {
+      "titolo": "Fumetti Marvel e DC su eBay Live: ci sono anche rare variant autografate",
+      "descrizione": "L'8 giugno alle 19:00 su eBay Live c'è l'evento dedicato agli appassionati di fumetti USA: variant esclusive, variant autografate e albi CGC Signature Series di Marvel, DC e non solo.",
+      "link": "https://www.hdblog.it/hardware/offerte/n660653/ebay-live-evento-fumetti-marvel-dc-8-giugno/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T16:30:00+00:00"
+    },
     {
       "titolo": "Artemis II: le analisi segrete della NASA sono in corso",
       "descrizione": "La NASA studia gli effetti del volo di Artemis II sulla salute e analizza i dati geologici lunari.",
@@ -23,34 +135,6 @@
       "data": "2026-06-08T16:10:00+00:00"
     },
     {
-      "titolo": "Orsini: «Imponendo l'elettrico l'Europa ha avvantaggiato la Cina»",
-      "descrizione": "Il presidente di Confindustria prende posizione sulle politiche dell'UE: la mancanza di neutralità tecnologica distrugge il vantaggio competitivo del continente e favorisce...",
-      "link": "https://www.hdmotori.it/orsini-elettrico-europa-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T16:00:20+00:00"
-    },
-    {
-      "titolo": "G-Shock GravityMaster GWR-B3000: ecco i nuovi Casio indistruttibili",
-      "descrizione": "Casio lancia la serie G-Shock GravityMaster GWR-B3000 con un sistema che corregge le lancette.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660695/casio-g-shock-gravitymaster-gwr-b3000/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:55:00+00:00"
-    },
-    {
-      "titolo": "Nintendo paga caro il Joy-Con drift: multa da 35 milioni di euro in Francia",
-      "descrizione": "Nintendo non fa ricorso e accetta di pagare.",
-      "link": "https://www.hdblog.it/nintendo/articoli/n660704/nintendo-joy-con-drift-francia-multa-switch/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:40:00+00:00"
-    },
-    {
-      "titolo": "Subaru torna al passato: in arrivo tre auto con cambio manuale",
-      "descrizione": "Il brand giapponese è pronto a stupire il mondo con l’unveiling di tre nuove vetture. Una di queste nuove Subaru sarà una hatchback",
-      "link": "https://www.hdmotori.it/subaru-tre-auto-cambio-manuale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:30:40+00:00"
-    },
-    {
       "titolo": "Come usare l’AI ogni mattina per iniziare la giornata senza ansia",
       "descrizione": "5 abitudini che richiedono pochi minuti ciascuna e usano l'AI per trasformare le mattine caotiche in partenze più lucide. The post Come usare l’AI ogni mattina per iniziare la giornata senza ansia appeared first on Punto",
       "link": "https://www.punto-informatico.it/come-usare-ai-ogni-mattina-iniziare-giornata-senza-ansia/",
@@ -63,27 +147,6 @@
       "link": "https://www.punto-informatico.it/energia-rinnovabile-ue-approva-aiuto-stato-italiano/",
       "fonte": "Punto Informatico",
       "data": "2026-06-08T15:27:50+00:00"
-    },
-    {
-      "titolo": "Razzi a propellente solido: il plasma li renderà riaccendibili nello spazio",
-      "descrizione": "Nuova tecnologia al plasma permette di accendere e spegnere i motori a propellente solido nello spazio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660600/razzi-propellente-solido-plasma/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:10:00+00:00"
-    },
-    {
-      "titolo": "Allarme Amazon: 6 consigli per difendersi dalle truffe e non farsi ingannare",
-      "descrizione": "Attenzione a false mail, messaggi e chiamate!",
-      "link": "https://www.hdblog.it/amazon/articoli/n660686/amazon-come-difendersi-truffe/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:05:00+00:00"
-    },
-    {
-      "titolo": "1000 Miglia 2026, il percorso e le tappe della leggendaria corsa",
-      "descrizione": "Dal ripristino del percorso \"a otto\" alla sfilata di 459 capolavori: tutto sulla 44ª rievocazione della 1000 Miglia che anticipa il centenario",
-      "link": "https://www.hdmotori.it/1000-miglia-2026-percorso-tappe/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T15:00:47+00:00"
     },
     {
       "titolo": "Internxt sconta i suoi piani per il cloud a vita: -85% con la promo di giugno 2026",
@@ -100,74 +163,11 @@
       "data": "2026-06-08T14:32:19+00:00"
     },
     {
-      "titolo": "Recensione Honor MagicBook 16 2026: il notebook da 16\" che dura un giorno intero (con Panther Lake) | VIDEO",
-      "descrizione": "Honor MagicBook 16 2026: dopo 2 settimane di test sul campo, analizziamo nel dettaglio il notebook da 16\" con Intel Core Ultra 5 325 e batteria da 80Wh. Per meno di 999 euro merita la vostra...",
-      "link": "https://www.hdblog.it/portatili/recensioni/n660023/honor-magicbook-recensione-test-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T14:31:00+00:00"
-    },
-    {
-      "titolo": "Auto cinesi: il 75% dei giovani italiani è pronto ad acquistarle",
-      "descrizione": "Tre giovani su quattro sono favorevoli all’acquisto di un’auto cinese. L'innovazione tecnologica è la caratteristica più ricercata.",
-      "link": "https://www.hdmotori.it/auto-cinesi-giovani-italiani/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T14:30:19+00:00"
-    },
-    {
       "titolo": "Meta contro NSO: nuovi tentativi di spiare gli utenti WhatsApp",
       "descrizione": "Nuove campagne malevole riconducibili a NSO avrebbero preso di mira utenti WhatsApp tramite link esterni e tecniche di social engineering. The post Meta contro NSO: nuovi tentativi di spiare gli utenti WhatsApp appeared",
       "link": "https://www.punto-informatico.it/meta-contro-nso-nuovi-tentativi-spiare-utenti-whatsapp/",
       "fonte": "Punto Informatico",
       "data": "2026-06-08T14:17:59+00:00"
-    },
-    {
-      "titolo": "Dalla toilette alla Luna: il piano NASA per coltivare nello spazio",
-      "descrizione": "La NASA sperimenta un modulo mobile per trasformare i rifiuti degli astronauti in fertilizzante.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660642/nasa-riciclo-rifiuti-luna/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T14:05:00+00:00"
-    },
-    {
-      "titolo": "Ferrari 360 Spider a 30.000 euro? Qualcosa non torna e scatta il sequestro",
-      "descrizione": "Sorpresa una Ferrari replica che sotto alla carrozzeria nascondeva la meccanica di una Toyota MR2. Era stata messa in vendita a 30.000 euro",
-      "link": "https://www.hdmotori.it/ferrari-360-spider-replica-sequestro/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T14:00:45+00:00"
-    },
-    {
-      "titolo": "WWDC26 al via: come seguire l’evento Apple in diretta streaming",
-      "descrizione": "Guarda la WWDC26 (Worldwide Developers Conference) in diretta streaming: tra le novità più attese, l'evoluzione dell'assistente Siri. The post WWDC26 al via: come seguire l’evento Apple in diretta streaming appeared firs",
-      "link": "https://www.punto-informatico.it/wwdc26-diretta-streaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T13:29:10+00:00"
-    },
-    {
-      "titolo": "Tutti i riassunti delle riunioni Teams in un’unica app",
-      "descrizione": "Microsoft lancia un'app dedicata in Teams che raccoglie tutti i riassunti delle riunioni degli ultimi 30 giorni in un unico posto, con i filtri. The post Tutti i riassunti delle riunioni Teams in un’unica app appeared fi",
-      "link": "https://www.punto-informatico.it/tutti-riassunti-riunioni-teams-unica-app/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T13:02:10+00:00"
-    },
-    {
-      "titolo": "Come risponde ChatMinerva? La sfida di costruire un ChatGPT italiana",
-      "descrizione": "L’importante è valutare ogni llm per quello che è, non per quello che non potrebbe mai essere, un gigante da Silicon Valley.",
-      "link": "https://www.ilsole24ore.com/art/come-risponde-chatminerva-sfida-costruire-chatgpt-italiana-AIbieBXD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-08T12:40:39+00:00"
-    },
-    {
-      "titolo": "Outlook mostra le colonne automatiche quando si ordinano le email",
-      "descrizione": "Il Nuovo Outlook mostrerà automaticamente la colonna corrispondente quando ordinate le email per dimensione, importanza o categoria. The post Outlook mostra le colonne automatiche quando si ordinano le email appeared fir",
-      "link": "https://www.punto-informatico.it/outlook-mostra-colonne-automatiche-quando-si-ordinano-email/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T12:03:16+00:00"
-    },
-    {
-      "titolo": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement — seeks to address extended development cycles",
-      "descrizione": "Nvidia and SK hynix have inked a multi-year collaboration agreement under which the companies will co-develop next-generation memory technologies for Nvidia's upcoming platforms and SK hynix will supply them to Nvidia.",
-      "link": "https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-08T11:23:57+00:00"
     }
   ]
 }
