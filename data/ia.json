@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-08T11:21:00.646077+00:00",
+  "last_updated": "2026-06-08T16:29:18.031274+00:00",
   "items": [
     {
-      "titolo": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
-      "descrizione": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
-      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T10:30:00+00:00",
+      "titolo": "E' possibile ridurre i tempi di imbarco in aereo? Esiste un metodo scientifico",
+      "descrizione": "Un nuovo simulatore svela i segreti dei tempi di imbarco e il metodo scientifico più rapido.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660627/metodi-imbarco-aereo-veloci/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-08T16:15:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,14 +16,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-06-08T08:23:12+00:00",
       "modello": "copilot"
-    },
-    {
-      "titolo": "Google svuota i magazzini: nuovi Home con Gemini ormai imminenti",
-      "descrizione": "I Google Home attuali risultano esauriti sul Google Store. Un nuovo indizio conferma l'arrivo imminente degli smart speaker progettati per Gemini for Home",
-      "link": "https://www.hdblog.it/google/articoli/n660658/nuovi-google-home-indizi-disponibilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T10:55:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Crypto-Funded Chinese Peptide Labs Are Booming",
