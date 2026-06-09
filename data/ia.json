@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T15:28:04.202145+00:00",
+  "last_updated": "2026-06-09T20:20:47.995004+00:00",
   "items": [
     {
-      "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
-      "descrizione": "Segnalati problemi con i servizi di OpenAI: molti utenti stanno lamentando un down di ChatGPT con i feedback inviati a Downdetector. The post ChatGPT down il 9 giugno: cosa sta succedendo? (update) appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-down-09062026/",
+      "titolo": "7 prompt per capire cosa sai fare meglio dell’intelligenza artificiale",
+      "descrizione": "7 prompt che aiutano a identificare i propri punti di forza, le competenze da sviluppare e come usare l'intelligenza artificiale a proprio vantaggio. The post 7 prompt per capire cosa sai fare meglio dell’intelligenza ar",
+      "link": "https://www.punto-informatico.it/7-prompt-capire-cosa-sai-fare-meglio-intelligenza-artificiale/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:01:48+00:00",
+      "data": "2026-06-09T15:30:36+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,28 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Apple Intelligence sui server di Google con GPU NVIDIA",
-      "descrizione": "Le nuove funzionalità di Apple Intelligence sfruttano modelli AI più avanzati basati su Gemini ed eseguiti sui server di Google con GPU NVIDIA. The post Apple Intelligence sui server di Google con GPU NVIDIA appeared fir",
-      "link": "https://www.punto-informatico.it/apple-intelligence-sui-server-di-google-con-gpu-nvidia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:38:12+00:00",
+      "titolo": "I just saved $180 a year on my Google AI plan without losing my Drive storage - here's how",
+      "descrizione": "Google AI Plus just got cheaper, and it's the easiest way to reduce my Google One bill without giving up cloud storage or AI.",
+      "link": "https://www.zdnet.com/article/google-ai-plus-plan-save-annually-drive-cloud-storage-costs/",
+      "fonte": "Latest news",
+      "data": "2026-06-09T17:52:32+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T21:31:58+00:00",
+      "titolo": "Anthropic, nasce Claude Fable 5 che porta Mythos sul mercato",
+      "descrizione": "Claude Fable 5 ed è il primo modello della famiglia Mythos reso disponibile al pubblic che combina le capacità della più avanzata famiglia di modelli Anthropic con un sistema di controllo che filtra le richieste più sens",
+      "link": "https://www.ilsole24ore.com/art/anthropic-apre-vaso-pandora-nasce-claude-fable-5-che-porta-mythos-mercato-AIJDdAZD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-09T17:04:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training",
-      "descrizione": "A research group that includes Huawei Technologies says it completed full-parameter post-training of DeepSeek's V4-Pro, a 1.6-trillion-parameter model.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-06T12:00:00+00:00",
-      "modello": "altri"
     }
   ]
 }

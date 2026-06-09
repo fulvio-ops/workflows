@@ -1,40 +1,131 @@
 {
-  "last_updated": "2026-06-09T15:28:00.276166+00:00",
+  "last_updated": "2026-06-09T20:20:43.352392+00:00",
   "items": [
     {
-      "titolo": "OnePlus 15, inizia ad arrivare il supporto ad AirDrop via Quick Share",
-      "descrizione": "Il roll-out è confermato dagli utenti del forum ufficiale del device.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660848/oneplus-15-supporto-airdrop/",
+      "titolo": "Razer lancia il suo primo microfono XLR: ecco Seiren V3 Pro",
+      "descrizione": "Già disponibile negli USA a 250 dollari; per ora da noi non pervenuto.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660867/razer-microfono-podcast-streaming-xlr-seiren/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T14:55:00+00:00"
+      "data": "2026-06-09T17:45:00+00:00"
     },
     {
-      "titolo": "DDR5, i prezzi non si normalizzeranno prima del 2028 secondo AMD",
-      "descrizione": "David McAfee dice che dobbiamo stringere i denti ancora per un (bel) po'.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660844/crisi-chip-memorie-prezzi-ddr5-normalita-amd/",
+      "titolo": "ASUS ROG Cetra Open Wireless arrivano in Italia: prezzi e specifiche",
+      "descrizione": "Poco più di 200 euro. Decisamente un prodotto premium.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660861/asus-rog-cetra-open-wireless-prezzi-italia-quando/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T14:45:00+00:00"
+      "data": "2026-06-09T17:25:00+00:00"
     },
     {
-      "titolo": "Apple rinvia Siri AI in Europa su iPhone e iPad, la Commissione UE: \"Scelta solo sua\"",
-      "descrizione": "Un portavoce ha respinto la ricostruzione di Apple",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660841/siri-ai-europa-bruxelles-risponde-apple/",
+      "titolo": "Nuovo reattore nucleare SMR compatto: primi test nel deserto dello Utah",
+      "descrizione": "L'Utah sceglie il reattore modulare SMR-300 di Holtec per produrre energia pulita anche nel deserto.",
+      "link": "https://www.hdblog.it/green/articoli/n660743/reattore-nucleare-modulare-utah/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T14:35:00+00:00"
+      "data": "2026-06-09T17:15:00+00:00"
     },
     {
-      "titolo": "Mondiali di calcio 2026 al via: quando il vero avversario è il clima",
-      "descrizione": "I dubbi degli scienziati per temperature ed emissioni.",
-      "link": "https://www.hdblog.it/green/articoli/n660809/coppa-mondo-calcio-2026-allarme-clima-caldo/",
+      "titolo": "Apple chiarisce il ruolo di Google nello sviluppo della nuova Apple Intelligence",
+      "descrizione": "Craig Federighi spiega che Gemini è stato usato solo nella fase di distillazione dei nuovi modelli AFM.",
+      "link": "https://www.hdblog.it/google/articoli/n660860/apple-intelligence-federighi-google-gemini/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T14:25:00+00:00"
+      "data": "2026-06-09T17:05:00+00:00"
     },
     {
-      "titolo": "Follia in Cina: robot vestito da clown sferra un calcio a un bimbo | Video",
-      "descrizione": "In Cina un robot Unitree G1 colpisce un bambino allo stomaco e riaccende il dibattito sulla AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660607/robot-umanoide-calcio-bambino-cina/",
+      "titolo": "Anthropic, nasce Claude Fable 5 che porta Mythos sul mercato",
+      "descrizione": "Claude Fable 5 ed è il primo modello della famiglia Mythos reso disponibile al pubblic che combina le capacità della più avanzata famiglia di modelli Anthropic con un sistema di controllo che filtra le richieste più sens",
+      "link": "https://www.ilsole24ore.com/art/anthropic-apre-vaso-pandora-nasce-claude-fable-5-che-porta-mythos-mercato-AIJDdAZD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-09T17:04:00+00:00"
+    },
+    {
+      "titolo": "Vola a Mach 5.5 e distrugge i radar nemici: ecco il nuovo missile indiano",
+      "descrizione": "L'India testa con successo il missile ipersonico RudraM-II per distruggere i radar nemici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660762/india-test-missile-ipersonico-rudram/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T14:20:00+00:00"
+      "data": "2026-06-09T16:55:00+00:00"
+    },
+    {
+      "titolo": "Opera per Android vi ricorda che i Mondiali di calcio 2026 stanno per iniziare",
+      "descrizione": "Opera aggiorna il browser per Android con una nuova schermata iniziale per i Mondiali di calcio 2026.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660830/opera-android-mondiali-fifa-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:40:00+00:00"
+    },
+    {
+      "titolo": "The Bear chiude i battenti su Disney+: ecco il trailer ufficiale della S5",
+      "descrizione": "Carmy lascia il ristorante e Sydney guida la squadra verso l'ultima stella Michelin dal 26 giugno.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n660749/the-bear-5-trailer-uscita-disney/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:35:00+00:00"
+    },
+    {
+      "titolo": "Data center, così un terreno da 10 dollari è passato a valerne milioni",
+      "descrizione": "Agricoltore dona un terreno alla città perché venga trasformato in un parco, ma l'industria informatica se ne appropria",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660823/data-center-terreno-10-dollari-milioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:25:00+00:00"
+    },
+    {
+      "titolo": "Missione disperata nello spazio: il piano NASA per salvare un satellite",
+      "descrizione": "Il robot LINK è arrivato alla NASA per salvare il telescopio Swift ed estendere la sua missione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660622/nasa-mission-link-swift-wallops/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:15:00+00:00"
+    },
+    {
+      "titolo": "Nintendo Direct, tutti gli annunci: da Zelda Ocarina of Time a Kingdom Hearts 4",
+      "descrizione": "Tante novità importanti in arrivo su Switch 2: scopriamole.",
+      "link": "https://www.hdblog.it/games/articoli/n660851/nintendo-direct-zelda-oot-annunci-switch-2-giugno/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:10:00+00:00"
+    },
+    {
+      "titolo": "L'89% delle aziende ha già auto alla spina, ma non è tutto oro ciò che luccica",
+      "descrizione": "Uno studio del Politecnico di Milano rivela un settore che corre verso l’elettrico, ma fatica a trasformare i dati in strategia",
+      "link": "https://www.hdmotori.it/flotte-aziendali-auto-elettriche-dati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T16:00:46+00:00"
+    },
+    {
+      "titolo": "Elon Musk mostra il satellite AI1 per data center orbitale",
+      "descrizione": "Elon Musk ha svelato il design del satellite AI1 per data center orbitale con chip AI di NVIDIA, raffreddamento a liquido e pannelli solari. The post Elon Musk mostra il satellite AI1 per data center orbitale appeared fi",
+      "link": "https://www.punto-informatico.it/elon-musk-mostra-satellite-ai1-data-center-orbitale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T15:58:53+00:00"
+    },
+    {
+      "titolo": "Addio code e ore di volo: l'aereo supersonico del futuro è russo",
+      "descrizione": "La Russia progetta un aereo passeggeri supersonico capace di superare la velocità del suono.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660767/aereo-supersonico-russia-prototipo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T15:55:00+00:00"
+    },
+    {
+      "titolo": "L'AI impara a replicarsi: stiamo per perdere il controllo?",
+      "descrizione": "Anthropic lancia l'allarme sulla AI capace di sviluppare da sola i propri successori.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660747/anthropic-sviluppo-autonomo-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T15:45:00+00:00"
+    },
+    {
+      "titolo": "Un'altra GeForce RTX 5090 bruciata, questa volta per... eccesso di zelo?",
+      "descrizione": "Una sfortunata GeForce RTX 5090 di MSI è l'ultima vittima di un connettore nato decisamente male.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660853/msi-geforce-rtx-5090-fusa-connettore-12vhpwr/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T15:40:00+00:00"
+    },
+    {
+      "titolo": "Elle arriva su Prime Video: il liceo di Elle Woods si fa vedere nel trailer ufficiale",
+      "descrizione": "Elle racconta l’adolescenza di Elle Woods e debutta il 1° luglio su Prime Video.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n645913/elle-prequel-prime-video-luglio/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T15:35:00+00:00"
+    },
+    {
+      "titolo": "7 prompt per capire cosa sai fare meglio dell’intelligenza artificiale",
+      "descrizione": "7 prompt che aiutano a identificare i propri punti di forza, le competenze da sviluppare e come usare l'intelligenza artificiale a proprio vantaggio. The post 7 prompt per capire cosa sai fare meglio dell’intelligenza ar",
+      "link": "https://www.punto-informatico.it/7-prompt-capire-cosa-sai-fare-meglio-intelligenza-artificiale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T15:30:36+00:00"
     },
     {
       "titolo": "WhatsApp smetterà di funzionare su questi iPhone",
@@ -44,20 +135,6 @@
       "data": "2026-06-09T14:00:51+00:00"
     },
     {
-      "titolo": "Batterie litio-aria: la nuova tecnologia che promette 1.600 km di autonomia",
-      "descrizione": "La cinese CATL sta sviluppando una nuova batteria con celle \"traspiranti\" che eguagliano la densità energetica della benzina.",
-      "link": "https://www.hdmotori.it/batterie-litio-aria-nuova-tecnologia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T14:00:26+00:00"
-    },
-    {
-      "titolo": "Bixby potrebbe battere Siri con questa nuova funzione ideata da Samsung",
-      "descrizione": "Samsung sta studiando un nuovo modo per attivare Bixby: basterà un gesto semplicissimo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660797/bixby-nuova-funzione-siri/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T13:55:00+00:00"
-    },
-    {
       "titolo": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
       "descrizione": "The FDA recently approved the cellular rejuvenation therapy ER-100 for human clinical trials. While vision is the first target, it could have applications for a variety of age-related disease.",
       "link": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/",
@@ -65,53 +142,11 @@
       "data": "2026-06-09T13:23:53+00:00"
     },
     {
-      "titolo": "Samsung Galaxy Z Flip 8 e Watch 9 avvistati presso la FCC: il lancio si avvicina",
-      "descrizione": "Manca ormai circa un mese alla presentazione ufficiale",
-      "link": "https://www.hdblog.it/samsung/articoli/n660824/galaxy-z-flip-8-watch-9-avvistati-fcc/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T13:20:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi presenta un nuovo rifinitore per i peli del naso premium (ed economico)",
-      "descrizione": "Xiaomi ha presentato in Cina il nuovo Mijia Electric Nose Hair Trimmer Pro, un rifinitore per peli del naso con corpo in lega di alluminio, impermeabilità IPX7 e fino a 150 minuti di autonomia",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660816/rifinitore-peli-naso-xiaomi-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T13:15:00+00:00"
-    },
-    {
-      "titolo": "Genesis GV60 Magma, il prezzo del nuovo bolide coreano",
-      "descrizione": "Genesis ha annunciato le caratteristiche del modello GV60 Magma, primo crossover full electric ad alte prestazioni del brand di lusso coreano",
-      "link": "https://www.hdmotori.it/genesis-gv60-magma-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T13:00:27+00:00"
-    },
-    {
       "titolo": "Rivian R2 2026: Specs, Price, Availability",
       "descrizione": "With a competitive price, winning design, and better performance than the R1, Rivian could be set to break into the big leagues. Just make sure you get the right model with the right tech.",
       "link": "https://www.wired.com/story/rivian-r2-first-drive/",
       "fonte": "WIRED",
       "data": "2026-06-09T13:00:00+00:00"
-    },
-    {
-      "titolo": "Down in Italia: segnalazioni in aumento per Fastweb, Aruba, Amazon e altri servizi | In risoluzione",
-      "descrizione": "Problemi segnalati per diverse piattaforme",
-      "link": "https://www.hdblog.it/tim/articoli/n660825/down-disservizi-italia-aumentano-segnalazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T12:53:00+00:00"
-    },
-    {
-      "titolo": "La Russia avrebbe disturbato i GPS europei per molti anni",
-      "descrizione": "Uno studio condotto da ricercatori internazionali sostiene che le interferenze GPS registrate in Europa tra il 2019 e il 2026 possano essere riconducibili a satelliti militari russi",
-      "link": "https://www.hdblog.it/mercato/articoli/n660813/russia-disturbo-gps-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T12:45:00+00:00"
-    },
-    {
-      "titolo": "Apple, unico sfondo per iOS 27 e macOS 27: c’è anche un dettaglio nascosto",
-      "descrizione": "Il wallpaper Celosia è composto da curve ampie e sovrapposte",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660819/apple-sceglie-unico-sfondo-ios-27-macos/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T12:40:00+00:00"
     },
     {
       "titolo": "Apple annuncia nuove funzionalità di sicurezza per i minori",
@@ -133,41 +168,6 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
       "fonte": "WIRED",
       "data": "2026-06-09T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
-      "descrizione": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook.",
-      "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
-      "fonte": "WIRED",
-      "data": "2026-06-09T10:00:00+00:00"
-    },
-    {
-      "titolo": "Mondiali di calcio 2026, boom di truffe online: nel mirino i tifosi",
-      "descrizione": "Dai biglietti inesistenti agli APK infetti per Android, sono queste le principali minacce online collegate ai Mondiali di calcio 2026. The post Mondiali di calcio 2026, boom di truffe online: nel mirino i tifosi appeared",
-      "link": "https://www.punto-informatico.it/mondiali-calcio-2026-boom-truffe-online/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:53:50+00:00"
-    },
-    {
-      "titolo": "Safari genera estensioni da prompt, basta descrivere cosa si vuole",
-      "descrizione": "Apple risolve il problema delle estensioni Safari lasciando che gli utenti le creino con i prompt. Arrivano anche le schede raggruppate per argomento. The post Safari genera estensioni da prompt, basta descrivere cosa si",
-      "link": "https://www.punto-informatico.it/safari-genera-estensioni-prompt-basta-descrivere-cosa-si-vuole/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:41:19+00:00"
-    },
-    {
-      "titolo": "Apple Intelligence sui server di Google con GPU NVIDIA",
-      "descrizione": "Le nuove funzionalità di Apple Intelligence sfruttano modelli AI più avanzati basati su Gemini ed eseguiti sui server di Google con GPU NVIDIA. The post Apple Intelligence sui server di Google con GPU NVIDIA appeared fir",
-      "link": "https://www.punto-informatico.it/apple-intelligence-sui-server-di-google-con-gpu-nvidia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:38:12+00:00"
-    },
-    {
-      "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
-      "descrizione": "Segnalati problemi con i servizi di OpenAI: molti utenti stanno lamentando un down di ChatGPT con i feedback inviati a Downdetector. The post ChatGPT down il 9 giugno: cosa sta succedendo? (update) appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-down-09062026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T09:01:48+00:00"
     }
   ]
 }
