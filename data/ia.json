@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:03:29.926256+00:00",
+  "last_updated": "2026-06-09T15:28:04.202145+00:00",
   "items": [
     {
       "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Apple apre Xcode agli agenti AI: sviluppo più rapido con ChatGPT, Gemini e Claude",
-      "descrizione": "Apple accelera lo sviluppo di app con nuovi framework di intelligenza e strumenti avanzati",
-      "link": "https://www.hdblog.it/apple/articoli/n660777/apple-apre-xcode-agenti-ai-cosa-cambia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:40:00+00:00",
+      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T21:31:58+00:00",
       "modello": "claude"
     },
     {

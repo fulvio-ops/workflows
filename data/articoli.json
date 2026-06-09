@@ -1,19 +1,145 @@
 {
-  "last_updated": "2026-06-09T10:03:25.570615+00:00",
+  "last_updated": "2026-06-09T15:28:00.276166+00:00",
   "items": [
     {
-      "titolo": "Piaggio, con il \"Porte Aperte\" di giugno sconti su tutta la gamma",
-      "descrizione": "Piaggio lancia le offerte di giugno su scooter a ruota alta e tre ruote. Dal 9 al 13 giugno test ride gratuiti in concessionaria: ecco i modelli in promozione.",
-      "link": "https://www.hdmotori.it/piaggio-porte-aperte-giugno-sconti/",
+      "titolo": "OnePlus 15, inizia ad arrivare il supporto ad AirDrop via Quick Share",
+      "descrizione": "Il roll-out è confermato dagli utenti del forum ufficiale del device.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660848/oneplus-15-supporto-airdrop/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T10:00:23+00:00"
+      "data": "2026-06-09T14:55:00+00:00"
     },
     {
-      "titolo": "Nostalgia di un Blocco Note essenziale e leggero? TinyRetroPad occupa meno di 3 KB",
-      "descrizione": "2.782 byte,per essere precisi. E ha tutte le feature del Blocco Note di Windows XP - con qualche extra.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n660792/blocco-note-tinyretropad-minimal-3-kb/",
+      "titolo": "DDR5, i prezzi non si normalizzeranno prima del 2028 secondo AMD",
+      "descrizione": "David McAfee dice che dobbiamo stringere i denti ancora per un (bel) po'.",
+      "link": "https://www.hdblog.it/hardware/articoli/n660844/crisi-chip-memorie-prezzi-ddr5-normalita-amd/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T09:55:00+00:00"
+      "data": "2026-06-09T14:45:00+00:00"
+    },
+    {
+      "titolo": "Apple rinvia Siri AI in Europa su iPhone e iPad, la Commissione UE: \"Scelta solo sua\"",
+      "descrizione": "Un portavoce ha respinto la ricostruzione di Apple",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660841/siri-ai-europa-bruxelles-risponde-apple/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T14:35:00+00:00"
+    },
+    {
+      "titolo": "Mondiali di calcio 2026 al via: quando il vero avversario è il clima",
+      "descrizione": "I dubbi degli scienziati per temperature ed emissioni.",
+      "link": "https://www.hdblog.it/green/articoli/n660809/coppa-mondo-calcio-2026-allarme-clima-caldo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T14:25:00+00:00"
+    },
+    {
+      "titolo": "Follia in Cina: robot vestito da clown sferra un calcio a un bimbo | Video",
+      "descrizione": "In Cina un robot Unitree G1 colpisce un bambino allo stomaco e riaccende il dibattito sulla AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660607/robot-umanoide-calcio-bambino-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T14:20:00+00:00"
+    },
+    {
+      "titolo": "WhatsApp smetterà di funzionare su questi iPhone",
+      "descrizione": "A partire dai prossimi mesi, il team di Meta al lavoro su WhatsApp terminerà il supporto ufficiale per le versioni più vecchie di iOS. The post WhatsApp smetterà di funzionare su questi iPhone appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/whatsapp-smettera-funzionare-iphone/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T14:00:51+00:00"
+    },
+    {
+      "titolo": "Batterie litio-aria: la nuova tecnologia che promette 1.600 km di autonomia",
+      "descrizione": "La cinese CATL sta sviluppando una nuova batteria con celle \"traspiranti\" che eguagliano la densità energetica della benzina.",
+      "link": "https://www.hdmotori.it/batterie-litio-aria-nuova-tecnologia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T14:00:26+00:00"
+    },
+    {
+      "titolo": "Bixby potrebbe battere Siri con questa nuova funzione ideata da Samsung",
+      "descrizione": "Samsung sta studiando un nuovo modo per attivare Bixby: basterà un gesto semplicissimo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660797/bixby-nuova-funzione-siri/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T13:55:00+00:00"
+    },
+    {
+      "titolo": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
+      "descrizione": "The FDA recently approved the cellular rejuvenation therapy ER-100 for human clinical trials. While vision is the first target, it could have applications for a variety of age-related disease.",
+      "link": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/",
+      "fonte": "WIRED",
+      "data": "2026-06-09T13:23:53+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Flip 8 e Watch 9 avvistati presso la FCC: il lancio si avvicina",
+      "descrizione": "Manca ormai circa un mese alla presentazione ufficiale",
+      "link": "https://www.hdblog.it/samsung/articoli/n660824/galaxy-z-flip-8-watch-9-avvistati-fcc/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T13:20:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi presenta un nuovo rifinitore per i peli del naso premium (ed economico)",
+      "descrizione": "Xiaomi ha presentato in Cina il nuovo Mijia Electric Nose Hair Trimmer Pro, un rifinitore per peli del naso con corpo in lega di alluminio, impermeabilità IPX7 e fino a 150 minuti di autonomia",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n660816/rifinitore-peli-naso-xiaomi-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T13:15:00+00:00"
+    },
+    {
+      "titolo": "Genesis GV60 Magma, il prezzo del nuovo bolide coreano",
+      "descrizione": "Genesis ha annunciato le caratteristiche del modello GV60 Magma, primo crossover full electric ad alte prestazioni del brand di lusso coreano",
+      "link": "https://www.hdmotori.it/genesis-gv60-magma-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T13:00:27+00:00"
+    },
+    {
+      "titolo": "Rivian R2 2026: Specs, Price, Availability",
+      "descrizione": "With a competitive price, winning design, and better performance than the R1, Rivian could be set to break into the big leagues. Just make sure you get the right model with the right tech.",
+      "link": "https://www.wired.com/story/rivian-r2-first-drive/",
+      "fonte": "WIRED",
+      "data": "2026-06-09T13:00:00+00:00"
+    },
+    {
+      "titolo": "Down in Italia: segnalazioni in aumento per Fastweb, Aruba, Amazon e altri servizi | In risoluzione",
+      "descrizione": "Problemi segnalati per diverse piattaforme",
+      "link": "https://www.hdblog.it/tim/articoli/n660825/down-disservizi-italia-aumentano-segnalazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T12:53:00+00:00"
+    },
+    {
+      "titolo": "La Russia avrebbe disturbato i GPS europei per molti anni",
+      "descrizione": "Uno studio condotto da ricercatori internazionali sostiene che le interferenze GPS registrate in Europa tra il 2019 e il 2026 possano essere riconducibili a satelliti militari russi",
+      "link": "https://www.hdblog.it/mercato/articoli/n660813/russia-disturbo-gps-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T12:45:00+00:00"
+    },
+    {
+      "titolo": "Apple, unico sfondo per iOS 27 e macOS 27: c’è anche un dettaglio nascosto",
+      "descrizione": "Il wallpaper Celosia è composto da curve ampie e sovrapposte",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660819/apple-sceglie-unico-sfondo-ios-27-macos/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T12:40:00+00:00"
+    },
+    {
+      "titolo": "Apple annuncia nuove funzionalità di sicurezza per i minori",
+      "descrizione": "Apple ha svelato nuove funzionalità per gli account destinati ai minori che permettono ai genitori di bloccare l'accesso a contenuti non adatti all'età. The post Apple annuncia nuove funzionalità di sicurezza per i minor",
+      "link": "https://www.punto-informatico.it/apple-annuncia-nuove-funzionalita-sicurezza-minori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T11:02:55+00:00"
+    },
+    {
+      "titolo": "Amazon genera magliette con l’AI e le stampa su richiesta",
+      "descrizione": "Alexa genera le immagini, Amazon le stampa sui prodotti e le spedisce con Prime. Printful e i venditori terzi sulla piattaforma sono avvisati. The post Amazon genera magliette con l’AI e le stampa su richiesta appeared f",
+      "link": "https://www.punto-informatico.it/amazon-genera-magliette-ai-stampa-su-richiesta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T10:34:38+00:00"
+    },
+    {
+      "titolo": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
+      "descrizione": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
+      "fonte": "WIRED",
+      "data": "2026-06-09T10:30:00+00:00"
+    },
+    {
+      "titolo": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
+      "descrizione": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook.",
+      "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "fonte": "WIRED",
+      "data": "2026-06-09T10:00:00+00:00"
     },
     {
       "titolo": "Mondiali di calcio 2026, boom di truffe online: nel mirino i tifosi",
@@ -21,20 +147,6 @@
       "link": "https://www.punto-informatico.it/mondiali-calcio-2026-boom-truffe-online/",
       "fonte": "Punto Informatico",
       "data": "2026-06-09T09:53:50+00:00"
-    },
-    {
-      "titolo": "Mondiali 2026 su DAZN, quanto costa vederli: abbonamenti, Pass e partite",
-      "descrizione": "La Coppa del Mondo FIFA 2026 sarà trasmessa integralmente da DAZN",
-      "link": "https://www.hdblog.it/benchmark/articoli/n660788/mondiali-2026-dazn-quanto-costa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:50:00+00:00"
-    },
-    {
-      "titolo": "Biogas in forte crescita: il mercato globale può raddoppiare entro il 2034",
-      "descrizione": "L’Europa domina il settore del biogas con oltre il 70% del mercato mondiale grazie a REPowerEU, agli impianti esistenti e alla filiera del biometano",
-      "link": "https://www.hdblog.it/green/articoli/n660790/biogas-mercato-applicazioni-italia-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:45:00+00:00"
     },
     {
       "titolo": "Safari genera estensioni da prompt, basta descrivere cosa si vuole",
@@ -51,123 +163,11 @@
       "data": "2026-06-09T09:38:12+00:00"
     },
     {
-      "titolo": "Richiamo globale per Stellantis: oltre 1,3 milioni di Jeep a rischio incendio",
-      "descrizione": "Un difetto al cablaggio del servosterzo dei modelli Wrangler e Gladiator prodotti dal 2021 al 2025 all’origine del richiamo, uno dei più grandi di sempre per Stellantis.",
-      "link": "https://www.hdmotori.it/stellantis-richiamo-jeep-incendio/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:30:49+00:00"
-    },
-    {
-      "titolo": "Google aggiorna Gemini for Home: meteo più preciso e smart display più utili",
-      "descrizione": "Google aggiorna Gemini for Home con nuove funzioni per smart display, meteo dettagliato, notizie personalizzate e una gestione più naturale dei contenuti multimediali",
-      "link": "https://www.hdblog.it/google/articoli/n660786/gemini-for-home-aggiornamento-novita-quali/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:25:00+00:00"
-    },
-    {
-      "titolo": "Morph: la tecnologia di robotica soft imita il polpo",
-      "descrizione": "La startup morph lancia celle robotiche flessibili e intelligenti per lo sport e la salute.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660771/morph-robotica-morbida-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:05:00+00:00"
-    },
-    {
       "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
       "descrizione": "Segnalati problemi con i servizi di OpenAI: molti utenti stanno lamentando un down di ChatGPT con i feedback inviati a Downdetector. The post ChatGPT down il 9 giugno: cosa sta succedendo? (update) appeared first on Punt",
       "link": "https://www.punto-informatico.it/chatgpt-down-09062026/",
       "fonte": "Punto Informatico",
       "data": "2026-06-09T09:01:48+00:00"
-    },
-    {
-      "titolo": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
-      "descrizione": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
-      "link": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
-      "fonte": "Latest news",
-      "data": "2026-06-09T09:00:44+00:00"
-    },
-    {
-      "titolo": "Addio a una icona BMW: il Motorsport piange Herbert Schnitzer",
-      "descrizione": "Herbert Schnitzer, l’uomo dei successi storici del marchio BMW nell’automobilismo, è scomparso all’età di 85 anni",
-      "link": "https://www.hdmotori.it/addio-herbert-schnitzer-bmw/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T09:00:23+00:00"
-    },
-    {
-      "titolo": "Google AI Plus potenzia l'offerta: prezzo giù e spazio raddoppiato",
-      "descrizione": "Gemini è ora più accessibile.",
-      "link": "https://www.hdblog.it/google/articoli/n660770/google-ai-plus-piano-costo-calo-cosa-include/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:50:00+00:00"
-    },
-    {
-      "titolo": "5 best buy unici e imperdibili solo su eBay: ultimi pezzi",
-      "descrizione": "Dai un'occhiata a questi best buy unici e imperdibili disponibili in esclusiva solamente su eBay, ma fai veloce perché sono gli ultimi pezzi. The post 5 best buy unici e imperdibili solo su eBay: ultimi pezzi appeared fi",
-      "link": "https://www.punto-informatico.it/5-best-buy-unici-e-imperdibili-solo-su-ebay-ultimi-pezzi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T08:45:40+00:00"
-    },
-    {
-      "titolo": "Un'esperienza di acquisto guidata: Prodotti per aziende di Amazon Business in Italia",
-      "descrizione": "Amazon Business lancia in Italia il programma Prodotti per aziende, con acquisti semplificati e offerte dedicate ai professionisti.",
-      "link": "https://www.hdblog.it/business/articoli/n660758/prodotti-per-aziende-amazon-business-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:45:00+00:00"
-    },
-    {
-      "titolo": "Apple apre Xcode agli agenti AI: sviluppo più rapido con ChatGPT, Gemini e Claude",
-      "descrizione": "Apple accelera lo sviluppo di app con nuovi framework di intelligenza e strumenti avanzati",
-      "link": "https://www.hdblog.it/apple/articoli/n660777/apple-apre-xcode-agenti-ai-cosa-cambia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:40:00+00:00"
-    },
-    {
-      "titolo": "Robot tenta l'impresa: scala un vulcano di 6200 metri e punta all'Everest",
-      "descrizione": "Il robot Pemba sale a quota 6200 metri in Ecuador, il team ora pianifica la scalata dell'Everest.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660772/robot-umanoide-scala-vulcano-chimborazo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:35:00+00:00"
-    },
-    {
-      "titolo": "Solo 17€ per la Bilancia Smart di Xiaomi su eBay",
-      "descrizione": "Su eBay la fantastica e completa Bilancia Smart Scale S2000 di Xiaomi è in offerta a un prezzo imperdibile: acquistala a soli 17€. The post Solo 17€ per la Bilancia Smart di Xiaomi su eBay appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/solo-17-euro-bilancia-smart-xiaomi-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T08:29:56+00:00"
-    },
-    {
-      "titolo": "Anche Xiaomi lavora a un anti-iPhone Ultra: lancio ormai imminente",
-      "descrizione": "Potrebbe essere lanciato già ad agosto.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660774/xiaomi-mix-fold-wide-iphone-ultra/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:25:00+00:00"
-    },
-    {
-      "titolo": "Brave Origin, il minimalismo si paga caro: 60$ per un browser senza feature superflue",
-      "descrizione": "Sostanzialmente è il solito Brave, ma con tutte le funzionalità extra come VPN, AI e crypto disattivate.",
-      "link": "https://www.hdblog.it/android/articoli/n660763/brave-origin-browser-privacy-prezzo-minimal/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T08:15:00+00:00"
-    },
-    {
-      "titolo": "Compressore portatile Xiaomi per ogni esigenza oggi a un prezzaccio",
-      "descrizione": "Il compressore portatile Xiaomi è in grado di gonfiare qualsiasi cosa in modo rapido, è pratico e oggi lo trovi in offerta su eBay. The post Compressore portatile Xiaomi per ogni esigenza oggi a un prezzaccio appeared fi",
-      "link": "https://www.punto-informatico.it/compressore-portatile-xiaomi-ogni-esigenza-oggi-prezzaccio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T08:08:47+00:00"
-    },
-    {
-      "titolo": "WhatsApp non funziona? Aggiornamenti sul down del 9 giugno",
-      "descrizione": "Problemi segnalati da alcuni utenti WhatsApp: monitoriamo la situazione relativa al down del 9 giugno 2026. The post WhatsApp non funziona? Aggiornamenti sul down del 9 giugno appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/whatsapp-down-09062026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T08:06:00+00:00"
-    },
-    {
-      "titolo": "App Scorciatoie di iOS 27 crea automazioni da descrizioni",
-      "descrizione": "L'app Scorciatoie di iOS 27 permette di creare automazioni descrivendo cosa si vuole in linguaggio naturale. Apple Intelligence costruisce le azioni. The post App Scorciatoie di iOS 27 crea automazioni da descrizioni app",
-      "link": "https://www.punto-informatico.it/app-scorciatorie-ios-27-crea-automazioni-descrizioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T08:00:46+00:00"
     }
   ]
 }
