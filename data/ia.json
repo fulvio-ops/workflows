@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-08T20:35:15.655296+00:00",
+  "last_updated": "2026-06-09T04:36:59.211343+00:00",
   "items": [
     {
-      "titolo": "E' possibile ridurre i tempi di imbarco in aereo? Esiste un metodo scientifico",
-      "descrizione": "Un nuovo simulatore svela i segreti dei tempi di imbarco e il metodo scientifico più rapido.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660627/metodi-imbarco-aereo-veloci/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T16:15:00+00:00",
+      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T21:31:58+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Crypto-Funded Chinese Peptide Labs Are Booming",
-      "descrizione": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
       "fonte": "WIRED",
-      "data": "2026-06-06T10:30:00+00:00",
+      "data": "2026-06-08T21:31:58+00:00",
       "modello": "claude"
     },
     {

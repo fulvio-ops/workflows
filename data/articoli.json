@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-08T20:35:12.530116+00:00",
+  "last_updated": "2026-06-09T04:36:54.045684+00:00",
   "items": [
+    {
+      "titolo": "The two biggest iOS 27 features at WWDC for me had nothing to do with Siri AI",
+      "descrizione": "Enhancements to foundational technologies are always welcomed - and potentially more useful - than the flashier ones.",
+      "link": "https://www.zdnet.com/article/ios-27-connectivity-upgrades/",
+      "fonte": "Latest news",
+      "data": "2026-06-09T01:27:00+00:00"
+    },
+    {
+      "titolo": "I found the quickest way to find blocked numbers on your iPhone - and it's so reliable",
+      "descrizione": "You can find, manage, and add blocked numbers from the same place on your iPhone. Here's how I do it.",
+      "link": "https://www.zdnet.com/article/how-to-find-blocked-numbers-on-iphone/",
+      "fonte": "Latest news",
+      "data": "2026-06-09T01:06:00+00:00"
+    },
+    {
+      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T21:31:58+00:00"
+    },
+    {
+      "titolo": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
+      "descrizione": "Social media posts questioning the integrity of LA’s mayoral election were labeled “paid partnerships.” Then Kalshi and Polymarket told creators to delete them.",
+      "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+      "fonte": "WIRED",
+      "data": "2026-06-08T21:23:27+00:00"
+    },
     {
       "titolo": "Levelplay shows off magnetically attached fans that are reversible, connect via pogo pins and USB-C – plus an AIO that trades a screen for a big knob",
       "descrizione": "Levelplay took to Computex with some interesting cooling concepts, like magnetic fans that can be reversed in seconds, and an AIO that puts a big tactile knob for fan control on top of your CPU.",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/come-usare-ai-ogni-mattina-iniziare-giornata-senza-ansia/",
       "fonte": "Punto Informatico",
       "data": "2026-06-08T15:30:27+00:00"
-    },
-    {
-      "titolo": "Energia rinnovabile: UE approva aiuto di Stato italiano",
-      "descrizione": "La Commissione europea ha approvato un aiuto di Stato italiano da 23 miliardi di euro per supportare la produzione di energia da fonti rinnovabili. The post Energia rinnovabile: UE approva aiuto di Stato italiano appeare",
-      "link": "https://www.punto-informatico.it/energia-rinnovabile-ue-approva-aiuto-stato-italiano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T15:27:50+00:00"
-    },
-    {
-      "titolo": "Internxt sconta i suoi piani per il cloud a vita: -85% con la promo di giugno 2026",
-      "descrizione": "Il cloud a vita di Internxt ora è in offerta con possibilità di risparmiare l'85% sui piani fino a 5 TB: ecco le offerte disponibili oggi. The post Internxt sconta i suoi piani per il cloud a vita: -85% con la promo di g",
-      "link": "https://www.punto-informatico.it/internxt-sconta-i-suoi-piani-per-il-cloud-a-vita-85-con-la-promo-di-giugno-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T15:00:43+00:00"
-    },
-    {
-      "titolo": "This free Android launcher made my phone and tablet look like Windows 11 - here's how",
-      "descrizione": "I don't like the Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway with HyperDroid. Here's the result.",
-      "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
-      "fonte": "Latest news",
-      "data": "2026-06-08T14:32:19+00:00"
-    },
-    {
-      "titolo": "Meta contro NSO: nuovi tentativi di spiare gli utenti WhatsApp",
-      "descrizione": "Nuove campagne malevole riconducibili a NSO avrebbero preso di mira utenti WhatsApp tramite link esterni e tecniche di social engineering. The post Meta contro NSO: nuovi tentativi di spiare gli utenti WhatsApp appeared",
-      "link": "https://www.punto-informatico.it/meta-contro-nso-nuovi-tentativi-spiare-utenti-whatsapp/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-08T14:17:59+00:00"
     }
   ]
 }
