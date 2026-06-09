@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-09T04:36:54.045684+00:00",
+  "last_updated": "2026-06-09T10:03:25.570615+00:00",
   "items": [
     {
-      "titolo": "The two biggest iOS 27 features at WWDC for me had nothing to do with Siri AI",
-      "descrizione": "Enhancements to foundational technologies are always welcomed - and potentially more useful - than the flashier ones.",
-      "link": "https://www.zdnet.com/article/ios-27-connectivity-upgrades/",
+      "titolo": "Piaggio, con il \"Porte Aperte\" di giugno sconti su tutta la gamma",
+      "descrizione": "Piaggio lancia le offerte di giugno su scooter a ruota alta e tre ruote. Dal 9 al 13 giugno test ride gratuiti in concessionaria: ecco i modelli in promozione.",
+      "link": "https://www.hdmotori.it/piaggio-porte-aperte-giugno-sconti/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T10:00:23+00:00"
+    },
+    {
+      "titolo": "Nostalgia di un Blocco Note essenziale e leggero? TinyRetroPad occupa meno di 3 KB",
+      "descrizione": "2.782 byte,per essere precisi. E ha tutte le feature del Blocco Note di Windows XP - con qualche extra.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660792/blocco-note-tinyretropad-minimal-3-kb/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:55:00+00:00"
+    },
+    {
+      "titolo": "Mondiali di calcio 2026, boom di truffe online: nel mirino i tifosi",
+      "descrizione": "Dai biglietti inesistenti agli APK infetti per Android, sono queste le principali minacce online collegate ai Mondiali di calcio 2026. The post Mondiali di calcio 2026, boom di truffe online: nel mirino i tifosi appeared",
+      "link": "https://www.punto-informatico.it/mondiali-calcio-2026-boom-truffe-online/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:53:50+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026 su DAZN, quanto costa vederli: abbonamenti, Pass e partite",
+      "descrizione": "La Coppa del Mondo FIFA 2026 sarà trasmessa integralmente da DAZN",
+      "link": "https://www.hdblog.it/benchmark/articoli/n660788/mondiali-2026-dazn-quanto-costa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:50:00+00:00"
+    },
+    {
+      "titolo": "Biogas in forte crescita: il mercato globale può raddoppiare entro il 2034",
+      "descrizione": "L’Europa domina il settore del biogas con oltre il 70% del mercato mondiale grazie a REPowerEU, agli impianti esistenti e alla filiera del biometano",
+      "link": "https://www.hdblog.it/green/articoli/n660790/biogas-mercato-applicazioni-italia-crescita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:45:00+00:00"
+    },
+    {
+      "titolo": "Safari genera estensioni da prompt, basta descrivere cosa si vuole",
+      "descrizione": "Apple risolve il problema delle estensioni Safari lasciando che gli utenti le creino con i prompt. Arrivano anche le schede raggruppate per argomento. The post Safari genera estensioni da prompt, basta descrivere cosa si",
+      "link": "https://www.punto-informatico.it/safari-genera-estensioni-prompt-basta-descrivere-cosa-si-vuole/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:41:19+00:00"
+    },
+    {
+      "titolo": "Apple Intelligence sui server di Google con GPU NVIDIA",
+      "descrizione": "Le nuove funzionalità di Apple Intelligence sfruttano modelli AI più avanzati basati su Gemini ed eseguiti sui server di Google con GPU NVIDIA. The post Apple Intelligence sui server di Google con GPU NVIDIA appeared fir",
+      "link": "https://www.punto-informatico.it/apple-intelligence-sui-server-di-google-con-gpu-nvidia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:38:12+00:00"
+    },
+    {
+      "titolo": "Richiamo globale per Stellantis: oltre 1,3 milioni di Jeep a rischio incendio",
+      "descrizione": "Un difetto al cablaggio del servosterzo dei modelli Wrangler e Gladiator prodotti dal 2021 al 2025 all’origine del richiamo, uno dei più grandi di sempre per Stellantis.",
+      "link": "https://www.hdmotori.it/stellantis-richiamo-jeep-incendio/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:30:49+00:00"
+    },
+    {
+      "titolo": "Google aggiorna Gemini for Home: meteo più preciso e smart display più utili",
+      "descrizione": "Google aggiorna Gemini for Home con nuove funzioni per smart display, meteo dettagliato, notizie personalizzate e una gestione più naturale dei contenuti multimediali",
+      "link": "https://www.hdblog.it/google/articoli/n660786/gemini-for-home-aggiornamento-novita-quali/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:25:00+00:00"
+    },
+    {
+      "titolo": "Morph: la tecnologia di robotica soft imita il polpo",
+      "descrizione": "La startup morph lancia celle robotiche flessibili e intelligenti per lo sport e la salute.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660771/morph-robotica-morbida-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T09:05:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
+      "descrizione": "Segnalati problemi con i servizi di OpenAI: molti utenti stanno lamentando un down di ChatGPT con i feedback inviati a Downdetector. The post ChatGPT down il 9 giugno: cosa sta succedendo? (update) appeared first on Punt",
+      "link": "https://www.punto-informatico.it/chatgpt-down-09062026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:01:48+00:00"
+    },
+    {
+      "titolo": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
+      "descrizione": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
+      "link": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
       "fonte": "Latest news",
-      "data": "2026-06-09T01:27:00+00:00"
+      "data": "2026-06-09T09:00:44+00:00"
     },
     {
-      "titolo": "I found the quickest way to find blocked numbers on your iPhone - and it's so reliable",
-      "descrizione": "You can find, manage, and add blocked numbers from the same place on your iPhone. Here's how I do it.",
-      "link": "https://www.zdnet.com/article/how-to-find-blocked-numbers-on-iphone/",
-      "fonte": "Latest news",
-      "data": "2026-06-09T01:06:00+00:00"
-    },
-    {
-      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T21:31:58+00:00"
-    },
-    {
-      "titolo": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
-      "descrizione": "Social media posts questioning the integrity of LA’s mayoral election were labeled “paid partnerships.” Then Kalshi and Polymarket told creators to delete them.",
-      "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T21:23:27+00:00"
-    },
-    {
-      "titolo": "Levelplay shows off magnetically attached fans that are reversible, connect via pogo pins and USB-C – plus an AIO that trades a screen for a big knob",
-      "descrizione": "Levelplay took to Computex with some interesting cooling concepts, like magnetic fans that can be reversed in seconds, and an AIO that puts a big tactile knob for fan control on top of your CPU.",
-      "link": "https://www.tomshardware.com/pc-components/cooling/levelplay-shows-off-magnetically-attached-fans-that-are-reversible-connect-via-pogo-pins-and-usb-c-plus-an-aio-that-trades-a-screen-for-a-big-knob",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-08T19:32:35+00:00"
-    },
-    {
-      "titolo": "Recensione Honor MagicBook 16 2026: il notebook da 16\" che dura un giorno intero (con Panther Lake) | VIDEO",
-      "descrizione": "Honor MagicBook 16 2026: dopo 2 settimane di test sul campo, analizziamo nel dettaglio il notebook da 16\" con Intel Core Ultra 5 325 e batteria da 80Wh. Per meno di 999 euro merita la vostra...",
-      "link": "https://www.hdblog.it/portatili/recensioni/n660023/honor-magicbook-recensione-test-prezzo/",
+      "titolo": "Addio a una icona BMW: il Motorsport piange Herbert Schnitzer",
+      "descrizione": "Herbert Schnitzer, l’uomo dei successi storici del marchio BMW nell’automobilismo, è scomparso all’età di 85 anni",
+      "link": "https://www.hdmotori.it/addio-herbert-schnitzer-bmw/",
       "fonte": "HDblog.it",
-      "data": "2026-06-08T19:00:00+00:00"
+      "data": "2026-06-09T09:00:23+00:00"
     },
     {
-      "titolo": "Apple rilascia le prime beta di iOS 27, iPadOS 26, macOS 27 e watchOS 27",
-      "descrizione": "Riservate agli sviluppatori",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660733/apple-rilascia-prime-beta-ios-27/",
+      "titolo": "Google AI Plus potenzia l'offerta: prezzo giù e spazio raddoppiato",
+      "descrizione": "Gemini è ora più accessibile.",
+      "link": "https://www.hdblog.it/google/articoli/n660770/google-ai-plus-piano-costo-calo-cosa-include/",
       "fonte": "HDblog.it",
-      "data": "2026-06-08T18:50:00+00:00"
+      "data": "2026-06-09T08:50:00+00:00"
     },
     {
-      "titolo": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
-      "descrizione": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
-      "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T18:40:32+00:00"
-    },
-    {
-      "titolo": "Apple Intelligence cambia architettura: Siri riparte da Gemini e da nuovo modello AI",
-      "descrizione": "Apple ha annunciato alla WWDC 2026 una revisione importante di Apple Intelligence, partendo da una nuova architettura costruita su Foundation Models sviluppati in collaborazione con Google e basati...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660726/apple-intelligence-cambia-architettura-siri/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T17:50:00+00:00"
-    },
-    {
-      "titolo": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-      "descrizione": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-      "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T17:44:28+00:00"
-    },
-    {
-      "titolo": "iOS 27 e iPadOS 27 ufficiali: Apple migliora interfaccia, ricerca e accelera le app",
-      "descrizione": "Apple ha ufficializzato iOS 27, il prossimo grande aggiornamento software per iPhone. La nuova versione non si presenta come una release costruita attorno a una sola funzione, ma come un intervento...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660712/ios-27-ufficiale-apple-prestazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T17:35:00+00:00"
-    },
-    {
-      "titolo": "macOS 27 Golden Gate ufficiale alla WWDC 2026, le principali novità",
-      "descrizione": "Il sistema operativo dei Mac evolve ancora.",
-      "link": "https://www.hdblog.it/apple/articoli/n660723/macos-27-novita-liquid-glass-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T17:24:00+00:00"
-    },
-    {
-      "titolo": "NSO continua a prendere di mira WhatsApp, Meta torna in tribunale",
-      "descrizione": "Zuckerberg e soci accusano la controversa società israeliana di aver violato gli ordini del tribunale.",
-      "link": "https://www.hdblog.it/android/articoli/n660710/whatsapp-nso-pegasus-tribunale-spear-phishing/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T17:05:00+00:00"
-    },
-    {
-      "titolo": "Addio a un'icona di concretezza: la Fiat Tipo è fuori produzione",
-      "descrizione": "Dopo undici anni di successi, la Fiat Tipo esce dal configuratore e rimane disponibile unicamente in stock. A ottobre sarà sostituita dalla Grizzly.",
-      "link": "https://www.hdmotori.it/addio-fiat-tipo-fuori-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T17:00:04+00:00"
-    },
-    {
-      "titolo": "NotebookLM si aggiorna con Gemini 3.5: cosa cambia",
-      "descrizione": "NotebookLM passa a Gemini 3.5 con ragionamento visibile, output in XLSX, PPTX, SVG e altri formati, e la possibilità di partire da idee vaghe. The post NotebookLM si aggiorna con Gemini 3.5: cosa cambia appeared first on",
-      "link": "https://www.punto-informatico.it/notebooklm-si-aggiorna-gemini-3-5-cosa-cambia/",
+      "titolo": "5 best buy unici e imperdibili solo su eBay: ultimi pezzi",
+      "descrizione": "Dai un'occhiata a questi best buy unici e imperdibili disponibili in esclusiva solamente su eBay, ma fai veloce perché sono gli ultimi pezzi. The post 5 best buy unici e imperdibili solo su eBay: ultimi pezzi appeared fi",
+      "link": "https://www.punto-informatico.it/5-best-buy-unici-e-imperdibili-solo-su-ebay-ultimi-pezzi/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-08T16:59:44+00:00"
+      "data": "2026-06-09T08:45:40+00:00"
     },
     {
-      "titolo": "Reattore a fusione ARC da 400 MW: sempre più vicino all'uso commerciale",
-      "descrizione": "Il progetto del reattore ARC è realistico e produrrà 400 megawatt di elettricità netta.",
-      "link": "https://www.hdblog.it/green/articoli/n660602/fusione-nucleare-reattore-arc-cfs/",
+      "titolo": "Un'esperienza di acquisto guidata: Prodotti per aziende di Amazon Business in Italia",
+      "descrizione": "Amazon Business lancia in Italia il programma Prodotti per aziende, con acquisti semplificati e offerte dedicate ai professionisti.",
+      "link": "https://www.hdblog.it/business/articoli/n660758/prodotti-per-aziende-amazon-business-italia/",
       "fonte": "HDblog.it",
-      "data": "2026-06-08T16:55:00+00:00"
+      "data": "2026-06-09T08:45:00+00:00"
     },
     {
-      "titolo": "Addio all’orbiter MAVEN della NASA dopo 11 anni",
-      "descrizione": "L'orbiter MAVEN ha cessato le sue operazioni di osservazione della superficie marziana e di trasmissione dei dati ricevuti da Curiosity e Perseverance. The post Addio all’orbiter MAVEN della NASA dopo 11 anni appeared fi",
-      "link": "https://www.punto-informatico.it/addio-orbiter-maven-nasa-dopo-11-anni/",
+      "titolo": "Apple apre Xcode agli agenti AI: sviluppo più rapido con ChatGPT, Gemini e Claude",
+      "descrizione": "Apple accelera lo sviluppo di app con nuovi framework di intelligenza e strumenti avanzati",
+      "link": "https://www.hdblog.it/apple/articoli/n660777/apple-apre-xcode-agenti-ai-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T08:40:00+00:00"
+    },
+    {
+      "titolo": "Robot tenta l'impresa: scala un vulcano di 6200 metri e punta all'Everest",
+      "descrizione": "Il robot Pemba sale a quota 6200 metri in Ecuador, il team ora pianifica la scalata dell'Everest.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660772/robot-umanoide-scala-vulcano-chimborazo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T08:35:00+00:00"
+    },
+    {
+      "titolo": "Solo 17€ per la Bilancia Smart di Xiaomi su eBay",
+      "descrizione": "Su eBay la fantastica e completa Bilancia Smart Scale S2000 di Xiaomi è in offerta a un prezzo imperdibile: acquistala a soli 17€. The post Solo 17€ per la Bilancia Smart di Xiaomi su eBay appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/solo-17-euro-bilancia-smart-xiaomi-ebay/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-08T16:36:48+00:00"
+      "data": "2026-06-09T08:29:56+00:00"
     },
     {
-      "titolo": "Qualche problema di stabilità per PC Dell e HP, stavolta Microsoft è innocente",
-      "descrizione": "Dell ha distribuito una versione buggata del suo assistente al troubleshooting, HP ha sbagliato ad applicare alcuni certificati di autenticazione.",
-      "link": "https://www.hdblog.it/portatili/articoli/n660708/hp-dell-laptop-alienware-crash-bsod-certificati/",
+      "titolo": "Anche Xiaomi lavora a un anti-iPhone Ultra: lancio ormai imminente",
+      "descrizione": "Potrebbe essere lanciato già ad agosto.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660774/xiaomi-mix-fold-wide-iphone-ultra/",
       "fonte": "HDblog.it",
-      "data": "2026-06-08T16:35:00+00:00"
+      "data": "2026-06-09T08:25:00+00:00"
     },
     {
-      "titolo": "Honda Civic Type R: la HRC sarà prodotta",
-      "descrizione": "La Casa giapponese porterà al debutto nel 2026 una Civic Type R HRC Concept. Honda vuole alzare l’asticella con aggiornamenti mirati",
-      "link": "https://www.hdmotori.it/honda-civic-type-r-hrc/",
+      "titolo": "Brave Origin, il minimalismo si paga caro: 60$ per un browser senza feature superflue",
+      "descrizione": "Sostanzialmente è il solito Brave, ma con tutte le funzionalità extra come VPN, AI e crypto disattivate.",
+      "link": "https://www.hdblog.it/android/articoli/n660763/brave-origin-browser-privacy-prezzo-minimal/",
       "fonte": "HDblog.it",
-      "data": "2026-06-08T16:30:13+00:00"
+      "data": "2026-06-09T08:15:00+00:00"
     },
     {
-      "titolo": "Fumetti Marvel e DC su eBay Live: ci sono anche rare variant autografate",
-      "descrizione": "L'8 giugno alle 19:00 su eBay Live c'è l'evento dedicato agli appassionati di fumetti USA: variant esclusive, variant autografate e albi CGC Signature Series di Marvel, DC e non solo.",
-      "link": "https://www.hdblog.it/hardware/offerte/n660653/ebay-live-evento-fumetti-marvel-dc-8-giugno/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T16:30:00+00:00"
-    },
-    {
-      "titolo": "Artemis II: le analisi segrete della NASA sono in corso",
-      "descrizione": "La NASA studia gli effetti del volo di Artemis II sulla salute e analizza i dati geologici lunari.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660617/artemis-ii-ricerca-salute-astronauta/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T16:25:00+00:00"
-    },
-    {
-      "titolo": "L’AI consumerà 9.300 miliardi di litri d’acqua all’anno entro il 2030",
-      "descrizione": "Un rapporto ONU stima che i data center AI consumeranno il fabbisogno di 1,3 miliardi di persone entro il 2030. The post L’AI consumerà 9.300 miliardi di litri d’acqua all’anno entro il 2030 appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/ai-consumera-9300-miliardi-litri-acqua-anno-entro-2030/",
+      "titolo": "Compressore portatile Xiaomi per ogni esigenza oggi a un prezzaccio",
+      "descrizione": "Il compressore portatile Xiaomi è in grado di gonfiare qualsiasi cosa in modo rapido, è pratico e oggi lo trovi in offerta su eBay. The post Compressore portatile Xiaomi per ogni esigenza oggi a un prezzaccio appeared fi",
+      "link": "https://www.punto-informatico.it/compressore-portatile-xiaomi-ogni-esigenza-oggi-prezzaccio/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-08T16:24:56+00:00"
+      "data": "2026-06-09T08:08:47+00:00"
     },
     {
-      "titolo": "Xiaomi, il robot umanoide riesce a scattare foto con lo smartphone",
-      "descrizione": "Lo show durante la presentazione in Cina dei nuovi smartphone.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660703/xiaomi-robot-umanoide-scatta-foto/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-08T16:10:00+00:00"
-    },
-    {
-      "titolo": "Come usare l’AI ogni mattina per iniziare la giornata senza ansia",
-      "descrizione": "5 abitudini che richiedono pochi minuti ciascuna e usano l'AI per trasformare le mattine caotiche in partenze più lucide. The post Come usare l’AI ogni mattina per iniziare la giornata senza ansia appeared first on Punto",
-      "link": "https://www.punto-informatico.it/come-usare-ai-ogni-mattina-iniziare-giornata-senza-ansia/",
+      "titolo": "WhatsApp non funziona? Aggiornamenti sul down del 9 giugno",
+      "descrizione": "Problemi segnalati da alcuni utenti WhatsApp: monitoriamo la situazione relativa al down del 9 giugno 2026. The post WhatsApp non funziona? Aggiornamenti sul down del 9 giugno appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/whatsapp-down-09062026/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-08T15:30:27+00:00"
+      "data": "2026-06-09T08:06:00+00:00"
+    },
+    {
+      "titolo": "App Scorciatoie di iOS 27 crea automazioni da descrizioni",
+      "descrizione": "L'app Scorciatoie di iOS 27 permette di creare automazioni descrivendo cosa si vuole in linguaggio naturale. Apple Intelligence costruisce le azioni. The post App Scorciatoie di iOS 27 crea automazioni da descrizioni app",
+      "link": "https://www.punto-informatico.it/app-scorciatorie-ios-27-crea-automazioni-descrizioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T08:00:46+00:00"
     }
   ]
 }

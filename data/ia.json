@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-06-09T04:36:59.211343+00:00",
+  "last_updated": "2026-06-09T10:03:29.926256+00:00",
   "items": [
     {
-      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T21:31:58+00:00",
+      "titolo": "ChatGPT down il 9 giugno: cosa sta succedendo? (update)",
+      "descrizione": "Segnalati problemi con i servizi di OpenAI: molti utenti stanno lamentando un down di ChatGPT con i feedback inviati a Downdetector. The post ChatGPT down il 9 giugno: cosa sta succedendo? (update) appeared first on Punt",
+      "link": "https://www.punto-informatico.it/chatgpt-down-09062026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:01:48+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Apple’s New Siri AI Is Ready to Get Personal",
-      "descrizione": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T18:17:44+00:00",
+      "titolo": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life",
+      "descrizione": "Linux developer uses AI to help update Linux GPU driver support for vintage HD 2000 - HD 6000 series.",
+      "link": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-09T09:40:06+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Apple Intelligence sui server di Google con GPU NVIDIA",
+      "descrizione": "Le nuove funzionalità di Apple Intelligence sfruttano modelli AI più avanzati basati su Gemini ed eseguiti sui server di Google con GPU NVIDIA. The post Apple Intelligence sui server di Google con GPU NVIDIA appeared fir",
+      "link": "https://www.punto-informatico.it/apple-intelligence-sui-server-di-google-con-gpu-nvidia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-09T09:38:12+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "descrizione": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "fonte": "WIRED",
-      "data": "2026-06-08T21:31:58+00:00",
+      "titolo": "Apple apre Xcode agli agenti AI: sviluppo più rapido con ChatGPT, Gemini e Claude",
+      "descrizione": "Apple accelera lo sviluppo di app con nuovi framework di intelligenza e strumenti avanzati",
+      "link": "https://www.hdblog.it/apple/articoli/n660777/apple-apre-xcode-agenti-ai-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-09T08:40:00+00:00",
       "modello": "claude"
     },
     {
