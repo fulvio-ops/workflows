@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-10T10:34:04.724722+00:00",
+  "last_updated": "2026-06-10T16:09:33.609715+00:00",
   "items": [
     {
-      "titolo": "Il segreto delle api arriva sui droni: addio al GPS",
-      "descrizione": "Ispirandosi alle api, i ricercatori creano un sistema leggerissimo per droni senza GPS.",
-      "link": "https://www.hdblog.it/droni/articoli/n660831/droni-navigazione-api-delft/",
+      "titolo": "Il software che anticipa i medici: ecco come l'AI sta svuotando le terapie intensive",
+      "descrizione": "Al Tampa General Hospital l'AI di Palantir rileva la sepsi in tempo reale e salva 886 vite.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660966/palantir-sepsi-ospedale-florida/",
       "fonte": "HDblog.it",
-      "data": "2026-06-10T09:10:00+00:00",
+      "data": "2026-06-10T15:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,12 +26,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Fable 5: protezioni per bloccare usi illeciti",
-      "descrizione": "Anthropic ha implementato protezioni per impedire che Claude Fable 5 possa rispondere a richieste pericolose su cybersicurezza, biologia e chimica. The post Claude Fable 5: protezioni per bloccare usi illeciti appeared f",
-      "link": "https://www.punto-informatico.it/claude-fable-5-protezioni-bloccare-usi-illeciti/",
+      "titolo": "Claude Fable 5 genera giochi, mappe e software da un solo prompt",
+      "descrizione": "Fable 5 di Anthropic porta il vibe coding a un nuovo livello. Secondo il ricercatore Ethan Mollick i risultati sono sorprendenti. The post Claude Fable 5 genera giochi, mappe e software da un solo prompt appeared first o",
+      "link": "https://www.punto-informatico.it/claude-fable-5-genera-giochi-mappe-software-un-solo-prompt/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-10T10:19:37+00:00",
+      "data": "2026-06-10T12:30:07+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "I've tested so many desktop AI tools, but Hermes with Ollama is my new favorite - here's why",
+      "descrizione": "Local AI is the way to go, and Hermes with open-source Ollama is my preferred setup right now.",
+      "link": "https://www.zdnet.com/article/hermes-ollama-hands-on-desktop-ai-tool/",
+      "fonte": "Latest news",
+      "data": "2026-06-10T14:18:00+00:00",
+      "modello": "altri"
     }
   ]
 }

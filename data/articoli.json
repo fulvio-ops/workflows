@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-10T10:34:00.859376+00:00",
+  "last_updated": "2026-06-10T16:09:29.063846+00:00",
   "items": [
     {
-      "titolo": "Bosch punta sugli umanoidi, porteranno un miliardo di fatturato all’anno",
-      "descrizione": "Il presidente Hartung disegna le strategie del colosso tedesco: i robot saranno impiegati sulle linee di produzione, nei servizi e nelle abitazioni",
-      "link": "https://www.ilsole24ore.com/art/bosch-punta-umanoidi-porteranno-miliardo-fatturato-all-anno-AIzb7MaD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-10T10:23:00+00:00"
-    },
-    {
-      "titolo": "La crescita di Revolut frenata dalla BCE: cosa sarebbe successo lo scorso anno",
-      "descrizione": "Secondo il Financial Times, la BCE avrebbe imposto nel 2025 restrizioni temporanee a Revolut, chiedendo controlli più rigorosi prima del lancio di nuovi prodotti finanziari",
-      "link": "https://www.hdblog.it/mercato/articoli/n660929/revolut-bce-frena-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T10:20:00+00:00"
-    },
-    {
-      "titolo": "Claude Fable 5: protezioni per bloccare usi illeciti",
-      "descrizione": "Anthropic ha implementato protezioni per impedire che Claude Fable 5 possa rispondere a richieste pericolose su cybersicurezza, biologia e chimica. The post Claude Fable 5: protezioni per bloccare usi illeciti appeared f",
-      "link": "https://www.punto-informatico.it/claude-fable-5-protezioni-bloccare-usi-illeciti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-10T10:19:37+00:00"
-    },
-    {
-      "titolo": "Le luci Philips Hue reagiscono in tempo reale ai gol dei Mondiali",
-      "descrizione": "Con Sports Live, l'illuminazione smart delle luci Philips Hue si sincronizza con i dati live delle partite: niente HDMI, niente hardware aggiuntivo, basta attivare la funzione nell'app.",
-      "link": "https://www.hdblog.it/philips/articoli/n660911/philips-hue-luci-smart-partite-mondiali-live/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T10:10:00+00:00"
-    },
-    {
-      "titolo": "1000 Miglia, collisione tra un'auto storica e una moto della Polizia | Video",
-      "descrizione": "A Sarezzo, poco dopo la partenza della 1000 Miglia, si è registrato un incidente tra un'auto storica e una motocicletta della Polizia",
-      "link": "https://www.hdmotori.it/1000-miglia-incidente-moto-della-polizia-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T10:00:56+00:00"
-    },
-    {
-      "titolo": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "descrizione": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-      "fonte": "WIRED",
-      "data": "2026-06-10T10:00:00+00:00"
-    },
-    {
-      "titolo": "Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations",
-      "descrizione": "The organization claims that the FIFA tournament could have impacts on the rights of local people and visiting soccer fans in all three host countries.",
-      "link": "https://www.wired.com/story/amnesty-international-world-cup-human-rights/",
-      "fonte": "WIRED",
-      "data": "2026-06-10T10:00:00+00:00"
-    },
-    {
-      "titolo": "Garmin aggiorna Instinct 3 e diversi Forerunner non recenti: le novità",
-      "descrizione": "Garmin ha avviato il rollout dei firmware 14.15 e 28.05 per numerosi modelli delle famiglie Instinct e Forerunner, introducendo correzioni di bug e miglioramenti alla stabilità",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660920/garmin-forerunner-instinct-3-aggiornamento-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:45:00+00:00"
-    },
-    {
-      "titolo": "Final Fantasy Resonance ufficiale: è il primo della saga in stile HD-2D",
-      "descrizione": "Arriverà il 22 ottobre su tutte le console e su PC",
-      "link": "https://www.hdblog.it/games/articoli/n660912/final-fantasy-resonance-hd-2d-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:35:00+00:00"
-    },
-    {
-      "titolo": "Jeremy Clarkson prova la FIAT Grande Panda: giudizio sorprendente",
-      "descrizione": "Il giornalista britannico Jeremy Clarkson si è messo al volante della FIAT Grande Panda e la recensione ha spiazzato tutti",
-      "link": "https://www.hdmotori.it/jeremy-clarkson-fiat-grande-panda/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:30:45+00:00"
-    },
-    {
-      "titolo": "3D-printed nozzles could revolutionize drug and self-healing material manufacturing — MIT-developed triaxial electrospray design makes cleanroom fabrication optional",
-      "descrizione": "MIT's 3D-printed triaxial electrospray nozzles could revolutionize drug and self-healing material manufacturing. By using a relatively inexpensive resin printing approach, the new nozzle fabrication technique removes the",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printed-triaxial-electrospray-nozzles-could-revolutionize-drug-and-self-healing-material-manufacturing-mit-developed-technique-makes-cleanroom-fabrication-optional",
+      "titolo": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks",
+      "descrizione": "AMD has shared the first official results for its 256-core EPYC Venice CPU, saying it beats Nvidia's Vera by 3.3x in a rack-level deployment.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-10T09:30:00+00:00"
+      "data": "2026-06-10T16:00:29+00:00"
     },
     {
-      "titolo": "Fastweb + Vodafone punta sul cloud sovrano: FASTCloud passa all'open source",
-      "descrizione": "Al via la nuova soluzione di cloud computing basata su OpenStack",
-      "link": "https://www.hdblog.it/business/articoli/n660919/fastweb-vodafone-punta-sul-cloud-sovrano/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:25:00+00:00"
-    },
-    {
-      "titolo": "Truffe bancarie, lo spoofing non basta a incolpare il cliente: arriva il rimborso",
-      "descrizione": "Il consumatore avrebbe seguito le istruzioni ricevute convinto di dialogare con la propria banca",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660916/truffe-bancarie-spoofing-non-basta/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:15:00+00:00"
-    },
-    {
-      "titolo": "Tir contromano sulla A26 per 10 km, l'autista era ubriaco",
-      "descrizione": "Terrore sulla A26 per un tir contromano per 10 chilometri. Il conducente è risultato positivo all'alcoltest con un tasso di 2,18",
-      "link": "https://www.hdmotori.it/tir-contromano-a26-10-km-autista-ubriaco/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T09:00:40+00:00"
-    },
-    {
-      "titolo": "Huawei sfida la monotonia: in arrivo smartphone con display 16:10",
-      "descrizione": "Ricorda un Pura X ma senza piega.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660902/huawei-smartphone-16-10-wide-pura-x-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T08:50:00+00:00"
-    },
-    {
-      "titolo": "Asha Sharma: le console sono troppo care, serve un nuovo modello di business",
-      "descrizione": "Che sia il segnale del ritorno al tema del Cloud Gaming come alternativa al fisico?",
-      "link": "https://www.hdblog.it/microsoft/articoli/n660900/asha-sharma-console-care-alternative-business/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T08:40:00+00:00"
-    },
-    {
-      "titolo": "La VPN gratuita integrata di Mozilla Firefox inizia ad arrivare in Italia",
-      "descrizione": "A quanto pare è collegata all'aggiornamento alla versione 151.",
-      "link": "https://www.hdblog.it/windows/articoli/n660908/mozilla-firefox-vpn-gratis-italia-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T08:35:00+00:00"
-    },
-    {
-      "titolo": "Volkswagen Polo Young, ora ha un prezzo adatto alle tasche dei più giovani",
-      "descrizione": "Si chiama Young e ha ampliato le opzioni per chi vuole scegliere una Volkswagen Polo per gli spostamenti quotidiani",
-      "link": "https://www.hdmotori.it/volkswagen-polo-young-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T08:30:38+00:00"
-    },
-    {
-      "titolo": "Basta costi assurdi su Ryanair con questo zaino da viaggio a soli 26€",
-      "descrizione": "Abbatti i costi senza senso di Ryanair per il bagaglio con questo zaino da viaggio che ha le giuste dimensioni e costa solo 26€ circa. The post Basta costi assurdi su Ryanair con questo zaino da viaggio a soli 26€ appear",
-      "link": "https://www.punto-informatico.it/basta-costi-assurdi-ryanair-con-questo-zaino-da-viaggio-soli-26e/",
+      "titolo": "Carta di credito a canone zero e acquisti senza interessi fino a 55 giorni con TF Bank",
+      "descrizione": "La scelta ideale per chi effettua numerose spese con la propria carta e non vuole saldare da subito l'importo. The post Carta di credito a canone zero e acquisti senza interessi fino a 55 giorni con TF Bank appeared firs",
+      "link": "https://www.punto-informatico.it/fintech/carte/carta-di-credito-canone-zero-senza-interessi-tf-bank/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-10T08:03:22+00:00"
+      "data": "2026-06-10T15:56:57+00:00"
     },
     {
-      "titolo": "Musica e chiamate di qualità con gli auricolari wireless JBL Tune Beam Ghost 2",
-      "descrizione": "Con gli auricolari wireless JBL Tune Beam Ghost 2 potrai goderti chiamate perfette e musica coinvolgente per 24 ore complessive. The post Musica e chiamate di qualità con gli auricolari wireless JBL Tune Beam Ghost 2 app",
-      "link": "https://www.punto-informatico.it/musica-chiamate-qualita-con-auricolari-wireless-jbl-tune-beam-ghost-2/",
+      "titolo": "Stonehenge, segreto svelato: come ha viaggiato una pietra da 6 tonnellate",
+      "descrizione": "Uno studio svela che la pietra centrale di Stonehenge è stata mossa dall'uomo per 700 chilometri.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660882/scoperta-trasporto-pietra-stonehenge/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:55:00+00:00"
+    },
+    {
+      "titolo": "Attenzione alle false agenzie di viaggio: l'allarme della Polizia sulla truffa dell'estate",
+      "descrizione": "Alcuni consigli per evitare il peggio.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660977/agenzia-viaggio-falsa-truffa-come-difendersi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:40:00+00:00"
+    },
+    {
+      "titolo": "Samsung non rispetta la garanzia di un SSD: YouTuber minaccia azioni legali",
+      "descrizione": "Il caso di Louis Rossmann che minaccia di portare Samsung in tribunale",
+      "link": "https://www.hdblog.it/samsung/articoli/n660973/samsung-garanzia-non-rispettata-ssd-tribunale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:35:00+00:00"
+    },
+    {
+      "titolo": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "descrizione": "Prime Day may be coming soon, but Costco already has great discounts live on home essentials, top tech, and more.",
+      "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-10T15:34:53+00:00"
+    },
+    {
+      "titolo": "Apple svela dettagli sui nuovi modelli on-device e cloud",
+      "descrizione": "Apple ha svelato cinque modelli AI di terza generazione (due on-device e tre cloud), uno dei quali viene eseguito sui server di Google con GPU NVIDIA. The post Apple svela dettagli sui nuovi modelli on-device e cloud app",
+      "link": "https://www.punto-informatico.it/apple-svela-dettagli-nuovi-modelli-on-device-cloud/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-10T07:46:58+00:00"
+      "data": "2026-06-10T15:32:24+00:00"
     },
     {
-      "titolo": "Claude Fable 5 è Mythos con protezioni per la cybersecurity",
-      "descrizione": "Il modello che Anthropic non poteva rilasciare è ora disponibile come Fable 5. Mythos resta per le aziende tramite Project Glasswing. The post Claude Fable 5 è Mythos con protezioni per la cybersecurity appeared first on",
-      "link": "https://www.punto-informatico.it/claude-fable-5-mythos-protezioni-cybersecurity/",
+      "titolo": "HP, il futuro del lavoro dal PC all'ecosistema | Intervista a Rossella Campaniello",
+      "descrizione": "Un ecosistema intelligente che sfrutta IA e dispositivi affidabili per migliorare l'esperienza utente sul posto di lavoro: ecco le soluzioni HP per il business.",
+      "link": "https://www.hdblog.it/portatili/speciali/n658899/futuro-lavoro-secondo-hp-iq-ai-pc-ecosistema/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:31:00+00:00"
+    },
+    {
+      "titolo": "GMW ORA 5, il SUV cinese sbarca in Italia con prezzi a partire da 26.950 euro",
+      "descrizione": "La nuova GMW ORA 5 debutta nel mercato italiano. Il SUV cinese arriva con un'offerta interessante e tre differenti motorizzazioni",
+      "link": "https://www.hdmotori.it/gmw-ora-prezzi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:30:35+00:00"
+    },
+    {
+      "titolo": "The Social Reckoning: il lato oscuro di Zuckerberg nel nuovo trailer",
+      "descrizione": "Il trailer di The Social Reckoning mostra Jeremy Strong nei panni di Zuckerberg tra gli scandali.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n660975/the-social-reckoning-trailer-zuckerberg/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:25:00+00:00"
+    },
+    {
+      "titolo": "The 8 best early Prime Day headphone deals: Sales on new models I'd upgrade to immediately",
+      "descrizione": "Prime Day is right around the corner, and I've found the best headphone deals - many of which are recent, flagship releases from Apple, Sony, Bose, and more.",
+      "link": "https://www.zdnet.com/article/best-early-prime-day-headphone-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-10T15:19:17+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo Tonale, stop alla produzione già nel novembre 2027",
+      "descrizione": "Addio alla Tonale nel 2027, Alfa Romeo lancia un nuovo SUV da Melfi e progetta il ritorno di una berlina compatta",
+      "link": "https://www.hdmotori.it/alfa-romeo-tonale-stop-produzione-novembre-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T15:00:00+00:00"
+    },
+    {
+      "titolo": "Aruba lancia HakunaVPN: la privacy in un clic con prova gratuita di 90 giorni",
+      "descrizione": "Fino a 10 dispositivi protetti con un solo account.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660963/aruba-hakunavpn-vpn-prezzo-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:55:00+00:00"
+    },
+    {
+      "titolo": "EssilorLuxotica: gli occhiali smart saranno prodotti in Italia dal 2027",
+      "descrizione": "Una buona notizia per la filiera d'eccellenza italiana dell'ottica",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660959/essilorluxottica-occhiali-smart-prodotti-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:50:00+00:00"
+    },
+    {
+      "titolo": "eSIM Saily, arrivano i numeri di telefono: i viaggiatori ringraziano",
+      "descrizione": "Aiuteranno a utilizzare app o servizi popolari e superare i codici di sicurezza relativi all'autenticazione a due fattori. The post eSIM Saily, arrivano i numeri di telefono: i viaggiatori ringraziano appeared first on P",
+      "link": "https://www.punto-informatico.it/esim-saily-arrivano-i-numeri-di-telefono-i-viaggiatori-ringraziano/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-10T06:21:54+00:00"
+      "data": "2026-06-10T14:46:08+00:00"
     },
     {
-      "titolo": "Google “fa il debug” all’ecosistema: milioni di zanzare per eliminare quelle che portano malattie",
-      "descrizione": "Dai test in California ai risultati di Singapore, il progetto di Alphabet punta a ridurre la popolazione di Aedes aegypti con la tecnica dell’insetto sterile.",
-      "link": "https://www.ilsole24ore.com/art/google-fa-debug-all-ecosistema-milioni-zanzare-eliminare-quelle-che-portano-malattie-AIUZH8ZD",
+      "titolo": "Cosa sono gli AGENTI AI e perché NVIDIA li vuole inserire nei vostri nuovi computer",
+      "descrizione": "Tutte le novità dalla GTC",
+      "link": "https://www.hdblog.it/portatili/speciali/n660476/nvidia-rtx-spark-cosa-sono-agenti-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:31:00+00:00"
+    },
+    {
+      "titolo": "BMW, bastano cinque minuti per un pieno di idrogeno da 750 km",
+      "descrizione": "BMW scommette sull'idrogeno, una tecnologia da affiancare all'elettrico puro nel nome di una mobilità sempre più pulita",
+      "link": "https://www.hdmotori.it/bmw-idrogeno-autonomia-750-km/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:30:47+00:00"
+    },
+    {
+      "titolo": "Cannibalismo cosmico: una stella ha inghiottito decine di pianeti",
+      "descrizione": "Gli astronomi scoprono che la stella HD 81809B potrebbe aver inghiottito molti pianeti rocciosi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660904/stella-mangia-pianeti-hd81809/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:20:00+00:00"
+    },
+    {
+      "titolo": "AI e riconoscimento facciale per le forze di polizia: il governo fissa le nuove regole",
+      "descrizione": "L’intelligenza artificiale entra nelle attività delle forze di polizia",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660960/ai-riconoscimento-facciale-polizia-governo-regole/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:10:00+00:00"
+    },
+    {
+      "titolo": "Focus energia: come consumano le famiglie in Europa e in Italia",
+      "descrizione": "I dati Eurostat.",
+      "link": "https://www.hdblog.it/green/articoli/n660954/consumi-energia-famiglie-europa-ue-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T14:05:00+00:00"
+    },
+    {
+      "titolo": "China Opens World’s First Wind-Powered Underwater Data Center",
+      "descrizione": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
+      "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+      "fonte": "WIRED",
+      "data": "2026-06-10T13:39:32+00:00"
+    },
+    {
+      "titolo": "Parmitano: «L’avvicinamento con la Nasa non esclude l’autonomia europea»",
+      "descrizione": "Parla l’italiano che sarà pilota della missione lunare Artemis III: «Dall’Italia segnali positivi. Non mi sorprenderebbe un team guidato da donne»",
+      "link": "https://www.ilsole24ore.com/art/parmitano-l-avvicinamento-la-nasa-non-esclude-l-autonomia-europea-AI34LeaD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-10T06:18:04+00:00"
+      "data": "2026-06-10T13:39:00+00:00"
     },
     {
-      "titolo": "Frequenze del digitale terrestre aggiornate: novità e problemi per gli utenti",
-      "descrizione": "Le frequenze del digitale terrestre si sono aggiornate in tutta Italia con diverse novità, ma anche parecchi problemi per gli utenti. The post Frequenze del digitale terrestre aggiornate: novità e problemi per gli utenti",
-      "link": "https://www.punto-informatico.it/frequenze-digitale-terrestre-aggiornate-novita-problemi/",
+      "titolo": "Aruba annuncia HakunaVPN per navigare in sicurezza",
+      "descrizione": "Aruba ha annunciato HakunaVPN, servizio che protegge la navigazione online tramite una rete di oltre 8.000 server nel mondo e funzionalità avanzate. The post Aruba annuncia HakunaVPN per navigare in sicurezza appeared fi",
+      "link": "https://www.punto-informatico.it/aruba-annuncia-hakunavpn-per-navigare-in-sicurezza/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-10T05:30:42+00:00"
+      "data": "2026-06-10T13:10:59+00:00"
     },
     {
-      "titolo": "Il digitale terrestre rivoluziona ancora le emittenti: arriva la nuova lista canali",
-      "descrizione": "La piattaforma digitale terrestre ha rivoluzionato ancora le emittenti radiotelevisive: arriva la nuova lista canali completa aggiornata. The post Il digitale terrestre rivoluziona ancora le emittenti: arriva la nuova li",
-      "link": "https://www.punto-informatico.it/digitale-terrestre-rivoluziona-emittenti-arriva-nuova-lista-canali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-10T05:00:10+00:00"
+      "titolo": "Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ — promises trailer 3 launch is imminent based on heightened activity",
+      "descrizione": "Either a dedicated jokester or a deranged fan has been posting advanced surveillance on Reddit in an attempt to predict the next GTA 6 trailer.",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-10T12:11:06+00:00"
     }
   ]
 }
