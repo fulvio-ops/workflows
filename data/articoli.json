@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-10T04:50:05.454713+00:00",
+  "last_updated": "2026-06-10T10:34:00.859376+00:00",
   "items": [
     {
-      "titolo": "Razer lancia il suo primo microfono XLR: ecco Seiren V3 Pro",
-      "descrizione": "Già disponibile negli USA a 250 dollari; per ora da noi non pervenuto.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660867/razer-microfono-podcast-streaming-xlr-seiren/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T17:45:00+00:00"
-    },
-    {
-      "titolo": "ASUS ROG Cetra Open Wireless arrivano in Italia: prezzi e specifiche",
-      "descrizione": "Poco più di 200 euro. Decisamente un prodotto premium.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660861/asus-rog-cetra-open-wireless-prezzi-italia-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T17:25:00+00:00"
-    },
-    {
-      "titolo": "Nuovo reattore nucleare SMR compatto: primi test nel deserto dello Utah",
-      "descrizione": "L'Utah sceglie il reattore modulare SMR-300 di Holtec per produrre energia pulita anche nel deserto.",
-      "link": "https://www.hdblog.it/green/articoli/n660743/reattore-nucleare-modulare-utah/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T17:15:00+00:00"
-    },
-    {
-      "titolo": "Apple chiarisce il ruolo di Google nello sviluppo della nuova Apple Intelligence",
-      "descrizione": "Craig Federighi spiega che Gemini è stato usato solo nella fase di distillazione dei nuovi modelli AFM.",
-      "link": "https://www.hdblog.it/google/articoli/n660860/apple-intelligence-federighi-google-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T17:05:00+00:00"
-    },
-    {
-      "titolo": "Anthropic, nasce Claude Fable 5 che porta Mythos sul mercato",
-      "descrizione": "Claude Fable 5 ed è il primo modello della famiglia Mythos reso disponibile al pubblico che combina le capacità della più avanzata famiglia di modelli Anthropic con un sistema di controllo che filtra le richieste più sen",
-      "link": "https://www.ilsole24ore.com/art/anthropic-apre-vaso-pandora-nasce-claude-fable-5-che-porta-mythos-mercato-AIJDdAZD",
+      "titolo": "Bosch punta sugli umanoidi, porteranno un miliardo di fatturato all’anno",
+      "descrizione": "Il presidente Hartung disegna le strategie del colosso tedesco: i robot saranno impiegati sulle linee di produzione, nei servizi e nelle abitazioni",
+      "link": "https://www.ilsole24ore.com/art/bosch-punta-umanoidi-porteranno-miliardo-fatturato-all-anno-AIzb7MaD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-09T17:04:00+00:00"
+      "data": "2026-06-10T10:23:00+00:00"
     },
     {
-      "titolo": "Vola a Mach 5.5 e distrugge i radar nemici: ecco il nuovo missile indiano",
-      "descrizione": "L'India testa con successo il missile ipersonico RudraM-II per distruggere i radar nemici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660762/india-test-missile-ipersonico-rudram/",
+      "titolo": "La crescita di Revolut frenata dalla BCE: cosa sarebbe successo lo scorso anno",
+      "descrizione": "Secondo il Financial Times, la BCE avrebbe imposto nel 2025 restrizioni temporanee a Revolut, chiedendo controlli più rigorosi prima del lancio di nuovi prodotti finanziari",
+      "link": "https://www.hdblog.it/mercato/articoli/n660929/revolut-bce-frena-crescita/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T16:55:00+00:00"
+      "data": "2026-06-10T10:20:00+00:00"
     },
     {
-      "titolo": "Opera per Android vi ricorda che i Mondiali di calcio 2026 stanno per iniziare",
-      "descrizione": "Opera aggiorna il browser per Android con una nuova schermata iniziale per i Mondiali di calcio 2026.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660830/opera-android-mondiali-fifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:40:00+00:00"
-    },
-    {
-      "titolo": "The Bear chiude i battenti su Disney+: ecco il trailer ufficiale della S5",
-      "descrizione": "Carmy lascia il ristorante e Sydney guida la squadra verso l'ultima stella Michelin dal 26 giugno.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n660749/the-bear-5-trailer-uscita-disney/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:35:00+00:00"
-    },
-    {
-      "titolo": "Data center, così un terreno da 10 dollari è passato a valerne milioni",
-      "descrizione": "Agricoltore dona un terreno alla città perché venga trasformato in un parco, ma l'industria informatica se ne appropria",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660823/data-center-terreno-10-dollari-milioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:25:00+00:00"
-    },
-    {
-      "titolo": "Missione disperata nello spazio: il piano NASA per salvare un satellite",
-      "descrizione": "Il robot LINK è arrivato alla NASA per salvare il telescopio Swift ed estendere la sua missione.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660622/nasa-mission-link-swift-wallops/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:15:00+00:00"
-    },
-    {
-      "titolo": "Nintendo Direct, tutti gli annunci: da Zelda Ocarina of Time a Kingdom Hearts 4",
-      "descrizione": "Tante novità importanti in arrivo su Switch 2: scopriamole.",
-      "link": "https://www.hdblog.it/games/articoli/n660851/nintendo-direct-zelda-oot-annunci-switch-2-giugno/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:10:00+00:00"
-    },
-    {
-      "titolo": "L'89% delle aziende ha già auto alla spina, ma non è tutto oro ciò che luccica",
-      "descrizione": "Uno studio del Politecnico di Milano rivela un settore che corre verso l’elettrico, ma fatica a trasformare i dati in strategia",
-      "link": "https://www.hdmotori.it/flotte-aziendali-auto-elettriche-dati/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T16:00:46+00:00"
-    },
-    {
-      "titolo": "Elon Musk mostra il satellite AI1 per data center orbitale",
-      "descrizione": "Elon Musk ha svelato il design del satellite AI1 per data center orbitale con chip AI di NVIDIA, raffreddamento a liquido e pannelli solari. The post Elon Musk mostra il satellite AI1 per data center orbitale appeared fi",
-      "link": "https://www.punto-informatico.it/elon-musk-mostra-satellite-ai1-data-center-orbitale/",
+      "titolo": "Claude Fable 5: protezioni per bloccare usi illeciti",
+      "descrizione": "Anthropic ha implementato protezioni per impedire che Claude Fable 5 possa rispondere a richieste pericolose su cybersicurezza, biologia e chimica. The post Claude Fable 5: protezioni per bloccare usi illeciti appeared f",
+      "link": "https://www.punto-informatico.it/claude-fable-5-protezioni-bloccare-usi-illeciti/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-09T15:58:53+00:00"
+      "data": "2026-06-10T10:19:37+00:00"
     },
     {
-      "titolo": "Addio code e ore di volo: l'aereo supersonico del futuro è russo",
-      "descrizione": "La Russia progetta un aereo passeggeri supersonico capace di superare la velocità del suono.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660767/aereo-supersonico-russia-prototipo/",
+      "titolo": "Le luci Philips Hue reagiscono in tempo reale ai gol dei Mondiali",
+      "descrizione": "Con Sports Live, l'illuminazione smart delle luci Philips Hue si sincronizza con i dati live delle partite: niente HDMI, niente hardware aggiuntivo, basta attivare la funzione nell'app.",
+      "link": "https://www.hdblog.it/philips/articoli/n660911/philips-hue-luci-smart-partite-mondiali-live/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T15:55:00+00:00"
+      "data": "2026-06-10T10:10:00+00:00"
     },
     {
-      "titolo": "L'AI impara a replicarsi: stiamo per perdere il controllo?",
-      "descrizione": "Anthropic lancia l'allarme sulla AI capace di sviluppare da sola i propri successori.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660747/anthropic-sviluppo-autonomo-ai/",
+      "titolo": "1000 Miglia, collisione tra un'auto storica e una moto della Polizia | Video",
+      "descrizione": "A Sarezzo, poco dopo la partenza della 1000 Miglia, si è registrato un incidente tra un'auto storica e una motocicletta della Polizia",
+      "link": "https://www.hdmotori.it/1000-miglia-incidente-moto-della-polizia-video/",
       "fonte": "HDblog.it",
-      "data": "2026-06-09T15:45:00+00:00"
+      "data": "2026-06-10T10:00:56+00:00"
     },
     {
-      "titolo": "Un'altra GeForce RTX 5090 bruciata, questa volta per... eccesso di zelo?",
-      "descrizione": "Una sfortunata GeForce RTX 5090 di MSI è l'ultima vittima di un connettore nato decisamente male.",
-      "link": "https://www.hdblog.it/hardware/articoli/n660853/msi-geforce-rtx-5090-fusa-connettore-12vhpwr/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T15:40:00+00:00"
-    },
-    {
-      "titolo": "Elle arriva su Prime Video: il liceo di Elle Woods si fa vedere nel trailer ufficiale",
-      "descrizione": "Elle racconta l’adolescenza di Elle Woods e debutta il 1° luglio su Prime Video.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645913/elle-prequel-prime-video-luglio/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-09T15:35:00+00:00"
-    },
-    {
-      "titolo": "7 prompt per capire cosa sai fare meglio dell’intelligenza artificiale",
-      "descrizione": "7 prompt che aiutano a identificare i propri punti di forza, le competenze da sviluppare e come usare l'intelligenza artificiale a proprio vantaggio. The post 7 prompt per capire cosa sai fare meglio dell’intelligenza ar",
-      "link": "https://www.punto-informatico.it/7-prompt-capire-cosa-sai-fare-meglio-intelligenza-artificiale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T15:30:36+00:00"
-    },
-    {
-      "titolo": "WhatsApp smetterà di funzionare su questi iPhone",
-      "descrizione": "A partire dai prossimi mesi, il team di Meta al lavoro su WhatsApp terminerà il supporto ufficiale per le versioni più vecchie di iOS. The post WhatsApp smetterà di funzionare su questi iPhone appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/whatsapp-smettera-funzionare-iphone/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T14:00:51+00:00"
-    },
-    {
-      "titolo": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
-      "descrizione": "The FDA recently approved the cellular rejuvenation therapy ER-100 for human clinical trials. While vision is the first target, it could have applications for a variety of age-related disease.",
-      "link": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/",
+      "titolo": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "descrizione": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
       "fonte": "WIRED",
-      "data": "2026-06-09T13:23:53+00:00"
+      "data": "2026-06-10T10:00:00+00:00"
     },
     {
-      "titolo": "Rivian R2 2026: Specs, Price, Availability",
-      "descrizione": "With a competitive price, winning design, and better performance than the R1, Rivian could be set to break into the big leagues. Just make sure you get the right model with the right tech.",
-      "link": "https://www.wired.com/story/rivian-r2-first-drive/",
+      "titolo": "Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations",
+      "descrizione": "The organization claims that the FIFA tournament could have impacts on the rights of local people and visiting soccer fans in all three host countries.",
+      "link": "https://www.wired.com/story/amnesty-international-world-cup-human-rights/",
       "fonte": "WIRED",
-      "data": "2026-06-09T13:00:00+00:00"
+      "data": "2026-06-10T10:00:00+00:00"
     },
     {
-      "titolo": "Apple annuncia nuove funzionalità di sicurezza per i minori",
-      "descrizione": "Apple ha svelato nuove funzionalità per gli account destinati ai minori che permettono ai genitori di bloccare l'accesso a contenuti non adatti all'età. The post Apple annuncia nuove funzionalità di sicurezza per i minor",
-      "link": "https://www.punto-informatico.it/apple-annuncia-nuove-funzionalita-sicurezza-minori/",
+      "titolo": "Garmin aggiorna Instinct 3 e diversi Forerunner non recenti: le novità",
+      "descrizione": "Garmin ha avviato il rollout dei firmware 14.15 e 28.05 per numerosi modelli delle famiglie Instinct e Forerunner, introducendo correzioni di bug e miglioramenti alla stabilità",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660920/garmin-forerunner-instinct-3-aggiornamento-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:45:00+00:00"
+    },
+    {
+      "titolo": "Final Fantasy Resonance ufficiale: è il primo della saga in stile HD-2D",
+      "descrizione": "Arriverà il 22 ottobre su tutte le console e su PC",
+      "link": "https://www.hdblog.it/games/articoli/n660912/final-fantasy-resonance-hd-2d-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:35:00+00:00"
+    },
+    {
+      "titolo": "Jeremy Clarkson prova la FIAT Grande Panda: giudizio sorprendente",
+      "descrizione": "Il giornalista britannico Jeremy Clarkson si è messo al volante della FIAT Grande Panda e la recensione ha spiazzato tutti",
+      "link": "https://www.hdmotori.it/jeremy-clarkson-fiat-grande-panda/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:30:45+00:00"
+    },
+    {
+      "titolo": "3D-printed nozzles could revolutionize drug and self-healing material manufacturing — MIT-developed triaxial electrospray design makes cleanroom fabrication optional",
+      "descrizione": "MIT's 3D-printed triaxial electrospray nozzles could revolutionize drug and self-healing material manufacturing. By using a relatively inexpensive resin printing approach, the new nozzle fabrication technique removes the",
+      "link": "https://www.tomshardware.com/3d-printing/3d-printed-triaxial-electrospray-nozzles-could-revolutionize-drug-and-self-healing-material-manufacturing-mit-developed-technique-makes-cleanroom-fabrication-optional",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-10T09:30:00+00:00"
+    },
+    {
+      "titolo": "Fastweb + Vodafone punta sul cloud sovrano: FASTCloud passa all'open source",
+      "descrizione": "Al via la nuova soluzione di cloud computing basata su OpenStack",
+      "link": "https://www.hdblog.it/business/articoli/n660919/fastweb-vodafone-punta-sul-cloud-sovrano/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:25:00+00:00"
+    },
+    {
+      "titolo": "Truffe bancarie, lo spoofing non basta a incolpare il cliente: arriva il rimborso",
+      "descrizione": "Il consumatore avrebbe seguito le istruzioni ricevute convinto di dialogare con la propria banca",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660916/truffe-bancarie-spoofing-non-basta/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:15:00+00:00"
+    },
+    {
+      "titolo": "Tir contromano sulla A26 per 10 km, l'autista era ubriaco",
+      "descrizione": "Terrore sulla A26 per un tir contromano per 10 chilometri. Il conducente è risultato positivo all'alcoltest con un tasso di 2,18",
+      "link": "https://www.hdmotori.it/tir-contromano-a26-10-km-autista-ubriaco/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:00:40+00:00"
+    },
+    {
+      "titolo": "Huawei sfida la monotonia: in arrivo smartphone con display 16:10",
+      "descrizione": "Ricorda un Pura X ma senza piega.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660902/huawei-smartphone-16-10-wide-pura-x-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T08:50:00+00:00"
+    },
+    {
+      "titolo": "Asha Sharma: le console sono troppo care, serve un nuovo modello di business",
+      "descrizione": "Che sia il segnale del ritorno al tema del Cloud Gaming come alternativa al fisico?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660900/asha-sharma-console-care-alternative-business/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T08:40:00+00:00"
+    },
+    {
+      "titolo": "La VPN gratuita integrata di Mozilla Firefox inizia ad arrivare in Italia",
+      "descrizione": "A quanto pare è collegata all'aggiornamento alla versione 151.",
+      "link": "https://www.hdblog.it/windows/articoli/n660908/mozilla-firefox-vpn-gratis-italia-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T08:35:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen Polo Young, ora ha un prezzo adatto alle tasche dei più giovani",
+      "descrizione": "Si chiama Young e ha ampliato le opzioni per chi vuole scegliere una Volkswagen Polo per gli spostamenti quotidiani",
+      "link": "https://www.hdmotori.it/volkswagen-polo-young-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T08:30:38+00:00"
+    },
+    {
+      "titolo": "Basta costi assurdi su Ryanair con questo zaino da viaggio a soli 26€",
+      "descrizione": "Abbatti i costi senza senso di Ryanair per il bagaglio con questo zaino da viaggio che ha le giuste dimensioni e costa solo 26€ circa. The post Basta costi assurdi su Ryanair con questo zaino da viaggio a soli 26€ appear",
+      "link": "https://www.punto-informatico.it/basta-costi-assurdi-ryanair-con-questo-zaino-da-viaggio-soli-26e/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-09T11:02:55+00:00"
+      "data": "2026-06-10T08:03:22+00:00"
     },
     {
-      "titolo": "Amazon genera magliette con l’AI e le stampa su richiesta",
-      "descrizione": "Alexa genera le immagini, Amazon le stampa sui prodotti e le spedisce con Prime. Printful e i venditori terzi sulla piattaforma sono avvisati. The post Amazon genera magliette con l’AI e le stampa su richiesta appeared f",
-      "link": "https://www.punto-informatico.it/amazon-genera-magliette-ai-stampa-su-richiesta/",
+      "titolo": "Musica e chiamate di qualità con gli auricolari wireless JBL Tune Beam Ghost 2",
+      "descrizione": "Con gli auricolari wireless JBL Tune Beam Ghost 2 potrai goderti chiamate perfette e musica coinvolgente per 24 ore complessive. The post Musica e chiamate di qualità con gli auricolari wireless JBL Tune Beam Ghost 2 app",
+      "link": "https://www.punto-informatico.it/musica-chiamate-qualita-con-auricolari-wireless-jbl-tune-beam-ghost-2/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-09T10:34:38+00:00"
+      "data": "2026-06-10T07:46:58+00:00"
     },
     {
-      "titolo": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
-      "descrizione": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-      "fonte": "WIRED",
-      "data": "2026-06-09T10:30:00+00:00"
+      "titolo": "Claude Fable 5 è Mythos con protezioni per la cybersecurity",
+      "descrizione": "Il modello che Anthropic non poteva rilasciare è ora disponibile come Fable 5. Mythos resta per le aziende tramite Project Glasswing. The post Claude Fable 5 è Mythos con protezioni per la cybersecurity appeared first on",
+      "link": "https://www.punto-informatico.it/claude-fable-5-mythos-protezioni-cybersecurity/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-10T06:21:54+00:00"
+    },
+    {
+      "titolo": "Google “fa il debug” all’ecosistema: milioni di zanzare per eliminare quelle che portano malattie",
+      "descrizione": "Dai test in California ai risultati di Singapore, il progetto di Alphabet punta a ridurre la popolazione di Aedes aegypti con la tecnica dell’insetto sterile.",
+      "link": "https://www.ilsole24ore.com/art/google-fa-debug-all-ecosistema-milioni-zanzare-eliminare-quelle-che-portano-malattie-AIUZH8ZD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-10T06:18:04+00:00"
+    },
+    {
+      "titolo": "Frequenze del digitale terrestre aggiornate: novità e problemi per gli utenti",
+      "descrizione": "Le frequenze del digitale terrestre si sono aggiornate in tutta Italia con diverse novità, ma anche parecchi problemi per gli utenti. The post Frequenze del digitale terrestre aggiornate: novità e problemi per gli utenti",
+      "link": "https://www.punto-informatico.it/frequenze-digitale-terrestre-aggiornate-novita-problemi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-10T05:30:42+00:00"
+    },
+    {
+      "titolo": "Il digitale terrestre rivoluziona ancora le emittenti: arriva la nuova lista canali",
+      "descrizione": "La piattaforma digitale terrestre ha rivoluzionato ancora le emittenti radiotelevisive: arriva la nuova lista canali completa aggiornata. The post Il digitale terrestre rivoluziona ancora le emittenti: arriva la nuova li",
+      "link": "https://www.punto-informatico.it/digitale-terrestre-rivoluziona-emittenti-arriva-nuova-lista-canali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-10T05:00:10+00:00"
     }
   ]
 }

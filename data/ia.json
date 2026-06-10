@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-10T04:50:08.678247+00:00",
+  "last_updated": "2026-06-10T10:34:04.724722+00:00",
   "items": [
     {
-      "titolo": "7 prompt per capire cosa sai fare meglio dell’intelligenza artificiale",
-      "descrizione": "7 prompt che aiutano a identificare i propri punti di forza, le competenze da sviluppare e come usare l'intelligenza artificiale a proprio vantaggio. The post 7 prompt per capire cosa sai fare meglio dell’intelligenza ar",
-      "link": "https://www.punto-informatico.it/7-prompt-capire-cosa-sai-fare-meglio-intelligenza-artificiale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-09T15:30:36+00:00",
+      "titolo": "Il segreto delle api arriva sui droni: addio al GPS",
+      "descrizione": "Ispirandosi alle api, i ricercatori creano un sistema leggerissimo per droni senza GPS.",
+      "link": "https://www.hdblog.it/droni/articoli/n660831/droni-navigazione-api-delft/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T09:10:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I just saved $180 a year on my Google AI plan without losing my Drive storage - here's how",
-      "descrizione": "Google AI Plus is cheaper now, and may be the easiest way to reduce my Google One bill without giving uo storage or AI.",
-      "link": "https://www.zdnet.com/article/google-ai-plus-plan-save-annually-drive-cloud-storage-costs/",
-      "fonte": "Latest news",
-      "data": "2026-06-09T17:52:00+00:00",
+      "titolo": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "descrizione": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "fonte": "WIRED",
+      "data": "2026-06-10T10:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Fable 5 brings Mythos to the masses — Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks'",
-      "descrizione": "After first announcing its scarily capable Mythos Preview model back in April, Anthropic is releasing a public version of Mythos, called Fable 5, that it says is \"safe for general use.\"",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-09T20:34:10+00:00",
+      "titolo": "Claude Fable 5: protezioni per bloccare usi illeciti",
+      "descrizione": "Anthropic ha implementato protezioni per impedire che Claude Fable 5 possa rispondere a richieste pericolose su cybersicurezza, biologia e chimica. The post Claude Fable 5: protezioni per bloccare usi illeciti appeared f",
+      "link": "https://www.punto-informatico.it/claude-fable-5-protezioni-bloccare-usi-illeciti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-10T10:19:37+00:00",
       "modello": "claude"
     }
   ]
