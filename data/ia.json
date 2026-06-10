@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T20:20:47.995004+00:00",
+  "last_updated": "2026-06-10T04:50:08.678247+00:00",
   "items": [
     {
       "titolo": "7 prompt per capire cosa sai fare meglio dell’intelligenza artificiale",
@@ -19,18 +19,18 @@
     },
     {
       "titolo": "I just saved $180 a year on my Google AI plan without losing my Drive storage - here's how",
-      "descrizione": "Google AI Plus just got cheaper, and it's the easiest way to reduce my Google One bill without giving up cloud storage or AI.",
+      "descrizione": "Google AI Plus is cheaper now, and may be the easiest way to reduce my Google One bill without giving uo storage or AI.",
       "link": "https://www.zdnet.com/article/google-ai-plus-plan-save-annually-drive-cloud-storage-costs/",
       "fonte": "Latest news",
-      "data": "2026-06-09T17:52:32+00:00",
+      "data": "2026-06-09T17:52:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic, nasce Claude Fable 5 che porta Mythos sul mercato",
-      "descrizione": "Claude Fable 5 ed è il primo modello della famiglia Mythos reso disponibile al pubblic che combina le capacità della più avanzata famiglia di modelli Anthropic con un sistema di controllo che filtra le richieste più sens",
-      "link": "https://www.ilsole24ore.com/art/anthropic-apre-vaso-pandora-nasce-claude-fable-5-che-porta-mythos-mercato-AIJDdAZD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-09T17:04:00+00:00",
+      "titolo": "Claude Fable 5 brings Mythos to the masses — Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks'",
+      "descrizione": "After first announcing its scarily capable Mythos Preview model back in April, Anthropic is releasing a public version of Mythos, called Fable 5, that it says is \"safe for general use.\"",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-09T20:34:10+00:00",
       "modello": "claude"
     }
   ]
