@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-10T16:09:33.609715+00:00",
+  "last_updated": "2026-06-10T20:45:35.717286+00:00",
   "items": [
     {
-      "titolo": "Il software che anticipa i medici: ecco come l'AI sta svuotando le terapie intensive",
-      "descrizione": "Al Tampa General Hospital l'AI di Palantir rileva la sepsi in tempo reale e salva 886 vite.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660966/palantir-sepsi-ospedale-florida/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T15:05:00+00:00",
+      "titolo": "Il chabot è morto? No, in realtà sta succedendo qualcosa di molto più interessante",
+      "descrizione": "Un rumor attraversa la Silicon Valley e rimbalza fino alle pagine del Financial Times: OpenAI starebbe preparando il pensionamento di ChatGPT. Detta così sembra una notizia clamorosa. Un po’ come...",
+      "link": "https://www.ilsole24ore.com/art/il-chabot-e-morto-no-realta-sta-succedendo-qualcosa-molto-piu-interessante-AIwKRWXD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-09T05:33:06+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "descrizione": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-      "fonte": "WIRED",
-      "data": "2026-06-10T10:00:00+00:00",
+      "titolo": "Google vuole rendere Gemini un tool sempre più indispensabile per le PMI",
+      "descrizione": "Due feature dedicate in roll-out!",
+      "link": "https://www.hdblog.it/google/articoli/n660992/google-gemini-funzioni-pmi-integrazione-profili/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T17:05:00+00:00",
       "modello": "gemini"
     },
     {

@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-06-10T16:09:29.063846+00:00",
+  "last_updated": "2026-06-10T20:45:32.244297+00:00",
   "items": [
+    {
+      "titolo": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "descrizione": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+      "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+      "fonte": "WIRED",
+      "data": "2026-06-10T20:28:58+00:00"
+    },
+    {
+      "titolo": "Cosa sono gli AGENTI AI e perché NVIDIA li vuole inserire nei vostri nuovi computer",
+      "descrizione": "Tutte le novità dalla GTC",
+      "link": "https://www.hdblog.it/portatili/speciali/n660476/nvidia-rtx-spark-cosa-sono-agenti-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T18:30:00+00:00"
+    },
+    {
+      "titolo": "AI Act: pubblicato codice di condotta sulla trasparenza",
+      "descrizione": "La Commissione UE ha pubblicato il codice di condotta sulle modalità di etichettatura dei contenuti AI (l'adesione è volontaria) prevista dall'AI Act. The post AI Act: pubblicato codice di condotta sulla trasparenza appe",
+      "link": "https://www.punto-informatico.it/ai-act-pubblicato-codice-condotta-trasparenza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-10T18:24:51+00:00"
+    },
+    {
+      "titolo": "Xbox, tante novità all'interfaccia (e non solo) in distribuzione per gli Insider",
+      "descrizione": "Più personalizzazione, maggiore efficienza energetica e gestione più intuitiva dei propri contatti.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661003/xbox-insider-novita-alimentazione-social/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T18:06:00+00:00"
+    },
+    {
+      "titolo": "Valve Steam Machine, forse abbiamo la data di uscita esatta",
+      "descrizione": "E potrebbe essere più vicina di quanto molti temevano.",
+      "link": "https://www.hdblog.it/games/articoli/n661000/valve-steam-machine-data-precisa-quando-uscita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T17:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Watch Ultra 2 farà un grande salto in avanti nell'autonomia?",
+      "descrizione": "Più giorni con una sola carica potrebbero non essere un miraggio.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660994/samsung-galaxy-watch-ultra-2-batteria-800-mah/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T17:35:00+00:00"
+    },
+    {
+      "titolo": "Una delle due è un killer, la folle fuga nella nuova serie Prime Video | Trailer",
+      "descrizione": "Octavia Spencer e Hannah Waddingham sono le protagoniste della nuova serie Corri o muori su Prime Video.",
+      "link": "https://www.hdblog.it/amazon/articoli/n660983/corri-o-muori-serie-prime-video-trailer/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T17:15:00+00:00"
+    },
+    {
+      "titolo": "Dalla Luna ai data center: la batteria che non teme il gelo spaziale",
+      "descrizione": "Solidion lancia una batteria al litio-metallo che resiste nello spazio da -80°C a +60°C.",
+      "link": "https://www.hdblog.it/green/articoli/n660968/solidion-batterie-spazio-luna/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T16:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova tecnica NIST: il segreto dei motori jet del futuro è un laser",
+      "descrizione": "Scienziati del NIST usano un rimescolamento laser per creare superleghe perfette nella stampa 3D.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660894/stampa-3d-metallo-laser-nist/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T16:35:00+00:00"
+    },
+    {
+      "titolo": "Olinia: la microcar elettrica messicana con spazio per sei persone",
+      "descrizione": "La presidente del Messico ha presentato una microcar a basso costo pensata per rivoluzionare la mobilità urbana e sviluppare la filiera locale.",
+      "link": "https://www.hdmotori.it/olinia-microcar-elettrica-messicana/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-10T16:30:33+00:00"
+    },
     {
       "titolo": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks",
       "descrizione": "AMD has shared the first official results for its 256-core EPYC Venice CPU, saying it beats Nvidia's Vera by 3.3x in a rack-level deployment.",
@@ -58,46 +128,11 @@
       "data": "2026-06-10T15:31:00+00:00"
     },
     {
-      "titolo": "GMW ORA 5, il SUV cinese sbarca in Italia con prezzi a partire da 26.950 euro",
-      "descrizione": "La nuova GMW ORA 5 debutta nel mercato italiano. Il SUV cinese arriva con un'offerta interessante e tre differenti motorizzazioni",
-      "link": "https://www.hdmotori.it/gmw-ora-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T15:30:35+00:00"
-    },
-    {
-      "titolo": "The Social Reckoning: il lato oscuro di Zuckerberg nel nuovo trailer",
-      "descrizione": "Il trailer di The Social Reckoning mostra Jeremy Strong nei panni di Zuckerberg tra gli scandali.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n660975/the-social-reckoning-trailer-zuckerberg/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T15:25:00+00:00"
-    },
-    {
       "titolo": "The 8 best early Prime Day headphone deals: Sales on new models I'd upgrade to immediately",
       "descrizione": "Prime Day is right around the corner, and I've found the best headphone deals - many of which are recent, flagship releases from Apple, Sony, Bose, and more.",
       "link": "https://www.zdnet.com/article/best-early-prime-day-headphone-deals-2026/",
       "fonte": "Latest news",
-      "data": "2026-06-10T15:19:17+00:00"
-    },
-    {
-      "titolo": "Alfa Romeo Tonale, stop alla produzione già nel novembre 2027",
-      "descrizione": "Addio alla Tonale nel 2027, Alfa Romeo lancia un nuovo SUV da Melfi e progetta il ritorno di una berlina compatta",
-      "link": "https://www.hdmotori.it/alfa-romeo-tonale-stop-produzione-novembre-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T15:00:00+00:00"
-    },
-    {
-      "titolo": "Aruba lancia HakunaVPN: la privacy in un clic con prova gratuita di 90 giorni",
-      "descrizione": "Fino a 10 dispositivi protetti con un solo account.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660963/aruba-hakunavpn-vpn-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:55:00+00:00"
-    },
-    {
-      "titolo": "EssilorLuxotica: gli occhiali smart saranno prodotti in Italia dal 2027",
-      "descrizione": "Una buona notizia per la filiera d'eccellenza italiana dell'ottica",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660959/essilorluxottica-occhiali-smart-prodotti-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:50:00+00:00"
+      "data": "2026-06-10T15:19:00+00:00"
     },
     {
       "titolo": "eSIM Saily, arrivano i numeri di telefono: i viaggiatori ringraziano",
@@ -105,41 +140,6 @@
       "link": "https://www.punto-informatico.it/esim-saily-arrivano-i-numeri-di-telefono-i-viaggiatori-ringraziano/",
       "fonte": "Punto Informatico",
       "data": "2026-06-10T14:46:08+00:00"
-    },
-    {
-      "titolo": "Cosa sono gli AGENTI AI e perché NVIDIA li vuole inserire nei vostri nuovi computer",
-      "descrizione": "Tutte le novità dalla GTC",
-      "link": "https://www.hdblog.it/portatili/speciali/n660476/nvidia-rtx-spark-cosa-sono-agenti-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:31:00+00:00"
-    },
-    {
-      "titolo": "BMW, bastano cinque minuti per un pieno di idrogeno da 750 km",
-      "descrizione": "BMW scommette sull'idrogeno, una tecnologia da affiancare all'elettrico puro nel nome di una mobilità sempre più pulita",
-      "link": "https://www.hdmotori.it/bmw-idrogeno-autonomia-750-km/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:30:47+00:00"
-    },
-    {
-      "titolo": "Cannibalismo cosmico: una stella ha inghiottito decine di pianeti",
-      "descrizione": "Gli astronomi scoprono che la stella HD 81809B potrebbe aver inghiottito molti pianeti rocciosi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660904/stella-mangia-pianeti-hd81809/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:20:00+00:00"
-    },
-    {
-      "titolo": "AI e riconoscimento facciale per le forze di polizia: il governo fissa le nuove regole",
-      "descrizione": "L’intelligenza artificiale entra nelle attività delle forze di polizia",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660960/ai-riconoscimento-facciale-polizia-governo-regole/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:10:00+00:00"
-    },
-    {
-      "titolo": "Focus energia: come consumano le famiglie in Europa e in Italia",
-      "descrizione": "I dati Eurostat.",
-      "link": "https://www.hdblog.it/green/articoli/n660954/consumi-energia-famiglie-europa-ue-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-10T14:05:00+00:00"
     },
     {
       "titolo": "China Opens World’s First Wind-Powered Underwater Data Center",
