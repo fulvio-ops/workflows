@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-11T10:58:24.420119+00:00",
+  "last_updated": "2026-06-11T16:28:53.091564+00:00",
   "items": [
     {
-      "titolo": "In Cina il boom delle auto elettriche ha evitato 262.000 morti per smog",
-      "descrizione": "Uno studio evidenzia come la rapida diffusione massiva di veicoli elettrici nel Paese asiatico abbia migliorato la qualità dell'aria nelle città e la salute pubblica.",
-      "link": "https://www.hdmotori.it/cina-auto-elettriche-morti-smog/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T09:00:15+00:00",
+      "titolo": "OpenAI: quotazione in Borsa posticipata al 2027?",
+      "descrizione": "OpenAI ha già presentato la documentazione necessaria per l'offerta pubblica iniziale, ma la quotazione in Borsa potrebbe essere posticipata al 2027. The post OpenAI: quotazione in Borsa posticipata al 2027? appeared fir",
+      "link": "https://www.punto-informatico.it/openai-quotazione-borsa-posticipata-2027/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-11T13:16:09+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,28 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I danni di Google AI Overview: due aziende tedesche fanno causa",
-      "descrizione": "Venivano descritte come \"coinvolte in attività poco chiare\"",
-      "link": "https://www.hdblog.it/google/articoli/n661074/google-ai-overview-danni-reputazione-causa-legale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T10:55:00+00:00",
+      "titolo": "Gemini 3.5 Live Translate: traduzione in tempo reale",
+      "descrizione": "Gemini 3.5 Live Translate è il nuovo modello speech-to-speech che permette di ottenere traduzioni in tempo reale in Google Traduttore e Google Meet. The post Gemini 3.5 Live Translate: traduzione in tempo reale appeared",
+      "link": "https://www.punto-informatico.it/gemini-3-5-live-traslate-traduzione-tempo-reale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-11T15:28:12+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Troppe restrizioni per Claude Fable 5: proteste dei ricercatori",
-      "descrizione": "Diversi ricercatori hanno scoperto che Claude Fable 5 non risponde a domande innocue su cybersicurezza e biologia a causa delle eccessive restrizioni. The post Troppe restrizioni per Claude Fable 5: proteste dei ricercat",
-      "link": "https://www.punto-informatico.it/troppe-restrizioni-per-claude-fable-5-proteste-dei-ricercatori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T10:12:11+00:00",
+      "titolo": "Xiaomi ha il suo agente programmatore: memoria \"infinita\", meglio di Claude Code?",
+      "descrizione": "La società ha previsto due funzioni speciali per evitare il tradizionale degrado della qualità nei task più complessi.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n661110/xiaomi-agente-coding-memoria-infinita-claude-code/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T14:25:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "I've tested so many desktop AI tools, but Hermes with Ollama is my new favorite - here's why",
-      "descrizione": "Local AI is the way to go, and Hermes with open-source Ollama is my preferred setup right now.",
-      "link": "https://www.zdnet.com/article/hermes-ollama-hands-on-desktop-ai-tool/",
-      "fonte": "Latest news",
-      "data": "2026-06-10T14:18:00+00:00",
-      "modello": "altri"
     }
   ]
 }
