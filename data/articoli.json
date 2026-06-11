@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-06-11T16:28:48.415950+00:00",
+  "last_updated": "2026-06-11T20:36:36.254744+00:00",
   "items": [
+    {
+      "titolo": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "descrizione": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+      "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "fonte": "WIRED",
+      "data": "2026-06-11T19:41:01+00:00"
+    },
+    {
+      "titolo": "Storage con piano lifetime di pCloud: come funziona e se conviene",
+      "descrizione": "Abbiamo provato Pcloud, una soluzione di storage molto interessante e completa, con possibilità di acquistare un piano lifetime.",
+      "link": "https://www.hdblog.it/hardware/articoli/n653664/pcloud-storage-vita-come-funziona-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T19:26:00+00:00"
+    },
+    {
+      "titolo": "Bolletta luce e gas: come risparmiare fino a 180 euro con il gruppo d'acquisto",
+      "descrizione": "L'iniziativa di Altroconsumo.",
+      "link": "https://www.hdblog.it/green/articoli/n661113/bolletta-energia-luce-gas-gruppo-acquisto-come/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T19:25:00+00:00"
+    },
+    {
+      "titolo": "Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down",
+      "descrizione": "From a wet winter in the Southwest to fewer Atlantic hurricanes, this is what to expect as a potential super El Niño takes shape.",
+      "link": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
+      "fonte": "WIRED",
+      "data": "2026-06-11T19:24:46+00:00"
+    },
+    {
+      "titolo": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
+      "descrizione": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
+      "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "fonte": "Latest news",
+      "data": "2026-06-11T17:35:00+00:00"
+    },
+    {
+      "titolo": "Chiedeva sicurezza per Grok, ingegnere licenziato fa causa a Musk",
+      "descrizione": "Devin Kim, ex ingegnere di xAI, accusa l'azienda di aver trascurato la sicurezza di Grok e di averlo licenziato dopo ripetute segnalazioni sui rischi. The post Chiedeva sicurezza per Grok, ingegnere licenziato fa causa a",
+      "link": "https://www.punto-informatico.it/chiedeva-sicurezza-grok-ingegnere-licenziato-causa-musk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-11T17:31:09+00:00"
+    },
+    {
+      "titolo": "La Cina fa passi in avanti nel calcolo quantistico, con le nuove memorie QRAM",
+      "descrizione": "Un team cinese sviluppa la memoria quantistica più veloce per connettere dati classici e qubit.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661020/computer-quantistico-qram-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T17:30:00+00:00"
+    },
+    {
+      "titolo": "3,2 milioni di chili di spinta: i mostruosi motori NASA sono pronti per Artemis III",
+      "descrizione": "La NASA riceve gli ultimi componenti dei motori per la missione spaziale Artemis III.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661024/motori-artemis-iii-nasa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T17:15:00+00:00"
+    },
+    {
+      "titolo": "I 100 anni del Tridente con stile, svelata la Maserati MCPURA Cielo Tributo",
+      "descrizione": "Maserati ha presentato MCPURA Cielo Tributo 1926, una one-off realizzata da Fuoriserie per festeggiare il centenario del Tridente",
+      "link": "https://www.hdmotori.it/maserati-mcpura-cielo-tributo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T17:00:31+00:00"
+    },
+    {
+      "titolo": "Il Trump phone è un HTC U24 Pro prodotto in Cina",
+      "descrizione": "Il Trump Mobile T1 è una copia quasi identica del vecchio HTC U24 Pro con minime differenze estetiche, quindi non è uno smartphone con valori americani. The post Il Trump phone è un HTC U24 Pro prodotto in Cina appeared",
+      "link": "https://www.punto-informatico.it/trump-phone-htc-u24-pro-prodotto-cina/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-11T16:55:50+00:00"
+    },
+    {
+      "titolo": "Il primo fuoco umano? Forse lo abbiamo scoperto",
+      "descrizione": "Nuovi studi in una grotta sudafricana anticipano l'uso del fuoco a 1.8 milioni di anni fa.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661022/scoperta-fuoco-homo-erectus/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T16:55:00+00:00"
+    },
+    {
+      "titolo": "4 Android Auto default settings you should change right away - here's why",
+      "descrizione": "Take a moment to toggle these settings, and your driving experience will improve immediately. You're welcome.",
+      "link": "https://www.zdnet.com/article/change-these-android-auto-default-settings-now/",
+      "fonte": "Latest news",
+      "data": "2026-06-11T16:54:48+00:00"
+    },
+    {
+      "titolo": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
+      "descrizione": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
+      "link": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
+      "fonte": "Latest news",
+      "data": "2026-06-11T16:53:16+00:00"
+    },
+    {
+      "titolo": "Miracolo green a Yale: carburante da energia solare e CO2",
+      "descrizione": "Scienziati di Yale creano una foglia artificiale solare che trasforma la CO2 in metanolo liquido.",
+      "link": "https://www.hdblog.it/green/articoli/n661028/carburante-solare-co2-silicio/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T16:35:00+00:00"
+    },
+    {
+      "titolo": "Memory famine compels GPU vendors to re-release 2020 graphics cards — GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
+      "descrizione": "Graphics card manufacturer Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-11T16:33:50+00:00"
+    },
+    {
+      "titolo": "Auto da 400.000 km, sai quali sono le più affidabili? I marchi che sono una garanzia",
+      "descrizione": "I top brand più diffusi in grado di produrre auto che superano i 400.000 km sono emersi da una interessante indagine",
+      "link": "https://www.hdmotori.it/auto-400000-km-affidabili-garanzia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T16:30:20+00:00"
+    },
     {
       "titolo": "Bologna, arrivano in centro i cestini dei rifiuti del futuro (a energia solare)",
       "descrizione": "L'energia serve a compattare i rifiuti",
@@ -37,13 +149,6 @@
       "data": "2026-06-11T15:30:50+00:00"
     },
     {
-      "titolo": "Bolletta luce e gas: come risparmiare fino a 180 euro con il gruppo d'acquisto",
-      "descrizione": "L'iniziativa di Altroconsumo.",
-      "link": "https://www.hdblog.it/green/articoli/n661113/bolletta-energia-luce-gas-gruppo-acquisto-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T15:25:00+00:00"
-    },
-    {
       "titolo": "Torna la Ford Escort Mk1, non è un restomod e costa come una Purosangue",
       "descrizione": "Boreham Motorworks presenta la nuova Escort Mk1 RS su licenza ufficiale Ford. Telaio su misura, carrozzeria in carbonio e motore da 325 CV",
       "link": "https://www.hdmotori.it/ford-escort-mk1-ritorno-prezzi/",
@@ -58,116 +163,11 @@
       "data": "2026-06-11T14:55:00+00:00"
     },
     {
-      "titolo": "Amazon, i data center usano un settimo dell'acqua rispetto alla media del settore",
-      "descrizione": "Amazon pubblica nuovi dati sulle proprie infrastrutture globali",
-      "link": "https://www.hdblog.it/amazon/articoli/n661119/amazon-data-center-usano-meno-acqua/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:50:00+00:00"
-    },
-    {
-      "titolo": "Ex dipendente accusa xAI: licenziato per gli allarmi sulla sicurezza di Grok",
-      "descrizione": "Il dito è puntato soprattutto contro Jimmy Ba, co-fondatore la cui priorità numero uno era apparentemente vincere la corsa all'AGI, anche a costo di qualche compromesso sulla sicurezza.",
-      "link": "https://www.hdblog.it/mercato/articoli/n661116/dipendente-denuncia-xai-grok-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:45:00+00:00"
-    },
-    {
-      "titolo": "C'è chi ha preso decisamente male lo spoiler sul remake di Ocarina of Time",
-      "descrizione": "Un commento pubblicato sotto al video che ha anticipato il remake di Zelda: Ocarina of Time somiglia molto a una minaccia di morte.",
-      "link": "https://www.hdblog.it/giochi/articoli/n661103/preso-decisamente-male-spoiler-remake-ocarina-time/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:40:00+00:00"
-    },
-    {
-      "titolo": "Difesa europea: il super drone S-300 darà la caccia ai sottomarini",
-      "descrizione": "L'Unione Europea sceglie il maxi drone S-300 per scovare sottomarini nemici a grande distanza.",
-      "link": "https://www.hdblog.it/droni/articoli/n661018/drone-s300-caccia-sottomarini-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:35:00+00:00"
-    },
-    {
-      "titolo": "Storage con piano lifetime di pCloud: come funziona e se conviene",
-      "descrizione": "Abbiamo provato Pcloud, una soluzione di storage molto interessante e completa, con possibilità di acquistare un piano lifetime.",
-      "link": "https://www.hdblog.it/hardware/articoli/n653664/pcloud-storage-vita-come-funziona-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:31:00+00:00"
-    },
-    {
-      "titolo": "Terremoto Toyota, il presidente del CDA fa a pezzi le auto elettriche",
-      "descrizione": "Toyota è sempre in cima alla piramide delle vendite di automobili, ma un futuro 100% elettriche potrebbe cambiare tutto",
-      "link": "https://www.hdmotori.it/paura-toyota-tecnologia-elettrica/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:30:30+00:00"
-    },
-    {
-      "titolo": "Xiaomi ha il suo agente programmatore: memoria \"infinita\", meglio di Claude Code?",
-      "descrizione": "La società ha previsto due funzioni speciali per evitare il tradizionale degrado della qualità nei task più complessi.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n661110/xiaomi-agente-coding-memoria-infinita-claude-code/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-11T14:25:00+00:00"
-    },
-    {
       "titolo": "Social media: divieto per gli under 16 anche in Canada",
       "descrizione": "Il governo canadese ha presentato un disegno di legge che vieta ai minori di 16 anni l'uso dei social media (sarà obbligatoria la verifica dell'età). The post Social media: divieto per gli under 16 anche in Canada appear",
       "link": "https://www.punto-informatico.it/social-media-divieto-under-16-canada/",
       "fonte": "Punto Informatico",
       "data": "2026-06-11T13:58:27+00:00"
-    },
-    {
-      "titolo": "Luce a 0,1229 €/kWh e gas a 0,483 €/Smc: conviene attivare l’offerta bloccata di Engie?",
-      "descrizione": "Prezzo bloccato ed energia 100% green: condizionatori accesi senza l'ansia dei rincari. The post Luce a 0,1229 €/kWh e gas a 0,483 €/Smc: conviene attivare l’offerta bloccata di Engie? appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/luce-a-01229-e-kwh-e-gas-a-0483-e-smc-conviene-attivare-lofferta-bloccata-di-engie/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T13:31:28+00:00"
-    },
-    {
-      "titolo": "OpenAI: quotazione in Borsa posticipata al 2027?",
-      "descrizione": "OpenAI ha già presentato la documentazione necessaria per l'offerta pubblica iniziale, ma la quotazione in Borsa potrebbe essere posticipata al 2027. The post OpenAI: quotazione in Borsa posticipata al 2027? appeared fir",
-      "link": "https://www.punto-informatico.it/openai-quotazione-borsa-posticipata-2027/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T13:16:09+00:00"
-    },
-    {
-      "titolo": "Mondiali di calcio 2026: le partite in chiaro e in streaming sulla Rai",
-      "descrizione": "Ci siamo, iniziano i mondiali di calcio 2026: questo l'elenco delle partite trasmesse in chiaro su Rai 1 e in streaming gratis su RaiPlay. The post Mondiali di calcio 2026: le partite in chiaro e in streaming sulla Rai a",
-      "link": "https://www.punto-informatico.it/mondiali-calcio-2026-partite-chiaro-streaming-rai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T12:36:23+00:00"
-    },
-    {
-      "titolo": "Il Mondiale come una mega città: la sfida tecnologica di ospitare sei miliardi di spettatori",
-      "descrizione": "Parla Nacho Fresco, Director of Technology della FIFA, il capo delle tecnologie che ha progettato l’infrastruttura dei mondiali di calcio di quest’anno.",
-      "link": "https://www.ilsole24ore.com/art/il-mondiale-come-mega-citta-sfida-tecnologica-ospitare-sei-miliardi-spettatori-AIoFarbD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-11T12:20:46+00:00"
-    },
-    {
-      "titolo": "Il mouse pieghevole Logitech Mobi Fold è l’idea che mancava",
-      "descrizione": "Si chiama Mobi Fold ed è un mouse wireless pieghevole votato alla portabilità: l'ultima novità presentata da Logitech è già disponibile. The post Il mouse pieghevole Logitech Mobi Fold è l’idea che mancava appeared first",
-      "link": "https://www.punto-informatico.it/mouse-pieghevole-logitech-mobi-fold/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T12:10:36+00:00"
-    },
-    {
-      "titolo": "Google descrive le truffe più popolari di giugno",
-      "descrizione": "Google ha descritto le truffe più popolari (furto di dati, credenziali e criptovalute) e fornito consigli per non cadere nelle trappole dei cybercriminali. The post Google descrive le truffe più popolari di giugno appear",
-      "link": "https://www.punto-informatico.it/google-descrive-truffe-piu-popolari-giugno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T11:24:32+00:00"
-    },
-    {
-      "titolo": "OneDrive per Mac diventa più veloce e affidabile",
-      "descrizione": "Microsoft riscrive il motore di sincronizzazione di OneDrive per Mac. Ora è due volte più veloce, consuma meno CPU e meno memoria. The post OneDrive per Mac diventa più veloce e affidabile appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/onedrive-mac-diventa-piu-veloce-affidabile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T11:15:10+00:00"
-    },
-    {
-      "titolo": "YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts",
-      "descrizione": "New research suggests that dozens of monetized YouTube channels are run by people and organizations that the US government has sanctioned for their ties to Tehran.",
-      "link": "https://www.wired.com/story/youtube-appears-to-be-making-money-off-of-sanctioned-iranian-accounts/",
-      "fonte": "WIRED",
-      "data": "2026-06-11T11:00:00+00:00"
     }
   ]
 }
