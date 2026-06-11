@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-11T04:59:59.206532+00:00",
+  "last_updated": "2026-06-11T10:58:24.420119+00:00",
   "items": [
     {
-      "titolo": "Il chabot è morto? No, in realtà sta succedendo qualcosa di molto più interessante",
-      "descrizione": "Un rumor attraversa la Silicon Valley e rimbalza fino alle pagine del Financial Times: OpenAI starebbe preparando il pensionamento di ChatGPT. Detta così sembra una notizia clamorosa. Un po’ come...",
-      "link": "https://www.ilsole24ore.com/art/il-chabot-e-morto-no-realta-sta-succedendo-qualcosa-molto-piu-interessante-AIwKRWXD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-09T05:33:06+00:00",
+      "titolo": "In Cina il boom delle auto elettriche ha evitato 262.000 morti per smog",
+      "descrizione": "Uno studio evidenzia come la rapida diffusione massiva di veicoli elettrici nel Paese asiatico abbia migliorato la qualità dell'aria nelle città e la salute pubblica.",
+      "link": "https://www.hdmotori.it/cina-auto-elettriche-morti-smog/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-11T09:00:15+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google vuole rendere Gemini un tool sempre più indispensabile per le PMI",
-      "descrizione": "Due feature dedicate in roll-out!",
-      "link": "https://www.hdblog.it/google/articoli/n660992/google-gemini-funzioni-pmi-integrazione-profili/",
+      "titolo": "I danni di Google AI Overview: due aziende tedesche fanno causa",
+      "descrizione": "Venivano descritte come \"coinvolte in attività poco chiare\"",
+      "link": "https://www.hdblog.it/google/articoli/n661074/google-ai-overview-danni-reputazione-causa-legale/",
       "fonte": "HDblog.it",
-      "data": "2026-06-10T17:05:00+00:00",
+      "data": "2026-06-11T10:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "descrizione": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-      "fonte": "WIRED",
-      "data": "2026-06-11T03:11:22+00:00",
+      "titolo": "Troppe restrizioni per Claude Fable 5: proteste dei ricercatori",
+      "descrizione": "Diversi ricercatori hanno scoperto che Claude Fable 5 non risponde a domande innocue su cybersicurezza e biologia a causa delle eccessive restrizioni. The post Troppe restrizioni per Claude Fable 5: proteste dei ricercat",
+      "link": "https://www.punto-informatico.it/troppe-restrizioni-per-claude-fable-5-proteste-dei-ricercatori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-11T10:12:11+00:00",
       "modello": "claude"
     },
     {
