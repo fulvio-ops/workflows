@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T20:45:35.717286+00:00",
+  "last_updated": "2026-06-11T04:59:59.206532+00:00",
   "items": [
     {
       "titolo": "Il chabot è morto? No, in realtà sta succedendo qualcosa di molto più interessante",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Fable 5 genera giochi, mappe e software da un solo prompt",
-      "descrizione": "Fable 5 di Anthropic porta il vibe coding a un nuovo livello. Secondo il ricercatore Ethan Mollick i risultati sono sorprendenti. The post Claude Fable 5 genera giochi, mappe e software da un solo prompt appeared first o",
-      "link": "https://www.punto-informatico.it/claude-fable-5-genera-giochi-mappe-software-un-solo-prompt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-10T12:30:07+00:00",
+      "titolo": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "descrizione": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+      "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "fonte": "WIRED",
+      "data": "2026-06-11T03:11:22+00:00",
       "modello": "claude"
     },
     {

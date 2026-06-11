@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-06-10T20:45:32.244297+00:00",
+  "last_updated": "2026-06-11T04:59:55.270969+00:00",
   "items": [
+    {
+      "titolo": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "descrizione": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+      "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "fonte": "WIRED",
+      "data": "2026-06-10T20:55:40+00:00"
+    },
     {
       "titolo": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
       "descrizione": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/aruba-annuncia-hakunavpn-per-navigare-in-sicurezza/",
       "fonte": "Punto Informatico",
       "data": "2026-06-10T13:10:59+00:00"
-    },
-    {
-      "titolo": "Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ — promises trailer 3 launch is imminent based on heightened activity",
-      "descrizione": "Either a dedicated jokester or a deranged fan has been posting advanced surveillance on Reddit in an attempt to predict the next GTA 6 trailer.",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-10T12:11:06+00:00"
     }
   ]
 }
