@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-06-12T15:42:02.657969+00:00",
+  "last_updated": "2026-06-12T20:27:01.092156+00:00",
   "items": [
     {
-      "titolo": "Codex potrà programmare nel cloud per giorni senza interruzioni",
-      "descrizione": "Con l'acquisizione di Ona, OpenAI punta a rendere gli agenti di programmazione di Codex operativi 24 ore su 24. The post Codex potrà programmare nel cloud per giorni senza interruzioni appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/codex-openai-programmare-cloud-giorni-senza-interruzioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T13:03:05+00:00",
+      "titolo": "OpenAI blocca la campagna di propaganda cinese più... inutile di sempre?",
+      "descrizione": "Contro i datacenter AI: non piacciono già a nessuno e le proteste sono parecchio diffuse. È anche forse la campagna di propaganda più \"a prova di fact checking di sempre\".",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n661263/openai-propaganda-cina-data-center/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T17:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life",
-      "descrizione": "Linux developer uses AI to help update Linux GPU driver support for vintage HD 2000 - HD 6000 series.",
-      "link": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-09T09:40:06+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Anthropic: proposta per rischi catastrofici dei modelli AI",
-      "descrizione": "Anthropic ha suggerito alcune soluzioni ai governi per evitare i rischi derivanti dalla distribuzione incontrollata dei modelli AI più potenti. The post Anthropic: proposta per rischi catastrofici dei modelli AI appeared",
-      "link": "https://www.punto-informatico.it/anthropic-proposta-rischi-catastrofici-modelli-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T08:59:14+00:00",
+      "titolo": "Claude Fable 5 secretly throttled AI researchers, and the internet went wild",
+      "descrizione": "Claude Fable 5 gave users access to Mythos-class power, but its hidden safeguards turned a safety feature into a trust problem for Anthropic.",
+      "link": "https://www.zdnet.com/article/claude-fable-5-secretly-throttled/",
+      "fonte": "Latest news",
+      "data": "2026-06-12T17:03:00+00:00",
       "modello": "claude"
     }
   ]

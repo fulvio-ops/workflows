@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-06-12T15:41:58.147776+00:00",
+  "last_updated": "2026-06-12T20:26:56.249304+00:00",
   "items": [
+    {
+      "titolo": "I used HyperDroid to make my Android devices look and feel like Windows 11 - and don't regret it",
+      "descrizione": "I've never been the biggest fan of Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway, and didn't mind it.",
+      "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
+      "fonte": "Latest news",
+      "data": "2026-06-12T19:05:00+00:00"
+    },
+    {
+      "titolo": "OpenAI blocca la campagna di propaganda cinese più... inutile di sempre?",
+      "descrizione": "Contro i datacenter AI: non piacciono già a nessuno e le proteste sono parecchio diffuse. È anche forse la campagna di propaganda più \"a prova di fact checking di sempre\".",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n661263/openai-propaganda-cina-data-center/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T17:40:00+00:00"
+    },
+    {
+      "titolo": "Social media: Meta chiede verifica età per app store",
+      "descrizione": "Meta ha nuovamente suggerito che la verifica dell'età dovrebbe essere effettuata dagli app store e non per ogni singola app scaricata. The post Social media: Meta chiede verifica età per app store appeared first on Punto",
+      "link": "https://www.punto-informatico.it/social-media-meta-chiede-verifica-eta-app-store/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-12T17:04:47+00:00"
+    },
+    {
+      "titolo": "Nvidia preps to sell its Vera CPUs into China as its GPU sales stay frozen — customers encouraged to place orders for CPU shipments as early as August",
+      "descrizione": "Nvidia has told Chinese clients that its Arm-based Vera server CPUs could be available as soon as August.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-offers-china-early-access-to-vera-cpus-as-h200-sales-stay-frozen",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-12T16:17:42+00:00"
+    },
+    {
+      "titolo": "Crisi memorie, cattive notizie anche da MSI | CPU in miglioramento a breve",
+      "descrizione": "RAM e GPU sono ancora un problema, ma le CPU dovrebbero aumentare sia da Intel sia da AMD.",
+      "link": "https://www.hdblog.it/hardware/articoli/n661255/crisi-memorie-msi-previsioni-ram-processori-gpu/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T16:15:00+00:00"
+    },
+    {
+      "titolo": "Amazon lancia Sleep Studio per aiutare i bambini ad addormentarsi",
+      "descrizione": "Disponibile per ora solo negli USA con abbonamento ad Amazon Kids+.",
+      "link": "https://www.hdblog.it/amazon/articoli/n661249/amazon-lancia-sleep-studio-per-sonno-bambini/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T16:10:00+00:00"
+    },
+    {
+      "titolo": "Thrustmaster's new specialized T.Flight Hotas 5 Microsoft Flight Simulator Edition provides a plug-and-play flight sim setup for just $109 — featuring 5-axis control with 16-bit precision and dual-rudder system",
+      "descrizione": "Rocking 16-bit precision, dual-rudder yaw, 5-axis control and a plug-and-play profile for Microsoft Flight Simulator 2024, the new T.Flight Hotas 5 is a solid entry point to flight sims. It works with PlayStation console",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmasters-new-specialized-t-flight-hotas-5-microsoft-flight-simulator-edition-provides-a-plug-and-play-flight-sim-setup-for-just-usd109-featuring-5-axis-control-with-16-bit-precision-and-dual-rudder-system",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-12T16:05:13+00:00"
+    },
+    {
+      "titolo": "PicoDMG è un ottimo progetto per modernizzare il mitico Game Boy",
+      "descrizione": "Display retroilluminato e piattaforma basata su Raspberry Pi... con NFC per caricare i giochi.",
+      "link": "https://www.hdblog.it/games/articoli/n661253/nintendo-game-boy-emulatore-modding-picodmg/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T15:50:00+00:00"
+    },
+    {
+      "titolo": "Fiat pensa a neopatentati e under 30, offerte a partire da 99 euro al mese",
+      "descrizione": "Fiat ha realizzato una serie di offerte pensate per rendere più accessibile per under 30 e neopatentati l'intera gamma di veicoli",
+      "link": "https://www.hdmotori.it/fiat-offerte-neopatentati-under-30/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T15:30:21+00:00"
+    },
     {
       "titolo": "Nvidia's high-speed AI data center storage servers break cover, touting 2.9 petabytes of storage and extreme PCIe 6.0 performance — Wiwynn shows off SCADA server with GPU-accelerated storage",
       "descrizione": "Wiwynn is among the first to demonstrate Nvidia SCADA server that promises to offer AI systems petabytes of ultra-fast storage thanks to GPU-accelerated storage acceleration.",
@@ -58,20 +121,6 @@
       "data": "2026-06-12T14:12:00+00:00"
     },
     {
-      "titolo": "DualSense: sblocca l'audio e il feedback aptico via Bluetooth su PC grazie a DSX",
-      "descrizione": "DSX è disponibile su Steam",
-      "link": "https://www.hdblog.it/sony/articoli/n661227/dualsense-pc-vibrazione-bluetooth/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T14:05:00+00:00"
-    },
-    {
-      "titolo": "Come cambia il mercato delle minicar: la strategia di Aixam in Italia",
-      "descrizione": "Nonostante la frenata del settore dei quadricicli, il marchio francese chiude il 2025 in crescita e rilancia con investimenti industriali e una gamma sdoppiata.",
-      "link": "https://www.hdmotori.it/aixam-bilancio-mercato-minicar/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T14:00:56+00:00"
-    },
-    {
       "titolo": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
       "descrizione": "They swear they haven’t peeked at the closely guarded secret and that they’ll keep the cryptographic competition going.",
       "link": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
@@ -100,34 +149,6 @@
       "data": "2026-06-12T13:18:20+00:00"
     },
     {
-      "titolo": "Android 17 QPR1 Beta 4 arriva sui Pixel e porta una funzione utile ai creator",
-      "descrizione": "Si chiama \"Screen Reactions\": ecco come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n661218/android-17-qpr1-beta-4-screen-reactions-pixel/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T13:05:00+00:00"
-    },
-    {
-      "titolo": "DJI fa causa a Insta360: la gimbal camera Luna violerebbe brevetti Osmo Pocket",
-      "descrizione": "DJI non contesta solo la somiglianza esterna tra i prodotti",
-      "link": "https://www.hdblog.it/fotografia/articoli/n661222/dji-causa-insta360-luna-brevetti-osmo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T12:55:00+00:00"
-    },
-    {
-      "titolo": "AirPods Pro 3, MacBook M5 e robot DJI: offerte tech da non perdere oggi",
-      "descrizione": "Amazon e MediaWorld tagliano i prezzi su AirPods Pro 3, MacBook Pro M5, robot aspirapolvere, gaming, audio e lavapavimenti Dreame: le migliori offerte tech del 12 giugno.",
-      "link": "https://www.hdblog.it/amazon/offerte/n661219/offerte-tech-12-giugno-2026-amazon-mediaworld/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T12:50:00+00:00"
-    },
-    {
-      "titolo": "Amazon aggiorna Echo Hub: nuova interfaccia e gestione smart home intuitiva",
-      "descrizione": "Le funzionalità sono in arrivo per tutti gli utenti a livello globale.",
-      "link": "https://www.hdblog.it/amazon/articoli/n661224/amazon-aggiorna-echo-hub-nuova-interfaccia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T12:45:00+00:00"
-    },
-    {
       "titolo": "Social vietati sotto i 16 anni: i Paesi che tutelano i minori, e l’Italia?",
       "descrizione": "14 paesi stanno vietando o considerando il divieto dei social media per i minori. L'Australia ha aperto la strada. L'Italia non arriva mai al dunque. The post Social vietati sotto i 16 anni: i Paesi che tutelano i minori",
       "link": "https://www.punto-informatico.it/social-vietati-sotto-16-anni-paesi-tutelano-minori-italia/",
@@ -142,32 +163,11 @@
       "data": "2026-06-12T12:25:35+00:00"
     },
     {
-      "titolo": "Ecco come mettere il turbo a Windows 11: più fluido e reattivo con poco sforzo",
-      "descrizione": "Basta installare una patch ufficiale e usare un tool di terze parti ma molto sicuro e relativamente semplice.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n661223/windows-11-prestazioni-turbo-patch-tuesday/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T12:25:00+00:00"
-    },
-    {
-      "titolo": "La ColorOS 17? Non sarà una copia di iOS 27",
-      "descrizione": "Oppo chiarisce la direzione della prossima ColorOS 17: niente rivoluzione grafica in stile Apple. L’obiettivo sarà migliorare prestazioni, fluidità ed esperienza d’uso rispetto alla UI attuale",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661217/coloros-17-liquid-glass-oppo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T12:15:00+00:00"
-    },
-    {
-      "titolo": "SpaceX: quotazione in Borsa, Elon Musk diventa trilionario",
-      "descrizione": "In seguito al debutto in Borsa di SpaceX (IPO da 75 miliardi di dollari), il patrimonio di Elon Musk potrebbe arrivare a circa 1.100 miliardi di dollari. The post SpaceX: quotazione in Borsa, Elon Musk diventa trilionari",
-      "link": "https://www.punto-informatico.it/spacex-quotazione-borsa-elon-musk-diventa-trilionario/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T11:30:58+00:00"
-    },
-    {
-      "titolo": "6 Android Auto apps that are essential when I'm off-roading - and most are free",
-      "descrizione": "Android Auto isn't just for city streets anymore. Here are the apps that help me get more done on road trips.",
-      "link": "https://www.zdnet.com/article/6-android-auto-apps-let-explore-the-outdoors/",
-      "fonte": "Latest news",
-      "data": "2026-06-12T11:00:00+00:00"
+      "titolo": "Parmitano: Artemis III sarà una missione «avvincente e complessa»",
+      "descrizione": "Luca Parmitano sarà il pilota di Artemis III . La Nasa lo ha annunciato il 9 giugno al Johnson Space Center di Houston: l’astronauta italiano dell’Agenzia spaziale europea (l’Esa),...",
+      "link": "https://www.ilsole24ore.com/art/parmitano-artemis-iii-sara-missione-avvincente-e-complessa-AIAfJMdD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-12T12:01:57+00:00"
     }
   ]
 }
