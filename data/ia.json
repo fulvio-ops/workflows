@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T05:05:01.398171+00:00",
+  "last_updated": "2026-06-12T10:40:25.093813+00:00",
   "items": [
     {
       "titolo": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini 3.5 Live Translate: traduzione in tempo reale",
-      "descrizione": "Gemini 3.5 Live Translate è il nuovo modello speech-to-speech che permette di ottenere traduzioni in tempo reale in Google Traduttore e Google Meet. The post Gemini 3.5 Live Translate: traduzione in tempo reale appeared",
-      "link": "https://www.punto-informatico.it/gemini-3-5-live-traslate-traduzione-tempo-reale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-11T15:28:12+00:00",
+      "titolo": "TV con comandi vocali supportati da Gemini: TCL è la prima",
+      "descrizione": "Il nuovo controllo vocale di Google TV basato su Gemini inizia il rollout sui televisori TCL selezionati, con esclusiva di 60 giorni prima dell'espansione agli altri dispositivi Google TV",
+      "link": "https://www.hdblog.it/tv/articoli/n661180/tcl-comandi-vocali-gemini-google-tv/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-12T10:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Troppe restrizioni per Claude Fable 5: proteste dei ricercatori",
-      "descrizione": "Diversi ricercatori hanno scoperto che Claude Fable 5 non risponde a domande innocue su cybersicurezza e biologia a causa delle eccessive restrizioni. The post Troppe restrizioni per Claude Fable 5: proteste dei ricercat",
-      "link": "https://www.punto-informatico.it/troppe-restrizioni-per-claude-fable-5-proteste-dei-ricercatori/",
+      "titolo": "Anthropic: proposta per rischi catastrofici dei modelli AI",
+      "descrizione": "Anthropic ha suggerito alcune soluzioni ai governi per evitare i rischi derivanti dalla distribuzione incontrollata dei modelli AI più potenti. The post Anthropic: proposta per rischi catastrofici dei modelli AI appeared",
+      "link": "https://www.punto-informatico.it/anthropic-proposta-rischi-catastrofici-modelli-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-11T10:12:11+00:00",
+      "data": "2026-06-12T08:59:14+00:00",
       "modello": "claude"
     }
   ]
