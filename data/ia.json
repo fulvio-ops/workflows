@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T10:40:25.093813+00:00",
+  "last_updated": "2026-06-12T15:42:02.657969+00:00",
   "items": [
     {
-      "titolo": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-      "descrizione": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-      "fonte": "WIRED",
-      "data": "2026-06-11T21:21:04+00:00",
+      "titolo": "Codex potrà programmare nel cloud per giorni senza interruzioni",
+      "descrizione": "Con l'acquisizione di Ona, OpenAI punta a rendere gli agenti di programmazione di Codex operativi 24 ore su 24. The post Codex potrà programmare nel cloud per giorni senza interruzioni appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/codex-openai-programmare-cloud-giorni-senza-interruzioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-12T13:03:05+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,14 +16,6 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-09T09:40:06+00:00",
       "modello": "copilot"
-    },
-    {
-      "titolo": "TV con comandi vocali supportati da Gemini: TCL è la prima",
-      "descrizione": "Il nuovo controllo vocale di Google TV basato su Gemini inizia il rollout sui televisori TCL selezionati, con esclusiva di 60 giorni prima dell'espansione agli altri dispositivi Google TV",
-      "link": "https://www.hdblog.it/tv/articoli/n661180/tcl-comandi-vocali-gemini-google-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T10:10:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic: proposta per rischi catastrofici dei modelli AI",
