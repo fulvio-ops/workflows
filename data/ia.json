@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:27:01.092156+00:00",
+  "last_updated": "2026-06-13T04:52:58.206803+00:00",
   "items": [
     {
       "titolo": "OpenAI blocca la campagna di propaganda cinese più... inutile di sempre?",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Fable 5 secretly throttled AI researchers, and the internet went wild",
-      "descrizione": "Claude Fable 5 gave users access to Mythos-class power, but its hidden safeguards turned a safety feature into a trust problem for Anthropic.",
-      "link": "https://www.zdnet.com/article/claude-fable-5-secretly-throttled/",
-      "fonte": "Latest news",
-      "data": "2026-06-12T17:03:00+00:00",
+      "titolo": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "descrizione": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "fonte": "WIRED",
+      "data": "2026-06-13T02:26:10+00:00",
       "modello": "claude"
     }
   ]
