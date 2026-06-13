@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-13T14:28:36.400150+00:00",
+  "last_updated": "2026-06-13T19:55:00.055884+00:00",
   "items": [
+    {
+      "titolo": "Pubblicità ingannevole: multa di 7 milioni a Philip Morris",
+      "descrizione": "Philip Morris Italia deve pagare una sanzione di 7 milioni di euro per pubblicità ingannevole su riscaldatori di tabacco e sigarette elettroniche. The post Pubblicità ingannevole: multa di 7 milioni a Philip Morris appea",
+      "link": "https://www.punto-informatico.it/pubblicita-ingannevole-multa-7-milioni-philip-morris/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-13T17:38:14+00:00"
+    },
+    {
+      "titolo": "Fusione Paramount-WBD: ok negli USA, ma non è finita",
+      "descrizione": "Il Dipartimento di Giustizia ha approvato la fusione tra Paramount Skydance e Warner Bros. Discovery, ma serve anche il via libera da altre autorità. The post Fusione Paramount-WBD: ok negli USA, ma non è finita appeared",
+      "link": "https://www.punto-informatico.it/fusione-paramount-wbd-ok-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-13T16:30:54+00:00"
+    },
     {
       "titolo": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
       "descrizione": "Powered by the Ryzen AI Max+ 395 processor and 128GB of unified memory, AMD's developer kit arrives as a direct competitor to Nvidia's DGX Spark, which recently saw a price increase to $4,699.",
       "link": "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-13T14:12:34+00:00"
+    },
+    {
+      "titolo": "Smart TV Xiaomi QLED 55'' con Google TV al nuovo minimo storico Amazon",
+      "descrizione": "Ora costa meno di 370€ lo Xiaomi TV A Pro 55, smart TV da 55 pollici con tecnologia QLED, modalità per il gaming a 120Hz e Google TV come piattaforma smart.",
+      "link": "https://www.hdblog.it/tv/offerte/n661292/smart-tv-xiaomi-qled-55-con-google-tv-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T14:09:00+00:00"
     },
     {
       "titolo": "Murena annuncia la nuova versione del sistema operativo Android senza Google",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/piccolo-potente-musica-fino-7-ore-jbl-go-4-offerta-soli-34e/",
       "fonte": "Punto Informatico",
       "data": "2026-06-13T06:38:19+00:00"
-    },
-    {
-      "titolo": "Mercato: a maggio vendute 151 auto usate per ogni 100 nuove",
-      "descrizione": "Dai dati dell'ultimo rapporto ANIASA emerge che l’usato prevale sul nuovo a livello proporzionale. Continua ad invecchiare il parco circolante.",
-      "link": "https://www.hdmotori.it/mercato-maggio-auto-usate-nuove/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-13T06:30:47+00:00"
-    },
-    {
-      "titolo": "I used HyperDroid to make my Android devices look and feel like Windows 11 - and don't regret it",
-      "descrizione": "I've never been the biggest fan of Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway, and didn't mind it.",
-      "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
-      "fonte": "Latest news",
-      "data": "2026-06-12T19:05:00+00:00"
-    },
-    {
-      "titolo": "Social media: Meta chiede verifica età per app store",
-      "descrizione": "Meta ha nuovamente suggerito che la verifica dell'età dovrebbe essere effettuata dagli app store e non per ogni singola app scaricata. The post Social media: Meta chiede verifica età per app store appeared first on Punto",
-      "link": "https://www.punto-informatico.it/social-media-meta-chiede-verifica-eta-app-store/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T17:04:47+00:00"
     }
   ]
 }
