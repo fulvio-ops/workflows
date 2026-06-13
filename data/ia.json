@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-06-13T04:52:58.206803+00:00",
+  "last_updated": "2026-06-13T09:35:11.177830+00:00",
   "items": [
     {
-      "titolo": "OpenAI blocca la campagna di propaganda cinese più... inutile di sempre?",
-      "descrizione": "Contro i datacenter AI: non piacciono già a nessuno e le proteste sono parecchio diffuse. È anche forse la campagna di propaganda più \"a prova di fact checking di sempre\".",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n661263/openai-propaganda-cina-data-center/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T17:40:00+00:00",
+      "titolo": "Visa is handling AI-prompted transactions for OpenAI - but can you trust it?",
+      "descrizione": "A new partnership between Visa and OpenAI takes the next step in AI-led purchasing. Here's what an expert wants you to know.",
+      "link": "https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work/",
+      "fonte": "Latest news",
+      "data": "2026-06-13T09:00:55+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "descrizione": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "fonte": "WIRED",
-      "data": "2026-06-13T02:26:10+00:00",
+      "titolo": "Google denuncia i criminali che hanno sfruttato Gemini per gravi frodi finanziarie",
+      "descrizione": "Google denuncia una vasta rete criminale che sfruttava Gemini per truffare numerosi utenti americani.",
+      "link": "https://www.hdblog.it/business/articoli/n661264/google-denuncia-criminali-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T07:25:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Governo USA ordina il blocco di Anthropic Fable 5 e Mythos 5 | Cosa sta succedendo",
+      "descrizione": "Il governo degli Stati Uniti ordina il blocco globale dei modelli AI Claude Fable 5 e Mythos 5.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661270/blocco-ai-anthropic-governo-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T06:55:00+00:00",
       "modello": "claude"
     }
   ]
