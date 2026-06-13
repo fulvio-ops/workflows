@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-13T09:35:11.177830+00:00",
+  "last_updated": "2026-06-13T14:28:40.550421+00:00",
   "items": [
     {
-      "titolo": "Visa is handling AI-prompted transactions for OpenAI - but can you trust it?",
-      "descrizione": "A new partnership between Visa and OpenAI takes the next step in AI-led purchasing. Here's what an expert wants you to know.",
-      "link": "https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work/",
-      "fonte": "Latest news",
-      "data": "2026-06-13T09:00:55+00:00",
+      "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "descrizione": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T12:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Governo USA ordina il blocco di Anthropic Fable 5 e Mythos 5 | Cosa sta succedendo",
-      "descrizione": "Il governo degli Stati Uniti ordina il blocco globale dei modelli AI Claude Fable 5 e Mythos 5.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661270/blocco-ai-anthropic-governo-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-13T06:55:00+00:00",
+      "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "descrizione": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T12:00:00+00:00",
       "modello": "claude"
     }
   ]

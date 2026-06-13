@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-06-13T09:35:07.747754+00:00",
+  "last_updated": "2026-06-13T14:28:36.400150+00:00",
   "items": [
+    {
+      "titolo": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
+      "descrizione": "Powered by the Ryzen AI Max+ 395 processor and 128GB of unified memory, AMD's developer kit arrives as a direct competitor to Nvidia's DGX Spark, which recently saw a price increase to $4,699.",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T14:12:34+00:00"
+    },
+    {
+      "titolo": "Murena annuncia la nuova versione del sistema operativo Android senza Google",
+      "descrizione": "Novità nella novità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661287/murena-sistema-operativo-android-senza-google/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T13:55:00+00:00"
+    },
+    {
+      "titolo": "Airbag Takata difettosi, svolta in Italia: Opel obbligata a informare i clienti",
+      "descrizione": "Nuovi obblighi per Opel dopo la decisione del Tribunale di Torino: più trasparenza, contatti diretti ai clienti e auto sostitutiva",
+      "link": "https://www.hdmotori.it/airbag-takata-opel/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T13:00:20+00:00"
+    },
+    {
+      "titolo": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
+      "descrizione": "Nvidia now sells the RTX Pro 6000 Blackwell graphics cards for $13,250, while partner offerings start at $11,359.99.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T12:30:00+00:00"
+    },
+    {
+      "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "descrizione": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "titolo": "Microsoft aggiorna il Media Creation Tool di Windows 11 con le ultime ISO di giugno",
+      "descrizione": "Arrivano i nuovi Media Creation Tool: download disponibile per la build 26200.8655",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661282/microsoft-windows-11-nuovi-media-creation-tool/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T11:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11: ecco le novità in arrivo entro giugno",
+      "descrizione": "Microsoft ha rilasciato nuove build preliminari per Windows 11 24H2/25H2 con nuove funzionalità e miglioramenti che saranno disponibili a fine mese. The post Windows 11: ecco le novità in arrivo entro giugno appeared fir",
+      "link": "https://www.punto-informatico.it/windows-11-novita-arrivo-entro-giugno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-13T10:59:24+00:00"
+    },
+    {
+      "titolo": "PC da gaming salva la proprietaria da un proiettile sparato attraverso il muro",
+      "descrizione": "Da un cane, per giunta",
+      "link": "https://www.hdblog.it/hardware/articoli/n661251/pc-gaming-proiettile-attraverso-muro/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T10:55:00+00:00"
+    },
+    {
+      "titolo": "Ukraine used ten AI-controlled ‘Terminator’ drones to kill Russian soldiers two years ago, marking first autonomous killings of humans — autonomous killer quadcopters left ‘everything dead’ says senior Ukrainian defense",
+      "descrizione": "A watershed moment occurred on the battlefields of Ukraine in 2024 when 10 fully autonomous AI-controlled quadcopter drones were sent to the front lines against Russia with ‘Terminator Mode’ engaged.",
+      "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-13T10:46:57+00:00"
+    },
+    {
+      "titolo": "I always keep 3 devices connected to a power station - here's why",
+      "descrizione": "Using a portable power station to its full potential is ideal for getting your money's worth and enjoying uninterrupted power.",
+      "link": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station-and-why/",
+      "fonte": "Latest news",
+      "data": "2026-06-13T10:01:10+00:00"
+    },
+    {
+      "titolo": "Opel: la Grandland veste l'uniforme della Polizia tedesca",
+      "descrizione": "La Grandland con motorizzazione ibrida plug-in, allestita con tecnologie all'avanguardia da EDAG, debutta come nuova auto di pattuglia per le forze dell'ordine in Germania.",
+      "link": "https://www.hdmotori.it/opel-grandland-polizia-tedesca/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T10:00:27+00:00"
+    },
+    {
+      "titolo": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
+      "descrizione": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
+      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
+      "fonte": "WIRED",
+      "data": "2026-06-13T10:00:00+00:00"
+    },
+    {
+      "titolo": "iPhone Ultra: 10 caratteristiche chiave del primo pieghevole di Apple",
+      "descrizione": "Cosa sappiamo del primo pieghevole di Apple.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661231/apple-iphone-ultra-10-caratteristiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-13T09:55:00+00:00"
+    },
     {
       "titolo": "Shrinking S4, riprese iniziate: i primi dettagli arrivano da Jason Segel",
       "descrizione": "Jason Segel conferma l'inizio delle riprese per la quarta stagione di Shrinking su Apple TV.",
@@ -16,7 +107,7 @@
       "data": "2026-06-13T09:01:02+00:00"
     },
     {
-      "titolo": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "titolo": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
       "descrizione": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
       "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
       "fonte": "WIRED",
@@ -65,13 +156,6 @@
       "data": "2026-06-13T06:30:47+00:00"
     },
     {
-      "titolo": "SpaceX chiude in forte rialzo, Elon Musk centra l'obiettivo",
-      "descrizione": "Il debutto record di SpaceX sul Nasdaq fa volare il titolo e crea il primo trilionario della storia.",
-      "link": "https://www.hdblog.it/business/articoli/n661271/spacex-chiude-rialzo-musk-trilionario/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-13T06:25:00+00:00"
-    },
-    {
       "titolo": "I used HyperDroid to make my Android devices look and feel like Windows 11 - and don't regret it",
       "descrizione": "I've never been the biggest fan of Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway, and didn't mind it.",
       "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
@@ -79,95 +163,11 @@
       "data": "2026-06-12T19:05:00+00:00"
     },
     {
-      "titolo": "OpenAI blocca la campagna di propaganda cinese più... inutile di sempre?",
-      "descrizione": "Contro i datacenter AI: non piacciono già a nessuno e le proteste sono parecchio diffuse. È anche forse la campagna di propaganda più \"a prova di fact checking di sempre\".",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n661263/openai-propaganda-cina-data-center/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T17:40:00+00:00"
-    },
-    {
       "titolo": "Social media: Meta chiede verifica età per app store",
       "descrizione": "Meta ha nuovamente suggerito che la verifica dell'età dovrebbe essere effettuata dagli app store e non per ogni singola app scaricata. The post Social media: Meta chiede verifica età per app store appeared first on Punto",
       "link": "https://www.punto-informatico.it/social-media-meta-chiede-verifica-eta-app-store/",
       "fonte": "Punto Informatico",
       "data": "2026-06-12T17:04:47+00:00"
-    },
-    {
-      "titolo": "Nvidia preps to sell its Vera CPUs into China as its GPU sales stay frozen — customers encouraged to place orders for CPU shipments as early as August",
-      "descrizione": "Nvidia has told Chinese clients that its Arm-based Vera server CPUs could be available as soon as August.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-offers-china-early-access-to-vera-cpus-as-h200-sales-stay-frozen",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-12T16:17:42+00:00"
-    },
-    {
-      "titolo": "Crisi memorie, cattive notizie anche da MSI | CPU in miglioramento a breve",
-      "descrizione": "RAM e GPU sono ancora un problema, ma le CPU dovrebbero aumentare sia da Intel sia da AMD.",
-      "link": "https://www.hdblog.it/hardware/articoli/n661255/crisi-memorie-msi-previsioni-ram-processori-gpu/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T16:15:00+00:00"
-    },
-    {
-      "titolo": "Amazon lancia Sleep Studio per aiutare i bambini ad addormentarsi",
-      "descrizione": "Disponibile per ora solo negli USA con abbonamento ad Amazon Kids+.",
-      "link": "https://www.hdblog.it/amazon/articoli/n661249/amazon-lancia-sleep-studio-per-sonno-bambini/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T16:10:00+00:00"
-    },
-    {
-      "titolo": "Thrustmaster's new specialized T.Flight Hotas 5 Microsoft Flight Simulator Edition provides a plug-and-play flight sim setup for just $109 — featuring 5-axis control with 16-bit precision and dual-rudder system",
-      "descrizione": "Rocking 16-bit precision, dual-rudder yaw, 5-axis control and a plug-and-play profile for Microsoft Flight Simulator 2024, the new T.Flight Hotas 5 is a solid entry point to flight sims. It works with PlayStation console",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmasters-new-specialized-t-flight-hotas-5-microsoft-flight-simulator-edition-provides-a-plug-and-play-flight-sim-setup-for-just-usd109-featuring-5-axis-control-with-16-bit-precision-and-dual-rudder-system",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-12T16:05:13+00:00"
-    },
-    {
-      "titolo": "PicoDMG è un ottimo progetto per modernizzare il mitico Game Boy",
-      "descrizione": "Display retroilluminato e piattaforma basata su Raspberry Pi... con NFC per caricare i giochi.",
-      "link": "https://www.hdblog.it/games/articoli/n661253/nintendo-game-boy-emulatore-modding-picodmg/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-12T15:50:00+00:00"
-    },
-    {
-      "titolo": "Nvidia's high-speed AI data center storage servers break cover, touting 2.9 petabytes of storage and extreme PCIe 6.0 performance — Wiwynn shows off SCADA server with GPU-accelerated storage",
-      "descrizione": "Wiwynn is among the first to demonstrate Nvidia SCADA server that promises to offer AI systems petabytes of ultra-fast storage thanks to GPU-accelerated storage acceleration.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/nvidias-high-speed-ai-data-center-storage-servers-break-cover-touting-2-9-petabytes-of-storage-and-extreme-pcie-6-0-performance-wiwynn-shows-off-scada-server-with-gpu-accelerated-storage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-12T15:01:59+00:00"
-    },
-    {
-      "titolo": "Telemarketing: offerte vietate anche per gli operatori energetici",
-      "descrizione": "Anche gli operatori del mercato dell'energia non possono proporre offerte tramite telefono o messaggio se l'utente non ha fornito un consenso esplicito. The post Telemarketing: offerte vietate anche per gli operatori ene",
-      "link": "https://www.punto-informatico.it/telemarketing-offerte-vietate-anche-operatori-energetici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T14:44:00+00:00"
-    },
-    {
-      "titolo": "This single router antenna adjustment improved my internet speed more than I expected",
-      "descrizione": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error. Here's my advice.",
-      "link": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
-      "fonte": "Latest news",
-      "data": "2026-06-12T14:27:00+00:00"
-    },
-    {
-      "titolo": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
-      "descrizione": "They swear they haven’t peeked at the closely guarded secret and that they’ll keep the cryptographic competition going.",
-      "link": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
-      "fonte": "WIRED",
-      "data": "2026-06-12T14:00:00+00:00"
-    },
-    {
-      "titolo": "Facebook e Instagram down il 12 giugno: tutti gli aggiornamenti",
-      "descrizione": "Valanga di segnalazioni per il down di Facebook: il social network è irraggiungibile, problemi anche per la piattaforma Messenger. The post Facebook e Instagram down il 12 giugno: tutti gli aggiornamenti appeared first o",
-      "link": "https://www.punto-informatico.it/facebook-down-12062026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T13:43:50+00:00"
-    },
-    {
-      "titolo": "Abbiamo provato la VPN di Aruba: come funziona HakunaVPN",
-      "descrizione": "Semplice, forse anche troppo: come è andato il nostro primo test con HakunaVPN, la Virtual Private Network appena lanciata da Aruba. The post Abbiamo provato la VPN di Aruba: come funziona HakunaVPN appeared first on Pun",
-      "link": "https://www.punto-informatico.it/vpn-aruba-come-funziona-hakunavpn/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-12T13:36:28+00:00"
     }
   ]
 }
