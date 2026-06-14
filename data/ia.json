@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-06-14T09:56:31.525746+00:00",
+  "last_updated": "2026-06-14T14:30:08.105573+00:00",
   "items": [
     {
-      "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
-      "descrizione": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-13T12:00:00+00:00",
+      "titolo": "ChatGPT e Claude sfruttati per distribuire malware",
+      "descrizione": "Microsoft ha descritto quattro attacchi recenti che sfruttano la popolarità di ChatGPT e Claude per rubare credenziali e dati delle carte di credito. The post ChatGPT e Claude sfruttati per distribuire malware appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-claude-sfruttati-distribuire-malware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-14T14:27:09+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Mythos 5 e Fable 5: ban per colpa di Amazon?",
-      "descrizione": "I ricercatori di Amazon sono riusciti ad aggirare le restrizioni di Claude Fable 5, quindi il CEO Andy Jassy ha contattato il governo statunitense. The post Claude Mythos 5 e Fable 5: ban per colpa di Amazon? appeared fi",
-      "link": "https://www.punto-informatico.it/claude-mythos-5-fable-5-ban-colpa-amazon/",
+      "titolo": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
+      "descrizione": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI features to run on discrete GPUs. This move expands its user base and gives more users access to Windows 11 local AI capabil",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-14T13:00:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "ChatGPT e Claude sfruttati per distribuire malware",
+      "descrizione": "Microsoft ha descritto quattro attacchi recenti che sfruttano la popolarità di ChatGPT e Claude per rubare credenziali e dati delle carte di credito. The post ChatGPT e Claude sfruttati per distribuire malware appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-claude-sfruttati-distribuire-malware/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-14T09:11:28+00:00",
+      "data": "2026-06-14T14:27:09+00:00",
       "modello": "claude"
     }
   ]

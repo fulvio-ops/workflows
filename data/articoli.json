@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-06-14T09:56:27.823887+00:00",
+  "last_updated": "2026-06-14T14:30:04.951229+00:00",
   "items": [
+    {
+      "titolo": "ChatGPT e Claude sfruttati per distribuire malware",
+      "descrizione": "Microsoft ha descritto quattro attacchi recenti che sfruttano la popolarità di ChatGPT e Claude per rubare credenziali e dati delle carte di credito. The post ChatGPT e Claude sfruttati per distribuire malware appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-claude-sfruttati-distribuire-malware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-14T14:27:09+00:00"
+    },
+    {
+      "titolo": "Grab this MSI Codex Z2 16-thread gaming Ryzen PC with a 2TB SSD at a $400 discount — system packs a Ryzen 8700F, 16GB DDR5, and RTX 5060 Ti 8GB for $1,499",
+      "descrizione": "MSI's prebuilt gaming desktop pairs a Zen 4 processor with Nvidia's latest RTX 5060 Ti graphics card and comes housed in an airflow-focused chassis with ARGB lighting.",
+      "link": "https://www.tomshardware.com/pc-components/grab-this-msi-codex-z2-16-thread-gaming-ryzen-pc-with-a-2tb-ssd-at-a-usd400-discount-system-packs-a-ryzen-8700f-16gb-ddr5-and-rtx-5060-ti-8gb-for-usd1-499",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-14T13:28:13+00:00"
+    },
+    {
+      "titolo": "PocketCM5 sembra un Game Boy ma è un handheld Linux \"semi fai-da-te\"",
+      "descrizione": "È un kit, sostanzialmente: il produttore fornisce i pezzi, l'utente integra e assembla senza troppe complicazioni.",
+      "link": "https://www.hdblog.it/hardware/articoli/n661260/pocketcm5-handheld-linux-kit-assemblare/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-14T12:15:00+00:00"
+    },
+    {
+      "titolo": "Primo contatto con Sony Xperia 1 VIII al Computex 2026 di Taipei | Video",
+      "descrizione": "Molto ben fatti e particolari, ma arriveranno mai da noi?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661257/xperia-1-viii-video-impressioni-computex/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-14T11:05:00+00:00"
+    },
+    {
+      "titolo": "NFCShare: nuova variante del malware che clona la carta",
+      "descrizione": "Una nuova variante di NFCShare permette di rubare i dati delle carte di pagamento con il chip NFC dello smartphone e false app presenti su GitHub. The post NFCShare: nuova variante del malware che clona la carta appeared",
+      "link": "https://www.punto-informatico.it/nfcshare-nuova-variante-malware-clona-carta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-14T10:15:38+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026: i cani robot di Boston Dynamics sorvegliano gli stadi",
+      "descrizione": "I cani robot Spot di Boston Dynamics debuttano ai Mondiali 2026 per gestire la sicurezza negli stadi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661301/cani-robot-mondiali-2026-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-14T10:05:00+00:00"
+    },
+    {
+      "titolo": "F1 2026: ADUO confusa e infelice",
+      "descrizione": "Sul tema ADUO la Red Bull ha chiesto spiegazioni alla FIA, che ha scelto di riesaminare ancora una volta parametri e risultati prima di esprimersi definitivamente. Una decisione che evidenzia come la...",
+      "link": "https://www.hdmotori.it/f1-2026-aduo-confusa-e-infelice/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-14T10:00:53+00:00"
+    },
     {
       "titolo": "Microsoft Teams, arriva il tracciamento della posizione in ufficio",
       "descrizione": "Microsoft lancia il check-in automatico su Teams tramite Wi-Fi aziendale tra i dubbi sulla privacy",
@@ -93,13 +142,6 @@
       "data": "2026-06-13T13:55:00+00:00"
     },
     {
-      "titolo": "Airbag Takata difettosi, svolta in Italia: Opel obbligata a informare i clienti",
-      "descrizione": "Nuovi obblighi per Opel dopo la decisione del Tribunale di Torino: più trasparenza, contatti diretti ai clienti e auto sostitutiva",
-      "link": "https://www.hdmotori.it/airbag-takata-opel/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-13T13:00:20+00:00"
-    },
-    {
       "titolo": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
       "descrizione": "Nvidia now sells the RTX Pro 6000 Blackwell graphics cards for $13,250, while partner offerings start at $11,359.99.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time",
@@ -126,48 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-13T10:46:57+00:00"
-    },
-    {
-      "titolo": "I always keep 3 devices connected to a power station - here's why",
-      "descrizione": "Using a portable power station to its full potential is ideal for getting your money's worth and enjoying uninterrupted power.",
-      "link": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station-and-why/",
-      "fonte": "Latest news",
-      "data": "2026-06-13T10:01:10+00:00"
-    },
-    {
-      "titolo": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
-      "descrizione": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
-      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
-      "fonte": "WIRED",
-      "data": "2026-06-13T10:00:00+00:00"
-    },
-    {
-      "titolo": "The best VPN routers of 2026: Expert tested and reviewed",
-      "descrizione": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
-      "link": "https://www.zdnet.com/article/best-vpn-router/",
-      "fonte": "Latest news",
-      "data": "2026-06-13T09:01:02+00:00"
-    },
-    {
-      "titolo": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-      "descrizione": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
-      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-      "fonte": "WIRED",
-      "data": "2026-06-13T09:00:00+00:00"
-    },
-    {
-      "titolo": "Novità per due canali importanti sul digitale terrestre",
-      "descrizione": "Scopri quali sono le grandi novità di due canali radiotelevisivi nazionali importanti della piattaforma digitale terrestre italiana. The post Novità per due canali importanti sul digitale terrestre appeared first on Punt",
-      "link": "https://www.punto-informatico.it/novita-per-due-canali-importanti-sul-digitale-terrestre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-13T07:00:46+00:00"
-    },
-    {
-      "titolo": "Piccolo e potente per musica fino a 7 ore: JBL GO 4 in offerta a soli 34€",
-      "descrizione": "Appena 34 euro circa su Amazon e puoi ottenere il mitico speaker Bluetooth JBL GO 4 con 7 ore di autonomia e impermeabilità. The post Piccolo e potente per musica fino a 7 ore: JBL GO 4 in offerta a soli 34€ appeared fir",
-      "link": "https://www.punto-informatico.it/piccolo-potente-musica-fino-7-ore-jbl-go-4-offerta-soli-34e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-13T06:38:19+00:00"
     }
   ]
 }
