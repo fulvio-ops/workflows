@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T05:10:08.847214+00:00",
+  "last_updated": "2026-06-14T09:56:31.525746+00:00",
   "items": [
     {
       "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google denuncia i criminali che hanno sfruttato Gemini per gravi frodi finanziarie",
-      "descrizione": "Google denuncia una vasta rete criminale che sfruttava Gemini per truffare numerosi utenti americani.",
-      "link": "https://www.hdblog.it/business/articoli/n661264/google-denuncia-criminali-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-13T07:25:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
-      "descrizione": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-13T12:00:00+00:00",
+      "titolo": "Claude Mythos 5 e Fable 5: ban per colpa di Amazon?",
+      "descrizione": "I ricercatori di Amazon sono riusciti ad aggirare le restrizioni di Claude Fable 5, quindi il CEO Andy Jassy ha contattato il governo statunitense. The post Claude Mythos 5 e Fable 5: ban per colpa di Amazon? appeared fi",
+      "link": "https://www.punto-informatico.it/claude-mythos-5-fable-5-ban-colpa-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-14T09:11:28+00:00",
       "modello": "claude"
     }
   ]
