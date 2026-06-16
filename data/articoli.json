@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-06-16T17:22:01.098568+00:00",
+  "last_updated": "2026-06-16T21:19:56.405332+00:00",
   "items": [
+    {
+      "titolo": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
+      "descrizione": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers matchmaking.",
+      "link": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T20:21:57+00:00"
+    },
+    {
+      "titolo": "Un mese con FitBit Air: con l'AI vi fa davvero \"licenziare\" il personal trainer?",
+      "descrizione": "Abbiamo provato la nuova FitBit Air, una fitness band che non ha un display e nulla di smart, se non una vibrazione per svegliarvi la mattina. Collegata alla nuova app Google Health hai un coach...",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n661066/fitbit-air-test-prova-ai-coach/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T18:45:00+00:00"
+    },
+    {
+      "titolo": "Addio social, benvenuto Commodore: ecco Callback 8020, il telefono anti-stress",
+      "descrizione": "5 versioni in arrivo: i prezzi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661526/commodore-callback-8020-telefono-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T18:43:00+00:00"
+    },
+    {
+      "titolo": "Occhiali Xreal Aura con Google: al via le prenotazioni a 99 dollari",
+      "descrizione": "Gli Xreal Aura con Google sono prenotabili a 99 dollari di deposito. Meno di 95 grammi, chip Snapdragon Reality Elite. Lancio in autunno. The post Occhiali Xreal Aura con Google: al via le prenotazioni a 99 dollari appea",
+      "link": "https://www.punto-informatico.it/occhiali-xreal-aura-google-prenotazioni-99-dollari/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-16T18:25:40+00:00"
+    },
+    {
+      "titolo": "Nintendo aggiorna Switch 2 e Switch, e c'è una bella differenza per l'eShop",
+      "descrizione": "Non è un semplice aggiornamento di routine: cosa cambia.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n661593/nintendo-switch-2-22-5-0-novita-eshop-update/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T18:25:00+00:00"
+    },
+    {
+      "titolo": "SpaceX acquisirà la startup AI Cursor per 60 miliardi di dollari",
+      "descrizione": "Prima mega acquisizione post-IPO.",
+      "link": "https://www.hdblog.it/business/articoli/n661590/spacex-compra-cursor-startup-ai-programmazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T18:05:00+00:00"
+    },
+    {
+      "titolo": "AI che gestisce i letti ospedalieri in Brasile ritarda il ricovero e muore",
+      "descrizione": "Una donna è morta dopo 5 giorni di attesa per un letto in terapia intensiva. Il sistema AI le aveva assegnato un punteggio di gravità errato. The post AI che gestisce i letti ospedalieri in Brasile ritarda il ricovero e",
+      "link": "https://www.punto-informatico.it/ai-gestisce-letti-ospedali-ritarda-ricovero-donna-muore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-16T18:02:51+00:00"
+    },
+    {
+      "titolo": "7 interesting Father's Day gifts and gadgets (that will arrive before Sunday)",
+      "descrizione": "Father's Day is this weekend, and we found the most useful items your father figure will appreciate, based on our testing.",
+      "link": "https://www.zdnet.com/article/fathers-day-gift-guide-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-16T17:55:28+00:00"
+    },
+    {
+      "titolo": "Giugno caldo su Xbox Game Pass con EA Sports FC 26 e i Mondiali, COD e non solo",
+      "descrizione": "Ecco i titoli in arrivo su Game Pass annunciati da Microsoft.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661585/xbox-game-pass-ea-fc-26-mondiali-cod-giugno/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T17:50:00+00:00"
+    },
+    {
+      "titolo": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "descrizione": "Skip Amazon Prime Day. Check out the best early Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-16T17:47:16+00:00"
+    },
+    {
+      "titolo": "Dal letame al carburante per aerei: primi test negli USA",
+      "descrizione": "Una startup californiana converte il biogas del letame in carburante per aerei.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661558/letame-mucche-carburante-aerei-saf/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T17:40:00+00:00"
+    },
+    {
+      "titolo": "Home Assistant finalmente dialoga Alexa! Ma non tutto è perfetto",
+      "descrizione": "Finalmente è possibile accedere in modo relativamente semplice e immediato a tante funzionalità e integrazioni. Ma la questione privacy è ancora da migliorare.",
+      "link": "https://www.hdblog.it/amazon/articoli/n661587/home-assistant-amazon-echo-alexa-integrazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T17:35:00+00:00"
+    },
+    {
+      "titolo": "Threads festeggia 500 milioni di utenti attivi ogni mese: crescita inarrestabile",
+      "descrizione": "Threads ha raggiunto mezzo miliardo di utenti attivi al mese, potenziando community tematiche e feed.",
+      "link": "https://www.hdblog.it/android/articoli/n661544/threads-500-milioni-utenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T17:30:00+00:00"
+    },
     {
       "titolo": "Resti di una supernova vicino a Sagittarius A: incredibile scoperta nella Via Lattea",
       "descrizione": "NASA scopre i resti di una supernova antica vicino al centro della Via Lattea.",
@@ -58,39 +149,11 @@
       "data": "2026-06-16T16:25:00+00:00"
     },
     {
-      "titolo": "Rover Transformer giapponese: SORA-Q ha esplorato la Luna",
-      "descrizione": "SORA-Q ha esplorato la Luna con ruote trasformabili e guida autonoma.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661503/rover-giapponese-sora-q-esplorazione-lunare/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T16:15:00+00:00"
-    },
-    {
       "titolo": "Logitech's new G305 X Superlight weighs just 59 grams and costs $79 — company also releases hot-swappable G316 X 98 keyboard with pixel display, translucent control knob",
       "descrizione": "Logitech's latest gaming peripherals include a redesigned 59-gram G305 X Superlight mouse with 8,000 Hz polling and a customizable G316 X 98 mechanical keyboard featuring hot-swappable switches and a control dial.",
       "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-new-g305-x-superlight-weighs-just-59-grams-and-costs-usd79-company-also-releases-new-hot-swappable-g316-x-98-keyboard",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-16T16:05:05+00:00"
-    },
-    {
-      "titolo": "Nuova Audi A6 allroad, per chi ancora vuol fare a meno dei SUV",
-      "descrizione": "Arriva sul mercato la sesta generazione di Audi A6 allroad, basata sulla piattaforma PPC. Prezzi a partire da 82.350 euro",
-      "link": "https://www.hdmotori.it/nuova-audi-a6-allroad/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T16:00:46+00:00"
-    },
-    {
-      "titolo": "SpaceX supera Amazon e Microsoft: ora vale 2.950 miliardi di dollari",
-      "descrizione": "SpaceX supera Microsoft e Amazon come valore",
-      "link": "https://www.hdblog.it/mercato/articoli/n661569/elon-musk-spacex-borsavalore-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T15:35:00+00:00"
-    },
-    {
-      "titolo": "Jules Verne aveva previsto Artemis II. Le incredibili somiglianze",
-      "descrizione": "Le opere di Jules Verne del 1865 anticipano molti aspetti di Artemis 2.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661548/jules-verne-previsione-missione-lunare/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T15:15:00+00:00"
     },
     {
       "titolo": "Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds — Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab",
@@ -105,69 +168,6 @@
       "link": "https://www.punto-informatico.it/microsoft-annuncia-surface-pro-laptop-snapdragon-x2/",
       "fonte": "Punto Informatico",
       "data": "2026-06-16T15:05:21+00:00"
-    },
-    {
-      "titolo": "Lynk & Co 07 GT: la prima wagon del brand è un'ibrida plug-in da 400 CV",
-      "descrizione": "Lynk & Co lancia la sfida alle familiari tradizionali con la nuova 07 GT. Un'ibrida plug-in a trazione integrale da oltre 400 CV con prezzi stimati da 24.400 dollari.",
-      "link": "https://www.hdmotori.it/nuova-lynk-co-07-gt-wagon/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T15:00:09+00:00"
-    },
-    {
-      "titolo": "Lo strano caso delle maglie dell’Olanda che mandano in tilt le TV",
-      "descrizione": "Le maglie arancioni dell'Olanda hanno creato problemi di visione durante la partita contro il Giappone: proviamo a spiegare il perché. The post Lo strano caso delle maglie dell’Olanda che mandano in tilt le TV appeared f",
-      "link": "https://www.punto-informatico.it/strano-caso-maglie-olanda-mandano-tilt-tv/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-16T14:43:12+00:00"
-    },
-    {
-      "titolo": "Un mese con FitBit Air: con l'AI vi fa davvero \"licenziare\" il personal trainer?",
-      "descrizione": "Abbiamo provato la nuova FitBit Air, una fitness band che non ha un display e nulla di smart, se non una vibrazione per svegliarvi la mattina. Collegata alla nuova app Google Health hai un coach...",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n661066/fitbit-air-test-prova-ai-coach/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T14:31:00+00:00"
-    },
-    {
-      "titolo": "SpaceX acquisisce Cursor e annuncia la chiusura dell’IPO",
-      "descrizione": "SpaceX ha acquisito Cursor per 60 miliardi di dollari, esercitando il diritto ottenuto circa due mesi fa tramite accordo con la startup californiana. The post SpaceX acquisisce Cursor e annuncia la chiusura dell’IPO appe",
-      "link": "https://www.punto-informatico.it/spacex-acquisisce-cursor-e-annuncia-la-chiusura-dellipo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-16T14:13:43+00:00"
-    },
-    {
-      "titolo": "Noctua finally releases its first AIO coolers — prices start at $220 for 240mm, features the company’s legendary A-series fans",
-      "descrizione": "Noctua just dropped its NL-LC1 AIO coolers on Amazon, with the 240mm option starting at $219.95. It also comes with an optional 80mm auxiliary fan to help keep other components cooler and reduce case fan speed.",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/noctua-finally-releases-its-first-aio-coolers-prices-start-at-usd220-for-240mm-features-the-companys-legendary-a-series-fans",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-16T14:05:03+00:00"
-    },
-    {
-      "titolo": "What Do We Need From Our Homes Right Now?",
-      "descrizione": "The global editorial directors of WIRED and Architectural Digest on teaming up to help you understand how we live today, and what comes next.",
-      "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
-      "fonte": "WIRED",
-      "data": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "titolo": "Need a New Lamp? Here Are 7 Bright Ideas",
-      "descrizione": "These clever lights—each one an exemplar of innovation in materials, design, and function—will beautify your home.",
-      "link": "https://www.wired.com/story/gallery-lamps-to-brighten-your-home/",
-      "fonte": "WIRED",
-      "data": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "titolo": "3 unofficial Android Auto apps I installed to make my car screen more useful - and how",
-      "descrizione": "You can add YouTube, web browsing, and more to your car by sideloading apps.",
-      "link": "https://www.zdnet.com/article/3-of-my-favorite-sideloaded-android-auto-apps/",
-      "fonte": "Latest news",
-      "data": "2026-06-16T13:59:06+00:00"
-    },
-    {
-      "titolo": "App IO e patente: raggiunti i 10 milioni di caricamenti",
-      "descrizione": "La patente di guida ha superato la tessera sanitaria per quanto riguarda il numero di caricamenti sull'app IO: raggiunti i 10 milioni. The post App IO e patente: raggiunti i 10 milioni di caricamenti appeared first on Pu",
-      "link": "https://www.punto-informatico.it/app-io-patente-10-milioni-caricamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-16T13:58:13+00:00"
     }
   ]
 }

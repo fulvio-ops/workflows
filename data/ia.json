@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-16T17:22:04.689775+00:00",
+  "last_updated": "2026-06-16T21:19:59.290880+00:00",
   "items": [
     {
-      "titolo": "Rover Transformer giapponese: SORA-Q ha esplorato la Luna",
-      "descrizione": "SORA-Q ha esplorato la Luna con ruote trasformabili e guida autonoma.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661503/rover-giapponese-sora-q-esplorazione-lunare/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-16T16:15:00+00:00",
+      "titolo": "AI che gestisce i letti ospedalieri in Brasile ritarda il ricovero e muore",
+      "descrizione": "Una donna è morta dopo 5 giorni di attesa per un letto in terapia intensiva. Il sistema AI le aveva assegnato un punteggio di gravità errato. The post AI che gestisce i letti ospedalieri in Brasile ritarda il ricovero e",
+      "link": "https://www.punto-informatico.it/ai-gestisce-letti-ospedali-ritarda-ricovero-donna-muore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-16T18:02:51+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Un abbonato fa causa ad Anthropic per i limiti di Claude Max",
-      "descrizione": "Un utente fa causa ad Anthropic. Il piano Claude Max 20x da 200 dollari al mese offre utilizzo molto inferiore a quanto pubblicizzato. The post Un abbonato fa causa ad Anthropic per i limiti di Claude Max appeared first",
-      "link": "https://www.punto-informatico.it/abbonato-fa-causa-anthropic-limiti-claude-max/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-16T10:20:39+00:00",
+      "titolo": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "descrizione": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T17:50:52+00:00",
       "modello": "claude"
     }
   ]
