@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-15T21:23:35.826451+00:00",
+  "last_updated": "2026-06-16T05:35:31.079387+00:00",
   "items": [
+    {
+      "titolo": "Petlibro Offers: 60% Off in June",
+      "descrizione": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "link": "https://www.wired.com/story/petlibro-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T05:00:00+00:00"
+    },
+    {
+      "titolo": "TopResume Packages: Everything You Need to Get Hired",
+      "descrizione": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
+      "link": "https://www.wired.com/story/topresume-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T05:00:00+00:00"
+    },
+    {
+      "titolo": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "descrizione": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T00:53:46+00:00"
+    },
+    {
+      "titolo": "Your iPhone may support Channel Sounding via Bluetooth with iOS 27 - and it's a big deal",
+      "descrizione": "One less-discussed iOS 27 feature unveiled at Apple's WWDC is support for Channel Sounding. It'll be bigger news when Bluetooth 6.3 officially releases.",
+      "link": "https://www.zdnet.com/article/iphone-enhanced-bluetooth-tracking-with-ios-27-theres-a-catch/",
+      "fonte": "Latest news",
+      "data": "2026-06-16T00:00:47+00:00"
+    },
     {
       "titolo": "25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free",
       "descrizione": "I drove over 25,000 miles in the past year alone with CarPlay running in the background. These apps made every ride easy.",
@@ -140,34 +168,6 @@
       "link": "https://www.zdnet.com/article/samsung-essential-s3-amazon-prime-day-deal-2026/",
       "fonte": "Latest news",
       "data": "2026-06-15T15:26:23+00:00"
-    },
-    {
-      "titolo": "Google vuole costruire un data center con 2.000 smartphone",
-      "descrizione": "Google e la University of California San Diego realizzeranno un data center con 2.000 smartphone Pixel inutilizzati per applicazioni di cloud computing. The post Google vuole costruire un data center con 2.000 smartphone",
-      "link": "https://www.punto-informatico.it/google-vuole-costruire-data-center-2000-smartphone/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-15T15:10:06+00:00"
-    },
-    {
-      "titolo": "EA Advertising: la serie FC diventa una piattaforma pubblicitaria",
-      "descrizione": "FC, Madden NFL e The Sims al centro della nuova strategia pubblicitaria annunciata da Electronic Arts con la piattaforma EA Advertising. The post EA Advertising: la serie FC diventa una piattaforma pubblicitaria appeared",
-      "link": "https://www.punto-informatico.it/ea-advertising-fc-piattaforma-pubblicitaria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-15T14:48:10+00:00"
-    },
-    {
-      "titolo": "PEC, phishing e spam in aumento: centinaia di casi da inizio 2026",
-      "descrizione": "Bisogna fare attenzione anche alle comunicazioni che arrivano dalle caselle PEC: in aumento tentativi di phishing rilevati e messaggi spam. The post PEC, phishing e spam in aumento: centinaia di casi da inizio 2026 appea",
-      "link": "https://www.punto-informatico.it/pec-phishing-spam-aumento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-15T14:13:54+00:00"
-    },
-    {
-      "titolo": "I tested an AirTag alternative that uses LoRa mesh to track location - and it's seriously reliable",
-      "descrizione": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
-      "link": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
-      "fonte": "Latest news",
-      "data": "2026-06-15T14:00:43+00:00"
     }
   ]
 }

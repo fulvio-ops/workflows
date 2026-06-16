@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T21:23:39.876984+00:00",
+  "last_updated": "2026-06-16T05:35:34.990714+00:00",
   "items": [
     {
       "titolo": "I mille miliardi di dollari di Musk risolverebbero la fame nel mondo",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls — Anthropic defended its decision by saying the jailbreak 'isn’t serious,' Chinese group ha",
-      "descrizione": "David Sacks said the US government warned Anthropic that Claude Fable 5 had been jailbroken and that CEO Dario Amodei refused to fix the flaw.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-adviser-david-sacks-says-anthropic-refused-to-fix-fable-5-jailbreak-before-us-export-controls",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-14T11:46:43+00:00",
+      "titolo": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "descrizione": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "fonte": "WIRED",
+      "data": "2026-06-16T00:53:46+00:00",
       "modello": "claude"
     }
   ]
