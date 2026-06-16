@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-16T05:35:34.990714+00:00",
+  "last_updated": "2026-06-16T11:35:28.313675+00:00",
   "items": [
     {
-      "titolo": "I mille miliardi di dollari di Musk risolverebbero la fame nel mondo",
-      "descrizione": "I mille miliardi di dollari di Elon Musk basterebbero a risolvere la fame nel mondo e finanziare OpenAI fino al 2030. Un traguardo da record. The post I mille miliardi di dollari di Musk risolverebbero la fame nel mondo",
-      "link": "https://www.punto-informatico.it/mille-miliardi-dollari-musk-risolverebbero-fame-mondo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-15T11:23:21+00:00",
+      "titolo": "Roblox punta tutto sull'AI per verificare l'età: \"Dire di avere 13 anni non basta più\"",
+      "descrizione": "Ormai lo avranno capito anche i dodicenni come fare.",
+      "link": "https://www.hdblog.it/games/articoli/n661534/roblox-verifica-eta-ai-video-minori-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-16T11:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-      "descrizione": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
-      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
-      "fonte": "WIRED",
-      "data": "2026-06-16T00:53:46+00:00",
+      "titolo": "Un abbonato fa causa ad Anthropic per i limiti di Claude Max",
+      "descrizione": "Un utente fa causa ad Anthropic. Il piano Claude Max 20x da 200 dollari al mese offre utilizzo molto inferiore a quanto pubblicizzato. The post Un abbonato fa causa ad Anthropic per i limiti di Claude Max appeared first",
+      "link": "https://www.punto-informatico.it/abbonato-fa-causa-anthropic-limiti-claude-max/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-16T10:20:39+00:00",
       "modello": "claude"
     }
   ]
