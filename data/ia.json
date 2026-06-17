@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-17T05:17:44.831939+00:00",
+  "last_updated": "2026-06-17T11:17:43.540608+00:00",
   "items": [
     {
-      "titolo": "Videogiochi made in Italy, la crescita c’è ma manca il capitale per fare il salto globale",
-      "descrizione": "Al First Playabe l’industria videoludica allo specchio: oltre oltre 500 operatori professionali tra studi di sviluppo e investitori istituzionali. Dall’Europa arriva MediaInvest, il fondo che punta a mobilitare oltre 400",
-      "link": "https://www.ilsole24ore.com/art/videogiochi-made-italy-crescita-c-e-ma-manca-capitale-fare-salto-globale-AISskYcD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-17T05:16:24+00:00",
+      "titolo": "L’universo continua a espandersi più rapidamente, nuovo studio lo conferma",
+      "descrizione": "Corretto un errore sulle supernovae, confermata l’espansione accelerata.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661638/universo-espansione-accelerata-confermata-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T09:35:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
-      "descrizione": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI features to run on discrete GPUs. This move expands its user base and gives more users access to Windows 11 local AI capabil",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-14T13:00:00+00:00",
-      "modello": "copilot"
+      "titolo": "ChatGPT perde il dominio: sotto il 50% per la prima volta",
+      "descrizione": "ChatGPT resta primo, ma Gemini e Claude riducono il distacco nel mercato AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n661627/mercato-ai-2026-gemini-claude-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T08:45:00+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "descrizione": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "fonte": "WIRED",
-      "data": "2026-06-16T17:50:52+00:00",
+      "titolo": "ChatGPT perde il dominio: sotto il 50% per la prima volta",
+      "descrizione": "ChatGPT resta primo, ma Gemini e Claude riducono il distacco nel mercato AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n661627/mercato-ai-2026-gemini-claude-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T08:45:00+00:00",
       "modello": "claude"
     }
   ]
