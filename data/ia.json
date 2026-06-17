@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-17T16:06:35.533751+00:00",
+  "last_updated": "2026-06-17T20:30:29.588656+00:00",
   "items": [
     {
-      "titolo": "ChatGPT resta leader, ma Gemini cresce: sorpasso in vista",
-      "descrizione": "Il vantaggio di ChatGPT sui concorrenti si assottiglia, soprattutto in Italia: Gemini e Claude guadagnano terreno, mese dopo mese. The post ChatGPT resta leader, ma Gemini cresce: sorpasso in vista appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-resta-leader-gemini-cresce-sorpasso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-17T14:23:24+00:00",
+      "titolo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "descrizione": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+      "fonte": "WIRED",
+      "data": "2026-06-17T18:25:35+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,12 +18,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "ChatGPT resta leader, ma Gemini cresce: sorpasso in vista",
-      "descrizione": "Il vantaggio di ChatGPT sui concorrenti si assottiglia, soprattutto in Italia: Gemini e Claude guadagnano terreno, mese dopo mese. The post ChatGPT resta leader, ma Gemini cresce: sorpasso in vista appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-resta-leader-gemini-cresce-sorpasso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-17T14:23:24+00:00",
+      "titolo": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",
+      "descrizione": "Following the Trump administration's block on Anthropic's Mythos 5 and Fable 5 models, world leaders have raised concerns that without direct access to frontier models, they may need to develop their own national alterna",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-17T17:36:41+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations, report claims — White House holds off to avoid escalating tensions with China",
+      "descrizione": "DeepSeek and CXMT, which have both been tagged as supporting Chinese military and intelligence operations, are set to be added to the U.S.'s Entity List. However, the White House hasn't included them yet in order to avoi",
+      "link": "https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-17T16:00:45+00:00",
+      "modello": "altri"
     }
   ]
 }

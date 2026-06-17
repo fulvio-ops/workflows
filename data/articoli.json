@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-17T16:06:30.982236+00:00",
+  "last_updated": "2026-06-17T20:30:26.554666+00:00",
   "items": [
+    {
+      "titolo": "GTA V, l'upgrade alla versione \"next gen\" diventa gratuito",
+      "descrizione": "Forse lo studio americano sta iniziando a dire addio al supporto di PS4 e Xbox One.",
+      "link": "https://www.hdblog.it/windows/articoli/n661724/gta-v-upgrade-ps5-xsx-pc-gratis/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T17:40:00+00:00"
+    },
+    {
+      "titolo": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",
+      "descrizione": "Following the Trump administration's block on Anthropic's Mythos 5 and Fable 5 models, world leaders have raised concerns that without direct access to frontier models, they may need to develop their own national alterna",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-17T17:36:41+00:00"
+    },
+    {
+      "titolo": "Eno di Genesis AI: il robot senza testa e gambe con mani umane",
+      "descrizione": "Genesis AI presenta Eno, un robot senza testa né gambe, su ruote, con mani identiche a quelle umane. Finanziato da Eric Schmidt ex CEO di Google. The post Eno di Genesis AI: il robot senza testa e gambe con mani umane ap",
+      "link": "https://www.punto-informatico.it/eno-genesis-ai-robot-senza-testa-gambe-mani-umane/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-17T17:22:20+00:00"
+    },
+    {
+      "titolo": "Apple Watch, una nuova medaglia per lo Yoga Day: ecco come si potrà ottenerla",
+      "descrizione": "Apple attiverà una nuova Sfida Attività per chi usa Apple Watch.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n661718/apple-watch-nuova-medaglia-yoga-day/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T17:10:00+00:00"
+    },
+    {
+      "titolo": "Bespoke Series by Mulliner, la nuova edizione esclusiva e colorata di Bentley",
+      "descrizione": "Bentley lancia 100 esemplari per clienti incontentabili. La Bespoke Series by Mulliner punta su colori ed elementi unici",
+      "link": "https://www.hdmotori.it/bespoke-series-by-mulliner-bentley/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T17:00:40+00:00"
+    },
+    {
+      "titolo": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "descrizione": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "fonte": "WIRED",
+      "data": "2026-06-17T17:00:00+00:00"
+    },
+    {
+      "titolo": "Thread Direct renderà la configurazione degli impianti Matter ancora più semplice",
+      "descrizione": "Non sarà più necessario avere fin da subito un Border Router.",
+      "link": "https://www.hdblog.it/domotica/articoli/n661709/thread-direct-border-router-matter/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T16:50:00+00:00"
+    },
+    {
+      "titolo": "Driver NVIDIA 610.62: bug corretti, supporto Empulse e DLSS 4.5",
+      "descrizione": "NVIDIA 610.62 Game Ready Driver con dieci correzioni e un solo problema aperto. Stabilità migliorata in WoW. The post Driver NVIDIA 610.62: bug corretti, supporto Empulse e DLSS 4.5 appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/driver-nvidia-610-62-bug-corretti-supporto-empulse-dlss-4-5/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-17T16:48:52+00:00"
+    },
+    {
+      "titolo": "Matter 1.6 è arrivato: configurazioni ancora più semplici e versatili",
+      "descrizione": "Grazie al supporto alla configurazione completa via NFC, si potrà collegare un dispositivo al proprio impianto ancora prima di accenderlo.",
+      "link": "https://www.hdblog.it/domotica/articoli/n661711/matter-1-6-novita-quando-nfc-termostati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T16:45:00+00:00"
+    },
+    {
+      "titolo": "Prime Day UGREEN: 6 offerte da non perdere tra power bank, NAS e accessori per la produttività",
+      "descrizione": "In occasione del Prime Day Amazon, UGREEN propone sconti fino al 40% su alcuni dei suoi prodotti più interessanti: power bank ad alta capacità, caricabatterie GaN, docking station, tracker...",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n661427/prime-day-ugreen-offerte-power-bank-nas-caricatori/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T16:31:00+00:00"
+    },
+    {
+      "titolo": "Disney+ taglia Dolby Vision e 3D in Italia e non solo: utenti senza funzione premium",
+      "descrizione": "Disney+ disattiva Dolby Vision e 3D in 11 Paesi UE dopo una disputa sui brevetti.",
+      "link": "https://www.hdblog.it/mercato/articoli/n661704/disney-plus-dolby-vision-3d-disattivati-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T16:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 cambia gli aggiornamenti: meno riavvii con una novità in arrivo",
+      "descrizione": "Aggiornare, riavviare, aggiornare, riavviare. Windows da anni è un pendolo che oscilla tra aggiornamento e riavvio. Ma presto le cose potrebbero cambiare in meglio: l'ultima build di...",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661707/quante-volte-hai-riavviato-windows-per-un-aggiornamento-microsoft-vuole-cambiare-le-cose/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-17T16:15:00+00:00"
+    },
     {
       "titolo": "Husqvarna Enduro 2027: tecnologia e tradizione svedese per ridefinire l'offroad",
       "descrizione": "Debutta la nuova gamma Husqvarna Enduro 2027 con sette modelli TE e FE. Prezzi da 10.390 euro per la TE 125, ciclistica WP e design che richiama le origini",
@@ -51,41 +135,6 @@
       "data": "2026-06-17T15:25:00+00:00"
     },
     {
-      "titolo": "Sony brevetta un controller PlayStation con pulsanti dinamici e tattili",
-      "descrizione": "Sony brevetta pulsanti che cambiano durezza e possono simulare una presa.",
-      "link": "https://www.hdblog.it/sony/articoli/n661699/sony-controller-playstation-tasti-adattivi-brevett/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T15:20:00+00:00"
-    },
-    {
-      "titolo": "CFMOTO: la V4 SR-RR è la moto cinese più veloce della storia",
-      "descrizione": "Una superbike cinese da 315 km/h? CFMOTO V4 SR-RR ci riesce e lancia la sfida a Ducati e Aprilia. Ecco come la casa asiatica punta a dominare il mercato.",
-      "link": "https://www.hdmotori.it/cfmoto-v4-sr-rr-record-velocita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T15:00:25+00:00"
-    },
-    {
-      "titolo": "Sony presenta il sensore LYTIA L910: tecnologia LOFIC e tante migliorie",
-      "descrizione": "Sony svela LYTIA L910, sensore da 50 MP con HDR evoluto e gamma dinamica ampliata.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661694/sony-lytia-l910-sensore-fotocamera-smartphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:45:00+00:00"
-    },
-    {
-      "titolo": "Subaru Uncharted, la prova dell’elettrica: sia 2WD che 4WD",
-      "descrizione": "Primo contatto su strada con la Subaru Uncharted, l'ultima nata del marchio giapponese. Due le versioni disponibili",
-      "link": "https://www.hdmotori.it/prove/subaru-uncharted-prova-elettrica/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:30:42+00:00"
-    },
-    {
-      "titolo": "Voltura gas e cambio fornitore: le novità dal 1° luglio per risparmiare fino a 467 euro",
-      "descrizione": "Le novità Arera per un triplice beneficio.",
-      "link": "https://www.hdblog.it/green/articoli/n661682/bolletta-gas-voltura-cambio-fornitore-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:25:00+00:00"
-    },
-    {
       "titolo": "ChatGPT resta leader, ma Gemini cresce: sorpasso in vista",
       "descrizione": "Il vantaggio di ChatGPT sui concorrenti si assottiglia, soprattutto in Italia: Gemini e Claude guadagnano terreno, mese dopo mese. The post ChatGPT resta leader, ma Gemini cresce: sorpasso in vista appeared first on Punt",
       "link": "https://www.punto-informatico.it/chatgpt-resta-leader-gemini-cresce-sorpasso/",
@@ -98,27 +147,6 @@
       "link": "https://www.ilsole24ore.com/art/google-home-speaker-gemini-quando-casa-smette-eseguire-ordini-e-inizia-capire-AIIMnWhD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-06-17T14:22:00+00:00"
-    },
-    {
-      "titolo": "Pixel 10a nasconde ora una funzione che nemmeno Google vi ha detto",
-      "descrizione": "Google aggiorna il Pixel 10a con la traduzione vocale in chiamata e altre funzioni prima esclusive dei modelli superiori.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661652/google-pixel-10a-traduzione-vocale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:10:00+00:00"
-    },
-    {
-      "titolo": "Rivoluzione Google Vids: avatar gratis e integrazione con Slides",
-      "descrizione": "Il sistema AI ora permette anche di creare video molto più complessi, dettagliati e particolareggiati.",
-      "link": "https://www.hdblog.it/google/articoli/n661662/google-vids-avatar-gratis-integrazione-slides/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:01:00+00:00"
-    },
-    {
-      "titolo": "Porsche: una speciale 911 GT3 per i 75 anni nel Regno Unito",
-      "descrizione": "Il fascino british incontra l’esclusività tedesca in un connubio che oseremo dire perfetto. Scopriamo la Porsche 911 in tiratura limitata dedicata al Regno Unito",
-      "link": "https://www.hdmotori.it/porsche-911-gt3-75-anni-regno-unito/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T14:00:59+00:00"
     },
     {
       "titolo": "Tante novità su Google Vids: avatar gratis e controllo emozioni",
@@ -135,39 +163,11 @@
       "data": "2026-06-17T13:42:13+00:00"
     },
     {
-      "titolo": "L'Europa dichiara guerra alle app nudifier che spogliano con l'AI, ma non basterà",
-      "descrizione": "Approvata una misura per il contrasto alle app nudifier che generano deepfake sessuali con minori o senza consenso, ma quanto sarà efficace?",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n661677/europa-guerra-app-nudifier-ai-non-bastera/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-17T13:35:00+00:00"
-    },
-    {
       "titolo": "FIFA World Cup: bug permetteva di accedere allo streaming TV",
       "descrizione": "Una ricercatrice ha scoperto una vulnerabilità che permetteva di accedere alla piattaforma usata dalla FIFA per lo streaming video delle partite. The post FIFA World Cup: bug permetteva di accedere allo streaming TV appe",
       "link": "https://www.punto-informatico.it/fifa-world-cup-bug-permetteva-accedere-streaming-tv/",
       "fonte": "Punto Informatico",
       "data": "2026-06-17T13:32:28+00:00"
-    },
-    {
-      "titolo": "Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says — Damascus blames 'systematic sabotage campaign' as cause of damage",
-      "descrizione": "The Syrian government blamed a third party for the damage on its undersea cable that connects it to Egypt. Damascus didn't mention any specific state or non-state actor, but its location makes it a prime target for disru",
-      "link": "https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-17T13:31:39+00:00"
-    },
-    {
-      "titolo": "First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view — chips feature DDR5, PCIe 6.0, and a new socket",
-      "descrizione": "We now have the first confirmed details about AMD's Zen 6-based Threadripper CPUs, code-named Mustang Peak.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-17T13:17:24+00:00"
-    },
-    {
-      "titolo": "Google Home Speaker ufficiale: Gemini, Wi-Fi 6 e un audio potente",
-      "descrizione": "L'AI di Gemini è protagonista nel nuovo altoparlante smart di Mountain View: tutto quello che c'è da sapere su Google Home Speaker. The post Google Home Speaker ufficiale: Gemini, Wi-Fi 6 e un audio potente appeared firs",
-      "link": "https://www.punto-informatico.it/google-home-speaker-ufficiale-gemini-wi-fi-6-e-un-audio-potente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-17T13:00:15+00:00"
     }
   ]
 }
