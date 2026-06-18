@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-18T10:48:49.346777+00:00",
+  "last_updated": "2026-06-18T15:53:59.581128+00:00",
   "items": [
     {
-      "titolo": "I'm excited about ChatGPT's memory upgrade - but I'm quickly seeing a downside",
-      "descrizione": "OpenAI says ChatGPT's memory is getting better. But my tests reveal outdated assumptions, personal profiling, and incorrect details that could subtly distort your answers.",
-      "link": "https://www.zdnet.com/article/chatgpts-new-memory-upgrade-can-also-worsen-answers/",
+      "titolo": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
+      "descrizione": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
+      "link": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
       "fonte": "Latest news",
-      "data": "2026-06-18T10:30:58+00:00",
+      "data": "2026-06-18T15:00:48+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Home: Gemini spiazza gli utenti che vogliono ascoltare le ultime notizie",
-      "descrizione": "Il vecchio comando non riproduce più le notizie come un tempo",
-      "link": "https://www.hdblog.it/google/articoli/n661786/google-home-integrazione-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T10:40:00+00:00",
+      "titolo": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
+      "descrizione": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
+      "link": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
+      "fonte": "Latest news",
+      "data": "2026-06-18T15:00:48+00:00",
       "modello": "gemini"
     },
     {
