@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:30:29.588656+00:00",
+  "last_updated": "2026-06-18T05:03:38.972807+00:00",
   "items": [
     {
       "titolo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",
-      "descrizione": "Following the Trump administration's block on Anthropic's Mythos 5 and Fable 5 models, world leaders have raised concerns that without direct access to frontier models, they may need to develop their own national alterna",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-17T17:36:41+00:00",
+      "titolo": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "descrizione": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "fonte": "WIRED",
+      "data": "2026-06-17T22:52:00+00:00",
       "modello": "claude"
     },
     {
