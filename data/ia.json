@@ -1,36 +1,44 @@
 {
-  "last_updated": "2026-06-18T05:03:38.972807+00:00",
+  "last_updated": "2026-06-18T10:48:49.346777+00:00",
   "items": [
     {
-      "titolo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-      "descrizione": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-      "fonte": "WIRED",
-      "data": "2026-06-17T18:25:35+00:00",
+      "titolo": "I'm excited about ChatGPT's memory upgrade - but I'm quickly seeing a downside",
+      "descrizione": "OpenAI says ChatGPT's memory is getting better. But my tests reveal outdated assumptions, personal profiling, and incorrect details that could subtly distort your answers.",
+      "link": "https://www.zdnet.com/article/chatgpts-new-memory-upgrade-can-also-worsen-answers/",
+      "fonte": "Latest news",
+      "data": "2026-06-18T10:30:58+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT resta leader, ma Gemini cresce: sorpasso in vista",
-      "descrizione": "Il vantaggio di ChatGPT sui concorrenti si assottiglia, soprattutto in Italia: Gemini e Claude guadagnano terreno, mese dopo mese. The post ChatGPT resta leader, ma Gemini cresce: sorpasso in vista appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-resta-leader-gemini-cresce-sorpasso/",
+      "titolo": "Copilot su Excel aggiunge la memoria, ora ricorda le preferenze",
+      "descrizione": "Copilot su Excel memorizza formattazione, formule e stili. Le regole del workbook diventano condivisibili con il team. The post Copilot su Excel aggiunge la memoria, ora ricorda le preferenze appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/copilot-excel-aggiunge-memoria-ricorda-preferenze/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-17T14:23:24+00:00",
+      "data": "2026-06-18T09:32:12+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Home: Gemini spiazza gli utenti che vogliono ascoltare le ultime notizie",
+      "descrizione": "Il vecchio comando non riproduce più le notizie come un tempo",
+      "link": "https://www.hdblog.it/google/articoli/n661786/google-home-integrazione-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-18T10:40:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-      "descrizione": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "fonte": "WIRED",
-      "data": "2026-06-17T22:52:00+00:00",
+      "titolo": "Leader politici vogliono usare i modelli di Anthropic",
+      "descrizione": "I leader politici di alcuni paesi del G7 e l'India hanno dichiarato che gli Stati Uniti non dovrebbero impedire l'accesso ai modelli AI di Anthropic. The post Leader politici vogliono usare i modelli di Anthropic appeare",
+      "link": "https://www.punto-informatico.it/leader-politici-vogliono-usare-modelli-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-18T07:43:50+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations, report claims — White House holds off to avoid escalating tensions with China",
-      "descrizione": "DeepSeek and CXMT, which have both been tagged as supporting Chinese military and intelligence operations, are set to be added to the U.S.'s Entity List. However, the White House hasn't included them yet in order to avoi",
-      "link": "https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-17T16:00:45+00:00",
+      "titolo": "L’AI europea e il test della propaganda: Mistral perde contro i modelli cinesi",
+      "descrizione": "Uno studio dell’istituto linguistico estone finanziato dal governo di Tallinn rivela i limiti dei sistemi open source nel riconoscere la disinformazione del Cremlino. Il campione europeo d’intelligenza artificiale si cla",
+      "link": "https://www.ilsole24ore.com/art/l-ai-europea-e-test-propaganda-mistral-perde-contro-modelli-cinesi-AIOZ6LjD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-18T06:00:30+00:00",
       "modello": "altri"
     }
   ]
