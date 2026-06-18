@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T15:53:59.581128+00:00",
+  "last_updated": "2026-06-18T20:39:04.869597+00:00",
   "items": [
     {
       "titolo": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Leader politici vogliono usare i modelli di Anthropic",
-      "descrizione": "I leader politici di alcuni paesi del G7 e l'India hanno dichiarato che gli Stati Uniti non dovrebbero impedire l'accesso ai modelli AI di Anthropic. The post Leader politici vogliono usare i modelli di Anthropic appeare",
-      "link": "https://www.punto-informatico.it/leader-politici-vogliono-usare-modelli-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-18T07:43:50+00:00",
+      "titolo": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "descrizione": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "fonte": "WIRED",
+      "data": "2026-06-17T22:52:00+00:00",
       "modello": "claude"
     },
     {
