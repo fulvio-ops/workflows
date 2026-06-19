@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-19T05:26:21.325887+00:00",
+  "last_updated": "2026-06-19T10:57:51.438308+00:00",
   "items": [
+    {
+      "titolo": "Prime Day 2026, i falsi siti Amazon sono già pronti per truffare: attenti a link e SMS",
+      "descrizione": "Check Point Research ha rilevato migliaia di nuovi domini legati ad Amazon registrati nei mesi scorsi",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n661942/prime-day-2026-falsi-siti-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:55:00+00:00"
+    },
+    {
+      "titolo": "Apple apre agli store terzi su iOS anche in Brasile: arriva AltStore PAL",
+      "descrizione": "Anche il Brasile si allinea a Europa e Giappone",
+      "link": "https://www.hdblog.it/apple/articoli/n661937/apple-brasile-store-terzi-altstore-pal/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:40:00+00:00"
+    },
+    {
+      "titolo": "Skoda Peaq: rilasciati i bozzetti degli interni",
+      "descrizione": "Tanto spazio, tecnologia intuitiva e un layout ispirato a una \"lounge\" per il nuovo SUV elettrico a sette posti del marchio boemo.",
+      "link": "https://www.hdmotori.it/skoda-peaq-bozzetti-interni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:30:42+00:00"
+    },
+    {
+      "titolo": "16-year-old SATA II SSD survives 1 petabyte of writes — 25x more than the drive's endurance rating",
+      "descrizione": "As part of an experiment, an enthusiast has written one petabyte of data on a legacy Sandisk P4 SATA II SSD that was released 16 years ago.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-19T10:30:00+00:00"
+    },
+    {
+      "titolo": "Acquisti da Temu, Shein e AliExpress: rischio doppia tassa sui pacchi extra UE",
+      "descrizione": "Dal 1° luglio le due misure rischiano di sovrapporsi",
+      "link": "https://www.hdblog.it/mercato/articoli/n661932/pacchi-temu-shein-aliexpress-doppia-tassa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:20:00+00:00"
+    },
+    {
+      "titolo": "Fritz!Box 7630, ufficiale il nuovo router entry-level con Wi-Fi 7 | PREZZO",
+      "descrizione": "Il nuovo Fritz!Box 7630 integra una porta WAN/LAN da 2,5 Gbit/s, supporto VPN WireGuard e IPSec e compatibilità con connessioni DSL e fibra ottica",
+      "link": "https://www.hdblog.it/hardware/articoli/n661935/fritzbox-7630-wi-fi-7-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:15:00+00:00"
+    },
+    {
+      "titolo": "C'è lo zampino di Google in DATALAND, il primo museo al mondo per l'arte AI",
+      "descrizione": "DATALAND inaugura a Los Angeles, presentandosi come il primo museo al mondo dedicato all'arte creata da/con l'intelligenza artificiale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661915/google-dataland-primo-museo-mondo-arte-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T10:05:00+00:00"
+    },
+    {
+      "titolo": "Italia rovente: ecco le città dove il caldo è diventato insopportabile",
+      "descrizione": "Le città italiane tra caldo estremo e isole di calore.",
+      "link": "https://www.hdblog.it/green/articoli/n661909/temperatura-italia-cambio-clima-citta/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T09:40:00+00:00"
+    },
+    {
+      "titolo": "MacBook Air M5 15'' 512GB: display più grande, SSD più generoso e sconto Amazon",
+      "descrizione": "In offerta su Amazon il MacBook Air M5 da 15,3 pollici con 512GB di memoria interna.",
+      "link": "https://www.hdblog.it/portatili/offerte/n661510/macbook-air-m5-15-sconto-amazon-modello-512gb/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T09:35:00+00:00"
+    },
+    {
+      "titolo": "Smentito l’arrivo di una nuova Multipla, FIAT punterà tutto sulla Grizzly",
+      "descrizione": "Nessun modello chiamato Multipla è in arrivo nei prossimi tempi. Stellantis ha smentito le voci sul ritorno del dibattuto monovolume",
+      "link": "https://www.hdmotori.it/arrivo-nuova-multipla-fiat-grizzly/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T09:30:51+00:00"
+    },
+    {
+      "titolo": "Scammers in China sell $222 RTX 4090 with fake GPU die made out of plastic instead of real silicon — marked with 2030 production dates, the card didn't even have working VRAM",
+      "descrizione": "Nvidia dupes keep getting more sophisticated as time goes on, with the latest example using a plastic die instead of real silicon on an RTX 4090.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/scammers-in-china-sell-usd222-rtx-4090-with-fake-gpu-die-made-out-of-plastic-instead-of-real-silicon-marked-with-2030-production-dates-the-card-didnt-even-have-working-vram",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-19T09:29:20+00:00"
+    },
+    {
+      "titolo": "L’AI Firefly di Adobe arriva in Premiere e Illustrator e InDesign",
+      "descrizione": "Firefly di Adobe arriva in Premiere, Illustrator e InDesign con automazione specifica per ogni app. Brand kit generati da descrizioni. The post L’AI Firefly di Adobe arriva in Premiere e Illustrator e InDesign appeared f",
+      "link": "https://www.punto-informatico.it/ai-firefly-adobe-arriva-premiere-illustrator-indesign/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T09:27:41+00:00"
+    },
+    {
+      "titolo": "Dyson Cinetic Big Ball Absolute 2 a 331€: l’aspirapolvere ''serio'' per chi non vuole cordless",
+      "descrizione": "Dyson Cinetic Big Ball Absolute 2 è in offerta su eBay a 331,55€ con codice VACANZE26: nuovo, venduto dallo Store Ufficiale Dyson, con spedizione e reso gratuiti.",
+      "link": "https://www.hdblog.it/ebay/offerte/n661911/dyson-cinetic-big-ball-absolute-2-offerta-ebay/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-19T09:05:00+00:00"
+    },
+    {
+      "titolo": "Ban di Telegram e boom delle VPN: cosa sta accadendo in India",
+      "descrizione": "Il Paese ha messo al bando Telegram in vista di un importante esame e la popolazione ha trovato come aggirare il blocco, passando dalle VPN. The post Ban di Telegram e boom delle VPN: cosa sta accadendo in India appeared",
+      "link": "https://www.punto-informatico.it/ban-telegram-boom-vpn-india/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T08:36:38+00:00"
+    },
+    {
+      "titolo": "Dalla sperimentazione ai risultati: per l’AI è l’ora della maturità. Ma governance e competenze restano il nodo",
+      "descrizione": "Secondo una ricerca presentata da Sap le aziende italiane prevedono di destinare quest’anno ai progetti AI un budget medio di 18,4 milioni di dollari",
+      "link": "https://www.ilsole24ore.com/art/dalla-sperimentazione-risultati-l-ai-e-l-ora-maturita-ma-governance-e-competenze-restano-nodo-AIEZoclD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-19T08:28:45+00:00"
+    },
+    {
+      "titolo": "The Bear 5: la stagione finale è in arrivo in esclusiva su Disney+",
+      "descrizione": "La serie firmata FX con protagonista Jeremy White Allen debutterà a fine mese sulla piattaforma streaming statunitense. The post The Bear 5: la stagione finale è in arrivo in esclusiva su Disney+ appeared first on Punto",
+      "link": "https://www.punto-informatico.it/the-bear-5-disney-plus/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T07:03:06+00:00"
+    },
+    {
+      "titolo": "SefyConto è il conto per tutti i giorni ora con canone azzerabile",
+      "descrizione": "Scegli SelfyConto, il conto corrente per tutti i giorni adesso con canone azzerabile: scopri l'offerta che cambierà la tua vita finanziaria. The post SefyConto è il conto per tutti i giorni ora con canone azzerabile appe",
+      "link": "https://www.punto-informatico.it/fintech/conti/sefyconto-conto-tutti-giorni-ora-canone-azzerabile/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T07:00:40+00:00"
+    },
+    {
+      "titolo": "Amazfit Helio Strap Pro: il sistema definitivo per gli atleti HYROX?",
+      "descrizione": "Presentato ai Campionati Mondiali HYROX, il nuovo Helio Strap Pro offre dati avanzati su allenamento, recupero e qualità del movimento. The post Amazfit Helio Strap Pro: il sistema definitivo per gli atleti HYROX? appear",
+      "link": "https://www.punto-informatico.it/amazfit-helio-strap-pro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T06:29:23+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 10: la più venduta su Amazon oggi con ulteriore sconto",
+      "descrizione": "La Xiaomi Smart Band 10 ha oltre 150 modalità sportive, 21 giorni di autonomia, impermeabilità a 5 ATM ed è in sconto su Amazon. The post Xiaomi Smart Band 10: la più venduta su Amazon oggi con ulteriore sconto appeared",
+      "link": "https://www.punto-informatico.it/xiaomi-smart-band-10-piu-venduta-amazon-oggi-ulteriore-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T06:29:21+00:00"
+    },
+    {
+      "titolo": "RC Auto sotto indagine: AGCM accende i riflettori sui prezzi",
+      "descrizione": "AGCM e IVASS avviano un'indagine sul mercato RC Auto per verificare concorrenza, prezzi e criticità a tutela dei consumatori finali. The post RC Auto sotto indagine: AGCM accende i riflettori sui prezzi appeared first on",
+      "link": "https://www.punto-informatico.it/rc-auto-indagine-agcm-prezzi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T06:06:10+00:00"
+    },
+    {
+      "titolo": "Non solo Rai e Mediaset: tutti i canali del digitale terrestre che pochi conoscono",
+      "descrizione": "Il digitale terrestre non è fatto solo di Rai e Mediaset: scopri tutti i canali disponibili che pochi conoscono delle altre emittenti. The post Non solo Rai e Mediaset: tutti i canali del digitale terrestre che pochi con",
+      "link": "https://www.punto-informatico.it/non-solo-rai-mediaset-tutti-canali-digitale-terrestre-pochi-conoscono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T06:00:25+00:00"
+    },
+    {
+      "titolo": "Le migliori offerte Prime Day in anticipo sui dispositivi Amazon",
+      "descrizione": "Approfitta subito delle migliori offerte del Prime Day in anticipo sui dispositivi Amazon: un'occasione per risparmiare senza rinunce. The post Le migliori offerte Prime Day in anticipo sui dispositivi Amazon appeared fi",
+      "link": "https://www.punto-informatico.it/le-migliori-offerte-prime-day-in-anticipo-sui-dispositivi-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T05:30:29+00:00"
+    },
     {
       "titolo": "6 offerte per l’estate davvero imperdibili su eBay",
       "descrizione": "Abbiamo trovato 6 offerte incredibili e perfette per l'estate davvero imperdibili disponibili su eBay: approfittane prima che finiscano. The post 6 offerte per l’estate davvero imperdibili su eBay appeared first on Punto",
@@ -14,160 +168,6 @@
       "link": "https://www.wired.com/story/sams-club-coupon/",
       "fonte": "WIRED",
       "data": "2026-06-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "Whoop Promo Codes: 20% Off This June 2026",
-      "descrizione": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "link": "https://www.wired.com/story/whoop-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-06-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "Design Within Reach Promo Codes: 30% Off | June 2026",
-      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-06-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-      "descrizione": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-      "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T22:12:45+00:00"
-    },
-    {
-      "titolo": "Ho provato GoPro Mission 1 Pro: sensore da un pollice e 8K Open Gate per tornare regina? | VIDEO",
-      "descrizione": "Abbiamo provato la nuova action cam di GoPro della serie Mission: un nuovo inizio stravolgente per il brand che sembrava un po' impantanato negli ultimi anni. 8K/Open Gate e sensore da un pollice...",
-      "link": "https://www.hdblog.it/fotografia/recensioni/n661105/go-pro-mission-1-pro-test-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T19:31:00+00:00"
-    },
-    {
-      "titolo": "Vivo X Fold6: il nuovo pieghevole avrà una super batteria",
-      "descrizione": "E sarà anche più resistente.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661864/vivo-x-fold6-batteria-7000-mah-ipx9-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T18:15:00+00:00"
-    },
-    {
-      "titolo": "Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts",
-      "descrizione": "“You would not believe the texts I got from these tech guys,” NYT reporters Maggie Haberman and Jonathan Swan quote Donald Trump as telling associates in an upcoming book.",
-      "link": "https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T17:58:30+00:00"
-    },
-    {
-      "titolo": "Case editrici vs siti pirata: nuova causa contro WeLib",
-      "descrizione": "La denuncia ricalca quella contro Anna's Archive",
-      "link": "https://www.hdblog.it/mercato/articoli/n661811/case-editrici-vs-siti-pirata-nuova-causa-contro-welib/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T17:30:00+00:00"
-    },
-    {
-      "titolo": "Consob avvisa gli utenti: attenzione ai finfluencer",
-      "descrizione": "La Consob ha descritto le principali categorie di operatori digitali, tra cui i finfluencer, che forniscono informazioni finanziarie sui social media. The post Consob avvisa gli utenti: attenzione ai finfluencer appeared",
-      "link": "https://www.punto-informatico.it/fintech/consob-avvisa-utenti-attenzione-finfluencer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-18T17:11:45+00:00"
-    },
-    {
-      "titolo": "Microsoft Edge consentirà presto di accedere al browser con un account Google",
-      "descrizione": "L’annuncio è stato pubblicato nella roadmap ufficiale Microsoft.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n661852/microsoft-edge-accesso-con-account-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T17:10:00+00:00"
-    },
-    {
-      "titolo": "Nuova BMW i3 50 xDrive First Edition: quanto costano 900 km di autonomia EV",
-      "descrizione": "BMW ha aperto gli ordini per la nuova i3 in vista del suo lancio ufficiale sul mercato previsto per l'autunno 2026",
-      "link": "https://www.hdmotori.it/nuova-bmw-i3-50-xdrive-first-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T17:00:31+00:00"
-    },
-    {
-      "titolo": "L'Australia testa un sistema anti-droni da zaino: è pronto in 2 minuti",
-      "descrizione": "Vision Guard entra nei test dell’esercito australiano contro i droni.",
-      "link": "https://www.hdblog.it/droni/articoli/n661737/australia-vision-guard-sistema-anti-drone/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:55:00+00:00"
-    },
-    {
-      "titolo": "OnePlus Pad 3 Pro ufficiale: le specifiche parlano chiaro, è il più potente visto finora",
-      "descrizione": "OnePlus presenta in Cina il nuovo tablet Pad 3 Pro, con schermo enorme e specifiche tecniche eccellenti.",
-      "link": "https://www.hdblog.it/tablet/articoli/n661795/oneplus-3-pro-tablet/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:40:00+00:00"
-    },
-    {
-      "titolo": "Origin Wukong supera 1 milione di task e sfida il futuro della crittografia",
-      "descrizione": "Origin Wukong supera 1 milione di task e testa la sicurezza post-quantistica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661745/origin-wukong-1-milione-task-crittografia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:35:00+00:00"
-    },
-    {
-      "titolo": "La Volkswagen ID.Cross è pronta: motorizzazioni e prezzi",
-      "descrizione": "Volkswagen continua ad ampliare la famiglia di vetture compatte full electric basate sulla piattaforma MEB+, presto ci sarà la ID. Cross",
-      "link": "https://www.hdmotori.it/volkswagen-id-cross-motorizzazioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:30:07+00:00"
-    },
-    {
-      "titolo": "Logitech G305 X Superlight: leggerissimo, 44.000 DPI e fino a 8.000Hz | Prezzo",
-      "descrizione": "Logitech aggiorna il G305 con 59 grammi, 44.000 DPI e batteria integrata.",
-      "link": "https://www.hdblog.it/tecnologia/comparazioni/n661836/logitech-g305-x-superlight-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:15:00+00:00"
-    },
-    {
-      "titolo": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "descrizione": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
-      "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T16:03:27+00:00"
-    },
-    {
-      "titolo": "GPL morto? Non per Hyundai: le novità di Kona, i20 e Bayon",
-      "descrizione": "Chi ha detto che il GPL è arrivato ai titoli di coda si sbagliava perché un colosso come Hyundai ha deciso di rilanciarlo su Kona, i20 e Bayon",
-      "link": "https://www.hdmotori.it/hyundai-kona-i20-bayon-gpl-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T16:00:37+00:00"
-    },
-    {
-      "titolo": "Perseverance completa una maratona su Marte: ma cosa accadrebbe se ci provassimo noi?",
-      "descrizione": "Perseverance supera i 42 km su Marte e riapre il dibattito sulle missioni umane.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661834/perseverance-maratona-marte-42-km/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T15:55:00+00:00"
-    },
-    {
-      "titolo": "Phishing italiano: false fatture per distribuire malware",
-      "descrizione": "È in corso una campagna di phishing in Italia tramite l'invio di una falsa fattura via email che permette invece di eseguire NeptureRAT su PC Windows. The post Phishing italiano: false fatture per distribuire malware app",
-      "link": "https://www.punto-informatico.it/phishing-italiano-false-fatture-distribuire-malware/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-18T15:52:49+00:00"
-    },
-    {
-      "titolo": "Porsche Taycan MY2027, dietrofront: il cambio marcia artificiale è realtà",
-      "descrizione": "La Taycan MY2027 cede alle marce virtuali con il sistema E-Shift. Da Stoccarda arriva la svolta acustica e sensoriale che imita la Panamera per conquistare i puristi",
-      "link": "https://www.hdmotori.it/porsche-taycan-2027-marce-simulate-e-shift/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T15:30:34+00:00"
-    },
-    {
-      "titolo": "Omoda 9 Aurora Edition, solo 1.000 unità da oltre 500 CV: quanto costa",
-      "descrizione": "Debutta in Italia l'Omoda 9 Aurora Edition, serie speciale in tiratura limitata. Già disponibile tramite la rete ufficiale a 54.000 euro",
-      "link": "https://www.hdmotori.it/omoda-9-aurora-edition-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-18T15:00:03+00:00"
-    },
-    {
-      "titolo": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different",
-      "descrizione": "The rich are getting richer. Here’s what wealth advisers are telling their tech clients right now.",
-      "link": "https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T15:00:00+00:00"
     }
   ]
 }

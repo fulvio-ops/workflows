@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-06-19T05:26:24.804477+00:00",
+  "last_updated": "2026-06-19T10:57:54.468929+00:00",
   "items": [
     {
-      "titolo": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-      "descrizione": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-      "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T22:12:45+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Copilot su Excel aggiunge la memoria, ora ricorda le preferenze",
-      "descrizione": "Copilot su Excel memorizza formattazione, formule e stili. Le regole del workbook diventano condivisibili con il team. The post Copilot su Excel aggiunge la memoria, ora ricorda le preferenze appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/copilot-excel-aggiunge-memoria-ricorda-preferenze/",
+      "titolo": "ChatGPT può programmare le attività, ora ha un centro di controllo",
+      "descrizione": "ChatGPT ha un nuovo hub nella barra laterale per le attività programmate. Si possono impostare orari e finestre temporali. The post ChatGPT può programmare le attività, ora ha un centro di controllo appeared first on Pun",
+      "link": "https://www.punto-informatico.it/chatgpt-programmare-attivita-centro-controllo/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-18T09:32:12+00:00",
-      "modello": "copilot"
+      "data": "2026-06-19T07:38:49+00:00",
+      "modello": "chatgpt"
     },
     {
       "titolo": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
@@ -26,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "The White House Is Making Up Its Rules for AI in Real Time",
-      "descrizione": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-      "fonte": "WIRED",
-      "data": "2026-06-18T21:03:43+00:00",
+      "titolo": "SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy — access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals",
+      "descrizione": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic's Claude Mythos model the White House ordered revoked over alleged ties to China.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-19T10:54:58+00:00",
       "modello": "claude"
     },
     {
