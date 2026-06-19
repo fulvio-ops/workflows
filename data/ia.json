@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-19T10:57:54.468929+00:00",
+  "last_updated": "2026-06-19T15:43:11.139728+00:00",
   "items": [
     {
-      "titolo": "ChatGPT può programmare le attività, ora ha un centro di controllo",
-      "descrizione": "ChatGPT ha un nuovo hub nella barra laterale per le attività programmate. Si possono impostare orari e finestre temporali. The post ChatGPT può programmare le attività, ora ha un centro di controllo appeared first on Pun",
-      "link": "https://www.punto-informatico.it/chatgpt-programmare-attivita-centro-controllo/",
+      "titolo": "5 abitudini che migliorano le risposte di ChatGPT",
+      "descrizione": "Chi ottiene i risultati migliori da ChatGPT non è chi usa il modello più recente, è chi sa dare istruzioni migliori. Ecco 5 trucchi. The post 5 abitudini che migliorano le risposte di ChatGPT appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/5-abitudini-migliorano-risposte-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-19T07:38:49+00:00",
+      "data": "2026-06-19T15:30:33+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy — access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals",
-      "descrizione": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic's Claude Mythos model the White House ordered revoked over alleged ties to China.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-19T10:54:58+00:00",
+      "titolo": "Accesso a Claude Mythos consentito a tutti, ma non all’UE",
+      "descrizione": "Oltre 200 organizzazioni possono ancora accedere a Claude Mythos Preview tramite il Project Glasswing, ma è rimasta fuori l'ENISA dell'Unione europea. The post Accesso a Claude Mythos consentito a tutti, ma non all’UE ap",
+      "link": "https://www.punto-informatico.it/accesso-claude-mythos-consentito-tutti-non-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-19T14:28:43+00:00",
       "modello": "claude"
     },
     {
