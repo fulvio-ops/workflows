@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-06-21T05:19:20.966444+00:00",
+  "last_updated": "2026-06-21T10:06:02.034219+00:00",
   "items": [
+    {
+      "titolo": "Suzuki Bike Day: non solo motori per il brand giapponese",
+      "descrizione": "La sesta edizione del Suzuki Bike Day è stata un successo con circa duemila partecipanti pronti a mettersi in gioco per una raccolta fondi in favore dei minori gravemente malati.",
+      "link": "https://www.hdmotori.it/suzuki-bike-day-non-solo-motori-per-il-brand-giapponese/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-21T10:00:18+00:00"
+    },
+    {
+      "titolo": "Cibo in frigo: è ancora buono o da buttare? Ce lo dice Schnoz, il naso smart",
+      "descrizione": "Basta annusare il latte per capire se è andato a male. Ecco Schnoz, il naso artificiale che rileva allergeni e batteri.",
+      "link": "https://www.hdblog.it/scienza/articoli/n661970/naso-elettronico-cibo-scaduto-come-riconoscere/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-21T09:35:00+00:00"
+    },
+    {
+      "titolo": "Alibaba lancia Qwen-Robot: l’AI che guida la nuova generazione di robot",
+      "descrizione": "Alibaba presenta Qwen-Robot, la suite AI per navigazione, manipolazione e previsione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661921/alibaba-qwen-robot-ai-robotica/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-21T09:05:00+00:00"
+    },
+    {
+      "titolo": "Gli agenti AI avranno un’identità digitale in Estonia",
+      "descrizione": "In Estonia verrà assegnata un'identità digitale agli agenti AI, denominata AI ID code, per limitare le loro azioni e stabilire le responsabilità. The post Gli agenti AI avranno un’identità digitale in Estonia appeared fi",
+      "link": "https://www.punto-informatico.it/agenti-ai-identita-digitale-estonia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-21T08:44:33+00:00"
+    },
+    {
+      "titolo": "Come usare ChatGPT per analizzare il CV e scovare errori nascosti",
+      "descrizione": "Il 70% delle grandi aziende filtra i CV con software automatici. 5 prompt mirati per individuare le lacune e adattare l'esperienza a qualsiasi ruolo. The post Come usare ChatGPT per analizzare il CV e scovare errori nasc",
+      "link": "https://www.punto-informatico.it/come-usare-chatgpt-analizzare-cv-scovare-errori-nascosti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-21T07:30:20+00:00"
+    },
+    {
+      "titolo": "Redmi Watch 5 Active a prezzo assurdo su Amazon (solo 22€)",
+      "descrizione": "Offerta folle su Amazon che sta praticamente regalando il bellissimo Redmi Watch 5 Active con display da 2\" e autonomia da 18 giorni. The post Redmi Watch 5 Active a prezzo assurdo su Amazon (solo 22€) appeared first on",
+      "link": "https://www.punto-informatico.it/redmi-watch-5-active-prezzo-assurdo-amazon-solo-22e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-21T07:24:15+00:00"
+    },
+    {
+      "titolo": "The Lonesome Guild, il trionfo della gentilezza: ecco il miglior videogioco italiano",
+      "descrizione": "Due premi agli Italian Video Game Awards e una storia che trasforma l’amicizia in una meccanica di gioco",
+      "link": "https://www.ilsole24ore.com/art/the-lonesome-guild-trionfo-gentilezza-ecco-miglior-videogioco-italiano-AInRoZgD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-21T06:40:00+00:00"
+    },
+    {
+      "titolo": "Alpine A110 elettrica: il concept in anteprima a Goodwood",
+      "descrizione": "Al Goodwood Festival of Speed farà il suo debutto dinamico un concept della nuova Alpine A110 elettrica, che sarà poi presentata ufficialmente al Salone di Parigi.",
+      "link": "https://www.hdmotori.it/alpine-a110-elettrica-concept-goodwood/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-21T06:30:48+00:00"
+    },
+    {
+      "titolo": "Pulsar: la nuova costellazione satellitare che contrasta le interferenze GPS in aree di crisi",
+      "descrizione": "Un satellite privato in orbita bassa offre segnali più potenti e resistenti, rivelando disturbi estesi in Europa e Medio Oriente che minacciano la sicurezza di navigazione civile e militare",
+      "link": "https://www.ilsole24ore.com/art/pulsar-nuova-costellazione-satellitare-che-contrasta-interferenze-gps-aree-crisi-AIkWermD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-21T06:20:00+00:00"
+    },
     {
       "titolo": "Beats Studio Buds: patch per impedire lo spionaggio",
       "descrizione": "Apple ha rilasciato un nuovo firmware per i Beats Studio Buds per risolvere una grave vulnerabilità che permetteva l'ascolto delle conversazioni. The post Beats Studio Buds: patch per impedire lo spionaggio appeared firs",
@@ -105,69 +168,6 @@
       "link": "https://www.hdblog.it/smartphone/articoli/n662004/nothing-b-phone-teaser-nuovo-smartphone/",
       "fonte": "HDblog.it",
       "data": "2026-06-20T08:35:00+00:00"
-    },
-    {
-      "titolo": "Luce e Gas a prezzo bloccato: Engie lancia gli Special Days d’estate",
-      "descrizione": "Bollette congelate per un anno: la promo Engie con passaggio di attivazione in 4 step. The post Luce e Gas a prezzo bloccato: Engie lancia gli Special Days d’estate appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-bloccato-engie-lancia-gli-special-days-destate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T08:16:51+00:00"
-    },
-    {
-      "titolo": "La NASA sceglie il razzo di Eric Schmidt per andare su Marte",
-      "descrizione": "NASA sceglie Relativity Space per studiare l’atmosfera marziana nel 2028.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662011/nasa-relativity-space-marte-2028/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-20T08:05:00+00:00"
-    },
-    {
-      "titolo": "Passa a Octopus in 2 minuti: la promo luce e gas che taglia i costi fissi",
-      "descrizione": "Luce a 11 centesimi e bollette trasparenti: scopri Octopus Energy e blocca il prezzo per un anno. The post Passa a Octopus in 2 minuti: la promo luce e gas che taglia i costi fissi appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/passa-a-octopus-in-2-minuti-la-promo-luce-e-gas-che-taglia-i-costi-fissi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T08:03:34+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2, il prossimo grande aggiornamento prende forma",
-      "descrizione": "Windows 11 passa alla versione 26H2. Correzioni per la modalità scura di Esplora file e app installate nel menu Start senza riavvio, The post Windows 11 26H2, il prossimo grande aggiornamento prende forma appeared first",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-prossimo-grande-aggiornamento-prende-forma/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T07:43:55+00:00"
-    },
-    {
-      "titolo": "L'ultima release del kernel Linux gira sul processore dei primi Macintosh",
-      "descrizione": "Il mitico Motorola 68000, per la precisione la variante economica 68008. Era anche alla base di diversi Atari, Amiga e console SEGA.",
-      "link": "https://www.hdblog.it/apple/articoli/n661999/linux-kernel-7-1-rc6-motorola-68000/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-20T07:35:00+00:00"
-    },
-    {
-      "titolo": "La friggitrice ad aria Russell Hobbs da 5,5L e 9 funzioni oggi costa la metà",
-      "descrizione": "Approfitta nello sconto del 50% che trovi su Amazon e portati a casa la splendida friggitrice ad aria Russell Hobbs da 5,5 litri. The post La friggitrice ad aria Russell Hobbs da 5,5L e 9 funzioni oggi costa la metà appe",
-      "link": "https://www.punto-informatico.it/friggitrice-ad-aria-russell-hobbs-5-5l-9-funzioni-oggi-costa-meta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T07:02:56+00:00"
-    },
-    {
-      "titolo": "Il GPS ottimizza l'efficienza della batteria: il nuovo brevetto di BYD",
-      "descrizione": "La nuova tecnologia che il colosso cinese sta sviluppando utilizza la navigazione GPS per migliorare la gestione termica e aumentare l'autonomia.",
-      "link": "https://www.hdmotori.it/gps-efficienza-batteria-brevetto-byd/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-20T06:30:53+00:00"
-    },
-    {
-      "titolo": "Fiat Doblò EasyPRO, concretezza ed efficienza per il lavoro quotidiano",
-      "descrizione": "Fiat Professional lancia il Doblò EasyPRO, un van compatto economico e robusto, studiato per facilitare le consegne",
-      "link": "https://www.hdmotori.it/fiat-doblo-easypro-veicolo-commerciale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-19T17:30:07+00:00"
-    },
-    {
-      "titolo": "Suzuki SV-7GX: lo storico motore a V si trasforma in una crossover da viaggio",
-      "descrizione": "Nuova Suzuki SV-7GX: la crossover media da viaggio nata per fare tutto. Motore bicilindrico a V, ottima ergonomia e ricca dotazione di serie da 7.990€.",
-      "link": "https://www.hdmotori.it/suzuki-sv-7gx-crossover-prezzo-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-19T17:00:44+00:00"
     }
   ]
 }
