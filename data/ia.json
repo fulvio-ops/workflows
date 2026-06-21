@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-21T10:06:09.158965+00:00",
+  "last_updated": "2026-06-21T14:33:40.327573+00:00",
   "items": [
     {
-      "titolo": "Cibo in frigo: è ancora buono o da buttare? Ce lo dice Schnoz, il naso smart",
-      "descrizione": "Basta annusare il latte per capire se è andato a male. Ecco Schnoz, il naso artificiale che rileva allergeni e batteri.",
-      "link": "https://www.hdblog.it/scienza/articoli/n661970/naso-elettronico-cibo-scaduto-come-riconoscere/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-21T09:35:00+00:00",
+      "titolo": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
+      "descrizione": "People seem all-too-ready to anthropomorphize LLMs and AI chatbots like ChatGPT, Claude, and Gemini, reckons a Microsoft AI researcher.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-21T11:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google apre il primo museo di arte AI al mondo: Dataland",
-      "descrizione": "Google apre Dataland, il primo museo di arte AI al mondo. Le opere sono generate in tempo reale da Gemini che reagisce ai visitatori. The post Google apre il primo museo di arte AI al mondo: Dataland appeared first on Pu",
-      "link": "https://www.punto-informatico.it/google-apre-primo-museo-arte-ai-mondo-dataland/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-19T18:41:16+00:00",
+      "titolo": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
+      "descrizione": "People seem all-too-ready to anthropomorphize LLMs and AI chatbots like ChatGPT, Claude, and Gemini, reckons a Microsoft AI researcher.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-21T11:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Design si integra con Claude Code: dal design al codice",
-      "descrizione": "Claude Design si integra con Claude Code, parte dal codice esistente e passa il design all'agente di coding. The post Claude Design si integra con Claude Code: dal design al codice appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/claude-design-si-integra-claude-code-design-codice/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T06:54:35+00:00",
+      "titolo": "Ubisoft co-founder Claude Guillemot dies in plane crash — French publisher established in 1986 became one of the biggest entertainment companies in the world",
+      "descrizione": "Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to an airshow. Aside from building the French gaming empire, Guillemot was also a licensed and avid pilot.",
+      "link": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-21T14:04:20+00:00",
       "modello": "claude"
     },
     {
