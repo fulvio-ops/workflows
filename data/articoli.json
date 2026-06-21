@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-21T14:33:35.940102+00:00",
+  "last_updated": "2026-06-21T20:04:00.788160+00:00",
   "items": [
+    {
+      "titolo": "WhatsApp: attenzione alla nuova truffa degli hotel",
+      "descrizione": "Una campagna di phishing sfrutta WhatsApp per inviare messaggi relativi a prenotazioni reali degli hotel e rubare i dati della carta di credito. The post WhatsApp: attenzione alla nuova truffa degli hotel appeared first",
+      "link": "https://www.punto-informatico.it/whatsapp-attenzione-nuova-truffa-hotel/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-21T15:49:57+00:00"
+    },
+    {
+      "titolo": "Amazfit Active Max, sconto Prime Day anticipato: fino a 25 giorni di autonomia",
+      "descrizione": "L'Amazfit Active Max ha uno schermo AMOLED particolarmente luminoso, autonomia fino a 25 giorni, mappe offline, GPS preciso e oltre 170 modalità sportive. Con il Prime Day in anticipo, lo sconto è...",
+      "link": "https://www.hdblog.it/indossabili/offerte/n662054/amazfit-active-max-sconto-prime-day-anticipato/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-21T15:46:00+00:00"
+    },
+    {
+      "titolo": "Furto di account con sfondi infetti su Steam Workshop",
+      "descrizione": "Sulla piattaforma Steam Workshop sono stati pubblicati sfondi animati che nascondevano malware (backdoor, infostealer, cryptominer) per Windows. The post Furto di account con sfondi infetti su Steam Workshop appeared fir",
+      "link": "https://www.punto-informatico.it/furto-account-sfondi-infetti-steam-workshop/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-21T15:06:06+00:00"
+    },
     {
       "titolo": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
       "descrizione": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/beats-studio-buds-patch-impedire-spionaggio/",
       "fonte": "Punto Informatico",
       "data": "2026-06-20T16:29:16+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S26 FE si fa vedere su Geekbench: cosa sappiamo",
-      "descrizione": "I rumor parlano di qualche scelta per contenere i costi.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662028/samsung-galaxy-s26-fe-benchmark-exynos-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-20T16:25:00+00:00"
-    },
-    {
-      "titolo": "TikTok permette accesso ai minori: denuncia in Florida",
-      "descrizione": "Il Procuratore della Florida ha denunciato TikTok perché consente l'accesso ai minori di 14 anni e ammette falsamente che la piattaforma è sicura. The post TikTok permette accesso ai minori: denuncia in Florida appeared",
-      "link": "https://www.punto-informatico.it/tiktok-permette-accesso-minori-denuncia-florida/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T15:43:11+00:00"
-    },
-    {
-      "titolo": "Mondiali 2026, il programma delle partite del weekend e dove vederle in TV e streaming",
-      "descrizione": "Ecco tutte le partite dei Mondiali 2026 in programma nel corso del weekend del 20 e 21 giugno e dove vederle in TV oppure in streaming. The post Mondiali 2026, il programma delle partite del weekend e dove vederle in TV",
-      "link": "https://www.punto-informatico.it/mondiali-2026-il-programma-delle-partite-del-weekend-e-dove-vederle-in-tv-e-streaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-20T15:30:29+00:00"
     }
   ]
 }
