@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-22T12:26:43.177619+00:00",
+  "last_updated": "2026-06-22T21:14:26.221988+00:00",
   "items": [
     {
-      "titolo": "Italia tra i leader delle pompe di calore: cosa emerge dall'ultimo report EHPA",
-      "descrizione": "L'Europa continua a investire nelle pompe di calore e i risultati iniziano a vedersi sia sul fronte economico che su quello della sicurezza energetica",
-      "link": "https://www.hdblog.it/home/articoli/n662123/pompe-di-calore-vendite-2025-europa-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T12:05:00+00:00"
-    },
-    {
-      "titolo": "Renault Mégane E-Tech Electric 2026: tutte le novità del restyling",
-      "descrizione": "Un design evoluto, interni più ricchi e una nuova batteria per la berlina compatta Mégane E-Tech Electric, che arriverà in concessionaria nei prossimi mesi.",
-      "link": "https://www.hdmotori.it/renault-megane-e-tech-electric-2026-restyling/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T12:00:20+00:00"
-    },
-    {
-      "titolo": "Chi ha provato Mytos dice che è la cosa migliore che potesse accadere alla cybersecurity",
-      "descrizione": "PArla Sam Curry, CISO (responsabile della sicurezza informatica interna) di Zscaler, che non ha esitato a definire il nuovo arrivato una vera e propria rivoluzione",
-      "link": "https://www.ilsole24ore.com/art/chi-ha-provato-mytos-dice-che-e-cosa-migliore-che-potesse-accadere-cybersecurity-AIPwgCoD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-22T11:58:36+00:00"
-    },
-    {
-      "titolo": "Frontier AI Grand Challenge, Domyn guiderà il progetto dell’AI sovrana",
-      "descrizione": "La Commissione europea assegna il Frontier AI Grand Challenge al consorzio guidato dalla scaleup milanese. In gioco non c’è solo la tecnologia: è una scelta geopolitica",
-      "link": "https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-22T11:26:00+00:00"
-    },
-    {
-      "titolo": "Bose vuole mettersi a produrre contenuti: musica, cinema, podcast e non solo",
-      "descrizione": "Arriva l'iniziativa Bose Studios. Funzionerà?",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n662119/bose-etichetta-produzione-musica-podcast-cinema-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T11:15:00+00:00"
-    },
-    {
-      "titolo": "Oppo sfiderà Apple e Samsung con un Find 7 Wide senza piega sul display",
-      "descrizione": "Oppo potrebbe lanciare un nuovo Find N7 Wide, cavalcando il trend degli smarpthone pieghevoli con display panoramico.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662092/oppo-find-n7-wide-piega-assente-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T11:05:00+00:00"
-    },
-    {
-      "titolo": "Scuola e AI: la Norvegia dice basta, da agosto è vietata alle elementari",
-      "descrizione": "Forti limitazioni anche per gli studenti più grandi.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662103/intelligenza-artificiale-vietata-scuola-norvegia/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T10:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi HyperOS 4: quali modelli saranno aggiornati e quando",
-      "descrizione": "La presentazione in Cina sarebbe prevista tra luglio e agosto, mentre il debutto globale potrebbe avvenire nel corso dell'autunno",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662113/hyperos-4-xiaomi-su-quali-smartphone-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T10:45:00+00:00"
-    },
-    {
-      "titolo": "AI nel 2031: USA e Cina dominano, l’Unione europea ha perso",
-      "descrizione": "Attraverso una storia inventata (Europe 2031), un gruppo di ricercatori e investitori ha previsto il futuro dell'Unione europea nel settore dell'AI. The post AI nel 2031: USA e Cina dominano, l’Unione europea ha perso ap",
-      "link": "https://www.punto-informatico.it/ai-2031-usa-cina-dominano-unione-europea-perso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T10:40:26+00:00"
-    },
-    {
-      "titolo": "Stad Ship Tunnel: la Norvegia costruirà il primo tunnel navale al mondo",
-      "descrizione": "Via libera da Oslo al tunnel per navi da 782 milioni di euro: i lavori inizieranno nel 2027.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662094/stad-ship-tunnel-norvegia-primo-tunnel-navale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T10:35:00+00:00"
-    },
-    {
-      "titolo": "HMD Luma2 si mostra nei primi render: ci sono anche le specifiche",
-      "descrizione": "HMD continua a rinnovare la fascia medio bassa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662106/hmd-luma-2-render-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T10:05:00+00:00"
-    },
-    {
-      "titolo": "Toy Story 5 non demonizza i tablet: la lezione sulla tecnologia",
-      "descrizione": "Toy Story 5 affronta tablet, social network e cyberbullismo tra bambini con una sfumatura rara per un film Pixar. The post Toy Story 5 non demonizza i tablet: la lezione sulla tecnologia appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/toy-story-5-non-demonizza-tablet-lezione-tecnologia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T10:01:39+00:00"
-    },
-    {
-      "titolo": "Inizia il Prime Day 2026: le migliori offerte su Amazon",
-      "descrizione": "Il Prime Day 2026 è iniziato! Corri su Amazon e scopri tutte le promozioni! In questo articolo trovi le migliori offerte del momento disponibili su Amazon che stanno facendo impazzire tutti per un risparmio incredibile s",
-      "link": "https://www.punto-informatico.it/inizia-il-prime-day-2026-le-migliori-offerte-su-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T10:01:08+00:00"
-    },
-    {
-      "titolo": "Celle solari in perovskite-silicio e interconnessione Matrix Shingle: si punta al 25,6% di efficienza",
-      "descrizione": "Oxford PV e Fraunhofer ISE uniscono due tecnologie europee d'avanguardia in un modulo fotovoltaico da 25,6% di efficienza.",
-      "link": "https://www.hdblog.it/green/articoli/n662102/celle-solari-perovskite-silicio-matrix/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T09:55:00+00:00"
-    },
-    {
-      "titolo": "Un G-Shock dedicato ai Pokémon potrebbe arrivare presto sul mercato",
-      "descrizione": "Le immagini rivelano una cassa trasparente, dettagli colorati e un quadrante secondario ispirato a una Poké Ball, elementi che richiamano l'universo Pokémon",
-      "link": "https://www.hdblog.it/indossabili/articoli/n662105/casio-g-shock-pokemon-immagini-come-sara/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-22T09:35:00+00:00"
-    },
-    {
-      "titolo": "Some Electricians Think Building Data Centers Is for Sellouts",
-      "descrizione": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
-      "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "titolo": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "descrizione": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
       "fonte": "WIRED",
-      "data": "2026-06-22T09:30:00+00:00"
+      "data": "2026-06-22T21:08:09+00:00"
     },
     {
-      "titolo": "RTX 3060 raffreddata con la macchina del ghiaccio: idea geniale da non replicare",
-      "descrizione": "Funziona!",
-      "link": "https://www.hdblog.it/hardware/articoli/n662089/rtx-3060-come-raffreddare-macchina-ghiaccio-video/",
+      "titolo": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "descrizione": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "fonte": "WIRED",
+      "data": "2026-06-22T20:28:53+00:00"
+    },
+    {
+      "titolo": "5 cheap gadgets that will seriously upgrade your home (and they're on sale)",
+      "descrizione": "I'll never stop recommending these no-fuss, handy gadgets (especially when they're on sale for Prime Day).",
+      "link": "https://www.zdnet.com/article/cheap-gadgets-deals-amazon-prime-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-22T20:00:48+00:00"
+    },
+    {
+      "titolo": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "descrizione": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-22T19:10:46+00:00"
+    },
+    {
+      "titolo": "Steam Machine, ci siamo! Prezzi Europa, quando esce e tutti gli altri dettagli",
+      "descrizione": "La crisi delle memorie ha avuto un impatto deciso sul prezzo finale.",
+      "link": "https://www.hdblog.it/games/articoli/n662179/valve-steam-machine-prezzi-quando-come-comprare/",
       "fonte": "HDblog.it",
-      "data": "2026-06-22T09:15:00+00:00"
+      "data": "2026-06-22T18:34:00+00:00"
     },
     {
-      "titolo": "Un laser anti-drone nello zaino: la Cina mostra l’arma del futuro",
-      "descrizione": "Presentato a Pechino il nuovo laser portatile Lijian contro i droni.",
-      "link": "https://www.hdblog.it/droni/articoli/n662036/laser-portatile-anti-drone-cina-lijian/",
+      "titolo": "Texas A&M ospiterà i test del reattore IMSR di Terrestrial Energy",
+      "descrizione": "Terrestrial Energy avvia i test in Texas per il reattore nucleare IMSR a sali fusi.",
+      "link": "https://www.hdblog.it/green/articoli/n662162/reattore-nucleare-imsr-terrestrial-energy-rellis/",
       "fonte": "HDblog.it",
-      "data": "2026-06-22T09:10:00+00:00"
+      "data": "2026-06-22T17:15:00+00:00"
     },
     {
-      "titolo": "I chatbot non sono amici e gli agenti AI sono backdoor",
-      "descrizione": "Secondo Meredith Whittaker (Presidente di Signal), chatbot e agenti AI sono strumenti pericolosi che non rispettano la privacy degli utenti. The post I chatbot non sono amici e gli agenti AI sono backdoor appeared first",
-      "link": "https://www.punto-informatico.it/chatbot-non-sono-amici-agenti-ai-sono-backdoor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T09:08:47+00:00"
+      "titolo": "AMD e Intel lavorano per migliorare le capacità AI delle CPU x86",
+      "descrizione": "Sostanzialmente si tratta di estensioni che migliorano le capacità delle CPU di fare le moltiplicazioni di matrici, l'operazione matematica su cui si basa la maggior parte degli algoritmi AI.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662173/intel-amd-ace-cpu-ai-estensioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T17:10:00+00:00"
     },
     {
-      "titolo": "7 offerte bomba su eBay che fanno concorrenza al Prime Day",
-      "descrizione": "Scopri le 7 offerte bomba disponibili su eBay con coupon che fanno letteralmente concorrenza al Prime Day 2026 di Amazon iniziato oggi. The post 7 offerte bomba su eBay che fanno concorrenza al Prime Day appeared first o",
-      "link": "https://www.punto-informatico.it/7-offerte-bomba-su-ebay-che-fanno-concorrenza-al-prime-day/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T09:07:42+00:00"
+      "titolo": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "descrizione": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "fonte": "WIRED",
+      "data": "2026-06-22T17:00:00+00:00"
     },
     {
-      "titolo": "Perché le zanzare scelgono di pungere alcune persone e altre no",
-      "descrizione": "Gli scienziati hanno spiegato perché le zanzare scelgono di pungere alcune persone più di altre mentre c'è chi non viene mai punto. The post Perché le zanzare scelgono di pungere alcune persone e altre no appeared first",
-      "link": "https://www.punto-informatico.it/perche-le-zanzare-scelgono-di-pungere-alcune-persone-e-altre-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T08:49:16+00:00"
+      "titolo": "AMD brings official FSR 4.1 support to RX 7000 series GPUs — INT8 model now available in 300+ games, RDNA 3 APUs also getting FSR 4.1 soon",
+      "descrizione": "If you own an RX 7000 series GPU, you can update your graphics driver today and enjoy native FSR 4.1 in over 300 games thanks to INT8 fallback.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-brings-official-fsr-4-1-support-to-rx-7000-series-gpus-int8-model-now-available-in-300-games-rdna-3-apus-also-getting-fsr-4-1-soon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-22T16:55:30+00:00"
     },
     {
-      "titolo": "Dentro un meteorite marziano gli scienziati hanno trovato una sorpresa",
-      "descrizione": "Alcuni scienziati hanno avuto la possibilità aprire un meteorite marziano trovando al suo interno una grande sorpresa, un tesoro inaspettato. The post Dentro un meteorite marziano gli scienziati hanno trovato una sorpres",
-      "link": "https://www.punto-informatico.it/dentro-un-meteorite-marziano-gli-scienziati-hanno-trovato-una-sorpresa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-22T08:07:52+00:00"
+      "titolo": "Wyze Scale BodyScan: la nuova versione della bilancia smart con prezzo ridotto",
+      "descrizione": "Disponibile per ora per il solo mercato statunitense.",
+      "link": "https://www.hdblog.it/home/articoli/n662164/wyze-scale-bodyscan-bilancia-smart-prezzo-ridotto/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:55:00+00:00"
     },
     {
-      "titolo": "Scoperto un pericoloso iperparassita a forma di corno per la prima volta",
-      "descrizione": "Per la prima volta in assoluto a livello mondiale gli scienziati hanno scoperto uno strano e pericoloso iperparassita a forma di corno. The post Scoperto un pericoloso iperparassita a forma di corno per la prima volta ap",
-      "link": "https://www.punto-informatico.it/scoperto-pericoloso-iperparassita-forma-corno-prima-volta/",
+      "titolo": "Microsoft, data center AI che usa meno acqua di un fast food",
+      "descrizione": "Microsoft costruisce un data center AI in Texas, che dovrebbe consumare meno acqua di un fast food. Almeno in teoria. The post Microsoft, data center AI che usa meno acqua di un fast food appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/microsoft-data-center-ai-usa-meno-acqua-fast-food/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-22T07:23:16+00:00"
+      "data": "2026-06-22T16:43:45+00:00"
     },
     {
-      "titolo": "Passa a Iliad adesso: 250GB a meno di 10€ e Fibra Super Veloce sotto i 30€",
-      "descrizione": "Passa oggi stesso a Iliad: attivando TOP 250 PLUS a 9,99€ al mese per il tuo smartphone ottieni la Fibra Super Veloce a soli 22,99€ al mese. The post Passa a Iliad adesso: 250GB a meno di 10€ e Fibra Super Veloce sotto i",
-      "link": "https://www.punto-informatico.it/passa-a-iliad-adesso-250gb-a-meno-di-10e-e-fibra-super-veloce-sotto-i-30e/",
+      "titolo": "Nuovo impianto cerebrale cinese, segnali stabili per 18 mesi",
+      "descrizione": "Impianto cerebrale flessibile con segnali stabili e alta efficienza per 18 mesi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662166/chip-cerebrale-flessibile-94-efficienza-18-mesi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:35:00+00:00"
+    },
+    {
+      "titolo": "Maserati, in gamma tornerà presto anche una berlina: l'erede della Quattroporte",
+      "descrizione": "Maserati è pronta a rimettere in gamma una grande ammiraglia, erede spirituale delle recenti Quattroporte e Ghibli",
+      "link": "https://www.hdmotori.it/maserati-quattroporte-ritorno/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:30:47+00:00"
+    },
+    {
+      "titolo": "NASA testa ERNEST: il rover ha percorso 26 km da solo nel deserto",
+      "descrizione": "ERNEST percorre 26 km in autonomia e punta alle future missioni su Luna e Marte.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662156/nasa-rover-ernest-test-deserto-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:15:00+00:00"
+    },
+    {
+      "titolo": "Robot gestisce negozio a Hong Kong, vende snack e medicine",
+      "descrizione": "Xiao Gai è il robot che gestisce un intero negozio senza supervisione umana a Hong Kong. Vende snack, medicinali e chiacchiera con i clienti. The post Robot gestisce negozio a Hong Kong, vende snack e medicine appeared f",
+      "link": "https://www.punto-informatico.it/robot-gestisce-negozio-hong-kong-vende-snack-medicine/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-22T06:49:14+00:00"
+      "data": "2026-06-22T16:06:13+00:00"
+    },
+    {
+      "titolo": "Giochi PlayStation su PC, Xbox su PS5: chi ha fatto meglio tra Sony e Microsoft?",
+      "descrizione": "Un po' di dati sulle strategie multipiattaforma della current gen.",
+      "link": "https://www.hdblog.it/games/articoli/n662145/playstation-5-xbox-giochi-pc-port-vendite-dati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:05:00+00:00"
+    },
+    {
+      "titolo": "L'auto oggi è diventata un lusso, ma è irrinunciabile per 8 italiani su 10",
+      "descrizione": "Il carovita sta ridisegnando la mobilità nel nostro Paese, spingendo gli automobilisti a comportamenti difensivi. L’usato prevale sul nuovo, con un boom per le auto ricondizionate.",
+      "link": "https://www.hdmotori.it/auto-lusso-irrinunciabile-italiani/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T16:00:55+00:00"
+    },
+    {
+      "titolo": "Germania accelera sulla fusione: 23 milioni per studiare la materia delle stelle",
+      "descrizione": "Servirà a sviluppare reattori a fusione",
+      "link": "https://www.hdblog.it/green/articoli/n662136/germania-fusione-studi-materia-stelle/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:55:00+00:00"
+    },
+    {
+      "titolo": "Social, i grandi brand si affidano sempre più a influencer che non esistono",
+      "descrizione": "Dietro al 40-60% dei contenuti c'è lo zampino dell'AI",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662130/social-brand-influencer-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:45:00+00:00"
+    },
+    {
+      "titolo": "Cinema in giardino per i Mondiali: lo schermo gonfiabile costa meno di 100 euro",
+      "descrizione": "La soluzione perfetta (ed economica) per il calcio d'estate.",
+      "link": "https://www.hdblog.it/tv/articoli/n662151/schermo-gonfiabile-aldi-proiettore-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:35:00+00:00"
+    },
+    {
+      "titolo": "Realme 16 5G tra resistenza, autonomia e fotocamere | VIDEO",
+      "descrizione": "Abbiamo provato il nuovo telefono di fascia medio-bassa di realme con un design particolarmente ispirato. Ha anche uno specchio posteriore, comodo per i selfie in alta qualità.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n661405/realme-16-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:31:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA, avvistata l'architettura GPU \"Blackwell-Next\" nel Kernel Linux",
+      "descrizione": "A quanto pare la società sta già iniziando a gettare le basi per l'integrazione del nuovo hardware nel sistema operativo open-source.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662155/nvidia-kernel-linux-blackwell-next-gpu-driver/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:25:00+00:00"
+    },
+    {
+      "titolo": "Lo Steam Controller diventa un’auto radiocomandata tramite un’app per PC",
+      "descrizione": "Basta collegarsi alla pagina dedicata e associare il controller.",
+      "link": "https://www.hdblog.it/games/articoli/n662150/steam-controller-diventa-auto-radiocomandata/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-22T15:20:00+00:00"
+    },
+    {
+      "titolo": "Instagram anche sulle TV Samsung con nuove funzionalità",
+      "descrizione": "Meta ha annunciato che Instagram è disponibile anche sulle TV Samsung (solo negli Stati Uniti) con quattro nuove funzionalità attualmente in test. The post Instagram anche sulle TV Samsung con nuove funzionalità appeared",
+      "link": "https://www.punto-informatico.it/instagram-tv-samsung-nuove-funzionalita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-22T15:17:02+00:00"
     }
   ]
 }
