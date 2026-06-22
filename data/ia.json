@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T05:32:19.460823+00:00",
+  "last_updated": "2026-06-22T12:26:47.530368+00:00",
   "items": [
     {
       "titolo": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
@@ -24,14 +24,6 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-21T14:04:20+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Alibaba lancia Qwen-Robot: l’AI che guida la nuova generazione di robot",
-      "descrizione": "Alibaba presenta Qwen-Robot, la suite AI per navigazione, manipolazione e previsione.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661921/alibaba-qwen-robot-ai-robotica/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-21T09:05:00+00:00",
-      "modello": "altri"
     }
   ]
 }
