@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-06-22T21:14:31.047508+00:00",
+  "last_updated": "2026-06-23T04:30:57.858838+00:00",
   "items": [
     {
-      "titolo": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-      "descrizione": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-      "fonte": "WIRED",
-      "data": "2026-06-22T17:00:00+00:00",
+      "titolo": "How to troubleshoot your PC problems with Copilot or ChatGPT - effectively",
+      "descrizione": "I got tired of frustrating, error-filled troubleshooting sessions with AI chatbots, so I asked Copilot for help. Here's what I learned about better prompting.",
+      "link": "https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/",
+      "fonte": "Latest news",
+      "data": "2026-06-22T21:17:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "How to troubleshoot your PC problems with Copilot or ChatGPT - effectively",
+      "descrizione": "I got tired of frustrating, error-filled troubleshooting sessions with AI chatbots, so I asked Copilot for help. Here's what I learned about better prompting.",
+      "link": "https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/",
+      "fonte": "Latest news",
+      "data": "2026-06-22T21:17:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
