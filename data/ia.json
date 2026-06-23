@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-06-23T10:03:42.426811+00:00",
+  "last_updated": "2026-06-23T15:25:36.675851+00:00",
   "items": [
     {
-      "titolo": "OpenAI aggiorna GPT-5.5-Cyber e lancia Patch the Planet",
-      "descrizione": "Insieme alle versioni aggiornate di GPT-5-5-Cyber e del plugin di Codex Security, OpenAI ha lanciato Patch the Planet per i progetti open source. The post OpenAI aggiorna GPT-5.5-Cyber e lancia Patch the Planet appeared",
-      "link": "https://www.punto-informatico.it/openai-aggiorna-gpt-5-5-cyber-lancia-patch-the-planet/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-23T09:58:14+00:00",
+      "titolo": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list — first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
+      "descrizione": "China's LineShine supercomputer is now officially the world's fastest FP64 machine, but its mixed-precision results are behind those of El Capitan, Frontier, and Aurora.",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-23T12:55:33+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "How to troubleshoot your PC problems with Copilot or ChatGPT - effectively",
-      "descrizione": "I got tired of frustrating, error-filled troubleshooting sessions with AI chatbots, so I asked Copilot for help. Here's what I learned about better prompting.",
-      "link": "https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/",
-      "fonte": "Latest news",
-      "data": "2026-06-22T21:17:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
-      "descrizione": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
-      "link": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
-      "fonte": "Latest news",
-      "data": "2026-06-23T08:00:40+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic’s powerful Mythos AI reportedly breached ‘almost all’ NSA classified systems within a few hours during red-team test — report sheds more light on the U.S. government's sudden ban on the flagship models",
