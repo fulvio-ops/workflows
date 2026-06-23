@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-06-23T15:25:36.675851+00:00",
+  "last_updated": "2026-06-23T20:23:29.627133+00:00",
   "items": [
     {
-      "titolo": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list — first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
-      "descrizione": "China's LineShine supercomputer is now officially the world's fastest FP64 machine, but its mixed-precision results are behind those of El Capitan, Frontier, and Aurora.",
-      "link": "https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-23T12:55:33+00:00",
+      "titolo": "Claude down: il chatbot di Anthropic non funziona, cosa succede",
+      "descrizione": "Claude di Anthropic è offline per un malfunzionamento globale. API, sito e strumenti colpiti: ecco cosa sta succedendo e quando tornerà operativo. The post Claude down: il chatbot di Anthropic non funziona, cosa succede",
+      "link": "https://www.punto-informatico.it/claude-down-chatbot-anthropic-non-funziona-cosa-succede/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-23T15:58:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic’s powerful Mythos AI reportedly breached ‘almost all’ NSA classified systems within a few hours during red-team test — report sheds more light on the U.S. government's sudden ban on the flagship models",
-      "descrizione": "Anthropic’s Mythos AI reportedly breached nearly all NSA classified systems during a controlled red-team test, according to a quote cited by The Economist. The report adds context to the U.S. government’s sudden restrict",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-22T17:26:29+00:00",
+      "titolo": "Chrome integra Gemini: basta selezionare il testo per attivare l’AI",
+      "descrizione": "Google testa una nuova funzionalità su Chrome, una barra mobile Chiedi a Gemini che appare quando si evidenzia il testo di una pagina web. The post Chrome integra Gemini: basta selezionare il testo per attivare l’AI appe",
+      "link": "https://www.punto-informatico.it/chrome-integra-gemini-basta-selezionare-testo-attivare-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-23T15:31:11+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude down: il chatbot di Anthropic non funziona, cosa succede",
+      "descrizione": "Claude di Anthropic è offline per un malfunzionamento globale. API, sito e strumenti colpiti: ecco cosa sta succedendo e quando tornerà operativo. The post Claude down: il chatbot di Anthropic non funziona, cosa succede",
+      "link": "https://www.punto-informatico.it/claude-down-chatbot-anthropic-non-funziona-cosa-succede/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-23T15:58:21+00:00",
       "modello": "claude"
     }
   ]
