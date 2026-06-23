@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-23T04:30:57.858838+00:00",
+  "last_updated": "2026-06-23T10:03:42.426811+00:00",
   "items": [
     {
-      "titolo": "How to troubleshoot your PC problems with Copilot or ChatGPT - effectively",
-      "descrizione": "I got tired of frustrating, error-filled troubleshooting sessions with AI chatbots, so I asked Copilot for help. Here's what I learned about better prompting.",
-      "link": "https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/",
-      "fonte": "Latest news",
-      "data": "2026-06-22T21:17:00+00:00",
+      "titolo": "OpenAI aggiorna GPT-5.5-Cyber e lancia Patch the Planet",
+      "descrizione": "Insieme alle versioni aggiornate di GPT-5-5-Cyber e del plugin di Codex Security, OpenAI ha lanciato Patch the Planet per i progetti open source. The post OpenAI aggiorna GPT-5.5-Cyber e lancia Patch the Planet appeared",
+      "link": "https://www.punto-informatico.it/openai-aggiorna-gpt-5-5-cyber-lancia-patch-the-planet/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-23T09:58:14+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
-      "descrizione": "People seem all-too-ready to anthropomorphize LLMs and AI chatbots like ChatGPT, Claude, and Gemini, reckons a Microsoft AI researcher.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-21T11:00:00+00:00",
+      "titolo": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
+      "descrizione": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
+      "link": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
+      "fonte": "Latest news",
+      "data": "2026-06-23T08:00:40+00:00",
       "modello": "gemini"
     },
     {
