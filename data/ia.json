@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-06-24T15:09:42.863432+00:00",
+  "last_updated": "2026-06-24T20:11:12.139978+00:00",
   "items": [
     {
-      "titolo": "Jalapeño è il primo chip di OpenAI progettato con Broadcom",
-      "descrizione": "Jalapeño è il primo chip custom (ASIC) di OpenAI per l'inferenza dei modelli realizzato in collaborazione con Broadcom (verrà usato entro fine anno). The post Jalapeño è il primo chip di OpenAI progettato con Broadcom ap",
-      "link": "https://www.punto-informatico.it/jalapeno-primo-chip-openai-progettato-broadcom/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T14:20:45+00:00",
+      "titolo": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
+      "descrizione": "Broadcom and OpenAI reveal their Jalapeño custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-24T18:50:56+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I've spent 48 hours with the Google Home Speaker, and Gemini is off to a promising start",
-      "descrizione": "Here's how the new Google Home Speaker has fared against the likes of my Apple HomePod Mini and Echo Dot Max so far.",
-      "link": "https://www.zdnet.com/article/google-home-speaker-review-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-24T14:24:00+00:00",
+      "titolo": "Microsoft Copilot usato per bloccare StealC e Amadey",
+      "descrizione": "Microsoft ha utilizzato Copilot per scoprire e smantellare l'infrastruttura di Amadey e StealC in collaborazione con Europol e altri partner privati. The post Microsoft Copilot usato per bloccare StealC e Amadey appeared",
+      "link": "https://www.punto-informatico.it/microsoft-copilot-usato-bloccare-stealc-amadey/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-24T15:28:48+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Home si aggiorna: Gemini più reattivo e funzioni AI per le videocamere",
+      "descrizione": "L’assistente vocale filtra meglio i rumori ed è più rapido nelle risposte.",
+      "link": "https://www.hdblog.it/google/articoli/n662479/google-home-gemini-reattivo-funzioni-ai-cam/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-24T15:50:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Tag, l’assistente AI condiviso dal team su Slack",
-      "descrizione": "Anthropic integra Claude su Slack. si può taggare @Claude, assegnare compiti e lavorare in modo asincrono con l'AI che collabora con il team. The post Claude Tag, l’assistente AI condiviso dal team su Slack appeared firs",
-      "link": "https://www.punto-informatico.it/claude-tag-assistente-ai-condiviso-team-slack/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T10:37:33+00:00",
+      "titolo": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "descrizione": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
+      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "fonte": "WIRED",
+      "data": "2026-06-24T15:15:00+00:00",
       "modello": "claude"
     }
   ]
