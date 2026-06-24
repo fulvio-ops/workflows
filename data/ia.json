@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-24T04:37:59.096049+00:00",
+  "last_updated": "2026-06-24T09:51:16.781177+00:00",
   "items": [
     {
-      "titolo": "Instagram, Facebook e WhatsApp, problemi in Italia: cosa succede | Risolto",
-      "descrizione": "Se Instagram non aggiorna il feed o WhatsApp non invia correttamente foto e video, non siete soli: le segnalazioni stanno aumentando rapidamente",
-      "link": "https://www.hdblog.it/social/articoli/n662346/instagram-facebook-whatsapp-down-cosa-succede/",
+      "titolo": "GPTZero passa a Superhuman, l’esperto dell’autenticità AI cambia casa",
+      "descrizione": "Superhuman acquisisce GPTZero e punta su autenticità e verifica dei contenuti AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n662395/superhuman-acquisisce-gptzero-ai-autenticita/",
       "fonte": "HDblog.it",
-      "data": "2026-06-23T21:55:00+00:00",
+      "data": "2026-06-24T09:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Chrome integra Gemini: basta selezionare il testo per attivare l’AI",
-      "descrizione": "Google testa una nuova funzionalità su Chrome, una barra mobile Chiedi a Gemini che appare quando si evidenzia il testo di una pagina web. The post Chrome integra Gemini: basta selezionare il testo per attivare l’AI appe",
-      "link": "https://www.punto-informatico.it/chrome-integra-gemini-basta-selezionare-testo-attivare-ai/",
+      "titolo": "Gemini su Fogli di Google corregge gli errori nelle formule",
+      "descrizione": "Gemini su Fogli di Google può correggere gli errori nelle formule con un clic. Basta passare il mouse sull'errore e cliccare Correggi. The post Gemini su Fogli di Google corregge gli errori nelle formule appeared first o",
+      "link": "https://www.punto-informatico.it/gemini-fogli-google-corregge-errori-formule/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-23T15:31:11+00:00",
+      "data": "2026-06-24T06:54:32+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude down: il chatbot di Anthropic non funziona, cosa succede",
-      "descrizione": "Claude di Anthropic è offline per un malfunzionamento globale. API, sito e strumenti colpiti: ecco cosa sta succedendo e quando tornerà operativo. The post Claude down: il chatbot di Anthropic non funziona, cosa succede",
-      "link": "https://www.punto-informatico.it/claude-down-chatbot-anthropic-non-funziona-cosa-succede/",
+      "titolo": "Claude Mythos ha trovato vulnerabilità nei sistemi della NSA",
+      "descrizione": "Durante un test simulato (senza accesso a Internet), Claude Mythos Preview ha trovato vulnerabilità nei sistemi informatici classificati della NSA. The post Claude Mythos ha trovato vulnerabilità nei sistemi della NSA ap",
+      "link": "https://www.punto-informatico.it/claude-mythos-trovato-vulnerabilita-sistemi-nsa/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-23T15:58:21+00:00",
+      "data": "2026-06-24T09:12:56+00:00",
       "modello": "claude"
     }
   ]
