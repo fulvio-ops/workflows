@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-24T09:51:16.781177+00:00",
+  "last_updated": "2026-06-24T15:09:42.863432+00:00",
   "items": [
     {
-      "titolo": "GPTZero passa a Superhuman, l’esperto dell’autenticità AI cambia casa",
-      "descrizione": "Superhuman acquisisce GPTZero e punta su autenticità e verifica dei contenuti AI.",
-      "link": "https://www.hdblog.it/mercato/articoli/n662395/superhuman-acquisisce-gptzero-ai-autenticita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T09:10:00+00:00",
+      "titolo": "Jalapeño è il primo chip di OpenAI progettato con Broadcom",
+      "descrizione": "Jalapeño è il primo chip custom (ASIC) di OpenAI per l'inferenza dei modelli realizzato in collaborazione con Broadcom (verrà usato entro fine anno). The post Jalapeño è il primo chip di OpenAI progettato con Broadcom ap",
+      "link": "https://www.punto-informatico.it/jalapeno-primo-chip-openai-progettato-broadcom/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-24T14:20:45+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini su Fogli di Google corregge gli errori nelle formule",
-      "descrizione": "Gemini su Fogli di Google può correggere gli errori nelle formule con un clic. Basta passare il mouse sull'errore e cliccare Correggi. The post Gemini su Fogli di Google corregge gli errori nelle formule appeared first o",
-      "link": "https://www.punto-informatico.it/gemini-fogli-google-corregge-errori-formule/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T06:54:32+00:00",
+      "titolo": "I've spent 48 hours with the Google Home Speaker, and Gemini is off to a promising start",
+      "descrizione": "Here's how the new Google Home Speaker has fared against the likes of my Apple HomePod Mini and Echo Dot Max so far.",
+      "link": "https://www.zdnet.com/article/google-home-speaker-review-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-24T14:24:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Mythos ha trovato vulnerabilità nei sistemi della NSA",
-      "descrizione": "Durante un test simulato (senza accesso a Internet), Claude Mythos Preview ha trovato vulnerabilità nei sistemi informatici classificati della NSA. The post Claude Mythos ha trovato vulnerabilità nei sistemi della NSA ap",
-      "link": "https://www.punto-informatico.it/claude-mythos-trovato-vulnerabilita-sistemi-nsa/",
+      "titolo": "Claude Tag, l’assistente AI condiviso dal team su Slack",
+      "descrizione": "Anthropic integra Claude su Slack. si può taggare @Claude, assegnare compiti e lavorare in modo asincrono con l'AI che collabora con il team. The post Claude Tag, l’assistente AI condiviso dal team su Slack appeared firs",
+      "link": "https://www.punto-informatico.it/claude-tag-assistente-ai-condiviso-team-slack/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-24T09:12:56+00:00",
+      "data": "2026-06-24T10:37:33+00:00",
       "modello": "claude"
     }
   ]
