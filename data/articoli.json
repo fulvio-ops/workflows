@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-06-25T04:35:09.736325+00:00",
+  "last_updated": "2026-06-25T09:45:28.185364+00:00",
   "items": [
     {
-      "titolo": "How to Opt Out of Google Search’s New AI Data Training Feature",
-      "descrizione": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T22:36:16+00:00"
-    },
-    {
-      "titolo": "A crucial Windows security certificate expires today - how to check your PC",
-      "descrizione": "A critical Windows expiration date is here for more than a billion PCs - and even some Linux distros are affected. Is your PC ready?",
-      "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-24T20:34:00+00:00"
-    },
-    {
-      "titolo": "GTA 6, il prezzo è ufficiale: dettagli su preordini, Ultimate Edition, bonus e altro",
-      "descrizione": "E tante, tante nuove immagini.",
-      "link": "https://www.hdblog.it/games/articoli/n662449/gta-6-prezzo-quanto-costa-ultimate-preordini-bonus/",
+      "titolo": "Nostalgia del Nintendo DS? In arrivo il launcher Android perfetto",
+      "descrizione": "Ci sarà anche la mitica PictoChat, anche se arriverà un po' più in avanti.",
+      "link": "https://www.hdblog.it/android/articoli/n662565/android-launcher-nintendo-ds-nostalgia-pictochat/",
       "fonte": "HDblog.it",
-      "data": "2026-06-24T18:59:00+00:00"
+      "data": "2026-06-25T09:35:00+00:00"
     },
     {
-      "titolo": "YouTube e la valanga di cause per danni ai minori",
-      "descrizione": "Google chiude un caso legato ai danni dei social media, mentre oltre 5.000 cause simili sono in corso. Il rischio per le YouTube è enorme. The post YouTube e la valanga di cause per danni ai minori appeared first on Punt",
-      "link": "https://www.punto-informatico.it/youtube-valanga-cause-danni-minori/",
+      "titolo": "Shell Triple 10, il prototipo che smantella la \"pesantezza\" dell'auto elettrica",
+      "descrizione": "Basta batterie giganti e pesanti. Il prototipo Shell Triple 10 Challenge riduce i costi del 25% e offre 320 km di autonomia reale in soli 1.000 kg",
+      "link": "https://www.hdmotori.it/shell-triple-10-challenge-citycar-elettrica/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T09:30:28+00:00"
+    },
+    {
+      "titolo": "Deezer lancia tool per remix con il consenso degli artisti e senza AI",
+      "descrizione": "Deezer lancia Remix Lab. Lo strumento permette di remixare i brani con il consenso dell'artista, senza ricorrere all'AI. The post Deezer lancia tool per remix con il consenso degli artisti e senza AI appeared first on Pu",
+      "link": "https://www.punto-informatico.it/deezer-tool-remix-consenso-artisti-senza-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-24T18:02:36+00:00"
+      "data": "2026-06-25T09:28:35+00:00"
     },
     {
-      "titolo": "The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)",
-      "descrizione": "You can save hundreds of dollars on Breville appliances during Amazon Prime Day.",
-      "link": "https://www.wired.com/story/breville-deals-apd-6-24-2026/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T17:31:32+00:00"
-    },
-    {
-      "titolo": "La meccanica quantistica può fare a meno dei numeri immaginari",
-      "descrizione": "Uno studio tedesco mette in discussione il ruolo essenziale dei numeri immaginari.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662371/meccanica-quantistica-numeri-immaginari/",
+      "titolo": "Morphe aggiorna YouTube con nuove patch e il ritorno dei dislike",
+      "descrizione": "L'aggiornamento aggiunge nuove opzioni per personalizzare YouTube, migliora la stabilità dell'app e amplia il supporto alle versioni più recenti",
+      "link": "https://www.hdblog.it/android/articoli/n662559/morphie-youtube-hack-novita-non-mi-piace/",
       "fonte": "HDblog.it",
-      "data": "2026-06-24T17:15:00+00:00"
+      "data": "2026-06-25T09:20:00+00:00"
     },
     {
-      "titolo": "US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance — tension remains over MATCH Act restrictions",
-      "descrizione": "Inside the US Pax Silica Alliance with the Netherlands.",
-      "link": "https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions",
+      "titolo": "Alibaba avrebbe usato 25.000 account falsi per copiare Claude",
+      "descrizione": "Anthropic accusa Alibaba di aver usato migliaia di account per copiare Claude.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662554/anthropic-accusa-alibaba-claude-account-falsi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T09:10:00+00:00"
+    },
+    {
+      "titolo": "Bitdefender ha appena lanciato RealCheck, l'applicazione che smaschera i deepfake AI",
+      "descrizione": "RealCheck è la nuova applicazione mobile di Bitdefender che promette di individuare i video manipolati: uno strumento contro i deepfake.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n662541/bitdefender-realcheck-app-smaschera-deepfake-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T09:05:00+00:00"
+    },
+    {
+      "titolo": "Back in stock! Corsair's tiny touchscreen discount returns during Prime Week — Xeneon Edge 14.5-inch LCD touchscreen hits $199.99 agian",
+      "descrizione": "Get 20% off the Corsair Xeneon Edge 14.5-inch LCD Touchscreen.",
+      "link": "https://www.tomshardware.com/pc-components/back-in-stock-corsairs-tiny-touchscreen-discount-returns-during-prime-week-xeneon-edge-14-5-inch-lcd-touchscreen-hits-usd199-99-agian",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-24T17:15:00+00:00"
+      "data": "2026-06-25T08:45:55+00:00"
     },
     {
-      "titolo": "Tesla prepara Megapod: il nuovo progetto AI che sfida i data center",
-      "descrizione": "Tesla registra Megapod, una piattaforma modulare per data center dedicati all’AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662362/tesla-megapod-data-center-ai/",
+      "titolo": "Bunny sfida Cloudflare e Google con il DNS gratuito: addio ai costi per le query",
+      "descrizione": "Il provider europeo aggiorna la propria piattaforma DNS con nuove funzioni gratuite e il supporto alle più recenti tecnologie di sicurezza e connettività",
+      "link": "https://www.hdblog.it/mercato/articoli/n662550/bunny-dns-gratuito-cose-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-06-24T16:55:00+00:00"
+      "data": "2026-06-25T08:45:00+00:00"
     },
     {
-      "titolo": "ChatGPT monitora prezzi, notizie e voli: 7 prompt da provare subito",
-      "descrizione": "Con le nuove attività automatiche, ChatGPT monitora web e app e invia notifiche solo quando succede qualcosa di importante. Ecco come usarle. The post ChatGPT monitora prezzi, notizie e voli: 7 prompt da provare subito a",
-      "link": "https://www.punto-informatico.it/chatgpt-monitora-prezzi-notizie-voli-7-prompt-provare-subito/",
+      "titolo": "Euclid regala una spettacolare vista del cuore della Via Lattea",
+      "descrizione": "Euclid fotografa il centro della Via Lattea e prepara il lavoro del telescopio Roman.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662548/euclid-via-lattea-centro-galattico/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:40:00+00:00"
+    },
+    {
+      "titolo": "Salvini tuona contro gli obblighi di Bruxelles: \"No al 95% di BEV nelle flotte e noleggio\"",
+      "descrizione": "Intervenuto all'evento di ANIASA a Roma, Matteo Salvini ha espresso forti criticità riguardo l'obbligo di auto elettrificate nelle flotte",
+      "link": "https://www.hdmotori.it/salvini-imposizioni-bruxelles-elettriche/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:30:13+00:00"
+    },
+    {
+      "titolo": "GTA 6, partiti i preordini in Italia per PS5 e Xbox: prezzi, edizioni e link",
+      "descrizione": "Si parte da 79,99 euro per la versione standard e si sale a 99 per quella Ultimate.",
+      "link": "https://www.hdblog.it/games/articoli/n662537/gta-6-preordini-italia-playstation-xbox/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:15:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Mijia Smart Pressure Cooker 2 Pro: cottura più rapida e zero fluoruri",
+      "descrizione": "Xiaomi ha lanciato in Cina il Mijia Smart Electric Pressure Cooker 2 Pro 5L, una nuova pentola a pressione smart pensata per unire cottura rapida, controllo da app e materiali più attenti alla...",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n662521/xiaomi-mijia-smart-pressure-cooker-2-pro-5l/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:10:00+00:00"
+    },
+    {
+      "titolo": "Nothing Phone (4b) si mostra nel primo teaser ufficiale: appuntamento al 7 luglio",
+      "descrizione": "Nothing comincia la campagna mediatica di Phone (4b) con un teaser che lascia poco spazio a dubbi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662531/nothing-phone-4b-teaser-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:05:00+00:00"
+    },
+    {
+      "titolo": "Prime Day 2026: il rasoio Kensen Absolute Zero 7D scende a 33,59 euro",
+      "descrizione": "Kensen Absolute Zero 7D in offerta Prime Day a 33,59 euro: sette testine, doppia velocità, autonomia fino a 100 minuti e ricarica USB-C. The post Prime Day 2026: il rasoio Kensen Absolute Zero 7D scende a 33,59 euro appe",
+      "link": "https://www.punto-informatico.it/prime-day-2026-il-rasoio-kensen-absolute-zero-7d-scende-a-33-59-euro/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-24T16:31:20+00:00"
+      "data": "2026-06-25T08:00:23+00:00"
     },
     {
-      "titolo": "Al volante di una FIAT non si smette di sorridere, la ricerca non mente",
-      "descrizione": "A bordo di una FIAT 600 si è registrata una media di 368 sorrisi all'ora, proseguendo un esperimento cominciato sulla Grande Panda",
-      "link": "https://www.hdmotori.it/fiat-600-ricerca-sorrisi/",
+      "titolo": "Facebook lancia app AI dedicata ai creator per contenuti e risposte",
+      "descrizione": "Meta trasforma Creator Studio in un'app indipendente con assistente AI. Suggerisce quando pubblicare e redige risposte nel tono del creator. The post Facebook lancia app AI dedicata ai creator per contenuti e risposte ap",
+      "link": "https://www.punto-informatico.it/facebook-lancia-app-ai-creator-contenuti-risposte/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T07:58:12+00:00"
+    },
+    {
+      "titolo": "Play Store apre ai pagamenti esterni: ecco cosa cambia per gli sviluppatori",
+      "descrizione": "Google apre il Play Store ai pagamenti esterni e riduce le commissioni dal 30 giugno.",
+      "link": "https://www.hdblog.it/google/articoli/n662530/google-play-store-pagamenti-esterni-30-giugno/",
       "fonte": "HDblog.it",
-      "data": "2026-06-24T16:30:18+00:00"
+      "data": "2026-06-25T07:55:00+00:00"
     },
     {
-      "titolo": "Galaxy M47 5G inizia a farsi vedere: Samsung punta forte sul nuovo midrange",
-      "descrizione": "La scheda tecnica del nuovo smartphone Samsung Galaxy M47 5G non è più un segreto.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662425/samsung-galaxy-m47-5g/",
+      "titolo": "Streaming illegale e IPTV: pirati italiani in diminuzione",
+      "descrizione": "In base ai dati dell'indagine FAPAV/Ipsos Doxa, i pirati italiani sono in diminuzione, ma lo streaming illegale tramite IPTV è ancora molto diffuso. The post Streaming illegale e IPTV: pirati italiani in diminuzione appe",
+      "link": "https://www.punto-informatico.it/streaming-illegale-iptv-pirati-italiani-diminuzione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T07:52:24+00:00"
+    },
+    {
+      "titolo": "Commodore Callback 8020: prezzi ribassati fino a 121 euro prima del lancio",
+      "descrizione": "Preordini al via il 30 giugno.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662523/commodore-callback-8020-riduzione-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-06-24T16:25:00+00:00"
+      "data": "2026-06-25T07:45:00+00:00"
     },
     {
-      "titolo": "Esopianeti abitabili, un nuovo modello accelera la caccia alla vita aliena",
-      "descrizione": "STEHM identifica gli esopianeti rocciosi più adatti a trattenere un'atmosfera.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662313/stehm-esopianeti-abitabili-ricerca-vita-aliena/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T16:15:00+00:00"
+      "titolo": "Il video della Tesla che entra in casa e uccide, risponde Elon Musk",
+      "descrizione": "Elon Musk sostiene che il conducente abbia disattivato il Full Self-Driving prima dello schianto, la famiglia chiede un risarcimento. The post Il video della Tesla che entra in casa e uccide, risponde Elon Musk appeared",
+      "link": "https://www.punto-informatico.it/video-tesla-entra-casa-uccide/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T07:23:12+00:00"
     },
     {
-      "titolo": "OpenAI presenta il suo primo chip AI custom, realizzato con Broadcom",
-      "descrizione": "Avete indovinato come si chiama dall'immagine di apertura?",
-      "link": "https://www.hdblog.it/business/articoli/n662487/openai-chip-custom-broadcom-jalapeno/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T16:05:00+00:00"
+      "titolo": "Prodotti indispensabili in offerta shock al Prime Day di Amazon",
+      "descrizione": "Scopri i prodotti indispensabili per una vita smart tutti i giorni in offerta shock al Prime Day di Amazon da acquistare immediatamente. The post Prodotti indispensabili in offerta shock al Prime Day di Amazon appeared f",
+      "link": "https://www.punto-informatico.it/prodotti-indispensabili-offerta-shock-prime-day-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T07:23:10+00:00"
     },
     {
-      "titolo": "These Prime Day Gift Card Deals Are Basically Free Money (2026)",
-      "descrizione": "If you were planning on spending anyway, these deals are essentially free money for your favorite restaurants and stores.",
-      "link": "https://www.wired.com/story/amazon-prime-day-gift-card-deals-2026/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T16:04:26+00:00"
+      "titolo": "Binance prova a rimanere aggrappata all’Europa",
+      "descrizione": "Dopo il ritiro della domanda in Grecia, Binance punta a ottenere la licenza in un altro Paese dell'Unione europea e rassicura gli utenti. The post Binance prova a rimanere aggrappata all’Europa appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/fintech/criptovalute/binance-prova-rimanere-aggrappata-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T06:53:52+00:00"
     },
     {
-      "titolo": "Blocco Diesel Euro 5, la stangata sulle auto usate dal 1° ottobre",
-      "descrizione": "Dal 1° ottobre 2026 scatta lo stop ai diesel Euro 5 nel Nord Italia. Ecco come il blocco cambierà la routine di migliaia di automobilisti",
-      "link": "https://www.hdmotori.it/blocco-diesel-euro-5-nord-italia-auto-usate/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T16:00:41+00:00"
-    },
-    {
-      "titolo": "Supercomputer, la Cina supera gli Usa: è LineShine il più potente del mondo",
-      "descrizione": "Dopo 9 anni Pechino torna al vertice. Il sistema di Shenzhen supera l’americano El Capitan e guida i cinque supercomputer exascale mondiali. L’Italia mantiene 18 presenze in classifica ma scende dal 4° al 7° posto nel co",
-      "link": "https://www.ilsole24ore.com/art/supercomputer-cina-supera-usa-e-lineshine-piu-potente-mondo-AIDMMiqD",
+      "titolo": "OpenAI accende Jalapeño: perché il futuro dell’intelligenza artificiale passa dai chip?",
+      "descrizione": "L’obiettivo è ridurre costi, consumi e dipendenza da Nvidia. Come Google, Microsoft e Amazon, anche OpenAI punta a controllare l’hardware",
+      "link": "https://www.ilsole24ore.com/art/openai-accende-jalapeno-perche-futuro-dell-intelligenza-artificiale-passa-chip-AIMXeXrD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-24T15:30:00+00:00"
+      "data": "2026-06-25T06:21:35+00:00"
     },
     {
-      "titolo": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "descrizione": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T15:15:00+00:00"
-    },
-    {
-      "titolo": "Geekom Prime Day deals take up to 34% off a new mini PC with our exclusive promo code — Get an AMD or Intel mini PC for less now",
-      "descrizione": "Mini PC specialist Geekom has stuffed its Amazon webstore with a multitude of diminutive computers with discounts as deep as 34% off.",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/mini-pc-amazon-prime-day-sale-geekom",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-24T15:10:10+00:00"
-    },
-    {
-      "titolo": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price I’ve Seen in 2026",
-      "descrizione": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year.",
-      "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T14:07:04+00:00"
-    },
-    {
-      "titolo": "GTA 6, confermati i prezzi ufficiali: ci sono buone notizie",
-      "descrizione": "Confermati i prezzi di GTA 6: ci sono buone notizie, la Standard Edition non costerà più di qualsiasi altro titolo AAA. The post GTA 6, confermati i prezzi ufficiali: ci sono buone notizie appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/gta-6-confermati-prezzi-ufficiali-buone-notizie/",
+      "titolo": "Il flip phone di Commodore costerà meno di quanto annunciato",
+      "descrizione": "Buone notizie per chi ha messo nel mirino Commodore Callback 8020: i responsabili del progetto hanno deciso di abbassarne il prezzo. The post Il flip phone di Commodore costerà meno di quanto annunciato appeared first on",
+      "link": "https://www.punto-informatico.it/flip-phone-commodore-costera-meno/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-24T13:34:11+00:00"
+      "data": "2026-06-25T06:20:46+00:00"
     },
     {
-      "titolo": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company’s wafer business — Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs",
-      "descrizione": "TSMC has reportedly told customers to prepare for 5% to 10% price hikes across advanced chip nodes, extending beyond 3nm to include 7nm and some legacy processes.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-24T13:06:45+00:00"
-    },
-    {
-      "titolo": "Satispay ci ripensa: tornano le commissioni zero sotto i 10 euro",
-      "descrizione": "La fintech torna alla filosofia delle sue origini: commissioni azzerate sui piccoli pagamenti e nuove condizioni per gli esercenti. The post Satispay ci ripensa: tornano le commissioni zero sotto i 10 euro appeared first",
-      "link": "https://www.punto-informatico.it/satispay-tornano-commissioni-zero-sotto-10-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T12:27:12+00:00"
-    },
-    {
-      "titolo": "GTA 6: la canzone del teaser resta un mistero anche per Shazam",
-      "descrizione": "Molti si sono chiesti il titolo del brano nell'ultimo (breve) trailer di GTA 6, dedicato alla copertina: lo abbiamo cercato con Shazam. The post GTA 6: la canzone del teaser resta un mistero anche per Shazam appeared fir",
-      "link": "https://www.punto-informatico.it/gta-6-canzone-teaser-mistero-shazam/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T12:05:42+00:00"
-    },
-    {
-      "titolo": "Modelli AI sempre più potenti: rischi per i governi",
-      "descrizione": "Le agenzie di cybersicurezza dei paesi Five Eyes hanno evidenziato i rischi derivanti dai modelli AI e suggerito azioni prima che sia troppo tardi. The post Modelli AI sempre più potenti: rischi per i governi appeared fi",
-      "link": "https://www.punto-informatico.it/modelli-ai-sempre-piu-potenti-rischi-governi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-24T10:38:37+00:00"
+      "titolo": "La nuova sfida delle telco: andare oltre la connettività, trasformandosi in “orchestratori di ecosistemi”",
+      "descrizione": "A gennaio 2024 Deutsche Telekom, Orange, Telefónica e Vodafone hanno lanciato una joint venture per creare una soluzione di identità digitale per il marketing, basata sugli asset di rete dei...",
+      "link": "https://www.ilsole24ore.com/art/la-nuova-sfida-telco-andare-oltre-connettivita-trasformandosi-orchestratori-ecosistemi-AIb3xypD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-25T05:45:36+00:00"
     }
   ]
 }

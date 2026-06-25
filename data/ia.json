@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-06-25T04:35:17.824072+00:00",
+  "last_updated": "2026-06-25T09:45:32.126518+00:00",
   "items": [
     {
-      "titolo": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
-      "descrizione": "Broadcom and OpenAI reveal their Jalapeño custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-24T18:50:56+00:00",
+      "titolo": "Xiaomi Mijia Smart Pressure Cooker 2 Pro: cottura più rapida e zero fluoruri",
+      "descrizione": "Xiaomi ha lanciato in Cina il Mijia Smart Electric Pressure Cooker 2 Pro 5L, una nuova pentola a pressione smart pensata per unire cottura rapida, controllo da app e materiali più attenti alla...",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n662521/xiaomi-mijia-smart-pressure-cooker-2-pro-5l/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T08:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Copilot usato per bloccare StealC e Amadey",
-      "descrizione": "Microsoft ha utilizzato Copilot per scoprire e smantellare l'infrastruttura di Amadey e StealC in collaborazione con Europol e altri partner privati. The post Microsoft Copilot usato per bloccare StealC e Amadey appeared",
-      "link": "https://www.punto-informatico.it/microsoft-copilot-usato-bloccare-stealc-amadey/",
+      "titolo": "Gemini 3.5 Flash permette di controllare il computer",
+      "descrizione": "Google ha aggiunto la funzionalità Computer Use al modello Gemini 3.5 Flash, quindi è possibile creare agenti AI che controllano browser e interfacce. The post Gemini 3.5 Flash permette di controllare il computer appeare",
+      "link": "https://www.punto-informatico.it/gemini-3-5-flash-permette-controllare-computer/",
       "fonte": "Punto Informatico",
-      "data": "2026-06-24T15:28:48+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "48 hours later with the Google Home Speaker, I can't stop talking to Gemini (even if it's imperfect)",
-      "descrizione": "Here's how the new Google Home Speaker has fared against the likes of my Apple HomePod Mini and Echo Dot Max so far.",
-      "link": "https://www.zdnet.com/article/google-home-speaker-review-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-25T01:02:10+00:00",
+      "data": "2026-06-25T08:57:49+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "descrizione": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "fonte": "WIRED",
-      "data": "2026-06-24T15:15:00+00:00",
+      "titolo": "Alibaba avrebbe usato 25.000 account falsi per copiare Claude",
+      "descrizione": "Anthropic accusa Alibaba di aver usato migliaia di account per copiare Claude.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662554/anthropic-accusa-alibaba-claude-account-falsi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T09:10:00+00:00",
       "modello": "claude"
     }
   ]
