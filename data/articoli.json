@@ -1,19 +1,26 @@
 {
-  "last_updated": "2026-06-24T20:11:08.439983+00:00",
+  "last_updated": "2026-06-25T04:35:09.736325+00:00",
   "items": [
     {
-      "titolo": "Sony is selling last year's flagship OLED TV for $600 off - and I highly recommend it",
-      "descrizione": "Sony's Bravia 8 II might be a generation behind, but it still offers plenty of reasons to buy - especially at this price.",
-      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal-amazon-prime-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-24T18:46:00+00:00"
+      "titolo": "How to Opt Out of Google Search’s New AI Data Training Feature",
+      "descrizione": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+      "fonte": "WIRED",
+      "data": "2026-06-24T22:36:16+00:00"
     },
     {
-      "titolo": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "descrizione": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "link": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "titolo": "A crucial Windows security certificate expires today - how to check your PC",
+      "descrizione": "A critical Windows expiration date is here for more than a billion PCs - and even some Linux distros are affected. Is your PC ready?",
+      "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
       "fonte": "Latest news",
-      "data": "2026-06-24T18:14:32+00:00"
+      "data": "2026-06-24T20:34:00+00:00"
+    },
+    {
+      "titolo": "GTA 6, il prezzo è ufficiale: dettagli su preordini, Ultimate Edition, bonus e altro",
+      "descrizione": "E tante, tante nuove immagini.",
+      "link": "https://www.hdblog.it/games/articoli/n662449/gta-6-prezzo-quanto-costa-ultimate-preordini-bonus/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-24T18:59:00+00:00"
     },
     {
       "titolo": "YouTube e la valanga di cause per danni ai minori",
@@ -21,13 +28,6 @@
       "link": "https://www.punto-informatico.it/youtube-valanga-cause-danni-minori/",
       "fonte": "Punto Informatico",
       "data": "2026-06-24T18:02:36+00:00"
-    },
-    {
-      "titolo": "These essential smart home devices are highly useful - and all under $25",
-      "descrizione": "From smart lights to home security, Amazon Prime Day features some great deals on essential smart home gadgets.",
-      "link": "https://www.zdnet.com/article/essential-smart-home-devices-under-25-amazon-prime-day-2026-deals/",
-      "fonte": "Latest news",
-      "data": "2026-06-24T17:49:00+00:00"
     },
     {
       "titolo": "The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)",
@@ -107,13 +107,6 @@
       "data": "2026-06-24T16:00:41+00:00"
     },
     {
-      "titolo": "Destinus supera quota 1.000: svolta europea per i missili da crociera",
-      "descrizione": "Destinus produce il motore T150 numero 1.000 per la famiglia di missili Ruta.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662312/destinus-1000-motori-t150-missili-ruta/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T15:40:00+00:00"
-    },
-    {
       "titolo": "Supercomputer, la Cina supera gli Usa: è LineShine il più potente del mondo",
       "descrizione": "Dopo 9 anni Pechino torna al vertice. Il sistema di Shenzhen supera l’americano El Capitan e guida i cinque supercomputer exascale mondiali. L’Italia mantiene 18 presenze in classifica ma scende dal 4° al 7° posto nel co",
       "link": "https://www.ilsole24ore.com/art/supercomputer-cina-supera-usa-e-lineshine-piu-potente-mondo-AIDMMiqD",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/gta-6-canzone-teaser-mistero-shazam/",
       "fonte": "Punto Informatico",
       "data": "2026-06-24T12:05:42+00:00"
+    },
+    {
+      "titolo": "Modelli AI sempre più potenti: rischi per i governi",
+      "descrizione": "Le agenzie di cybersicurezza dei paesi Five Eyes hanno evidenziato i rischi derivanti dai modelli AI e suggerito azioni prima che sia troppo tardi. The post Modelli AI sempre più potenti: rischi per i governi appeared fi",
+      "link": "https://www.punto-informatico.it/modelli-ai-sempre-piu-potenti-rischi-governi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-24T10:38:37+00:00"
     }
   ]
 }

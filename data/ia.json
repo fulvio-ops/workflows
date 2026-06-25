@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:11:12.139978+00:00",
+  "last_updated": "2026-06-25T04:35:17.824072+00:00",
   "items": [
     {
       "titolo": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Home si aggiorna: Gemini più reattivo e funzioni AI per le videocamere",
-      "descrizione": "L’assistente vocale filtra meglio i rumori ed è più rapido nelle risposte.",
-      "link": "https://www.hdblog.it/google/articoli/n662479/google-home-gemini-reattivo-funzioni-ai-cam/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-24T15:50:00+00:00",
+      "titolo": "48 hours later with the Google Home Speaker, I can't stop talking to Gemini (even if it's imperfect)",
+      "descrizione": "Here's how the new Google Home Speaker has fared against the likes of my Apple HomePod Mini and Echo Dot Max so far.",
+      "link": "https://www.zdnet.com/article/google-home-speaker-review-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-25T01:02:10+00:00",
       "modello": "gemini"
     },
     {
