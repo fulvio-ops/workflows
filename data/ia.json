@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-25T09:45:32.126518+00:00",
+  "last_updated": "2026-06-25T15:16:52.408911+00:00",
   "items": [
     {
-      "titolo": "Xiaomi Mijia Smart Pressure Cooker 2 Pro: cottura più rapida e zero fluoruri",
-      "descrizione": "Xiaomi ha lanciato in Cina il Mijia Smart Electric Pressure Cooker 2 Pro 5L, una nuova pentola a pressione smart pensata per unire cottura rapida, controllo da app e materiali più attenti alla...",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n662521/xiaomi-mijia-smart-pressure-cooker-2-pro-5l/",
+      "titolo": "Motorola Moto G57, G67, G77 e G87: quale scegliere e per chi | VIDEO",
+      "descrizione": "La gamma Moto G di Motorola è oggigiorno composta da molte soluzioni diverse, cerchiamo di capire quali sono le peculiarità di ognuna e di definirne un target",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n658859/motorola-moto-g57-g67-g77-g87-quale-scegliere/",
       "fonte": "HDblog.it",
-      "data": "2026-06-25T08:10:00+00:00",
+      "data": "2026-06-25T13:31:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3.5 Flash permette di controllare il computer",
-      "descrizione": "Google ha aggiunto la funzionalità Computer Use al modello Gemini 3.5 Flash, quindi è possibile creare agenti AI che controllano browser e interfacce. The post Gemini 3.5 Flash permette di controllare il computer appeare",
-      "link": "https://www.punto-informatico.it/gemini-3-5-flash-permette-controllare-computer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T08:57:49+00:00",
+      "titolo": "I let Gemini Flows organize my Gmail, and it effectively filtered my inbox (with one sneaky catch)",
+      "descrizione": "Gmail's genius Gemini Flows feature fixes filters - but there's a monthly limit that you should also know about.",
+      "link": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
+      "fonte": "Latest news",
+      "data": "2026-06-25T11:01:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Alibaba avrebbe usato 25.000 account falsi per copiare Claude",
-      "descrizione": "Anthropic accusa Alibaba di aver usato migliaia di account per copiare Claude.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662554/anthropic-accusa-alibaba-claude-account-falsi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T09:10:00+00:00",
+      "titolo": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model — violations occurred from April to June 2026",
+      "descrizione": "AI tech giant Alibaba, often considered as the Amazon of China, is being accused by Anthropic for using Claude to train its AI models. The American AI startup claimed that it traced over 25,000 accounts to operators that",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-25T13:26:04+00:00",
       "modello": "claude"
     }
   ]

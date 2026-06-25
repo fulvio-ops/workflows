@@ -1,19 +1,159 @@
 {
-  "last_updated": "2026-06-25T09:45:28.185364+00:00",
+  "last_updated": "2026-06-25T15:16:48.836422+00:00",
   "items": [
     {
-      "titolo": "Nostalgia del Nintendo DS? In arrivo il launcher Android perfetto",
-      "descrizione": "Ci sarà anche la mitica PictoChat, anche se arriverà un po' più in avanti.",
-      "link": "https://www.hdblog.it/android/articoli/n662565/android-launcher-nintendo-ds-nostalgia-pictochat/",
+      "titolo": "Maserati festeggia il centenario del suo Tridente con una vera costellazione",
+      "descrizione": "Maserati festeggia i 100 anni del Tridente con Trident Stars, un'idea che trasforma il logo del brand in una costellazione composta da 100 stelle",
+      "link": "https://www.hdmotori.it/maserati-progetto-trident-stars/",
       "fonte": "HDblog.it",
-      "data": "2026-06-25T09:35:00+00:00"
+      "data": "2026-06-25T15:00:03+00:00"
     },
     {
-      "titolo": "Shell Triple 10, il prototipo che smantella la \"pesantezza\" dell'auto elettrica",
-      "descrizione": "Basta batterie giganti e pesanti. Il prototipo Shell Triple 10 Challenge riduce i costi del 25% e offre 320 km di autonomia reale in soli 1.000 kg",
-      "link": "https://www.hdmotori.it/shell-triple-10-challenge-citycar-elettrica/",
+      "titolo": "Samsung Galaxy A27 5G è ufficiale con display da 120 Hz e AI",
+      "descrizione": "Il nuovo Samsung Galaxy A27 5G punta sul rapporto qualità-prezzo con display Infinity-O a 120 Hz, AI integrata e Android 16 al lancio. The post Samsung Galaxy A27 5G è ufficiale con display da 120 Hz e AI appeared first",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-a27-5g-ufficiale-con-display-120-hz-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T14:57:07+00:00"
+    },
+    {
+      "titolo": "Smart city sempre più attrattive ma accrescono le disuguglianze",
+      "descrizione": "Così attrattive, eppure così difficili per lavorarci, studiarci, viverci. Le smart city stanno vivendo il paradosso dell’innovazione. Investire sul tech attrae più giovani, ma contemporaneamente accresce le disuguaglianz",
+      "link": "https://www.ilsole24ore.com/art/smart-city-sempre-piu-attrattive-ma-accrescono-disuguglianze-AIeSSNgD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-25T14:55:14+00:00"
+    },
+    {
+      "titolo": "L'app della Casa Bianca si reinstalla da sola: il malumore dei dipendenti federali",
+      "descrizione": "Dubbi su privacy e sicurezza.",
+      "link": "https://www.hdblog.it/android/articoli/n662582/donald-trump-app-casa-bianca-sicurezza/",
       "fonte": "HDblog.it",
-      "data": "2026-06-25T09:30:28+00:00"
+      "data": "2026-06-25T14:55:00+00:00"
+    },
+    {
+      "titolo": "Da aspirapolvere rotto a robot hi-tech grazie a Raspberry Pi 5",
+      "descrizione": "Un robot aspirapolvere guasto diventa una piattaforma mobile con Raspberry Pi 5.",
+      "link": "https://www.hdblog.it/home/articoli/n662599/robot-aspirapolvere-raspberry-pi-5/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T14:50:00+00:00"
+    },
+    {
+      "titolo": "Hyundai, sciopero storico, gli operai dicono \"NO\" ai robot umanoidi",
+      "descrizione": "Umani contro robot: gli operai Hyundai bloccano il rinnovo del contratto. Chiesto lo stop all'ingresso dell'IA e di Atlas nei reparti",
+      "link": "https://www.hdmotori.it/hyundai-sciopero-corea-robot-umanoidi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T14:30:16+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A27 ufficiale: ecco quanto costa e come averlo subito in sconto",
+      "descrizione": "Immagini e caratteristiche tecniche.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662595/samsung-galaxy-a27-5g-specifiche-prezzo-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T14:20:00+00:00"
+    },
+    {
+      "titolo": "Citroën, con la 2CV si punta ai più giovani: prezzi più che competitvi",
+      "descrizione": "La Casa francese sta progettando una nuova 2CV full electric. Verrà costruita su una piattaforma condivisa con FIAT",
+      "link": "https://www.hdmotori.it/citroen-2cv-rivoluzione-e-car/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T14:00:24+00:00"
+    },
+    {
+      "titolo": "Apple aumenta i prezzi di iPad e Mac (iPhone esclusi)",
+      "descrizione": "A causa dell'incremento dei costi di memoria e storage, Apple ha aumentato i prezzi di iPad, Mac e altri prodotti (per adesso sono esclusi gli iPhone). The post Apple aumenta i prezzi di iPad e Mac (iPhone esclusi) appea",
+      "link": "https://www.punto-informatico.it/apple-aumenta-prezzi-ipad-mac-iphone-esclusi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T13:55:14+00:00"
+    },
+    {
+      "titolo": "Hugin Superior esplora gli abissi: missione record in Norvegia",
+      "descrizione": "La Norvegia avvia la prima missione del drone subacqueo Hugin Superior.",
+      "link": "https://www.hdblog.it/droni/articoli/n662417/norvegia-drone-sottomarino-hugin-superior/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T13:40:00+00:00"
+    },
+    {
+      "titolo": "Economia sociale, ridiamo centralità al valore intangibile",
+      "descrizione": "Le organizzazioni del sociale emettono i bandi; le fondazioni e la pubblica amministrazione rispondono, candidandosi come beneficiari e competendo tra loro. È un mondo alla rovescia, nel quale le fondazioni...",
+      "link": "https://www.ilsole24ore.com/art/economia-sociale-ridiamo-centralita-valore-intangibile-AIfna4lD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-25T13:38:37+00:00"
+    },
+    {
+      "titolo": "Motorola Moto G57, G67, G77 e G87: quale scegliere e per chi | VIDEO",
+      "descrizione": "La gamma Moto G di Motorola è oggigiorno composta da molte soluzioni diverse, cerchiamo di capire quali sono le peculiarità di ognuna e di definirne un target",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n658859/motorola-moto-g57-g67-g77-g87-quale-scegliere/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T13:31:00+00:00"
+    },
+    {
+      "titolo": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
+      "descrizione": "Action cameras are perfect for capturing travel adventures, recording social media vlogs, and more. Make use of these great Prime Day deals.",
+      "link": "https://www.wired.com/story/prime-day-camera-deals-06-25-2026/",
+      "fonte": "WIRED",
+      "data": "2026-06-25T13:30:43+00:00"
+    },
+    {
+      "titolo": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model — violations occurred from April to June 2026",
+      "descrizione": "AI tech giant Alibaba, often considered as the Amazon of China, is being accused by Anthropic for using Claude to train its AI models. The American AI startup claimed that it traced over 25,000 accounts to operators that",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-25T13:26:04+00:00"
+    },
+    {
+      "titolo": "Windows 11 riapre alla personalizzazione: novità per Start e barra delle applicazioni",
+      "descrizione": "Microsoft starebbe preparando per Windows 11 un ritorno graduale a una maggiore libertà di personalizzazione",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662592/windows-11-personalizzabile-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T12:35:00+00:00"
+    },
+    {
+      "titolo": "Oppo Enco Air5 e Air5s arrivano in Italia con ANC, funzioni AI e prezzo interessante",
+      "descrizione": "Oppo porta in Italia i nuovi auricolari true wireless Enco Air5 e Enco Air5s con cancellazione attiva del rumore, funzioni AI, driver da 12 mm e autonomia fino a 54 ore",
+      "link": "https://www.hdblog.it/indossabili/articoli/n662589/oppo-enco-air5-air5s-caratteristiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T12:15:00+00:00"
+    },
+    {
+      "titolo": "Instagram, arriva il supporto a Google Cast per trasmettere i contenuti su TV",
+      "descrizione": "Si amplia il numero di dispositivi compatibili con la piattaforma.",
+      "link": "https://www.hdblog.it/android/articoli/n662585/instagram-supporto-google-cast/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T12:10:00+00:00"
+    },
+    {
+      "titolo": "PirloTV nel mirino dell’antipirateria: oscurati 44 domini, altri attivi",
+      "descrizione": "Maxi operazione contro PirloTV: chiusi 44 domini che trasmettevano partite in streaming senza autorizzazione, ma il network non cade. The post PirloTV nel mirino dell’antipirateria: oscurati 44 domini, altri attivi appea",
+      "link": "https://www.punto-informatico.it/pirlotv-mirino-antipirateria-oscurati-44-domini-altri-attivi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T12:08:46+00:00"
+    },
+    {
+      "titolo": "Viaggi in Svizzera? Attenzione al \"Sat Speed\": ti lascia senza patente",
+      "descrizione": "Nuovi controlli in Ticino con il sistema Sat Speed. Distanza di sicurezza azzerata e sanzioni severissime. Si perde la patente",
+      "link": "https://www.hdmotori.it/viaggi-svizzera-attenzione-sat-speed/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-25T12:00:36+00:00"
+    },
+    {
+      "titolo": "A crucial Windows security certificate just expired - how to check your PC",
+      "descrizione": "The first Windows Secure Boot expiration date is here for more than a billion PCs, with more to come - and even some Linux distros are affected. Is your PC ready?",
+      "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-expiring-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-25T12:00:00+00:00"
+    },
+    {
+      "titolo": "400 giornali contro OpenAI e Microsoft per lo scraping AI",
+      "descrizione": "Gli editori accusano OpenAI e Microsoft di aver copiato articoli sui propri server senza autorizzazione. Chiedono danni e ingiunzione. The post 400 giornali contro OpenAI e Microsoft per lo scraping AI appeared first on",
+      "link": "https://www.punto-informatico.it/400-giornali-contro-openai-microsoft-scraping-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T11:17:09+00:00"
+    },
+    {
+      "titolo": "Anthropic vs Alibaba: account falsi per copiare le capacità di Claude",
+      "descrizione": "Anthropic accusa Alibaba di aver usato account falsi per generare conversazioni con Claude e distillare le sue capacità. The post Anthropic vs Alibaba: account falsi per copiare le capacità di Claude appeared first on Pu",
+      "link": "https://www.punto-informatico.it/anthropic-accusa-alibaba-account-falsi-copiare-capacita-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-25T10:53:05+00:00"
     },
     {
       "titolo": "Deezer lancia tool per remix con il consenso degli artisti e senza AI",
@@ -23,151 +163,11 @@
       "data": "2026-06-25T09:28:35+00:00"
     },
     {
-      "titolo": "Morphe aggiorna YouTube con nuove patch e il ritorno dei dislike",
-      "descrizione": "L'aggiornamento aggiunge nuove opzioni per personalizzare YouTube, migliora la stabilità dell'app e amplia il supporto alle versioni più recenti",
-      "link": "https://www.hdblog.it/android/articoli/n662559/morphie-youtube-hack-novita-non-mi-piace/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T09:20:00+00:00"
-    },
-    {
-      "titolo": "Alibaba avrebbe usato 25.000 account falsi per copiare Claude",
-      "descrizione": "Anthropic accusa Alibaba di aver usato migliaia di account per copiare Claude.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662554/anthropic-accusa-alibaba-claude-account-falsi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T09:10:00+00:00"
-    },
-    {
-      "titolo": "Bitdefender ha appena lanciato RealCheck, l'applicazione che smaschera i deepfake AI",
-      "descrizione": "RealCheck è la nuova applicazione mobile di Bitdefender che promette di individuare i video manipolati: uno strumento contro i deepfake.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n662541/bitdefender-realcheck-app-smaschera-deepfake-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T09:05:00+00:00"
-    },
-    {
       "titolo": "Back in stock! Corsair's tiny touchscreen discount returns during Prime Week — Xeneon Edge 14.5-inch LCD touchscreen hits $199.99 agian",
       "descrizione": "Get 20% off the Corsair Xeneon Edge 14.5-inch LCD Touchscreen.",
       "link": "https://www.tomshardware.com/pc-components/back-in-stock-corsairs-tiny-touchscreen-discount-returns-during-prime-week-xeneon-edge-14-5-inch-lcd-touchscreen-hits-usd199-99-agian",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-25T08:45:55+00:00"
-    },
-    {
-      "titolo": "Bunny sfida Cloudflare e Google con il DNS gratuito: addio ai costi per le query",
-      "descrizione": "Il provider europeo aggiorna la propria piattaforma DNS con nuove funzioni gratuite e il supporto alle più recenti tecnologie di sicurezza e connettività",
-      "link": "https://www.hdblog.it/mercato/articoli/n662550/bunny-dns-gratuito-cose-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:45:00+00:00"
-    },
-    {
-      "titolo": "Euclid regala una spettacolare vista del cuore della Via Lattea",
-      "descrizione": "Euclid fotografa il centro della Via Lattea e prepara il lavoro del telescopio Roman.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662548/euclid-via-lattea-centro-galattico/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:40:00+00:00"
-    },
-    {
-      "titolo": "Salvini tuona contro gli obblighi di Bruxelles: \"No al 95% di BEV nelle flotte e noleggio\"",
-      "descrizione": "Intervenuto all'evento di ANIASA a Roma, Matteo Salvini ha espresso forti criticità riguardo l'obbligo di auto elettrificate nelle flotte",
-      "link": "https://www.hdmotori.it/salvini-imposizioni-bruxelles-elettriche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:30:13+00:00"
-    },
-    {
-      "titolo": "GTA 6, partiti i preordini in Italia per PS5 e Xbox: prezzi, edizioni e link",
-      "descrizione": "Si parte da 79,99 euro per la versione standard e si sale a 99 per quella Ultimate.",
-      "link": "https://www.hdblog.it/games/articoli/n662537/gta-6-preordini-italia-playstation-xbox/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:15:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Mijia Smart Pressure Cooker 2 Pro: cottura più rapida e zero fluoruri",
-      "descrizione": "Xiaomi ha lanciato in Cina il Mijia Smart Electric Pressure Cooker 2 Pro 5L, una nuova pentola a pressione smart pensata per unire cottura rapida, controllo da app e materiali più attenti alla...",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n662521/xiaomi-mijia-smart-pressure-cooker-2-pro-5l/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:10:00+00:00"
-    },
-    {
-      "titolo": "Nothing Phone (4b) si mostra nel primo teaser ufficiale: appuntamento al 7 luglio",
-      "descrizione": "Nothing comincia la campagna mediatica di Phone (4b) con un teaser che lascia poco spazio a dubbi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662531/nothing-phone-4b-teaser-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T08:05:00+00:00"
-    },
-    {
-      "titolo": "Prime Day 2026: il rasoio Kensen Absolute Zero 7D scende a 33,59 euro",
-      "descrizione": "Kensen Absolute Zero 7D in offerta Prime Day a 33,59 euro: sette testine, doppia velocità, autonomia fino a 100 minuti e ricarica USB-C. The post Prime Day 2026: il rasoio Kensen Absolute Zero 7D scende a 33,59 euro appe",
-      "link": "https://www.punto-informatico.it/prime-day-2026-il-rasoio-kensen-absolute-zero-7d-scende-a-33-59-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T08:00:23+00:00"
-    },
-    {
-      "titolo": "Facebook lancia app AI dedicata ai creator per contenuti e risposte",
-      "descrizione": "Meta trasforma Creator Studio in un'app indipendente con assistente AI. Suggerisce quando pubblicare e redige risposte nel tono del creator. The post Facebook lancia app AI dedicata ai creator per contenuti e risposte ap",
-      "link": "https://www.punto-informatico.it/facebook-lancia-app-ai-creator-contenuti-risposte/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T07:58:12+00:00"
-    },
-    {
-      "titolo": "Play Store apre ai pagamenti esterni: ecco cosa cambia per gli sviluppatori",
-      "descrizione": "Google apre il Play Store ai pagamenti esterni e riduce le commissioni dal 30 giugno.",
-      "link": "https://www.hdblog.it/google/articoli/n662530/google-play-store-pagamenti-esterni-30-giugno/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T07:55:00+00:00"
-    },
-    {
-      "titolo": "Streaming illegale e IPTV: pirati italiani in diminuzione",
-      "descrizione": "In base ai dati dell'indagine FAPAV/Ipsos Doxa, i pirati italiani sono in diminuzione, ma lo streaming illegale tramite IPTV è ancora molto diffuso. The post Streaming illegale e IPTV: pirati italiani in diminuzione appe",
-      "link": "https://www.punto-informatico.it/streaming-illegale-iptv-pirati-italiani-diminuzione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T07:52:24+00:00"
-    },
-    {
-      "titolo": "Commodore Callback 8020: prezzi ribassati fino a 121 euro prima del lancio",
-      "descrizione": "Preordini al via il 30 giugno.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662523/commodore-callback-8020-riduzione-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T07:45:00+00:00"
-    },
-    {
-      "titolo": "Il video della Tesla che entra in casa e uccide, risponde Elon Musk",
-      "descrizione": "Elon Musk sostiene che il conducente abbia disattivato il Full Self-Driving prima dello schianto, la famiglia chiede un risarcimento. The post Il video della Tesla che entra in casa e uccide, risponde Elon Musk appeared",
-      "link": "https://www.punto-informatico.it/video-tesla-entra-casa-uccide/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T07:23:12+00:00"
-    },
-    {
-      "titolo": "Prodotti indispensabili in offerta shock al Prime Day di Amazon",
-      "descrizione": "Scopri i prodotti indispensabili per una vita smart tutti i giorni in offerta shock al Prime Day di Amazon da acquistare immediatamente. The post Prodotti indispensabili in offerta shock al Prime Day di Amazon appeared f",
-      "link": "https://www.punto-informatico.it/prodotti-indispensabili-offerta-shock-prime-day-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T07:23:10+00:00"
-    },
-    {
-      "titolo": "Binance prova a rimanere aggrappata all’Europa",
-      "descrizione": "Dopo il ritiro della domanda in Grecia, Binance punta a ottenere la licenza in un altro Paese dell'Unione europea e rassicura gli utenti. The post Binance prova a rimanere aggrappata all’Europa appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/fintech/criptovalute/binance-prova-rimanere-aggrappata-europa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T06:53:52+00:00"
-    },
-    {
-      "titolo": "OpenAI accende Jalapeño: perché il futuro dell’intelligenza artificiale passa dai chip?",
-      "descrizione": "L’obiettivo è ridurre costi, consumi e dipendenza da Nvidia. Come Google, Microsoft e Amazon, anche OpenAI punta a controllare l’hardware",
-      "link": "https://www.ilsole24ore.com/art/openai-accende-jalapeno-perche-futuro-dell-intelligenza-artificiale-passa-chip-AIMXeXrD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-25T06:21:35+00:00"
-    },
-    {
-      "titolo": "Il flip phone di Commodore costerà meno di quanto annunciato",
-      "descrizione": "Buone notizie per chi ha messo nel mirino Commodore Callback 8020: i responsabili del progetto hanno deciso di abbassarne il prezzo. The post Il flip phone di Commodore costerà meno di quanto annunciato appeared first on",
-      "link": "https://www.punto-informatico.it/flip-phone-commodore-costera-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T06:20:46+00:00"
-    },
-    {
-      "titolo": "La nuova sfida delle telco: andare oltre la connettività, trasformandosi in “orchestratori di ecosistemi”",
-      "descrizione": "A gennaio 2024 Deutsche Telekom, Orange, Telefónica e Vodafone hanno lanciato una joint venture per creare una soluzione di identità digitale per il marketing, basata sugli asset di rete dei...",
-      "link": "https://www.ilsole24ore.com/art/la-nuova-sfida-telco-andare-oltre-connettivita-trasformandosi-orchestratori-ecosistemi-AIb3xypD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-25T05:45:36+00:00"
     }
   ]
 }
