@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-06-26T14:48:07.635620+00:00",
+  "last_updated": "2026-06-26T20:11:45.635001+00:00",
   "items": [
     {
-      "titolo": "eustella è l'AI che sfida ChatGPT, Claude e Gemini puntando sulla sovranità europea",
-      "descrizione": "È arrivata l'alternativa europea a ChatGPT: eustella punta sul concetto di sovranità tecnologica e sulla creazione degli agenti AI.",
-      "link": "https://www.hdblog.it/business/articoli/n662730/eustella-ai-sfida-chatgpt-claude-sovranita-europea/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T14:10:00+00:00",
+      "titolo": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "descrizione": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T17:05:40+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "eustella è l'AI che sfida ChatGPT, Claude e Gemini puntando sulla sovranità europea",
-      "descrizione": "È arrivata l'alternativa europea a ChatGPT: eustella punta sul concetto di sovranità tecnologica e sulla creazione degli agenti AI.",
-      "link": "https://www.hdblog.it/business/articoli/n662730/eustella-ai-sfida-chatgpt-claude-sovranita-europea/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T14:10:00+00:00",
-      "modello": "gemini"
+      "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
+      "descrizione": "Immaginate di poter conoscere l’andamento di un’azienda o analizzare un intero settore semplicemente dialogando con un chatbot. È questo l’obiettivo di Syrto AI , un nuovo strumento sviluppato dalla...",
+      "link": "https://www.ilsole24ore.com/art/syrto-ai-financial-intelligence-entra-azienda-microsoft-copilot-AIdgwRtD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-26T16:07:10+00:00",
+      "modello": "copilot"
     },
     {
-      "titolo": "eustella è l'AI che sfida ChatGPT, Claude e Gemini puntando sulla sovranità europea",
-      "descrizione": "È arrivata l'alternativa europea a ChatGPT: eustella punta sul concetto di sovranità tecnologica e sulla creazione degli agenti AI.",
-      "link": "https://www.hdblog.it/business/articoli/n662730/eustella-ai-sfida-chatgpt-claude-sovranita-europea/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T14:10:00+00:00",
+      "titolo": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "descrizione": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T17:05:40+00:00",
       "modello": "claude"
     }
   ]

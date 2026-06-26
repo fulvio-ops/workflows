@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-06-26T14:48:04.008982+00:00",
+  "last_updated": "2026-06-26T20:11:40.225548+00:00",
   "items": [
+    {
+      "titolo": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
+      "descrizione": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
+      "link": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T18:45:16+00:00"
+    },
+    {
+      "titolo": "Save $250 on this AMD AM5 bundle, get Samsung 990 Pro SSD for basically free — grab the AMD Ryzen 5 9600X, Gigabyte B850 Aorus Elite motherboard, and 990 Pro 1TB SSD for 36% off",
+      "descrizione": "Save nearly $250 on three essential PC components with this Newegg bundle featuring AMD's Ryzen 5 9600X, a Gigabyte B850 motherboard, and Samsung's flagship PCIe 4.0 SSD.",
+      "link": "https://www.tomshardware.com/pc-components/save-usd250-on-this-amd-am5-bundle-get-samsung-990-pro-ssd-for-basically-free-grab-the-amd-ryzen-5-9600x-gigabyte-b850-aorus-elite-motherboard-and-990-pro-1tb-ssd-for-36-percent-off",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-26T17:57:34+00:00"
+    },
+    {
+      "titolo": "Addio ai materiali rari: i nanotubi di silicio trasformano il calore in elettricità",
+      "descrizione": "Nuovi nanotubi di silicio recuperano il calore disperso trasformandolo in elettricità.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662611/nanotubi-silicio-recupero-calore-elettricita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T17:15:00+00:00"
+    },
+    {
+      "titolo": "Moto in corsia d'emergenza, la svolta in Spagna ma ci sono nuove regole",
+      "descrizione": "Nuova riforma stradale in Spagna: sì alle moto in corsia d’emergenza, ma scatta lo stop assoluto a infradito e sandali alla guida. Multe da 200 euro per i trasgressori",
+      "link": "https://www.hdmotori.it/spagna-moto-corsia-emergenza-nuovo-regolamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T17:00:24+00:00"
+    },
+    {
+      "titolo": "Razer presenta la sua prima sedia gaming con LED RGB: ecco Soma Chroma",
+      "descrizione": "Costosetta, ma la qualità sembra elevata.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662769/razer-soma-chroma-sedia-gaming-led-rgb/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T16:55:00+00:00"
+    },
+    {
+      "titolo": "CATL presenta TENER Sodium, la prima batteria al sodio da 30 MWh testata sul campo",
+      "descrizione": "CATL presenta la batteria al sodio da 30 MWh pronta per l'accumulo energetico.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662613/catl-tener-sodium-batteria-30mwh/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T16:50:00+00:00"
+    },
+    {
+      "titolo": "This is the one smart home product everyone should have, and it's on sale",
+      "descrizione": "Smart light bulbs easily add ambiance to any home, and the GE Cync color-changing smart bulbs are discounted for Amazon's Prime Day, which ends tonight.",
+      "link": "https://www.zdnet.com/article/ge-cync-color-changing-smart-bulb-amazon-prime-day-2026-deal/",
+      "fonte": "Latest news",
+      "data": "2026-06-26T16:37:59+00:00"
+    },
+    {
+      "titolo": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+      "descrizione": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.",
+      "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T16:30:33+00:00"
+    },
+    {
+      "titolo": "Google Wallet consentirà di tracciare i pacchi in tempo reale",
+      "descrizione": "Google ha aggiunto a Wallet una schermata che mostra gli ordini online con lo stato di consegna in tempo reale. The post Google Wallet consentirà di tracciare i pacchi in tempo reale appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/google-wallet-tracciare-pacchi-tempo-reale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T16:16:20+00:00"
+    },
+    {
+      "titolo": "General Atomics investe nella fusione con un nuovo impianto in California",
+      "descrizione": "General Atomics realizzerà un centro per testare componenti chiave della fusione nucleare.",
+      "link": "https://www.hdblog.it/green/articoli/n662612/general-atomics-fusione-nucleare-california/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T16:15:00+00:00"
+    },
+    {
+      "titolo": "7 WFH gadgets that seriously improved my workflow (and they're on sale)",
+      "descrizione": "These gadgets made big improvements to our home offices. With Prime Day ending tonight, it's your final chance to get them on sale.",
+      "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-prime-day-2026-last-chance/",
+      "fonte": "Latest news",
+      "data": "2026-06-26T16:10:59+00:00"
+    },
+    {
+      "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
+      "descrizione": "Immaginate di poter conoscere l’andamento di un’azienda o analizzare un intero settore semplicemente dialogando con un chatbot. È questo l’obiettivo di Syrto AI , un nuovo strumento sviluppato dalla...",
+      "link": "https://www.ilsole24ore.com/art/syrto-ai-financial-intelligence-entra-azienda-microsoft-copilot-AIdgwRtD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-26T16:07:10+00:00"
+    },
+    {
+      "titolo": "The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount",
+      "descrizione": "AMD's re-released Ryzen 7 5800X3D sold out almost immediately when it launched, but if you're tired of waiting, you can easily upgrade to a DDR5 platform with these Prime Day CPUs deals, all of which are cheaper than the",
+      "link": "https://www.tomshardware.com/pc-components/the-ryzen-7-5800x3d-is-sold-out-but-these-prime-day-cpus-with-ddr5-are-cheaper-offset-the-cost-of-a-ddr5-upgrade-with-a-cpu-discount",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-26T15:54:29+00:00"
+    },
+    {
+      "titolo": "IBM realizza il primo chip con tecnologia a 0,7 nanometri",
+      "descrizione": "IBM ha svelato il primo chip realizzato con tecnologia a 0,7 nanometri (7 angstrom) sfruttando l'architettura nanostack (versione 3D dei nanosheet). The post IBM realizza il primo chip con tecnologia a 0,7 nanometri appe",
+      "link": "https://www.punto-informatico.it/ibm-realizza-primo-chip-tecnologia-07-nanometri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T15:50:19+00:00"
+    },
+    {
+      "titolo": "È la fine dei giochi fisici? Ma in USA dati in crescita dopo 17 anni: merito di Switch 2",
+      "descrizione": "Una piccola anomalia, ma la strada verso il digitale resta tracciata.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n662748/videogiochi-fisici-vendite-2026-switch-2-gta-6-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T15:45:00+00:00"
+    },
+    {
+      "titolo": "La più grande batteria ferro-aria d'Europa: ecco il futuro dell'energia",
+      "descrizione": "Nei Paesi Bassi nasce un impianto da 1 GWh che immagazzina energia pulita fino a 100 ore.",
+      "link": "https://www.hdblog.it/green/articoli/n662608/europa-batteria-ferro-aria-1gwh/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T15:40:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Robot Vacuum 6 Max si prepara al lancio internazionale",
+      "descrizione": "Il robot è apparso sul sito global di Xiaomi, per ora non ci sono ancora informazioni sui prezzi e sulle tempistiche.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n662756/xiaomi-robot-vacuum-6-max-lancio-internazionale/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T15:35:00+00:00"
+    },
+    {
+      "titolo": "Perseverance scopre composti complessi di carbonio nelle rocce di Marte",
+      "descrizione": "Perseverance trova centinaia di firme di carbonio organico nelle antiche rocce di Marte.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662741/perseverance-scoperta-carbonio-organico-marte/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T15:25:00+00:00"
+    },
+    {
+      "titolo": "Get $145 Off the Best Mesh Router This Prime Day 2026",
+      "descrizione": "Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.",
+      "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T15:18:06+00:00"
+    },
+    {
+      "titolo": "Samsung rilascia a sorpresa un aggiornamento per Galaxy S8 e Note 8",
+      "descrizione": "Gli smartphone risalgono al 2017.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662751/samsung-aggiornamento-galaxy-s8-note-8/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T15:15:00+00:00"
+    },
     {
       "titolo": "Nella capsula Starfall di SpaceX c’era lievito di birra",
       "descrizione": "All'interno della capsula Starfall di SpaceX, lanciata il 23 giugno, c'erano lieviti di birra e semi di piante (tra cui lupini blu) di Starbase Brewing. The post Nella capsula Starfall di SpaceX c’era lievito di birra ap",
@@ -23,151 +163,11 @@
       "data": "2026-06-26T14:20:00+00:00"
     },
     {
-      "titolo": "Vivo X Fold6 ufficiale: il pieghevole che è un vero camera phone arriverà in Italia",
-      "descrizione": "Entro la fine del 2026: ecco tutte le specifiche.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662738/vivo-x-fold6-ufficiale-italia-2026-specifiche-foto/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T14:05:00+00:00"
-    },
-    {
       "titolo": "Last chance to save up to 55% on these brilliant Hoto tools for PC builders and hobbyists, starting from $14 — super low prices set to end soon on cordless electric screwdrivers, drills, flashlights, vacuum cleaners, and",
       "descrizione": "A full spectrum of Hoto tools for hobbyists and PC builders is now on sale, thanks to Amazon Prime Day.",
       "link": "https://www.tomshardware.com/peripherals/last-chance-to-save-up-to-55-percent-on-these-brilliant-hoto-tools-for-pc-builders-and-hobbyists-starting-from-usd14-super-low-prices-set-to-end-soon-on-cordless-electric-screwdrivers-drills-flashlights-vacuum-cleaners-and-more",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-26T14:03:01+00:00"
-    },
-    {
-      "titolo": "Apple Developer Academy, 10 anni dopo: a Napoli oltre 3.000 studenti da 80 Paesi",
-      "descrizione": "La Apple Developer Academy di Napoli ha festeggiato oggi i suoi dieci anni a San Giovanni a Teduccio",
-      "link": "https://www.hdblog.it/apple/articoli/n662745/apple-developer-academy-dieci-anni-napol/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T13:45:00+00:00"
-    },
-    {
-      "titolo": "Sempre più incidenti coinvolgono pedoni e SUV: la colpa è il design delle auto?",
-      "descrizione": "Il New York Times ha dato vita a un'inchiesta contro l'aumento esponenziale degli incidenti mortali fra pedoni e auto a causa dei SUV",
-      "link": "https://www.hdmotori.it/incidenti-suv-pedoni-inchiesta/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T13:30:16+00:00"
-    },
-    {
-      "titolo": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more — Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech",
-      "descrizione": "In an interview with Tom’s Hardware Premium, Solidigm's Avi Shetty discusses the future of high-capacity SSDs, Floating-Gate NAND, PLC memory, PCIe 6.0 storage, liquid-cooled SSDs, Nvidia's Storage Next vision, and why t",
-      "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-vp-talks-pcie-6-0-ssds-next-gen-floating-gate-nand-liquid-cooled-storage-and-more-avi-shetty-vp-of-ai-solutions-and-market-enablement-discusses-the-future-of-enterprise-storage-tech",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-26T13:25:48+00:00"
-    },
-    {
-      "titolo": "Prime Day, ultimo giorno: 20 prodotti tech da non lasciarsi sfuggire",
-      "descrizione": "Il Prime Day entra nell’ultimo giorno: una selezione di 20 prodotti tech molto acquistati dai lettori HDblog, tra smartphone, cuffie, TV, robot, tablet, notebook e accessori smart.",
-      "link": "https://www.hdblog.it/amazon/offerte/n662728/prime-day-amazon-ultimo-giorno-migliori-offerte/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T13:25:00+00:00"
-    },
-    {
-      "titolo": "Wikipedia ha bandito il cofondatore Larry Sanger: cosa è successo",
-      "descrizione": "Il cofondatore di Wikipedia non potrà più modificare l'enciclopedia. Ecco le accuse, la replica di Larry Sanger e cosa è successo. The post Wikipedia ha bandito il cofondatore Larry Sanger: cosa è successo appeared first",
-      "link": "https://www.punto-informatico.it/wikipedia-ha-bandito-cofondatore-larry-sanger-cosa-e-successo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T13:03:09+00:00"
-    },
-    {
-      "titolo": "Inserimento nella blacklist: Alibaba denuncia il governo USA",
-      "descrizione": "Alibaba ha denunciato il Dipartimento della Difesa degli USA dopo l'inserimento nella blacklist delle aziende che collaborano con i militari cinesi. The post Inserimento nella blacklist: Alibaba denuncia il governo USA a",
-      "link": "https://www.punto-informatico.it/inserimento-blacklist-alibaba-denuncia-governo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T12:55:09+00:00"
-    },
-    {
-      "titolo": "DuckDuckGo sostiene che Trump sia morto per la rabbia",
-      "descrizione": "Una risposta generata dall'AI del motore DuckDuckGo ha sostenuto la morte di Trump a causa di un'infezione di rabbia trasmessa da Vance. The post DuckDuckGo sostiene che Trump sia morto per la rabbia appeared first on Pu",
-      "link": "https://www.punto-informatico.it/duckduckgo-trump-morto-rabbia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T12:17:49+00:00"
-    },
-    {
-      "titolo": "Polizia di Stato su WhatsApp: il nuovo canale ufficiale con notizie e informazioni",
-      "descrizione": "Il servizio offre aggiornamenti su tutte le attività delle forze dell'ordine.",
-      "link": "https://www.hdblog.it/android/articoli/n662713/polizia-stato-canale-whatsapp-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T11:50:00+00:00"
-    },
-    {
-      "titolo": "Pirateria, Elisa Giomi contesta i dati su Piracy Shield: i numeri non bastano",
-      "descrizione": "I numeri di Piracy Shield vanno letti con più attenzione prima di essere usati come prova di efficacia",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662718/pirateria-elisa-giomi-contesta-dati-piracy-shield/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T11:40:00+00:00"
-    },
-    {
-      "titolo": "Starfall di SpaceX: cos’è la capsula per la produzione nello spazio",
-      "descrizione": "SpaceX ha appena lanciato un razzo Falcon 9 per la dimostrazione del suo nuovo progetto Starfall. Ecco di cosa si tratta. The post Starfall di SpaceX: cos’è la capsula per la produzione nello spazio appeared first on Pun",
-      "link": "https://www.punto-informatico.it/starfall-spacex-cose-capsula-produzione-spazio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T11:31:40+00:00"
-    },
-    {
-      "titolo": "Davvero fare il pieno con questo caldo è pericoloso? Facciamo chiarezza",
-      "descrizione": "Benzina e diesel tendono a espandersi con il calore, ma l'unico rischio effettivo dipende dal modo in cui si agisce quando si fa il pieno",
-      "link": "https://www.hdmotori.it/pieno-benzina-pericoli-caldo/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T11:30:55+00:00"
-    },
-    {
-      "titolo": "Fitbit Air, c'è un'app italiana che porta gratis le funzioni avanzate",
-      "descrizione": "Google Health Premium aggiunge funzioni AI a Fitbit Air, ma OpenFit propone un'alternativa open source che permette di consultare e analizzare i dati del wearable senza un abbonamento mensile",
-      "link": "https://www.hdblog.it/indossabili/articoli/n662714/fitbit-air-non-pagare-abbonamento-openfit/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T11:10:00+00:00"
-    },
-    {
-      "titolo": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
-      "descrizione": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
-      "link": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T11:00:00+00:00"
-    },
-    {
-      "titolo": "Sconti Huawei: la Summer Wave taglia il prezzo delle FreeClip 2",
-      "descrizione": "Huawei FreeClip 2 in offerta a 149€ con codice A20CSFL2 per la Summer Wave. Leggi tutti i dettagli della promo dedicata agli auricolari open-ear. The post Sconti Huawei: la Summer Wave taglia il prezzo delle FreeClip 2 a",
-      "link": "https://www.punto-informatico.it/sconti-huawei-la-summer-wave-taglia-il-prezzo-delle-freeclip-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T10:31:37+00:00"
-    },
-    {
-      "titolo": "Microsoft aumenta i prezzi delle console XBOX (di nuovo)",
-      "descrizione": "Microsoft ha annunciato un nuovo incremento dei prezzi per le console XBOX Series S e Series X negli Stati Uniti (ma riguarderà tutto il mondo). The post Microsoft aumenta i prezzi delle console XBOX (di nuovo) appeared",
-      "link": "https://www.punto-informatico.it/microsoft-aumenta-prezzi-console-xbox/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T10:06:58+00:00"
-    },
-    {
-      "titolo": "Aumenti Microsoft 365: autorità antitrust avvia indagine",
-      "descrizione": "L'autorità antitrust ha avviato un'indagine nei confronti di Microsoft per non aver correttamente informato i consumatori sull'aumento dei prezzi. The post Aumenti Microsoft 365: autorità antitrust avvia indagine appeare",
-      "link": "https://www.punto-informatico.it/aumenti-microsoft-365-autorita-antitrust-avvia-indagine/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T08:48:23+00:00"
-    },
-    {
-      "titolo": "Short di YouTube copia TikTok con schermo pulito e velocità 2x",
-      "descrizione": "Sugli Short di YouTube arrivano la modalità schermo pulito, il cuore al posto del pollice e la velocità 2x, funzionalità che TikTok ha da anni. The post Short di YouTube copia TikTok con schermo pulito e velocità 2x appe",
-      "link": "https://www.punto-informatico.it/short-youtube-copia-tiktok-schermo-pulito-velocita-2x/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T07:13:27+00:00"
-    },
-    {
-      "titolo": "GLM-5.2: il modello open più potente è cinese e preoccupa l’Occidente",
-      "descrizione": "Un nuovo modello cinese impensierisce la supremazia americana (e occidentale) sull’intelligenza artificiale.",
-      "link": "https://www.ilsole24ore.com/art/glm-52-modello-open-piu-potente-e-cinese-e-preoccupa-l-occidente-AI4u1qsD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-26T05:37:03+00:00"
-    },
-    {
-      "titolo": "The Bear 5, la stagione finale è disponibile in streaming su Disney+",
-      "descrizione": "Dal 26 giugno è disponibile in esclusiva sulla piattaforma streaming Disney+ la quinta e ultima stagione di The Bear. The post The Bear 5, la stagione finale è disponibile in streaming su Disney+ appeared first on Punto",
-      "link": "https://www.punto-informatico.it/the-bear-5-la-stagione-finale-e-disponibile-in-streaming-su-disney/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T05:02:00+00:00"
     }
   ]
 }
