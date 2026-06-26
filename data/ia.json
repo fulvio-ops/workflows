@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-25T20:23:05.360631+00:00",
+  "last_updated": "2026-06-26T04:41:02.732312+00:00",
   "items": [
     {
-      "titolo": "Scalpers circle AMD's Ryzen 7 5800X3D 10th Anniversary Edition, asking for $600 or more — re-released CPU sees inconsistent inventory on release day",
-      "descrizione": "Scalpers are trying to capitalize on the release of the Ryzen 7 5800X3D 10th Anniversary Edition, asking nearly double the CPU's suggested retail price.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/scalpers-circle-amds-ryzen-7-5800x3d-10th-anniversary-edition-asking-for-usd600-or-more-re-released-cpu-sees-inconsistent-inventory-on-release-day",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-25T16:58:05+00:00",
+      "titolo": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "descrizione": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T00:49:13+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model — violations occurred from April to June 2026",
-      "descrizione": "AI tech giant Alibaba, often considered as the Amazon of China, is being accused by Anthropic for using Claude to train its AI models. The American AI startup claimed that it traced over 25,000 accounts to operators that",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-25T13:26:04+00:00",
+      "titolo": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "descrizione": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "fonte": "WIRED",
+      "data": "2026-06-26T00:49:13+00:00",
       "modello": "claude"
     }
   ]
