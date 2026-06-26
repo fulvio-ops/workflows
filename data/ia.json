@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-06-26T04:41:02.732312+00:00",
+  "last_updated": "2026-06-26T09:52:15.767365+00:00",
   "items": [
     {
-      "titolo": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-      "descrizione": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T00:49:13+00:00",
+      "titolo": "GPT-5.6 in anteprima limitata, il governo approverà l’accesso",
+      "descrizione": "GPT-5.6 non sarà disponibile al pubblico subito, il governo approverà l'accesso caso per caso. Anthropic invece ha dovuto ritirare Fable. The post GPT-5.6 in anteprima limitata, il governo approverà l’accesso appeared fi",
+      "link": "https://www.punto-informatico.it/gpt-5-6-openai-anteprima-limitata-governo-approvera-accesso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T07:59:06+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3.5 Flash permette di controllare il computer",
-      "descrizione": "Google ha aggiunto la funzionalità Computer Use al modello Gemini 3.5 Flash, quindi è possibile creare agenti AI che controllano browser e interfacce. The post Gemini 3.5 Flash permette di controllare il computer appeare",
-      "link": "https://www.punto-informatico.it/gemini-3-5-flash-permette-controllare-computer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T08:57:49+00:00",
+      "titolo": "Microsoft 365 nel mirino dell'Antitrust per i rincari degli abbonamenti",
+      "descrizione": "L'AGCM indaga sugli aumenti di Microsoft 365, contestando la scarsa chiarezza delle comunicazioni relative all'integrazione di Copilot e Designer e al passaggio automatico a un piano più costoso",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662699/microsoft-365-aumenti-agcm-istruttoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T09:45:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "A24 Knows You’re Mad About the Google AI Collab",
+      "descrizione": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
+      "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+      "fonte": "WIRED",
+      "data": "2026-06-24T21:05:51+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-      "descrizione": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T00:49:13+00:00",
+      "titolo": "GPT-5.6 in anteprima limitata, il governo approverà l’accesso",
+      "descrizione": "GPT-5.6 non sarà disponibile al pubblico subito, il governo approverà l'accesso caso per caso. Anthropic invece ha dovuto ritirare Fable. The post GPT-5.6 in anteprima limitata, il governo approverà l’accesso appeared fi",
+      "link": "https://www.punto-informatico.it/gpt-5-6-openai-anteprima-limitata-governo-approvera-accesso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T07:59:06+00:00",
       "modello": "claude"
     }
   ]

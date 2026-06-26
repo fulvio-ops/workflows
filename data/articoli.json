@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-06-26T04:40:58.126436+00:00",
+  "last_updated": "2026-06-26T09:52:11.324380+00:00",
   "items": [
+    {
+      "titolo": "Trenitalia, accesso non autorizzato ai dati dei biglietti: avvisati gli utenti coinvolti",
+      "descrizione": "Un incidente di sicurezza informatica causato da soggetti esterni non identificati",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662703/trenitalia-dati-dei-biglietti-hackerati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T09:50:00+00:00"
+    },
+    {
+      "titolo": "Microsoft 365 nel mirino dell'Antitrust per i rincari degli abbonamenti",
+      "descrizione": "L'AGCM indaga sugli aumenti di Microsoft 365, contestando la scarsa chiarezza delle comunicazioni relative all'integrazione di Copilot e Designer e al passaggio automatico a un piano più costoso",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662699/microsoft-365-aumenti-agcm-istruttoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T09:45:00+00:00"
+    },
+    {
+      "titolo": "Polymarket hackerato, wallet crypto di alcuni utenti svuotati",
+      "descrizione": "La piattaforma promette rimborsi completi alle vittime. Le stime sono di 3 milioni di dollari rubati.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662701/polymarket-hackerata-wallet-crypto-rubati/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T09:35:00+00:00"
+    },
+    {
+      "titolo": "Ondata di caldo anomala, il Nobel Valentini è certo: siamo noi i responsabili",
+      "descrizione": "Groenlandia a rischio se la temperatura media aumenterà di 3,5°C.",
+      "link": "https://www.hdblog.it/green/articoli/n662689/caldo-clima-europa-italia-futuro-responsabilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T09:20:00+00:00"
+    },
+    {
+      "titolo": "Apple aumenta i prezzi e i rincari spaventano anche Wall Street",
+      "descrizione": "Apple ha aumentato i prezzi di Mac, iPad e altri dispositivi anche in Italia. I rincari colpiscono soprattutto i Mac di fascia alta, con aumenti fino a 1.300 euro, mentre il titolo perde il 6% a Wall...",
+      "link": "https://www.hdblog.it/apple/articoli/n662695/apple-aumenti-calo-in-borsa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T08:55:00+00:00"
+    },
+    {
+      "titolo": "Aumenti Microsoft 365: autorità antitrust avvia indagine",
+      "descrizione": "L'autorità antitrust ha avviato un'indagine nei confronti di Microsoft per non aver correttamente informato i consumatori sull'aumento dei prezzi. The post Aumenti Microsoft 365: autorità antitrust avvia indagine appeare",
+      "link": "https://www.punto-informatico.it/aumenti-microsoft-365-autorita-antitrust-avvia-indagine/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T08:48:23+00:00"
+    },
+    {
+      "titolo": "TerraMaster F4-425 Pro: NAS con TOS 7 che cambia il modo di usare Docker, Raspberry Pi e AI",
+      "descrizione": "TerraMaster F4-425 Pro è un NAS a 4 vani pensato per chi utilizza Docker, Raspberry Pi, Plex, Immich e applicazioni self-hosted.",
+      "link": "https://www.hdblog.it/hardware/recensioni/n662107/nas-terramaster-f4-425-pro-recensione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T08:31:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi lancia un bollitore da 5 litri con controllo smart e preset dedicati | Prezzo",
+      "descrizione": "Xiaomi ha presentato il nuovo Mijia Smart Electric Kettle Pro 5L, un bollitore smart con serbatoio da 5 litri, controllo tramite app, temperatura regolabile al grado e sistema di riscaldamento...",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n662688/xiaomi-bollitore-smart-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T08:25:00+00:00"
+    },
+    {
+      "titolo": "Oppo Reno 16 Series esce finalmente dai confini cinesi: ecco i dettagli",
+      "descrizione": "Tra pochi giorni anche in Italia.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662687/oppo-reno-16-pro-5g-f-specifiche-prezzi-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T08:15:00+00:00"
+    },
+    {
+      "titolo": "Casio lancia il G-Shock Pokémon: il Poké Ball è già un oggetto da collezione",
+      "descrizione": "Casio presenta il G-Shock Pokémon con 30 Pokémon e custodia Poké Ball.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n662680/casio-g-shock-pokemon-30th-anniversary/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T08:05:00+00:00"
+    },
+    {
+      "titolo": "La Grande Muraglia Verde: la Cina pianta 100 miliardi di alberi per fermare il deserto",
+      "descrizione": "Il progetto terminerà nel 2050.",
+      "link": "https://www.hdblog.it/green/articoli/n662670/grande-muraglia-verde-alberi-clima/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T07:55:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 18 Pro, ecco la possibile scheda tecnica di massima",
+      "descrizione": "2x200 MP, privacy display, 7.000 mAh, 6,4\". Una vera bomba compatta.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662678/xiaomi-18-pro-scheda-tecnica-fotocamera-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T07:35:00+00:00"
+    },
+    {
+      "titolo": "Synology DS425+: più di un NAS, cloud privato per professionisti e aziende",
+      "descrizione": "Synology DS425+ è un NAS a 4 vani che combina cloud privato, backup avanzato, collaborazione e videosorveglianza professionale. Grazie alla rete 2,5 GbE, al supporto NVMe e all'ecosistema DSM, offre...",
+      "link": "https://www.hdblog.it/hardware/articoli/n662448/synology-ds425-nas-cloud-privato/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T07:30:00+00:00"
+    },
+    {
+      "titolo": "OpenAI rinvia GPT-5.6: il governo USA controllerà gli accessi",
+      "descrizione": "OpenAI rinvia GPT-5.6 con accesso limitato e controlli del governo USA.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662671/openai-gpt-5-6-rinvio-accesso-limitato/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-26T07:25:00+00:00"
+    },
+    {
+      "titolo": "Short di YouTube copia TikTok con schermo pulito e velocità 2x",
+      "descrizione": "Sugli Short di YouTube arrivano la modalità schermo pulito, il cuore al posto del pollice e la velocità 2x, funzionalità che TikTok ha da anni. The post Short di YouTube copia TikTok con schermo pulito e velocità 2x appe",
+      "link": "https://www.punto-informatico.it/short-youtube-copia-tiktok-schermo-pulito-velocita-2x/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T07:13:27+00:00"
+    },
+    {
+      "titolo": "GLM-5.2: il modello open più potente è cinese e preoccupa l’Occidente",
+      "descrizione": "Un nuovo modello cinese impensierisce la supremazia americana (e occidentale) sull’intelligenza artificiale.",
+      "link": "https://www.ilsole24ore.com/art/glm-52-modello-open-piu-potente-e-cinese-e-preoccupa-l-occidente-AI4u1qsD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-26T05:37:03+00:00"
+    },
+    {
+      "titolo": "The Bear 5, la stagione finale è disponibile in streaming su Disney+",
+      "descrizione": "Dal 26 giugno è disponibile in esclusiva sulla piattaforma streaming Disney+ la quinta e ultima stagione di The Bear. The post The Bear 5, la stagione finale è disponibile in streaming su Disney+ appeared first on Punto",
+      "link": "https://www.punto-informatico.it/the-bear-5-la-stagione-finale-e-disponibile-in-streaming-su-disney/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T05:02:00+00:00"
+    },
+    {
+      "titolo": "5 smart tv sotto i 400€ in offerta su eBay",
+      "descrizione": "Abbiamo selezionato 5 smart tv in offerta speciale su eBay sotto i 400€ che offrono immagini di alta qualità e un'immersività eccellente. The post 5 smart tv sotto i 400€ in offerta su eBay appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/5-smart-tv-sotto-i-400e-in-offerta-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-26T05:00:12+00:00"
+    },
     {
       "titolo": "Ultimo giorno per approfittare del Prime Day",
       "descrizione": "Approfitta dell'ultimo giorno per confermare le migliori offerte al miglior prezzo del Prime Day di Amazon senza rinunciare a nulla. The post Ultimo giorno per approfittare del Prime Day appeared first on Punto Informati",
@@ -23,53 +149,11 @@
       "data": "2026-06-25T19:27:07+00:00"
     },
     {
-      "titolo": "GTA 6, partiti i preordini in Italia per PS5 e Xbox: prezzi, edizioni e link",
-      "descrizione": "Si parte da 79,99 euro per la versione standard e si sale a 99 per quella Ultimate.",
-      "link": "https://www.hdblog.it/games/articoli/n662537/gta-6-preordini-italia-playstation-xbox/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T19:00:00+00:00"
-    },
-    {
       "titolo": "These are the 20+ best Prime Day phone deals I'd actually buy for myself",
       "descrizione": "Prime Day 2026 has officially started. Save hundreds right now on smartphones, including the Google Pixel 10 Pro and Samsung Galaxy S26.",
       "link": "https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/",
       "fonte": "Latest news",
       "data": "2026-06-25T18:40:00+00:00"
-    },
-    {
-      "titolo": "Best Buy is still selling the Ninja Slushi for its lowest price ever - and I recommend buying now",
-      "descrizione": "The popular Ninja Slushi is officially sold out at Amazon and Walmart, but it's still on sale (and in stock) for its best price ever at Best Buy.",
-      "link": "https://www.zdnet.com/article/ninja-slushi-amazon-prime-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-25T18:16:59+00:00"
-    },
-    {
-      "titolo": "Porsche prova a scacciare la crisi con un nuovo piano per il 2035",
-      "descrizione": "Porsche ha avuto l’ennesimo crollo dei margini, scesi all'1,1%, e i vertici del marchio tedesco hanno pronto un nuovo programma anti-crisi",
-      "link": "https://www.hdmotori.it/porsche-crisi-nuovo-piano-2035/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T18:00:10+00:00"
-    },
-    {
-      "titolo": "Rivoluzione ADUO in F1, asso nella manica per Ferrari",
-      "descrizione": "Per tornare seriamente in lizza per il Mondiale la Ferrari ha bisogno di maggiore potenza e la nuova PU farà il suo esordio in Austria",
-      "link": "https://www.hdmotori.it/rivoluzione-aduo-f1-ferrari/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T17:30:43+00:00"
-    },
-    {
-      "titolo": "Disney, 50 milioni di dollari per patteggiare una causa sullo streaming TV",
-      "descrizione": "Disney era stata accusata di aver costretto piattaforme come YouTube TV a mantenere prezzi degli abbonamenti alti abusando della sua posizione dominante.",
-      "link": "https://www.hdblog.it/android/articoli/n662646/disney-50-milioni-class-action-youtube-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T17:25:00+00:00"
-    },
-    {
-      "titolo": "Creato un materiale che trasforma la luce solare in raggi UV",
-      "descrizione": "Nuovo materiale trasforma la luce solare in UV con un'efficienza record allo stato solido.",
-      "link": "https://www.hdblog.it/green/articoli/n662566/materiale-converte-luce-solare-raggi-uv/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T17:15:00+00:00"
     },
     {
       "titolo": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games — says move is ‘irresponsible of Valve’",
@@ -79,95 +163,11 @@
       "data": "2026-06-25T17:05:41+00:00"
     },
     {
-      "titolo": "Allarme competitività in Germania: Mercedes vuole tornare alle 40 ore",
-      "descrizione": "Il presidente del consiglio di sorveglianza di Mercedes propone il ritorno alle 40 ore settimanali, a parità di stipendio, per aumentare la competitività del sistema-Paese.",
-      "link": "https://www.hdmotori.it/competitivita-germania-mercedes-40-ore/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T17:00:46+00:00"
-    },
-    {
-      "titolo": "Lamborghini si prepara a svelare la Urus SE Performante: prima anticipazione",
-      "descrizione": "Lamborghini ha rilasciato un teaser su Instagram in cui svela il posteriore di quella che dovrebbe essere la futura Urus SE Performante",
-      "link": "https://www.hdmotori.it/lamborghini-urus-se-performante-teaser/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T16:30:03+00:00"
-    },
-    {
       "titolo": "AMD Ryzen 7 5800X3D re-review: Maxing out DDR4’s gaming potential",
       "descrizione": "AMD has re-released the Ryzen 7 5800X3D to provide some relief from high DDR5 prices, so we’re re-reviewing the CPU to see how it stacks up to current options around the same price.",
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-25T16:25:37+00:00"
-    },
-    {
-      "titolo": "Riot Vanguard finally drops its controversial always-on requirement for anti-cheat — new on-demand mode requires a strict Windows 11 security stack",
-      "descrizione": "Riot Games has announced that it plans to let players stop its Vanguard anti-cheat from loading on startup.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/riot-vanguard-adds-an-on-demand-mode-that-stops-anti-cheat-loading-at-boot-on-secured-windows-11-pcs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-25T16:23:48+00:00"
-    },
-    {
-      "titolo": "Russia, arriva il sottomarino Murmansk: missili ipersonici e potenza nucleare",
-      "descrizione": "La Russia costruisce il nuovo Murmansk, nono sottomarino nucleare Yasen-M.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662414/russia-sottomarino-nucleare-murmansk-yasen-m/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T16:20:00+00:00"
-    },
-    {
-      "titolo": "I vecchi server valgono una fortuna: ecco il tesoro nascosto nei rifiuti elettronici",
-      "descrizione": "Vecchi server e hard disk possono fornire terre rare per AI, energia e difesa.",
-      "link": "https://www.hdblog.it/green/articoli/n662384/vecchi-server-terre-rare-recupero-rifiuti-elettron/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-25T16:05:00+00:00"
-    },
-    {
-      "titolo": "Euro digitale: primo via libera dal Parlamento europeo",
-      "descrizione": "La commissione ECON del Parlamento europeo ha approvato il regolamento che istituisce l'euro digitale (dovrebbe essere emesso a partire dal 2029). The post Euro digitale: primo via libera dal Parlamento europeo appeared",
-      "link": "https://www.punto-informatico.it/fintech/euro-digitale-primo-via-libera-parlamento-europeo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T15:31:47+00:00"
-    },
-    {
-      "titolo": "La Apple Academy di Napoli compie 10 anni: «Hub di imprenditorialità»",
-      "descrizione": "«Sembra ieri quando mi trovai qui con i rappresentanti di Apple. Eravamo vicini alle rovine industriali e qualcuno aveva una faccia che ricordava “L’Urlo” di Munch. Poi li portammo nel...",
-      "link": "https://www.ilsole24ore.com/art/la-apple-academy-napoli-compie-10-anni-non-solo-coding-hub-startup-AIzHt0rD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-25T15:24:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A27 5G è ufficiale con display da 120 Hz e AI",
-      "descrizione": "Il nuovo Samsung Galaxy A27 5G punta sul rapporto qualità-prezzo con display Infinity-O a 120 Hz, AI integrata e Android 16 al lancio. The post Samsung Galaxy A27 5G è ufficiale con display da 120 Hz e AI appeared first",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-a27-5g-ufficiale-con-display-120-hz-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T14:57:07+00:00"
-    },
-    {
-      "titolo": "Smart city sempre più attrattive ma accrescono le disuguglianze",
-      "descrizione": "Così attrattive, eppure così difficili per lavorarci, studiarci, viverci. Le smart city stanno vivendo il paradosso dell’innovazione. Investire sul tech attrae più giovani, ma contemporaneamente accresce le disuguaglianz",
-      "link": "https://www.ilsole24ore.com/art/smart-city-sempre-piu-attrattive-ma-accrescono-disuguglianze-AIeSSNgD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-25T14:55:14+00:00"
-    },
-    {
-      "titolo": "Apple aumenta i prezzi di iPad e Mac (iPhone esclusi)",
-      "descrizione": "A causa dell'incremento dei costi di memoria e storage, Apple ha aumentato i prezzi di iPad, Mac e altri prodotti (per adesso sono esclusi gli iPhone). The post Apple aumenta i prezzi di iPad e Mac (iPhone esclusi) appea",
-      "link": "https://www.punto-informatico.it/apple-aumenta-prezzi-ipad-mac-iphone-esclusi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-25T13:55:14+00:00"
-    },
-    {
-      "titolo": "Economia sociale, ridiamo centralità al valore intangibile",
-      "descrizione": "Le organizzazioni del sociale emettono i bandi; le fondazioni e la pubblica amministrazione rispondono, candidandosi come beneficiari e competendo tra loro. È un mondo alla rovescia, nel quale le fondazioni...",
-      "link": "https://www.ilsole24ore.com/art/economia-sociale-ridiamo-centralita-valore-intangibile-AIfna4lD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-25T13:38:37+00:00"
-    },
-    {
-      "titolo": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
-      "descrizione": "Action cameras are perfect for capturing travel adventures, recording social media vlogs, and more. Make use of these great Prime Day deals.",
-      "link": "https://www.wired.com/story/prime-day-camera-deals-06-25-2026/",
-      "fonte": "WIRED",
-      "data": "2026-06-25T13:30:43+00:00"
     }
   ]
 }
