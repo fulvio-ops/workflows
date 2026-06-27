@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-27T09:05:44.017665+00:00",
+  "last_updated": "2026-06-27T14:07:21.663951+00:00",
   "items": [
     {
-      "titolo": "Google Home Speaker è qui! Unboxing e prime impressioni | VIDEO",
-      "descrizione": "Rapido unboxing e prime impressioni sul nuovo speaker smart del colosso di Mountain View.",
-      "link": "https://www.hdblog.it/google/articoli/n662712/google-home-speaker-primo-contatto-anteprima-video/",
+      "titolo": "SpaceX punta su Mesh Optical dopo il via libera dell'FTC",
+      "descrizione": "FTC conclude l'esame rapido sulla possibile acquisizione di Mesh da parte di Musk.",
+      "link": "https://www.hdblog.it/mercato/articoli/n662787/musk-acquisizione-mesh-optical/",
       "fonte": "HDblog.it",
-      "data": "2026-06-27T08:31:00+00:00",
+      "data": "2026-06-27T09:55:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic riattiva Mythos 5: via libera del governo USA",
-      "descrizione": "Gli USA autorizzano il ritorno di Mythos 5 per oltre 100 enti strategici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662788/anthropic-mythos-5-via-libera-governo-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T08:15:00+00:00",
+      "titolo": "Ban revocato: Claude Mythos 5 di nuovo disponibile",
+      "descrizione": "Il governo ha revocato il ban per Claude Mythos 5 (non per Claude Fable 5), ma l'accesso è consentito solo a circa 100 istituzioni statunitensi. The post Ban revocato: Claude Mythos 5 di nuovo disponibile appeared first",
+      "link": "https://www.punto-informatico.it/ban-revocato-claude-mythos-5-disponibile/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-27T10:49:49+00:00",
       "modello": "claude"
     }
   ]

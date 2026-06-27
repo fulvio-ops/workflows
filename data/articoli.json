@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-06-27T09:05:39.818339+00:00",
+  "last_updated": "2026-06-27T14:07:15.238538+00:00",
   "items": [
+    {
+      "titolo": "Sony is still selling last year's flagship OLED TV for $600 off - and I highly recommend it",
+      "descrizione": "Sony's Bravia 8 II might be a generation behind, but it still offers plenty of reasons to buy - especially at this price.",
+      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal-amazon-prime-day-2026/",
+      "fonte": "Latest news",
+      "data": "2026-06-27T13:56:05+00:00"
+    },
+    {
+      "titolo": "Windows 11 26H2: novità per la barra delle applicazioni",
+      "descrizione": "Microsoft ha rilasciato una nuova versione preliminare di Windows 11 26H2 che consente di cambiare la dimensione della barra delle applicazioni. The post Windows 11 26H2: novità per la barra delle applicazioni appeared f",
+      "link": "https://www.punto-informatico.it/windows-11-26h2-novita-barra-delle-applicazioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-27T13:30:30+00:00"
+    },
+    {
+      "titolo": "USA puntano al primo computer quantistico tollerante agli errori entro il 2028",
+      "descrizione": "Gli USA lanciano Quantum Genesis per realizzare un computer quantistico entro il 2028.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662736/usa-quantum-genesis-computer-quantistico-2028/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T11:55:00+00:00"
+    },
+    {
+      "titolo": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
+      "descrizione": "It’s not often you can score discounts from the outdoor-coded Canadian company that makes understated and stylish performance clothing.",
+      "link": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/",
+      "fonte": "WIRED",
+      "data": "2026-06-27T11:01:00+00:00"
+    },
+    {
+      "titolo": "Modded Steam Controller can automatically charge itself like a robot vacuum — enthusiast creates GitHub program that uses the vibration motor to walk it back to its docking station",
+      "descrizione": "Ray Foss built this program that uses computer vision to let your Steam Controller slide back towards its charging puck by just using its built-in haptic motors. You can also try it for yourself by visiting the web app a",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modded-steam-controller-can-automatically-charge-itself-like-a-robot-vacuum-enthusiast-creates-github-program-that-uses-the-vibration-motor-to-walk-it-back-to-its-docking-station",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-27T11:00:00+00:00"
+    },
+    {
+      "titolo": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
+      "descrizione": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
+      "fonte": "WIRED",
+      "data": "2026-06-27T10:30:00+00:00"
+    },
+    {
+      "titolo": "RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware — other key vintage components included the Core 2 Q6600 and ATI Radeon HD 4650 AGP",
+      "descrizione": "Enthusiast demos Microsoft’s newest OS running 'completely stable' on a Core 2 Quad Q6600, using a DDR1 motherboard, supported by an ATi Radeon HD 4650 AGP graphics card.",
+      "link": "https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-27T10:00:00+00:00"
+    },
+    {
+      "titolo": "SpaceX punta su Mesh Optical dopo il via libera dell'FTC",
+      "descrizione": "FTC conclude l'esame rapido sulla possibile acquisizione di Mesh da parte di Musk.",
+      "link": "https://www.hdblog.it/mercato/articoli/n662787/musk-acquisizione-mesh-optical/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T09:55:00+00:00"
+    },
+    {
+      "titolo": "Più spazio, meno ingombri: i nuovi frigoriferi LG arrivano in Italia",
+      "descrizione": "LG amplia la famiglia Fit & Max con quattro nuovi frigoriferi Multidoor Slim progettati per offrire fino a 580 litri di capacità in un formato più compatto, con funzioni AI e gestione tramite app...",
+      "link": "https://www.hdblog.it/lg/articoli/n662805/lg-fit-max-nuovi-modelli-multidoor-slim-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T09:40:00+00:00"
+    },
+    {
+      "titolo": "OpenAI annuncia GPT-5.6: rilascio limitato dal governo USA",
+      "descrizione": "I nuovi modelli Sol, Terra e Luna della serie GPT-5.6 di OpenAI verranno rilasciati solo a partner fidati con l'approvazione del governo statunitense. The post OpenAI annuncia GPT-5.6: rilascio limitato dal governo USA a",
+      "link": "https://www.punto-informatico.it/openai-annuncia-gpt-5-6-rilascio-limitato-governo-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-27T09:31:43+00:00"
+    },
     {
       "titolo": "Tesla investe 5 miliardi: maxi rete di batterie da 100 GWh in Europa",
       "descrizione": "Tesla e NatPower avviano un piano da 5 miliardi per l'accumulo energetico in Europa.",
       "link": "https://www.hdblog.it/green/articoli/n662675/tesla-natpower-batterie-europa-100gwh/",
       "fonte": "HDblog.it",
       "data": "2026-06-27T08:55:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S25 FE (256 GB) in promo su Amazon: è il mid-range Samsung da scegliere oggi",
+      "descrizione": "Il Samsung Galaxy S25 FE da 256 GB è in offerta su Amazon con un ottimo prezzo: è una delle opzioni giuste per la fascia media.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n662803/samsung-galaxy-s25-fe-256-gb-amazon-fine-giu26/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T08:35:00+00:00"
     },
     {
       "titolo": "Anthropic riattiva Mythos 5: via libera del governo USA",
@@ -44,13 +121,6 @@
       "data": "2026-06-27T06:30:00+00:00"
     },
     {
-      "titolo": "Walmart punta sul nucleare: maxi accordo da 30 anni per energia pulita",
-      "descrizione": "Walmart sceglie il nucleare con un accordo da 30 anni per energia senza emissioni.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662615/walmart-accordo-energia-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T06:15:00+00:00"
-    },
-    {
       "titolo": "Le Cialde e Capsule più buone di Caffè Borbone in promo su eBay",
       "descrizione": "Oggi puoi bere un buon espresso come quello del bar direttamente a casa tua grazie alla cialde e capsule Caffè Borbone in promo su eBay. The post Le Cialde e Capsule più buone di Caffè Borbone in promo su eBay appeared f",
       "link": "https://www.punto-informatico.it/le-cialde-e-capsule-piu-buone-di-caffe-borbone-in-promo-su-ebay/",
@@ -72,13 +142,6 @@
       "data": "2026-06-26T21:31:40+00:00"
     },
     {
-      "titolo": "Digital sovereignty at the UN: Inside the global push to replace US cloud giants with open-source tech",
-      "descrizione": "Digital sovereignty emerged as the defining theme of this year's UN Open Source Week, with many arguing that open source is now core critical infrastructure and that proprietary American companies can't be trusted.",
-      "link": "https://www.zdnet.com/article/digital-sovereignty-un-global-push-to-replace-us-cloud-giants-with-open-source-tech/",
-      "fonte": "Latest news",
-      "data": "2026-06-26T20:34:00+00:00"
-    },
-    {
       "titolo": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
       "descrizione": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
       "link": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
@@ -93,34 +156,6 @@
       "data": "2026-06-26T17:57:34+00:00"
     },
     {
-      "titolo": "Addio ai materiali rari: i nanotubi di silicio trasformano il calore in elettricità",
-      "descrizione": "Nuovi nanotubi di silicio recuperano il calore disperso trasformandolo in elettricità.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662611/nanotubi-silicio-recupero-calore-elettricita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T17:15:00+00:00"
-    },
-    {
-      "titolo": "Moto in corsia d'emergenza, la svolta in Spagna ma ci sono nuove regole",
-      "descrizione": "Nuova riforma stradale in Spagna: sì alle moto in corsia d’emergenza, ma scatta lo stop assoluto a infradito e sandali alla guida. Multe da 200 euro per i trasgressori",
-      "link": "https://www.hdmotori.it/spagna-moto-corsia-emergenza-nuovo-regolamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T17:00:24+00:00"
-    },
-    {
-      "titolo": "Razer presenta la sua prima sedia gaming con LED RGB: ecco Soma Chroma",
-      "descrizione": "Costosetta, ma la qualità sembra elevata.",
-      "link": "https://www.hdblog.it/hardware/articoli/n662769/razer-soma-chroma-sedia-gaming-led-rgb/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T16:55:00+00:00"
-    },
-    {
-      "titolo": "CATL presenta TENER Sodium, la prima batteria al sodio da 30 MWh testata sul campo",
-      "descrizione": "CATL presenta la batteria al sodio da 30 MWh pronta per l'accumulo energetico.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662613/catl-tener-sodium-batteria-30mwh/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T16:50:00+00:00"
-    },
-    {
       "titolo": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
       "descrizione": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.",
       "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/google-wallet-tracciare-pacchi-tempo-reale/",
       "fonte": "Punto Informatico",
       "data": "2026-06-26T16:16:20+00:00"
-    },
-    {
-      "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
-      "descrizione": "Immaginate di poter conoscere l’andamento di un’azienda o analizzare un intero settore semplicemente dialogando con un chatbot. È questo l’obiettivo di Syrto AI , un nuovo strumento sviluppato dalla...",
-      "link": "https://www.ilsole24ore.com/art/syrto-ai-financial-intelligence-entra-azienda-microsoft-copilot-AIdgwRtD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-26T16:07:10+00:00"
-    },
-    {
-      "titolo": "The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount",
-      "descrizione": "AMD's re-released Ryzen 7 5800X3D sold out almost immediately when it launched, but if you're tired of waiting, you can easily upgrade to a DDR5 platform with these Prime Day CPUs deals, all of which are cheaper than the",
-      "link": "https://www.tomshardware.com/pc-components/the-ryzen-7-5800x3d-is-sold-out-but-these-prime-day-cpus-with-ddr5-are-cheaper-offset-the-cost-of-a-ddr5-upgrade-with-a-cpu-discount",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-26T15:54:29+00:00"
-    },
-    {
-      "titolo": "IBM realizza il primo chip con tecnologia a 0,7 nanometri",
-      "descrizione": "IBM ha svelato il primo chip realizzato con tecnologia a 0,7 nanometri (7 angstrom) sfruttando l'architettura nanostack (versione 3D dei nanosheet). The post IBM realizza il primo chip con tecnologia a 0,7 nanometri appe",
-      "link": "https://www.punto-informatico.it/ibm-realizza-primo-chip-tecnologia-07-nanometri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T15:50:19+00:00"
-    },
-    {
-      "titolo": "Get $145 Off the Best Mesh Router This Prime Day 2026",
-      "descrizione": "Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.",
-      "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T15:18:06+00:00"
-    },
-    {
-      "titolo": "Nella capsula Starfall di SpaceX c’era lievito di birra",
-      "descrizione": "All'interno della capsula Starfall di SpaceX, lanciata il 23 giugno, c'erano lieviti di birra e semi di piante (tra cui lupini blu) di Starbase Brewing. The post Nella capsula Starfall di SpaceX c’era lievito di birra ap",
-      "link": "https://www.punto-informatico.it/capsula-starfall-spacex-lievito-birra/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-26T14:29:29+00:00"
     }
   ]
 }
