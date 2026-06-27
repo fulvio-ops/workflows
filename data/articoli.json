@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-06-27T04:17:22.215116+00:00",
+  "last_updated": "2026-06-27T09:05:39.818339+00:00",
   "items": [
+    {
+      "titolo": "Tesla investe 5 miliardi: maxi rete di batterie da 100 GWh in Europa",
+      "descrizione": "Tesla e NatPower avviano un piano da 5 miliardi per l'accumulo energetico in Europa.",
+      "link": "https://www.hdblog.it/green/articoli/n662675/tesla-natpower-batterie-europa-100gwh/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T08:55:00+00:00"
+    },
+    {
+      "titolo": "Anthropic riattiva Mythos 5: via libera del governo USA",
+      "descrizione": "Gli USA autorizzano il ritorno di Mythos 5 per oltre 100 enti strategici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662788/anthropic-mythos-5-via-libera-governo-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T08:15:00+00:00"
+    },
+    {
+      "titolo": "Redmi Buds 8 in offerta su Amazon a 49,99€ con 2 mesi di Spotify Premium gratis",
+      "descrizione": "Le Xiaomi Redmi Buds 8 sono in offerta su Amazon e costano meno di 50 euro con anche 2 mesi di Spotify Premium gratis.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n662798/redmi-buds-8-offerta-amazon-fine-giugno-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T07:45:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen fa cassa per finanziare l’elettrico: ceduto il 51% di Everllence",
+      "descrizione": "Operazione da 7,4 miliardi di euro per finanziare la transizione elettrica evitando il licenziamento di 16.000 dipendenti.",
+      "link": "https://www.hdmotori.it/volkswagen-ceduto-51-everllence/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T07:30:48+00:00"
+    },
+    {
+      "titolo": "OpenAI presenta GPT-5.6 con i tre modelli Sol, Terra e Luna",
+      "descrizione": "OpenAI avvia l'anteprima di GPT-5.6 con tre modelli e nuove misure di sicurezza.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662789/gpt-5-6-openai-sol-terra-luna/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T07:15:00+00:00"
+    },
+    {
+      "titolo": "Dash cam GKU: 4K fronte e retro per viaggiare con più controllo e più tutela",
+      "descrizione": "GKU D600 e D600 Pro registrano fronte e retro dell’auto in 4K, con Wi-Fi, sensore G e, sul modello Pro, GPS integrato.",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n661979/dash-cam-gku-4k-fronte-e-retro-per-viaggiare-con-piu-controllo-e-piu-tutela/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T06:30:00+00:00"
+    },
+    {
+      "titolo": "Walmart punta sul nucleare: maxi accordo da 30 anni per energia pulita",
+      "descrizione": "Walmart sceglie il nucleare con un accordo da 30 anni per energia senza emissioni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662615/walmart-accordo-energia-nucleare/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T06:15:00+00:00"
+    },
+    {
+      "titolo": "Le Cialde e Capsule più buone di Caffè Borbone in promo su eBay",
+      "descrizione": "Oggi puoi bere un buon espresso come quello del bar direttamente a casa tua grazie alla cialde e capsule Caffè Borbone in promo su eBay. The post Le Cialde e Capsule più buone di Caffè Borbone in promo su eBay appeared f",
+      "link": "https://www.punto-informatico.it/le-cialde-e-capsule-piu-buone-di-caffe-borbone-in-promo-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-27T06:00:56+00:00"
+    },
     {
       "titolo": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
       "descrizione": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
@@ -79,13 +135,6 @@
       "data": "2026-06-26T16:16:20+00:00"
     },
     {
-      "titolo": "General Atomics investe nella fusione con un nuovo impianto in California",
-      "descrizione": "General Atomics realizzerà un centro per testare componenti chiave della fusione nucleare.",
-      "link": "https://www.hdblog.it/green/articoli/n662612/general-atomics-fusione-nucleare-california/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T16:15:00+00:00"
-    },
-    {
       "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
       "descrizione": "Immaginate di poter conoscere l’andamento di un’azienda o analizzare un intero settore semplicemente dialogando con un chatbot. È questo l’obiettivo di Syrto AI , un nuovo strumento sviluppato dalla...",
       "link": "https://www.ilsole24ore.com/art/syrto-ai-financial-intelligence-entra-azienda-microsoft-copilot-AIdgwRtD",
@@ -107,34 +156,6 @@
       "data": "2026-06-26T15:50:19+00:00"
     },
     {
-      "titolo": "È la fine dei giochi fisici? Ma in USA dati in crescita dopo 17 anni: merito di Switch 2",
-      "descrizione": "Una piccola anomalia, ma la strada verso il digitale resta tracciata.",
-      "link": "https://www.hdblog.it/nintendo/articoli/n662748/videogiochi-fisici-vendite-2026-switch-2-gta-6-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T15:45:00+00:00"
-    },
-    {
-      "titolo": "La più grande batteria ferro-aria d'Europa: ecco il futuro dell'energia",
-      "descrizione": "Nei Paesi Bassi nasce un impianto da 1 GWh che immagazzina energia pulita fino a 100 ore.",
-      "link": "https://www.hdblog.it/green/articoli/n662608/europa-batteria-ferro-aria-1gwh/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T15:40:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Robot Vacuum 6 Max si prepara al lancio internazionale",
-      "descrizione": "Il robot è apparso sul sito global di Xiaomi, per ora non ci sono ancora informazioni sui prezzi e sulle tempistiche.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n662756/xiaomi-robot-vacuum-6-max-lancio-internazionale/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T15:35:00+00:00"
-    },
-    {
-      "titolo": "Perseverance scopre composti complessi di carbonio nelle rocce di Marte",
-      "descrizione": "Perseverance trova centinaia di firme di carbonio organico nelle antiche rocce di Marte.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662741/perseverance-scoperta-carbonio-organico-marte/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T15:25:00+00:00"
-    },
-    {
       "titolo": "Get $145 Off the Best Mesh Router This Prime Day 2026",
       "descrizione": "Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.",
       "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/",
@@ -142,32 +163,11 @@
       "data": "2026-06-26T15:18:06+00:00"
     },
     {
-      "titolo": "Samsung rilascia a sorpresa un aggiornamento per Galaxy S8 e Note 8",
-      "descrizione": "Gli smartphone risalgono al 2017.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662751/samsung-aggiornamento-galaxy-s8-note-8/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T15:15:00+00:00"
-    },
-    {
       "titolo": "Nella capsula Starfall di SpaceX c’era lievito di birra",
       "descrizione": "All'interno della capsula Starfall di SpaceX, lanciata il 23 giugno, c'erano lieviti di birra e semi di piante (tra cui lupini blu) di Starbase Brewing. The post Nella capsula Starfall di SpaceX c’era lievito di birra ap",
       "link": "https://www.punto-informatico.it/capsula-starfall-spacex-lievito-birra/",
       "fonte": "Punto Informatico",
       "data": "2026-06-26T14:29:29+00:00"
-    },
-    {
-      "titolo": "Hollywood Thrives on ‘Rabid’ Fans. For Publicists, They’re a Nightmare",
-      "descrizione": "A scuffle between stan account Club Chalamet and another Heated Rivalry die-hard shines a light on how parasocial fans are a publicist’s greatest asset—and liability.",
-      "link": "https://www.wired.com/story/hollywood-thrives-on-rabid-fans-for-publicists-theyre-a-nightmare/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T14:28:38+00:00"
-    },
-    {
-      "titolo": "Grok, il segreto dei numeri: il traffico NSFW supera ogni previsione",
-      "descrizione": "Un report sostiene che oltre metà del traffico di Grok sia legato ai contenuti NSFW.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662744/grok-traffico-nsfw-report/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-26T14:20:00+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-27T04:17:26.279399+00:00",
+  "last_updated": "2026-06-27T09:05:44.017665+00:00",
   "items": [
     {
-      "titolo": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "descrizione": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "fonte": "WIRED",
-      "data": "2026-06-26T17:05:40+00:00",
+      "titolo": "Google Home Speaker è qui! Unboxing e prime impressioni | VIDEO",
+      "descrizione": "Rapido unboxing e prime impressioni sul nuovo speaker smart del colosso di Mountain View.",
+      "link": "https://www.hdblog.it/google/articoli/n662712/google-home-speaker-primo-contatto-anteprima-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T08:31:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-      "descrizione": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "fonte": "WIRED",
-      "data": "2026-06-27T00:26:14+00:00",
+      "titolo": "Anthropic riattiva Mythos 5: via libera del governo USA",
+      "descrizione": "Gli USA autorizzano il ritorno di Mythos 5 per oltre 100 enti strategici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662788/anthropic-mythos-5-via-libera-governo-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-27T08:15:00+00:00",
       "modello": "claude"
     }
   ]
