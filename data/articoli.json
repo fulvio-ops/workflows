@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-26T20:11:40.225548+00:00",
+  "last_updated": "2026-06-27T04:17:22.215116+00:00",
   "items": [
+    {
+      "titolo": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "descrizione": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "fonte": "WIRED",
+      "data": "2026-06-27T00:26:14+00:00"
+    },
+    {
+      "titolo": "Your last chance to score the $200 Ninja Slushi deal is at Best Buy - but hurry",
+      "descrizione": "The popular Ninja Slushi is officially sold out at Amazon and Walmart, but it's still in stock at Best Buy for its best price ever. But don't wait.",
+      "link": "https://www.zdnet.com/article/ninja-slushi-amazon-prime-day-2026-best-buy/",
+      "fonte": "Latest news",
+      "data": "2026-06-26T21:31:40+00:00"
+    },
+    {
+      "titolo": "Digital sovereignty at the UN: Inside the global push to replace US cloud giants with open-source tech",
+      "descrizione": "Digital sovereignty emerged as the defining theme of this year's UN Open Source Week, with many arguing that open source is now core critical infrastructure and that proprietary American companies can't be trusted.",
+      "link": "https://www.zdnet.com/article/digital-sovereignty-un-global-push-to-replace-us-cloud-giants-with-open-source-tech/",
+      "fonte": "Latest news",
+      "data": "2026-06-26T20:34:00+00:00"
+    },
     {
       "titolo": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
       "descrizione": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
@@ -44,13 +65,6 @@
       "data": "2026-06-26T16:50:00+00:00"
     },
     {
-      "titolo": "This is the one smart home product everyone should have, and it's on sale",
-      "descrizione": "Smart light bulbs easily add ambiance to any home, and the GE Cync color-changing smart bulbs are discounted for Amazon's Prime Day, which ends tonight.",
-      "link": "https://www.zdnet.com/article/ge-cync-color-changing-smart-bulb-amazon-prime-day-2026-deal/",
-      "fonte": "Latest news",
-      "data": "2026-06-26T16:37:59+00:00"
-    },
-    {
       "titolo": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
       "descrizione": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.",
       "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
@@ -70,13 +84,6 @@
       "link": "https://www.hdblog.it/green/articoli/n662612/general-atomics-fusione-nucleare-california/",
       "fonte": "HDblog.it",
       "data": "2026-06-26T16:15:00+00:00"
-    },
-    {
-      "titolo": "7 WFH gadgets that seriously improved my workflow (and they're on sale)",
-      "descrizione": "These gadgets made big improvements to our home offices. With Prime Day ending tonight, it's your final chance to get them on sale.",
-      "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-prime-day-2026-last-chance/",
-      "fonte": "Latest news",
-      "data": "2026-06-26T16:10:59+00:00"
     },
     {
       "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
@@ -161,13 +168,6 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n662744/grok-traffico-nsfw-report/",
       "fonte": "HDblog.it",
       "data": "2026-06-26T14:20:00+00:00"
-    },
-    {
-      "titolo": "Last chance to save up to 55% on these brilliant Hoto tools for PC builders and hobbyists, starting from $14 — super low prices set to end soon on cordless electric screwdrivers, drills, flashlights, vacuum cleaners, and",
-      "descrizione": "A full spectrum of Hoto tools for hobbyists and PC builders is now on sale, thanks to Amazon Prime Day.",
-      "link": "https://www.tomshardware.com/peripherals/last-chance-to-save-up-to-55-percent-on-these-brilliant-hoto-tools-for-pc-builders-and-hobbyists-starting-from-usd14-super-low-prices-set-to-end-soon-on-cordless-electric-screwdrivers-drills-flashlights-vacuum-cleaners-and-more",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-26T14:03:01+00:00"
     }
   ]
 }
