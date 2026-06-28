@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-06-28T09:33:05.885341+00:00",
+  "last_updated": "2026-06-28T14:16:53.115746+00:00",
   "items": [
+    {
+      "titolo": "Apple vuole acquistare chip di memoria dalla cinese CXMT",
+      "descrizione": "Apple vuole acquistare chip DRAM dalla cinese CXMT (inserita nella blacklist del Pentagono) per ridurre i costi, quindi cerca di ottenere il permesso. The post Apple vuole acquistare chip di memoria dalla cinese CXMT app",
+      "link": "https://www.punto-informatico.it/apple-vuole-acquistare-chip-memoria-cinese-cxmt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-28T14:03:30+00:00"
+    },
+    {
+      "titolo": "L’alternativa a Usa e Cina sull’AI? «La condivisione obbligatoria di dati»",
+      "descrizione": "I dati personali sono il nuovo petrolio. Una ricchezza senza confini, che potrebbe permetterci – ad esempio – di addestrare IA e algoritmi medici, capire e curare malattie attualmente imbattibili,...",
+      "link": "https://www.ilsole24ore.com/art/l-alternativa-usa-e-cina-sull-ai-la-condivisione-obbligatoria-dati-AIoTL4fD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-28T13:34:27+00:00"
+    },
+    {
+      "titolo": "Flight Simulator, Microsoft ha finalmente scacciato un utente scorretto",
+      "descrizione": "dal marketplace. Ecco cosa è successo",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662822/flight-simulator-marketplace-utente-scorretto/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-28T13:30:00+00:00"
+    },
+    {
+      "titolo": "Refrigerio nelle giornate più afose: la tecnologia corre in aiuto",
+      "descrizione": "Soluzioni hi-tech contro il caldo da portare sempre con se",
+      "link": "https://www.ilsole24ore.com/art/refrigerio-giornate-piu-afose-tecnologia-corre-aiuto-AII4JykD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-28T13:21:00+00:00"
+    },
+    {
+      "titolo": "Kindle è più di un e-reader",
+      "descrizione": "Il nuovo Kindle Scribe non è un e-reader classico, non è nemmeno un tablet, anzi per certi versi è in antitesi. Da pochi giorni è disponibile in Italia ed è...",
+      "link": "https://www.ilsole24ore.com/art/kindle-e-piu-un-e-reader-AIgeAhrD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-06-28T13:20:51+00:00"
+    },
+    {
+      "titolo": "Bollette che mangiano le vacanze: la soluzione si chiama Engie PuntoFisso",
+      "descrizione": "Se quest'estate hai dovuto rinunciare alle vacanze per colpa delle bollette, è ora di cambiare. Con Engie Energia PuntoFisso blocchi luce e gas. The post Bollette che mangiano le vacanze: la soluzione si chiama Engie Pun",
+      "link": "https://www.punto-informatico.it/bollette-che-mangiano-le-vacanze-la-soluzione-si-chiama-engie-puntofisso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-28T13:04:09+00:00"
+    },
+    {
+      "titolo": "iPhone 18 rischia un taglio dell'AI: l'upgrade della RAM potrebbe essere minimo | Rumor",
+      "descrizione": "Per gli ultimi rumor non avrà i 12 GB necessari oggi per il pieno supporto della nuova Siri.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662819/apple-iphone-18-ram-9-gb-intelligence-rumor-ios-27/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-28T12:45:00+00:00"
+    },
+    {
+      "titolo": "AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU",
+      "descrizione": "The Terk Box v1.1 looks like the closest DIY alternative to Valve's Steam Machine yet. 3D print source files are available.",
+      "link": "https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-28T12:36:37+00:00"
+    },
+    {
+      "titolo": "AI coding agents can be tricked into installing malware via 'clean' GitHub repositories — Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness",
+      "descrizione": "Claude and other AI agents fooled into running malware with just a minimal GitHub repository — ask the bot to initialize the project and you get hacked",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-28T11:30:00+00:00"
+    },
+    {
+      "titolo": "Social media: nuova conferma che il ban non funziona",
+      "descrizione": "Un nuovo studio conferma che il divieto di accesso ai social media imposto in Australia non è efficace, in quanto la verifica dell'età è aggirabile. The post Social media: nuova conferma che il ban non funziona appeared",
+      "link": "https://www.punto-informatico.it/social-media-nuova-conferma-ban-non-funziona/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-28T11:07:42+00:00"
+    },
+    {
+      "titolo": "XSR Spire, il nuovo computer rugged fanless con CPU Xeon per la difesa",
+      "descrizione": "Spectra lancia XSR Spire, PC rugged fanless con Xeon e AI per impieghi militari.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662735/spectra-xsr-spire-computer-rugged-xeon/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-28T10:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung cambia: da ottobre alcune API SmartThings saranno a pagamento",
+      "descrizione": "Samsung introdurrà da ottobre nuovi piani a pagamento per le API di SmartThings. La novità interesserà sviluppatori, utenti avanzati e alcune integrazioni con piattaforme come Home Assistant",
+      "link": "https://www.hdblog.it/samsung/articoli/n662815/samsung-smartthings-a-pagamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-28T10:35:00+00:00"
+    },
+    {
+      "titolo": "Japanese firm launches hyper-realistic capsule toy PC parts ‘you can assemble and play with’ — tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the ‘big four’ PC parts makers",
+      "descrizione": "A Japanese capsule toy maker has announced an official collaboration with ASRock, Gigabyte, MSI, and Intel to make tiny PC components that buyers 'can assemble and play with.'",
+      "link": "https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-28T10:30:00+00:00"
+    },
+    {
+      "titolo": "Dazi al 100% ai paesi UE che applicano la Digital Services Tax",
+      "descrizione": "Donald Trump ha minacciato di applicare un dazio del 100% a tutti i beni importati dai paesi europei che introdurranno una Digital Services Tax. The post Dazi al 100% ai paesi UE che applicano la Digital Services Tax app",
+      "link": "https://www.punto-informatico.it/dazi-100-percento-paesi-ue-applicano-digital-services-tax/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-28T10:20:13+00:00"
+    },
+    {
+      "titolo": "Ho trasformato un vecchio Android in un iPod: la recensione dell'app NostalgicPod",
+      "descrizione": "La recensione di NostalgicPod, l'applicazione che trasforma qualsiasi smartphone Android in un iPod per l'ascolto della musica offline.",
+      "link": "https://www.hdblog.it/android/recensioni/n662571/nostalgicpod-recensione/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-28T09:55:00+00:00"
+    },
     {
       "titolo": "Dyson Pencil Wash in prova: prodotto esclusivo, ma con tanti compromessi",
       "descrizione": "Parliamo di Dyson Pencil Wash, una lavapavimenti dal concept innovativo e dal design curato, ma con alcuni compromessi tecnici importanti.",
@@ -63,111 +168,6 @@
       "link": "https://www.hdblog.it/portatili/articoli/n662810/apple-macbook-ultra-pro-2026-autunno-m5-m6-chip/",
       "fonte": "HDblog.it",
       "data": "2026-06-27T16:50:00+00:00"
-    },
-    {
-      "titolo": "The E Ink tablet that successfully replaced my iPad and Kindle is still 30% off on Amazon right now",
-      "descrizione": "If you're in the market for a tablet, you literally need look no further than the TCL Nxtpaper 11 Plus, especially at this price.",
-      "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-amazon-prime-day-2026-deal/",
-      "fonte": "Latest news",
-      "data": "2026-06-27T16:00:23+00:00"
-    },
-    {
-      "titolo": "Google, licenziato dopo aver creato tool virale che semplifica l'uso di Workspace",
-      "descrizione": "La vicenda raccontata in un post su X",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n662808/google-licenziato-tool-virale-workspace/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T15:30:00+00:00"
-    },
-    {
-      "titolo": "Trenitalia conferma furto dei dati avvenuto ad ottobre 2025",
-      "descrizione": "Trenitalia ha confermato il furto dei dati associati ai titoli di viaggio (biglietti e abbonamenti) durante un'intrusione avvenuta ad ottobre 2025. The post Trenitalia conferma furto dei dati avvenuto ad ottobre 2025 app",
-      "link": "https://www.punto-informatico.it/trenitalia-conferma-furto-dati-avvenuto-ottobre-2025/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-27T15:12:40+00:00"
-    },
-    {
-      "titolo": "Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT",
-      "descrizione": "Following a historic price hike, the Financial Times reports that Apple is lobbying in Washington to secure approval to buy cheaper RAM from CXMT. The manufacturer is currently designated as a Chinese military company, b",
-      "link": "https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-27T14:51:29+00:00"
-    },
-    {
-      "titolo": "Iliad senza vincoli: prezzo fisso per sempre su mobile e fibra, ecco l’offerta",
-      "descrizione": "Iliad lancia TOP 250 PLUS: 250GB in 5G a 9,99€ al mese per sempre, fibra Wi-Fi 7 a 22,99€ e bonus giga con iliadclub. Scopri l'offerta a tempo limitato. The post Iliad senza vincoli: prezzo fisso per sempre su mobile e f",
-      "link": "https://www.punto-informatico.it/iliad-senza-vincoli-prezzo-fisso-per-sempre-su-mobile-e-fibra-ecco-lofferta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-27T14:29:39+00:00"
-    },
-    {
-      "titolo": "Sony is still selling last year's flagship OLED TV for $600 off - and I highly recommend it",
-      "descrizione": "Sony's Bravia 8 II might be a generation behind, but it still offers plenty of reasons to buy - especially at this price.",
-      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal-amazon-prime-day-2026/",
-      "fonte": "Latest news",
-      "data": "2026-06-27T13:56:05+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2: novità per la barra delle applicazioni",
-      "descrizione": "Microsoft ha rilasciato una nuova versione preliminare di Windows 11 26H2 che consente di cambiare la dimensione della barra delle applicazioni. The post Windows 11 26H2: novità per la barra delle applicazioni appeared f",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-novita-barra-delle-applicazioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-27T13:30:30+00:00"
-    },
-    {
-      "titolo": "USA puntano al primo computer quantistico tollerante agli errori entro il 2028",
-      "descrizione": "Gli USA lanciano Quantum Genesis per realizzare un computer quantistico entro il 2028.",
-      "link": "https://www.hdblog.it/hardware/articoli/n662736/usa-quantum-genesis-computer-quantistico-2028/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T11:55:00+00:00"
-    },
-    {
-      "titolo": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
-      "descrizione": "It’s not often you can score discounts from the outdoor-coded Canadian company that makes understated and stylish performance clothing.",
-      "link": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/",
-      "fonte": "WIRED",
-      "data": "2026-06-27T11:01:00+00:00"
-    },
-    {
-      "titolo": "Modded Steam Controller can automatically charge itself like a robot vacuum — enthusiast creates GitHub program that uses the vibration motor to walk it back to its docking station",
-      "descrizione": "Ray Foss built this program that uses computer vision to let your Steam Controller slide back towards its charging puck by just using its built-in haptic motors. You can also try it for yourself by visiting the web app a",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modded-steam-controller-can-automatically-charge-itself-like-a-robot-vacuum-enthusiast-creates-github-program-that-uses-the-vibration-motor-to-walk-it-back-to-its-docking-station",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-27T11:00:00+00:00"
-    },
-    {
-      "titolo": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
-      "descrizione": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
-      "fonte": "WIRED",
-      "data": "2026-06-27T10:30:00+00:00"
-    },
-    {
-      "titolo": "RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware — other key vintage components included the Core 2 Q6600 and ATI Radeon HD 4650 AGP",
-      "descrizione": "Enthusiast demos Microsoft’s newest OS running 'completely stable' on a Core 2 Quad Q6600, using a DDR1 motherboard, supported by an ATi Radeon HD 4650 AGP graphics card.",
-      "link": "https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-27T10:00:00+00:00"
-    },
-    {
-      "titolo": "SpaceX punta su Mesh Optical dopo il via libera dell'FTC",
-      "descrizione": "FTC conclude l'esame rapido sulla possibile acquisizione di Mesh da parte di Musk.",
-      "link": "https://www.hdblog.it/mercato/articoli/n662787/musk-acquisizione-mesh-optical/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T09:55:00+00:00"
-    },
-    {
-      "titolo": "Più spazio, meno ingombri: i nuovi frigoriferi LG arrivano in Italia",
-      "descrizione": "LG amplia la famiglia Fit & Max con quattro nuovi frigoriferi Multidoor Slim progettati per offrire fino a 580 litri di capacità in un formato più compatto, con funzioni AI e gestione tramite app...",
-      "link": "https://www.hdblog.it/lg/articoli/n662805/lg-fit-max-nuovi-modelli-multidoor-slim-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-27T09:40:00+00:00"
-    },
-    {
-      "titolo": "OpenAI annuncia GPT-5.6: rilascio limitato dal governo USA",
-      "descrizione": "I nuovi modelli Sol, Terra e Luna della serie GPT-5.6 di OpenAI verranno rilasciati solo a partner fidati con l'approvazione del governo statunitense. The post OpenAI annuncia GPT-5.6: rilascio limitato dal governo USA a",
-      "link": "https://www.punto-informatico.it/openai-annuncia-gpt-5-6-rilascio-limitato-governo-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-27T09:31:43+00:00"
     }
   ]
 }
