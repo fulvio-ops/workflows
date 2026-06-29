@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-06-29T11:24:07.889919+00:00",
+  "last_updated": "2026-06-29T16:12:43.281888+00:00",
   "items": [
+    {
+      "titolo": "Samsung e SK hynix investono per mantenere la leadership",
+      "descrizione": "Samsung e SK hynix hanno annunciato investimenti per la costruzione di nuove fabbriche di semiconduttori e nuovi data center AI in Corea. The post Samsung e SK hynix investono per mantenere la leadership appeared first o",
+      "link": "https://www.punto-informatico.it/samsung-sk-hynix-investono-mantenere-leadership/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-29T15:43:07+00:00"
+    },
+    {
+      "titolo": "Microsoft Edge: più strumenti per la sicurezza dedicati ai professionisti",
+      "descrizione": "Arriva la modalità per rilevare le truffe online con l’ausilio dell’AI.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662933/microsoft-edge-piu-strumenti-per-la-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T15:40:00+00:00"
+    },
+    {
+      "titolo": "Ferrari ha brevettato il motore elettrico... V8: convertirà i puristi?",
+      "descrizione": "Gli amanti del sound dei motori termici Ferrari non sono rimasti estasiati dal lancio della Ferrari Luce. La musica potrebbe cambiare con un nuovo motore",
+      "link": "https://www.hdmotori.it/ferrari-motore-elettrico-v8-puristi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T14:30:12+00:00"
+    },
+    {
+      "titolo": "Hyundai rinnova la i30 con il Model Year 2027, i prezzi per l’Italia",
+      "descrizione": "Hyundai i30 si evolve con la Model Year 2027 proponendo la connettività di ultima generazione, anche in versione station wagon",
+      "link": "https://www.hdmotori.it/hyundai-i30-model-year-2027-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T14:00:59+00:00"
+    },
+    {
+      "titolo": "Steamroller becomes first prebuilt gaming PC to ship with SteamOS — Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299",
+      "descrizione": "Steamroller is the first commercially available prebuilt gaming PC running SteamOS, pairing standard desktop components with future upgradeability.",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-29T13:30:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro visto da dentro nell'ulltimo leak: il chip A20 Pro farà la differenza",
+      "descrizione": "Una foto della scheda madre anticipa i progressi tecnologici che possiamo aspettarci.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662916/apple-chip-a20-pro-iphone-18-scheda-madre-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T13:25:00+00:00"
+    },
+    {
+      "titolo": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs — lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
+      "descrizione": "Samsung, SK hynix, and Micron were sued on June 25th in the U.S. District Court for the Northern District of California.",
+      "link": "https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-29T13:18:54+00:00"
+    },
+    {
+      "titolo": "Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm — company redefines Moore's Law as cell sizes gain importance for density",
+      "descrizione": "As CPP shrinking stalls, chipmakers find a new way to increase transistor density. Imec foresees 0.3nm in 2038, CFET insertion in 2038, HLSI era.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-29T13:15:14+00:00"
+    },
+    {
+      "titolo": "You can still buy last year's Sony Bravia OLED TV for $600 off - and I can't recommend it enough",
+      "descrizione": "Sony's Bravia 8 II might be a generation behind, but it still offers plenty of reasons to buy - especially with this discount.",
+      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal-prime-day/",
+      "fonte": "Latest news",
+      "data": "2026-06-29T13:14:00+00:00"
+    },
+    {
+      "titolo": "Pizzicata in strada una GT misteriosa, c’è lo zampino di Xiaomi",
+      "descrizione": "Paparazzata durante un test, la nuova GT cinese ha scatenato già molta curiosità per una linea sportiva appariscente",
+      "link": "https://www.hdmotori.it/nuova-gt-xiaomi-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T13:00:02+00:00"
+    },
+    {
+      "titolo": "BAE Systems presenta il chip che resiste alle radiazioni nello spazio",
+      "descrizione": "BAE Systems valida Endura SoC, chip resistente alle radiazioni per lo spazio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662863/bae-systems-chip-endura-soc-radiazioni-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T12:55:00+00:00"
+    },
+    {
+      "titolo": "Le lavagne Samsung ora riconoscono il docente e creano quiz con l'AI",
+      "descrizione": "Le lavagne Android Samsung ricevono Samsung Account Management Solution e AI Assistant, con accesso tramite QR code o NFC, sottotitoli automatici e materiali sincronizzati nel cloud",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662911/samsung-lavagne-digitali-scuola-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T12:40:00+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026, le tifose sexy sono create dall’AI",
+      "descrizione": "Da Instagram a TikTok, le tifose create con l'AI raccolgono milioni di visualizzazioni. Ecco il business dietro le influencer virtuali. The post Mondiali 2026, le tifose sexy sono create dall’AI appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/mondiali-2026-tifose-sexy-create-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-29T12:33:36+00:00"
+    },
+    {
+      "titolo": "Huawei, cambio di strategia con gli smartphone premium: Mate 90 già a settembre",
+      "descrizione": "Il colosso cinese vuole sfidare Apple testa a testa.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662912/huawei-mate-90-strategia-lancio-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T12:15:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy M47 5G ufficiale: punta tutto su design e batteria",
+      "descrizione": "Si parla anche di gaming, ma non di certo con quel SoC",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662905/samsung-galaxy-m47-5g-ufficiale-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T11:40:00+00:00"
+    },
     {
       "titolo": "Android 17 copia Photo Shuffle di iPhone sui Google Pixel",
       "descrizione": "Google testa su Android 17 una funzione simile a Photo Shuffle di Apple, che permette di cambiare automaticamente lo sfondo con le proprie foto. The post Android 17 copia Photo Shuffle di iPhone sui Google Pixel appeared",
@@ -16,25 +121,11 @@
       "data": "2026-06-29T11:12:00+00:00"
     },
     {
-      "titolo": "Samsung e SK Hynix, piano da 518 miliardi di $ per espandere la produzione di DRAM",
-      "descrizione": "L'obiettivo è incrementare più in fretta possibile la capacità produttiva di DRAM.",
-      "link": "https://www.hdblog.it/hardware/articoli/n662900/samsung-sk-hynix-espansione-fabbriche-dram/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T11:05:00+00:00"
-    },
-    {
       "titolo": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
       "descrizione": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry.",
       "link": "https://www.wired.com/story/the-robin-byrd-show/",
       "fonte": "WIRED",
       "data": "2026-06-29T11:00:00+00:00"
-    },
-    {
-      "titolo": "Human Lander Challenge 2026, ecco i progetti vincitori scelti dalla NASA",
-      "descrizione": "NASA premia i migliori progetti universitari per i futuri sistemi di supporto vitale lunari.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662877/nasa-human-lander-challenge-2026-vincitori/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T10:55:00+00:00"
     },
     {
       "titolo": "Mondiali e streaming pirata: maxi operazione, 400 domini abbattuti",
@@ -51,32 +142,11 @@
       "data": "2026-06-29T10:30:10+00:00"
     },
     {
-      "titolo": "Google Home Speaker, dentro c'è il 99% di adesivo in meno rispetto al passato",
-      "descrizione": "Il nuovo Google Home Speaker utilizza almeno il 37% di materiali riciclati, un rivestimento in tessuto senza colla e componenti progettati per ridurre gli sprechi durante la produzione",
-      "link": "https://www.hdblog.it/google/articoli/n662896/google-home-speaker-sostenibilita-costruzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T10:25:00+00:00"
-    },
-    {
-      "titolo": "Microsoft aggiorna i file binari di installazione per Windows 11 24H2 e 25H2",
-      "descrizione": "Microsoft rilascia la preview KB5095093: arrivano i nuovi aggiornamenti dinamici per Windows 11",
-      "link": "https://www.hdblog.it/microsoft/articoli/n662886/microsoft-aggiornamento-windows-11/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T10:20:00+00:00"
-    },
-    {
       "titolo": "5 offerte firmate eBay che ti fanno risparmiare",
       "descrizione": "Le abbiamo selezionate noi! Sono esattamente 5 le offerte firmate eBay che oggi meritano tutta la tua attenzione perché ti faranno risparmiare parecchio senza rinunciare a nulla. Con PayPal o Klarna puoi pagare in tre ra",
       "link": "https://www.punto-informatico.it/5-offerte-firmate-ebay-che-ti-fanno-risparmiare/",
       "fonte": "Punto Informatico",
       "data": "2026-06-29T10:14:01+00:00"
-    },
-    {
-      "titolo": "Samsung contiene i costi dei nuovi pieghevoli variando i fornitori dei moduli fotografici",
-      "descrizione": "Un elenco di fornitori più diversificato che mai.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662894/samsung-galaxy-z-fold-8-flip-fornitori-fotocamere/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T10:05:00+00:00"
     },
     {
       "titolo": "China’s hollow-core fiber trial pushes 51.3 Tb/s over 128 miles without signal regeneration — milestone targets AI-era networking bottlenecks",
@@ -93,81 +163,11 @@
       "data": "2026-06-29T10:00:00+00:00"
     },
     {
-      "titolo": "DJI svela nuovi dettagli della Osmo Pocket 4P: 17 stop di gamma dinamica e D-Log2",
-      "descrizione": "DJI anticipa la Osmo Pocket 4P con doppia fotocamera e 17 stop di gamma dinamica.",
-      "link": "https://www.hdblog.it/dji/articoli/n662878/dji-osmo-pocket-4p-gamma-dinamica-17-stop/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T09:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Storage, ecco i dettagli tecnici avanzati del primo NAS del brand",
-      "descrizione": "La piattaforma hardware è basata su un chip già visto in diversi NAS entry level.",
-      "link": "https://www.hdblog.it/hardware/articoli/n662887/xiaomi-nas-specifiche-tecniche-smart-storage/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T09:35:00+00:00"
-    },
-    {
-      "titolo": "Batteria allo stato solido in ceramica: resiste fino a 150°C senza incendi",
-      "descrizione": "Nuova batteria in ceramica resiste fino a 150°C per dispositivi militari e aerospaziali.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662856/batteria-stato-solido-ceramica-150-gradi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T09:25:00+00:00"
-    },
-    {
-      "titolo": "Lenovo mostra un nuovo tablet Legion con anello RGB attorno alla fotocamera",
-      "descrizione": "Lenovo ha mostrato in Cina un nuovo tablet Legion non ancora ufficiale. Tra le novità spicca un anello RGB personalizzabile attorno alla fotocamera, pensato per rendere il dispositivo ancora più...",
-      "link": "https://www.hdblog.it/tablet/articoli/n662885/legion-tablet-gaming-led-rgb/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T09:15:00+00:00"
-    },
-    {
-      "titolo": "Due lenti, 4G e solare per la sorveglianza con la novità di Xiaomi in crowdfunding",
-      "descrizione": "Raccolta fondi per la nuova telecamera Xiaomi dedicata alla videosorveglianza outdoor della casa: connettività e alimentazione indipendenti.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n662872/due-lenti-4g-sorveglianza-xiaomi-crowdfunding/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T09:10:00+00:00"
-    },
-    {
       "titolo": "Windows 11 occupa ancora più spazio sul PC, ma c’è una ragione",
       "descrizione": "Il sistema di ripristino su Windows 11 salva i dati di backup regolari, occupando spazio variabile a seconda dell’SSD, fino a circa 50 GB. The post Windows 11 occupa ancora più spazio sul PC, ma c’è una ragione appeared",
       "link": "https://www.punto-informatico.it/windows-11-occupa-ancora-piu-spazio-pc-ce-ragione/",
       "fonte": "Punto Informatico",
       "data": "2026-06-29T09:03:14+00:00"
-    },
-    {
-      "titolo": "Qi a 50 watt prende forma: Xiaomi ospita il vertice sulla ricarica wireless",
-      "descrizione": "Xiaomi ha ospitato il meeting del Wireless Power Consortium dedicato allo sviluppo dello standard Qi da 50 watt, la prossima evoluzione della ricarica wireless attesa entro il 2028",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662881/ricarica-wireless-50-watt-standard-qi/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T08:50:00+00:00"
-    },
-    {
-      "titolo": "Apple valuta chip di memoria cinesi per frenare il rincaro di Mac e iPad",
-      "descrizione": "Apple valuta le memorie CXMT per contrastare il forte aumento dei prezzi della DRAM.",
-      "link": "https://www.hdblog.it/hardware/articoli/n662865/apple-cxmt-chip-memoria-dram/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T08:35:00+00:00"
-    },
-    {
-      "titolo": "Perché è quasi impossibile produrre smartphone negli Stati Uniti",
-      "descrizione": "Costruire l'infrastruttura per produrre smartphone negli USA richiederebbe decenni e decine di miliardi di dollari. La forza lavoro non esiste. The post Perché è quasi impossibile produrre smartphone negli Stati Uniti ap",
-      "link": "https://www.punto-informatico.it/perche-quasi-impossibile-produrre-smartphone-stati-uniti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-29T08:33:31+00:00"
-    },
-    {
-      "titolo": "L'addio a Samsung Messaggi è ormai realtà: da luglio negli USA cambia tutto",
-      "descrizione": "L'app Samsung Messaggi si avvia verso la fine del servizio. Dopo aver smesso di preinstallarla sui nuovi Galaxy, l'azienda inizia ora la dismissione ufficiale partendo dal mercato USA",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662871/samsung-messaggi-disattivazione-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T08:20:00+00:00"
-    },
-    {
-      "titolo": "Perché l’aver trovato microplastiche nei ricci preoccupa gli scienziati",
-      "descrizione": "Gli scienziati hanno trovato microplastiche nei ricci e questo, oltre che a preoccuparli, ha una spiegazione decisamente inquietante. The post Perché l’aver trovato microplastiche nei ricci preoccupa gli scienziati appea",
-      "link": "https://www.punto-informatico.it/perche-aver-trovato-microplastiche-ricci-preoccupa-scienziati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-29T08:07:01+00:00"
     }
   ]
 }
