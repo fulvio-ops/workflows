@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-06-29T16:12:43.281888+00:00",
+  "last_updated": "2026-06-29T20:16:43.865429+00:00",
   "items": [
+    {
+      "titolo": "CUDA emulator for AMD GPUs Zluda loses funding with v6 release — embattled project goes back to hobby status but now includes 32-bit PhysX support",
+      "descrizione": "Zluda is back to a hobby, as the open-source project has lost commercial funding with version 6 but added early 32-bit PhysX support.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-29T18:29:21+00:00"
+    },
+    {
+      "titolo": "L’AI entra in guerra: il Pentagono affida agli algoritmi gli attacchi",
+      "descrizione": "Dietro le quinte, il Pentagono ha appena riscritto le regole della guerra moderna, dando il via libera all'AI per ingaggiare il combattimento. The post L’AI entra in guerra: il Pentagono affida agli algoritmi gli attacch",
+      "link": "https://www.punto-informatico.it/ai-entra-guerra-pentagono-affida-algoritmi-attacchi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-29T17:30:57+00:00"
+    },
+    {
+      "titolo": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 — resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
+      "descrizione": "After Nvidia CEO Jensen Huang said that \"it's a good idea\" to consider re-introducing older GPUs made on trailing process nodes, the five-year-old RTX 3060 is back on e-tailer shelves, priced at $339.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-29T17:11:15+00:00"
+    },
+    {
+      "titolo": "MSI Claw 8 Ex AI+ arriva in Italia: preordini aperti, prezzi proibitivi",
+      "descrizione": "Disponibile da luglio... per chi ha un portafogli abbastanza capiente.",
+      "link": "https://www.hdblog.it/hardware/articoli/n662943/msi-claw-8-ex-ai-plus-preordini-italia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T17:05:00+00:00"
+    },
+    {
+      "titolo": "Rocket Lab acquisisce Iridium per sfidare Amazon e SpaceX",
+      "descrizione": "Rocket Lab ha annunciato l'acquisizione di Iridium per 8 miliardi di dollari, diventando così concorrente di SpaceX e Amazon. The post Rocket Lab acquisisce Iridium per sfidare Amazon e SpaceX appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/rocket-lab-acquisisce-iridium-sfidare-amazon-spacex/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-29T17:04:52+00:00"
+    },
+    {
+      "titolo": "Internet down? 3 ways I use an old Android phone as a backup connection for my home router",
+      "descrizione": "I needed a way to connect my phone to my router, and have it work reliably. Turns out, I have 3 options (and I saved the best for last).",
+      "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+      "fonte": "Latest news",
+      "data": "2026-06-29T16:54:48+00:00"
+    },
+    {
+      "titolo": "Samsung non si ferma e testa One UI 9.0 anche sugli smartphone più economici",
+      "descrizione": "Samsung sta testando One UI 9.0 su Galaxy A07, A24 e Tab S10 Ultra, in vista del lancio ufficiale con i nuovi pieghevoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662895/samsung-one-ui-9-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-29T16:25:00+00:00"
+    },
     {
       "titolo": "Samsung e SK hynix investono per mantenere la leadership",
       "descrizione": "Samsung e SK hynix hanno annunciato investimenti per la costruzione di nuove fabbriche di semiconduttori e nuovi data center AI in Corea. The post Samsung e SK hynix investono per mantenere la leadership appeared first o",
@@ -65,46 +114,11 @@
       "data": "2026-06-29T13:14:00+00:00"
     },
     {
-      "titolo": "Pizzicata in strada una GT misteriosa, c’è lo zampino di Xiaomi",
-      "descrizione": "Paparazzata durante un test, la nuova GT cinese ha scatenato già molta curiosità per una linea sportiva appariscente",
-      "link": "https://www.hdmotori.it/nuova-gt-xiaomi-test/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T13:00:02+00:00"
-    },
-    {
-      "titolo": "BAE Systems presenta il chip che resiste alle radiazioni nello spazio",
-      "descrizione": "BAE Systems valida Endura SoC, chip resistente alle radiazioni per lo spazio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662863/bae-systems-chip-endura-soc-radiazioni-spazio/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T12:55:00+00:00"
-    },
-    {
-      "titolo": "Le lavagne Samsung ora riconoscono il docente e creano quiz con l'AI",
-      "descrizione": "Le lavagne Android Samsung ricevono Samsung Account Management Solution e AI Assistant, con accesso tramite QR code o NFC, sottotitoli automatici e materiali sincronizzati nel cloud",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662911/samsung-lavagne-digitali-scuola-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T12:40:00+00:00"
-    },
-    {
       "titolo": "Mondiali 2026, le tifose sexy sono create dall’AI",
       "descrizione": "Da Instagram a TikTok, le tifose create con l'AI raccolgono milioni di visualizzazioni. Ecco il business dietro le influencer virtuali. The post Mondiali 2026, le tifose sexy sono create dall’AI appeared first on Punto I",
       "link": "https://www.punto-informatico.it/mondiali-2026-tifose-sexy-create-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-06-29T12:33:36+00:00"
-    },
-    {
-      "titolo": "Huawei, cambio di strategia con gli smartphone premium: Mate 90 già a settembre",
-      "descrizione": "Il colosso cinese vuole sfidare Apple testa a testa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662912/huawei-mate-90-strategia-lancio-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T12:15:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy M47 5G ufficiale: punta tutto su design e batteria",
-      "descrizione": "Si parla anche di gaming, ma non di certo con quel SoC",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662905/samsung-galaxy-m47-5g-ufficiale-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T11:40:00+00:00"
     },
     {
       "titolo": "Android 17 copia Photo Shuffle di iPhone sui Google Pixel",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/networking/chinas-hollow-core-fiber-trial-pushes-51-3-tb-s-over-128-miles-without-signal-regeneration-milestone-targets-ai-era-networking-bottlenecks",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-06-29T10:00:00+00:00"
-    },
-    {
-      "titolo": "Everyone’s Mad at the World Cup’s New ‘Hydration Breaks’—Except Mr. Moneybags Over Here",
-      "descrizione": "FIFA says hydration breaks protect players from heat. They also create new annoying commercial breaks—and fans are calling foul.",
-      "link": "https://www.wired.com/story/world-cup-new-hydration-breaks-are-about-more-than-water/",
-      "fonte": "WIRED",
-      "data": "2026-06-29T10:00:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 occupa ancora più spazio sul PC, ma c’è una ragione",
-      "descrizione": "Il sistema di ripristino su Windows 11 salva i dati di backup regolari, occupando spazio variabile a seconda dell’SSD, fino a circa 50 GB. The post Windows 11 occupa ancora più spazio sul PC, ma c’è una ragione appeared",
-      "link": "https://www.punto-informatico.it/windows-11-occupa-ancora-piu-spazio-pc-ce-ragione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-29T09:03:14+00:00"
     }
   ]
 }
