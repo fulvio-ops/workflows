@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-30T04:34:45.146067+00:00",
+  "last_updated": "2026-06-30T10:01:56.365764+00:00",
   "items": [
     {
-      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "fonte": "WIRED",
-      "data": "2026-06-29T21:49:26+00:00",
+      "titolo": "Amazon valuta OpenAI e Nova dopo i rincari di Anthropic",
+      "descrizione": "Amazon valuta OpenAI e Nova per ridurre i costi senza rompere con Anthropic.",
+      "link": "https://www.hdblog.it/amazon/articoli/n662996/amazon-openai-nova-anthropic/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-30T09:15:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "fonte": "WIRED",
-      "data": "2026-06-29T21:49:26+00:00",
+      "titolo": "Gemini prende appunti nelle riunioni Google Meet",
+      "descrizione": "Gemini ascolta le riunioni di Google Meet e genera riassunti con azioni da compiere. Ora disponibile per AI Pro e Ultra, non solo Workspace. The post Gemini prende appunti nelle riunioni Google Meet appeared first on Pun",
+      "link": "https://www.punto-informatico.it/gemini-prende-appunti-riunioni-google-meet/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-30T07:51:40+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Gli USA limitano Mythos 5 e GPT-5.6, la Cina riduce il gap",
-      "descrizione": "Mentre gli Stati Uniti vietano e limitano il rilascio dei modelli di Anthropic e OpenAI, le aziende cinese sviluppano modelli con simili capacità cyber. The post Gli USA limitano Mythos 5 e GPT-5.6, la Cina riduce il gap",
-      "link": "https://www.punto-informatico.it/usa-limitano-mythos-5-gpt-5-6-cina-riduce-gap/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-29T09:04:59+00:00",
+      "titolo": "Amazon valuta OpenAI e Nova dopo i rincari di Anthropic",
+      "descrizione": "Amazon valuta OpenAI e Nova per ridurre i costi senza rompere con Anthropic.",
+      "link": "https://www.hdblog.it/amazon/articoli/n662996/amazon-openai-nova-anthropic/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-30T09:15:00+00:00",
       "modello": "claude"
     }
   ]
