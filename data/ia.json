@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-29T20:16:47.647532+00:00",
+  "last_updated": "2026-06-30T04:34:45.146067+00:00",
   "items": [
     {
-      "titolo": "Salute mentale e AI: nasce il chatbot che evita gli errori di ChatGPT",
-      "descrizione": "L'assistente AI sviluppato dall'Università di Ottawa promette un supporto psicologico più sicuro di ChatGPT grazie aI sensori biometrici. The post Salute mentale e AI: nasce il chatbot che evita gli errori di ChatGPT app",
-      "link": "https://www.punto-informatico.it/salute-mentale-ai-nasce-chatbot-evita-errori-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-29T17:12:17+00:00",
+      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "fonte": "WIRED",
+      "data": "2026-06-29T21:49:26+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google frena Meta: stop all'uso illimitato di Gemini per l'AI",
-      "descrizione": "Google limita l'uso di Gemini da parte di Meta per carenza di potenza di calcolo.",
-      "link": "https://www.hdblog.it/google/articoli/n662931/google-limita-meta-gemini-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-29T16:55:00+00:00",
+      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "fonte": "WIRED",
+      "data": "2026-06-29T21:49:26+00:00",
       "modello": "gemini"
     },
     {
