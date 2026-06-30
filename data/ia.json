@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T14:44:15.738554+00:00",
+  "last_updated": "2026-06-30T20:20:24.410092+00:00",
   "items": [
     {
       "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Meet, gli appunti automatici di Gemini anche per abbonati AI Pro e Ultra",
-      "descrizione": "Google ha esteso la funzione agli abbonati a AI Pro e Google AI Ultra",
-      "link": "https://www.hdblog.it/google/articoli/n663049/google-meet-gemini-appunti-automatici/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-30T14:40:00+00:00",
+      "titolo": "Gmail Live: si possono cercare le email con la voce grazie a Gemini",
+      "descrizione": "Gmail Live permette di cercare le email parlando con Gemini. Funziona per domande complesse. In beta su Android e iOS. The post Gmail Live: si possono cercare le email con la voce grazie a Gemini appeared first on Punto",
+      "link": "https://www.punto-informatico.it/gmail-live-si-possono-cercare-email-voce-grazie-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-06-30T16:33:26+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon",
-      "descrizione": "Within a week of Fable's ban, GLM-5.2 had climbed to the top of the openly available leaderboards.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-06-30T11:58:10+00:00",
+      "titolo": "AI Model Release Tracker: Anthropic releases Sonnet 5",
+      "descrizione": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "fonte": "Latest news",
+      "data": "2026-06-30T18:00:00+00:00",
       "modello": "claude"
     }
   ]
