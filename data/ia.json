@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-06-30T10:01:56.365764+00:00",
+  "last_updated": "2026-06-30T14:44:15.738554+00:00",
   "items": [
     {
-      "titolo": "Amazon valuta OpenAI e Nova dopo i rincari di Anthropic",
-      "descrizione": "Amazon valuta OpenAI e Nova per ridurre i costi senza rompere con Anthropic.",
-      "link": "https://www.hdblog.it/amazon/articoli/n662996/amazon-openai-nova-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-30T09:15:00+00:00",
+      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "fonte": "WIRED",
+      "data": "2026-06-29T21:49:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Syrto AI, la “financial intelligence” entra in azienda con Microsoft Copilot",
-      "descrizione": "Immaginate di poter conoscere l’andamento di un’azienda o analizzare un intero settore semplicemente dialogando con un chatbot. È questo l’obiettivo di Syrto AI , un nuovo strumento sviluppato dalla...",
-      "link": "https://www.ilsole24ore.com/art/syrto-ai-financial-intelligence-entra-azienda-microsoft-copilot-AIdgwRtD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-06-26T16:07:10+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini prende appunti nelle riunioni Google Meet",
-      "descrizione": "Gemini ascolta le riunioni di Google Meet e genera riassunti con azioni da compiere. Ora disponibile per AI Pro e Ultra, non solo Workspace. The post Gemini prende appunti nelle riunioni Google Meet appeared first on Pun",
-      "link": "https://www.punto-informatico.it/gemini-prende-appunti-riunioni-google-meet/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-30T07:51:40+00:00",
+      "titolo": "Google Meet, gli appunti automatici di Gemini anche per abbonati AI Pro e Ultra",
+      "descrizione": "Google ha esteso la funzione agli abbonati a AI Pro e Google AI Ultra",
+      "link": "https://www.hdblog.it/google/articoli/n663049/google-meet-gemini-appunti-automatici/",
+      "fonte": "HDblog.it",
+      "data": "2026-06-30T14:40:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Amazon valuta OpenAI e Nova dopo i rincari di Anthropic",
-      "descrizione": "Amazon valuta OpenAI e Nova per ridurre i costi senza rompere con Anthropic.",
-      "link": "https://www.hdblog.it/amazon/articoli/n662996/amazon-openai-nova-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-06-30T09:15:00+00:00",
+      "titolo": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon",
+      "descrizione": "Within a week of Fable's ban, GLM-5.2 had climbed to the top of the openly available leaderboards.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-06-30T11:58:10+00:00",
       "modello": "claude"
     }
   ]
