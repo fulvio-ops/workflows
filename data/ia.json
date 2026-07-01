@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T10:15:38.979784+00:00",
+  "last_updated": "2026-07-01T15:12:41.650605+00:00",
   "items": [
     {
       "titolo": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini usa Gmail e Google Foto per creare immagini personalizzate",
-      "descrizione": "Gemini può generare immagini personalizzate analizzando Foto, Gmail, YouTube e Search. Ecco come funziona la nuova funzione gratuita. The post Gemini usa Gmail e Google Foto per creare immagini personalizzate appeared fi",
-      "link": "https://www.punto-informatico.it/gemini-usa-gmail-google-foto-creare-immagini-personalizzate/",
+      "titolo": "Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS",
+      "descrizione": "Nano Banana 2 Lite è la versione più veloce di Nano Banana (genera immagini in pochi secondi), mentre Gemini Spark può accedere ai file su macOS. The post Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS appea",
+      "link": "https://www.punto-informatico.it/google-annuncia-nano-banana-2-lite-gemini-spark-macos/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-01T09:45:43+00:00",
+      "data": "2026-07-01T10:22:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "descrizione": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-      "fonte": "WIRED",
-      "data": "2026-07-01T10:00:00+00:00",
+      "titolo": "Claude Sonnet 5 arriva per tutti: costa meno e sfida Opus",
+      "descrizione": "Claude Sonnet 5 debutta con più capacità agentiche e costi ridotti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663165/claude-sonnet-5-agentic-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T14:35:00+00:00",
       "modello": "claude"
     }
   ]
