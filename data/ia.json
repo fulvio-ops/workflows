@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-01T04:54:48.138565+00:00",
+  "last_updated": "2026-07-01T10:15:38.979784+00:00",
   "items": [
     {
-      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "titolo": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
+      "descrizione": "Trump has remade the nation’s capitol in his own image. Ahead of the Fourth of July, WIRED guides you through the dizzying effects of DC’s makeover.",
+      "link": "https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/",
       "fonte": "WIRED",
-      "data": "2026-06-29T21:49:26+00:00",
+      "data": "2026-07-01T09:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "fonte": "WIRED",
-      "data": "2026-06-29T21:49:26+00:00",
+      "titolo": "Gemini usa Gmail e Google Foto per creare immagini personalizzate",
+      "descrizione": "Gemini può generare immagini personalizzate analizzando Foto, Gmail, YouTube e Search. Ecco come funziona la nuova funzione gratuita. The post Gemini usa Gmail e Google Foto per creare immagini personalizzate appeared fi",
+      "link": "https://www.punto-informatico.it/gemini-usa-gmail-google-foto-creare-immagini-personalizzate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-01T09:45:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "descrizione": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "titolo": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "descrizione": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "fonte": "WIRED",
-      "data": "2026-06-30T23:23:04+00:00",
+      "data": "2026-07-01T10:00:00+00:00",
       "modello": "claude"
     }
   ]
