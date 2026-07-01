@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T20:20:24.410092+00:00",
+  "last_updated": "2026-07-01T04:54:48.138565+00:00",
   "items": [
     {
       "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gmail Live: si possono cercare le email con la voce grazie a Gemini",
-      "descrizione": "Gmail Live permette di cercare le email parlando con Gemini. Funziona per domande complesse. In beta su Android e iOS. The post Gmail Live: si possono cercare le email con la voce grazie a Gemini appeared first on Punto",
-      "link": "https://www.punto-informatico.it/gmail-live-si-possono-cercare-email-voce-grazie-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-06-30T16:33:26+00:00",
+      "titolo": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "descrizione": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "fonte": "WIRED",
+      "data": "2026-06-29T21:49:26+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI Model Release Tracker: Anthropic releases Sonnet 5",
-      "descrizione": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "fonte": "Latest news",
-      "data": "2026-06-30T18:00:00+00:00",
+      "titolo": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "descrizione": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "fonte": "WIRED",
+      "data": "2026-06-30T23:23:04+00:00",
       "modello": "claude"
     }
   ]
