@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-01T15:12:41.650605+00:00",
+  "last_updated": "2026-07-01T20:15:55.795478+00:00",
   "items": [
     {
-      "titolo": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
-      "descrizione": "Trump has remade the nation’s capitol in his own image. Ahead of the Fourth of July, WIRED guides you through the dizzying effects of DC’s makeover.",
-      "link": "https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/",
-      "fonte": "WIRED",
-      "data": "2026-07-01T09:30:00+00:00",
+      "titolo": "ChatGPT non è più solo un chatbot: 11 cose che sa fare oggi",
+      "descrizione": "ChatGPT si è trasformato da chatbot conversazionale a spazio di lavoro digitale completo. Ecco 11 funzioni che meritano più attenzione. The post ChatGPT non è più solo un chatbot: 11 cose che sa fare oggi appeared first",
+      "link": "https://www.punto-informatico.it/chatgpt-non-e-piu-solo-chatbot-11-cose-sa-fare-oggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-01T15:30:49+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS",
-      "descrizione": "Nano Banana 2 Lite è la versione più veloce di Nano Banana (genera immagini in pochi secondi), mentre Gemini Spark può accedere ai file su macOS. The post Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS appea",
-      "link": "https://www.punto-informatico.it/google-annuncia-nano-banana-2-lite-gemini-spark-macos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T10:22:43+00:00",
+      "titolo": "Google lavora a una variante di Gemini Live per le automobili",
+      "descrizione": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
+      "link": "https://www.hdblog.it/google/articoli/n663207/google-gemini-live-android-auto-videocamere/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T18:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Sonnet 5 arriva per tutti: costa meno e sfida Opus",
-      "descrizione": "Claude Sonnet 5 debutta con più capacità agentiche e costi ridotti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663165/claude-sonnet-5-agentic-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T14:35:00+00:00",
+      "titolo": "I had Gemini and Claude write my email replies - but only one sounds like me",
+      "descrizione": "Gemini and Claude have their own strong suits, but for assistance in writing emails, there is only one clear winner.",
+      "link": "https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/",
+      "fonte": "Latest news",
+      "data": "2026-07-01T16:37:00+00:00",
       "modello": "claude"
     }
   ]

@@ -1,12 +1,110 @@
 {
-  "last_updated": "2026-07-01T15:12:34.925746+00:00",
+  "last_updated": "2026-07-01T20:15:51.017969+00:00",
   "items": [
     {
-      "titolo": "Google perde contro Klarna: maxi risarcimento in Svezia per PriceRunner",
-      "descrizione": "Google dovrà pagare in Svezia un maxi risarcimento a PriceRunner",
-      "link": "https://www.hdblog.it/google/articoli/n663166/google-perde-klarna-maxi-risarcimento/",
+      "titolo": "Google lavora a una variante di Gemini Live per le automobili",
+      "descrizione": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
+      "link": "https://www.hdblog.it/google/articoli/n663207/google-gemini-live-android-auto-videocamere/",
       "fonte": "HDblog.it",
-      "data": "2026-07-01T14:40:00+00:00"
+      "data": "2026-07-01T18:05:00+00:00"
+    },
+    {
+      "titolo": "Licenziamenti in casa IO Interactive, lo studio di 007: First Light",
+      "descrizione": "E a quanto pare sono stati causati da Microsoft.",
+      "link": "https://www.hdblog.it/games/articoli/n663205/007-first-light-io-interactive-licenziamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T17:50:00+00:00"
+    },
+    {
+      "titolo": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
+      "descrizione": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
+      "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/",
+      "fonte": "WIRED",
+      "data": "2026-07-01T17:38:12+00:00"
+    },
+    {
+      "titolo": "Dreame T16 Pro Heat arriva in Italia con una promo di lancio molto allettante",
+      "descrizione": "30.000 Pa di aspirazione e acqua calda fino a 90°C.",
+      "link": "https://www.hdblog.it/home/articoli/n663202/dreame-t16-pro-heat-ufficiale-prezzi-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T17:25:00+00:00"
+    },
+    {
+      "titolo": "Why Déjà Dup and these 4 other tiny Linux tools have become essential to my daily routine",
+      "descrizione": "Linux has a wealth of applications, but sometimes the smaller tools get overlooked. Here's a list of those I'd prefer never to be without.",
+      "link": "https://www.zdnet.com/article/deja-dup-and-4-other-tiny-linux-tools-essential-to-my-daily-routine/",
+      "fonte": "Latest news",
+      "data": "2026-07-01T17:06:33+00:00"
+    },
+    {
+      "titolo": "Google chiude l'accesso a Tenor, social e IM passano ad altri servizi per le GIF animate",
+      "descrizione": "Il sito continuerà a esistere e sarà sempre sfruttato dai prodotti software Google, ma piattaforme come WhatsApp, Discord e Twitter hanno dovuto cercarsi un'alternativa.",
+      "link": "https://www.hdblog.it/google/articoli/n663197/google-chiude-api-tenor-terze-parti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T17:05:00+00:00"
+    },
+    {
+      "titolo": "La promessa della NASA: un pallone sulla Luna se gli USA vincono i mondiali",
+      "descrizione": "NASA porterà un pallone sulla Luna se gli USA vinceranno i Mondiali 2026",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663191/nasa-pallone-luna-usa-mondiali-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T16:55:00+00:00"
+    },
+    {
+      "titolo": "Ostriche nello spazio: il filtro naturale per gli astronauti",
+      "descrizione": "Ostriche e acquacoltura chiusa studiate per acqua e cibo nello spazio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663112/ostriche-spazio-filtro-acqua-astronauti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T16:35:00+00:00"
+    },
+    {
+      "titolo": "Motorola sta per superare Samsung con Qi2 e magneti integrati sull'Edge 70 Max",
+      "descrizione": "Motorola Edge 70 Max dovrebbe arrivare con il supporto completo alla tecnologia Qi2.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663142/motorola-edge-70-max-qi2/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T16:25:00+00:00"
+    },
+    {
+      "titolo": "Rocket Lab ferma tutto all’ultimo secondo: rinviato il lancio",
+      "descrizione": "Rocket Lab rinvia all’ultimo secondo il lancio del satellite radar giapponese QPS-SAR-13",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663161/rocket-lab-lancio-abortito-qps-sar-13/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T16:15:00+00:00"
+    },
+    {
+      "titolo": "Muffa nella doccia? Come risolvere con Raspberry Pi 5, Arduino Q e un po' di AI",
+      "descrizione": "Soluzione economica contro l'umidità in bagno.",
+      "link": "https://www.hdblog.it/domotica/articoli/n663170/doccia-raspberry-pi-5-arduino-uno-q-antimuffa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T15:40:00+00:00"
+    },
+    {
+      "titolo": "Steam Machine, il prezzo da pagare per la RAM in single channel | Benchmark",
+      "descrizione": "In determinati scenari si lasciano sul piatto quasi il 20% dei punti.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663178/valve-steam-machine-dual-channel-ram-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T15:35:00+00:00"
+    },
+    {
+      "titolo": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
+      "descrizione": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica fino al 35%.",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T15:31:00+00:00"
+    },
+    {
+      "titolo": "HMD Global propone quattro nuovi feature phone a marchio Nokia",
+      "descrizione": "I modelli integrano funzionalità AI.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663174/hmd-global-quattro-feature-phone-nokia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T15:25:00+00:00"
+    },
+    {
+      "titolo": "Intel, partono i lavori per una nuova fonderia nella Silicon Valley",
+      "descrizione": "La cerimonia di inaugurazione dei lavori si è tenuta nelle scorse ore.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663172/intel-fonderia-silicon-valley-lavori/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T15:15:00+00:00"
     },
     {
       "titolo": "Meta limita le funzioni AI degli occhiali smart, serve l’abbonamento",
@@ -14,13 +112,6 @@
       "link": "https://www.punto-informatico.it/meta-limita-funzioni-ai-occhiali-smart-serve-abbonamento/",
       "fonte": "Punto Informatico",
       "data": "2026-07-01T14:36:29+00:00"
-    },
-    {
-      "titolo": "Sony forza l'addio a PlayStation Store su PS3 e PS Vita: la data ufficiale per l'Europa",
-      "descrizione": "PlayStation Store saluta le console PS3 e PS Vita dopo vent'anni circa, Sony ha annunciato il calendario della chiusura nei vari Paesi.",
-      "link": "https://www.hdblog.it/sony/articoli/n663157/addio-playstation-store-ps3-ps-vita-data-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T14:20:00+00:00"
     },
     {
       "titolo": "Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups — Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A",
@@ -37,25 +128,11 @@
       "data": "2026-07-01T13:56:51+00:00"
     },
     {
-      "titolo": "Caldo estremo? In Puglia si riscopre il fresco naturale dei trulli",
-      "descrizione": "I trulli pugliesi tornano utili contro il caldo grazie al loro raffrescamento naturale",
-      "link": "https://www.hdblog.it/green/articoli/n663123/trulli-raffrescamento-naturale-architettura/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T13:35:00+00:00"
-    },
-    {
       "titolo": "Google rende le ricette su AI Mode più visibili per i food blogger",
       "descrizione": "Le ricette su AI Mode di Google mostrano ora chi le ha create con link in primo piano. I food blogger chiedevano più visibilità. The post Google rende le ricette su AI Mode più visibili per i food blogger appeared first",
       "link": "https://www.punto-informatico.it/google-ricette-ai-mode-piu-visibili-food-blogger/",
       "fonte": "Punto Informatico",
       "data": "2026-07-01T13:14:47+00:00"
-    },
-    {
-      "titolo": "Mondiali di calcio, è caccia ai droni: già 300 sequestri e multe fino a 100mila dollari",
-      "descrizione": "L'appello della FBI.",
-      "link": "https://www.hdblog.it/droni/articoli/n663139/droni-divieto-usa-mondiali-calcio-rischi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T13:10:00+00:00"
     },
     {
       "titolo": "Svolta epocale: solo giochi digitali su PlayStation, niente più dischi",
@@ -72,13 +149,6 @@
       "data": "2026-07-01T12:50:16+00:00"
     },
     {
-      "titolo": "Piscina e giardino smart: la nuova gamma Aiper 2026 debutta con Nital",
-      "descrizione": "La nuova gamma di robot da piscina e sistemi di irrigazione smart Aiper 2026 di Nital. Soluzioni senza fili con AI per un outdoor perfetto e senza sforzi.",
-      "link": "https://www.hdblog.it/domotica/offerte/n662600/piscina-giardino-smart-aiper-robot-domotica/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T12:31:00+00:00"
-    },
-    {
       "titolo": "OnePlus in crisi? Il sito ufficiale inizia a consigliare i device OPPO",
       "descrizione": "Smartphone e dispositivi OPPO consigliati sul sito ufficiale di OnePlus, anche se al momento solo in alcuni Paesi: passaggio di consegne? The post OnePlus in crisi? Il sito ufficiale inizia a consigliare i device OPPO ap",
       "link": "https://www.punto-informatico.it/oneplus-crisi-sito-ufficiale-inizia-consigliare-device-oppo/",
@@ -93,81 +163,11 @@
       "data": "2026-07-01T11:47:43+00:00"
     },
     {
-      "titolo": "OnePlus consiglia ad alcuni clienti europei di acquistare smartphone Oppo",
-      "descrizione": "Il messaggio è apparso su diversi siti locali del marchio.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663138/oneplus-consiglia-acquistare-smartphone-oppo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T11:40:00+00:00"
-    },
-    {
       "titolo": "Apple vuole lanciare Siri AI in Europa evitando sanzioni",
       "descrizione": "Tim Cook (CEO di Apple) cerca una soluzione che permetta di lanciare Siri AI in Europa rispettando l'obbligo di interoperabilità del Digital Markets Act. The post Apple vuole lanciare Siri AI in Europa evitando sanzioni",
       "link": "https://www.punto-informatico.it/apple-vuole-lanciare-siri-ai-europa-sanzioni/",
       "fonte": "Punto Informatico",
       "data": "2026-07-01T11:24:11+00:00"
-    },
-    {
-      "titolo": "The bifurcated laptop landscape of Computex 2026 – MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm",
-      "descrizione": "With no new GPUs or major mobile CPU platform launches surrounding the show, the laptop announcements at Computex this year fell into two disparate categories, appealing to users with very different budgets.",
-      "link": "https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-01T11:00:00+00:00"
-    },
-    {
-      "titolo": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing",
-      "descrizione": "Virginia county asks all employees including schools to save power, due to AI-driven power requirements— state's 400-plus datacenters steadily increasing demand, grid expansion, and pricing",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-01T10:30:00+00:00"
-    },
-    {
-      "titolo": "Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS",
-      "descrizione": "Nano Banana 2 Lite è la versione più veloce di Nano Banana (genera immagini in pochi secondi), mentre Gemini Spark può accedere ai file su macOS. The post Google annuncia Nano Banana 2 Lite e Gemini Spark per macOS appea",
-      "link": "https://www.punto-informatico.it/google-annuncia-nano-banana-2-lite-gemini-spark-macos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T10:22:43+00:00"
-    },
-    {
-      "titolo": "Luce e gas a prezzo fisso: la promo anti-rincari di luglio 2026 arriva da Octopus",
-      "descrizione": "Con Octopus è possibile accedere a offerte luce e gas a prezzo fisso per 12 mesi: ecco la promo che taglia le bollette e protegge dai rincari. The post Luce e gas a prezzo fisso: la promo anti-rincari di luglio 2026 arri",
-      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-la-promo-anti-rincari-di-luglio-2026-arriva-da-octopus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T09:45:16+00:00"
-    },
-    {
-      "titolo": "Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate — Stop Killing Games-backed bill fails to pass committee",
-      "descrizione": "The Entertainment Software Association, in its infinite wisdom, has told a California Senate committee that private and community servers are illegal and amount to piracy.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-01T09:30:00+00:00"
-    },
-    {
-      "titolo": "Oppo Reno16 punta sulla creatività, l’Ai e la nostalgia",
-      "descrizione": "Oppo presenta la nuova serie Reno16 e mette sul tavolo una strategia chiara: differenziarsi nel mercato smartphone con imaging computazionale, AI generativa e nuovi accessori hardware. La gamma comprende Reno16,...",
-      "link": "https://www.ilsole24ore.com/art/oppo-reno16-punta-creativita-l-ai-e-nostalgia-AIr68PwD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-01T08:40:22+00:00"
-    },
-    {
-      "titolo": "Anthropic lancia Claude Science: un laboratorio AI per gli scienziati",
-      "descrizione": "Claude Science non è un nuovo modello AI, ma una piattaforma che integra database, strumenti e agenti per accelerare la ricerca scientifica. The post Anthropic lancia Claude Science: un laboratorio AI per gli scienziati",
-      "link": "https://www.punto-informatico.it/anthropic-claude-science-laboratorio-ai-scienziati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T08:19:48+00:00"
-    },
-    {
-      "titolo": "Anthropic ripristina Fable 5 e annuncia Sonnet 5",
-      "descrizione": "Anthropic ha rilasciato nuovamente Claude Fable 5 dopo aver implementato nuove protezioni che dovrebbero bloccare il 99% dei prompt pericolosi. The post Anthropic ripristina Fable 5 e annuncia Sonnet 5 appeared first on",
-      "link": "https://www.punto-informatico.it/anthropic-ripristina-fable-5-annuncia-sonnet-5/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T08:07:02+00:00"
-    },
-    {
-      "titolo": "Offerte Huawei: Summer Wave taglia il prezzo del WATCH GT 6 Pro",
-      "descrizione": "Huawei Summer Wave: acquista WATCH GT 6 Pro in sconto e ricevi gratis gli auricolari FreeBuds SE 2 e un secondo cinturino. Leggi tutti i dettagli. The post Offerte Huawei: Summer Wave taglia il prezzo del WATCH GT 6 Pro",
-      "link": "https://www.punto-informatico.it/offerte-huawei-summer-wave-taglia-il-prezzo-del-watch-gt-6-pro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T07:31:00+00:00"
     }
   ]
 }
