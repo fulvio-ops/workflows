@@ -1,36 +1,20 @@
 {
-  "last_updated": "2026-07-02T14:30:12.946137+00:00",
+  "last_updated": "2026-07-02T19:53:36.548153+00:00",
   "items": [
     {
-      "titolo": "Vodafone, Fastweb e ho. Mobile in down: segnalazioni di disservizi in aumento",
-      "descrizione": "Problemi nel pomeriggio per Vodafone, Fastweb e ho. Mobile. Le segnalazioni degli utenti sono aumentate rapidamente su Downdetector con picchi concentrati dopo le 16:00. Per Vodafone il grafico...",
-      "link": "https://www.hdblog.it/virtuali/articoli/n663306/down-vodafone-fastweb-e-ho-mobile/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T14:23:00+00:00",
+      "titolo": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "descrizione": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T18:01:20+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft lavorava a un \"Copilot OS\" molto simile a Chrome OS | Video",
-      "descrizione": "Sarebbe stato molto incentrato sull'intelligenza artificiale.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663294/microsoft-copilot-os-web-video-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T13:35:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "I had Gemini and Claude write my email replies - but only one sounds like me",
-      "descrizione": "Gemini and Claude have their own strong suits, but for assistance in writing emails, there is only one clear winner.",
-      "link": "https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/",
-      "fonte": "Latest news",
-      "data": "2026-07-01T16:37:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "I had Gemini and Claude write my email replies - but only one sounds like me",
-      "descrizione": "Gemini and Claude have their own strong suits, but for assistance in writing emails, there is only one clear winner.",
-      "link": "https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/",
-      "fonte": "Latest news",
-      "data": "2026-07-01T16:37:00+00:00",
+      "titolo": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "descrizione": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T18:01:20+00:00",
       "modello": "claude"
     }
   ]

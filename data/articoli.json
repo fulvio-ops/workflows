@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-07-02T14:30:07.764130+00:00",
+  "last_updated": "2026-07-02T19:53:32.172155+00:00",
   "items": [
+    {
+      "titolo": "Robot umanoidi più autonomi: Reflect v1.0 arriva al 90% nei test",
+      "descrizione": "Reflect v1.0 aumenta l’autonomia dei robot umanoidi nelle missioni complesse",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663186/reflect-v1-ai-robot-umanoidi-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T17:20:00+00:00"
+    },
+    {
+      "titolo": "Nuova VPN a luglio 2026, il piano da 27 mesi di Surfshark è in promo",
+      "descrizione": "Con Surfshark VPN è possibile accedere alla migliore VPN illimitata da attivare a luglio 2026, ecco la promo per il piano di 27 mesi. The post Nuova VPN a luglio 2026, il piano da 27 mesi di Surfshark è in promo appeared",
+      "link": "https://www.punto-informatico.it/nuova-vpn-a-luglio-2026-il-piano-da-27-mesi-di-surfshark-e-in-promo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T16:55:55+00:00"
+    },
+    {
+      "titolo": "Rubin Observatory, il cielo diventa un film lungo dieci anni",
+      "descrizione": "Rubin Observatory avvia il progetto LSST per osservare il cielo per dieci anni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663253/rubin-observatory-lsst-cielo-dieci-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T16:55:00+00:00"
+    },
+    {
+      "titolo": "Braun NEVO, la nuova linea di rasoi in grado di adattarsi al tipo di barba",
+      "descrizione": "A bordo la nuova tecnologia AeroTouch.",
+      "link": "https://www.hdblog.it/home/articoli/n663316/braun-lancia-linea-rasoi-nevo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T16:45:00+00:00"
+    },
+    {
+      "titolo": "La barca pilota elettrica che vola sull’acqua entra in test",
+      "descrizione": "Artemis testa il primo pilot boat elettrico con tecnologia hydrofoil",
+      "link": "https://www.hdblog.it/green/articoli/n663219/artemis-ef-12-pilot-boat-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T16:25:00+00:00"
+    },
+    {
+      "titolo": "Nome utente su WhatsApp: cresce la preoccupazione per i furti d'identità",
+      "descrizione": "Da pochi giorni è ufficialmente partita la fase di prenotazione degli username su WhatsApp, un passaggio preliminare rispetto al lancio più ampio previsto entro la fine dell’anno....",
+      "link": "https://www.hdblog.it/android/articoli/n663272/nome-utente-whatsapp-furto-identita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T16:15:00+00:00"
+    },
+    {
+      "titolo": "Titano dopo Marte: la nuova meta che tenta gli scienziati",
+      "descrizione": "Gli scienziati valutano Titano come possibile meta umana dopo Marte",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663159/missione-umana-titano-saturno/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T16:05:00+00:00"
+    },
+    {
+      "titolo": "Robot con pelle morbida e AI emotiva per single e anziani…",
+      "descrizione": "UBTECH presenta un robot umanoide con pelle sintetica, IA emotiva e design realistico. È pensato per offrire compagnia a single e over 60. The post Robot con pelle morbida e AI emotiva per single e anziani… appeared firs",
+      "link": "https://www.punto-informatico.it/robot-pelle-morbida-ai-emotiva-single-anziani/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T16:04:06+00:00"
+    },
+    {
+      "titolo": "Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle — trades tokens for revenue cut",
+      "descrizione": "Nvidia has announced a new business model under which it’ll be able to double-dip for revenue on the same silicon.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-to-take-a-cut-of-ai-cloud-revenue-on-top-of-hardware-sales",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-02T15:46:31+00:00"
+    },
+    {
+      "titolo": "U.S PC shipments drop 7%, market isn't expected to bounce back until 2029 — price hikes and component shortages take hold as PC market declines, Omdia report suggests",
+      "descrizione": "New data suggests PC shipments are already down in 2026 and are likely to get worse in the latter half of the year, but that could be setting the stage for a resurgence in the years to come.",
+      "link": "https://www.tomshardware.com/tech-industry/u-s-pc-shipments-drop-7-percent-market-isnt-expected-to-bounce-back-until-2029-price-hikes-and-component-shortages-take-hold-as-pc-market-declines-omdia-report-suggests",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-02T15:35:37+00:00"
+    },
+    {
+      "titolo": "Open Fiber ti regala 100 euro: come ottenerli attivando la fibra ultraveloce",
+      "descrizione": "Arriva la rete FTTH in quattro province del Veneto, ma l'iniziativa è attiva in tante parti d'Italia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663309/open-fiber-rete-ftth-fibra-veneto-voucher-premio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T15:20:00+00:00"
+    },
+    {
+      "titolo": "Monopolio Shopping: Google deve risarcire PriceRunner (Klarna)",
+      "descrizione": "Un tribunale svedese ha stabilito che Google deve pagare circa 2 miliardi di dollari a PriceRunner per abuso di posizione dominante con Shopping. The post Monopolio Shopping: Google deve risarcire PriceRunner (Klarna) ap",
+      "link": "https://www.punto-informatico.it/monopolio-shopping-google-risarcire-pricerunner-klarna/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T15:18:21+00:00"
+    },
+    {
+      "titolo": "Cibby è una libreria virtuale con le confezioni 3D dei giochi, in arrivo su iOS",
+      "descrizione": "Un'applicazione pensata per gli amanti dei giochi su supporto fisico, Cibby organizza l'intera collezione su scaffali 3D virtuali.",
+      "link": "https://www.hdblog.it/apple/articoli/n663299/cibby-libreria-virtuale-confezioni-3d-giochi-ios/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T14:50:00+00:00"
+    },
+    {
+      "titolo": "Shadow AI, con gli agenti serve trasparenza",
+      "descrizione": "Lo si considerava, fino a non molto tempo fa, un fenomeno confinato ai dipendenti più intraprendenti che sperimentano in autonomia i nuovi strumenti di intelligenza artificiale. Oggi, invece, la “shadow...",
+      "link": "https://www.ilsole24ore.com/art/shadow-ai-gli-agenti-serve-trasparenza-AIXpHWwD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-02T14:45:34+00:00"
+    },
+    {
+      "titolo": "Energia elettrica e gas: il report Arera svela cosa succede alle tasche degli italiani",
+      "descrizione": "Le conseguenze sulla nostra bolletta.",
+      "link": "https://www.hdblog.it/green/articoli/n663289/arera-energia-elettrica-gas-italia-2025/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T14:45:00+00:00"
+    },
+    {
+      "titolo": "Amazon ed eBay invasi da semi di piante inesistenti create con l’AI",
+      "descrizione": "Fiori a forma di farfalle e girasoli viola. I semi si vendono su eBay e Amazon, ma le immagini delle piante sono state generate con l'AI. The post Amazon ed eBay invasi da semi di piante inesistenti create con l’AI appea",
+      "link": "https://www.punto-informatico.it/amazon-ebay-invasi-semi-piante-inesistenti-create-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T14:44:21+00:00"
+    },
+    {
+      "titolo": "Meccatronica, aziende chiamate a “federare” i dati",
+      "descrizione": "Nella corsa alla competitività delle imprese è entrata di prepotenza l’intelligenza artificiale. Non solo quella che analizza le immagini dei prodotti per trovare difetti o i...",
+      "link": "https://www.ilsole24ore.com/art/meccatronica-aziende-chiamate-federare-dati-AI3MnRwD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-02T14:40:32+00:00"
+    },
+    {
+      "titolo": "Moto G77 Power ha una data di lancio, e filtrano in anticipo design e specifiche",
+      "descrizione": "Avrà una batteria da 7.000 mAh.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663301/motorola-moto-g77-power-data-lancio-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T14:40:00+00:00"
+    },
     {
       "titolo": "LG Sound Suite arriva in Italia: audio surround con flessibilità senza precedenti",
       "descrizione": "Un insieme di speaker wireless che grazie alla tecnologia FlexConnect possono essere posizionati con molta libertà nella stanza.",
@@ -9,39 +135,11 @@
       "data": "2026-07-02T14:25:00+00:00"
     },
     {
-      "titolo": "Cina: salpata un'enorme turbina eolica offshore da 16 MW",
-      "descrizione": "In Cina salpa la prima piattaforma eolica galleggiante TLP da 16 MW per il giacimento Lufeng",
-      "link": "https://www.hdblog.it/green/articoli/n663296/turbina-eolica-galleggiante-cina-cnooc/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T14:20:00+00:00"
-    },
-    {
-      "titolo": "Steam Machine non impressiona l'ex boss di PlayStation Shuhei Yoshida",
-      "descrizione": "Prestazioni deludenti, gamepad così così, tempi di boot troppo lunghi... Ma bella interfaccia.",
-      "link": "https://www.hdblog.it/games/articoli/n663300/steam-machine-shuhei-yoshida-opinioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T14:15:00+00:00"
-    },
-    {
       "titolo": "Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case — company says that it coordinated with the police and provided access to investigated employees’ workstations and gadg",
       "descrizione": "The company insists that it's cooperating with Taiwanese authorities and has voluntarily provided access to its premises. It also confirmed with the police that it's the individual, not the institution, that is being loo",
       "link": "https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-02T14:10:56+00:00"
-    },
-    {
-      "titolo": "Shawn Layden critica la strategia di Sony sul PC: abbandonarlo è un errore",
-      "descrizione": "Tanto, chi sta su PC, non compra certo una console",
-      "link": "https://www.hdblog.it/sony/articoli/n663290/ex-ceo-playstation-critica-strategia-pc/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T13:50:00+00:00"
-    },
-    {
-      "titolo": "Paste Protect di Opera difende gli appunti (copia-incolla) dagli attacchi ClickFix",
-      "descrizione": "Una prima linea di difesa contro gli attacchi ClickFix: Paste Protect è la novità integrata da Opera direttamente nel suo browser.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n663285/paste-protect-opera-attacchi-clickfix/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T13:45:00+00:00"
     },
     {
       "titolo": "Le prossime GIF su WhatsApp le manderai con GIPHY",
@@ -58,20 +156,6 @@
       "data": "2026-07-02T13:43:00+00:00"
     },
     {
-      "titolo": "Galaxy Z Fold 8 sta arrivando e sa come farsi notare di fianco a Galaxy S26 Ultra",
-      "descrizione": "Samsung Galaxy Z Fold 8 fa bella mostra di sé di fianco a Galaxy S26 Ultra nelle nuove immagini leak.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663245/samsung-galaxy-z-fold-8-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T13:40:00+00:00"
-    },
-    {
-      "titolo": "Microsoft lavorava a un \"Copilot OS\" molto simile a Chrome OS | Video",
-      "descrizione": "Sarebbe stato molto incentrato sull'intelligenza artificiale.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663294/microsoft-copilot-os-web-video-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T13:35:00+00:00"
-    },
-    {
       "titolo": "Falsa estensione di Perplexity dirotta il traffico di Chrome",
       "descrizione": "Una falsa estensione di Perplexity per Chrome intercettava le query degli utenti e dirottava il traffico verso siti usati per tracciare le attività online. The post Falsa estensione di Perplexity dirotta il traffico di C",
       "link": "https://www.punto-informatico.it/falsa-estensione-perplexity-dirotta-traffico-chrome/",
@@ -84,90 +168,6 @@
       "link": "https://www.punto-informatico.it/che-meraviglia-xiaomi-redmi-buds-8-lite-oggi-solo-18e-amazon/",
       "fonte": "Punto Informatico",
       "data": "2026-07-02T12:59:43+00:00"
-    },
-    {
-      "titolo": "Intel hikes pricing for its flagship desktop PC chips by up to $50 — official Core Ultra 270K Plus and 250K Plus product pages now recommend prices of up to $349 and $229, respectively",
-      "descrizione": "Intel's Arrow Lake Refresh processors remain among the company's strongest desktop offerings, but newly updated pricing makes both CPUs noticeably more expensive than when they debuted in March.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-hikes-pricing-for-its-flagship-desktop-pc-chips-by-up-to-usd50-official-core-ultra-270k-plus-and-250k-plus-product-pages-now-recommend-prices-of-up-to-usd349-and-usd229-respectively",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-02T12:58:25+00:00"
-    },
-    {
-      "titolo": "Google Pixel 4a: un aggiornamento risolverà il problema del riavvio infinito",
-      "descrizione": "Il fenomeno è stato riscontrato anche su Pixel 4 e Pixel 4 XL.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663278/google-pixel-4a-fix-problema-riavvio-infinito/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T12:35:00+00:00"
-    },
-    {
-      "titolo": "DOOM The Dark Ages: Revelations promette benissimo | prime impressioni",
-      "descrizione": "Le testate specializzate parlano di azione più frenetica, tanta lore nuova e tante citazioni e rimandi per i fan storici della serie.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663282/doom-dark-ages-dlc-revelations-impressioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T12:25:00+00:00"
-    },
-    {
-      "titolo": "Robot, TV, domotica e tanto altro: le migliori offerte tech del 2 luglio",
-      "descrizione": "Nuovo appuntamento con le migliori offerte tech: questo giovedì 2 luglio ha tante sorprese. Scopriamole tutte.",
-      "link": "https://www.hdblog.it/amazon/offerte/n663273/migliori-offerte-2-luglio-oggi-amazon-tech-hdblog/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T12:20:00+00:00"
-    },
-    {
-      "titolo": "Sconfitta finale per Google: multa per il monopolio Android",
-      "descrizione": "La Corte di Giustizia dell'Unione europea ha confermato l'abuso di posizione dominante di Google e quindi la sanzione di circa 4,1 miliardi di euro. The post Sconfitta finale per Google: multa per il monopolio Android ap",
-      "link": "https://www.punto-informatico.it/sconfitta-finale-google-multa-monopolio-android/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-02T12:06:23+00:00"
-    },
-    {
-      "titolo": "Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC — firm working with Nvidia to build a 30MW closed loop AI factory that doesn’t use local water",
-      "descrizione": "Valar Atomics claims to be the first startup to produce nuclear power, and it demonstrated that ability on stage by using its Ward 250 microreactor to power an RTX Spark unit. It also announced a partnership with Nvidia",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/startup-activates-nuclear-microreactor-live-on-stage-to-power-an-nvidia-rtx-spark-desktop-pc-firm-working-with-nvidia-to-build-a-30mw-closed-loop-ai-factory-that-doesnt-use-local-water",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-02T11:58:58+00:00"
-    },
-    {
-      "titolo": "ASUS NUC 16 Pro arriva in Italia: compatto ma potente, per l'AI in locale",
-      "descrizione": "Fino a 180 TOPs di potenza di calcolo AI in locale, grazie alla piattaforma Panther Lake di Intel.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663279/asus-nuc-16-pro-specifiche-italia-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T11:45:00+00:00"
-    },
-    {
-      "titolo": "La multa record a Google è confermata: la Corte UE chiude il caso Android",
-      "descrizione": "La Corte di giustizia Ue ha respinto il ricorso di Google sul caso Android, rendendo definitiva la sanzione da oltre 4,1 miliardi di euro legata agli accordi su Google Search e Chrome",
-      "link": "https://www.hdblog.it/google/articoli/n663277/google-multa-ue-android-concorrenza/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-02T11:35:00+00:00"
-    },
-    {
-      "titolo": "8 Best Travel Adapters (2026): My Top Recommendations",
-      "descrizione": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "fonte": "WIRED",
-      "data": "2026-07-02T11:31:00+00:00"
-    },
-    {
-      "titolo": "Paste Protect di Opera blocca gli attacchi agli appunti del PC",
-      "descrizione": "Opera lancia Paste Protect, la protezione in tempo reale degli appunti contro gli attacchi ClickFix e Lumma Stealer. The post Paste Protect di Opera blocca gli attacchi agli appunti del PC appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/paste-protect-opera-blocca-attacchi-appunti-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-02T11:14:22+00:00"
-    },
-    {
-      "titolo": "Influencer marketing: in Italia mercato da 425 milioni, compensi in calo per le celebrity",
-      "descrizione": "I numeri del report Derev per il 2026: chi ha milioni di follower guadagna fino a 58mila euro per un video su Youtube, ma i brand sono sempre più attenti alla reputazione. Su TikTok solo 0,78% dei contenuti con più inter",
-      "link": "https://www.ilsole24ore.com/art/influencer-marketing-italia-mercato-425-milioni-compensi-calo-le-celebrity-AI0kWmyD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-02T11:01:00+00:00"
-    },
-    {
-      "titolo": "Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers — individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering",
-      "descrizione": "Four individuals suspected of smuggling Nvidia AI GPUs into China by using Singapore as a transshipment point are facing multiple charges. Singaporean authorities say they are not obliged to enforce foreign export contro",
-      "link": "https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-02T11:00:00+00:00"
     }
   ]
 }
