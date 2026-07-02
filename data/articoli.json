@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-01T20:15:51.017969+00:00",
+  "last_updated": "2026-07-02T04:31:55.092746+00:00",
   "items": [
+    {
+      "titolo": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+      "descrizione": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
+      "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+      "fonte": "WIRED",
+      "data": "2026-07-01T21:34:03+00:00"
+    },
+    {
+      "titolo": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
+      "descrizione": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica fino al 35%.",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-01T19:00:00+00:00"
+    },
     {
       "titolo": "Google lavora a una variante di Gemini Live per le automobili",
       "descrizione": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
@@ -86,13 +100,6 @@
       "data": "2026-07-01T15:35:00+00:00"
     },
     {
-      "titolo": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
-      "descrizione": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica fino al 35%.",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T15:31:00+00:00"
-    },
-    {
       "titolo": "HMD Global propone quattro nuovi feature phone a marchio Nokia",
       "descrizione": "I modelli integrano funzionalità AI.",
       "link": "https://www.hdblog.it/smartphone/articoli/n663174/hmd-global-quattro-feature-phone-nokia/",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/gta-6-amazon-italia-prezzo-minimo-garantito/",
       "fonte": "Punto Informatico",
       "data": "2026-07-01T11:47:43+00:00"
-    },
-    {
-      "titolo": "Apple vuole lanciare Siri AI in Europa evitando sanzioni",
-      "descrizione": "Tim Cook (CEO di Apple) cerca una soluzione che permetta di lanciare Siri AI in Europa rispettando l'obbligo di interoperabilità del Digital Markets Act. The post Apple vuole lanciare Siri AI in Europa evitando sanzioni",
-      "link": "https://www.punto-informatico.it/apple-vuole-lanciare-siri-ai-europa-sanzioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T11:24:11+00:00"
     }
   ]
 }
