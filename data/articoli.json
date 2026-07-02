@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-02T04:31:55.092746+00:00",
+  "last_updated": "2026-07-02T09:33:38.093316+00:00",
   "items": [
+    {
+      "titolo": "WhatsApp lancia Side Chat: Meta AI aiuta leggendo il contesto delle conversazioni",
+      "descrizione": "Via ai test delle Side Chat su WhatsApp, funzione che permette a Meta AI di rispondere tenendo conto del contesto della conversazione.",
+      "link": "https://www.hdblog.it/android/articoli/n663236/whatsapp-side-chat-meta-ai-contesto-conversazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T09:25:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi porta in Europa la bilancia smart S400 PRO: tutte le info utili a display",
+      "descrizione": "Bilancia Xiaomi S400 Pro globale con display, Bluetooth e 150 giorni di batteria",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n663242/xiaomi-bilancia-smart-s400-pro-info-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T09:05:00+00:00"
+    },
+    {
+      "titolo": "Una boccata d'aria fresca con il nuovo ventilatore portatile Xiaomi",
+      "descrizione": "Nuova versione in livrea verde per il ventilatore portatile palmare di Xiaomi: 40 ore di autonomia, portata fino a 5 metri di distanza, ma soprattutto ben 100 livelli di regolazione, per trovare...",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n663230/ventilatore-portatile-mijia-xiaomi-40-ore-xiaomi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T08:55:00+00:00"
+    },
+    {
+      "titolo": "Intesa Sanpaolo porta sul cloud i sistemi IT core con TIM e Google Cloud",
+      "descrizione": "Il progetto ha utilizzato le due region italiane di Google Cloud",
+      "link": "https://www.hdblog.it/google/articoli/n663248/intesa-sanpaolo-cloud-sistemi-it-core/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T08:50:00+00:00"
+    },
+    {
+      "titolo": "Canva non funziona: tutti gli aggiornamenti sul down del 2 luglio",
+      "descrizione": "Canva ha problemi, per qualcuno il servizio è down: un numero anomalo di utenti sta segnalando l'impossibilità di accedere alla piattaforma. The post Canva non funziona: tutti gli aggiornamenti sul down del 2 luglio appe",
+      "link": "https://www.punto-informatico.it/canva-down-02072026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T08:49:19+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy, le patch di giugno arrivano in Italia per tanti nuovi dispositivi",
+      "descrizione": "S23 Series, un po' di Galaxy A e diversi Galaxy Tab, tra i device coinvolti.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663247/samsung-patch-giugno-galaxy-s23-plus-ultra/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T08:45:00+00:00"
+    },
+    {
+      "titolo": "refurbed Marketplace, il ricondizionato garantito diventa una scelta sempre più quotidiana",
+      "descrizione": "refurbed Marketplace propone prodotti ricondizionati garantiti: più accessibili del nuovo, più sicuri dell’usato.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663050/refurbed-marketplace-il-ricondizionato-garantito-diventa-una-scelta-sempre-piu-quotidiana/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T08:31:00+00:00"
+    },
+    {
+      "titolo": "Apple TV prepara Neuromancer, la nuova grande serie Cyberpunk",
+      "descrizione": "Apple TV anticipa Neuromancer, nuova serie sci-fi dal romanzo di William Gibson.",
+      "link": "https://www.hdblog.it/apple/articoli/n663238/neuromancer-apple-tv-serie-sci-fi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T08:25:00+00:00"
+    },
+    {
+      "titolo": "Apple, scoperto un bug in Nascondi la mia email: privacy a rischio",
+      "descrizione": "Un bug in Nascondi la mia email permetterebbe di risalire all'indirizzo reale degli utenti. Apple sarebbe stata avvisata oltre un anno fa. The post Apple, scoperto un bug in Nascondi la mia email: privacy a rischio appea",
+      "link": "https://www.punto-informatico.it/apple-scoperto-bug-nascondi-mia-email-privacy-rischio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T08:18:41+00:00"
+    },
+    {
+      "titolo": "Amazon: multa negli Stati Uniti e denuncia in Australia",
+      "descrizione": "Amazon pagherà 2,25 milioni di dollari per non aver fornito informazioni sui furti di identità e ha ricevuto una denuncia per la pubblicità in Prime Video. The post Amazon: multa negli Stati Uniti e denuncia in Australia",
+      "link": "https://www.punto-informatico.it/amazon-multa-stati-uniti-denuncia-australia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T08:06:27+00:00"
+    },
+    {
+      "titolo": "Visa, Mastercard e Coinbase lanciano la stablecoin globale Open USD",
+      "descrizione": "Visa, Mastercard e Coinbase preparano Open USD, stablecoin legata al dollaro.",
+      "link": "https://www.hdblog.it/mercato/articoli/n663228/visa-mastercard-coinbase-open-usd-stablecoin/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T07:50:00+00:00"
+    },
+    {
+      "titolo": "Xbox Disc2Digital trasforma i giochi su disco in copie digitali",
+      "descrizione": "Microsoft ha avviato i test di Xbox Disc2Digital, la funzione che trasforma i giochi su disco in licenze digitali legate all'account. The post Xbox Disc2Digital trasforma i giochi su disco in copie digitali appeared firs",
+      "link": "https://www.punto-informatico.it/xbox-disc2digital-trasforma-giochi-disco-copie-digitali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T07:45:19+00:00"
+    },
+    {
+      "titolo": "Apple, raffica di novità nel 2027: ecco perché l'inizio dell'anno sarà speciale",
+      "descrizione": "Apple potrebbe aprire il 2027 con numerose novità: secondo Mark Gurman sarebbero in arrivo quattro nuovi iPad Pro, un MacBook Pro entry level, il chip M7 e nuovi iPhone della serie 18",
+      "link": "https://www.hdblog.it/portatili/articoli/n663229/nuovi-ipad-pro-macbook-pro-inizio-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T07:20:00+00:00"
+    },
+    {
+      "titolo": "Usate Nascondi la mia email? Un ricercatore: l'indirizzo reale non è al sicuro",
+      "descrizione": "Nascondi la mia email di Apple non sarebbe così efficace nel fare ciò che promette. Affatto. Alla base del sistema che permette ai clienti iCloud di utilizzare un indirizzo di posta...",
+      "link": "https://www.hdblog.it/apple/articoli/n663226/nascondi-la-mia-email-rischio-privacy/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T07:10:00+00:00"
+    },
+    {
+      "titolo": "Nuovi iPad Pro e MacBook Pro all’inizio del 2027?",
+      "descrizione": "Apple potrebbe annunciare un MacBook Pro economico con chip M7 e quattro iPad Pro con schermi da 11/13 pollici e chip M6 all'inizio del 2027. The post Nuovi iPad Pro e MacBook Pro all’inizio del 2027? appeared first on P",
+      "link": "https://www.punto-informatico.it/nuovi-ipad-pro-macbook-pro-inizio-2027/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T07:00:08+00:00"
+    },
+    {
+      "titolo": "Fujifilm QuickSnap: due nuovi versioni per i 40 anni della fotocamera monouso",
+      "descrizione": "Vendute ad oggi 1,7 miliardi di unità in tutto il mondo.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n663195/fujifilm-quicksnap-nuove-versioni-fotocamera/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-02T06:55:00+00:00"
+    },
+    {
+      "titolo": "Wimbledon, il programma di giovedì: 5 gli italiani in campo oggi",
+      "descrizione": "Matteo Berrettini di nuovo sul centrale, Flavio Cobolli punta al terzo turno, Lorenzo Sonego apre la giornata con Tyra Grant, Paolini chiude. The post Wimbledon, il programma di giovedì: 5 gli italiani in campo oggi appe",
+      "link": "https://www.punto-informatico.it/wimbledon-2026-programma-giovedi-2-luglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T06:40:11+00:00"
+    },
+    {
+      "titolo": "SpaceX prepara uno smartphone AI? Cosa sappiamo",
+      "descrizione": "SpaceX ha mostrato un prototipo di dispositivo AI più sottile dell'iPhone agli investitori prima dell'IPO, con sistema operativo proprietario. The post SpaceX prepara uno smartphone AI? Cosa sappiamo appeared first on Pu",
+      "link": "https://www.punto-informatico.it/spacex-prepara-smartphone-ai-cosa-sappiamo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-02T06:21:09+00:00"
+    },
+    {
+      "titolo": "Paramount+ Coupon Codes and Deals for July 2026",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T05:00:00+00:00"
+    },
+    {
+      "titolo": "B&H Photo Promo Codes and Deals This July 2026",
+      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T05:00:00+00:00"
+    },
+    {
+      "titolo": "30% Off Samsung Promo Code | July 2026",
+      "descrizione": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T05:00:00+00:00"
+    },
+    {
+      "titolo": "Whoop Promo Codes: 20% Off This July 2026",
+      "descrizione": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-07-02T05:00:00+00:00"
+    },
     {
       "titolo": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
       "descrizione": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
@@ -9,165 +163,11 @@
       "data": "2026-07-01T21:34:03+00:00"
     },
     {
-      "titolo": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
-      "descrizione": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica fino al 35%.",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T19:00:00+00:00"
-    },
-    {
-      "titolo": "Google lavora a una variante di Gemini Live per le automobili",
-      "descrizione": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
-      "link": "https://www.hdblog.it/google/articoli/n663207/google-gemini-live-android-auto-videocamere/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T18:05:00+00:00"
-    },
-    {
-      "titolo": "Licenziamenti in casa IO Interactive, lo studio di 007: First Light",
-      "descrizione": "E a quanto pare sono stati causati da Microsoft.",
-      "link": "https://www.hdblog.it/games/articoli/n663205/007-first-light-io-interactive-licenziamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T17:50:00+00:00"
-    },
-    {
       "titolo": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
       "descrizione": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
       "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/",
       "fonte": "WIRED",
       "data": "2026-07-01T17:38:12+00:00"
-    },
-    {
-      "titolo": "Dreame T16 Pro Heat arriva in Italia con una promo di lancio molto allettante",
-      "descrizione": "30.000 Pa di aspirazione e acqua calda fino a 90°C.",
-      "link": "https://www.hdblog.it/home/articoli/n663202/dreame-t16-pro-heat-ufficiale-prezzi-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T17:25:00+00:00"
-    },
-    {
-      "titolo": "Why Déjà Dup and these 4 other tiny Linux tools have become essential to my daily routine",
-      "descrizione": "Linux has a wealth of applications, but sometimes the smaller tools get overlooked. Here's a list of those I'd prefer never to be without.",
-      "link": "https://www.zdnet.com/article/deja-dup-and-4-other-tiny-linux-tools-essential-to-my-daily-routine/",
-      "fonte": "Latest news",
-      "data": "2026-07-01T17:06:33+00:00"
-    },
-    {
-      "titolo": "Google chiude l'accesso a Tenor, social e IM passano ad altri servizi per le GIF animate",
-      "descrizione": "Il sito continuerà a esistere e sarà sempre sfruttato dai prodotti software Google, ma piattaforme come WhatsApp, Discord e Twitter hanno dovuto cercarsi un'alternativa.",
-      "link": "https://www.hdblog.it/google/articoli/n663197/google-chiude-api-tenor-terze-parti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T17:05:00+00:00"
-    },
-    {
-      "titolo": "La promessa della NASA: un pallone sulla Luna se gli USA vincono i mondiali",
-      "descrizione": "NASA porterà un pallone sulla Luna se gli USA vinceranno i Mondiali 2026",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663191/nasa-pallone-luna-usa-mondiali-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T16:55:00+00:00"
-    },
-    {
-      "titolo": "Ostriche nello spazio: il filtro naturale per gli astronauti",
-      "descrizione": "Ostriche e acquacoltura chiusa studiate per acqua e cibo nello spazio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663112/ostriche-spazio-filtro-acqua-astronauti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T16:35:00+00:00"
-    },
-    {
-      "titolo": "Motorola sta per superare Samsung con Qi2 e magneti integrati sull'Edge 70 Max",
-      "descrizione": "Motorola Edge 70 Max dovrebbe arrivare con il supporto completo alla tecnologia Qi2.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663142/motorola-edge-70-max-qi2/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T16:25:00+00:00"
-    },
-    {
-      "titolo": "Rocket Lab ferma tutto all’ultimo secondo: rinviato il lancio",
-      "descrizione": "Rocket Lab rinvia all’ultimo secondo il lancio del satellite radar giapponese QPS-SAR-13",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663161/rocket-lab-lancio-abortito-qps-sar-13/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T16:15:00+00:00"
-    },
-    {
-      "titolo": "Muffa nella doccia? Come risolvere con Raspberry Pi 5, Arduino Q e un po' di AI",
-      "descrizione": "Soluzione economica contro l'umidità in bagno.",
-      "link": "https://www.hdblog.it/domotica/articoli/n663170/doccia-raspberry-pi-5-arduino-uno-q-antimuffa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T15:40:00+00:00"
-    },
-    {
-      "titolo": "Steam Machine, il prezzo da pagare per la RAM in single channel | Benchmark",
-      "descrizione": "In determinati scenari si lasciano sul piatto quasi il 20% dei punti.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663178/valve-steam-machine-dual-channel-ram-benchmark/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T15:35:00+00:00"
-    },
-    {
-      "titolo": "HMD Global propone quattro nuovi feature phone a marchio Nokia",
-      "descrizione": "I modelli integrano funzionalità AI.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663174/hmd-global-quattro-feature-phone-nokia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T15:25:00+00:00"
-    },
-    {
-      "titolo": "Intel, partono i lavori per una nuova fonderia nella Silicon Valley",
-      "descrizione": "La cerimonia di inaugurazione dei lavori si è tenuta nelle scorse ore.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663172/intel-fonderia-silicon-valley-lavori/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T15:15:00+00:00"
-    },
-    {
-      "titolo": "Meta limita le funzioni AI degli occhiali smart, serve l’abbonamento",
-      "descrizione": "Limiti di utilizzo per alcune funzioni AI sugli occhiali smart di Meta, che spinge verso la sottoscrizione dell'abbonamento premium One. The post Meta limita le funzioni AI degli occhiali smart, serve l’abbonamento appea",
-      "link": "https://www.punto-informatico.it/meta-limita-funzioni-ai-occhiali-smart-serve-abbonamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T14:36:29+00:00"
-    },
-    {
-      "titolo": "Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups — Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A",
-      "descrizione": "Tesla hires an Intel veteran, who most recently was responsible for installing advanced tools at Intel's Arizona fab that is now ramping production of chips using 18A fabrication process.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-01T14:07:26+00:00"
-    },
-    {
-      "titolo": "Sony officially kills the PlayStation disc, ending physical game production in 2028 — shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems",
-      "descrizione": "While Nintendo remains a holdout, this announcement essentially sounds the death knell for physical media in cutting-edge gaming.",
-      "link": "https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-01T13:56:51+00:00"
-    },
-    {
-      "titolo": "Google rende le ricette su AI Mode più visibili per i food blogger",
-      "descrizione": "Le ricette su AI Mode di Google mostrano ora chi le ha create con link in primo piano. I food blogger chiedevano più visibilità. The post Google rende le ricette su AI Mode più visibili per i food blogger appeared first",
-      "link": "https://www.punto-informatico.it/google-ricette-ai-mode-piu-visibili-food-blogger/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T13:14:47+00:00"
-    },
-    {
-      "titolo": "Svolta epocale: solo giochi digitali su PlayStation, niente più dischi",
-      "descrizione": "Ancora un anno, poi addio ai giochi su disco per le console PlayStation: l'annuncio di Sony è d quelli che cambiano la storia del gaming. The post Svolta epocale: solo giochi digitali su PlayStation, niente più dischi ap",
-      "link": "https://www.punto-informatico.it/solo-giochi-digitali-playstation-niente-piu-dischi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T13:08:04+00:00"
-    },
-    {
-      "titolo": "Siamo al paradosso: ora la crisi della RAM è colpa nostra",
-      "descrizione": "Il CEO di Micron sostiene che la corsa al risparmio abbia limitato gli investimenti nelle fabbriche, aggravando la crisi della RAM. The post Siamo al paradosso: ora la crisi della RAM è colpa nostra appeared first on Pun",
-      "link": "https://www.punto-informatico.it/paradosso-crisi-ram-colpa-nostra/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T12:50:16+00:00"
-    },
-    {
-      "titolo": "OnePlus in crisi? Il sito ufficiale inizia a consigliare i device OPPO",
-      "descrizione": "Smartphone e dispositivi OPPO consigliati sul sito ufficiale di OnePlus, anche se al momento solo in alcuni Paesi: passaggio di consegne? The post OnePlus in crisi? Il sito ufficiale inizia a consigliare i device OPPO ap",
-      "link": "https://www.punto-informatico.it/oneplus-crisi-sito-ufficiale-inizia-consigliare-device-oppo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T12:18:51+00:00"
-    },
-    {
-      "titolo": "GTA 6 è arrivato su Amazon Italia al prezzo minimo garantito",
-      "descrizione": "È iniziata la vendita di GTA 6 (Grand Theft Auto VI) su Amazon Italia: scegli la versione adatta alla tua console, PS5 o Xbox Series X/S. The post GTA 6 è arrivato su Amazon Italia al prezzo minimo garantito appeared fir",
-      "link": "https://www.punto-informatico.it/gta-6-amazon-italia-prezzo-minimo-garantito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-01T11:47:43+00:00"
     }
   ]
 }

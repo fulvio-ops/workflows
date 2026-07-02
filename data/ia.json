@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-02T04:31:58.647452+00:00",
+  "last_updated": "2026-07-02T09:33:40.815399+00:00",
   "items": [
     {
-      "titolo": "ChatGPT non è più solo un chatbot: 11 cose che sa fare oggi",
-      "descrizione": "ChatGPT si è trasformato da chatbot conversazionale a spazio di lavoro digitale completo. Ecco 11 funzioni che meritano più attenzione. The post ChatGPT non è più solo un chatbot: 11 cose che sa fare oggi appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-non-e-piu-solo-chatbot-11-cose-sa-fare-oggi/",
+      "titolo": "Google blocca l’accesso alle GIF di Tenor",
+      "descrizione": "Google ha disattivato le API di Tenor, quindi le app di terze parti non possono più accedere alle GIF (ora accessibili solo dalle app di Google). The post Google blocca l’accesso alle GIF di Tenor appeared first on Punto",
+      "link": "https://www.punto-informatico.it/google-blocca-accesso-gif-tenor/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-01T15:30:49+00:00",
+      "data": "2026-07-02T08:55:59+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google lavora a una variante di Gemini Live per le automobili",
-      "descrizione": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
-      "link": "https://www.hdblog.it/google/articoli/n663207/google-gemini-live-android-auto-videocamere/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-01T18:05:00+00:00",
+      "titolo": "Google Slides crea intere presentazioni con Gemini",
+      "descrizione": "Basta un prompt per una presentazione completa su Google Slides. Gemini fa domande, suggerisce file e genera le slide. The post Google Slides crea intere presentazioni con Gemini appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/google-slides-crea-intere-presentazioni-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-01T18:02:06+00:00",
       "modello": "gemini"
     },
     {
