@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-07-02T19:53:32.172155+00:00",
+  "last_updated": "2026-07-03T04:10:26.005496+00:00",
   "items": [
+    {
+      "titolo": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+      "descrizione": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
+      "link": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
+      "fonte": "WIRED",
+      "data": "2026-07-03T00:00:00+00:00"
+    },
     {
       "titolo": "Robot umanoidi più autonomi: Reflect v1.0 arriva al 90% nei test",
       "descrizione": "Reflect v1.0 aumenta l’autonomia dei robot umanoidi nelle missioni complesse",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/falsa-estensione-perplexity-dirotta-traffico-chrome/",
       "fonte": "Punto Informatico",
       "data": "2026-07-02T13:00:07+00:00"
-    },
-    {
-      "titolo": "Che meraviglia le Xiaomi Redmi Buds 8 Lite, oggi solo 18€ su Amazon",
-      "descrizione": "Le Xiaomi Redmi Buds 8 Lite sono in offerta su Amazon a soli 18 euro e sono probabilmente la migliore occasione nella categoria. The post Che meraviglia le Xiaomi Redmi Buds 8 Lite, oggi solo 18€ su Amazon appeared first",
-      "link": "https://www.punto-informatico.it/che-meraviglia-xiaomi-redmi-buds-8-lite-oggi-solo-18e-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-02T12:59:43+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T19:53:36.548153+00:00",
+  "last_updated": "2026-07-03T04:10:30.765818+00:00",
   "items": [
     {
       "titolo": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "descrizione": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "fonte": "WIRED",
-      "data": "2026-07-02T18:01:20+00:00",
+      "titolo": "Fable 5 just set a new AI freelance work performance record - but it can't replace humans yet",
+      "descrizione": "The newly reinstated Anthropic model topped charts for automating work. Here's what that means for the future.",
+      "link": "https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/",
+      "fonte": "Latest news",
+      "data": "2026-07-02T20:29:26+00:00",
       "modello": "claude"
     }
   ]
