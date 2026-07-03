@@ -1,12 +1,152 @@
 {
-  "last_updated": "2026-07-03T09:35:51.144128+00:00",
+  "last_updated": "2026-07-03T14:32:49.596079+00:00",
   "items": [
     {
-      "titolo": "3DO, il suo ritorno è già stato archiviato | Cosa è successo davvero",
-      "descrizione": "Il rilancio di 3DO si blocca per una disputa sui diritti della console",
-      "link": "https://www.hdblog.it/games/articoli/n663367/3do-ritorno-cancellato-diritti-console/",
+      "titolo": "Sony non esclude un ulteriore aumento dei prezzi per gli abbonamenti PS Plus",
+      "descrizione": "A domanda diretta, Sony non conferma né smentisce futuri aumenti di prezzo per PS Plus, ma è una storia già scritta e che conosciamo bene.",
+      "link": "https://www.hdblog.it/games/articoli/n663399/sony-non-esclude-ulteriore-aumento-prezzi-ps-plus/",
       "fonte": "HDblog.it",
-      "data": "2026-07-03T09:35:00+00:00"
+      "data": "2026-07-03T14:15:00+00:00"
+    },
+    {
+      "titolo": "This E Ink tablet replaced my iPad and Kindle - and it's 30% off on Amazon right now",
+      "descrizione": "If you're in the market for a tablet, look no further than the TCL Nxtpaper 11 Plus, especially at this price for the Fourth of July.",
+      "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-july-4-deal/",
+      "fonte": "Latest news",
+      "data": "2026-07-03T14:14:14+00:00"
+    },
+    {
+      "titolo": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases",
+      "descrizione": "17 plaintiffs sued Samsung, SK hynix, and Micron in the U.S. District Court for the Northern District of California in late June.",
+      "link": "https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-03T14:13:04+00:00"
+    },
+    {
+      "titolo": "Ultrahuman Ring Pro: problemi produttivi per l'anello smart con batteria super",
+      "descrizione": "Prometteva 16 giorni d'autonomia, ma ci sarà da aspettare",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663406/ultrahuman-ring-pro-smart-problemi-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T13:35:00+00:00"
+    },
+    {
+      "titolo": "Blackstone-owned QTS abandons planned world’s largest data center campus after years of lawsuits — 2,100-acre Virginia Digital Gateway project dies over a newspaper-notice technicality",
+      "descrizione": "Blackstone-owned QTS has withdrawn its final appeal for Virginia’s 22-million-square-foot Digital Gateway campus, ending the massive data center project.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/blackstone-owned-qts-abandons-planned-worlds-largest-data-center-campus-after-years-of-lawsuits-2-100-acre-virginia-digital-gateway-project-dies-over-a-newspaper-notice-technicality",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-03T13:32:53+00:00"
+    },
+    {
+      "titolo": "Wimbledon, oggi inizia il terzo turno: esame statunitense per Sinner",
+      "descrizione": "Jannik Sinner sfida Brooksby sul campo 1, Novak Djokovic sul campo centrale, Jodar vede la seconda settimana. The post Wimbledon, oggi inizia il terzo turno: esame statunitense per Sinner appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/wimbledon-2026-terzo-turno-3-luglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T13:26:29+00:00"
+    },
+    {
+      "titolo": "Un robot da 8.000 dollari piega i vestiti e pulisce casa",
+      "descrizione": "Isaac-1 promette di automatizzare le faccende di casa. Il robot è in preordine negli USA. Prezzo da 8000 dollari o in abbonamento mensile. The post Un robot da 8.000 dollari piega i vestiti e pulisce casa appeared first",
+      "link": "https://www.punto-informatico.it/robot-8000-dollari-piega-vestiti-pulisce-casa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T12:49:54+00:00"
+    },
+    {
+      "titolo": "Streaming pirata: quasi un utente su cinque viene colpito da malware",
+      "descrizione": "Guardare partite, film e serie TV su piattaforme pirata non espone solo a possibili conseguenze legali.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n663398/streaming-pirata-malware/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T12:45:00+00:00"
+    },
+    {
+      "titolo": "Oppo piglia tutto: addio OxygenOS e Realme UI, il futuro è solo ColorOS",
+      "descrizione": "Cambiano le strategie interne al gruppo BKK che include Oppo, OnePlus, Realme e non solo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663394/oppo-coloros-addio-oxygenos-realmeui-rumor-oneplus/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T12:35:00+00:00"
+    },
+    {
+      "titolo": "Android Auto, arrivano gli aggiornamenti per Spotify e YouTube Music",
+      "descrizione": "Cambia l’interfaccia per le due piattaforme streaming.",
+      "link": "https://www.hdblog.it/android/articoli/n663395/android-auto-upgrade-spotify-youtube-music/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T12:20:00+00:00"
+    },
+    {
+      "titolo": "Galaxy Z Flip 8, Fold 8 e Ultra, ecco i presunti prezzi europei: tenetevi forte",
+      "descrizione": "Tutto aumenta, e la situazione peggiora man mano che vi serve più memoria. Più cari anche gli smartwatch.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663397/samsung-galaxy-z-fold-flip-8-ultra-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T12:15:00+00:00"
+    },
+    {
+      "titolo": "Chiusura PS Store su PS3 e Vita, gli archivisti digitali si mobilitano",
+      "descrizione": "Alcune opere dell'ingegno rischiano di essere perdute per sempre.",
+      "link": "https://www.hdblog.it/games/articoli/n663392/ps3-psvita-chiude-store-archivisti-digitali-giochi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T11:15:00+00:00"
+    },
+    {
+      "titolo": "Steam Machine, ecco il progetto ufficiale della faceplate e-ink da stampare in 3D",
+      "descrizione": "Il progetto fai da te di Valve include guida di assemblaggio, configurazione software e istruzioni per installare il firmware sulla scheda ESP32 necessaria al display e-ink",
+      "link": "https://www.hdblog.it/games/articoli/n663389/steam-machine-faceplate-e-ink-stampa-3d/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T11:10:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi prepara un nuovo aggiornamento con Android 17, ma HyperOS 4 si nasconde",
+      "descrizione": "Xiaomi è attualmente al lavoro su quella che dovrebbe essere la versione 3.3 di HyperOS.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663364/aggiornamento-xiaomi-hyperos-4-android-17/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T11:05:00+00:00"
+    },
+    {
+      "titolo": "Meta ammette, gli agenti AI evolvono più lentamente di quanto sperato",
+      "descrizione": "Intanto però i licenziamenti ci sono stati.",
+      "link": "https://www.hdblog.it/business/articoli/n663387/meta-zuckerberg-modelli-ai-velocita-evoluzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T10:45:00+00:00"
+    },
+    {
+      "titolo": "Niente più giochi su disco per PlayStation: c'è malcontento, ma Sony vola in borsa",
+      "descrizione": "Gli investitori non guardano in faccia nessuno, figuriamoci gli appassionati: la Borsa premia l'addio ai giochi su disco da parte di Sony.",
+      "link": "https://www.hdblog.it/sony/articoli/n663376/niente-giochi-disco-playstation-sony-vola-borsa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T10:35:00+00:00"
+    },
+    {
+      "titolo": "7 Best Phones You Can’t Buy in the US (2026)",
+      "descrizione": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
+      "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "fonte": "WIRED",
+      "data": "2026-07-03T10:31:00+00:00"
+    },
+    {
+      "titolo": "Cloudflare bloccherà i bot usati per indicizzazione e scraping",
+      "descrizione": "A partire dal 15 settembre, Cloudflare bloccherà l'accesso ai bot ad uso misto, come Googlebot, ma gli editori potranno cambiare le impostazioni. The post Cloudflare bloccherà i bot usati per indicizzazione e scraping ap",
+      "link": "https://www.punto-informatico.it/cloudflare-blocchera-bot-usati-indicizzazione-scraping/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T10:29:55+00:00"
+    },
+    {
+      "titolo": "GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs — offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation",
+      "descrizione": "GitHub has announced that it will be giving developers a way to obtain their public repo on a CD-ROM. Context is provided by Sony's recent decision to abandon game discs.",
+      "link": "https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-03T10:27:12+00:00"
+    },
+    {
+      "titolo": "Alex Karp contro l’AI a token: le imprese rischiano di cedere dati preziosi",
+      "descrizione": "Il CEO di Palantir sostiene che l’AI generativa possa esporre informazioni strategiche su dati, processi e relazioni interne delle aziende, elementi centrali per il loro vantaggio competitivo",
+      "link": "https://www.hdblog.it/business/articoli/n663385/palantir-ceo-contro-openai-anthropic-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T10:25:00+00:00"
+    },
+    {
+      "titolo": "Musk smentisce il telefono SpaceX, ma le prove si accumulano",
+      "descrizione": "EMusk smentisce, ma Wall Street Journal, Reuters e Financial Times riportano tutti elementi che puntano verso un telefono firmato SpaceX. The post Musk smentisce il telefono SpaceX, ma le prove si accumulano appeared fir",
+      "link": "https://www.punto-informatico.it/musk-smentisce-telefono-spacex-prove-si-accumulano/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T09:37:48+00:00"
     },
     {
       "titolo": "F-Droid: la verifica degli sviluppatori Android è un malware",
@@ -16,41 +156,6 @@
       "data": "2026-07-03T09:21:34+00:00"
     },
     {
-      "titolo": "Come nasce una batteria per iPhone? iFixit lo mostra in un nuovo video",
-      "descrizione": "Passo dopo passo, ecco come prende vita una batteria per smartphone",
-      "link": "https://www.hdblog.it/apple/articoli/n663355/ifixit-batteria-iphone-come-si-costruisce/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:50:00+00:00"
-    },
-    {
-      "titolo": "Meta lancia Pocket: l’app AI per creare minigiochi dal telefono",
-      "descrizione": "Meta testa Pocket, app AI per creare e condividere minigiochi da mobile",
-      "link": "https://www.hdblog.it/games/articoli/n663361/meta-pocket-app-ai-giochi-generativi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:45:00+00:00"
-    },
-    {
-      "titolo": "La carta d'identità cartacea si potrà ancora usare per la telefonia: ecco fino a quando",
-      "descrizione": "Chi ha usato la carta d’identità cartacea prima del 3 agosto 2026 per attivare una linea telefonica potrà mantenerla nel profilo fino alla scadenza naturale, ma solo per quel contratto",
-      "link": "https://www.hdblog.it/mobile/articoli/n663360/carta-didentita-scadenza-contratti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:35:00+00:00"
-    },
-    {
-      "titolo": "Sony riconverte la fabbrica austriaca dei dischi PlayStation",
-      "descrizione": "Sony prepara il dopo dischi PlayStation riconvertendo lo stabilimento a microlenti.",
-      "link": "https://www.hdblog.it/sony/articoli/n663347/sony-playstation-addio-dischi-fabbrica-microlenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:20:00+00:00"
-    },
-    {
-      "titolo": "BlueHammer, la falla critica di Windows Defender continua a mietere vittime",
-      "descrizione": "Nonostante la patch sia in distribuzione da quasi tre mesi ormai. Del resto, se non fossimo abituati a temere gli aggiornamenti perché mandano in crash il computer...",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663358/windows-11-falla-bluehammer-exploit-patch/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:15:00+00:00"
-    },
-    {
       "titolo": "X lancia Live Studio e paga i creator per fare live streaming",
       "descrizione": "X presenta Live Studio e un programma da 1 milione di dollari per attirare i creator. Tutte le novità sul nuovo sistema di live streaming. The post X lancia Live Studio e paga i creator per fare live streaming appeared f",
       "link": "https://www.punto-informatico.it/x-live-studio-paga-creator-fare-live-streaming/",
@@ -58,116 +163,11 @@
       "data": "2026-07-03T08:12:23+00:00"
     },
     {
-      "titolo": "Casa blindata anche fuori: Verisure lancia il nuovo allarme con scudo perimetrale",
-      "descrizione": "Collegato alla centrale operativa 24/7.",
-      "link": "https://www.hdblog.it/domotica/articoli/n663349/verisure-sicurezza-scudo-perimetrale-casa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T08:10:00+00:00"
-    },
-    {
       "titolo": "Anthropic sviluppa un chip AI con l’aiuto di Samsung?",
       "descrizione": "Anthropic avrebbe avviato lo sviluppo di un chip AI proprietario con la collaborazione di Samsung per diversificare le forniture, come fatto da OpenAI. The post Anthropic sviluppa un chip AI con l’aiuto di Samsung? appea",
       "link": "https://www.punto-informatico.it/anthropic-sviluppa-chip-ai-aiuto-samsung/",
       "fonte": "Punto Informatico",
       "data": "2026-07-03T07:57:15+00:00"
-    },
-    {
-      "titolo": "USB-C, che caos: l’importanza della porta e del cavo giusti per la ricarica",
-      "descrizione": "​Per ricaricare un notebook via USB-C servono una porta compatibile con USB Power Delivery, un alimentatore adeguato e un cavo certificato: ecco perché la forma del connettore non basta",
-      "link": "https://www.hdblog.it/portatili/articoli/n663356/usb-c-ricarica-notebook-cavo-velocita/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T07:45:00+00:00"
-    },
-    {
-      "titolo": "Nothing Phone (4b) ci sarà anche un'edizione limitata \"RCB Edition\"",
-      "descrizione": "Una finitura rosso opaco per una delle squadre di cricket più famose dell'India.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663351/nothing-phone-4b-rcb-edition-edizione-limitata/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T07:35:00+00:00"
-    },
-    {
-      "titolo": "Galaxy S27, Samsung pronta a cambiare la fotocamera selfie dopo quattro anni",
-      "descrizione": "Galaxy S27 Pro e Galaxy S27 Ultra potrebbero adottare una nuova fotocamera frontale da 16 megapixel, sostituendo il sensore da 12 MP usato da Samsung sui top di gamma fin dalla serie Galaxy S23",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663346/galaxy-s27-pro-ultra-novita-fotocamera-selfie/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T07:20:00+00:00"
-    },
-    {
-      "titolo": "Apple, il titolo torna a crescere dopo i rincari: c'è fiducia su iPhone pieghevole",
-      "descrizione": "Apple ha recuperato terreno a Wall Street",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663344/apple-titolo-torna-crescere-iphone-pieghevole/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T07:15:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp cambia su iPad, può diventare il dispositivo principale",
-      "descrizione": "La nuova versione di WhatsApp per iPad permette finalmente di configurare il tablet come dispositivo principale da associare all'account. The post WhatsApp cambia su iPad, può diventare il dispositivo principale appeared",
-      "link": "https://www.punto-informatico.it/whatsapp-ipad-dispositivo-principale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T07:02:08+00:00"
-    },
-    {
-      "titolo": "Oura Ring arriva in ospedale: un aiuto nel trattamento di una malattia insidiosa",
-      "descrizione": "Ecco come",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663311/oura-ring-ospedale-malattia-cardiaca/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T06:50:00+00:00"
-    },
-    {
-      "titolo": "Meta lancia Pocket, un social di giochi interattivi creati dall’AI",
-      "descrizione": "Pocket è una nuova piattaforma di Meta, dove gli utenti creano e condividono giochi interattivi generati dall'AI tramite prompt. The post Meta lancia Pocket, un social di giochi interattivi creati dall’AI appeared first",
-      "link": "https://www.punto-informatico.it/meta-lancia-pocket-social-giochi-interattivi-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T06:39:33+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S26 (12/256GB) crolla su eBay a un ottimo prezzo",
-      "descrizione": "Il Samsung Galaxy S26 con 12 GB di RAM e 256 GB che memoria interna è in offerta su eBay a un prezzo davvero molto interessante. The post Samsung Galaxy S26 (12/256GB) crolla su eBay a un ottimo prezzo appeared first on",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s26-12-256gb-crolla-ebay-ottimo-prezzo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T06:26:00+00:00"
-    },
-    {
-      "titolo": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
-      "descrizione": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
-      "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
-      "fonte": "WIRED",
-      "data": "2026-07-03T05:00:00+00:00"
-    },
-    {
-      "titolo": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
-      "descrizione": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
-      "link": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
-      "fonte": "WIRED",
-      "data": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "titolo": "Nuova VPN a luglio 2026, il piano da 27 mesi di Surfshark è in promo",
-      "descrizione": "Con Surfshark VPN è possibile accedere alla migliore VPN illimitata da attivare a luglio 2026, ecco la promo per il piano di 27 mesi. The post Nuova VPN a luglio 2026, il piano da 27 mesi di Surfshark è in promo appeared",
-      "link": "https://www.punto-informatico.it/nuova-vpn-a-luglio-2026-il-piano-da-27-mesi-di-surfshark-e-in-promo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-02T16:55:55+00:00"
-    },
-    {
-      "titolo": "Robot con pelle morbida e AI emotiva per single e anziani…",
-      "descrizione": "UBTECH presenta un robot umanoide con pelle sintetica, IA emotiva e design realistico. È pensato per offrire compagnia a single e over 60. The post Robot con pelle morbida e AI emotiva per single e anziani… appeared firs",
-      "link": "https://www.punto-informatico.it/robot-pelle-morbida-ai-emotiva-single-anziani/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-02T16:04:06+00:00"
-    },
-    {
-      "titolo": "Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle — trades tokens for revenue cut",
-      "descrizione": "Nvidia has announced a new business model under which it’ll be able to double-dip for revenue on the same silicon.",
-      "link": "https://www.tomshardware.com/tech-industry/nvidia-to-take-a-cut-of-ai-cloud-revenue-on-top-of-hardware-sales",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-02T15:46:31+00:00"
-    },
-    {
-      "titolo": "U.S PC shipments drop 7%, market isn't expected to bounce back until 2029 — price hikes and component shortages take hold as PC market declines, Omdia report suggests",
-      "descrizione": "New data suggests PC shipments are already down in 2026 and are likely to get worse in the latter half of the year, but that could be setting the stage for a resurgence in the years to come.",
-      "link": "https://www.tomshardware.com/tech-industry/u-s-pc-shipments-drop-7-percent-market-isnt-expected-to-bounce-back-until-2029-price-hikes-and-component-shortages-take-hold-as-pc-market-declines-omdia-report-suggests",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-02T15:35:37+00:00"
     }
   ]
 }
