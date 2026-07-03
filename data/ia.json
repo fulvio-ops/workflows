@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-07-03T04:10:30.765818+00:00",
+  "last_updated": "2026-07-03T09:35:54.708606+00:00",
   "items": [
     {
-      "titolo": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "descrizione": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "fonte": "WIRED",
-      "data": "2026-07-02T18:01:20+00:00",
+      "titolo": "Anthropic sviluppa un chip AI con l’aiuto di Samsung?",
+      "descrizione": "Anthropic avrebbe avviato lo sviluppo di un chip AI proprietario con la collaborazione di Samsung per diversificare le forniture, come fatto da OpenAI. The post Anthropic sviluppa un chip AI con l’aiuto di Samsung? appea",
+      "link": "https://www.punto-informatico.it/anthropic-sviluppa-chip-ai-aiuto-samsung/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T07:57:15+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Fable 5 just set a new AI freelance work performance record - but it can't replace humans yet",
-      "descrizione": "The newly reinstated Anthropic model topped charts for automating work. Here's what that means for the future.",
-      "link": "https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/",
-      "fonte": "Latest news",
-      "data": "2026-07-02T20:29:26+00:00",
+      "titolo": "Aion è il sistema operativo AI di Microsoft che non vedremo mai",
+      "descrizione": "Una versione alleggerita di Windows con Copilot protagonista e solo web app: un video risalente al 2024 svela il progetto Aion di Microsoft. The post Aion è il sistema operativo AI di Microsoft che non vedremo mai appear",
+      "link": "https://www.punto-informatico.it/aion-sistema-operativo-ai-microsoft-non-vedremo-mai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T06:38:47+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Anthropic sviluppa un chip AI con l’aiuto di Samsung?",
+      "descrizione": "Anthropic avrebbe avviato lo sviluppo di un chip AI proprietario con la collaborazione di Samsung per diversificare le forniture, come fatto da OpenAI. The post Anthropic sviluppa un chip AI con l’aiuto di Samsung? appea",
+      "link": "https://www.punto-informatico.it/anthropic-sviluppa-chip-ai-aiuto-samsung/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T07:57:15+00:00",
       "modello": "claude"
     }
   ]
