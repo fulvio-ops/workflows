@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-03T14:32:53.178472+00:00",
+  "last_updated": "2026-07-03T19:51:20.047938+00:00",
   "items": [
     {
-      "titolo": "OpenAI vuole cedere il 5% allo Stato, Google e Meta potrebbero seguire",
-      "descrizione": "OpenAI valuta la cessione del 5% del capitale agli Stati Uniti. Il progetto punta a redistribuire parte dei profitti dell'AI ai cittadini. The post OpenAI vuole cedere il 5% allo Stato, Google e Meta potrebbero seguire a",
-      "link": "https://www.punto-informatico.it/openai-vuole-cedere5-per-cento-stato-google-meta-seguiranno/",
+      "titolo": "Claude Fable 5 è tornato: 5 prompt per capire cosa sa fare davvero",
+      "descrizione": "Claude Fable 5 eccelle nei compiti lunghi e complessi, nel ragionamento su più fonti e nell'autoverifica. 5 prompt per testarne le capacità. The post Claude Fable 5 è tornato: 5 prompt per capire cosa sa fare davvero app",
+      "link": "https://www.punto-informatico.it/claude-fable-5-5-prompt-capire-cosa-sa-fare-davvero/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-03T12:18:36+00:00",
+      "data": "2026-07-03T15:30:54+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Aion è il sistema operativo AI di Microsoft che non vedremo mai",
-      "descrizione": "Una versione alleggerita di Windows con Copilot protagonista e solo web app: un video risalente al 2024 svela il progetto Aion di Microsoft. The post Aion è il sistema operativo AI di Microsoft che non vedremo mai appear",
-      "link": "https://www.punto-informatico.it/aion-sistema-operativo-ai-microsoft-non-vedremo-mai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T06:38:47+00:00",
+      "titolo": "Trapela qualche dettaglio in più su Copilot OS o \"Project Aion\"",
+      "descrizione": "Era un'interfaccia modificata del browser Edge che poteva funzionare sia sopra Android sia sopra Windows.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663418/microsoft-copilot-os-windows-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T15:25:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic sviluppa un chip AI con l’aiuto di Samsung?",
-      "descrizione": "Anthropic avrebbe avviato lo sviluppo di un chip AI proprietario con la collaborazione di Samsung per diversificare le forniture, come fatto da OpenAI. The post Anthropic sviluppa un chip AI con l’aiuto di Samsung? appea",
-      "link": "https://www.punto-informatico.it/anthropic-sviluppa-chip-ai-aiuto-samsung/",
+      "titolo": "Alibaba vieta ai dipendenti di usare Claude Code",
+      "descrizione": "Alibaba ha ordinato ai dipendenti di non usare più Claude Code perché nasconde una backdoor che raccoglie dati per identificare gli utenti cinesi. The post Alibaba vieta ai dipendenti di usare Claude Code appeared first",
+      "link": "https://www.punto-informatico.it/alibaba-vieta-dipendenti-usare-claude-code/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-03T07:57:15+00:00",
+      "data": "2026-07-03T17:05:14+00:00",
       "modello": "claude"
     }
   ]

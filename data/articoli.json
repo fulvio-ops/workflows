@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-07-03T14:32:49.596079+00:00",
+  "last_updated": "2026-07-03T19:51:16.327026+00:00",
   "items": [
+    {
+      "titolo": "Exynos 2700, cambiamenti radicali per migliorare l'efficienza termica",
+      "descrizione": "Il colosso sudcoreano vuole allontanare la RAM dal system-on-chip, con la speranza di dissipare meglio il calore generato da CPU, GPU e NPU.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663437/samsung-exynos-2700-ram-soc-efficienza-termica/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T17:55:00+00:00"
+    },
+    {
+      "titolo": "Addio alle richieste dei certificati: accesso diretto all’ANPR",
+      "descrizione": "Le pubbliche amministrazioni possono ora accedere all'Anagrafe Nazionale della Popolazione Residente attraverso la Piattaforma Digitale Nazionale Dati. The post Addio alle richieste dei certificati: accesso diretto all’A",
+      "link": "https://www.punto-informatico.it/addio-richieste-certificati-accesso-diretto-anpr/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T17:42:58+00:00"
+    },
+    {
+      "titolo": "Google Wallet tiene il polso delle spese: ora mostra quelle fatte con lo smartwatch",
+      "descrizione": "Purché sia un orologio con WearOS: ecco come funziona.",
+      "link": "https://www.hdblog.it/google/articoli/n663432/google-wallet-cronologia-spese-wearos-smartwatch/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T17:35:00+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026, il programma di sedicesimi e ottavi e dove vedere i match in TV",
+      "descrizione": "Ecco il programma dei match dei sedicesimi e degli ottavi di finale dei Mondiali 2026 e come seguire tutti i match in TV e streaming. The post Mondiali 2026, il programma di sedicesimi e ottavi e dove vedere i match in T",
+      "link": "https://www.punto-informatico.it/mondiali-2026-il-programma-di-sedicesimi-e-ottavi-e-dove-vedere-i-match-in-tv/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T17:11:51+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare, nuovo passo avanti per l’energia diretta",
+      "descrizione": "Realta Fusion converte energia del plasma in elettricità su WHAM.",
+      "link": "https://www.hdblog.it/green/articoli/n663317/fusione-nucleare-passo-avanti-energia-diretta/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T16:55:00+00:00"
+    },
+    {
+      "titolo": "Nasce ROSAIA, nuovo sistema robotico italiano per le operazioni in orbita",
+      "descrizione": "Il robot può operare in sicurezza su satelliti e detriti spaziali.",
+      "link": "https://www.hdblog.it/scienza/articoli/n663419/rosaia-robot-italiano-per-operazioni-in-orbita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T16:35:00+00:00"
+    },
+    {
+      "titolo": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "descrizione": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "fonte": "WIRED",
+      "data": "2026-07-03T16:30:00+00:00"
+    },
+    {
+      "titolo": "Data center nello spazio: gli esperti dicono che è un’idea folle",
+      "descrizione": "L’idea di data center in orbita affascina gli investitori, ma esperti di ingegneria aerospaziale mettono in dubbio costi, fattibilità e limiti fisici. The post Data center nello spazio: gli esperti dicono che è un’idea f",
+      "link": "https://www.punto-informatico.it/data-center-spazio-esperti-dicono-idea-folle/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T16:26:15+00:00"
+    },
+    {
+      "titolo": "Windows 11, curioso glitch grafico all'avvio: colpa di Google Chrome?",
+      "descrizione": "Compare un riquadro bianco che impedisce di interagire con gli elementi del desktop. Sparisce da solo dopo qualche secondo.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663422/windows-11-glitch-riquadro-bianco-avvio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T16:15:00+00:00"
+    },
+    {
+      "titolo": "OnePlus sempre meno presente in Occidente: via anche da UK e USA?",
+      "descrizione": "Praticamente tutti i prodotti risultano esauriti nello store ufficiale per i rispettivi Paesi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663420/oneplus-abbandono-usa-uk/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T16:05:00+00:00"
+    },
+    {
+      "titolo": "My canvas art TV gets endless compliments, and it's cheaper than Samsung's Frame TV",
+      "descrizione": "The Hisense Canvas Art TV is on sale for $350 off during July 4th weekend.",
+      "link": "https://www.zdnet.com/article/hisense-canvas-s7-july-4-deal/",
+      "fonte": "Latest news",
+      "data": "2026-07-03T15:57:57+00:00"
+    },
+    {
+      "titolo": "Intel reportedly adding two new 22-core SKUs with game-boosting cache to Nova Lake-S lineup — 125W unlocked and 65W locked part rumored to be part of single-tile Core Ultra 5 tier",
+      "descrizione": "Intel is apparently cooking up two new 22-core Nova Lake-S SKUs with up to 144MB of bLLC. One is a locked 65W variant and one is an unlocked 125W part, and both are said to be part of the Core Ultra 5 tier.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-adding-two-new-22-core-skus-with-game-boosting-cache-to-nova-lake-s-lineup-125w-unlocked-and-65w-locked-part-rumored-to-be-part-of-single-tile-core-ultra-5-tier",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-03T15:44:10+00:00"
+    },
+    {
+      "titolo": "PlayStation Store, torna il caso dei prezzi variabili: cambiano in base all'account",
+      "descrizione": "Sul PlayStation Store sono in fase di test gli sconti personalizzati: offerte diverse per gli stessi giochi.",
+      "link": "https://www.hdblog.it/sony/articoli/n663390/playstation-store-prezzi-offerte/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T15:40:00+00:00"
+    },
+    {
+      "titolo": "Trapela qualche dettaglio in più su Copilot OS o \"Project Aion\"",
+      "descrizione": "Era un'interfaccia modificata del browser Edge che poteva funzionare sia sopra Android sia sopra Windows.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663418/microsoft-copilot-os-windows-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-03T15:25:00+00:00"
+    },
+    {
+      "titolo": "Relazione annuale Garante Privacy: molti interventi sull’AI",
+      "descrizione": "Molti interventi effettuati nel corso del 2025 riguardano l'uso dell'intelligenza artificiale per raccogliere dati e generare deepfake senza consenso. The post Relazione annuale Garante Privacy: molti interventi sull’AI",
+      "link": "https://www.punto-informatico.it/relazione-annuale-garante-privacy-molti-interventi-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T14:52:32+00:00"
+    },
     {
       "titolo": "Sony non esclude un ulteriore aumento dei prezzi per gli abbonamenti PS Plus",
       "descrizione": "A domanda diretta, Sony non conferma né smentisce futuri aumenti di prezzo per PS Plus, ma è una storia già scritta e che conosciamo bene.",
@@ -58,116 +163,11 @@
       "data": "2026-07-03T12:45:00+00:00"
     },
     {
-      "titolo": "Oppo piglia tutto: addio OxygenOS e Realme UI, il futuro è solo ColorOS",
-      "descrizione": "Cambiano le strategie interne al gruppo BKK che include Oppo, OnePlus, Realme e non solo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663394/oppo-coloros-addio-oxygenos-realmeui-rumor-oneplus/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T12:35:00+00:00"
-    },
-    {
-      "titolo": "Android Auto, arrivano gli aggiornamenti per Spotify e YouTube Music",
-      "descrizione": "Cambia l’interfaccia per le due piattaforme streaming.",
-      "link": "https://www.hdblog.it/android/articoli/n663395/android-auto-upgrade-spotify-youtube-music/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T12:20:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Z Flip 8, Fold 8 e Ultra, ecco i presunti prezzi europei: tenetevi forte",
-      "descrizione": "Tutto aumenta, e la situazione peggiora man mano che vi serve più memoria. Più cari anche gli smartwatch.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663397/samsung-galaxy-z-fold-flip-8-ultra-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T12:15:00+00:00"
-    },
-    {
-      "titolo": "Chiusura PS Store su PS3 e Vita, gli archivisti digitali si mobilitano",
-      "descrizione": "Alcune opere dell'ingegno rischiano di essere perdute per sempre.",
-      "link": "https://www.hdblog.it/games/articoli/n663392/ps3-psvita-chiude-store-archivisti-digitali-giochi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "Steam Machine, ecco il progetto ufficiale della faceplate e-ink da stampare in 3D",
-      "descrizione": "Il progetto fai da te di Valve include guida di assemblaggio, configurazione software e istruzioni per installare il firmware sulla scheda ESP32 necessaria al display e-ink",
-      "link": "https://www.hdblog.it/games/articoli/n663389/steam-machine-faceplate-e-ink-stampa-3d/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T11:10:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi prepara un nuovo aggiornamento con Android 17, ma HyperOS 4 si nasconde",
-      "descrizione": "Xiaomi è attualmente al lavoro su quella che dovrebbe essere la versione 3.3 di HyperOS.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663364/aggiornamento-xiaomi-hyperos-4-android-17/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T11:05:00+00:00"
-    },
-    {
-      "titolo": "Meta ammette, gli agenti AI evolvono più lentamente di quanto sperato",
-      "descrizione": "Intanto però i licenziamenti ci sono stati.",
-      "link": "https://www.hdblog.it/business/articoli/n663387/meta-zuckerberg-modelli-ai-velocita-evoluzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T10:45:00+00:00"
-    },
-    {
-      "titolo": "Niente più giochi su disco per PlayStation: c'è malcontento, ma Sony vola in borsa",
-      "descrizione": "Gli investitori non guardano in faccia nessuno, figuriamoci gli appassionati: la Borsa premia l'addio ai giochi su disco da parte di Sony.",
-      "link": "https://www.hdblog.it/sony/articoli/n663376/niente-giochi-disco-playstation-sony-vola-borsa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T10:35:00+00:00"
-    },
-    {
       "titolo": "7 Best Phones You Can’t Buy in the US (2026)",
       "descrizione": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
       "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
       "fonte": "WIRED",
       "data": "2026-07-03T10:31:00+00:00"
-    },
-    {
-      "titolo": "Cloudflare bloccherà i bot usati per indicizzazione e scraping",
-      "descrizione": "A partire dal 15 settembre, Cloudflare bloccherà l'accesso ai bot ad uso misto, come Googlebot, ma gli editori potranno cambiare le impostazioni. The post Cloudflare bloccherà i bot usati per indicizzazione e scraping ap",
-      "link": "https://www.punto-informatico.it/cloudflare-blocchera-bot-usati-indicizzazione-scraping/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T10:29:55+00:00"
-    },
-    {
-      "titolo": "GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs — offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation",
-      "descrizione": "GitHub has announced that it will be giving developers a way to obtain their public repo on a CD-ROM. Context is provided by Sony's recent decision to abandon game discs.",
-      "link": "https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-03T10:27:12+00:00"
-    },
-    {
-      "titolo": "Alex Karp contro l’AI a token: le imprese rischiano di cedere dati preziosi",
-      "descrizione": "Il CEO di Palantir sostiene che l’AI generativa possa esporre informazioni strategiche su dati, processi e relazioni interne delle aziende, elementi centrali per il loro vantaggio competitivo",
-      "link": "https://www.hdblog.it/business/articoli/n663385/palantir-ceo-contro-openai-anthropic-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T10:25:00+00:00"
-    },
-    {
-      "titolo": "Musk smentisce il telefono SpaceX, ma le prove si accumulano",
-      "descrizione": "EMusk smentisce, ma Wall Street Journal, Reuters e Financial Times riportano tutti elementi che puntano verso un telefono firmato SpaceX. The post Musk smentisce il telefono SpaceX, ma le prove si accumulano appeared fir",
-      "link": "https://www.punto-informatico.it/musk-smentisce-telefono-spacex-prove-si-accumulano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T09:37:48+00:00"
-    },
-    {
-      "titolo": "F-Droid: la verifica degli sviluppatori Android è un malware",
-      "descrizione": "F-Droid ha pubblicato un nuovo post sul sito per evidenziare che il servizio di sistema usato da Google per la verifica funziona come un malware. The post F-Droid: la verifica degli sviluppatori Android è un malware appe",
-      "link": "https://www.punto-informatico.it/f-droid-verifica-sviluppatori-android-malware/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T09:21:34+00:00"
-    },
-    {
-      "titolo": "X lancia Live Studio e paga i creator per fare live streaming",
-      "descrizione": "X presenta Live Studio e un programma da 1 milione di dollari per attirare i creator. Tutte le novità sul nuovo sistema di live streaming. The post X lancia Live Studio e paga i creator per fare live streaming appeared f",
-      "link": "https://www.punto-informatico.it/x-live-studio-paga-creator-fare-live-streaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T08:12:23+00:00"
-    },
-    {
-      "titolo": "Anthropic sviluppa un chip AI con l’aiuto di Samsung?",
-      "descrizione": "Anthropic avrebbe avviato lo sviluppo di un chip AI proprietario con la collaborazione di Samsung per diversificare le forniture, come fatto da OpenAI. The post Anthropic sviluppa un chip AI con l’aiuto di Samsung? appea",
-      "link": "https://www.punto-informatico.it/anthropic-sviluppa-chip-ai-aiuto-samsung/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T07:57:15+00:00"
     }
   ]
 }
