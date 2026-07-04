@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-04T04:03:20.305808+00:00",
+  "last_updated": "2026-07-04T09:01:51.061062+00:00",
   "items": [
     {
-      "titolo": "Claude Fable 5 è tornato: 5 prompt per capire cosa sa fare davvero",
-      "descrizione": "Claude Fable 5 eccelle nei compiti lunghi e complessi, nel ragionamento su più fonti e nell'autoverifica. 5 prompt per testarne le capacità. The post Claude Fable 5 è tornato: 5 prompt per capire cosa sa fare davvero app",
-      "link": "https://www.punto-informatico.it/claude-fable-5-5-prompt-capire-cosa-sa-fare-davvero/",
+      "titolo": "10 prompt per smascherare le truffe online con ChatGPT e Claude",
+      "descrizione": "Invece di chiedere genericamente se è una truffa, 10 prompt specifici che guidino Claude e ChatGPT nell'analisi di ogni elemento sospetto. The post 10 prompt per smascherare le truffe online con ChatGPT e Claude appeared",
+      "link": "https://www.punto-informatico.it/10-prompt-smascherare-truffe-online-chatgpt-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-03T15:30:54+00:00",
+      "data": "2026-07-04T07:30:23+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Alibaba vieta ai dipendenti di usare Claude Code",
-      "descrizione": "Alibaba ha ordinato ai dipendenti di non usare più Claude Code perché nasconde una backdoor che raccoglie dati per identificare gli utenti cinesi. The post Alibaba vieta ai dipendenti di usare Claude Code appeared first",
-      "link": "https://www.punto-informatico.it/alibaba-vieta-dipendenti-usare-claude-code/",
+      "titolo": "10 prompt per smascherare le truffe online con ChatGPT e Claude",
+      "descrizione": "Invece di chiedere genericamente se è una truffa, 10 prompt specifici che guidino Claude e ChatGPT nell'analisi di ogni elemento sospetto. The post 10 prompt per smascherare le truffe online con ChatGPT e Claude appeared",
+      "link": "https://www.punto-informatico.it/10-prompt-smascherare-truffe-online-chatgpt-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-03T17:05:14+00:00",
+      "data": "2026-07-04T07:30:23+00:00",
       "modello": "claude"
     }
   ]

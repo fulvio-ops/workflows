@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-07-04T04:03:16.105538+00:00",
+  "last_updated": "2026-07-04T09:01:47.392285+00:00",
   "items": [
+    {
+      "titolo": "iPhone 18 Pro, la novità nel design sarà una questione di sfumature",
+      "descrizione": "Un cambiamento che c'è ma non si vede. E c",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663435/iphone-18-pro-design-colore-vetro-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-04T07:05:00+00:00"
+    },
     {
       "titolo": "Exynos 2700, cambiamenti radicali per migliorare l'efficienza termica",
       "descrizione": "Il colosso sudcoreano vuole allontanare la RAM dal system-on-chip, con la speranza di dissipare meglio il calore generato da CPU, GPU e NPU.",
@@ -28,6 +35,13 @@
       "link": "https://www.punto-informatico.it/mondiali-2026-il-programma-di-sedicesimi-e-ottavi-e-dove-vedere-i-match-in-tv/",
       "fonte": "Punto Informatico",
       "data": "2026-07-03T17:11:51+00:00"
+    },
+    {
+      "titolo": "BBVA ha rinnovato la promozione del 3% di remunerazione e cashback senza vincoli",
+      "descrizione": "I nuovi clienti beneficiano del 3% di remunerazione sulla liquidità del conto corrente e del 3% di cashback sulle spese effettuate. The post BBVA ha rinnovato la promozione del 3% di remunerazione e cashback senza vincol",
+      "link": "https://www.punto-informatico.it/fintech/conti/bbva-rinnova-promozione-3-percento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-03T17:02:31+00:00"
     },
     {
       "titolo": "Fusione nucleare, nuovo passo avanti per l’energia diretta",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/robot-8000-dollari-piega-vestiti-pulisce-casa/",
       "fonte": "Punto Informatico",
       "data": "2026-07-03T12:49:54+00:00"
-    },
-    {
-      "titolo": "Streaming pirata: quasi un utente su cinque viene colpito da malware",
-      "descrizione": "Guardare partite, film e serie TV su piattaforme pirata non espone solo a possibili conseguenze legali.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663398/streaming-pirata-malware/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T12:45:00+00:00"
-    },
-    {
-      "titolo": "7 Best Phones You Can’t Buy in the US (2026)",
-      "descrizione": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
-      "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-      "fonte": "WIRED",
-      "data": "2026-07-03T10:31:00+00:00"
     }
   ]
 }
