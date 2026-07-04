@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T14:00:14.328457+00:00",
+  "last_updated": "2026-07-04T19:39:01.769917+00:00",
   "items": [
     {
       "titolo": "10 prompt per smascherare le truffe online con ChatGPT e Claude",
@@ -8,14 +8,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-07-04T07:30:23+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Trapela qualche dettaglio in più su Copilot OS o \"Project Aion\"",
-      "descrizione": "Era un'interfaccia modificata del browser Edge che poteva funzionare sia sopra Android sia sopra Windows.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663418/microsoft-copilot-os-windows-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T15:25:00+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "10 prompt per smascherare le truffe online con ChatGPT e Claude",
