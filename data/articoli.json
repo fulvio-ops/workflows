@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-07-05T09:23:15.236260+00:00",
+  "last_updated": "2026-07-05T14:10:35.073009+00:00",
   "items": [
+    {
+      "titolo": "La tecnologia brucia la risorsa più scarsa, il tempo. Come resistere?",
+      "descrizione": "Viviamo la fine del tempo. L’ultimo stadio del capitalismo sta disintegrando le risorse del pianeta, secondo l’ultimo Rapporto Onu su “Costo ambientale del consumo energetico dell’IA: impronta di carbonio, acqua...",
+      "link": "https://www.ilsole24ore.com/art/la-tecnologia-brucia-risorsa-piu-scarsa-tempo-come-resistere-AI5VtxrD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-05T14:03:03+00:00"
+    },
+    {
+      "titolo": "Windows 11 identifier used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
+      "descrizione": "Petet Stokes was arrested in Finland and extradited to the U.S. over alleged ties to the Scattered Spider group, with Microsoft helping in the investigation. He's in custody awaiting trial based on a criminal complaint f",
+      "link": "https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T12:55:00+00:00"
+    },
+    {
+      "titolo": "Turtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potential",
+      "descrizione": "Turtle Beach's new \"Command Series\" KB7 TKL keyboard features a 4.3-inch touchscreen instead of the typical navigation cluster — like a Stream Deck, but as a touchscreen. Unfortunately, it lacks the software to back it u",
+      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb7-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T12:10:00+00:00"
+    },
+    {
+      "titolo": "You can now play Half-Life 2 right inside your browser at over 100 FPS with save states & console support — Ingenious port recreates the entire game campaign using WebGL 2",
+      "descrizione": "An unofficial browser port of Half-Life 2 has popped up online, allowing you to play the original campaign without downloading anything. Developed in just three months by Slqnt and 98006, it even features Source console",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-play-half-life-2-right-inside-your-browser-at-over-100-fps-with-save-states-and-console-support-ingenious-port-recreates-the-entire-game-campaign-using-webgl-2",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T11:40:00+00:00"
+    },
+    {
+      "titolo": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
+      "descrizione": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "link": "https://www.wired.com/gallery/best-wifi-routers/",
+      "fonte": "WIRED",
+      "data": "2026-07-05T11:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold8 e Z Flip8: prezzi più alti in Europa",
+      "descrizione": "Questi dovrebbero essere i prezzi dei Samsung Galaxy Z Fold8, Galaxy Z Fold8 Ultra e Galaxy Z Flip8 in Europa (in Italia potrebbe essere più alti). The post Samsung Galaxy Z Fold8 e Z Flip8: prezzi più alti in Europa app",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-z-fold8-z-flip8-prezzi-piu-alti-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-05T10:53:03+00:00"
+    },
+    {
+      "titolo": "WiFi o occhiali a raggi X? La soluzione economica per rilevare le persone in casa",
+      "descrizione": "Bastano 50 dollari.",
+      "link": "https://www.hdblog.it/domotica/articoli/n663409/dispositivo-wifi-rilevamento-persone-come-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-05T10:05:00+00:00"
+    },
+    {
+      "titolo": "What Are Fish Oil Supplements Good For? Here’s Your Crash Course",
+      "descrizione": "A large-scale clinical trial has shown that even long-term consumption of DHA—an omega-3 fatty acid found in abundance in oily fish—may not lead to improvements in cognitive function.",
+      "link": "https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/",
+      "fonte": "WIRED",
+      "data": "2026-07-05T10:00:00+00:00"
+    },
     {
       "titolo": "Film pirata su Telegram, pedopornografia su Instagram",
       "descrizione": "Il governo indiano ha ordinato a Telegram di rimuovere i film pirata e convocato Meta per informazioni sui contenuti pedopornografici di Instagram. The post Film pirata su Telegram, pedopornografia su Instagram appeared",
@@ -28,6 +84,13 @@
       "link": "https://www.hdblog.it/green/articoli/n663447/fusione-nucleare-giappone-misurazione-plasma/",
       "fonte": "HDblog.it",
       "data": "2026-07-05T07:05:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S25 FE (256 GB) è in offerta: batte A57 e diventa il best buy tra i mid-range Samsung",
+      "descrizione": "Il Samsung Galaxy S25 FE è in offerta con la versione da 256 GB che diventa un vero e proprio best buy della fascia media a luglio 2026.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n663464/samsung-galaxy-s25-fe-256-gb-offerta-lug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-04T17:15:00+00:00"
     },
     {
       "titolo": "50-feet-long fiber optic HDMI cable and Steam Controller 2 is enthusiasts' answer to the Steam Machine — dismisses Valve's new console for a DIY Bazzite setup with a controller",
@@ -105,69 +168,6 @@
       "link": "https://www.tomshardware.com/3d-printing/enthusiast-hides-gaming-pc-inside-living-room-fan-using-3d-printed-parts-disassembled-atomman-g7-cooled-by-dreo-tower-fan-that-shifts-air-at-28-feet-per-second",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-04T11:00:00+00:00"
-    },
-    {
-      "titolo": "OPPO annuncia tre nuovi smartphone della serie Reno16",
-      "descrizione": "Reno16, Reno 16 FS e Reno16 Pro sono i nuovi smartphone di OPPO con schermo AMOLED, 8/12GB di RAM, 512 GB di storage e tre fotocamere posteriori. The post OPPO annuncia tre nuovi smartphone della serie Reno16 appeared fi",
-      "link": "https://www.punto-informatico.it/oppo-annuncia-tre-nuovi-smartphone-serie-reno16/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-04T10:50:03+00:00"
-    },
-    {
-      "titolo": "HONOR Magic 8 Lite con batteria da 7.500 mAh in offerta: a 280€ è un best buy",
-      "descrizione": "HONOR Magic 8 Lite è in offerta e ora costa 280 euro: si tratta di un'ottima scelta per un mid-range veloce e con un'autonomia al top.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n663457/honor-magic-8-lite-offerta-lug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-04T10:45:00+00:00"
-    },
-    {
-      "titolo": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
-      "descrizione": "Plus: Alleged Scattered Spider hacking member extradited, dozens of license plate reader errors, and Indian officials are concerned about WhatsApp’s username rollout.",
-      "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
-      "fonte": "WIRED",
-      "data": "2026-07-04T10:30:00+00:00"
-    },
-    {
-      "titolo": "Comuni sempre più smart: Fiumicino aggiorna il piano per il futuro della PA",
-      "descrizione": "Cosa cambia",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663402/comuni-smart-fiumicino-piano-futuro-pa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-04T10:05:00+00:00"
-    },
-    {
-      "titolo": "Companies join hands to collectively dunk on PlayStation's all-digital future — Domino's pizza, KFC, and GameSir all threaten an end to physical production",
-      "descrizione": "Companies on social media are coming together to mock Sony's decision of ceasing production of physical discs for PlayStation games. These brands are shifting to a digital-only model in an even more absurd manner.",
-      "link": "https://www.tomshardware.com/tech-industry/companies-join-hands-to-collectively-dunk-on-playstations-all-digital-future-dominos-pizza-kfc-and-gamesir-all-threaten-an-end-to-physical-production",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-04T10:00:00+00:00"
-    },
-    {
-      "titolo": "Tre nuovi lander e un gemello di Perseverance sulla Luna",
-      "descrizione": "La NASA ha scelto tre aziende per il lancio di quattro lander sulla Luna entro il 2028 e potrebbe inviare anche un rover simile a Perseverance. The post Tre nuovi lander e un gemello di Perseverance sulla Luna appeared f",
-      "link": "https://www.punto-informatico.it/tre-nuovi-lander-gemello-perseverance-luna/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-04T09:45:01+00:00"
-    },
-    {
-      "titolo": "Exynos 2700, cambiamenti radicali per migliorare l'efficienza termica",
-      "descrizione": "Il colosso sudcoreano vuole allontanare la RAM dal system-on-chip, con la speranza di dissipare meglio il calore generato da CPU, GPU e NPU.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663437/samsung-exynos-2700-ram-soc-efficienza-termica/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T17:55:00+00:00"
-    },
-    {
-      "titolo": "Addio alle richieste dei certificati: accesso diretto all’ANPR",
-      "descrizione": "Le pubbliche amministrazioni possono ora accedere all'Anagrafe Nazionale della Popolazione Residente attraverso la Piattaforma Digitale Nazionale Dati. The post Addio alle richieste dei certificati: accesso diretto all’A",
-      "link": "https://www.punto-informatico.it/addio-richieste-certificati-accesso-diretto-anpr/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-03T17:42:58+00:00"
-    },
-    {
-      "titolo": "Google Wallet tiene il polso delle spese: ora mostra quelle fatte con lo smartwatch",
-      "descrizione": "Purché sia un orologio con WearOS: ecco come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n663432/google-wallet-cronologia-spese-wearos-smartwatch/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-03T17:35:00+00:00"
     }
   ]
 }
