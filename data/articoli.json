@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-07-05T14:10:35.073009+00:00",
+  "last_updated": "2026-07-05T19:43:04.422479+00:00",
   "items": [
+    {
+      "titolo": "RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech — USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts",
+      "descrizione": "DIYer shows how they made a handsome magnetic core memory USB drive using home CNC and 3D printing equipment. However, it isn't a homebrew answer to the AI-induced memory crisis with only 64 bits of data capacity",
+      "link": "https://www.tomshardware.com/pc-components/storage/rampocalyse-pricing-prompts-maker-to-construct-his-own-memory-using-ancient-apollo-era-tech-usb-drive-resurrects-hand-threaded-magnetic-core-memory-using-salvaged-russian-computer-parts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T15:50:00+00:00"
+    },
+    {
+      "titolo": "Germany's massive 60,000-game preservation project collapses after €1.5 million funding dries up — world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media",
+      "descrizione": "A German effort to assemble the world's largest publicly accessible video game archive is being wound down after roughly €1.5 million in public funding expired.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T15:37:27+00:00"
+    },
+    {
+      "titolo": "Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon — performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games",
+      "descrizione": "Turns out, a modded RTX 4080M desktop GPU performs worse than similarly-priced official options. It currently costs roughly $400 in China and compared to the RX 9070 GRE, this custom card loses in every game tested excep",
+      "link": "https://www.tomshardware.com/pc-components/gpus/reviewer-tests-rtx-4080m-desktop-graphics-card-powered-by-salvaged-laptop-silicon-performs-worse-than-slightly-more-expensive-rx-9070-gre-but-draws-only-100w-in-games",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T14:46:02+00:00"
+    },
+    {
+      "titolo": "NetNut: smantellati proxy residenziali della botnet Popa",
+      "descrizione": "NetNut era un servizio di proxy residenziali (usato dalla botnet Popa) composto da oltre 2 milioni di dispositivi, tra cui streaming box e smart TV. The post NetNut: smantellati proxy residenziali della botnet Popa appea",
+      "link": "https://www.punto-informatico.it/netnut-smantellati-proxy-residenziali-botnet-popa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-05T14:42:38+00:00"
+    },
+    {
+      "titolo": "Hannah Montana Linux gets modern remaster after nearly two decades — ‘Sweet niblets,’ new v26 is built on Debian with a re-skin of KDE Plasma",
+      "descrizione": "Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.",
+      "link": "https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-05T14:23:38+00:00"
+    },
+    {
+      "titolo": "L’intelligenza artificiale torna a casa: perché l’AI domestica sfida il cloud",
+      "descrizione": "Mini computer, server personali e pc progettati per eseguire modelli in locale. Da Raspberry Pi a Nvidia, cresce l’ecosistema dell’AI domestica: più controllo sui dati, meno dipendenza dal cloud e un nuovo equilibrio tra",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-torna-casa-perche-l-ai-domestica-sfida-cloud-AInhiaqD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-05T14:16:37+00:00"
+    },
+    {
+      "titolo": "Lenovo ThinkTab X11, il tablet che non vuole piacere a tutti ma lavorare ovunque",
+      "descrizione": "Ci sono tablet pensati per consumare contenuti. E poi ci sono tablet pensati per lavorare. Il Lenovo ThinkTab X11 appartiene senza dubbio alla seconda categoria. La prima impressione è chiara:...",
+      "link": "https://www.ilsole24ore.com/art/lenovo-thinktab-x11-tablet-che-non-vuole-piacere-tutti-ma-lavorare-ovunque-AIgpjVpD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-05T14:14:26+00:00"
+    },
     {
       "titolo": "La tecnologia brucia la risorsa più scarsa, il tempo. Come resistere?",
       "descrizione": "Viviamo la fine del tempo. L’ultimo stadio del capitalismo sta disintegrando le risorse del pianeta, secondo l’ultimo Rapporto Onu su “Costo ambientale del consumo energetico dell’IA: impronta di carbonio, acqua...",
@@ -9,7 +58,7 @@
       "data": "2026-07-05T14:03:03+00:00"
     },
     {
-      "titolo": "Windows 11 identifier used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
+      "titolo": "Windows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
       "descrizione": "Petet Stokes was arrested in Finland and extradited to the U.S. over alleged ties to the Scattered Spider group, with Microsoft helping in the investigation. He's in custody awaiting trial based on a criminal complaint f",
       "link": "https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group",
       "fonte": "Latest from Tom's Hardware",
@@ -119,55 +168,6 @@
       "link": "https://www.punto-informatico.it/jon-prosser-risponde-apple-incolpando-altro-accusato/",
       "fonte": "Punto Informatico",
       "data": "2026-07-04T15:00:26+00:00"
-    },
-    {
-      "titolo": "iPhone Air 2, Apple raddoppia: seconda fotocamera, meno compromessi",
-      "descrizione": "Differenze mica tanto sottili. Ma lui resterà sottilissimo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663459/iphone-air-2-fotocamere-a20-pro-miglioramenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-04T14:05:00+00:00"
-    },
-    {
-      "titolo": "Benefici e rischi dell’AI secondo le Nazioni Unite",
-      "descrizione": "Un gruppo di esperti ha pubblicato un report per le Nazioni Unite che evidenzia benefici e rischi dell'intelligenza artificiale per persone e ambiente. The post Benefici e rischi dell’AI secondo le Nazioni Unite appeared",
-      "link": "https://www.punto-informatico.it/benefici-rischi-ai-nazioni-unite/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-04T14:03:29+00:00"
-    },
-    {
-      "titolo": "Basta clausole nascoste: la carta di credito trasparente di TFBank",
-      "descrizione": "TF MasterCard Gold: richiesta online in 180 secondi, canone gratuito e assicurazione viaggio inclusa. Scopri perché è più semplice delle altre carte. The post Basta clausole nascoste: la carta di credito trasparente di T",
-      "link": "https://www.punto-informatico.it/fintech/conti/basta-clausole-nascoste-la-carta-di-credito-trasparente-di-tfbank/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-04T13:19:21+00:00"
-    },
-    {
-      "titolo": "Se vuoi foto eccellenti sotto i 400€ il nome giusto è Google Pixel 10a",
-      "descrizione": "Il Google Pixel 10a è in offerta su Amazon a meno di 400€ e per questa cifra è il migliore smartphone se sei un amante della fotografia. The post Se vuoi foto eccellenti sotto i 400€ il nome giusto è Google Pixel 10a app",
-      "link": "https://www.punto-informatico.it/se-vuoi-foto-eccellenti-sotto-400e-nome-giusto-google-pixel-10a/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-04T13:18:07+00:00"
-    },
-    {
-      "titolo": "Viviamo in una simulazione? La scienza ora dice di no",
-      "descrizione": "Uno studio contesta l’idea dell’universo simulato con limiti matematici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663448/universo-simulazione-studio-matematica/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-04T12:05:00+00:00"
-    },
-    {
-      "titolo": "Windows guru uses 19th-century Stirling Engine tech for auxiliary cooling on AMD Threadripper 3970X system — waste heat energy spins the $40 engine's flywheel",
-      "descrizione": "Windows development guru Dave W. Plummer shared a brief video demonstrating a novel Stirling Engine powered cooling solution for his AMD Threadripper chipset.",
-      "link": "https://www.tomshardware.com/pc-components/cooling/windows-guru-uses-stirling-engine-to-cool-amd-threadripper-3970x-waste-heat-energy-spins-the-engines-flywheel",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-04T11:30:00+00:00"
-    },
-    {
-      "titolo": "Enthusiast hides gaming PC inside living room fan using 3D-printed parts — disassembled AtomMan G7 cooled by Dreo tower fan that shifts air at 28 feet per second",
-      "descrizione": "Creator Zac Builds mounted their mini-PC to the side of their living room fan to hide it plain sight.",
-      "link": "https://www.tomshardware.com/3d-printing/enthusiast-hides-gaming-pc-inside-living-room-fan-using-3d-printed-parts-disassembled-atomman-g7-cooled-by-dreo-tower-fan-that-shifts-air-at-28-feet-per-second",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-04T11:00:00+00:00"
     }
   ]
 }
