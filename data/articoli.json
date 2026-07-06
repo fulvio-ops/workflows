@@ -1,12 +1,159 @@
 {
-  "last_updated": "2026-07-06T11:04:46.467645+00:00",
+  "last_updated": "2026-07-06T15:54:56.372552+00:00",
   "items": [
     {
-      "titolo": "Aggiorna il Galaxy Watch4 e il display gli regala una sorpresa spiacevole",
-      "descrizione": "Un utente Reddit segnala la comparsa di una linea verticale bianca sul display del Galaxy Watch4 dopo un aggiornamento. Non è chiaro se si tratti di un guasto hardware o software",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663534/aggiorna-il-galaxy-watch4-e-il-display-gli-regala-una-sorpresa-sgradita/",
+      "titolo": "iPhone Ultra non è ancora uscito ma già ci sono le edizioni super lussuose di Caviar",
+      "descrizione": "4 varianti, materiali incredibilmente preziosi, prezzi sconosciuti.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663571/iphone-ultra-edizioni-limitate-caviar/",
       "fonte": "HDblog.it",
-      "data": "2026-07-06T10:40:00+00:00"
+      "data": "2026-07-06T15:45:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Watch 9 e Ultra 2: i leak mostrano in anteprima i nuovi quadranti",
+      "descrizione": "Diamo un'occhiata ai nuovi quadranti che dovremmo trovare su Samsung Galaxy Watch 9 e Galaxy Watch Ultra 2.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663533/samsung-galaxy-watch-9-ultra-2-quadranti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T15:31:00+00:00"
+    },
+    {
+      "titolo": "Maxi round di licenziamenti per Microsoft: via in 4.800, divisione Xbox falcidiata",
+      "descrizione": "Altre migliaia di dipendenti Microsoft lasciati a casa, soprattutto nella divisione Xbox, ma l'azienda sostiene che la colpa non è dell'AI.",
+      "link": "https://www.hdblog.it/business/articoli/n663555/licenziamenti-microsoft-divisione-xbox-falcidiata/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T15:05:00+00:00"
+    },
+    {
+      "titolo": "Microsoft licenza 4.800 persone (3.200 della divisione XBOX)",
+      "descrizione": "Microsoft ha annunciato il licenziamento di 4.800 dipendenti, 3.200 dei quali della divisione XBOX, oltre allo spin-off o vendita di quattro studios. The post Microsoft licenza 4.800 persone (3.200 della divisione XBOX)",
+      "link": "https://www.punto-informatico.it/microsoft-licenza-4-800-persone-3-200-della-divisione-xbox/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T15:01:33+00:00"
+    },
+    {
+      "titolo": "You can now use your Sony headphones as a free real-time head tracker for race and flight simulators on PC, several hundred games already supported — enthusiast creates open-source app that translates live sensor data in",
+      "descrizione": "A new open-source app called Sony Head Tracker, developed by Nicholas Slattery, reads raw sensor data from Sony headphones and earbuds and converts them into something OpenTrack can understand. From there, it can be used",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T14:36:21+00:00"
+    },
+    {
+      "titolo": "Il nostro viaggio dentro NordVPN: l'intervista a Marijus Briedis (CTO) | VIDEO",
+      "descrizione": "La nostra intervista a Marijus Briedis, CTO di NordVPN: abbiamo parlato del Next Gen Antivirus, di cybersecurity e di tanto altro.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660280/nordvpn-intervista-marijus-briedis-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T14:31:00+00:00"
+    },
+    {
+      "titolo": "Xbox, tagli storici: Microsoft vende quattro studi e cambia rotta",
+      "descrizione": "Microsoft taglia Xbox, vende quattro studi e riorganizza la divisione gaming.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663557/microsoft-tagli-xbox-vendita-studi-gaming/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T14:25:00+00:00"
+    },
+    {
+      "titolo": "Reti elettriche più forti in Italia: GE Vernova accelera gli investimenti",
+      "descrizione": "GE Vernova amplia il laboratorio di Noventa per test sulle reti elettriche",
+      "link": "https://www.hdblog.it/green/articoli/n663496/ge-vernova-laboratorio-noventa-alta-tensione/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T14:10:00+00:00"
+    },
+    {
+      "titolo": "Nintendo Switch 2 con batteria rimovibile è ufficiale: arriverà in autunno",
+      "descrizione": "Non solo per la console: anche tutti gli accessori si aggiornano con le nuove batterie",
+      "link": "https://www.hdblog.it/nintendo/articoli/n663549/switch-2-batteria-rimovibile-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T14:05:00+00:00"
+    },
+    {
+      "titolo": "Chat Control: ritorna la scansione volontaria fino al 2028?",
+      "descrizione": "Il Consiglio dell'Unione europea ha presentato una nuova versione del Chat Control 1.0 che consente la scansione dei messaggi fino a 3 aprile 2028. The post Chat Control: ritorna la scansione volontaria fino al 2028? app",
+      "link": "https://www.punto-informatico.it/chat-control-ritorna-scansione-volontaria-fino-2028/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T13:45:36+00:00"
+    },
+    {
+      "titolo": "Pirateria sportiva, i broadcaster vogliono una blacklist Ue degli hosting provider",
+      "descrizione": "Per ora non si tratta di una misura approvata",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n663550/pirateria-sportiva-proposta-blacklist-ue/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T13:45:00+00:00"
+    },
+    {
+      "titolo": "Fotovoltaico galleggiante: dalla Norvegia la nuova tecnologia che resiste alle tempeste",
+      "descrizione": "BRIZO ha ottenuto la certificazione DNV.",
+      "link": "https://www.hdblog.it/green/articoli/n663547/fotovoltaico-galleggiante-brizo-norvegia-come/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T13:40:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback — Analyst firm SemiAnalysis says PCB midplane problems led to the delay",
+      "descrizione": "Nvidia reportedly won't ship its Kyber NVL144 rack until 2028, a delay of more than 12 months.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T13:33:34+00:00"
+    },
+    {
+      "titolo": "Il drone che sfida il Guinness: Quantum Systems vola a 699 km/h",
+      "descrizione": "Quantum Systems dichiara di aver portato il suo nuovo drone Apex Recordhunter a 699 km/h, ora punta alla certificazione del record. The post Il drone che sfida il Guinness: Quantum Systems vola a 699 km/h appeared first",
+      "link": "https://www.punto-informatico.it/drone-sfida-guinness-quantum-systems-699-km-h/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T13:26:36+00:00"
+    },
+    {
+      "titolo": "Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain — crucial Blackwell packaging steps remain offshore as projects grow in scope and scale",
+      "descrizione": "America's AI supply chain now starts and ends in the U.S., while its most valuable middle steps remain entirely offshore until at least 2028.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T12:51:09+00:00"
+    },
+    {
+      "titolo": "Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles — German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon",
+      "descrizione": "Quantum Systems Group reckons it has broken the flight speed record for an electric drone. During internal testing last month the Munich-based firm recorded its Apex Recordhunter drone hitting a top speed of 434 mph in s",
+      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T12:39:54+00:00"
+    },
+    {
+      "titolo": "China’s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment — reportedly challenges Nvidia dominance with 'tripled inference performance' of H2",
+      "descrizione": "Huawei is reportedly preparing to enter South Korea's AI accelerator market with its Ascend 950 chips and Atlas 950 SuperPod, challenging Nvidia through aggressive pricing, amid a broader push to expand its AI ecosystem",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T12:31:48+00:00"
+    },
+    {
+      "titolo": "La casetta da giardino diventa un hub energetico: la novità firmata Hörmann",
+      "descrizione": "Totalmente personalizzabile.",
+      "link": "https://www.hdblog.it/home/articoli/n663540/hormann-casa-giardino-quadro-elettrico/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T11:55:00+00:00"
+    },
+    {
+      "titolo": "Il Napoli ha riportato in vita Maradona per la nuova maglia: è AI?",
+      "descrizione": "Maradona seduto sui seggiolini dello stadio che oggi porta il suo nome, con addosso la prima maglia del Napoli, quella del centenario. The post Il Napoli ha riportato in vita Maradona per la nuova maglia: è AI? appeared",
+      "link": "https://www.punto-informatico.it/napoli-riportato-vita-maradona-nuova-maglia-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T11:52:30+00:00"
+    },
+    {
+      "titolo": "Sky acquisisce ITV Media: accordo da 1,6 mld sterline per sfidare Netflix e YouTube",
+      "descrizione": "Sky mette le mani sul principale broadcaster commerciale free-to-air del Regno Unito",
+      "link": "https://www.hdblog.it/business/articoli/n663538/sky-itv-media-accordo-streaming-globale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T11:35:00+00:00"
+    },
+    {
+      "titolo": "Fa caldo, si rischiano blackout ma gli USA tolgono le guide per risparmiare energia",
+      "descrizione": "Il Dipartimento dell’Energia USA avrebbe rimosso circa 6mila pagine con consigli su risparmio energetico, climatizzatori, isolamento domestico, acqua ed elettrodomestici efficienti",
+      "link": "https://www.hdblog.it/green/articoli/n663541/usa-cancella-risparmio-energetico-online/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T11:25:00+00:00"
+    },
+    {
+      "titolo": "In Cina continua il fenomeno del modding delle GPU NVIDIA: ecco la \"RTX 4080M\"",
+      "descrizione": "Le prestazioni sono buone ma non eccelse, niente supporto / driver ufficiali né garanzia. I consumi, però, sono impressionanti.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663542/geforce-modding-gpu-laptop-desktop/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T11:15:00+00:00"
     },
     {
       "titolo": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
@@ -16,158 +163,11 @@
       "data": "2026-07-06T10:31:00+00:00"
     },
     {
-      "titolo": "DJI Osmo Mobile 6 a 59€: il gimbal da mettere in valigia questa estate",
-      "descrizione": "DJI Osmo Mobile 6 è in offerta su Amazon a 59,99€: gimbal per smartphone a 3 assi, pieghevole, leggero, con manico telescopico e ActiveTrack 6.0.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n663532/dji-osmo-mobile-6-gimbal-smartphone-estate-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T10:28:00+00:00"
-    },
-    {
-      "titolo": "Fibra ottica per rilevare guasti e rischi ambientali: FiberCop e Nokia avviano i test",
-      "descrizione": "La collaborazione prevede attività congiunte di ricerca e test",
-      "link": "https://www.hdblog.it/mobile/articoli/n663528/fibra-ottica-rilevare-guasti-vibrazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T10:25:00+00:00"
-    },
-    {
-      "titolo": "Un iPhone 17 Pro Max rimarrà sottoterra per 250 anni",
-      "descrizione": "La capsula del tempo USA sarà riaperta nel 2276 e contiene anche un iPhone 17 Pro Max. È improbabile che possa funzionare, ma potrebbe diventare una testimonianza dell'epoca in cui viviamo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663529/iphone-17-pro-max-capsula-del-tempo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T10:20:00+00:00"
-    },
-    {
-      "titolo": "Nebbia rinfrescante sui tetti: ecco la soluzione per abbattere le isole di calore",
-      "descrizione": "Le temperature in superficie diminuiscono fino a 8°C.",
-      "link": "https://www.hdblog.it/green/articoli/n663516/acqua-nebulizzata-tetti-temperature-caldo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T10:15:00+00:00"
-    },
-    {
-      "titolo": "Amazon punta sui chip custom anche per il mondo consumer",
-      "descrizione": "Panos Panay dice che è la rivoluzione dell'AI: l'abbandono del classico modello di interfaccia display / applicazione sta cominciando a diventare obsoleto.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663527/amazon-chip-ai-custom-consumer-panos-panay/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T10:05:00+00:00"
-    },
-    {
       "titolo": "ICE’s Internal Watchdog Is Now Investigating Online Critics",
       "descrizione": "The Office of Professional Responsibility has opened more than 100 cases over what ICE officials call “incidents of doxing and threats” against ICE employees.",
       "link": "https://www.wired.com/story/ices-internal-watchdog-is-now-investigating-online-critics/",
       "fonte": "WIRED",
       "data": "2026-07-06T10:00:00+00:00"
-    },
-    {
-      "titolo": "La modalità aereo in ricarica può salvare tempo e batteria?",
-      "descrizione": "In estate, calore e ricarica rapida possono stressare la batteria. La modalità aereo disattiva le connessioni e può contribuire a contenere il calore generato dal telefono",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663522/ricarica-in-modalita-aereo-effetti-estate/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:55:00+00:00"
-    },
-    {
-      "titolo": "Friggitrice ad aria compatta Xiaomi Air Fryer Essential da 6L a soli 39,95€",
-      "descrizione": "Cucina tutto quello che vuoi con la friggitrice ad aria compatta Xiaomi Air Fryer Essential da 6 litri che oggi puoi avere a soli 39,95€. The post Friggitrice ad aria compatta Xiaomi Air Fryer Essential da 6L a soli 39,9",
-      "link": "https://www.punto-informatico.it/friggitrice-ad-aria-compatta-xiaomi-air-fryer-essential-6l-soli-39-95e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T09:50:40+00:00"
-    },
-    {
-      "titolo": "Tutti al fresco con le nuove soluzioni Hisense per il mercato europeo",
-      "descrizione": "Hisense amplia ulteriormente la sua gamma di condizionatori d’aria con un’attenzione specifica a prestazioni, efficienza energetica e facilità d’uso quotidiana, rispondendo alla crescente richiesta...",
-      "link": "https://www.hdblog.it/hisense/articoli/n663509/soluzioni-clima-hisense-mercato-europeo-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:45:00+00:00"
-    },
-    {
-      "titolo": "Migliori tracker Life360 Tile in offerta: da 17,99€ per portafogli, chiavi e bagagli",
-      "descrizione": "Diversi tracker Life360 Tile sono in offerta su Amazon al minimo storico: Slim, Tile e Sticker per ritrovare portafogli, chiavi, bagagli e piccoli oggetti.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n663518/migliori-life360-tile-offerta-amazon-tracker/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 18 Pro Max: il punto sul prossimo top di gamma con display posteriore",
-      "descrizione": "Si comincia a fare il punto della situazione sul prossimo top di gamma Xiaomi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663497/xiaomi-18-pro-max-specifiche-leak-conferme/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:25:00+00:00"
-    },
-    {
-      "titolo": "Samsung aumenta i prezzi delle DRAM e l’elettronica rischia nuovi rincari",
-      "descrizione": "Samsung Electronics avrebbe comunicato ai partner un aumento medio del 20% sui prezzi all’ingrosso delle memorie DRAM nel terzo trimestre del 2026, secondo fonti industriali cinesi",
-      "link": "https://www.hdblog.it/hardware/articoli/n663517/samsung-aumenti-memorie-dram-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:10:00+00:00"
-    },
-    {
-      "titolo": "How Palestinians Are Building a Digital Archive That Can’t Be Erased",
-      "descrizione": "Distributed backups, cyber resilience, and a half-million records are preserving Palestinian history beyond any single building or border.",
-      "link": "https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/",
-      "fonte": "WIRED",
-      "data": "2026-07-06T09:00:00+00:00"
-    },
-    {
-      "titolo": "Revolut lancia LED Doge, la carta crypto con gli occhi che si illuminano",
-      "descrizione": "L’effetto luminoso non richiede una batteria interna.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663510/revolut-lancia-doge-led-carta-crypto/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T08:40:00+00:00"
-    },
-    {
-      "titolo": "Il post di Trump su Meloni che trasforma la diplomazia in meme",
-      "descrizione": "Tra un post in cui bacia la bandiera USA e uno in cui celebra i suoi avi, Donald Trump ha chiesto un ordine restrittivo per Giorgia Meloni. The post Il post di Trump su Meloni che trasforma la diplomazia in meme appeared",
-      "link": "https://www.punto-informatico.it/post-trump-meloni-trasforma-diplomazia-meme/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T08:26:54+00:00"
-    },
-    {
-      "titolo": "Bending Spoons: startup italiana da 23 miliardi di dollari",
-      "descrizione": "Dopo il successo della quotazione in Borsa, l'italiana Bending Spoons ha raggiunto una capitalizzazione di mercato di circa 23 miliardi di dollari. The post Bending Spoons: startup italiana da 23 miliardi di dollari appe",
-      "link": "https://www.punto-informatico.it/bending-spoons-startup-italiana-23-miliardi-dollari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T07:45:42+00:00"
-    },
-    {
-      "titolo": "Trump cancella le pagine sul risparmio energetico, perché?",
-      "descrizione": "Con la rete elettrica sotto pressione per il caldo, la Casa Bianca cancella i consigli del Dipartimento dell'Energia sul risparmio energetico. The post Trump cancella le pagine sul risparmio energetico, perché? appeared",
-      "link": "https://www.punto-informatico.it/trump-cancella-pagine-risparmio-energetico-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T07:24:31+00:00"
-    },
-    {
-      "titolo": "Il bug di Windows 11 che porta via fino a 500 GB: come controllare",
-      "descrizione": "Controlla se il problema ha colpito anche il tuo PC: Windows 11 ha un bug che può portare via centinaia di GB nella memoria interna. The post Il bug di Windows 11 che porta via fino a 500 GB: come controllare appeared fi",
-      "link": "https://www.punto-informatico.it/bug-windows-11-porta-via-500-gb-come-controllare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T06:56:53+00:00"
-    },
-    {
-      "titolo": "La pubblicità Google dove i padri fondatori usano Gemini…",
-      "descrizione": "La nuova pubblicità di Google immagina i padri fondatori che usano Gemini per scrivere la Dichiarazione d'Indipendenza. The post La pubblicità Google dove i padri fondatori usano Gemini… appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/pubblicita-google-padri-fondatori-usano-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T06:34:57+00:00"
-    },
-    {
-      "titolo": "Una nuova versione di WinRAR grazie a chi paga la licenza",
-      "descrizione": "Nuova versione disponibile per WinRAR: l'ultimo aggiornamento, che introduce diverse novità, è stato annunciato con un filo di ironia. The post Una nuova versione di WinRAR grazie a chi paga la licenza appeared first on",
-      "link": "https://www.punto-informatico.it/nuova-versione-winrar-grazie-chi-paga-licenza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T06:20:45+00:00"
-    },
-    {
-      "titolo": "Protezione dalle chiamate indesiderate e antivirus di nuova generazione tra le novità di NordVPN",
-      "descrizione": "Di recente NordVPN, punto di riferimento per il servizio di rete privata virtuale, ha rinnovato la propria app con due funzioni di rilievo come la protezione dalle chiamate indesiderate e l’antivirus di nuova generazione",
-      "link": "https://www.punto-informatico.it/protezione-dalle-chiamate-indesiderate-e-antivirus-di-nuova-generazione-tra-le-novita-di-nordvpn/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-05T19:03:14+00:00"
-    },
-    {
-      "titolo": "RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech — USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts",
-      "descrizione": "DIYer shows how they made a handsome magnetic core memory USB drive using home CNC and 3D printing equipment. However, it isn't a homebrew answer to the AI-induced memory crisis with only 64 bits of data capacity",
-      "link": "https://www.tomshardware.com/pc-components/storage/rampocalyse-pricing-prompts-maker-to-construct-his-own-memory-using-ancient-apollo-era-tech-usb-drive-resurrects-hand-threaded-magnetic-core-memory-using-salvaged-russian-computer-parts",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-05T15:50:00+00:00"
     }
   ]
 }

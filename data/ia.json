@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-06T11:04:49.999409+00:00",
+  "last_updated": "2026-07-06T15:54:59.422639+00:00",
   "items": [
     {
-      "titolo": "La modalità aereo in ricarica può salvare tempo e batteria?",
-      "descrizione": "In estate, calore e ricarica rapida possono stressare la batteria. La modalità aereo disattiva le connessioni e può contribuire a contenere il calore generato dal telefono",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663522/ricarica-in-modalita-aereo-effetti-estate/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T09:55:00+00:00",
+      "titolo": "ChatGPT per organizzare le vacanze in città e scoprire eventi e luoghi",
+      "descrizione": "Ecco il prompt per ChatGPT che crea itinerari personalizzati con luoghi nascosti, eventi ed esperienze su misura. The post ChatGPT per organizzare le vacanze in città e scoprire eventi e luoghi appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/chatgpt-organizzare-vacanze-citta-scoprire-eventi-luoghi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T15:30:44+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
-      "descrizione": "Alibaba banned Claude Code after an alleged hidden China-detection code was found, prompting staff to switch to Qoder as its feud with Anthropic deepens.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-05T12:20:00+00:00",
+      "titolo": "Claude Fable 5 is back, but I'm sticking with Opus 4.8 for daily work: 5 reasons why",
+      "descrizione": "Anthropic's Fable 5 promises mythic AI power, but surprise restrictions make me wonder if it's more trouble than it's worth for day-to-day use.",
+      "link": "https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/",
+      "fonte": "Latest news",
+      "data": "2026-07-06T12:28:00+00:00",
       "modello": "claude"
     }
   ]
