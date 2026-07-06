@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-07-06T04:40:46.161800+00:00",
+  "last_updated": "2026-07-06T11:04:49.999409+00:00",
   "items": [
     {
-      "titolo": "La tecnologia brucia la risorsa più scarsa, il tempo. Come resistere?",
-      "descrizione": "Viviamo la fine del tempo. L’ultimo stadio del capitalismo sta disintegrando le risorse del pianeta, secondo l’ultimo Rapporto Onu su “Costo ambientale del consumo energetico dell’IA: impronta di carbonio, acqua...",
-      "link": "https://www.ilsole24ore.com/art/la-tecnologia-brucia-risorsa-piu-scarsa-tempo-come-resistere-AI5VtxrD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-05T14:03:03+00:00",
+      "titolo": "La modalità aereo in ricarica può salvare tempo e batteria?",
+      "descrizione": "In estate, calore e ricarica rapida possono stressare la batteria. La modalità aereo disattiva le connessioni e può contribuire a contenere il calore generato dal telefono",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663522/ricarica-in-modalita-aereo-effetti-estate/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T09:55:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "La pubblicità Google dove i padri fondatori usano Gemini…",
+      "descrizione": "La nuova pubblicità di Google immagina i padri fondatori che usano Gemini per scrivere la Dichiarazione d'Indipendenza. The post La pubblicità Google dove i padri fondatori usano Gemini… appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/pubblicita-google-padri-fondatori-usano-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T06:34:57+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
