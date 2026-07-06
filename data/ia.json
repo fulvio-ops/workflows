@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T15:54:59.422639+00:00",
+  "last_updated": "2026-07-06T20:14:52.820327+00:00",
   "items": [
     {
       "titolo": "ChatGPT per organizzare le vacanze in città e scoprire eventi e luoghi",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "La pubblicità Google dove i padri fondatori usano Gemini…",
-      "descrizione": "La nuova pubblicità di Google immagina i padri fondatori che usano Gemini per scrivere la Dichiarazione d'Indipendenza. The post La pubblicità Google dove i padri fondatori usano Gemini… appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/pubblicita-google-padri-fondatori-usano-gemini/",
+      "titolo": "Claude Sonnet 5 rifiuta i compiti e dà consigli fuori luogo",
+      "descrizione": "Reddit si riempie di segnalazioni contro Claude Sonnet 5. Perde il contesto, rifiuta le richieste e dà risposte incoerenti. The post Claude Sonnet 5 rifiuta i compiti e dà consigli fuori luogo appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/claude-sonnet-5-rifiuta-compiti-da-consigli-fuori-luogo/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-06T06:34:57+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude Fable 5 is back, but I'm sticking with Opus 4.8 for daily work: 5 reasons why",
-      "descrizione": "Anthropic's Fable 5 promises mythic AI power, but surprise restrictions make me wonder if it's more trouble than it's worth for day-to-day use.",
-      "link": "https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/",
-      "fonte": "Latest news",
-      "data": "2026-07-06T12:28:00+00:00",
+      "data": "2026-07-06T16:40:34+00:00",
       "modello": "claude"
     }
   ]

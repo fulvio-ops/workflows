@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-06T15:54:56.372552+00:00",
+  "last_updated": "2026-07-06T20:14:49.074649+00:00",
   "items": [
+    {
+      "titolo": "Il nostro viaggio dentro NordVPN: l'intervista a Marijus Briedis (CTO) | VIDEO",
+      "descrizione": "La nostra intervista a Marijus Briedis, CTO di NordVPN: abbiamo parlato del Next Gen Antivirus, di cybersecurity e di tanto altro.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660280/nordvpn-intervista-marijus-briedis-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T19:00:00+00:00"
+    },
+    {
+      "titolo": "Chiavetta USB a nuclei magnetici dell'era Apollo: la sfida ai rincari RAM",
+      "descrizione": "Una chiavetta USB artigianale da 8 byte usa memoria a nuclei magnetici.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663499/polymatt-chiavetta-usb-era-apollo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T18:59:00+00:00"
+    },
+    {
+      "titolo": "Volete il pannello frontale e-Ink per la Steam Machine? Potete farvelo da soli!",
+      "descrizione": "Valve ha pubblicato su GitLab una montagna di documenti, file, tutorial e codice software.",
+      "link": "https://www.hdblog.it/games/articoli/n663583/valve-steam-machine-pannello-frontale-e-ink/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T17:45:00+00:00"
+    },
+    {
+      "titolo": "Jeff Bezos spiega perché l’AI creerà una carenza di manodopera",
+      "descrizione": "Jeff Bezos sostiene che l'intelligenza artificiale non provocherà disoccupazione di massa, ma una carenza di lavoratori. The post Jeff Bezos spiega perché l’AI creerà una carenza di manodopera appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/jeff-bezos-spiega-perche-ai-creera-carenza-manodopera/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-06T17:27:02+00:00"
+    },
+    {
+      "titolo": "How I turned an old Android phone into my home internet backup solution - 3 methods",
+      "descrizione": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
+      "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+      "fonte": "Latest news",
+      "data": "2026-07-06T17:23:00+00:00"
+    },
+    {
+      "titolo": "Philips lancia i primi monitor gaming a tripla modalità: QHD, FHD o HD",
+      "descrizione": "E il refresh sale a (rispettivamente) 275, 360 e 540 Hz.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663581/philips-evnia-monitor-gaming-triple-mode/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T17:15:00+00:00"
+    },
+    {
+      "titolo": "Reattori nucleari al piombo: il piano per portarli in rete",
+      "descrizione": "Blykalla e Hitachi Energy lavorano a sistemi elettrici standard per reattori al piombo.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663552/eattori-nucleari-piombo-rete-elettrica/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T16:55:00+00:00"
+    },
+    {
+      "titolo": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards — new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models",
+      "descrizione": "MSI has officially validated region-bound Chinese RAM using CXMT modules to run at up to 8,200 MT/s on its AM5 motherboards. Models with two RAM slots can handle these high frequencies a bit better than four-DIMM variant",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-06T16:20:37+00:00"
+    },
+    {
+      "titolo": "OnePlus, problemi di assistenza e garanzia con la ritirata dall'Europa",
+      "descrizione": "La società cinese non si sta comportando benissimo coi suoi utenti, a quanto pare.",
+      "link": "https://www.hdblog.it/oneplus/articoli/n663576/oneplus-ritirata-europa-garanzia-assistenza/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T16:15:00+00:00"
+    },
+    {
+      "titolo": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
+      "descrizione": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
+      "link": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+      "fonte": "Latest news",
+      "data": "2026-07-06T16:05:00+00:00"
+    },
+    {
+      "titolo": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
+      "descrizione": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
+      "link": "https://www.zdnet.com/article/hp-omnibook-ultra-2026-review/",
+      "fonte": "Latest news",
+      "data": "2026-07-06T16:04:00+00:00"
+    },
+    {
+      "titolo": "Droni cinesi: saranno lanciati da una catapulta elettromagnetica",
+      "descrizione": "La Cina mostra un lanciatore mobile per droni basato su catapulta elettromagnetica",
+      "link": "https://www.hdblog.it/droni/articoli/n663559/cina-catapulta-elettromagnetica-droni-camion/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-06T15:55:00+00:00"
+    },
     {
       "titolo": "iPhone Ultra non è ancora uscito ma già ci sono le edizioni super lussuose di Caviar",
       "descrizione": "4 varianti, materiali incredibilmente preziosi, prezzi sconosciuti.",
@@ -23,8 +107,8 @@
       "data": "2026-07-06T15:05:00+00:00"
     },
     {
-      "titolo": "Microsoft licenza 4.800 persone (3.200 della divisione XBOX)",
-      "descrizione": "Microsoft ha annunciato il licenziamento di 4.800 dipendenti, 3.200 dei quali della divisione XBOX, oltre allo spin-off o vendita di quattro studios. The post Microsoft licenza 4.800 persone (3.200 della divisione XBOX)",
+      "titolo": "Microsoft licenzia 4.800 persone (3.200 della divisione XBOX)",
+      "descrizione": "Microsoft ha annunciato il licenziamento di 4.800 dipendenti, 3.200 dei quali della divisione XBOX, oltre allo spin-off o vendita di quattro studios. The post Microsoft licenzia 4.800 persone (3.200 della divisione XBOX)",
       "link": "https://www.punto-informatico.it/microsoft-licenza-4-800-persone-3-200-della-divisione-xbox/",
       "fonte": "Punto Informatico",
       "data": "2026-07-06T15:01:33+00:00"
@@ -35,13 +119,6 @@
       "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-06T14:36:21+00:00"
-    },
-    {
-      "titolo": "Il nostro viaggio dentro NordVPN: l'intervista a Marijus Briedis (CTO) | VIDEO",
-      "descrizione": "La nostra intervista a Marijus Briedis, CTO di NordVPN: abbiamo parlato del Next Gen Antivirus, di cybersecurity e di tanto altro.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660280/nordvpn-intervista-marijus-briedis-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T14:31:00+00:00"
     },
     {
       "titolo": "Xbox, tagli storici: Microsoft vende quattro studi e cambia rotta",
@@ -72,20 +149,6 @@
       "data": "2026-07-06T13:45:36+00:00"
     },
     {
-      "titolo": "Pirateria sportiva, i broadcaster vogliono una blacklist Ue degli hosting provider",
-      "descrizione": "Per ora non si tratta di una misura approvata",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663550/pirateria-sportiva-proposta-blacklist-ue/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T13:45:00+00:00"
-    },
-    {
-      "titolo": "Fotovoltaico galleggiante: dalla Norvegia la nuova tecnologia che resiste alle tempeste",
-      "descrizione": "BRIZO ha ottenuto la certificazione DNV.",
-      "link": "https://www.hdblog.it/green/articoli/n663547/fotovoltaico-galleggiante-brizo-norvegia-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T13:40:00+00:00"
-    },
-    {
       "titolo": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback — Analyst firm SemiAnalysis says PCB midplane problems led to the delay",
       "descrizione": "Nvidia reportedly won't ship its Kyber NVL144 rack until 2028, a delay of more than 12 months.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028",
@@ -105,69 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-06T12:51:09+00:00"
-    },
-    {
-      "titolo": "Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles — German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon",
-      "descrizione": "Quantum Systems Group reckons it has broken the flight speed record for an electric drone. During internal testing last month the Munich-based firm recorded its Apex Recordhunter drone hitting a top speed of 434 mph in s",
-      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-06T12:39:54+00:00"
-    },
-    {
-      "titolo": "China’s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment — reportedly challenges Nvidia dominance with 'tripled inference performance' of H2",
-      "descrizione": "Huawei is reportedly preparing to enter South Korea's AI accelerator market with its Ascend 950 chips and Atlas 950 SuperPod, challenging Nvidia through aggressive pricing, amid a broader push to expand its AI ecosystem",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-06T12:31:48+00:00"
-    },
-    {
-      "titolo": "La casetta da giardino diventa un hub energetico: la novità firmata Hörmann",
-      "descrizione": "Totalmente personalizzabile.",
-      "link": "https://www.hdblog.it/home/articoli/n663540/hormann-casa-giardino-quadro-elettrico/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T11:55:00+00:00"
-    },
-    {
-      "titolo": "Il Napoli ha riportato in vita Maradona per la nuova maglia: è AI?",
-      "descrizione": "Maradona seduto sui seggiolini dello stadio che oggi porta il suo nome, con addosso la prima maglia del Napoli, quella del centenario. The post Il Napoli ha riportato in vita Maradona per la nuova maglia: è AI? appeared",
-      "link": "https://www.punto-informatico.it/napoli-riportato-vita-maradona-nuova-maglia-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-06T11:52:30+00:00"
-    },
-    {
-      "titolo": "Sky acquisisce ITV Media: accordo da 1,6 mld sterline per sfidare Netflix e YouTube",
-      "descrizione": "Sky mette le mani sul principale broadcaster commerciale free-to-air del Regno Unito",
-      "link": "https://www.hdblog.it/business/articoli/n663538/sky-itv-media-accordo-streaming-globale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T11:35:00+00:00"
-    },
-    {
-      "titolo": "Fa caldo, si rischiano blackout ma gli USA tolgono le guide per risparmiare energia",
-      "descrizione": "Il Dipartimento dell’Energia USA avrebbe rimosso circa 6mila pagine con consigli su risparmio energetico, climatizzatori, isolamento domestico, acqua ed elettrodomestici efficienti",
-      "link": "https://www.hdblog.it/green/articoli/n663541/usa-cancella-risparmio-energetico-online/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T11:25:00+00:00"
-    },
-    {
-      "titolo": "In Cina continua il fenomeno del modding delle GPU NVIDIA: ecco la \"RTX 4080M\"",
-      "descrizione": "Le prestazioni sono buone ma non eccelse, niente supporto / driver ufficiali né garanzia. I consumi, però, sono impressionanti.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663542/geforce-modding-gpu-laptop-desktop/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-06T11:15:00+00:00"
-    },
-    {
-      "titolo": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
-      "descrizione": "This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models.",
-      "link": "https://www.wired.com/review/sony-bravia-7-mark-ii/",
-      "fonte": "WIRED",
-      "data": "2026-07-06T10:31:00+00:00"
-    },
-    {
-      "titolo": "ICE’s Internal Watchdog Is Now Investigating Online Critics",
-      "descrizione": "The Office of Professional Responsibility has opened more than 100 cases over what ICE officials call “incidents of doxing and threats” against ICE employees.",
-      "link": "https://www.wired.com/story/ices-internal-watchdog-is-now-investigating-online-critics/",
-      "fonte": "WIRED",
-      "data": "2026-07-06T10:00:00+00:00"
     }
   ]
 }
