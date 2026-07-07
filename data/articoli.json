@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-07-07T15:16:26.322737+00:00",
+  "last_updated": "2026-07-07T20:16:15.277402+00:00",
   "items": [
+    {
+      "titolo": "WSL, Microsoft vuole migliorare le prestazioni delle app multimediali",
+      "descrizione": "Il colosso di Redmond ha fornito del codice alle librerie open-source Mesa che permette di interfacciare il codec AV1 direttamente a DirectX 12, riducendo l'overhead prestazionale.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663704/microsoft-windows-codice-mesa-av1-prestazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T17:55:00+00:00"
+    },
+    {
+      "titolo": "Microsoft denunciata per il rumore del mega data center nel Wisconsin",
+      "descrizione": "I cittadini che abitano nelle vicinanze dell'impianto Fairwater non riescono più a dormire per via del rumore delle ventole di raffreddamento, nonostante Microsoft dica di essere già intervenuta.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663701/microsoft-class-action-data-center-wisconsin/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T17:50:00+00:00"
+    },
+    {
+      "titolo": "JetZero avvia in California il dimostratore del nuovo aereo ad ala mista",
+      "descrizione": "JetZero avvia il Jet1, il dimostratore che punta a dimezzare i consumi degli aerei.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663680/jetzero-jet1-costruzione-california/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T17:40:00+00:00"
+    },
+    {
+      "titolo": "Mirsee prepara MH3, umanoide industriale in produzione dal 2027",
+      "descrizione": "MH3 punta su fabbriche, sicurezza e teleoperazione fino a 1.500 km.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663566/mirsee-mh3-umanoide-industriale-produzione-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T17:20:00+00:00"
+    },
+    {
+      "titolo": "iRobot presenta il primo Roomba che non è un robot aspirapolvere",
+      "descrizione": "Si chiama Roomba Electro Plus, ed è una lavapavimenti manuale stile Dreame / Roborock. Con qualche feature particolarmente avanzata.",
+      "link": "https://www.hdblog.it/home/articoli/n663700/irobot-roomba-electro-plus-lava-pavimenti-manuale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T17:10:00+00:00"
+    },
+    {
+      "titolo": "Claude Cowork sbarca su smartphone e web. Anthropic porta l’agente AI fuori dal pc",
+      "descrizione": "Claude Cowork lascia la scrivania e arriva sullo smartphone. Anthropic estende il suo assistente intelligente a mobile e web, eliminando uno dei principali limiti della prima versione: fino a oggi...",
+      "link": "https://www.ilsole24ore.com/art/claude-cowork-sbarca-smartphone-e-web-anthropic-porta-l-agente-fuori-pc-AJpkIpB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-07T17:06:00+00:00"
+    },
+    {
+      "titolo": "Austria nella top 100 mondiale con il nuovo supercomputer MUSICA",
+      "descrizione": "MUSICA porta l’Austria tra i leader mondiali del supercalcolo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663569/musica-supercomputer-austria-nvidia-h100/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T16:55:00+00:00"
+    },
+    {
+      "titolo": "Apple Creator Studio chiede all'utente l'autorizzazione per le funzioni AI",
+      "descrizione": "Un prompt chiede conferma all'utente prima di inviare dati ai server di Google.",
+      "link": "https://www.hdblog.it/apple/articoli/n663698/apple-creator-studio-prompt-ai-privacy-google/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T16:35:00+00:00"
+    },
+    {
+      "titolo": "Successo per il test del ramjet a combustibile solido di L3Harris",
+      "descrizione": "L3Harris completa un test chiave del ramjet a combustibile solido per futuri sistemi missilistici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663679/l3harris-test-ramjet-combustibile-solido/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T16:25:00+00:00"
+    },
+    {
+      "titolo": "Google Search Console: arrivano le statistiche per i Social",
+      "descrizione": "Con le nuove proprietà piattaforma, Google Search Console permette di analizzare le ricerche che portano traffico ai profili social. The post Google Search Console: arrivano le statistiche per i Social appeared first on",
+      "link": "https://www.punto-informatico.it/google-search-console-arrivano-statistiche-social/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-07T16:22:10+00:00"
+    },
+    {
+      "titolo": "GeForce RTX 5080 SUPER avvistata sul sito di Seasonic: questa volta ci siamo?",
+      "descrizione": "Alcune specifiche sono allineate ai leak degli scorsi mesi.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663695/nvidia-geforce-rtx-5080-super-avvistata-seasonic/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T16:15:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro potrebbe essere un bel mattoncino: sfiorerà gli 11 mm di spessore?",
+      "descrizione": "Colpa del nuovo modulo fotografico a diaframma variabile.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663694/iphone-18-pro-spessore-11-mm/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T16:05:00+00:00"
+    },
+    {
+      "titolo": "Google Traduttore si rifà il look e diventa più facile da usare: cosa cambia",
+      "descrizione": "Tanti cambiamenti estetici ma anche funzionali.",
+      "link": "https://www.hdblog.it/google/articoli/n663683/google-traduttore-interfaccia-redesign-app-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T15:50:00+00:00"
+    },
+    {
+      "titolo": "Il cinema a casa tua: arriva in Italia la serie di videoproiettori laser 4K Xgimi Titan Noir",
+      "descrizione": "Caratteristiche e prezzi.",
+      "link": "https://www.hdblog.it/tv/articoli/n663681/xgimi-proiettori-4k-titan-noir-prezzi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T15:35:00+00:00"
+    },
+    {
+      "titolo": "Gemini non è più solo un chatbot: 13 funzioni da provare subito",
+      "descrizione": "Gemini di Google si è trasformato da chatbot conversazionale a piattaforma di produttività completa. Come sfruttare le sue potenzialità. The post Gemini non è più solo un chatbot: 13 funzioni da provare subito appeared f",
+      "link": "https://www.punto-informatico.it/gemini-non-e-piu-solo-chatbot-13-funzioni-provare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-07T15:30:08+00:00"
+    },
+    {
+      "titolo": "Arriva la prima farmacia completamente robotica: debutto negli USA",
+      "descrizione": "Queue lancia una farmacia autonoma che automatizza l'intero processo di dispensazione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663663/prima-farmacia-completamente-robotica/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-07T15:20:00+00:00"
+    },
     {
       "titolo": "Google utilizzerà i media caricati per le ricerche per allenare la sua AI",
       "descrizione": "Un rapporto di TechCrunch fa luce sulla vicenda",
@@ -30,13 +142,6 @@
       "data": "2026-07-07T14:55:00+00:00"
     },
     {
-      "titolo": "Huawei non fa una piega, ne fa 3. Fold e Tri-Fold in arrivo quest'anno, Wide nel 2027",
-      "descrizione": "La strategia dei pieghevoli di Huawei raccontata dal leak di Digital Chat Station",
-      "link": "https://www.hdblog.it/huawei/articoli/n663677/huawei-pieghevoli-2026-2027-lineup/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T14:50:00+00:00"
-    },
-    {
       "titolo": "Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware — customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's",
       "descrizione": "LG monitors apparently auto-install an app on your PC when you first connect them, all thanks to the Microsoft Store.",
       "link": "https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads",
@@ -58,116 +163,11 @@
       "data": "2026-07-07T14:38:31+00:00"
     },
     {
-      "titolo": "xAI cambia nome: ora è ufficialmente SpaceXAI",
-      "descrizione": "Un cambiamento atteso",
-      "link": "https://www.hdblog.it/mercato/articoli/n663666/spacexai-nuovo-nome-ufficiale-xai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T14:25:00+00:00"
-    },
-    {
-      "titolo": "DeepSeek prepara chip AI proprietari e sfida NVIDIA sul mercato",
-      "descrizione": "DeepSeek sviluppa chip AI per ridurre la dipendenza da NVIDIA e Huawei.",
-      "link": "https://www.hdblog.it/mercato/articoli/n663664/deepseek-chip-ai-proprietari/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T14:10:00+00:00"
-    },
-    {
       "titolo": "Dipendenza social: Meta dovrà pagare 1.400 miliardi di dollari?",
       "descrizione": "Quattro Stati (California, Colorado, Kentucky e New Jersey) hanno chiesto a Meta un risarcimento danni complessivo di 1.400 miliardi di dollari. The post Dipendenza social: Meta dovrà pagare 1.400 miliardi di dollari? ap",
       "link": "https://www.punto-informatico.it/dipendenza-social-meta-dovra-pagare-1400-miliardi-dollari/",
       "fonte": "Punto Informatico",
       "data": "2026-07-07T14:07:05+00:00"
-    },
-    {
-      "titolo": "La Terra saluta l’alba: lo scatto NASA lascia senza fiato",
-      "descrizione": "La NASA mostra un’alba orbitale ripresa dalla ISS sopra il Caucaso.",
-      "link": "https://www.hdblog.it/fotografia/articoli/n663570/alba-orbitale-nasa-iss-terra/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T13:50:00+00:00"
-    },
-    {
-      "titolo": "LG verso un trimestre record: crescono elettrodomestici, TV e automotive",
-      "descrizione": "LG si appresta a chiudere il miglior secondo trimestre della sua storia.",
-      "link": "https://www.hdblog.it/tv/articoli/n663665/lg-trimestre-record-tv-auto/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T13:40:00+00:00"
-    },
-    {
-      "titolo": "This portable keyboard is the ultimate productivity tool - especially for Mac and PC users",
-      "descrizione": "The Asus ProArt KD300 keyboard is sleek and compact, with excellent multipoint connectivity.",
-      "link": "https://www.zdnet.com/article/asus-proart-keyboard-kd300-review/",
-      "fonte": "Latest news",
-      "data": "2026-07-07T13:27:00+00:00"
-    },
-    {
-      "titolo": "Iliad lancia TOP 30 MONDO: 300 GB in Italia e 30 GB in roaming extra UE a 12,99 euro",
-      "descrizione": "ILIAD lancia una nuova tariffa detta TOP 30 MONDO che include 30 GB di traffico dati in roaming extra UE, perfetta per viaggiare e per usare lo smartphone all'estero",
-      "link": "https://www.hdblog.it/mobile/articoli/n663632/offerta-iliad-top-30-mondo-30-gb-roaming-1299-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T13:01:00+00:00"
-    },
-    {
-      "titolo": "Steam Machines with the ‘Red Line of Death’ get a simple, official cure: Clear the CMOS — clearing the CMOS can revive flat(red)-lining cubes",
-      "descrizione": "Valve’s official account on Reddit has responded to RLOD victims with simple step-by-step instructions to get any affected Steam Machine up and running again.",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-07T12:55:43+00:00"
-    },
-    {
-      "titolo": "HBO Max aumenta il piano Base con pubblicità: ora si parte da 6,99 euro",
-      "descrizione": "Gli altri due piani, almeno per ora, restano fermi",
-      "link": "https://www.hdblog.it/benchmark/articoli/n663661/hbo-max-aumenta-piano-base/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T12:55:00+00:00"
-    },
-    {
-      "titolo": "Class action olandese contro Sony per monopolio del PlayStation Store",
-      "descrizione": "Le dichiarazioni dell'associazione non-profit che porta avanti la class action sulla decisione di abbandonare il supporto fisico.",
-      "link": "https://www.hdblog.it/sony/articoli/n663637/sony-playstation-class-action-olanda-monopolio/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T12:35:00+00:00"
-    },
-    {
-      "titolo": "Satispay cambia passo: arrivano le carte Mastercard, oltre ad azioni e ETF",
-      "descrizione": "Satispay amplia la propria offerta con carte di debito Mastercard e una nuova sezione Investimenti. Dall’app sarà possibile acquistare azioni ed ETF, anche frazionati, a partire da 1 euro",
-      "link": "https://www.hdblog.it/fintech/articoli/n663655/satispay-carte-mastercard-azioni-etf/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-07T12:15:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT, problemi con le immagini: down parziale 7 luglio (risolto)",
-      "descrizione": "Oggi qualcosa non va con alcuni degli strumenti di OpenAI: problemi confermati con la creazione delle immagini in ChatGPT e con Codex. The post ChatGPT, problemi con le immagini: down parziale 7 luglio (risolto) appeared",
-      "link": "https://www.punto-informatico.it/chatgpt-problemi-immagini-codex-7-luglio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-07T12:09:05+00:00"
-    },
-    {
-      "titolo": "Satispay è sempre più banca, lancia le sue carte di debito",
-      "descrizione": "Attraverso la collaborazione con Mastercard, Satispay lancia le sue carte di debito: Red, Metal e Velvet con diversi piani di abbonamento. The post Satispay è sempre più banca, lancia le sue carte di debito appeared firs",
-      "link": "https://www.punto-informatico.it/fintech/carte/satispay-carte-debito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-07T12:01:22+00:00"
-    },
-    {
-      "titolo": "Kioxia and Sandisk sample world's densest 3D NAND — new 332-Layer beats Samsung’s 400-Layer NAND",
-      "descrizione": "Kioxia, Sandisk begin to sample BiCS10 3D NAND: 332 active layers and over 29 Gb/mm2 areal capacity.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-07T11:10:00+00:00"
-    },
-    {
-      "titolo": "Le cinque serie tv da non perdere a luglio: torna La casa nella prateria",
-      "descrizione": "Sfogliando nell’offerta globale di streaming, satellite e digitale terrestre, ecco una selezione dei titoli da non farsi scappare",
-      "link": "https://www.ilsole24ore.com/art/le-cinque-serie-tv-non-perdere-luglio-torna-casa-prateria-AJBh8f",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-07T10:56:27+00:00"
-    },
-    {
-      "titolo": "xAI diventa SpaceXAI: nuovo nome, stessa megalomania…",
-      "descrizione": "SpaceXAI è il nuovo nome dell'entità che comprende SpaceX, xAI, X e Starlink. Nuovo logo e account aggiornato. The post xAI diventa SpaceXAI: nuovo nome, stessa megalomania… appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/xai-diventa-spacexai-nuovo-nome-stessa-megalomania/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-07T10:43:42+00:00"
     }
   ]
 }

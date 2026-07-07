@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-07-07T15:16:29.758038+00:00",
+  "last_updated": "2026-07-07T20:16:19.253736+00:00",
   "items": [
     {
-      "titolo": "DeepSeek vuole costruire i propri chip AI e assume ingegneri",
-      "descrizione": "Dopo OpenAI con Jalapeño, Google con TPU e Amazon con Trainium, anche DeepSeek vuole i propri chip per ridurre la dipendenza da NVIDIA. The post DeepSeek vuole costruire i propri chip AI e assume ingegneri appeared first",
-      "link": "https://www.punto-informatico.it/deepseek-vuole-costruire-propri-chip-ai-assume-ingegneri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-07T14:40:35+00:00",
+      "titolo": "I connected ChatGPT to my bank, and it's my go-to finance app now - here's how (and why)",
+      "descrizione": "With ChatGPT Finances, I can see all my money, investments, and debts in one place - and I can ask AI what it all means.",
+      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-finance-to-manage-money-investments-debts/",
+      "fonte": "Latest news",
+      "data": "2026-07-07T18:27:43+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude sviluppa uno spazio di lavoro simile al cervello umano",
-      "descrizione": "Un nuovo studio su Claude rivela uno spazio computazionale emerso durante l’addestramento. La scoperta aiuta a capire meglio come funziona l'AI. The post Claude sviluppa uno spazio di lavoro simile al cervello umano appe",
-      "link": "https://www.punto-informatico.it/claude-sviluppa-spazio-lavoro-simile-cervello-umano/",
+      "titolo": "Gemini non è più solo un chatbot: 13 funzioni da provare subito",
+      "descrizione": "Gemini di Google si è trasformato da chatbot conversazionale a piattaforma di produttività completa. Come sfruttare le sue potenzialità. The post Gemini non è più solo un chatbot: 13 funzioni da provare subito appeared f",
+      "link": "https://www.punto-informatico.it/gemini-non-e-piu-solo-chatbot-13-funzioni-provare-subito/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-07T10:00:16+00:00",
+      "data": "2026-07-07T15:30:08+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude Cowork sbarca su smartphone e web. Anthropic porta l’agente AI fuori dal pc",
+      "descrizione": "Claude Cowork lascia la scrivania e arriva sullo smartphone. Anthropic estende il suo assistente intelligente a mobile e web, eliminando uno dei principali limiti della prima versione: fino a oggi...",
+      "link": "https://www.ilsole24ore.com/art/claude-cowork-sbarca-smartphone-e-web-anthropic-porta-l-agente-fuori-pc-AJpkIpB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-07T17:06:00+00:00",
       "modello": "claude"
     },
     {
