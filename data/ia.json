@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-07T10:01:14.299761+00:00",
+  "last_updated": "2026-07-07T15:16:29.758038+00:00",
   "items": [
     {
-      "titolo": "Claude sviluppa uno spazio di lavoro simile al cervello umano",
-      "descrizione": "Un nuovo studio su Claude rivela uno spazio computazionale emerso durante l’addestramento. La scoperta aiuta a capire meglio come funziona l'AI. The post Claude sviluppa uno spazio di lavoro simile al cervello umano appe",
-      "link": "https://www.punto-informatico.it/claude-sviluppa-spazio-lavoro-simile-cervello-umano/",
+      "titolo": "DeepSeek vuole costruire i propri chip AI e assume ingegneri",
+      "descrizione": "Dopo OpenAI con Jalapeño, Google con TPU e Amazon con Trainium, anche DeepSeek vuole i propri chip per ridurre la dipendenza da NVIDIA. The post DeepSeek vuole costruire i propri chip AI e assume ingegneri appeared first",
+      "link": "https://www.punto-informatico.it/deepseek-vuole-costruire-propri-chip-ai-assume-ingegneri/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-07T10:00:16+00:00",
+      "data": "2026-07-07T14:40:35+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,6 +16,14 @@
       "fonte": "Punto Informatico",
       "data": "2026-07-07T10:00:16+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "DeepSeek vuole costruire i propri chip AI e assume ingegneri",
+      "descrizione": "Dopo OpenAI con Jalapeño, Google con TPU e Amazon con Trainium, anche DeepSeek vuole i propri chip per ridurre la dipendenza da NVIDIA. The post DeepSeek vuole costruire i propri chip AI e assume ingegneri appeared first",
+      "link": "https://www.punto-informatico.it/deepseek-vuole-costruire-propri-chip-ai-assume-ingegneri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-07T14:40:35+00:00",
+      "modello": "altri"
     }
   ]
 }
