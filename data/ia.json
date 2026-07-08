@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-08T03:46:23.653433+00:00",
+  "last_updated": "2026-07-08T08:44:32.566182+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "descrizione": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "fonte": "WIRED",
-      "data": "2026-07-07T21:30:00+00:00",
+      "titolo": "OpenAI GPT-5.6 accessibile a tutti dal 9 luglio",
+      "descrizione": "OpenAI ha comunicato che i modelli Sol, Terra e Luna della serie GPT-5.6 saranno accessibili a tutti dal 9 luglio, dopo il via libera del governo USA. The post OpenAI GPT-5.6 accessibile a tutti dal 9 luglio appeared fir",
+      "link": "https://www.punto-informatico.it/openai-gpt-5-6-accessibile-tutti-9-luglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-08T07:43:15+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Cowork sbarca su smartphone e web. Anthropic porta l’agente AI fuori dal pc",
-      "descrizione": "Claude Cowork lascia la scrivania e arriva sullo smartphone. Anthropic estende il suo assistente intelligente a mobile e web, eliminando uno dei principali limiti della prima versione: fino a oggi...",
-      "link": "https://www.ilsole24ore.com/art/claude-cowork-sbarca-smartphone-e-web-anthropic-porta-l-agente-fuori-pc-AJpkIpB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-07T17:06:00+00:00",
+      "titolo": "Claude Cowork debutta su web e mobile con nuove funzioni",
+      "descrizione": "Claude Cowork arriva su web e mobile con attività in cloud e notifiche su smartphone.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663713/claude-cowork-web-mobile/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T06:15:00+00:00",
       "modello": "claude"
     },
     {
