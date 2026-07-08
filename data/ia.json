@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-07-08T14:41:37.332766+00:00",
+  "last_updated": "2026-07-08T19:56:03.951844+00:00",
   "items": [
     {
-      "titolo": "7 funzioni di ChatGPT che quasi nessuno usa",
-      "descrizione": "Dalla ricerca approfondita ai Progetti, fino alle automazioni e alla memoria: ecco le funzionalità di ChatGPT che molti utenti non conoscono. The post 7 funzioni di ChatGPT che quasi nessuno usa appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/7-funzioni-chatgpt-quasi-nessuno-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T14:26:45+00:00",
+      "titolo": "OpenAI's new GPT-Live-1 voice model won't interrupt you - why that's a big deal",
+      "descrizione": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T16:36:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Cowork sbarca su smartphone e web. Anthropic porta l’agente AI fuori dal pc",
-      "descrizione": "Claude Cowork lascia la scrivania e arriva sullo smartphone. Anthropic estende il suo assistente intelligente a mobile e web, eliminando uno dei principali limiti della prima versione: fino a oggi...",
-      "link": "https://www.ilsole24ore.com/art/claude-cowork-sbarca-smartphone-e-web-anthropic-porta-l-agente-fuori-pc-AJpkIpB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-07T17:06:00+00:00",
+      "titolo": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
+      "descrizione": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
+      "link": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T15:09:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
+      "descrizione": "China is warning against the use of Claude Code versions released between April and June 2026 after it's revealed that hidden code is sending sensitive user information to remote servers. The government told users to uni",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-08T15:54:14+00:00",
       "modello": "claude"
     }
   ]

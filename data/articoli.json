@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-07-08T14:41:33.731610+00:00",
+  "last_updated": "2026-07-08T19:55:59.637417+00:00",
   "items": [
     {
-      "titolo": "Su FlixBus e FlixTrain ora si può pagare con Klarna in molti più mercati (anche Italia)",
-      "descrizione": "In precedenza la partnership era disponibile solo in USA e Svezia.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n663794/flixbus-klarna-pagamenti-rate-italia-europa/",
+      "titolo": "I replaced my Sonos home theater with this Sony system - here's why innovation is king",
+      "descrizione": "Sony's Bravia Theater Trio arrives in a unique form and doesn't let traditional home theater rules hinder its performance.",
+      "link": "https://www.zdnet.com/article/sony-bravia-trio-review/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T19:52:00+00:00"
+    },
+    {
+      "titolo": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
+      "descrizione": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
+      "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T19:34:21+00:00"
+    },
+    {
+      "titolo": "Recensione Hollyland MELO P1: uno studio audio portatile per cantanti e creator",
+      "descrizione": "Abbiamo provato il nuovo microfono di Hollyland che offre una qualità da studio ed un buon mixer.",
+      "link": "https://www.hdblog.it/tv/recensioni/n663264/recensione-hollyland-melo/",
       "fonte": "HDblog.it",
-      "data": "2026-07-08T14:35:00+00:00"
+      "data": "2026-07-08T18:41:00+00:00"
+    },
+    {
+      "titolo": "Xbox riparte dalle console: la CEO Asha Sharma spiega la nuova strategia post tagli",
+      "descrizione": "L'80% dei ricavi oggi arriva in realtà dall'hardware.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663823/xbox-strategia-asha-sharma-console-licenziamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T18:05:00+00:00"
+    },
+    {
+      "titolo": "Nuovi diritti dei passeggeri aerei approvati dal Parlamento UE",
+      "descrizione": "Il Parlamento europeo ha approvato in via definitiva il nuovo regolamento sui diritti dei passeggeri aerei (ora serve il via libera del Consiglio). The post Nuovi diritti dei passeggeri aerei approvati dal Parlamento UE",
+      "link": "https://www.punto-informatico.it/nuovi-diritti-passeggeri-aerei-approvati-parlamento-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-08T17:51:55+00:00"
+    },
+    {
+      "titolo": "Valve rilascia Proton 11.0-1 per SteamOS, ecco tutti i nuovi giochi supportati",
+      "descrizione": "C'è anche una marea di bug fix, come al solito.",
+      "link": "https://www.hdblog.it/games/articoli/n663821/valve-proton-steamos-novita-versione-11-giochi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T17:50:00+00:00"
+    },
+    {
+      "titolo": "Sui Google Pixel c'è un bug che può far sparire le registrazioni audio",
+      "descrizione": "Alcuni utenti hanno cominciato a segnalarlo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663818/google-pixel-9-bug-registratore-recorder-scomparse/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T17:35:00+00:00"
+    },
+    {
+      "titolo": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
+      "descrizione": "Their plan to protect open-source projects from AI-discovered security holes has led to the launch of two commercial offerings: Lightwell Network and Lightwell Clearinghouse Premier.",
+      "link": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T17:26:26+00:00"
+    },
+    {
+      "titolo": "Sensore quantistico con diamante: taglia fino al 30% gli sprechi energetici",
+      "descrizione": "Sensori quantistici al diamante e AI per ridurre fino al 30% gli sprechi energetici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663685/sensore-quantistico-diamante-xdots/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T17:20:00+00:00"
+    },
+    {
+      "titolo": "Kioxia è pronta a produrre i chip NAND next-gen per datacenter AI",
+      "descrizione": "Nel mondo consumer si continuerà a spingere sulla BiCS9.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663819/kioxia-sandisk-nand-flash-bics10-ai-datacenter/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T17:15:00+00:00"
+    },
+    {
+      "titolo": "AI e cybersicurezza: piano d’azione dell’Europa",
+      "descrizione": "Il piano d'azione presentato dalla Commissione europea prevede la valutazione dei modelli AI e il miglioramento delle protezioni per le infrastrutture. The post AI e cybersicurezza: piano d’azione dell’Europa appeared fi",
+      "link": "https://www.punto-informatico.it/ai-cybersicurezza-piano-azione-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-08T17:00:31+00:00"
+    },
+    {
+      "titolo": "CobraJet: il caccia stampato in 3D può debellare ogni tipo di drone",
+      "descrizione": "CobraJet usa AI e intercettori guidati per contrastare sciami di droni fino a 563 km/h.",
+      "link": "https://www.hdblog.it/droni/articoli/n663787/cobrajet-intercettore-autonomo-droni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:55:00+00:00"
+    },
+    {
+      "titolo": "Sony's True RGB display made this one of the most impressive TVs I've tested",
+      "descrizione": "Outfitted with Sony's new Micro RGB panels, the Bravia 9 II is well on its way to usurping its OLED cousin's supremacy.",
+      "link": "https://www.zdnet.com/article/sony-bravia-9-ii-review/",
+      "fonte": "Latest news",
+      "data": "2026-07-08T16:49:00+00:00"
+    },
+    {
+      "titolo": "Lenovo G02, caso chiuso per la retro-console piena di giochi pirata?",
+      "descrizione": "A quanto pare la console non è più reperibile presso nessuna grossa piattaforma internazionale come Alibaba o Aliexpress.",
+      "link": "https://www.hdblog.it/lenovo/articoli/n663814/lenovo-g02-console-rom-pirata-caso-chiuso/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:45:00+00:00"
+    },
+    {
+      "titolo": "Infineon apre in Germania la più grande fabbrica di chip di potenza",
+      "descrizione": "Infineon inaugura a Dresda la più grande fabbrica mondiale di chip di potenza.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663689/infineon-smart-power-fab-dresda/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:35:00+00:00"
+    },
+    {
+      "titolo": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
+      "descrizione": "Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-08T16:29:26+00:00"
+    },
+    {
+      "titolo": "NBA su Prime Video: la stagione d'esordio registra un pubblico da record",
+      "descrizione": "La prima stagione NBA su Prime Video registra ascolti record e crescita mondiale.",
+      "link": "https://www.hdblog.it/mercato/articoli/n663712/nba-prime-video-audience-record-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:25:00+00:00"
+    },
+    {
+      "titolo": "Huawei Pura 90s Pro e Pro Max sono coloratissimi e in arrivo sul mercato globale",
+      "descrizione": "Huawei ha scelto di aggiungere una \"s\" rispetto alle varianti cinesi.",
+      "link": "https://www.hdblog.it/huawei/articoli/n663801/huawei-pura-90s-pro-max-lancio-globale-colori/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:15:00+00:00"
+    },
+    {
+      "titolo": "3I/ATLAS potrebbe essere poco meno antica dell'universo: ecco perché",
+      "descrizione": "3I/ATLAS potrebbe avere fino a 12 miliardi di anni e provenire da un antico sistema stellare.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n663693/cometa-interstellare-3i-atlas-origine-antica/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T16:05:00+00:00"
+    },
+    {
+      "titolo": "Crisi dei chip, Apple testa le DRAM della cinese CXMT per contenere i costi",
+      "descrizione": "Il governo USA ha già fatto capire che non vede molto di buon occhio questa iniziativa.",
+      "link": "https://www.hdblog.it/hardware/articoli/n663809/apple-test-ram-cinesi-cxmt-crisi-costi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-08T15:55:00+00:00"
+    },
+    {
+      "titolo": "Contrasto alle false recensioni online: linee guida di AGCM",
+      "descrizione": "L'autorità antitrust ha pubblicato le linee guida che suggeriscono gli strumenti da adottare per garantire l'autenticità delle recensioni online. The post Contrasto alle false recensioni online: linee guida di AGCM appea",
+      "link": "https://www.punto-informatico.it/contrasto-false-recensioni-online-linee-guida-agcm/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-08T15:54:08+00:00"
+    },
+    {
+      "titolo": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password",
+      "descrizione": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor pa",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-08T15:16:25+00:00"
+    },
+    {
+      "titolo": "Adobe e LinkedIn lanciano un corso AI gratuito per i marketer",
+      "descrizione": "Le competenze AI sono la priorità dei team marketing. Adobe e LinkedIn rispondono con un corso gratuito di 83 minuti in 47 lingue. The post Adobe e LinkedIn lanciano un corso AI gratuito per i marketer appeared first on",
+      "link": "https://www.punto-informatico.it/adobe-linkedin-lanciano-corso-ai-gratuito-marketer/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-08T14:41:49+00:00"
     },
     {
       "titolo": "7 funzioni di ChatGPT che quasi nessuno usa",
@@ -14,160 +168,6 @@
       "link": "https://www.punto-informatico.it/7-funzioni-chatgpt-quasi-nessuno-usa/",
       "fonte": "Punto Informatico",
       "data": "2026-07-08T14:26:45+00:00"
-    },
-    {
-      "titolo": "L'arrivo di PS Vita 2 non è da escludere, il CEO di SIE ha appena riacceso le speranze",
-      "descrizione": "Il numero uno di SIE riaccende le speranze di poter veder arrivare PS Vita 2, in molti vorrebbero una nuova console portatile PlayStation.",
-      "link": "https://www.hdblog.it/games/articoli/n663785/sony-ps-vita-2-ceo-sie-riacceso-speranze/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T14:25:00+00:00"
-    },
-    {
-      "titolo": "Scoperto un esopianeta nascosto grazie alla microlente gravitazionale",
-      "descrizione": "TESS conferma Gaia23bra b usando la microlente gravitazionale di Einstein.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663744/asa-scoperta-pianeta-gaia23bra-b/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T14:10:00+00:00"
-    },
-    {
-      "titolo": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
-      "descrizione": "Oregon approves the 29.7% price hike that Portland General Electric (PGE), the state's largest power provider, will impose on users that consume 20MW or more. This move is backed by Oregon's POWER Act, which helps ensure",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T13:56:27+00:00"
-    },
-    {
-      "titolo": "Samsung Find trova il modo di essere più utile: nuovi widget e non solo",
-      "descrizione": "Vediamo in anteprima alcune novità in arrivo.",
-      "link": "https://www.hdblog.it/samsung/articoli/n663784/samsung-find-widget-posizione-contatti-update/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T13:55:00+00:00"
-    },
-    {
-      "titolo": "ROSAIA e LINK: Italia e Nasa pionieri nella manutenzione robotica dei satelliti in orbita",
-      "descrizione": "ROSAIA, il prototipo italiano di Asi e Iit, e LINK, la missione della Nasa per salvare il telescopio Swift, affrontano la stessa scommessa industriale: tecnologie spaziali manutenibili in orbita.",
-      "link": "https://www.ilsole24ore.com/art/robot-la-manutenzione-spaziale-italia-e-nasa-aprono-l-era-dell-in-orbit-servicing-AJfBasB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-08T13:33:00+00:00"
-    },
-    {
-      "titolo": "Recensione Hollyland MELO P1: uno studio audio portatile per cantanti e creator",
-      "descrizione": "Abbiamo provato il nuovo microfono di Hollyland che offre una qualità da studio ed un buon mixer.",
-      "link": "https://www.hdblog.it/tv/recensioni/n663264/recensione-hollyland-melo-p1/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T13:31:00+00:00"
-    },
-    {
-      "titolo": "Fi Ultra becomes first dog tracker powered by Starlink satellites – the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity",
-      "descrizione": "Smart pet technology firm Fi has launched the Fi Ultra Dog Tracker today, the first such device with Starlink connectivity.",
-      "link": "https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T13:11:25+00:00"
-    },
-    {
-      "titolo": "Apple: accordo da 30 miliardi di dollari con Broadcom",
-      "descrizione": "Apple acquisterà oltre 15 miliardi di chip progettati e prodotti da Broadcom nelle fabbriche statunitensi, spendendo oltre 30 miliardi di dollari. The post Apple: accordo da 30 miliardi di dollari con Broadcom appeared f",
-      "link": "https://www.punto-informatico.it/apple-accordo-30-miliardi-dollari-broadcom/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T12:48:40+00:00"
-    },
-    {
-      "titolo": "Why we're all posting less on social media these days",
-      "descrizione": "Americans are getting quieter and more selective about what they share online. And, honestly, same.",
-      "link": "https://www.zdnet.com/article/why-were-all-posting-less-on-social-media-these-days/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T12:39:00+00:00"
-    },
-    {
-      "titolo": "Nubia porterà sul mercato il primo smartphone basato su un agente AI",
-      "descrizione": "Il primo smartphone con agente AI di nubia promette di eseguire attività complesse passando da un'app all'altra: a breve l'annuncio.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663772/nubia-primo-smartphone-agente-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T12:35:00+00:00"
-    },
-    {
-      "titolo": "Cracked version of Assassin’s Creed Black Flag Resynced leaked days prior to official release despite Denuvo DRM protection — Denuvo unable to stop crackers, with some finding ways to completely remove it from other titl",
-      "descrizione": "Ubisoft's remake of the 2013 game has been circulating online more than a month before its official release date, despite Denuvo DRM protection. Incident questions the effectivity of anti-piracy app, which causes perform",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/cracked-version-of-assassins-creed-black-flag-resynced-leaked-days-prior-to-official-release-despite-denuvo-drm-protection-denuvo-unable-to-stop-crackers-with-some-finding-ways-to-completely-remove-it-from-other-titles",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T12:29:12+00:00"
-    },
-    {
-      "titolo": "Apple e Broadcom, accordo da 30 miliardi per produrre chip wireless negli Stati Uniti",
-      "descrizione": "Apple sosta un altro pezzo della sua filiera negli Stati Uniti",
-      "link": "https://www.hdblog.it/hardware/articoli/n663778/apple-accordo-30-miliardi-broadcom-chip-wireless/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T12:25:00+00:00"
-    },
-    {
-      "titolo": "MacBook Pro M5, TV LG da 83'' e robot: le migliori offerte tech di oggi",
-      "descrizione": "Amazon e Unieuro protagonisti con sconti su MacBook Pro M5, TV LG OLED e MiniLED, notebook gaming, cuffie Sennheiser e robot aspirapolvere di fascia alta.",
-      "link": "https://www.hdblog.it/amazon/offerte/n663775/offerte-tech-8-luglio-2026-amazon-unieuro-/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T12:20:00+00:00"
-    },
-    {
-      "titolo": "Outlook: le risposte automatiche diventano personalizzabili",
-      "descrizione": "Outlook introdurrà un sistema di risposte automatiche basato su regole, con template diversi in base al mittente o al contenuto dell'email. The post Outlook: le risposte automatiche diventano personalizzabili appeared fi",
-      "link": "https://www.punto-informatico.it/outlook-risposte-automatiche-diventano-personalizzabili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T12:02:44+00:00"
-    },
-    {
-      "titolo": "Vivo T5 Lite si avvicina: batteria e velocità di ricarica confermate",
-      "descrizione": "Punta forte sull'autonomia.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663770/vivo-t5-lite-5g-batteria-6500-mah-specifiche-lanci/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:50:00+00:00"
-    },
-    {
-      "titolo": "Amazon Dona, oltre 600 mila prodotti salvati dallo spreco e donati alle famiglie",
-      "descrizione": "Il programma ha già permesso di donare in Italia oltre 600 mila prodotti",
-      "link": "https://www.hdblog.it/amazon/articoli/n663767/amazon-dona-600-prodotti-recuperati/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:40:00+00:00"
-    },
-    {
-      "titolo": "Motorola Moto G77 Power è ufficiale: microSD e jack resistono nella fascia media",
-      "descrizione": "Il nuovo Moto G77 Power punta su funzioni sempre meno comuni nella fascia media: jack audio da 3,5 mm e slot microSD. Motorola propone anche tre colorazioni Pantone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663771/motorola-moto-g77-power-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:35:00+00:00"
-    },
-    {
-      "titolo": "Apple ha chiesto la sospensione del caso Epic sulle commissioni",
-      "descrizione": "Dopo le indiscrezioni, Apple chiede al tribunale federale della California di sospendere il procedimento che la vede contrapposta a Epic Games, in attesa della decisione della Corte Suprema",
-      "link": "https://www.hdblog.it/apple/articoli/n663763/apple-caso-epic-sospensione/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:25:00+00:00"
-    },
-    {
-      "titolo": "Ultimo giro per Mario Kart Tour, poi ai box dal 30 settembre: la chiusura è ufficiale",
-      "descrizione": "Il gioco non riceveva più nuovi contenuti dal 2023",
-      "link": "https://www.hdblog.it/nintendo/articoli/n663766/mario-kart-tour-chiusura-definitiva/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:20:00+00:00"
-    },
-    {
-      "titolo": "New Horizons torna operativa dopo 321 giorni di ibernazione",
-      "descrizione": "New Horizons torna attiva dopo 321 giorni e invierà nuovi dati dalla Fascia di Kuiper.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663752/new-horizons-risveglio-ibernazione-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:15:00+00:00"
-    },
-    {
-      "titolo": "Meta sviluppa smart glass che registrano ogni secondo?",
-      "descrizione": "Meta avrebbe avviato lo sviluppo di smart glass che permettono di registrare audio e scattare immagini continuamente senza attivare il LED di notifica. The post Meta sviluppa smart glass che registrano ogni secondo? appe",
-      "link": "https://www.punto-informatico.it/meta-sviluppa-smart-glass-registrano-secondo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T11:09:56+00:00"
-    },
-    {
-      "titolo": "Notion lancia Agents su iOS, la nuova app per chattare con le AI",
-      "descrizione": "Ecco come funziona la nuova app di Notion, per ora solo su iOS",
-      "link": "https://www.hdblog.it/apple/articoli/n663754/notion-agents-app-ios-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T11:05:00+00:00"
     }
   ]
 }
