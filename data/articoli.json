@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-07-09T04:14:43.186241+00:00",
+  "last_updated": "2026-07-09T09:58:10.822648+00:00",
   "items": [
     {
-      "titolo": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-      "descrizione": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "titolo": "Play Store, Google ridisegna le sezioni: cosa cambia nell’interfaccia",
+      "descrizione": "Il Play Store di Google si rinnova con pulsanti a pillola per le sottosezioni di App e Giochi. La scheda Per te sparisce come tab ma diventa la schermata predefinita delle due aree",
+      "link": "https://www.hdblog.it/google/articoli/n663871/google-play-store-nuovo-design-pillole/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T09:50:00+00:00"
+    },
+    {
+      "titolo": "Mercato PC in calo: poca RAM e troppo costosa",
+      "descrizione": "I dati pubblicati da IDC evidenziano la diminuzione delle spedizioni per i PC nel secondo trimestre dovuta alla carenza dei chip di memoria. The post Mercato PC in calo: poca RAM e troppo costosa appeared first on Punto",
+      "link": "https://www.punto-informatico.it/mercato-pc-calo-poca-ram-troppo-costosa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T09:47:48+00:00"
+    },
+    {
+      "titolo": "Spotify ora permette di fissare 20 elementi nella Libreria",
+      "descrizione": "Spotify porta da 4 a 20 il limite di elementi che si possono fissare nella Libreria. Disponibile per Free e Premium. Rollout globale. The post Spotify ora permette di fissare 20 elementi nella Libreria appeared first on",
+      "link": "https://www.punto-informatico.it/spotify-permette-fissare-20-elementi-libreria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T09:38:37+00:00"
+    },
+    {
+      "titolo": "Sonos taglia su design e user experience: via alcuni manager chiave",
+      "descrizione": "Sonos ha licenziato manager dei team design, prodotto e user experience nell’ambito dei tagli decisi a fine giugno. Tra le uscite anche figure storiche dell’azienda",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n663861/sonos-licenziamenti-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T09:25:00+00:00"
+    },
+    {
+      "titolo": "Bolletta seconda casa, stangata estiva: dove costa di più (e come risparmiare)",
+      "descrizione": "L'analisi sui dati Arera.",
+      "link": "https://www.hdblog.it/home/articoli/n663850/bolletta-seconda-casa-aumento-costi-risparmiare/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T09:05:00+00:00"
+    },
+    {
+      "titolo": "Microsoft's new Windows 11 recovery tool is the ultimate Undo button - how to enable it",
+      "descrizione": "After a CrowdStrike update caused millions of Windows PCs worldwide to crash in July 2024, Microsoft announced the Windows Resiliency Initiative. The new Point-in-time Restore feature is a key part of that.",
+      "link": "https://www.zdnet.com/article/windows-11-point-in-time-recovery/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T09:00:52+00:00"
+    },
+    {
+      "titolo": "I overhauled my WFH office - these 5 gadgets made the cut (including a cheap cord wrangler)",
+      "descrizione": "After moving and obtaining a new health diagnosis, I made a few changes to my WFH setup. Here's what changed (and why).",
+      "link": "https://www.zdnet.com/article/i-overhauled-my-wfh-office/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T09:00:37+00:00"
+    },
+    {
+      "titolo": "Linux Mint 23 cambia con il supporto ufficiale a Wayland",
+      "descrizione": "Wayland sarà pienamente supportato (non più sperimentale) in Linux Mint 23, al fianco di X11; la nuova versione è attesa entro fine anno. The post Linux Mint 23 cambia con il supporto ufficiale a Wayland appeared first o",
+      "link": "https://www.punto-informatico.it/linux-mint-23-supporto-ufficiale-wayland/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T08:48:15+00:00"
+    },
+    {
+      "titolo": "La vittoria dell'Argentina ha fatto esultare anche Google",
+      "descrizione": "Google Search ha registrato il più alto picco di utilizzo mai raggiunto dopo Argentina-Egitto. Nick Fox di Google ha celebrato il record, maturato al termine della rimonta dell’Albiceleste",
+      "link": "https://www.hdblog.it/google/articoli/n663857/ricerca-google-record-storico-argentina-egitto/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:45:00+00:00"
+    },
+    {
+      "titolo": "Nvidia Shield TV, è un addio? La produzione di un modello sembra interrrotta",
+      "descrizione": "Shield TV base del 2019 sembra fuori produzione, mentre la versione Pro resta disponibile.",
+      "link": "https://www.hdblog.it/tv/articoli/n663853/nvidia-shield-tv-fuori-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:35:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 su Steam Machine con i driver, ma c’è un rischio",
+      "descrizione": "Valve ha rilasciato i driver per Windows 11, ma l'installazione del sistema operativo comporta la cancellazione di SteamOS (dual boot non supportato). The post Windows 11 su Steam Machine con i driver, ma c’è un rischio",
+      "link": "https://www.punto-informatico.it/windows-11-steam-machine-driver-rischio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T08:30:24+00:00"
+    },
+    {
+      "titolo": "Google Earth Pro per desktop, dal 2027 stop ai download: ma non sarà un addio",
+      "descrizione": "Google Earth Pro in versione desktop si avvia lentamente verso l’uscita di scena.",
+      "link": "https://www.hdblog.it/google/articoli/n663854/google-earth-pro-per-desktop-pensionamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:25:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT cambia voce: ora ti ascolta meglio e rallenta se glielo chiedi",
+      "descrizione": "GPT-Live rende ChatGPT Voice più naturale, veloce e capace di ascoltare meglio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663848/chatgpt-gpt-live-modalita-vocale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:15:00+00:00"
+    },
+    {
+      "titolo": "Apple cambia idea sui visori, ma Samsung non vuole sprecare il lavoro fatto finora",
+      "descrizione": "Apple avrebbe cancellato lo sviluppo dei micro OLED per il possibile Vision Air. Samsung, partner nella ricerca sugli OLEDoS, valuta di usare la tecnologia nei propri occhiali smart",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663849/apple-vision-pro-air-cancellato-samsung/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:10:00+00:00"
+    },
+    {
+      "titolo": "La NVIDIA SHIELD TV a tubo potrebbe essere fuori produzione",
+      "descrizione": "La versione base di NVIDIA SHIELD TV, lanciata nel 2019, non è più disponibile sul sito ufficiale e risulta sold out un po' ovunque. The post La NVIDIA SHIELD TV a tubo potrebbe essere fuori produzione appeared first on",
+      "link": "https://www.punto-informatico.it/nvidia-shield-tv-tubo-fuori-produzione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T08:09:59+00:00"
+    },
+    {
+      "titolo": "Giugno 2026 da incubo: 3°C sopra la media, l'Europa non ha mai sofferto così tanto",
+      "descrizione": "I dati ECMWF.",
+      "link": "https://www.hdblog.it/green/articoli/n663841/europa-giugno-2026-caldo-record-dati-ue-clima/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T07:55:00+00:00"
+    },
+    {
+      "titolo": "Su Google Foto arriva Video Remix, il nuovo editor AI per i video",
+      "descrizione": "Video Remix su Google Foto permette di modificare i video con l'AI. È possibile aggiungere effetti, cambiare sfondo e migliorare l'illuminazione. The post Su Google Foto arriva Video Remix, il nuovo editor AI per i video",
+      "link": "https://www.punto-informatico.it/google-foto-video-remix-nuovo-editor-ai-video/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T07:49:10+00:00"
+    },
+    {
+      "titolo": "Sydney Sweeney e Giorgia Meloni i deepfake AI più cercati",
+      "descrizione": "Una ricerca svela quali sono i personaggi pubblici più cercati in Italia in relazione ai deepfake generati dall'intelligenza artificiale. The post Sydney Sweeney e Giorgia Meloni i deepfake AI più cercati appeared first",
+      "link": "https://www.punto-informatico.it/sydney-sweeney-giorgia-meloni-deepfake-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T07:37:12+00:00"
+    },
+    {
+      "titolo": "VASCO Translator M4: il traduttore da viaggio con SIM dati illimitata",
+      "descrizione": "Prova del traduttore portatile Vasco M4, con internet gratuito e illimitato e tante lingue compatibili.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662575/vasco-translator-m4-il-traduttore-da-viaggio-con-sim-dati-illimitata/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T07:31:00+00:00"
+    },
+    {
+      "titolo": "Raffreddamento casa, consumi europei raddoppiati in 6 anni",
+      "descrizione": "Nuovi dati Eurostat (preoccupanti)",
+      "link": "https://www.hdblog.it/green/articoli/n663783/raffreddamento-casa-consumi-europei-6-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T07:15:00+00:00"
+    },
+    {
+      "titolo": "Nuovi occhiali Meta con AI continua: emergono i primi dettagli",
+      "descrizione": "Meta sviluppa occhiali AI sempre attivi, ma la privacy divide gli esperti.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663839/meta-occhiali-ai-super-sensing/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T07:05:00+00:00"
+    },
+    {
+      "titolo": "The $28 Million Mistake That Inspired Estonia's AI “Fuckup Finder”",
+      "descrizione": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
       "fonte": "WIRED",
-      "data": "2026-07-08T21:08:26+00:00"
+      "data": "2026-07-09T07:00:00+00:00"
     },
     {
-      "titolo": "I replaced my Sonos home theater with this Sony system - here's why innovation is king",
-      "descrizione": "Sony's Bravia Theater Trio arrives in a unique form and doesn't let traditional home theater rules hinder its performance.",
-      "link": "https://www.zdnet.com/article/sony-bravia-trio-review/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T19:52:00+00:00"
-    },
-    {
-      "titolo": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
-      "descrizione": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
-      "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T19:34:21+00:00"
-    },
-    {
-      "titolo": "Recensione Hollyland MELO P1: uno studio audio portatile per cantanti e creator",
-      "descrizione": "Abbiamo provato il nuovo microfono di Hollyland che offre una qualità da studio ed un buon mixer.",
-      "link": "https://www.hdblog.it/tv/recensioni/n663264/recensione-hollyland-melo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T18:41:00+00:00"
-    },
-    {
-      "titolo": "Xbox riparte dalle console: la CEO Asha Sharma spiega la nuova strategia post tagli",
-      "descrizione": "L'80% dei ricavi oggi arriva in realtà dall'hardware.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663823/xbox-strategia-asha-sharma-console-licenziamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T18:05:00+00:00"
-    },
-    {
-      "titolo": "Nuovi diritti dei passeggeri aerei approvati dal Parlamento UE",
-      "descrizione": "Il Parlamento europeo ha approvato in via definitiva il nuovo regolamento sui diritti dei passeggeri aerei (ora serve il via libera del Consiglio). The post Nuovi diritti dei passeggeri aerei approvati dal Parlamento UE",
-      "link": "https://www.punto-informatico.it/nuovi-diritti-passeggeri-aerei-approvati-parlamento-ue/",
+      "titolo": "Acer Nitro V con NVIDIA GeForce RTX 5050 e Intel Core i7 è una bomba",
+      "descrizione": "Il potente notebook da gaming Acer Nitro V, con NVIDIA GeForce RTX 5050, Intel Core i7, 16 GB di RAM e SSD da 512 GB è in offerta su Amazon. The post Acer Nitro V con NVIDIA GeForce RTX 5050 e Intel Core i7 è una bomba a",
+      "link": "https://www.punto-informatico.it/acer-nitro-v-con-nvidia-geforce-rtx-5050-intel-core-i7-una-bomba/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-08T17:51:55+00:00"
+      "data": "2026-07-09T06:52:53+00:00"
     },
     {
-      "titolo": "Valve rilascia Proton 11.0-1 per SteamOS, ecco tutti i nuovi giochi supportati",
-      "descrizione": "C'è anche una marea di bug fix, come al solito.",
-      "link": "https://www.hdblog.it/games/articoli/n663821/valve-proton-steamos-novita-versione-11-giochi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T17:50:00+00:00"
-    },
-    {
-      "titolo": "Sui Google Pixel c'è un bug che può far sparire le registrazioni audio",
-      "descrizione": "Alcuni utenti hanno cominciato a segnalarlo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663818/google-pixel-9-bug-registratore-recorder-scomparse/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T17:35:00+00:00"
-    },
-    {
-      "titolo": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
-      "descrizione": "Their plan to protect open-source projects from AI-discovered security holes has led to the launch of two commercial offerings: Lightwell Network and Lightwell Clearinghouse Premier.",
-      "link": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T17:26:26+00:00"
-    },
-    {
-      "titolo": "Sensore quantistico con diamante: taglia fino al 30% gli sprechi energetici",
-      "descrizione": "Sensori quantistici al diamante e AI per ridurre fino al 30% gli sprechi energetici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663685/sensore-quantistico-diamante-xdots/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T17:20:00+00:00"
-    },
-    {
-      "titolo": "Kioxia è pronta a produrre i chip NAND next-gen per datacenter AI",
-      "descrizione": "Nel mondo consumer si continuerà a spingere sulla BiCS9.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663819/kioxia-sandisk-nand-flash-bics10-ai-datacenter/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T17:15:00+00:00"
-    },
-    {
-      "titolo": "AI e cybersicurezza: piano d’azione dell’Europa",
-      "descrizione": "Il piano d'azione presentato dalla Commissione europea prevede la valutazione dei modelli AI e il miglioramento delle protezioni per le infrastrutture. The post AI e cybersicurezza: piano d’azione dell’Europa appeared fi",
-      "link": "https://www.punto-informatico.it/ai-cybersicurezza-piano-azione-europa/",
+      "titolo": "Lo strano caso del Lenovo G02: la console cambia nome",
+      "descrizione": "La console portatile Lenovo G02 cambia nome e diventa Sunyao G02 (o Gusgu H7), probabilmente per evitare problemi legati ai giochi inclusi. The post Lo strano caso del Lenovo G02: la console cambia nome appeared first on",
+      "link": "https://www.punto-informatico.it/strano-caso-lenovo-g02-console-cambia-nome/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-08T17:00:31+00:00"
-    },
-    {
-      "titolo": "CobraJet: il caccia stampato in 3D può debellare ogni tipo di drone",
-      "descrizione": "CobraJet usa AI e intercettori guidati per contrastare sciami di droni fino a 563 km/h.",
-      "link": "https://www.hdblog.it/droni/articoli/n663787/cobrajet-intercettore-autonomo-droni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:55:00+00:00"
-    },
-    {
-      "titolo": "Sony's True RGB display made this one of the most impressive TVs I've tested",
-      "descrizione": "Outfitted with Sony's new Micro RGB panels, the Bravia 9 II is well on its way to usurping its OLED cousin's supremacy.",
-      "link": "https://www.zdnet.com/article/sony-bravia-9-ii-review/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T16:49:00+00:00"
-    },
-    {
-      "titolo": "Lenovo G02, caso chiuso per la retro-console piena di giochi pirata?",
-      "descrizione": "A quanto pare la console non è più reperibile presso nessuna grossa piattaforma internazionale come Alibaba o Aliexpress.",
-      "link": "https://www.hdblog.it/lenovo/articoli/n663814/lenovo-g02-console-rom-pirata-caso-chiuso/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:45:00+00:00"
-    },
-    {
-      "titolo": "Infineon apre in Germania la più grande fabbrica di chip di potenza",
-      "descrizione": "Infineon inaugura a Dresda la più grande fabbrica mondiale di chip di potenza.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663689/infineon-smart-power-fab-dresda/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:35:00+00:00"
-    },
-    {
-      "titolo": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
-      "descrizione": "Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T16:29:26+00:00"
-    },
-    {
-      "titolo": "NBA su Prime Video: la stagione d'esordio registra un pubblico da record",
-      "descrizione": "La prima stagione NBA su Prime Video registra ascolti record e crescita mondiale.",
-      "link": "https://www.hdblog.it/mercato/articoli/n663712/nba-prime-video-audience-record-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:25:00+00:00"
-    },
-    {
-      "titolo": "Huawei Pura 90s Pro e Pro Max sono coloratissimi e in arrivo sul mercato globale",
-      "descrizione": "Huawei ha scelto di aggiungere una \"s\" rispetto alle varianti cinesi.",
-      "link": "https://www.hdblog.it/huawei/articoli/n663801/huawei-pura-90s-pro-max-lancio-globale-colori/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:15:00+00:00"
-    },
-    {
-      "titolo": "3I/ATLAS potrebbe essere poco meno antica dell'universo: ecco perché",
-      "descrizione": "3I/ATLAS potrebbe avere fino a 12 miliardi di anni e provenire da un antico sistema stellare.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663693/cometa-interstellare-3i-atlas-origine-antica/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T16:05:00+00:00"
-    },
-    {
-      "titolo": "Crisi dei chip, Apple testa le DRAM della cinese CXMT per contenere i costi",
-      "descrizione": "Il governo USA ha già fatto capire che non vede molto di buon occhio questa iniziativa.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663809/apple-test-ram-cinesi-cxmt-crisi-costi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-08T15:55:00+00:00"
-    },
-    {
-      "titolo": "Contrasto alle false recensioni online: linee guida di AGCM",
-      "descrizione": "L'autorità antitrust ha pubblicato le linee guida che suggeriscono gli strumenti da adottare per garantire l'autenticità delle recensioni online. The post Contrasto alle false recensioni online: linee guida di AGCM appea",
-      "link": "https://www.punto-informatico.it/contrasto-false-recensioni-online-linee-guida-agcm/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T15:54:08+00:00"
-    },
-    {
-      "titolo": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password",
-      "descrizione": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor pa",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T15:16:25+00:00"
-    },
-    {
-      "titolo": "Adobe e LinkedIn lanciano un corso AI gratuito per i marketer",
-      "descrizione": "Le competenze AI sono la priorità dei team marketing. Adobe e LinkedIn rispondono con un corso gratuito di 83 minuti in 47 lingue. The post Adobe e LinkedIn lanciano un corso AI gratuito per i marketer appeared first on",
-      "link": "https://www.punto-informatico.it/adobe-linkedin-lanciano-corso-ai-gratuito-marketer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-08T14:41:49+00:00"
+      "data": "2026-07-09T06:37:47+00:00"
     }
   ]
 }

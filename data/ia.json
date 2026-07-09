@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-09T04:14:47.876031+00:00",
+  "last_updated": "2026-07-09T09:58:15.229574+00:00",
   "items": [
     {
-      "titolo": "OpenAI's new GPT-Live-1 voice model won't interrupt you - why that's a big deal",
-      "descrizione": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T16:36:00+00:00",
+      "titolo": "ChatGPT cambia voce: ora ti ascolta meglio e rallenta se glielo chiedi",
+      "descrizione": "GPT-Live rende ChatGPT Voice più naturale, veloce e capace di ascoltare meglio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663848/chatgpt-gpt-live-modalita-vocale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T08:15:00+00:00",
       "modello": "chatgpt"
     },
     {
