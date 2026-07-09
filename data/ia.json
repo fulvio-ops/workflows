@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-09T09:58:15.229574+00:00",
+  "last_updated": "2026-07-09T15:34:45.433743+00:00",
   "items": [
     {
-      "titolo": "ChatGPT cambia voce: ora ti ascolta meglio e rallenta se glielo chiedi",
-      "descrizione": "GPT-Live rende ChatGPT Voice più naturale, veloce e capace di ascoltare meglio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663848/chatgpt-gpt-live-modalita-vocale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T08:15:00+00:00",
+      "titolo": "Meta risponde a Grok 4.5 con Muse Spark 1.1",
+      "descrizione": "Muse Spark 1.1 è il nuovo modello AI sviluppato dai Superintelligence Labs di Meta che offre prestazioni agentiche superiori a quelle di GPT-5.5. The post Meta risponde a Grok 4.5 con Muse Spark 1.1 appeared first on Pun",
+      "link": "https://www.punto-informatico.it/meta-risponde-grok-4-5-muse-spark-1-1/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T15:33:56+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
-      "descrizione": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
-      "link": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
-      "fonte": "Latest news",
-      "data": "2026-07-08T15:09:00+00:00",
+      "titolo": "Quando Gemini batte ChatGPT, 4 scenari in cui è la scelta migliore",
+      "descrizione": "Non si tratta di scegliere un vincitore assoluto, ma di capire quale strumento funziona meglio per quale compito. Ecco quando Gemini batte ChatGPT. The post Quando Gemini batte ChatGPT, 4 scenari in cui è la scelta migli",
+      "link": "https://www.punto-informatico.it/quando-gemini-batte-chatgpt-4-scenari-scelta-migliore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T15:30:19+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
-      "descrizione": "China is warning against the use of Claude Code versions released between April and June 2026 after it's revealed that hidden code is sending sensitive user information to remote servers. The government told users to uni",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-08T15:54:14+00:00",
+      "titolo": "I gave Claude Cowork 7 non-coding jobs, and it earned a spot in my toolbox",
+      "descrizione": "Claude Cowork is brilliant, unnerving, and far more useful than I expected.",
+      "link": "https://www.zdnet.com/article/claude-cowork-non-coding-jobs-tasks/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T12:54:46+00:00",
       "modello": "claude"
     }
   ]
