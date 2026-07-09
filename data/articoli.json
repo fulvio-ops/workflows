@@ -1,19 +1,103 @@
 {
-  "last_updated": "2026-07-09T15:34:41.630413+00:00",
+  "last_updated": "2026-07-09T20:05:15.153938+00:00",
   "items": [
+    {
+      "titolo": "Best Buy is selling a 70-inch Insignia TV for just $350 - why I recommend it",
+      "descrizione": "Upgrade your home theater with a big-screen Insignia F50 for less than $400 right now at Best Buy.",
+      "link": "https://www.zdnet.com/article/insignia-f50-best-buy-deal/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T18:14:15+00:00"
+    },
+    {
+      "titolo": "Assassin's Creed Black Flag Resynced è un gran esempio di remake fatto come si deve",
+      "descrizione": "Ed è una vittoria soprattutto per PS5 Pro (in particolare dell'algoritmo PSSR 2.0).",
+      "link": "https://www.hdblog.it/games/articoli/n663942/assassins-creed-resynced-qualita-opinioni-ps5-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T17:45:00+00:00"
+    },
+    {
+      "titolo": "Sony RX10 Mark V ufficiale: la bridge super-zoom si rinnova, ma a caro prezzo",
+      "descrizione": "Quasi otto anni dopo l'uscita della Mark IV. Ci sono diversi upgrade, certo, ma si passa anche da 2.000 euro a 2.500. Vale la pena?",
+      "link": "https://www.hdblog.it/sony/articoli/n663935/sony-rx10-mark-v-specifiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T17:10:00+00:00"
+    },
+    {
+      "titolo": "Difesa europea, svolta sui missili: nasce la tecnologia che vede anche nel buio",
+      "descrizione": "Europa, TNO e Destinus sviluppano radar RF avanzati per gli intercettori aerei.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663832/europa-radar-rf-intercettori-difesa-aerea/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:55:00+00:00"
+    },
+    {
+      "titolo": "Modelli AI come Mythos sono un rischio per il sistema finanziario",
+      "descrizione": "La autorità di vigilanza bancaria hanno sollecitato gli istituti di credito europei ad adottare misure per ridurre i rischi associati ai modelli AI. The post Modelli AI come Mythos sono un rischio per il sistema finanzia",
+      "link": "https://www.punto-informatico.it/modelli-ai-mythos-rischio-sistema-finanziario/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T16:42:12+00:00"
+    },
+    {
+      "titolo": "Google Home cambia marcia: nuove automazioni e correzioni",
+      "descrizione": "Google Home riceve suggerimenti AI per le automazioni e migliora Gemini.",
+      "link": "https://www.hdblog.it/google/articoli/n663914/google-home-automazioni-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:25:00+00:00"
+    },
+    {
+      "titolo": "Chip oltre il petabit, il MIT cambia le regole della trasmissione dati",
+      "descrizione": "MIT presenta nuove tecnologie fotoniche per chip più veloci e con consumi ridotti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663812/mit-chip-fotonici-petabit/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:20:00+00:00"
+    },
+    {
+      "titolo": "Mediaworld e Unieuro, supervalutazione dell'usato per i nuovi pieghevoli Samsung",
+      "descrizione": "Fino a 900 euro riconsegnando un Galaxy Z Fold 7.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663931/mediaworld-unieuro-supervalutazione-usato-unpacked/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:15:00+00:00"
+    },
+    {
+      "titolo": "Artemis II celebra un simbolo storico: piantato il nuovo Moon Tree della NASA",
+      "descrizione": "L'equipaggio di Artemis II dedica un Moon Tree di seconda generazione al Johnson Space Center.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663805/artemis-ii-moon-tree-apollo-14/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:05:00+00:00"
+    },
+    {
+      "titolo": "Bollette al riparo dai rincari: Octopus blocca luce e gas per 12 mesi a prezzi stracciati",
+      "descrizione": "L'offerta a prezzo fisso di Octopus scade il 13 luglio: ecco perché è conveniente attivarla. The post Bollette al riparo dai rincari: Octopus blocca luce e gas per 12 mesi a prezzi stracciati appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/bollette-al-riparo-dai-rincari-octopus-blocca-luce-e-gas-per-12-mesi-a-prezzi-stracciati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T15:55:13+00:00"
+    },
+    {
+      "titolo": "Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio — Saves worried son $120 in repair costs, GPU 'works better than before' now",
+      "descrizione": "A Russian family has just saved the house $120 in GPU repairs after the father fixed it with a salvaged capacitor from an old radio.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-09T15:53:52+00:00"
+    },
+    {
+      "titolo": "Motorola moto g67 a meno di 250€: display AMOLED 120Hz e Sony LYTIA 600",
+      "descrizione": "Il Motorola moto g67 scende di prezzo. Costa meno di 250€ lo smartphone con display Extreme AMOLED a 120Hz, fotocamera Sony LYTIA da 50MP e design che non teme urti, polvere e acqua.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n663917/motorola-moto-g67-a-meno-di-250e-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T15:37:00+00:00"
+    },
+    {
+      "titolo": "L'Aeronautica USA amplia la rete anti-drone con il sistema Titan-MS",
+      "descrizione": "Nuovo contratto USA per ampliare Titan-MS contro le minacce dei droni.",
+      "link": "https://www.hdblog.it/droni/articoli/n663864/titan-ms-contratto-80-5-milioni-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T15:35:00+00:00"
+    },
     {
       "titolo": "Luiss Business School: Master Full-Time per costruire competenze manageriali già pronte per il lavoro",
       "descrizione": "I Master Full-Time Luiss Business School preparano neolaureati e giovani professionisti con percorsi pratici, internship, Career Service, network internazionale e major in AI, Digital Marketing e...",
       "link": "https://www.hdblog.it/business/articoli/n663192/luiss-business-school-master-full-time/",
       "fonte": "HDblog.it",
       "data": "2026-07-09T15:31:00+00:00"
-    },
-    {
-      "titolo": "Le proteste contro Sony per i giochi PlayStation fisici serviranno a qualcosa?",
-      "descrizione": "Molti analisti dicono di no, tuttavia ci sono alcuni (deboli) segnali che il colosso nipponico si aspetti un contraccolpo concreto.",
-      "link": "https://www.hdblog.it/sony/articoli/n663920/sony-proteste-playstation-dischi-utilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T15:25:00+00:00"
     },
     {
       "titolo": "While the U.S. flip-flops on chip sanctions, China is building its own chip supply market — export controls are creating conditions for a Sino-Russian chip trade alliance",
@@ -23,39 +107,11 @@
       "data": "2026-07-09T15:24:39+00:00"
     },
     {
-      "titolo": "Vuoi provare Netflix gratis? Torna la promo: ecco come fare e quanto dura",
-      "descrizione": "Una buona notizia: la promo mancava in Italia da tanto tempo!",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n663915/netflix-prova-gratuita-italia-come-attivare/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T15:20:00+00:00"
-    },
-    {
-      "titolo": "Asha Sharma vuole un miliardo di persone su Xbox, ma non ci crede nemmeno lei",
-      "descrizione": "L'ambizione di Asha Sharma per il futuro di XBOX è accolta perplessità dalla community, serve anzitutto una visione chiara (che non c'è).",
-      "link": "https://www.hdblog.it/games/articoli/n663913/asha-sharma-miliardo-giocatori-xbox/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T15:15:00+00:00"
-    },
-    {
       "titolo": "Meta lavora su occhiali AI che registrano tutto il giorno",
       "descrizione": "Meta sta sviluppando occhiali che registrano audio continuamente e scattano foto ogni pochi secondi, con il LED di registrazione spento. The post Meta lavora su occhiali AI che registrano tutto il giorno appeared first o",
       "link": "https://www.punto-informatico.it/meta-lavora-su-occhiali-ai-che-registrano-tutto-il-giorno/",
       "fonte": "Punto Informatico",
       "data": "2026-07-09T14:55:30+00:00"
-    },
-    {
-      "titolo": "Berlino 2006, 20 anni dopo: gli italiani su Wikipedia tra curiosità e nostalgia",
-      "descrizione": "Dalla vittoria di Berlino al Mondiale 2026: ecco cosa cerchiamo su Wikipedia.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663908/wikipedia-mondiali-calcio-italia-2006-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T14:45:00+00:00"
-    },
-    {
-      "titolo": "Occhiali Smart: vera innovazione o euforia momentanea | VIDEO",
-      "descrizione": "Molti brand stanno lanciando i propri occhiali smart. Proviamo a capire in quale direzione sta andando il mercato e quale sarà il vero ruolo degli smart glasses nel prossimo futuro.",
-      "link": "https://www.hdblog.it/indossabili/speciali/n645365/occhiali-smart-vera-innovazione-o-ennesima-euforia-momentanea/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T14:31:00+00:00"
     },
     {
       "titolo": "Nvidia shows off GeForce Trading Cards Series 1 — collectible cards show off games, GPUs, and tech demos, and will be available for free at upcoming events",
@@ -66,45 +122,10 @@
     },
     {
       "titolo": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
-      "descrizione": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “chat control” bill to find child abuse material online.",
+      "descrizione": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abuse material online.",
       "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
       "fonte": "WIRED",
       "data": "2026-07-09T13:55:08+00:00"
-    },
-    {
-      "titolo": "Friggitrici ad aria: i migliori modelli XXL scelti da Altroconsumo",
-      "descrizione": "I modelli top emersi dai test.",
-      "link": "https://www.hdblog.it/home/articoli/n663900/friggitrici-aria-xxl-altronsumo-quale-comprare/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:55:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Z Flip 8 potrebbe essere l'ultimo Flip di Samsung: focus sui Fold",
-      "descrizione": "Pare che Samsung voglia puntare tutto sui pieghevoli più remunerativi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663904/galaxy-z-flip-8-ultimo-flip-samsung-rumor/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:50:00+00:00"
-    },
-    {
-      "titolo": "Gaia è il SoC che Samsung sta preparando per dire la sua nel mercato dei PC AI",
-      "descrizione": "Un progetto ancora top secret: Gaia è il nuovo SoC ARM che Samsung vorrebbe destinare ai PC AI, con focus su efficienza e prestazioni.",
-      "link": "https://www.hdblog.it/hardware/articoli/n663893/gaia-soc-samsung-mercato-pc-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:45:00+00:00"
-    },
-    {
-      "titolo": "Paura di perdere il vostro cane? Arriva il tracker che sfrutta Starlink per trovarlo",
-      "descrizione": "Sicuramente non mancherà la connessione per rintracciarlo",
-      "link": "https://www.hdblog.it/home/articoli/n663903/leo-tracker-starlink-animali-domestici/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:35:00+00:00"
-    },
-    {
-      "titolo": "Migliori eSIM per la Cina: Naviga Senza Censure nel 2026",
-      "descrizione": "Vuoi navigare libero in Cina? Scopri le migliori eSIM del 2026: niente censure, accesso alle app bloccate, ottima copertura e prezzi chiari.",
-      "link": "https://www.hdblog.it/tariffe/guide/n616284/migliori-esim-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:33:00+00:00"
     },
     {
       "titolo": "Sega’s $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership — Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more",
@@ -121,13 +142,6 @@
       "data": "2026-07-09T13:25:49+00:00"
     },
     {
-      "titolo": "Google Foto si fa bello con una nuova interfaccia più \"leggera\": cosa cambia",
-      "descrizione": "L'update è già in distribuzione graduale lato server.",
-      "link": "https://www.hdblog.it/google/articoli/n663895/google-foto-android-barra-navigazione-flottante-ui/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T13:25:00+00:00"
-    },
-    {
       "titolo": "Oceani, la mappatura dei fondali apre contese geopolitiche",
       "descrizione": "Le grandi potenze a caccia dei preziosi noduli polimetallici sono già in prima linea sul fronte delle estrazioni minerarie in acque profonde, ma il fondo degli oceani resta per noi...",
       "link": "https://www.ilsole24ore.com/art/oceani-mappatura-fondali-apre-contese-geopolitiche-AJFfMdC",
@@ -142,25 +156,11 @@
       "data": "2026-07-09T12:57:00+00:00"
     },
     {
-      "titolo": "Xiaomi 17, iPad Air M3, chiavette Wi-Fi 6 e tanto altro: le migliori offerte tech di oggi",
-      "descrizione": "Robot aspirapolvere, smartphone, notebook, accessori smart e prodotti per la casa: ecco le migliori offerte tech di oggi su Amazon, Unieuro ed eBay.",
-      "link": "https://www.hdblog.it/ebay/offerte/n663897/migliori-offerte-9-luglio-2026-amazon-ebay-unieuro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T12:55:00+00:00"
-    },
-    {
       "titolo": "I gave Claude Cowork 7 non-coding jobs, and it earned a spot in my toolbox",
       "descrizione": "Claude Cowork is brilliant, unnerving, and far more useful than I expected.",
       "link": "https://www.zdnet.com/article/claude-cowork-non-coding-jobs-tasks/",
       "fonte": "Latest news",
       "data": "2026-07-09T12:54:46+00:00"
-    },
-    {
-      "titolo": "Addio slot fissi: Energy Line permette di collegare le prese dove serve",
-      "descrizione": "Energy Line di Kokuyo prova a rendere più elegante la classica ciabatta da scrivania. Può alimentare fino a cinque dispositivi con spine sottili, ma è pensata soprattutto per il Giappone",
-      "link": "https://www.hdblog.it/home/articoli/n663891/multipresa-ciabatta-scrivania-di-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T12:45:00+00:00"
     },
     {
       "titolo": "Wimbledon, Sinner contro Djokovic: ecco a che ora si gioca",

@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-09T15:34:45.433743+00:00",
+  "last_updated": "2026-07-09T20:05:19.765703+00:00",
   "items": [
     {
-      "titolo": "Meta risponde a Grok 4.5 con Muse Spark 1.1",
-      "descrizione": "Muse Spark 1.1 è il nuovo modello AI sviluppato dai Superintelligence Labs di Meta che offre prestazioni agentiche superiori a quelle di GPT-5.5. The post Meta risponde a Grok 4.5 con Muse Spark 1.1 appeared first on Pun",
-      "link": "https://www.punto-informatico.it/meta-risponde-grok-4-5-muse-spark-1-1/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-09T15:33:56+00:00",
+      "titolo": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
+      "descrizione": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
+      "link": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T18:51:10+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Quando Gemini batte ChatGPT, 4 scenari in cui è la scelta migliore",
-      "descrizione": "Non si tratta di scegliere un vincitore assoluto, ma di capire quale strumento funziona meglio per quale compito. Ecco quando Gemini batte ChatGPT. The post Quando Gemini batte ChatGPT, 4 scenari in cui è la scelta migli",
-      "link": "https://www.punto-informatico.it/quando-gemini-batte-chatgpt-4-scenari-scelta-migliore/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-09T15:30:19+00:00",
+      "titolo": "Google Home cambia marcia: nuove automazioni e correzioni",
+      "descrizione": "Google Home riceve suggerimenti AI per le automazioni e migliora Gemini.",
+      "link": "https://www.hdblog.it/google/articoli/n663914/google-home-automazioni-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T16:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I gave Claude Cowork 7 non-coding jobs, and it earned a spot in my toolbox",
-      "descrizione": "Claude Cowork is brilliant, unnerving, and far more useful than I expected.",
-      "link": "https://www.zdnet.com/article/claude-cowork-non-coding-jobs-tasks/",
-      "fonte": "Latest news",
-      "data": "2026-07-09T12:54:46+00:00",
+      "titolo": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "descrizione": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "fonte": "WIRED",
+      "data": "2026-07-09T18:30:00+00:00",
       "modello": "claude"
     }
   ]
