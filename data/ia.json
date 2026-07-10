@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-10T04:16:15.714173+00:00",
+  "last_updated": "2026-07-10T09:53:43.915654+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "descrizione": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "fonte": "WIRED",
-      "data": "2026-07-09T23:13:18+00:00",
+      "titolo": "ChatGPT Work e Codex nella nuova app per Windows e macOS",
+      "descrizione": "OpenAI ha annunciato l'agente AI ChatGPT Work, accessibile gratuitamente a tutti tramite la nuova app per desktop che include anche Chat e Codex. The post ChatGPT Work e Codex nella nuova app per Windows e macOS appeared",
+      "link": "https://www.punto-informatico.it/chatgpt-work-codex-nuova-app-windows-macos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-10T07:43:52+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
-      "descrizione": "OpenAI's latest announcement looks like a lot more than a model upgrade.",
-      "link": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
-      "fonte": "Latest news",
-      "data": "2026-07-09T20:26:06+00:00",
+      "titolo": "Elon Musk elogia la rivale Anthropic, perché?",
+      "descrizione": "Elon Musk elogia Anthropic dopo un maxi accordo sull'infrastruttura AI. L'azienda dei fratelli Amodei diventa uno dei principali clienti di SpaceXAI. The post Elon Musk elogia la rivale Anthropic, perché? appeared first",
+      "link": "https://www.punto-informatico.it/elon-musk-elogia-rivale-anthropic-perche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-10T09:46:37+00:00",
       "modello": "claude"
     }
   ]
