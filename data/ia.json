@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-09T20:05:19.765703+00:00",
+  "last_updated": "2026-07-10T04:16:15.714173+00:00",
   "items": [
     {
-      "titolo": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "descrizione": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "link": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "fonte": "Latest news",
-      "data": "2026-07-09T18:51:10+00:00",
+      "titolo": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "descrizione": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "fonte": "WIRED",
+      "data": "2026-07-09T23:13:18+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Home cambia marcia: nuove automazioni e correzioni",
-      "descrizione": "Google Home riceve suggerimenti AI per le automazioni e migliora Gemini.",
-      "link": "https://www.hdblog.it/google/articoli/n663914/google-home-automazioni-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T16:25:00+00:00",
+      "titolo": "Occhiali Android XR con Gemini, la musica si adatta all’ambiente",
+      "descrizione": "Spotify testa l'integrazione con Gemini sugli occhiali Android XR per riprodurre musica in base a ciò che l'utente vede. The post Occhiali Android XR con Gemini, la musica si adatta all’ambiente appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/occhiali-android-xr-gemini-musica-si-adatta-ambiente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T21:30:11+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "descrizione": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "fonte": "WIRED",
-      "data": "2026-07-09T18:30:00+00:00",
+      "titolo": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
+      "descrizione": "OpenAI's latest announcement looks like a lot more than a model upgrade.",
+      "link": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
+      "fonte": "Latest news",
+      "data": "2026-07-09T20:26:06+00:00",
       "modello": "claude"
     }
   ]

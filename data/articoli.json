@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-09T20:05:15.153938+00:00",
+  "last_updated": "2026-07-10T04:16:11.851773+00:00",
   "items": [
+    {
+      "titolo": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
+      "descrizione": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
+      "link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+      "fonte": "WIRED",
+      "data": "2026-07-10T01:08:50+00:00"
+    },
+    {
+      "titolo": "Occhiali Android XR con Gemini, la musica si adatta all’ambiente",
+      "descrizione": "Spotify testa l'integrazione con Gemini sugli occhiali Android XR per riprodurre musica in base a ciò che l'utente vede. The post Occhiali Android XR con Gemini, la musica si adatta all’ambiente appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/occhiali-android-xr-gemini-musica-si-adatta-ambiente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-09T21:30:11+00:00"
+    },
+    {
+      "titolo": "Occhiali Smart: vera innovazione o euforia momentanea | VIDEO",
+      "descrizione": "Molti brand stanno lanciando i propri occhiali smart. Proviamo a capire in quale direzione sta andando il mercato e quale sarà il vero ruolo degli smart glasses nel prossimo futuro.",
+      "link": "https://www.hdblog.it/indossabili/speciali/n645365/occhiali-smart-vera-innovazione-o-ennesima-euforia-momentanea/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-09T19:00:00+00:00"
+    },
     {
       "titolo": "Best Buy is selling a 70-inch Insignia TV for just $350 - why I recommend it",
       "descrizione": "Upgrade your home theater with a big-screen Insignia F50 for less than $400 right now at Best Buy.",
@@ -93,13 +114,6 @@
       "data": "2026-07-09T15:35:00+00:00"
     },
     {
-      "titolo": "Luiss Business School: Master Full-Time per costruire competenze manageriali già pronte per il lavoro",
-      "descrizione": "I Master Full-Time Luiss Business School preparano neolaureati e giovani professionisti con percorsi pratici, internship, Career Service, network internazionale e major in AI, Digital Marketing e...",
-      "link": "https://www.hdblog.it/business/articoli/n663192/luiss-business-school-master-full-time/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-09T15:31:00+00:00"
-    },
-    {
       "titolo": "While the U.S. flip-flops on chip sanctions, China is building its own chip supply market — export controls are creating conditions for a Sino-Russian chip trade alliance",
       "descrizione": "As the U.S. makes up its mind on export controls for Chinese chips, China has been developing its own supply chain, and associated trade network.",
       "link": "https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance",
@@ -154,20 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/oceani-corsa-contro-tempo-salvare-risorse-marine-AJmqvrB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-09T12:57:00+00:00"
-    },
-    {
-      "titolo": "I gave Claude Cowork 7 non-coding jobs, and it earned a spot in my toolbox",
-      "descrizione": "Claude Cowork is brilliant, unnerving, and far more useful than I expected.",
-      "link": "https://www.zdnet.com/article/claude-cowork-non-coding-jobs-tasks/",
-      "fonte": "Latest news",
-      "data": "2026-07-09T12:54:46+00:00"
-    },
-    {
-      "titolo": "Wimbledon, Sinner contro Djokovic: ecco a che ora si gioca",
-      "descrizione": "Il torneo del Grande Slam ha ufficializzato il programma del campo centrale per la giornata di venerdì 10 luglio. The post Wimbledon, Sinner contro Djokovic: ecco a che ora si gioca appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/wimbledon-2026-sinner-djokovic-orario/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-09T12:40:20+00:00"
     }
   ]
 }
