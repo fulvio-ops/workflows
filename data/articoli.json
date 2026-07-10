@@ -1,19 +1,110 @@
 {
-  "last_updated": "2026-07-10T15:02:41.745559+00:00",
+  "last_updated": "2026-07-10T19:53:30.033931+00:00",
   "items": [
     {
-      "titolo": "ING Direct down, segnalazioni in tutta Italia: cosa dice la banca",
+      "titolo": "Meet the Battery Startup Taking on China’s Giants",
+      "descrizione": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
+      "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
+      "fonte": "WIRED",
+      "data": "2026-07-10T18:00:00+00:00"
+    },
+    {
+      "titolo": "Garmin migliora la batteria di alcuni smartwatch di punta con l'ultimo update",
+      "descrizione": "L'update risolve due problemi insorti con il firmware precedente.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664049/garmin-fenix-8-pro-aggiornamento-22-39-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T17:45:00+00:00"
+    },
+    {
+      "titolo": "iPhone 16e in offerta su Amazon: la scelta giusta per un iPhone di fascia media?",
+      "descrizione": "iPhone 16e torna in offerta su Amazon e diventa la scelta giusta per un nuovo smartphone Apple di fascia media.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664053/iphone-16e-offerta-amazon-506-euro-lug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T17:30:00+00:00"
+    },
+    {
+      "titolo": "Vespa e Amerigo Vespucci: svelato il modello unico a New York",
+      "descrizione": "Nel porto di New York il veliero della Marina Militare incontra lo scooter Piaggio: svelato un modello unico ispirato al design dello scafo e alle tele delle vele",
+      "link": "https://www.hdmotori.it/vespa-e-amerigo-vespucci-svelato-il-modello-unico-a-new-york/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T17:00:49+00:00"
+    },
+    {
+      "titolo": "SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air",
+      "descrizione": "SK hynix, TetraMem, and the University of Southern California built a memristor-based in-memory computing system-on-chip for AI edge devices, achieving promising energy efficiency, but failed to demonstrate its full pote",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-10T16:58:53+00:00"
+    },
+    {
+      "titolo": "Polymarket oscurato dall’Agenzia delle Dogane",
+      "descrizione": "L'Agenzia delle Dogane e dei Monopoli ha inserito nuovamente Polymarket nell'elenco dei siti che devono essere oscurati (dal 27 luglio 2026). The post Polymarket oscurato dall’Agenzia delle Dogane appeared first on Punto",
+      "link": "https://www.punto-informatico.it/polymarket-oscurato-agenzia-dogane/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-10T16:51:51+00:00"
+    },
+    {
+      "titolo": "Motorola Edge 70 Max: le anticipazioni sulla batteria fanno tremare la concorrenza",
+      "descrizione": "Il nuovo Motorola Edge 70 Max è in arrivo con una batteria superiore alle aspettative.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663995/motorola-edge-70-max-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T16:35:00+00:00"
+    },
+    {
+      "titolo": "Lexus LFA timbra il cartellino a Goodwood, corsa contro il tempo per il lancio ufficiale",
+      "descrizione": "Con una livrea camouflage la Lexus LFA ha stupito gli appassionati accorsi al Festival Of Speed di Goodwood 2026",
+      "link": "https://www.hdmotori.it/lexus-lfa-goodwood-lancio-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T16:30:31+00:00"
+    },
+    {
+      "titolo": "Star Trek: Strange New Worlds ritorna a luglio: i protagonisti in Italia",
+      "descrizione": "Trailer online e debutto il 23 luglio per la quarta stagione.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661565/star-trek-strange-new-worlds-4-trailer-data-uscita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T16:25:00+00:00"
+    },
+    {
+      "titolo": "Autobianchi Bianchina 2.0, il ritorno è possibile? Ecco il render che riaccende la nostalgia",
+      "descrizione": "Si inseguono le voci sul possibile rilancio del marchio Autobianchi. La Bianchina potrebbe tornare in chiave contemporanea?",
+      "link": "https://www.hdmotori.it/stellantis-render-autobianchi-bianchina/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T15:30:34+00:00"
+    },
+    {
+      "titolo": "Chi vince i Mondiali 2026 secondo ChatGPT, Gemini e Perplexity",
+      "descrizione": "Con i quarti di finale dei Mondiali 2026 in corso, ChatGPT, Gemini e Perplexity hanno analizzato le squadre rimaste e prodotto pronostici diversi. The post Chi vince i Mondiali 2026 secondo ChatGPT, Gemini e Perplexity a",
+      "link": "https://www.punto-informatico.it/chi-vince-mondiali-2026-chatgpt-gemini-perplexity/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-10T15:30:27+00:00"
+    },
+    {
+      "titolo": "OpenAI dice addio al suo \"browser AI\" ChatGPT Atlas dopo soli 9 mesi",
+      "descrizione": "Questo non vuol dire che la società americana intenda abbandonare l'idea della navigazione internet assistita dall'AI, anzi. È convinta che la soluzione migliore per raggiungere l'obiettivo sia...",
+      "link": "https://www.hdblog.it/apple/articoli/n664037/chatgpt-atlas-chiude-openai-estensione-chrome-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T15:25:00+00:00"
+    },
+    {
+      "titolo": "Hayabusa2 invia le prime immagini dell'asteroide Torifune",
+      "descrizione": "Hayabusa2 sorvola Torifune e invia le prime immagini dell'asteroide alla Terra.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n664035/hayabusa2-prime-immagini-asteroide-torifune/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-10T15:15:00+00:00"
+    },
+    {
+      "titolo": "Troppa AI nei call center: sciopero di due settimane",
+      "descrizione": "Tre sindacati di categoria hanno annunciato due settimane di sciopero per protestare contro l'uso indiscriminato dell'AI nei call center. The post Troppa AI nei call center: sciopero di due settimane appeared first on Pu",
+      "link": "https://www.punto-informatico.it/troppa-ai-call-center-sciopero-due-settimane/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-10T15:05:07+00:00"
+    },
+    {
+      "titolo": "[In risoluzione] ING down, segnalazioni in tutta Italia: cosa dice la banca",
       "descrizione": "Il punto della situazione.",
       "link": "https://www.hdblog.it/android/articoli/n664038/ing-direct-down-italia-luglio-problemi-banca-app/",
       "fonte": "HDblog.it",
       "data": "2026-07-10T15:02:00+00:00"
-    },
-    {
-      "titolo": "KTM taglia i prezzi per l'estate: le promozioni su Street e Offroad",
-      "descrizione": "Nuovi prezzi per le KTM Duke e Adventure: la casa austriaca taglia i listini della gamma Street e Offroad fino a settembre 2026 con vantaggi e accessori in omaggio",
-      "link": "https://www.hdmotori.it/offerte-ktm-duke-adventure-offroad/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T15:00:31+00:00"
     },
     {
       "titolo": "Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant",
@@ -23,32 +114,18 @@
       "data": "2026-07-10T15:00:01+00:00"
     },
     {
+      "titolo": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
+      "descrizione": "Yes, Sarah Wynn-Williams violated her deal to stay silent. But the power disparity bolsters the view that Meta is a heartless bully.",
+      "link": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
+      "fonte": "WIRED",
+      "data": "2026-07-10T15:00:00+00:00"
+    },
+    {
       "titolo": "Xiaomi presenta SkyNomad, il nuovo SUV elettrico",
       "descrizione": "SkyNomad è la nuova auto elettrica di Xiaomi, un SUV con abitacolo modulare progettato per accogliere tutta la famiglia e non solo. The post Xiaomi presenta SkyNomad, il nuovo SUV elettrico appeared first on Punto Inform",
       "link": "https://www.punto-informatico.it/xiaomi-skynomad-nuovo-suv-elettrico/",
       "fonte": "Punto Informatico",
       "data": "2026-07-10T14:51:11+00:00"
-    },
-    {
-      "titolo": "Cina, nasce la più grande centrale solare ibrida: produce energia anche di notte",
-      "descrizione": "La Cina avvia la più grande centrale solare ibrida con accumulo termico a sali fusi.",
-      "link": "https://www.hdblog.it/green/articoli/n664027/cina-centrale-solare-ibrida-hami/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T14:45:00+00:00"
-    },
-    {
-      "titolo": "Foto migliori con sensori più piccoli nel futuro degli smartphone?",
-      "descrizione": "Addio al sensore Bayer grazie a un nuovo innovativo materiale inventato in Giappone?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664031/smartphone-fotocamera-ricerca-sensori-bayer/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T14:35:00+00:00"
-    },
-    {
-      "titolo": "Perché ora le auto possono costare fino a 1500 euro in più",
-      "descrizione": "Le auto di nuova immatricolazione sono ora dotate obbligatoriamente di avanzati sistemi di assistenza alla guida che aumentano la sicurezza, ma anche i costi delle auto.",
-      "link": "https://www.hdmotori.it/auto-possono-costare-1500-euro-piu/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T14:30:02+00:00"
     },
     {
       "titolo": "Best Buy is selling a 70-inch Fire TV for just $350 right now - and it's a model I recommend",
@@ -72,13 +149,6 @@
       "data": "2026-07-10T14:20:57+00:00"
     },
     {
-      "titolo": "Non credere alla storia dell'iPhone con la cover posteriore removibile, è una bufala",
-      "descrizione": "Apple non sarà obbligata a lanciare iPhone con cover posteriore removibile e batteria sostituibile, è una fake news.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664018/iphone-cover-posteriore-removibile-bufala/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T14:20:00+00:00"
-    },
-    {
       "titolo": "Blue Origin sviluppa sette lander lunari e incassa 10 miliardi",
       "descrizione": "Blue Origin ha avviato lo sviluppo di sette Blue Moon (lander lunari) e ha ricevuto un finanziamento esterno di circa 10 miliardi di dollari. The post Blue Origin sviluppa sette lander lunari e incassa 10 miliardi appear",
       "link": "https://www.punto-informatico.it/blue-origin-sviluppa-sette-lander-lunari-incassa-10-miliardi/",
@@ -93,81 +163,11 @@
       "data": "2026-07-10T14:02:20+00:00"
     },
     {
-      "titolo": "Quanta batteria avrà Oppo Find N7? Un leak ci svela il dato",
-      "descrizione": "La capacità continua a crescere",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664015/oppo-find-n7-leak-batteria-capacita/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T13:20:00+00:00"
-    },
-    {
       "titolo": "Doctolib addestra l’AI con i dati degli utenti: come opporsi",
       "descrizione": "Doctolib avvia un progetto di ricerca sull'AI e userà dati sanitari degli utenti. Ecco come negare il consenso in modo semplice e veloce. The post Doctolib addestra l’AI con i dati degli utenti: come opporsi appeared fir",
       "link": "https://www.punto-informatico.it/doctolib-addestra-ai-dati-utenti-come-opporsi/",
       "fonte": "Punto Informatico",
       "data": "2026-07-10T13:14:34+00:00"
-    },
-    {
-      "titolo": "San Gottardo, corre a 172 km/h nel tunnel: fermato dopo 21 sorpassi vietati",
-      "descrizione": "Un 22enne corre nel tunnel del San Gottardo: viaggiava a 172 km/h, ha effettuato 21 sorpassi ed è risultato positivo al test antidroga",
-      "link": "https://www.hdmotori.it/san-gottardo-folle-corsa-multa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T13:00:11+00:00"
-    },
-    {
-      "titolo": "Instagram e Facebook, per l'UE le misure di Meta non fermano la dipendenza",
-      "descrizione": "Le attuali misure di sicurezza implementate da Meta non sono in grado di prevenire la dipendenza dai social media.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664010/instagram-facebook-dipendenza-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T12:50:00+00:00"
-    },
-    {
-      "titolo": "Researchers turn HBM on its side to tackle AI memory’s heat wall — Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs",
-      "descrizione": "Researchers in Korea and Japan have proposed sideways-stacked DRAM designs that could push future AI memory beyond conventional HBM limits by improving cooling, bandwidth, and capacity while reducing reliance on TSV-heav",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-10T11:40:00+00:00"
-    },
-    {
-      "titolo": "Problemi con ING: gli aggiornamenti sul down del 10 luglio",
-      "descrizione": "Down parziale per i servizi online dell'istituto ING: in questo articolo la situazione aggiornata, sulla base delle segnalazioni inviate. The post Problemi con ING: gli aggiornamenti sul down del 10 luglio appeared first",
-      "link": "https://www.punto-informatico.it/ing-direct-down-10072026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T11:39:49+00:00"
-    },
-    {
-      "titolo": "Chat Control 1.0 sneaks through the EU Parliament, letting companies scan user data without warrants — legal tactic used to force a majority-required re-vote on eve of Parliament break",
-      "descrizione": "Chat Control 1.0 sneaks through the EU Parliament, letting companies scan user data without warrants — legal skullduggery used to force a majority-required re-vote on eve of Parliament break",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-10T11:00:00+00:00"
-    },
-    {
-      "titolo": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-      "descrizione": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-      "fonte": "WIRED",
-      "data": "2026-07-10T10:30:00+00:00"
-    },
-    {
-      "titolo": "Samsung readies Gaia AI accelerator for PCs — HP and Lenovo are reportedly validating the NPU",
-      "descrizione": "Samsung reportedly preps Gaia AI accelerator for client devices that is already being tested by HP and Lenovo.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-10T10:20:00+00:00"
-    },
-    {
-      "titolo": "Meta: nuovo chip AI e data center in Canada",
-      "descrizione": "A partire dal mese di settembre, Meta inizierà la produzione di un nuovo chip AI della serie MTIA, mentre in Canada costruirà un data center da 1 GW. The post Meta: nuovo chip AI e data center in Canada appeared first on",
-      "link": "https://www.punto-informatico.it/meta-nuovo-chip-ai-data-center-canada/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T10:10:01+00:00"
-    },
-    {
-      "titolo": "Elon Musk elogia la rivale Anthropic, perché?",
-      "descrizione": "Elon Musk elogia Anthropic dopo un maxi accordo sull'infrastruttura AI. L'azienda dei fratelli Amodei diventa uno dei principali clienti di SpaceXAI. The post Elon Musk elogia la rivale Anthropic, perché? appeared first",
-      "link": "https://www.punto-informatico.it/elon-musk-elogia-rivale-anthropic-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T09:46:37+00:00"
     }
   ]
 }
