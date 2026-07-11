@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-07-11T13:55:58.586426+00:00",
+  "last_updated": "2026-07-11T19:33:05.564308+00:00",
   "items": [
+    {
+      "titolo": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application",
+      "descrizione": "Nvidia decided to hide the hotspot temperature on its RTX 50 series, but internal diagnostic tools, such as Nvidia's own \"MODS,\" can still read it. The resulting data reveals how some GPUs can overheat and throttle easil",
+      "link": "https://www.tomshardware.com/pc-components/gpus/hotspot-temperature-sensor-on-nvidias-blackwell-gaming-gpus-is-still-accessible-if-you-have-access-to-nvidias-internal-mods-tool-nvidia-rtx-5070-ti-caught-throttling-at-107-c-over-poor-tim-application",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-11T16:18:59+00:00"
+    },
+    {
+      "titolo": "Su Google Messaggi la condivisione sta per diventare più semplice",
+      "descrizione": "Alcuni utenti hanno cominciato a ricevere la novità.",
+      "link": "https://www.hdblog.it/google/articoli/n664078/google-messaggi-condivisione-chat-gruppo-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-11T15:55:00+00:00"
+    },
+    {
+      "titolo": "Come l’AI sta trasformando la cyberwar e le infrastrutture critiche in bersagli vulnerabili",
+      "descrizione": "Le guerre in Ucraina e Medio Oriente stanno cambiando anche il volto della sicurezza informatica, ma il vero punto di svolta deve (probabilmente) ancora arrivare. È di questa idea Nadav...",
+      "link": "https://www.ilsole24ore.com/art/come-l-ai-sta-trasformando-cyberwar-e-infrastrutture-critiche-bersagli-vulnerabili-AJoVFnD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-11T15:15:00+00:00"
+    },
+    {
+      "titolo": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages",
+      "descrizione": "A Brazilian gamer who lost his Microsoft account and all his digital games has won a court order requiring the company to return them.",
+      "link": "https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-11T14:52:11+00:00"
+    },
+    {
+      "titolo": "AMD RX 9070 GRE collapses to $499 to save 1440p gaming — RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie",
+      "descrizione": "AMD's Radeon RX 9070 GRE has received its first price cut since launching outside China, making the 1440p-focused RDNA 4 graphics card a more compelling alternative to Nvidia's RTX 5060 Ti 16GB.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-11T14:23:57+00:00"
+    },
     {
       "titolo": "Asus Zenbook A16, Snapdragon X2 Elite Extreme è croce e delizia | VIDEO",
       "descrizione": "Abbiamo provato il nuovo Zenbook A16 di Asus con Snapdragon X2 Elite Extreme, ecco come è andata!",
@@ -133,41 +168,6 @@
       "link": "https://www.hdmotori.it/vespa-e-amerigo-vespucci-svelato-il-modello-unico-a-new-york/",
       "fonte": "HDblog.it",
       "data": "2026-07-10T17:00:49+00:00"
-    },
-    {
-      "titolo": "SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air",
-      "descrizione": "SK hynix, TetraMem, and the University of Southern California built a memristor-based in-memory computing system-on-chip for AI edge devices, achieving promising energy efficiency, but failed to demonstrate its full pote",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-10T16:58:53+00:00"
-    },
-    {
-      "titolo": "Polymarket oscurato dall’Agenzia delle Dogane",
-      "descrizione": "L'Agenzia delle Dogane e dei Monopoli ha inserito nuovamente Polymarket nell'elenco dei siti che devono essere oscurati (dal 27 luglio 2026). The post Polymarket oscurato dall’Agenzia delle Dogane appeared first on Punto",
-      "link": "https://www.punto-informatico.it/polymarket-oscurato-agenzia-dogane/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T16:51:51+00:00"
-    },
-    {
-      "titolo": "Motorola Edge 70 Max: le anticipazioni sulla batteria fanno tremare la concorrenza",
-      "descrizione": "Il nuovo Motorola Edge 70 Max è in arrivo con una batteria superiore alle aspettative.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663995/motorola-edge-70-max-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T16:35:00+00:00"
-    },
-    {
-      "titolo": "Chi vince i Mondiali 2026 secondo ChatGPT, Gemini e Perplexity",
-      "descrizione": "Con i quarti di finale dei Mondiali 2026 in corso, ChatGPT, Gemini e Perplexity hanno analizzato le squadre rimaste e prodotto pronostici diversi. The post Chi vince i Mondiali 2026 secondo ChatGPT, Gemini e Perplexity a",
-      "link": "https://www.punto-informatico.it/chi-vince-mondiali-2026-chatgpt-gemini-perplexity/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T15:30:27+00:00"
-    },
-    {
-      "titolo": "Troppa AI nei call center: sciopero di due settimane",
-      "descrizione": "Tre sindacati di categoria hanno annunciato due settimane di sciopero per protestare contro l'uso indiscriminato dell'AI nei call center. The post Troppa AI nei call center: sciopero di due settimane appeared first on Pu",
-      "link": "https://www.punto-informatico.it/troppa-ai-call-center-sciopero-due-settimane/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T15:05:07+00:00"
     }
   ]
 }
