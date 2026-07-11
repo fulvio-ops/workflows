@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-10T19:53:30.033931+00:00",
+  "last_updated": "2026-07-11T03:44:12.162275+00:00",
   "items": [
+    {
+      "titolo": "Apple sues OpenAI over alleged theft of trade secrets — claims company mentored incoming employees on bringing confidential information",
+      "descrizione": "Apple sued OpenAI, including its own former employees, over the theft of trade secrets as both companies build up AI hardware businesses.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-10T21:59:42+00:00"
+    },
+    {
+      "titolo": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "descrizione": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "fonte": "WIRED",
+      "data": "2026-07-10T20:44:05+00:00"
+    },
     {
       "titolo": "Meet the Battery Startup Taking on China’s Giants",
       "descrizione": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/blue-origin-sviluppa-sette-lander-lunari-incassa-10-miliardi/",
       "fonte": "Punto Informatico",
       "data": "2026-07-10T14:11:54+00:00"
-    },
-    {
-      "titolo": "Creator economy: perché la fiducia passa sempre più da algoritmi, AI e trasparenza",
-      "descrizione": "La creator economy evolve: AI, moderazione e trasparenza diventano elementi chiave per conquistare la fiducia degli utenti. The post Creator economy: perché la fiducia passa sempre più da algoritmi, AI e trasparenza appe",
-      "link": "https://www.punto-informatico.it/creator-economy-perche-la-fiducia-passa-sempre-piu-da-algoritmi-ai-e-trasparenza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T14:02:20+00:00"
-    },
-    {
-      "titolo": "Doctolib addestra l’AI con i dati degli utenti: come opporsi",
-      "descrizione": "Doctolib avvia un progetto di ricerca sull'AI e userà dati sanitari degli utenti. Ecco come negare il consenso in modo semplice e veloce. The post Doctolib addestra l’AI con i dati degli utenti: come opporsi appeared fir",
-      "link": "https://www.punto-informatico.it/doctolib-addestra-ai-dati-utenti-come-opporsi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-10T13:14:34+00:00"
     }
   ]
 }
