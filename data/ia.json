@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-12T08:32:05.532184+00:00",
+  "last_updated": "2026-07-12T13:57:22.724259+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: 5 vecchie abitudini che oggi peggiorano le risposte",
-      "descrizione": "ChatGPT è cambiato profondamente rispetto agli esordi, ma molti continuano a usarlo allo stesso modo. Ecco 5 abitudini da abbandonare subito. The post ChatGPT: 5 vecchie abitudini che oggi peggiorano le risposte appeared",
-      "link": "https://www.punto-informatico.it/chatgpt-5-vecchie-abitudini-oggi-peggiorano-risposte/",
+      "titolo": "Microsoft sostituisce GPT e Claude con i suoi modelli MAI",
+      "descrizione": "Microsoft ha iniziato a sostituire i modelli GPT e Claude di OpenAI e Anthropic con i suoi modelli MAI nelle applicazioni di Microsoft 365. The post Microsoft sostituisce GPT e Claude con i suoi modelli MAI appeared firs",
+      "link": "https://www.punto-informatico.it/microsoft-sostituisce-gpt-claude-modelli-mai/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-12T07:30:00+00:00",
+      "data": "2026-07-12T10:28:46+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Academy: cos’è, come funziona e quali corsi gratuiti offre",
-      "descrizione": "Anthropic Academy offre 20 corsi gratuiti su Claude, API, MCP e AI generativa. Come iscriversi e quali certificazioni sono disponibili. The post Anthropic Academy: cos’è, come funziona e quali corsi gratuiti offre appear",
-      "link": "https://www.punto-informatico.it/anthropic-academy-cose-come-funziona-quali-corsi-gratuiti-offre/",
+      "titolo": "Microsoft sostituisce GPT e Claude con i suoi modelli MAI",
+      "descrizione": "Microsoft ha iniziato a sostituire i modelli GPT e Claude di OpenAI e Anthropic con i suoi modelli MAI nelle applicazioni di Microsoft 365. The post Microsoft sostituisce GPT e Claude con i suoi modelli MAI appeared firs",
+      "link": "https://www.punto-informatico.it/microsoft-sostituisce-gpt-claude-modelli-mai/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-10T17:36:21+00:00",
+      "data": "2026-07-12T10:28:46+00:00",
       "modello": "claude"
     }
   ]
