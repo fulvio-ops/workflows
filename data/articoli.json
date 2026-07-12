@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-12T03:59:29.291165+00:00",
+  "last_updated": "2026-07-12T08:32:00.715596+00:00",
   "items": [
+    {
+      "titolo": "ChatGPT: 5 vecchie abitudini che oggi peggiorano le risposte",
+      "descrizione": "ChatGPT è cambiato profondamente rispetto agli esordi, ma molti continuano a usarlo allo stesso modo. Ecco 5 abitudini da abbandonare subito. The post ChatGPT: 5 vecchie abitudini che oggi peggiorano le risposte appeared",
+      "link": "https://www.punto-informatico.it/chatgpt-5-vecchie-abitudini-oggi-peggiorano-risposte/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-12T07:30:00+00:00"
+    },
+    {
+      "titolo": "Piovono misteriose sfere metalliche sulle spiagge australiane: svelata l'origine",
+      "descrizione": "Sei sfere metalliche trovate su una spiaggia australiana sono probabilmente detriti spaziali.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664100/sfere-metalliche-spiaggia-australia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-12T07:05:00+00:00"
+    },
+    {
+      "titolo": "Autovelox: entrano in vigore le nuove regole, spenti 850 dispositivi",
+      "descrizione": "Dal 12 luglio 850 autovelox in tutta Italia non sono più legittimi e saranno spenti. Il Ministro Salvini: «Basta autovelox fantasma, che erano solo una tassa occulta».",
+      "link": "https://www.hdmotori.it/autovelox-nuove-regole-spenti-850-dispositivi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-12T07:00:09+00:00"
+    },
+    {
+      "titolo": "Sinner-Zverev: a che ora inizia la finale di Wimbledon 2026",
+      "descrizione": "La programmazione dell'atto conclusivo dello Slam sull'erba tra il numero uno del mondo e il campione del Roland Garros. The post Sinner-Zverev: a che ora inizia la finale di Wimbledon 2026 appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/sinner-zverev-orario-finale-wimbledon-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-12T05:02:40+00:00"
+    },
     {
       "titolo": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application",
       "descrizione": "Nvidia decided to hide the hotspot temperature on its RTX 50 series, but internal diagnostic tools, such as Nvidia's own \"MODS,\" can still read it. The resulting data reveals how some GPUs can overheat and throttle easil",
@@ -140,34 +168,6 @@
       "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
       "fonte": "WIRED",
       "data": "2026-07-10T20:44:05+00:00"
-    },
-    {
-      "titolo": "Meet the Battery Startup Taking on China’s Giants",
-      "descrizione": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-      "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-      "fonte": "WIRED",
-      "data": "2026-07-10T18:00:00+00:00"
-    },
-    {
-      "titolo": "Garmin migliora la batteria di alcuni smartwatch di punta con l'ultimo update",
-      "descrizione": "L'update risolve due problemi insorti con il firmware precedente.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n664049/garmin-fenix-8-pro-aggiornamento-22-39-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T17:45:00+00:00"
-    },
-    {
-      "titolo": "iPhone 16e in offerta su Amazon: la scelta giusta per un iPhone di fascia media?",
-      "descrizione": "iPhone 16e torna in offerta su Amazon e diventa la scelta giusta per un nuovo smartphone Apple di fascia media.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664053/iphone-16e-offerta-amazon-506-euro-lug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T17:30:00+00:00"
-    },
-    {
-      "titolo": "Vespa e Amerigo Vespucci: svelato il modello unico a New York",
-      "descrizione": "Nel porto di New York il veliero della Marina Militare incontra lo scooter Piaggio: svelato un modello unico ispirato al design dello scafo e alle tele delle vele",
-      "link": "https://www.hdmotori.it/vespa-e-amerigo-vespucci-svelato-il-modello-unico-a-new-york/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-10T17:00:49+00:00"
     }
   ]
 }
