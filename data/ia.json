@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-07-13T15:12:28.880630+00:00",
+  "last_updated": "2026-07-13T19:51:09.334288+00:00",
   "items": [
     {
-      "titolo": "Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo",
-      "descrizione": "Anthropic estende Claude Fable 5 al 19 luglio, in risposta a GPT-5.6 Sol. Sette mosse per sfruttare i giorni bonus. The post Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/claude-fable-5-gratuito-fino-19-luglio-ecco-come-usarlo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T14:43:42+00:00",
+      "titolo": "La Royal Navy lancia droni navali dagli aerei: cambia la guerra in mare",
+      "descrizione": "La Royal Navy lancia un drone navale da un A400M per missioni rapide anche in mare agitato.",
+      "link": "https://www.hdblog.it/droni/articoli/n664159/oyal-navy-lancio-aereo-drone-navale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T17:30:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Windows questions? How Copilot can analyze your PC settings now",
+      "descrizione": "Now rolling out to the Copilot Windows app, the new PC Insights skill can answer questions about your Windows system, settings, and more.",
+      "link": "https://www.zdnet.com/article/microsoft-copilot-analyze-windows/",
+      "fonte": "Latest news",
+      "data": "2026-07-13T17:21:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Waze, 4 novità dell'app di navigazione \"restaurata\" con Gemini",
+      "descrizione": "Ecco di cosa si tratta",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664192/waze-novita-app-di-navigazione-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T16:45:00+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo",
