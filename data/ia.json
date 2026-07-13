@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-13T04:01:52.969128+00:00",
+  "last_updated": "2026-07-13T09:48:15.027676+00:00",
   "items": [
     {
-      "titolo": "Microsoft sostituisce GPT e Claude con i suoi modelli MAI",
-      "descrizione": "Microsoft ha iniziato a sostituire i modelli GPT e Claude di OpenAI e Anthropic con i suoi modelli MAI nelle applicazioni di Microsoft 365. The post Microsoft sostituisce GPT e Claude con i suoi modelli MAI appeared firs",
-      "link": "https://www.punto-informatico.it/microsoft-sostituisce-gpt-claude-modelli-mai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-12T10:28:46+00:00",
+      "titolo": "OpenAI’s Head of Safety Is Leaving the Company",
+      "descrizione": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "fonte": "WIRED",
+      "data": "2026-07-11T01:07:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft sostituisce GPT e Claude con i suoi modelli MAI",
-      "descrizione": "Microsoft ha iniziato a sostituire i modelli GPT e Claude di OpenAI e Anthropic con i suoi modelli MAI nelle applicazioni di Microsoft 365. The post Microsoft sostituisce GPT e Claude con i suoi modelli MAI appeared firs",
-      "link": "https://www.punto-informatico.it/microsoft-sostituisce-gpt-claude-modelli-mai/",
+      "titolo": "Reflect: la funzione di Claude mostra come si usa davvero l’AI",
+      "descrizione": "Anthropic lancia Reflect, una dashboard per Claude che analizza argomenti, attività e abitudini d'uso dell'AI. Ecco come funziona e come attivarla. The post Reflect: la funzione di Claude mostra come si usa davvero l’AI",
+      "link": "https://www.punto-informatico.it/reflect-funzione-claude-mostra-come-si-usa-davvero-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-12T10:28:46+00:00",
+      "data": "2026-07-13T08:03:09+00:00",
       "modello": "claude"
     }
   ]
