@@ -1,19 +1,159 @@
 {
-  "last_updated": "2026-07-13T09:48:09.949514+00:00",
+  "last_updated": "2026-07-13T15:12:24.953884+00:00",
   "items": [
+    {
+      "titolo": "All'asta uno dei primi Apple-1 funzionanti del 1976 | Video",
+      "descrizione": "Uno dei primi Apple-1 costruiti da Wozniak va all'asta con una storia davvero unica.",
+      "link": "https://www.hdblog.it/apple/articoli/n664204/apple-1-asta-sothebys-1976/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T15:10:00+00:00"
+    },
+    {
+      "titolo": "In Corea del Nord spuntano traffico fitto e parcheggi: perché Pyongyang è piena di auto",
+      "descrizione": "A Pyongyang aumentano auto, parcheggi e traffico. Il boom è favorito dalle riforme e dai miliardi incassati grazie ai rapporti con la Russia",
+      "link": "https://www.hdmotori.it/corea-del-nord-boom-auto-russia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T15:00:11+00:00"
+    },
+    {
+      "titolo": "Xiaomi e crowdfunding, tocca alla barra luminosa Mijia Monitor Light Bar 2",
+      "descrizione": "Annunciato il via alla campagna di crowdfunding per Mijia Monitor Light Bar 2, la nuova barra luminosa targata Xiaomi per la scrivania.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n664202/xiaomi-barra-luminosa-mijia-monitor-light-bar-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T14:40:00+00:00"
+    },
+    {
+      "titolo": "Ci eravamo sbagliati su OnePlus e il OnePlus 15? Cosa è andato storto? | VIDEO",
+      "descrizione": "OnePlus si prepara ad abbandonare sempre più mercati occidentali, rimandendo quasi soltanto un sottobrand di OPPO in Cina. Cosa è andato storto?",
+      "link": "https://www.hdblog.it/smartphone/speciali/n662126/oneplus-aggiornamento-fallimento-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T14:31:00+00:00"
+    },
+    {
+      "titolo": "Nuova Toyota GR GT spiata durante i test: arriva la versione speciale",
+      "descrizione": "Le forme della Toyota GR GT anticipano un nuovo corso sportivo per il colosso giapponese che vuole tornare al passato",
+      "link": "https://www.hdmotori.it/nuova-toyota-gr-gt-test-versione-speciale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T14:00:10+00:00"
+    },
+    {
+      "titolo": "Samsung Health chiede i dati per l'AI: chi rifiuta può perdere la sincronizzazione",
+      "descrizione": "Chi rifiuta rischia di perdere la sincronizzazione con l’account",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664197/samsung-health-niente-sincronizzazione-consenso-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T13:35:00+00:00"
+    },
+    {
+      "titolo": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
+      "descrizione": "Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-13T13:25:32+00:00"
+    },
+    {
+      "titolo": "ChatGPT torna su WhatsApp in Italia: come scrivere all’AI",
+      "descrizione": "OpenAI ha ufficialmente riportato ChatGPT su WhatsApp, anche in Italia: il chatbot è di nuovo disponibile con messaggi, immagini e vocali. The post ChatGPT torna su WhatsApp in Italia: come scrivere all’AI appeared first",
+      "link": "https://www.punto-informatico.it/chatgpt-torna-whatsapp-italia-come-scrivere-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-13T13:08:04+00:00"
+    },
+    {
+      "titolo": "Girare il mondo su una Panda dell'89: la storia di una missione possibile",
+      "descrizione": "Due italiani, un lavoratore di Genova e un titolare di una copisteria a Rho, sono partiti all’avventura a bordo di una FIAT Panda del 1989",
+      "link": "https://www.hdmotori.it/giro-del-mondo-fiat-panda/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T13:00:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT torna disponibile su WhatsApp, sia in Italia che nel resto d'Europa",
+      "descrizione": "ChatGPT torna disponibile su WhatsApp in Italia e negli altri Paesi dell’Unione Europea",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664189/chatgpt-torna-disponibile-whatsapp/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T12:41:00+00:00"
+    },
+    {
+      "titolo": "WhatCable, l'app gratuita che trasforma il Mac in un tester per cavi USB-C",
+      "descrizione": "Capire che cosa sia davvero in grado di fare un cavo USB-C non è sempre semplice",
+      "link": "https://www.hdblog.it/portatili/articoli/n664185/whatcable-app-gratuita-mac-tester-usb-c/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T12:05:00+00:00"
+    },
+    {
+      "titolo": "Google Maps sbaglia, furgone Mondo Convenienza arriva al rifugio",
+      "descrizione": "Quasi certamente affidandosi al navigatore stradale, un furgone della catena Mondo Convenienza è arrivato a quasi 2000 metri di altezza. The post Google Maps sbaglia, furgone Mondo Convenienza arriva al rifugio appeared",
+      "link": "https://www.punto-informatico.it/google-maps-sbaglia-furgone-mondo-convenienza-arriva-rifugio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-13T12:03:58+00:00"
+    },
+    {
+      "titolo": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
+      "descrizione": "Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-13T12:02:52+00:00"
+    },
+    {
+      "titolo": "Ducati entra nel mercato delle biciclette (premium)",
+      "descrizione": "Ducati entra nel ciclismo premium con il Gruppo Zecchetto. In arrivo tre modelli strada, gravel ed e-MTB sviluppati con Nibali e Viviani. Il debutto ufficiale a settembre.",
+      "link": "https://www.hdmotori.it/ducati-biciclette-premium/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T12:00:45+00:00"
+    },
+    {
+      "titolo": "Riciclo carta, l'Italia vola: raccolte quasi 4 milioni di tonnellate nel 2025",
+      "descrizione": "Il Sud recupera.",
+      "link": "https://www.hdblog.it/green/articoli/n664179/raccolta-carta-cartone-italia-2025-nord-sud/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T11:55:00+00:00"
+    },
+    {
+      "titolo": "Ancora una RTX 5090 fusa, non la salva nemmeno l'ASRock TempGuard",
+      "descrizione": "Il sensore di temperatura dell'alimentatore avrebbe dovuto intervenire non appena rilevata un'anomalia, ma non l'ha fatto.",
+      "link": "https://www.hdblog.it/hardware/articoli/n664183/msi-geforce-rtx-5090-asrock-tempguard-fusa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-13T11:50:00+00:00"
+    },
+    {
+      "titolo": "Social media: proposta di ban per under 13 in Europa",
+      "descrizione": "La Presidente della Commissione europea ha comunicato che verrà presentata una proposta di legge per vietare l'accesso ai minori di 13 anni. The post Social media: proposta di ban per under 13 in Europa appeared first on",
+      "link": "https://www.punto-informatico.it/social-media-proposta-ban-under-13-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-13T11:23:09+00:00"
+    },
+    {
+      "titolo": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
+      "descrizione": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
+      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
+      "fonte": "WIRED",
+      "data": "2026-07-13T11:08:00+00:00"
+    },
+    {
+      "titolo": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+      "descrizione": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language.",
+      "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
+      "fonte": "WIRED",
+      "data": "2026-07-13T11:00:00+00:00"
+    },
+    {
+      "titolo": "Boom di SpaceX crea nuova élite: esplode la domanda di jet privati",
+      "descrizione": "La quotazione record di SpaceX ha creato migliaia di nuovi milionari. Il risultato è stato il boom di acquisti di jet privati. The post Boom di SpaceX crea nuova élite: esplode la domanda di jet privati appeared first on",
+      "link": "https://www.punto-informatico.it/boom-spacex-crea-nuova-elite-esplode-domanda-jet-privati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-13T10:11:19+00:00"
+    },
+    {
+      "titolo": "Twitter compie 25 anni: la piattaforma che ha cambiato il giornalismo e poi ha riscritto se stessa",
+      "descrizione": "Dal primo tweet di Jack Dorsey al passaggio a X sotto Elon Musk. In un quarto di secolo la piattaforma ha inventato un nuovo linguaggio, raccontato rivoluzioni, trasformato la politica e aperto il dibattito sul potere de",
+      "link": "https://www.ilsole24ore.com/art/twitter-compie-25-anni-piattaforma-che-ha-cambiato-giornalismo-e-poi-ha-riscritto-se-stessa-AJEB5PF",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-13T09:53:29+00:00"
+    },
     {
       "titolo": "Cercavo una distro Linux, ho trovato una guida contro gli alieni",
       "descrizione": "Come passare in un attimo dalla ricerca di informazioni su una distro Linux agli articolo degli anni '90 sull'ondata UFO in Lombardia. The post Cercavo una distro Linux, ho trovato una guida contro gli alieni appeared fi",
       "link": "https://www.punto-informatico.it/cercavo-distro-linux-trovato-guida-contro-alieni/",
       "fonte": "Punto Informatico",
       "data": "2026-07-13T09:45:11+00:00"
-    },
-    {
-      "titolo": "In casa Xiaomi è l'ora del tè",
-      "descrizione": "Xiaomi lancia in crowdfunding il Mijia Smart Tea Bar Pro, dispositivo con doppio rubinetto per acqua calda istantanea e infusione automatica del tè: la macchina gestisce da sola tempi e quantità,...",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n664150/xiaomi-tea-bar-te-automatico/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T09:45:00+00:00"
     },
     {
       "titolo": "SpaceX vuole lanciare altri 100.000 satelliti Starlink",
@@ -23,151 +163,11 @@
       "data": "2026-07-13T09:36:26+00:00"
     },
     {
-      "titolo": "Pirateria, Google avverte l'UE: i blocchi su DNS e IP possono fare troppi danni",
-      "descrizione": "Google ha chiesto alla Commissione europea di limitare l’uso dei blocchi antipirateria",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664165/pirateria-google-avverte-ue-blocchi-dns/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T09:35:00+00:00"
-    },
-    {
-      "titolo": "IO App, la dieresi è un ostacolo: in Alto Adige patente impossibile da caricare",
-      "descrizione": "La piattaforma non prevede ä, ö e ü.",
-      "link": "https://www.hdblog.it/android/articoli/n664147/io-app-dieresi-nome-alto-adige-problema/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T09:05:00+00:00"
-    },
-    {
       "titolo": "von der Leyen: sono i social ad accedere ai nostri figli",
       "descrizione": "La presidente della Commissione Ue interviene nel dibattito sulla tutela dei minori e sul ruolo degli algoritmi impiegati dai social. The post von der Leyen: sono i social ad accedere ai nostri figli appeared first on Pu",
       "link": "https://www.punto-informatico.it/von-der-leyen-sono-social-accedere-nostri-figli/",
       "fonte": "Punto Informatico",
       "data": "2026-07-13T09:01:04+00:00"
-    },
-    {
-      "titolo": "Il SUV Skoda sfida Ferrari, Lamborghini e Porsche: finale a sorpresa",
-      "descrizione": "Un SUV da famiglia, la Elroq vRS, contro Ferrari Testarossa, Lamborghini Countach e Porsche 944 Turbo. Il verdetto della pista a Dunsfold ribalta ogni pronostico e riscrive il concetto di...",
-      "link": "https://www.hdmotori.it/skoda-ferrari-lamborghini-porsche-finale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T09:00:14+00:00"
-    },
-    {
-      "titolo": "Microsoft gli cancella l'account Xbox con tutti i giochi: ora deve risarcire il giocatore",
-      "descrizione": "Un utente brasiliano ha creato un precedente importantissimo sul tema della proprietà della libreria digitale",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664152/microsoft-cancella-account-xbox-giochi-risarcisce/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T08:55:00+00:00"
-    },
-    {
-      "titolo": "Come riciclare un vecchio tablet Amazon Fire e renderlo una dashboard smart home",
-      "descrizione": "Una procedura relativamente semplice ma che richiede un minimo di accortezza, soprattutto nella gestione dell'alimentazione.",
-      "link": "https://www.hdblog.it/tablet/articoli/n664156/vecchi-tablet-amazon-fire-dashboard-home-assistant/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T08:45:00+00:00"
-    },
-    {
-      "titolo": "Oracle AI Database@Google Cloud è ora disponibile anche in Italia",
-      "descrizione": "Le imprese possono trasferire su Oracle AI Database@Google Cloud i carichi di lavoro Oracle",
-      "link": "https://www.hdblog.it/google/articoli/n664149/oracle-ai-databasegoogle-cloud-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T08:25:00+00:00"
-    },
-    {
-      "titolo": "Basta caldo in cucina: con Lidl prepari piatti gustosi senza forno e fornelli",
-      "descrizione": "Spendendo meno di 100 euro in tutto.",
-      "link": "https://www.hdblog.it/home/articoli/n664133/lidl-nuovo-volantino-friggitrice-aria-microonde/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T08:10:00+00:00"
-    },
-    {
-      "titolo": "Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "descrizione": "Anthropic lancia Reflect, una dashboard per Claude che analizza argomenti, attività e abitudini d'uso dell'AI. Ecco come funziona e come attivarla. The post Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "link": "https://www.punto-informatico.it/reflect-funzione-claude-mostra-come-si-usa-davvero-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T08:03:09+00:00"
-    },
-    {
-      "titolo": "Luce e gas con Octopus, prezzo fisso per una promo contro il caro bollette",
-      "descrizione": "Con le offerte luce e gas di Octopus è possibile bloccare il prezzo dell'energia per i primi 12 mesi: ecco l'offerta anti rincari del fornitore. The post Luce e gas con Octopus, prezzo fisso per una promo contro il caro",
-      "link": "https://www.punto-informatico.it/luce-e-gas-con-octopus-prezzo-fisso-per-una-promo-contro-il-caro-bollette/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T08:00:05+00:00"
-    },
-    {
-      "titolo": "Raduni illegali di auto elaborate sul Garda: tragedia sfiorata",
-      "descrizione": "Come in un film della saga Fast & Furious, decine di piloti su vetture truccate si sono radunati sul Garda al Centro commerciale Molinetto, scatenando il panico",
-      "link": "https://www.hdmotori.it/raduni-illegali-auto-elaborate-garda/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T08:00:02+00:00"
-    },
-    {
-      "titolo": "Linus Torvalds non si considera più un programmatore",
-      "descrizione": "Il papà di Linux ha parlato recentemente di cosa vuol dire oggi svilupppare il kernel del sistema operativo open-source. E dell'impatto dell'intelligenza artificiale.",
-      "link": "https://www.hdblog.it/linux/articoli/n664140/linus-torvalds-development-lead-ai-linux-kernel/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T07:45:00+00:00"
-    },
-    {
-      "titolo": "L’Italia blocca anche Kalshi, insieme a Polymarket",
-      "descrizione": "ADM ha disposto anche il blocco di Kalshi in Italia: la piattaforma nell'elenco dei siti di gioco non autorizzati, proprio come Polymarket. The post L’Italia blocca anche Kalshi, insieme a Polymarket appeared first on Pu",
-      "link": "https://www.punto-informatico.it/italia-blocca-kalshi-polymarket/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T07:31:54+00:00"
-    },
-    {
-      "titolo": "Google Pixel 11 Pro Fold, trapela un presunto render ufficiale",
-      "descrizione": "Qualche differenza nel modulo fotografico con il modello attuale.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664137/google-pixel-11-pro-fold-render-leak-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T07:25:00+00:00"
-    },
-    {
-      "titolo": "Microsoft modifica Windows 10 con elementi di Windows 11",
-      "descrizione": "L'interfaccia di Windows 10 cambia ancora. Nuovi elementi grafici ispirati a Windows 11 fanno discutere la community per l'incoerenza visiva. The post Microsoft modifica Windows 10 con elementi di Windows 11 appeared fir",
-      "link": "https://www.punto-informatico.it/microsoft-modifica-windows-10-elementi-windows-11/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T07:23:08+00:00"
-    },
-    {
-      "titolo": "Christopher Nolan svela il suo segreto: niente smartphone per pensare meglio",
-      "descrizione": "Nolan racconta perché rinuncia allo smartphone per difendere creatività e concentrazione.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664129/christopher-nolan-senza-smartphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T07:15:00+00:00"
-    },
-    {
-      "titolo": "Oppo Find X10 Pro Max da record: ben 653 MP complessivi per i rumor",
-      "descrizione": "Addirittura tre unità da 200 MP sul retro, una 50 MP frontale e un sensore multispettrale ausiliario da 3 MP per aumentare la precisione cromatica.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664132/oppo-find-x10-pro-max/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T07:05:00+00:00"
-    },
-    {
-      "titolo": "Windows 10 ESU: nell’email, Microsoft dice una mezza verità",
-      "descrizione": "Microsoft invia le email agli utenti del programma Windows 10 ESU confermando un altro anno di aggiornamenti gratuiti per la sicurezza. The post Windows 10 ESU: nell’email, Microsoft dice una mezza verità appeared first",
-      "link": "https://www.punto-informatico.it/windows-10-esu-email-microsoft-mezza-verita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T06:18:05+00:00"
-    },
-    {
-      "titolo": "CMF Buds 2: bellissimi auricolari wireless con 55 ore di autonomia",
-      "descrizione": "I CMF Buds 2 sono impermeabili con certificazione di grado IP55, hanno 55 ore di autonomia complessiva e sono in offerta su Amazon al 30%. The post CMF Buds 2: bellissimi auricolari wireless con 55 ore di autonomia appea",
-      "link": "https://www.punto-informatico.it/cmf-buds-2-bellissimi-auricolari-wireless-55-ore-autonomia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T05:48:56+00:00"
-    },
-    {
-      "titolo": "NordVPN, 28 mesi di utilizzo illimitato a prezzo scontato: ecco la promo (-70%)",
-      "descrizione": "La nuova promo di NordVPN è la soluzione giusta per una nuova VPN illimitata: il piano da 28 mesi è in forte sconto, ecco i dettagli. The post NordVPN, 28 mesi di utilizzo illimitato a prezzo scontato: ecco la promo (-70",
-      "link": "https://www.punto-informatico.it/nordvpn-28-mesi-di-utilizzo-illimitato-a-prezzo-scontato-ecco-la-promo-70/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-12T16:00:20+00:00"
-    },
-    {
-      "titolo": "Starship: SpaceX annuncia data e obiettivi del 13esimo lancio",
-      "descrizione": "Il 13esimo volo del razzo Starship è previsto il 16 luglio (17 luglio in Italia) con obiettivi simili a quelli del 12esimo test, quindi senza cattura. The post Starship: SpaceX annuncia data e obiettivi del 13esimo lanci",
-      "link": "https://www.punto-informatico.it/starship-spacex-annuncia-data-obiettivi-13esimo-lancio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-12T15:08:50+00:00"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-13T09:48:15.027676+00:00",
+  "last_updated": "2026-07-13T15:12:28.880630+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Head of Safety Is Leaving the Company",
-      "descrizione": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "fonte": "WIRED",
-      "data": "2026-07-11T01:07:26+00:00",
+      "titolo": "Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo",
+      "descrizione": "Anthropic estende Claude Fable 5 al 19 luglio, in risposta a GPT-5.6 Sol. Sette mosse per sfruttare i giorni bonus. The post Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/claude-fable-5-gratuito-fino-19-luglio-ecco-come-usarlo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-13T14:43:42+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "descrizione": "Anthropic lancia Reflect, una dashboard per Claude che analizza argomenti, attività e abitudini d'uso dell'AI. Ecco come funziona e come attivarla. The post Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "link": "https://www.punto-informatico.it/reflect-funzione-claude-mostra-come-si-usa-davvero-ai/",
+      "titolo": "Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo",
+      "descrizione": "Anthropic estende Claude Fable 5 al 19 luglio, in risposta a GPT-5.6 Sol. Sette mosse per sfruttare i giorni bonus. The post Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/claude-fable-5-gratuito-fino-19-luglio-ecco-come-usarlo/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-13T08:03:09+00:00",
+      "data": "2026-07-13T14:43:42+00:00",
       "modello": "claude"
     }
   ]
