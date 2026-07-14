@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T14:14:45.129740+00:00",
+  "last_updated": "2026-07-14T19:44:43.152234+00:00",
   "items": [
     {
-      "titolo": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "descrizione": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "fonte": "WIRED",
-      "data": "2026-07-14T10:00:00+00:00",
+      "titolo": "Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
+      "descrizione": "Nadella critica il modo in cui ChatGPT e company raccolgono valore dai dati delle aziende e denuncia l'ipocrisia sulla distillazione dei modelli AI. The post Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
+      "link": "https://www.punto-informatico.it/perche-satya-nadella-mette-in-guardia-chi-usa-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T18:23:56+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick",
-      "descrizione": "Anthropic has discovered an internal \"J-space\" for its Claude AI that displays similarities to human internal processing. While the AI developer anthropomorphizes it as thought, it may yet prove useful as a method of imp",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-10T16:44:12+00:00",
+      "titolo": "Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
+      "descrizione": "Nadella critica il modo in cui ChatGPT e company raccolgono valore dai dati delle aziende e denuncia l'ipocrisia sulla distillazione dei modelli AI. The post Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
+      "link": "https://www.punto-informatico.it/perche-satya-nadella-mette-in-guardia-chi-usa-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T18:23:56+00:00",
       "modello": "claude"
     }
   ]
