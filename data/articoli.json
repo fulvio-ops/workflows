@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-07-13T19:51:04.731467+00:00",
+  "last_updated": "2026-07-14T03:36:33.024345+00:00",
   "items": [
     {
-      "titolo": "La “seniorization” accende la guerra generazionale nelle aziende",
+      "titolo": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+      "descrizione": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
+      "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+      "fonte": "WIRED",
+      "data": "2026-07-13T19:55:12+00:00"
+    },
+    {
+      "titolo": "IA, la «seniorization» accende la guerra generazionale nelle aziende",
       "descrizione": "I giovani entrano già da manager, mentre il middle management rischia di diventare il vero campo di battaglia. È il nuovo Sessantotto dei colletti bianchi.",
       "link": "https://www.ilsole24ore.com/art/la-seniorization-accende-guerra-generazionale-aziende-AI0rTCwD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-13T19:48:40+00:00"
+      "data": "2026-07-13T19:48:00+00:00"
     },
     {
       "titolo": "Ci eravamo sbagliati su OnePlus e il OnePlus 15? Cosa è andato storto? | VIDEO",
@@ -132,7 +139,7 @@
       "descrizione": "Dal primo tweet di Jack Dorsey al passaggio a X sotto Elon Musk. In un quarto di secolo la piattaforma ha inventato un nuovo linguaggio, raccontato rivoluzioni, trasformato la politica e aperto il dibattito sul potere de",
       "link": "https://www.ilsole24ore.com/art/twitter-compie-25-anni-piattaforma-che-ha-cambiato-giornalismo-e-poi-ha-riscritto-se-stessa-AJEB5PF",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-13T09:53:29+00:00"
+      "data": "2026-07-13T09:53:00+00:00"
     },
     {
       "titolo": "Cercavo una distro Linux, ho trovato una guida contro gli alieni",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/reflect-funzione-claude-mostra-come-si-usa-davvero-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-07-13T08:03:09+00:00"
-    },
-    {
-      "titolo": "Luce e gas con Octopus, prezzo fisso per una promo contro il caro bollette",
-      "descrizione": "Con le offerte luce e gas di Octopus è possibile bloccare il prezzo dell'energia per i primi 12 mesi: ecco l'offerta anti rincari del fornitore. The post Luce e gas con Octopus, prezzo fisso per una promo contro il caro",
-      "link": "https://www.punto-informatico.it/luce-e-gas-con-octopus-prezzo-fisso-per-una-promo-contro-il-caro-bollette/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T08:00:05+00:00"
     }
   ]
 }
