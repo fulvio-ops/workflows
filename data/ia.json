@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T03:36:37.342745+00:00",
+  "last_updated": "2026-07-14T08:28:30.184792+00:00",
   "items": [
     {
-      "titolo": "La Royal Navy lancia droni navali dagli aerei: cambia la guerra in mare",
-      "descrizione": "La Royal Navy lancia un drone navale da un A400M per missioni rapide anche in mare agitato.",
-      "link": "https://www.hdblog.it/droni/articoli/n664159/oyal-navy-lancio-aereo-drone-navale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T17:30:00+00:00",
+      "titolo": "Nothing Ear (a): suono meraviglioso con cancellazione attiva del rumore",
+      "descrizione": "Gli auricolari wireless Nothing Ear (a) offrono oltre 42 ore di ascolto, cancellazione attiva del rumore e integrazione di ChatGPT. The post Nothing Ear (a): suono meraviglioso con cancellazione attiva del rumore appeare",
+      "link": "https://www.punto-informatico.it/nothing-ear-a-suono-meraviglioso-cancellazione-attiva-del-rumore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T07:01:23+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Waze, 4 novità dell'app di navigazione \"restaurata\" con Gemini",
-      "descrizione": "Ecco di cosa si tratta",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664192/waze-novita-app-di-navigazione-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T16:45:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo",
-      "descrizione": "Anthropic estende Claude Fable 5 al 19 luglio, in risposta a GPT-5.6 Sol. Sette mosse per sfruttare i giorni bonus. The post Claude Fable 5 è gratuito fino al 19 luglio, ecco come usarlo appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/claude-fable-5-gratuito-fino-19-luglio-ecco-come-usarlo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T14:43:42+00:00",
+      "titolo": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick",
+      "descrizione": "Anthropic has discovered an internal \"J-space\" for its Claude AI that displays similarities to human internal processing. While the AI developer anthropomorphizes it as thought, it may yet prove useful as a method of imp",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-10T16:44:12+00:00",
       "modello": "claude"
     }
   ]

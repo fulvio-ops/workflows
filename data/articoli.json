@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-14T03:36:33.024345+00:00",
+  "last_updated": "2026-07-14T08:28:26.821340+00:00",
   "items": [
+    {
+      "titolo": "Android Auto prepara un nuovo player multimediale con più controlli",
+      "descrizione": "Android Auto prova un nuovo player con grafica più pulita e controlli avanzati.",
+      "link": "https://www.hdblog.it/google/articoli/n664247/android-auto-nuovo-player-musicale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T07:45:00+00:00"
+    },
+    {
+      "titolo": "Mercato smartphone a picco, ma crescono Apple e Samsung",
+      "descrizione": "Le spedizioni di smartphone nel Q2 2026 sono diminuite dell'11% rispetto al 2025, in quanto sono aumentati i prezzi dei modelli di fascia bassa e media. The post Mercato smartphone a picco, ma crescono Apple e Samsung ap",
+      "link": "https://www.punto-informatico.it/mercato-smartphone-picco-crescono-apple-samsung/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T07:25:29+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026, quando si giocano e dove vedere le semifinali",
+      "descrizione": "Ecco quando si giocano e dove vedere le semifinali dei Mondiali 2026, Francia - Spagna e Inghilterra - Argentina, in programma oggi e domani. The post Mondiali 2026, quando si giocano e dove vedere le semifinali appeared",
+      "link": "https://www.punto-informatico.it/mondiali-2026-quando-si-giocano-e-dove-vedere-le-semifinali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T07:00:28+00:00"
+    },
+    {
+      "titolo": "Eliminato un canale sul digitale terrestre in questi giorni",
+      "descrizione": "Tra le novità del digitale terrestre è arrivata anche la notizia che un canale radiotelevisivo è stato eliminato proprio in questi giorni. The post Eliminato un canale sul digitale terrestre in questi giorni appeared fir",
+      "link": "https://www.punto-informatico.it/eliminato-un-canale-sul-digitale-terrestre-in-questi-giorni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:52:45+00:00"
+    },
+    {
+      "titolo": "Google aggiorna Snapseed, novità per i file RAW",
+      "descrizione": "Google rilascia un nuovo aggiornamento per Snapseed con un supporto più ampio ai file RAW, Annulla e Ripeti migliorati e correzioni di bug. The post Google aggiorna Snapseed, novità per i file RAW appeared first on Punto",
+      "link": "https://www.punto-informatico.it/snapseed-4-1-raw/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:52:32+00:00"
+    },
+    {
+      "titolo": "Revolut Pay arriva su Glovo: pagamenti rapidi e più RevPoints sugli ordini",
+      "descrizione": "Revolut Pay arriva su Glovo anche in Spagna, Portogallo, Polonia, Romania, Bulgaria e Croazia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664249/glovo-integra-revolut-pay-in-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:50:00+00:00"
+    },
+    {
+      "titolo": "Space Force, entra in servizio Meadowlands per la guerra elettronica spaziale",
+      "descrizione": "Gli USA schierano Meadowlands, sistema che disturba i satelliti senza distruggerli.",
+      "link": "https://www.hdblog.it/mercato/articoli/n664213/meadowlands-space-force-guerra-elettronica/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:35:00+00:00"
+    },
+    {
+      "titolo": "Un nuovo canale è stato aggiunto sul digitale terrestre per tutti",
+      "descrizione": "Sulla piattaforma digitale terrestre in questi giorni è stato aggiunto un nuovo canale ora disponibile su tutti i televisori in Italia. The post Un nuovo canale è stato aggiunto sul digitale terrestre per tutti appeared",
+      "link": "https://www.punto-informatico.it/un-nuovo-canale-e-stato-aggiunto-sul-digitale-terrestre-per-tutti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:32:06+00:00"
+    },
+    {
+      "titolo": "La grande ipocrisia: vogliamo l’AI, ma non i data center sotto casa",
+      "descrizione": "Sono infrastrutture delle quali non possiamo più fare a meno, a quanto pare, ma che nessuno vuole vedere sorgere nel proprio territorio. The post La grande ipocrisia: vogliamo l’AI, ma non i data center sotto casa appear",
+      "link": "https://www.punto-informatico.it/grande-ipocrisia-vogliamo-ai-non-data-center-sotto-casa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:29:38+00:00"
+    },
+    {
+      "titolo": "Amazfit Balance 2 ha oltre 170 modalità sportive, 21gg di autonomia e mappe offline",
+      "descrizione": "Il bellissimo Amazfit Balance 2 possiede tutto quello che ti serve per allenarti e per tenere traccia di come si comporta il tuo corpo. The post Amazfit Balance 2 ha oltre 170 modalità sportive, 21gg di autonomia e mappe",
+      "link": "https://www.punto-informatico.it/amazfit-balance-2-oltre-170-modalita-sportive-21gg-autonomia-mappe-offline/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:23:30+00:00"
+    },
+    {
+      "titolo": "Apple rilascia le prime beta pubbliche di iOS 27, macOS27 e la beta 5 di iOS 26.6",
+      "descrizione": "Le build corrispondono sostanzialmente alle terze beta distribuite agli sviluppatori la scorsa settimana.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664243/apple-rilascia-prime-beta-pubbliche-ios-27/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:20:00+00:00"
+    },
+    {
+      "titolo": "iOS 27 beta pubblica disponibile: come installarla e tutte le novità",
+      "descrizione": "Apple rilascia la beta pubblica di iOS 27. Ecco come installarla, quali iPhone sono compatibili e tutte le novità, da Siri AI a Liquid Glass. The post iOS 27 beta pubblica disponibile: come installarla e tutte le novità",
+      "link": "https://www.punto-informatico.it/ios-27-beta-pubblica-disponibile-come-installarla-novita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T06:19:09+00:00"
+    },
+    {
+      "titolo": "NASA completa i test chiave di Dragonfly, il velivolo che volerà su Titano",
+      "descrizione": "Dragonfly supera i test strutturali e si prepara alla missione su Titan.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664224/dragonfly-nasa-test-titan/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:15:00+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: il calcolo quantistico compie un passo decisivo sul trizio",
+      "descrizione": "Il quantum computing simula il materiale chiave per produrre il trizio della fusione.",
+      "link": "https://www.hdblog.it/green/articoli/n664212/quantum-computing-fusione-trizio-flibe/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:05:00+00:00"
+    },
+    {
+      "titolo": "Nuova AUDI Q4 e-tron 2026: crescono i cavalli e l'autonomia ma costa meno di prima - Video",
+      "descrizione": "In attesa del debutto della futura e inedita Audi A2 e-tron - prevista per l'inizio del 2027 - la casa di Ingolstadt gioca d’anticipo e rinnova radicalmente...",
+      "link": "https://www.hdmotori.it/prove/nuova-audi-q4-e-tron-2026-crescono-i-cavalli-e-lautonomia-ma-costa-meno-di-prima-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T06:00:57+00:00"
+    },
+    {
+      "titolo": "Sam Altman smonta il sogno dei data center nello spazio: ha ragione?",
+      "descrizione": "Gli esperti dubitano dei data center spaziali: i costi restano il vero ostacolo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n664241/sam-altman-data-center-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T05:55:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel 11 Series, grandi novità (e primati) per SoC e modem",
+      "descrizione": "Potrebbero essere dotati del primo chip realizzato a 2 nm da TSMC, e per la prima volta di un modem MediaTek invece di Samsung.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664238/google-pixel-11-tensor-g6-2nm-tsmc-modem-mediatek/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T05:45:00+00:00"
+    },
+    {
+      "titolo": "La denuncia di Apple sarà un problema per OpenAI già da domani?",
+      "descrizione": "Secondo Mark Gurman di Bloomberg non servirà l'arrivo di una sentenza perché Sam Altman e soci si trovino in difficoltà.",
+      "link": "https://www.hdblog.it/apple/articoli/n664236/openai-causa-apple-smartphone-problemi-rischi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-14T05:35:00+00:00"
+    },
+    {
+      "titolo": "Disney+ offre fino al 25% di risparmio con i nuovi piani di 6 mesi",
+      "descrizione": "I prezzi dei nuovi piani della durata di sei mesi resi disponibili dalla piattaforma streaming statunitense Disney+. The post Disney+ offre fino al 25% di risparmio con i nuovi piani di 6 mesi appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/disney-plus-risparmio-25-percento-piani-6-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-14T05:27:08+00:00"
+    },
+    {
+      "titolo": "B&H Photo Promo Codes and Deals This July 2026",
+      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "titolo": "30% Off Samsung Promo Code | July 2026",
+      "descrizione": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "fonte": "WIRED",
+      "data": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "titolo": "Design Within Reach Promo Codes: 30% Off | July 2026",
+      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-07-14T05:00:00+00:00"
+    },
     {
       "titolo": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
       "descrizione": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
@@ -14,160 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/la-seniorization-accende-guerra-generazionale-aziende-AI0rTCwD",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-13T19:48:00+00:00"
-    },
-    {
-      "titolo": "Ci eravamo sbagliati su OnePlus e il OnePlus 15? Cosa è andato storto? | VIDEO",
-      "descrizione": "OnePlus si prepara ad abbandonare sempre più mercati occidentali, rimandendo quasi soltanto un sottobrand di OPPO in Cina. Cosa è andato storto?",
-      "link": "https://www.hdblog.it/smartphone/speciali/n662126/oneplus-aggiornamento-fallimento-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T18:50:00+00:00"
-    },
-    {
-      "titolo": "I Ray-Ban Meta iniziano a essere vietati: New York apre la strada",
-      "descrizione": "Dal 20 luglio i Ray-Ban Meta e gli altri occhiali con fotocamera saranno vietati nei tribunali di New York. Ecco perché. The post I Ray-Ban Meta iniziano a essere vietati: New York apre la strada appeared first on Punto",
-      "link": "https://www.punto-informatico.it/ray-ban-meta-iniziano-essere-vietati-new-york-apre-strada/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T18:35:56+00:00"
-    },
-    {
-      "titolo": "La Royal Navy lancia droni navali dagli aerei: cambia la guerra in mare",
-      "descrizione": "La Royal Navy lancia un drone navale da un A400M per missioni rapide anche in mare agitato.",
-      "link": "https://www.hdblog.it/droni/articoli/n664159/oyal-navy-lancio-aereo-drone-navale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T17:30:00+00:00"
-    },
-    {
-      "titolo": "Rolls-Royce, motore mostruoso ed efficiente da 4.000 CV: concorrenza navale sbaragliata",
-      "descrizione": "La Casa britannica ha realizzato un super motore diesel in grado di sviluppare una potenza clamorosa e in Cina non è passato inosservato",
-      "link": "https://www.hdmotori.it/rolls-royce-motore-4-000-cavalli/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T17:00:27+00:00"
-    },
-    {
-      "titolo": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
-      "descrizione": "Despite a complete lack of evidence, everyone from Russia to Israel and Iran is being blamed for Lindsey Graham’s death.",
-      "link": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/",
-      "fonte": "WIRED",
-      "data": "2026-07-13T15:56:04+00:00"
-    },
-    {
-      "titolo": "Basta complimenti inutili: il prompt che cambia ChatGPT",
-      "descrizione": "ChatGPT loda qualsiasi cosa gli si presenti prima di dare la risposta vera. Ecco un prompt progettato per eliminare le cortesie inutili. The post Basta complimenti inutili: il prompt che cambia ChatGPT appeared first on",
-      "link": "https://www.punto-informatico.it/basta-complimenti-inutili-prompt-cambia-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T15:30:43+00:00"
-    },
-    {
-      "titolo": "7000 abitanti e 3 mega data center: il caso simbolo della corsa all'AI in Italia",
-      "descrizione": "Il caso di Pregnana Milanese.",
-      "link": "https://www.hdblog.it/green/articoli/n664211/data-center-italia-lombardia-milano-costruzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T15:25:00+00:00"
-    },
-    {
-      "titolo": "All'asta uno dei primi Apple-1 funzionanti del 1976 | Video",
-      "descrizione": "Uno dei primi Apple-1 costruiti da Wozniak va all'asta con una storia davvero unica.",
-      "link": "https://www.hdblog.it/apple/articoli/n664204/apple-1-asta-sothebys-1976/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T15:10:00+00:00"
-    },
-    {
-      "titolo": "In Corea del Nord spuntano traffico fitto e parcheggi: perché Pyongyang è piena di auto",
-      "descrizione": "A Pyongyang aumentano auto, parcheggi e traffico. Il boom è favorito dalle riforme e dai miliardi incassati grazie ai rapporti con la Russia",
-      "link": "https://www.hdmotori.it/corea-del-nord-boom-auto-russia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-13T15:00:11+00:00"
-    },
-    {
-      "titolo": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
-      "descrizione": "Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-13T13:25:32+00:00"
-    },
-    {
-      "titolo": "ChatGPT torna su WhatsApp in Italia: come scrivere all’AI",
-      "descrizione": "OpenAI ha ufficialmente riportato ChatGPT su WhatsApp, anche in Italia: il chatbot è di nuovo disponibile con messaggi, immagini e vocali. The post ChatGPT torna su WhatsApp in Italia: come scrivere all’AI appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-torna-whatsapp-italia-come-scrivere-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T13:08:04+00:00"
-    },
-    {
-      "titolo": "Google Maps sbaglia, furgone Mondo Convenienza arriva al rifugio",
-      "descrizione": "Quasi certamente affidandosi al navigatore stradale, un furgone della catena Mondo Convenienza è arrivato a quasi 2000 metri di altezza. The post Google Maps sbaglia, furgone Mondo Convenienza arriva al rifugio appeared",
-      "link": "https://www.punto-informatico.it/google-maps-sbaglia-furgone-mondo-convenienza-arriva-rifugio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T12:03:58+00:00"
-    },
-    {
-      "titolo": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
-      "descrizione": "Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-13T12:02:52+00:00"
-    },
-    {
-      "titolo": "Social media: proposta di ban per under 13 in Europa",
-      "descrizione": "La Presidente della Commissione europea ha comunicato che verrà presentata una proposta di legge per vietare l'accesso ai minori di 13 anni. The post Social media: proposta di ban per under 13 in Europa appeared first on",
-      "link": "https://www.punto-informatico.it/social-media-proposta-ban-under-13-europa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T11:23:09+00:00"
-    },
-    {
-      "titolo": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
-      "descrizione": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
-      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-      "fonte": "WIRED",
-      "data": "2026-07-13T11:08:00+00:00"
-    },
-    {
-      "titolo": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
-      "descrizione": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language.",
-      "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
-      "fonte": "WIRED",
-      "data": "2026-07-13T11:00:00+00:00"
-    },
-    {
-      "titolo": "Boom di SpaceX crea nuova élite: esplode la domanda di jet privati",
-      "descrizione": "La quotazione record di SpaceX ha creato migliaia di nuovi milionari. Il risultato è stato il boom di acquisti di jet privati. The post Boom di SpaceX crea nuova élite: esplode la domanda di jet privati appeared first on",
-      "link": "https://www.punto-informatico.it/boom-spacex-crea-nuova-elite-esplode-domanda-jet-privati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T10:11:19+00:00"
-    },
-    {
-      "titolo": "Twitter compie 25 anni: la piattaforma che ha cambiato il giornalismo e poi ha riscritto se stessa",
-      "descrizione": "Dal primo tweet di Jack Dorsey al passaggio a X sotto Elon Musk. In un quarto di secolo la piattaforma ha inventato un nuovo linguaggio, raccontato rivoluzioni, trasformato la politica e aperto il dibattito sul potere de",
-      "link": "https://www.ilsole24ore.com/art/twitter-compie-25-anni-piattaforma-che-ha-cambiato-giornalismo-e-poi-ha-riscritto-se-stessa-AJEB5PF",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-13T09:53:00+00:00"
-    },
-    {
-      "titolo": "Cercavo una distro Linux, ho trovato una guida contro gli alieni",
-      "descrizione": "Come passare in un attimo dalla ricerca di informazioni su una distro Linux agli articolo degli anni '90 sull'ondata UFO in Lombardia. The post Cercavo una distro Linux, ho trovato una guida contro gli alieni appeared fi",
-      "link": "https://www.punto-informatico.it/cercavo-distro-linux-trovato-guida-contro-alieni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T09:45:11+00:00"
-    },
-    {
-      "titolo": "SpaceX vuole lanciare altri 100.000 satelliti Starlink",
-      "descrizione": "SpaceX ha chiesto alla FCC l'autorizzazione per il lancio di 100.000 satelliti Starlink di terza generazione che offriranno prestazioni superiori a 1 Gbps. The post SpaceX vuole lanciare altri 100.000 satelliti Starlink",
-      "link": "https://www.punto-informatico.it/spacex-vuole-lanciare-altri-100-000-satelliti-starlink/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T09:36:26+00:00"
-    },
-    {
-      "titolo": "von der Leyen: sono i social ad accedere ai nostri figli",
-      "descrizione": "La presidente della Commissione Ue interviene nel dibattito sulla tutela dei minori e sul ruolo degli algoritmi impiegati dai social. The post von der Leyen: sono i social ad accedere ai nostri figli appeared first on Pu",
-      "link": "https://www.punto-informatico.it/von-der-leyen-sono-social-accedere-nostri-figli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T09:01:04+00:00"
-    },
-    {
-      "titolo": "Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "descrizione": "Anthropic lancia Reflect, una dashboard per Claude che analizza argomenti, attività e abitudini d'uso dell'AI. Ecco come funziona e come attivarla. The post Reflect: la funzione di Claude mostra come si usa davvero l’AI",
-      "link": "https://www.punto-informatico.it/reflect-funzione-claude-mostra-come-si-usa-davvero-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-13T08:03:09+00:00"
     }
   ]
 }
