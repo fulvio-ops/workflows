@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T19:44:43.152234+00:00",
+  "last_updated": "2026-07-15T03:37:28.761900+00:00",
   "items": [
     {
       "titolo": "Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
@@ -8,14 +8,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-07-14T18:23:56+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Windows questions? How Copilot can analyze your PC settings now",
-      "descrizione": "Now rolling out to the Copilot Windows app, the new PC Insights skill can answer questions about your Windows system, settings, and more.",
-      "link": "https://www.zdnet.com/article/microsoft-copilot-analyze-windows/",
-      "fonte": "Latest news",
-      "data": "2026-07-13T17:21:00+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",

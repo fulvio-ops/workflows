@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-14T19:44:38.424603+00:00",
+  "last_updated": "2026-07-15T03:37:25.111480+00:00",
   "items": [
+    {
+      "titolo": "Why I'm using wired Android Auto when all the cool kids are switching to wireless",
+      "descrizione": "Sometimes, you have to dial back the tech to make ends meet.",
+      "link": "https://www.zdnet.com/article/why-im-using-wired-android-auto-when-all-the-cool-kids-are-switching-to-wireless/",
+      "fonte": "Latest news",
+      "data": "2026-07-15T01:00:43+00:00"
+    },
+    {
+      "titolo": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+      "descrizione": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
+      "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+      "fonte": "WIRED",
+      "data": "2026-07-14T22:08:30+00:00"
+    },
+    {
+      "titolo": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips — firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech",
+      "descrizione": "The United States has licensed Chinese telecom giant ZTE to purchase restricted Nvidia H200 AI chips, but Chinese regulators and domestic procurement initiatives may limit the material impact of the change.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-14T19:46:26+00:00"
+    },
     {
       "titolo": "Più spazio di lavoro con il monitor portatile ASUS da 15,6'': ora è scontato del 27%",
       "descrizione": "Il monitor portatile ASUS ZenScreen MB169CK con pannello IPS da 15,6 pollici Full HD migliora la produttività con il notebook. Costa meno di 95€ con lo sconto Amazon.",
@@ -147,27 +168,6 @@
       "link": "https://www.zdnet.com/article/the-reasons-that-make-you-want-to-distro-hop/",
       "fonte": "Latest news",
       "data": "2026-07-14T15:45:12+00:00"
-    },
-    {
-      "titolo": "Come usare ChatGPT su Chrome: guida completa all’estensione",
-      "descrizione": "OpenAI chiude Atlas e integra le sue migliori funzionalità nell'estensione ufficiale di ChatGPT per Chrome. Ecco come installarla. The post Come usare ChatGPT su Chrome: guida completa all’estensione appeared first on Pu",
-      "link": "https://www.punto-informatico.it/come-usare-chatgpt-chrome-guida-completa-estensione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-14T15:30:14+00:00"
-    },
-    {
-      "titolo": "Demis Hassabis propone il controllo preliminare dei modelli AI",
-      "descrizione": "Il CEO di Google DeepMind ha suggerito di creare un'agenzia che effettui la valutazione dei modelli AI almeno 30 gironi prima il rilascio pubblico. The post Demis Hassabis propone il controllo preliminare dei modelli AI",
-      "link": "https://www.punto-informatico.it/demis-hassabis-propone-controllo-preliminare-modelli-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-14T15:13:27+00:00"
-    },
-    {
-      "titolo": "Ciclista squalificato per aver indossato occhiali smart",
-      "descrizione": "Per la prima volta, un ciclista professionista è stato squalificato per aver indossato degli occhiali smart (Oakley Meta) durante una gara. The post Ciclista squalificato per aver indossato occhiali smart appeared first",
-      "link": "https://www.punto-informatico.it/ciclista-squalificato-occhiali-smart/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-14T15:01:08+00:00"
     }
   ]
 }
