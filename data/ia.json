@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-07-15T08:36:10.283622+00:00",
+  "last_updated": "2026-07-15T14:11:48.580047+00:00",
   "items": [
     {
-      "titolo": "Ora sappiamo come (e cosa) sarà il primo dispositivo di OpenAI",
-      "descrizione": "Il primo dispositivo lanciato da OpenAI dovrebbe essere uno smart speaker con ChatGPT, senza schermo e dotato di batteria ricaricabile. The post Ora sappiamo come (e cosa) sarà il primo dispositivo di OpenAI appeared fir",
-      "link": "https://www.punto-informatico.it/come-cosa-primo-dispositivo-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-15T06:11:54+00:00",
+      "titolo": "Nuova Volkswagen ID. Cross, autonomia fino a 435 km e prezzo sotto i 30.000 euro",
+      "descrizione": "Volkswagen presenta la nuova ID. Cross, il SUV elettrico compatto con autonomia fino a 435 km, ricarica rapida e prezzo di partenza intorno ai 28.000 euro.",
+      "link": "https://www.hdmotori.it/nuova-volkswagen-id-cross-autonomia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-15T14:00:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
-      "descrizione": "Nadella critica il modo in cui ChatGPT e company raccolgono valore dai dati delle aziende e denuncia l'ipocrisia sulla distillazione dei modelli AI. The post Perché Satya Nadella mette in guardia chi usa ChatGPT e Claude",
-      "link": "https://www.punto-informatico.it/perche-satya-nadella-mette-in-guardia-chi-usa-chatgpt-claude/",
+      "titolo": "How to use Gemini to plan your next summer vacation - in minutes",
+      "descrizione": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
+      "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
+      "fonte": "Latest news",
+      "data": "2026-07-15T12:58:12+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic lancia Claude per gli insegnanti: lezioni con l’AI",
+      "descrizione": "Anthropic lancia Claude per gli insegnanti. Crea piani di lezione personalizzati basati sui dati degli studenti. Disponibile in USA. The post Anthropic lancia Claude per gli insegnanti: lezioni con l’AI appeared first on",
+      "link": "https://www.punto-informatico.it/anthropic-lancia-claude-insegnanti-lezioni-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-14T18:23:56+00:00",
+      "data": "2026-07-15T10:20:31+00:00",
       "modello": "claude"
     }
   ]
