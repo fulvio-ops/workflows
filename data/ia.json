@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-15T14:11:48.580047+00:00",
+  "last_updated": "2026-07-15T19:37:31.213450+00:00",
   "items": [
     {
-      "titolo": "Nuova Volkswagen ID. Cross, autonomia fino a 435 km e prezzo sotto i 30.000 euro",
-      "descrizione": "Volkswagen presenta la nuova ID. Cross, il SUV elettrico compatto con autonomia fino a 435 km, ricarica rapida e prezzo di partenza intorno ai 28.000 euro.",
-      "link": "https://www.hdmotori.it/nuova-volkswagen-id-cross-autonomia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-15T14:00:44+00:00",
+      "titolo": "Thinking Machines Lab Drops Its First Model",
+      "descrizione": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "fonte": "WIRED",
+      "data": "2026-07-15T18:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -14,15 +14,15 @@
       "descrizione": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
       "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
       "fonte": "Latest news",
-      "data": "2026-07-15T12:58:12+00:00",
+      "data": "2026-07-15T12:58:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic lancia Claude per gli insegnanti: lezioni con l’AI",
-      "descrizione": "Anthropic lancia Claude per gli insegnanti. Crea piani di lezione personalizzati basati sui dati degli studenti. Disponibile in USA. The post Anthropic lancia Claude per gli insegnanti: lezioni con l’AI appeared first on",
-      "link": "https://www.punto-informatico.it/anthropic-lancia-claude-insegnanti-lezioni-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-15T10:20:31+00:00",
+      "titolo": "Thinking Machines Lab Drops Its First Model",
+      "descrizione": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "fonte": "WIRED",
+      "data": "2026-07-15T18:05:00+00:00",
       "modello": "claude"
     }
   ]
