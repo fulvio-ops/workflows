@@ -1,12 +1,117 @@
 {
-  "last_updated": "2026-07-16T14:24:51.355253+00:00",
+  "last_updated": "2026-07-16T19:34:38.833255+00:00",
   "items": [
     {
-      "titolo": "Spotify estende gli account per bambini per i piani free in più Paesi",
-      "descrizione": "Disponibili anche per gli utenti italiani.",
-      "link": "https://www.hdblog.it/android/articoli/n664573/spotify-account-per-bambini-in-piu-paesi/",
+      "titolo": "Everyone Thinks They Have the Diarrhea Parasite",
+      "descrizione": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it.",
+      "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+      "fonte": "WIRED",
+      "data": "2026-07-16T18:36:19+00:00"
+    },
+    {
+      "titolo": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "descrizione": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "fonte": "WIRED",
+      "data": "2026-07-16T18:35:18+00:00"
+    },
+    {
+      "titolo": "Artemis III sarà una danza coreografica tra veicoli spaziali",
+      "descrizione": "La NASA ha descritto in dettaglio la sequenza di lancio dei tre razzi e le procedure di docking di Blue Moon Mark 2 e Starship con la navicella Orion. The post Artemis III sarà una danza coreografica tra veicoli spaziali",
+      "link": "https://www.punto-informatico.it/artemis-iii-danza-coreografica-veicoli-spaziali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T17:33:21+00:00"
+    },
+    {
+      "titolo": "Uber costa fino al 30% di meno in Italia con il servizio Comfort",
+      "descrizione": "Tariffe ridotte fino al 30% e autisti NCC professionisti: la piattaforma si espande in tutte le regioni italiane per rispondere alle esigenze di mobilità della vita di tutti i giorni.",
+      "link": "https://www.hdmotori.it/uber-italia-servizio-comfort/",
       "fonte": "HDblog.it",
-      "data": "2026-07-16T14:10:00+00:00"
+      "data": "2026-07-16T17:30:24+00:00"
+    },
+    {
+      "titolo": "xAI denuncia un utente di Grok per deepfake a luci rosse e non consensuali",
+      "descrizione": "xAI ha citato in giudizio un utente per aver generato materiale illecito su Grok che ritrae minori.",
+      "link": "https://www.hdblog.it/business/articoli/n664541/grok-deepfake-xai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T16:35:00+00:00"
+    },
+    {
+      "titolo": "Claude può accedere alle credenziali di 1Password",
+      "descrizione": "Claude può effettuare il login automatico con le credenziali conservate nell'estensione di 1Password, ma l'utente deve sempre autorizzarne l'uso. The post Claude può accedere alle credenziali di 1Password appeared first",
+      "link": "https://www.punto-informatico.it/claude-accede-credenziali-1password/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T16:23:48+00:00"
+    },
+    {
+      "titolo": "Energia wireless sulla Luna: il piano cinese per esplorare i crateri oscuri",
+      "descrizione": "Laser ed energia solare per alimentare rover nei crateri bui del polo sud lunare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664503/cina-laser-energia-luna-polo-sud/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T16:15:00+00:00"
+    },
+    {
+      "titolo": "Messi parcheggia l'auto in salotto, il suo \"rifugio\" è da sogno",
+      "descrizione": "Un garage al 47° piano grazie a un ascensore hi-tech: ecco come vive Lionel Messi a Miami tra auto da sogno, scuole esclusive e investimenti immobiliari milionari",
+      "link": "https://www.hdmotori.it/casa-messi-miami-porsche-design-tower/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T16:00:44+00:00"
+    },
+    {
+      "titolo": "Octupus Energy: con le nuove tariffe di luglio 2026 blocchi il prezzo di luce e gas",
+      "descrizione": "Si rinnova l'offerta Octopus Fissa 12M di Octopus Energy: così blocchi il prezzo della materia prima luce e gas per un anno. The post Octupus Energy: con le nuove tariffe di luglio 2026 blocchi il prezzo di luce e gas ap",
+      "link": "https://www.punto-informatico.it/octupus-energy-con-le-nuove-tariffe-di-luglio-2026-blocchi-il-prezzo-di-luce-e-gas/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T15:44:13+00:00"
+    },
+    {
+      "titolo": "Samsung preinstalla anche Amazon Music sui Galaxy, cosa cambia",
+      "descrizione": "Samsung preinstalla Amazon Music sui nuovi smartphone e tablet Galaxy. L'app offrirà 3 mesi gratis, ma riaccende il dibattito sulle app indesiderate. The post Samsung preinstalla anche Amazon Music sui Galaxy, cosa cambi",
+      "link": "https://www.punto-informatico.it/samsung-preinstalla-amazon-music-galaxy-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T15:41:36+00:00"
+    },
+    {
+      "titolo": "Il primo microonde di SharkNinja fa anche da friggitrice ad aria",
+      "descrizione": "Scalda in modalità microonde... poi per il tocco finale croccante e succoso si passa all'aria calda!",
+      "link": "https://www.hdblog.it/home/articoli/n664592/sharkninja-microonde-friggitrice-aria-crispi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T15:25:00+00:00"
+    },
+    {
+      "titolo": "Apple iPad mini con schermo OLED entro ottobre?",
+      "descrizione": "Entro il mese di ottobre, Apple dovrebbe annunciare un nuovo iPad mini con schermo OLED da 8,3 pollici (ovviamente avrà un prezzo più alto). The post Apple iPad mini con schermo OLED entro ottobre? appeared first on Punt",
+      "link": "https://www.punto-informatico.it/apple-ipad-mini-schermo-oled-entro-ottobre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T15:09:41+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo, le nuove Giulia e Stelvio in fase di studio: c'è ancora speranza",
+      "descrizione": "Stellantis ha assicurato il work in progress per il lancio delle future evoluzioni di Alfa Romeo Giulia e Stelvio",
+      "link": "https://www.hdmotori.it/alfa-romeo-nuove-giulia-stelvio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T15:00:56+00:00"
+    },
+    {
+      "titolo": "Spotify fa pulizia: rimossi oltre 75 milioni di brani creati con l'AI",
+      "descrizione": "Spotify rimuove 75 milioni di brani AI per contrastare spam e contenuti di bassa qualità.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664564/spotify-rimuove-75-milioni-brani-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T14:45:00+00:00"
+    },
+    {
+      "titolo": "Abbiamo provato lo smartphone pieghevole dalle specifiche incredibili ed arriva in Italia | Video",
+      "descrizione": "Sta per arrivare in Italia un pieghevole \"da record\", con super fotocamere e la batteria più grande su questa particolare tipologia di smartphone. Basterà?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n663609/anteprima-vivo-x-fold-6-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T14:31:00+00:00"
+    },
+    {
+      "titolo": "\"Bliss\", com'è cambiata la mitica collina di Windows XP nel corso degli anni",
+      "descrizione": "Una retrospettiva in occasione del trentennale dello scatto della foto.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664584/windows-xp-immagine-sfondo-collina-30-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T14:25:00+00:00"
     },
     {
       "titolo": "DMA: Commissione UE annuncia due nuovi obblighi per Google",
@@ -16,13 +121,6 @@
       "data": "2026-07-16T14:06:11+00:00"
     },
     {
-      "titolo": "Fiat \"Pandina\" 2028: come sarà l'erede della Panda da 15.000€?",
-      "descrizione": "Meno di 4 metri, cinque posti e linee squadrate ispirate al concept Ippo. Fiat prepara la vera Panda del futuro: un concentrato di razionalità per battere i costi",
-      "link": "https://www.hdmotori.it/fiat-panda-2028-prezzo-caratteristiche-pandina/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T14:00:24+00:00"
-    },
-    {
       "titolo": "L’Odissea di Nolan è un romantico anacronismo nell’era dell’AI",
       "descrizione": "Nolan torna al cinema con la sua visione fuori dal tempo: la vera Odissea è la nostra, siamo noi l'Ulisse in balia di quest'epoca. The post L’Odissea di Nolan è un romantico anacronismo nell’era dell’AI appeared first on",
       "link": "https://www.punto-informatico.it/odissea-nolan-romantico-anacronismo/",
@@ -30,25 +128,11 @@
       "data": "2026-07-16T13:56:39+00:00"
     },
     {
-      "titolo": "Belkin lancia un powerbank / torcia LED con sensore di movimento",
-      "descrizione": "10.000 mAh e 45 W massimi ripartiti tra due porte USB-C.",
-      "link": "https://www.hdblog.it/android/articoli/n664575/belkin-powerbank-torica-sensore-movimento/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:55:00+00:00"
-    },
-    {
       "titolo": "Scienza, il convitato di pietra è l’eccellenza della Cina",
       "descrizione": "Una settimana fa la Cina è riuscita in una notevole impresa spaziale: il booster, la parte inferiore, di un razzo Lunga Marcia 10B lanciato pochi minuti prima, è rientrato verso...",
       "link": "https://www.ilsole24ore.com/art/scienza-convitato-pietra-e-l-eccellenza-cina-AJKGGkI",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-16T13:45:04+00:00"
-    },
-    {
-      "titolo": "Roblox Connect chiude, decisivi lo scarso utilizzo tra gli over 13 e la verifica dell'età",
-      "descrizione": "Stop immediato a Roblox Connect: la piattaforma chiude il servizio di videochat con gli avatar e punta sulla funzione Party Voice.",
-      "link": "https://www.hdblog.it/games/articoli/n664559/roblox-connect-chiude-scarso-utilizzo-verifica-eta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:45:00+00:00"
     },
     {
       "titolo": "Ridisegnare le città ibridando natura e tecnologia",
@@ -72,34 +156,6 @@
       "data": "2026-07-16T13:43:08+00:00"
     },
     {
-      "titolo": "TSMC investe altri 100 miliardi di dollari nelle fonderie statunitensi",
-      "descrizione": "Gli USA sempre più forti nello scenario globale dei semiconduttori.",
-      "link": "https://www.hdblog.it/business/articoli/n664568/tsmc-100-miliardi-dollari-fonderie-usa-arizona/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:25:00+00:00"
-    },
-    {
-      "titolo": "Il leak di Suno conferma che l'AI è stata addestrata con musica protetta",
-      "descrizione": "La violazione che ha colpito Suno svela strumenti di scraping usati per addestrare l'AI anche con canzoni protette da diritto d'autore.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664511/leak-suno-ai-addestrata-musica-protetta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:20:00+00:00"
-    },
-    {
-      "titolo": "Loewe Antares: il TV OLED 'Made in Germany'",
-      "descrizione": "Loewe presenta Antares, una gamma di TV OLED 4K calibrati singolarmente in Germania che promette di conciliare qualità d'immagine top di gamma e un design personalizzabile fin nei minimi dettagli.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n664510/loewe-antares-tv-oled-made-in-germany/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:10:00+00:00"
-    },
-    {
-      "titolo": "Volvo ci ripensa, clamoroso ritorno delle station wagon in salsa elettrica?",
-      "descrizione": "Non solo SUV per Volvo: il piano europeo prevede il debutto delle nuove EV60 e ES60 elettriche con ricarica ultrarapida a 370 kW e autonomia da record",
-      "link": "https://www.hdmotori.it/ritorno-station-wagon-berline-elettriche-volvo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:00:16+00:00"
-    },
-    {
       "titolo": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
       "descrizione": "1Password wants to solve one of AI's biggest practical problems: secure logins. Its Claude integration can enter passwords and MFA codes without exposing credentials to Anthropic or the model.",
       "link": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
@@ -112,62 +168,6 @@
       "link": "https://www.punto-informatico.it/tiktok-non-protegge-minori-indagine-regno-unito/",
       "fonte": "Punto Informatico",
       "data": "2026-07-16T12:59:44+00:00"
-    },
-    {
-      "titolo": "LEGO Art, in arrivo un enorme set dedicato al quadro più famoso di Klimt",
-      "descrizione": "4.000 pezzi, 60 x 54 cm, 299 euro in Italia. Dal 1° agosto.",
-      "link": "https://www.hdblog.it/giochi/articoli/n664557/lego-quadro-bacio-klimt-pezzi-dimensioni-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T12:45:00+00:00"
-    },
-    {
-      "titolo": "L'Europa vuole ridurre la dipendenza su AI e cloud, ma nell'immediato bisogna scegliere",
-      "descrizione": "L'Europa punta a rafforzare la propria autonomia tecnologica investendo in intelligenza artificiale, infrastrutture cloud, cybersecurity e chip, privilegiando aziende e soluzioni sviluppate nel...",
-      "link": "https://www.hdblog.it/business/articoli/n664553/europa-indipendenza-ai-usa-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T12:15:00+00:00"
-    },
-    {
-      "titolo": "I chatbot AI applicano la censura politica \"al contrario\"?",
-      "descrizione": "L'Oversight Board di Meta osserva che le piattaforme tendono a censurare le richieste di protesta politica in base al Paese OGGETTO della richiesta, non di PROVENIENZA.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664552/chatbot-ai-censura-dissidenza-politica-protesta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T12:05:00+00:00"
-    },
-    {
-      "titolo": "Un altro pilastro dell'industria tedesca chiude una fabbrica: 216 dipendenti a casa",
-      "descrizione": "Nuovo colpo per l'industria automobilistica tedesca: Magna anticipa la chiusura della fabbrica di Dorfprozelten nonostante l'accordo con i sindacati",
-      "link": "https://www.hdmotori.it/magna-chiude-fabbrica/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T12:00:47+00:00"
-    },
-    {
-      "titolo": "Prusa Research Founder Edition INDX launches — limited 1,000-unit run of revolutionary toolchanger mod now shipping",
-      "descrizione": "One thousand Prusa CORE One INDX Founder’s Editions have shipped, giving a lucky few first access to Bondtech’s revolutionary toolchanger mod. The Founders Edition is a special limited run, intended for early adopters an",
-      "link": "https://www.tomshardware.com/3d-printing/prusa-research-founder-edition-indx-launches-limited-1-000-unit-run-of-revolutionary-toolchanger-mod-now-shipping",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-16T11:55:55+00:00"
-    },
-    {
-      "titolo": "Ufficiale: OnePlus abbandona il mercato europeo",
-      "descrizione": "OnePlus ha confermato l'addio ufficiale al mercato europeo, quindi non annuncerà nuovi prodotti (ma garantisce il supporto per quelli già in vendita). The post Ufficiale: OnePlus abbandona il mercato europeo appeared fir",
-      "link": "https://www.punto-informatico.it/ufficiale-oneplus-abbandona-mercato-europeo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-16T10:52:15+00:00"
-    },
-    {
-      "titolo": "Spagna – Argentina, come vedere in streaming dall’estero la finale dei Mondiali 2026",
-      "descrizione": "Ecco come seguire in diretta streaming dall'estero Spagna - Argentina, la finale dei Mondiali 2026 in programma il prossimo 19 luglio. The post Spagna – Argentina, come vedere in streaming dall’estero la finale dei Mondi",
-      "link": "https://www.punto-informatico.it/spagna-argentina-come-vedere-in-streaming-dallestero-la-finale-dei-mondiali-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-16T10:40:15+00:00"
-    },
-    {
-      "titolo": "Se riconosci questa collina, probabilmente hai più di 40 anni",
-      "descrizione": "La collina dello sfondo di Windows XP è cambiata nel tempo: com'è diventata oggi, quasi irriconoscibile rispetto al famoso wallpaper. The post Se riconosci questa collina, probabilmente hai più di 40 anni appeared first",
-      "link": "https://www.punto-informatico.it/se-riconosci-questa-collina-probabilmente-hai-piu-di-40-anni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-16T09:52:38+00:00"
     }
   ]
 }

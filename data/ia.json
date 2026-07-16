@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-16T14:24:55.001973+00:00",
+  "last_updated": "2026-07-16T19:34:45.229168+00:00",
   "items": [
     {
-      "titolo": "Il leak di Suno conferma che l'AI è stata addestrata con musica protetta",
-      "descrizione": "La violazione che ha colpito Suno svela strumenti di scraping usati per addestrare l'AI anche con canzoni protette da diritto d'autore.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664511/leak-suno-ai-addestrata-musica-protetta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T13:20:00+00:00",
+      "titolo": "Neural atom quantum computing roadmap — how laser-cooled trapped atoms could pave the path beyond physical qubit counts",
+      "descrizione": "Neural Atom Quantum Computing is a rapidly accelerating part of the Quantum puzzle. Featuring software-defined configurable arrays, qubits can be physically moved mid-computation, and this roadmap highlights three leadin",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/neural-atom-quantum-computing-roadmap-how-laser-cooled-trapped-atoms-could-pave-the-path-beyond-physical-qubit-counts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-16T16:52:54+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude Corps will pay $85,000 to 1,000 early-career professionals - apply now",
-      "descrizione": "The Claude Corps fellowship matches professionals with partner nonprofits and pays them with benefits. But the deadline ends soon.",
-      "link": "https://www.zdnet.com/article/anthropic-claude-corps-pays-early-career-professionals-apply-now/",
-      "fonte": "Latest news",
-      "data": "2026-07-16T13:47:00+00:00",
+      "titolo": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "descrizione": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "fonte": "WIRED",
+      "data": "2026-07-16T18:35:18+00:00",
       "modello": "claude"
     }
   ]
