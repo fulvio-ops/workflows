@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-15T19:37:27.795229+00:00",
+  "last_updated": "2026-07-16T03:39:44.210818+00:00",
   "items": [
+    {
+      "titolo": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
+      "descrizione": "The Trump administration has not disclosed its cost estimates for the Iran war.",
+      "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+      "fonte": "WIRED",
+      "data": "2026-07-15T21:00:00+00:00"
+    },
+    {
+      "titolo": "5 smart home gadgets I consider completely non-negotiable - and why",
+      "descrizione": "These smart home gadgets elevate my home and routine. Here's why you may want them too.",
+      "link": "https://www.zdnet.com/article/5-smart-home-gadgets-i-consider-completely-non-negotiable-and-why/",
+      "fonte": "Latest news",
+      "data": "2026-07-15T19:50:18+00:00"
+    },
     {
       "titolo": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'",
       "descrizione": "Chief executive of Nvidia says the company is on track to produce 'giant amounts' of Vera Rubin-based machines, but fails to address rumored delays of Kyber NVL144 racks from 2027 to 2028.",
@@ -154,20 +168,6 @@
       "link": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
       "fonte": "Latest news",
       "data": "2026-07-15T13:27:00+00:00"
-    },
-    {
-      "titolo": "Il drone ucraino che ha colpito la Siberia a 2.500 km",
-      "descrizione": "Com'è fatto e come funziona il drone FP-1 dell'Ucraina che ha colpito una raffineria russa in Siberia a migliaia di chilometri di distanza. The post Il drone ucraino che ha colpito la Siberia a 2.500 km appeared first on",
-      "link": "https://www.punto-informatico.it/drone-ucraino-colpito-siberia-2500-km/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-15T13:03:37+00:00"
-    },
-    {
-      "titolo": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-      "descrizione": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "fonte": "WIRED",
-      "data": "2026-07-15T12:00:00+00:00"
     }
   ]
 }
