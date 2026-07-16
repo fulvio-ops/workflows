@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-16T08:35:16.906682+00:00",
+  "last_updated": "2026-07-16T14:24:55.001973+00:00",
   "items": [
     {
-      "titolo": "Primi test sulle DDR5 CXMT confermano: le RAM cinesi sono ancora indietro",
-      "descrizione": "Resta però da capire: è una soluzione \"Good Enough\" per migliorare la crisi dei chip globale?",
-      "link": "https://www.hdblog.it/hardware/articoli/n664514/ram-ddr5-cxmt-test-overclock-qualita/",
+      "titolo": "Il leak di Suno conferma che l'AI è stata addestrata con musica protetta",
+      "descrizione": "La violazione che ha colpito Suno svela strumenti di scraping usati per addestrare l'AI anche con canzoni protette da diritto d'autore.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664511/leak-suno-ai-addestrata-musica-protetta/",
       "fonte": "HDblog.it",
-      "data": "2026-07-16T08:15:00+00:00",
+      "data": "2026-07-16T13:20:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google mostra Pixel Glow in azione su Pixel 11",
-      "descrizione": "Il nuovo teaser di Pixel 11 mostra Pixel Glow sul retro dello smartphone, il LED RGB che si illumina per notifiche e funzioni AI di Gemini. The post Google mostra Pixel Glow in azione su Pixel 11 appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-pixel-glow-pixel-11/",
+      "titolo": "DMA: Commissione UE annuncia due nuovi obblighi per Google",
+      "descrizione": "La Commissione europea ha imposto a Google di consentire a terzi l'accesso ai dati di ricerca e alle stesse funzionalità di Android usate da Gemini. The post DMA: Commissione UE annuncia due nuovi obblighi per Google app",
+      "link": "https://www.punto-informatico.it/dma-commissione-ue-annuncia-due-nuovi-obblighi-google/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-16T06:05:16+00:00",
+      "data": "2026-07-16T14:06:11+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Thinking Machines Lab Drops Its First Model",
-      "descrizione": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "fonte": "WIRED",
-      "data": "2026-07-15T18:05:00+00:00",
+      "titolo": "Anthropic's Claude Corps will pay $85,000 to 1,000 early-career professionals - apply now",
+      "descrizione": "The Claude Corps fellowship matches professionals with partner nonprofits and pays them with benefits. But the deadline ends soon.",
+      "link": "https://www.zdnet.com/article/anthropic-claude-corps-pays-early-career-professionals-apply-now/",
+      "fonte": "Latest news",
+      "data": "2026-07-16T13:47:00+00:00",
       "modello": "claude"
     }
   ]
