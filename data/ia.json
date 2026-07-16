@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-16T03:39:48.980874+00:00",
+  "last_updated": "2026-07-16T08:35:16.906682+00:00",
   "items": [
     {
-      "titolo": "Thinking Machines Lab Drops Its First Model",
-      "descrizione": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "fonte": "WIRED",
-      "data": "2026-07-15T18:05:00+00:00",
+      "titolo": "Primi test sulle DDR5 CXMT confermano: le RAM cinesi sono ancora indietro",
+      "descrizione": "Resta però da capire: è una soluzione \"Good Enough\" per migliorare la crisi dei chip globale?",
+      "link": "https://www.hdblog.it/hardware/articoli/n664514/ram-ddr5-cxmt-test-overclock-qualita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T08:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "How to use Gemini to plan your next summer vacation - in minutes",
-      "descrizione": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
-      "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
-      "fonte": "Latest news",
-      "data": "2026-07-15T12:58:00+00:00",
+      "titolo": "Google mostra Pixel Glow in azione su Pixel 11",
+      "descrizione": "Il nuovo teaser di Pixel 11 mostra Pixel Glow sul retro dello smartphone, il LED RGB che si illumina per notifiche e funzioni AI di Gemini. The post Google mostra Pixel Glow in azione su Pixel 11 appeared first on Punto",
+      "link": "https://www.punto-informatico.it/google-pixel-glow-pixel-11/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-16T06:05:16+00:00",
       "modello": "gemini"
     },
     {
