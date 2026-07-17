@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-16T19:34:38.833255+00:00",
+  "last_updated": "2026-07-17T03:39:46.182782+00:00",
   "items": [
+    {
+      "titolo": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "descrizione": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "fonte": "WIRED",
+      "data": "2026-07-16T22:17:27+00:00"
+    },
+    {
+      "titolo": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
+      "descrizione": "Foot traffic to leafy green chains is falling, data shows. Still, a few brave souls who spoke to WIRED were determined to get their fix. “I honestly didn’t even think about” the risk of explosive diarrhea, one says.",
+      "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
+      "fonte": "WIRED",
+      "data": "2026-07-16T21:06:59+00:00"
+    },
+    {
+      "titolo": "DAZN: dal prossimo 16 agosto aumentano i prezzi dei piani Full e Family, per tutti",
+      "descrizione": "Anche i già clienti verranno allineati al listino attuale",
+      "link": "https://www.hdblog.it/mercato/articoli/n664613/dazn-aumenta-prezzo-full-mensile/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T20:25:00+00:00"
+    },
+    {
+      "titolo": "Abbiamo provato lo smartphone pieghevole dalle specifiche incredibili ed arriva in Italia | Video",
+      "descrizione": "Sta per arrivare in Italia un pieghevole \"da record\", con super fotocamere e la batteria più grande su questa particolare tipologia di smartphone. Basterà?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n663609/anteprima-vivo-x-fold-6-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-16T19:00:00+00:00"
+    },
     {
       "titolo": "Everyone Thinks They Have the Diarrhea Parasite",
       "descrizione": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it.",
@@ -100,20 +128,6 @@
       "data": "2026-07-16T14:45:00+00:00"
     },
     {
-      "titolo": "Abbiamo provato lo smartphone pieghevole dalle specifiche incredibili ed arriva in Italia | Video",
-      "descrizione": "Sta per arrivare in Italia un pieghevole \"da record\", con super fotocamere e la batteria più grande su questa particolare tipologia di smartphone. Basterà?",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n663609/anteprima-vivo-x-fold-6-test-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T14:31:00+00:00"
-    },
-    {
-      "titolo": "\"Bliss\", com'è cambiata la mitica collina di Windows XP nel corso degli anni",
-      "descrizione": "Una retrospettiva in occasione del trentennale dello scatto della foto.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664584/windows-xp-immagine-sfondo-collina-30-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-16T14:25:00+00:00"
-    },
-    {
       "titolo": "DMA: Commissione UE annuncia due nuovi obblighi per Google",
       "descrizione": "La Commissione europea ha imposto a Google di consentire a terzi l'accesso ai dati di ricerca e alle stesse funzionalità di Android usate da Gemini. The post DMA: Commissione UE annuncia due nuovi obblighi per Google app",
       "link": "https://www.punto-informatico.it/dma-commissione-ue-annuncia-due-nuovi-obblighi-google/",
@@ -154,20 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/l-ibridazione-necessaria-tecnologie-e-sanita-AJ61xvC",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-16T13:43:08+00:00"
-    },
-    {
-      "titolo": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
-      "descrizione": "1Password wants to solve one of AI's biggest practical problems: secure logins. Its Claude integration can enter passwords and MFA codes without exposing credentials to Anthropic or the model.",
-      "link": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
-      "fonte": "Latest news",
-      "data": "2026-07-16T13:00:04+00:00"
-    },
-    {
-      "titolo": "TikTok non protegge i minori: indagine nel Regno Unito",
-      "descrizione": "Ofcom ha avviato un'indagine nei confronti di TikTok perché non impedisce l'accesso dei minori a contenuti dannosi e la verifica dell'età non funziona. The post TikTok non protegge i minori: indagine nel Regno Unito appe",
-      "link": "https://www.punto-informatico.it/tiktok-non-protegge-minori-indagine-regno-unito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-16T12:59:44+00:00"
     }
   ]
 }
