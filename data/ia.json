@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-07-17T08:28:59.360239+00:00",
+  "last_updated": "2026-07-17T14:04:34.320606+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ricorderà agli adolescenti di fare una pausa",
-      "descrizione": "ChatGPT si aggiorna con strumenti dedicati ai minori, come i promemoria per le pause, i nuovi controlli parentali e la Modalità Studio. The post ChatGPT ricorderà agli adolescenti di fare una pausa appeared first on Punt",
-      "link": "https://www.punto-informatico.it/chatgpt-ricordera-adolescenti-fare-pausa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T07:51:58+00:00",
+      "titolo": "Coca-Cola colpita da un ransomware: stop alla produzione delle bevande Fairlife",
+      "descrizione": "In corso indagini interne per capire la natura dell’attacco.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n664683/coca-cola-colpita-da-ransomware-societa-fairlife/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T13:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google rallenta Gemini 3.5 Pro: il problema è il codice",
-      "descrizione": "Google rinvia Gemini 3.5 Pro mentre cerca di migliorarne le prestazioni nel coding.",
-      "link": "https://www.hdblog.it/google/articoli/n664629/google-gemini-3-5-pro-ritardo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T08:10:00+00:00",
+      "titolo": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "descrizione": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "link": "https://www.wired.com/story/best-smart-speakers/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T12:01:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude e 1Password: l'accesso sicuro agli account passa all'AI",
-      "descrizione": "Claude può usare le credenziali di 1Password senza vedere password e codici MFA.",
-      "link": "https://www.hdblog.it/mac-os/articoli/n664615/claude-1password-password-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T05:45:00+00:00",
+      "titolo": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
+      "descrizione": "Beijing-based Moonshot AI has released Kimi K3, a 2.8 trillion parameter model that the company describes in its technical blog as the world's first open 3T-class system.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-17T11:32:01+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Bugatti dice addio alla sua regina, esce di scena la W16 Mistral",
+      "descrizione": "Una ultima W16 Mistral è stata esposta di recente fuori dall'Atelier di Molsheim, mettendo la parola fine alla cabriolet Bugatti con motore W16",
+      "link": "https://www.hdmotori.it/bugatti-uscita-scena-w16-mistral/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T13:30:44+00:00",
+      "modello": "altri"
     }
   ]
 }
