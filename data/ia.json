@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-17T03:39:49.721530+00:00",
+  "last_updated": "2026-07-17T08:28:59.360239+00:00",
   "items": [
     {
-      "titolo": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "descrizione": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "fonte": "WIRED",
-      "data": "2026-07-16T22:17:27+00:00",
+      "titolo": "ChatGPT ricorderà agli adolescenti di fare una pausa",
+      "descrizione": "ChatGPT si aggiorna con strumenti dedicati ai minori, come i promemoria per le pause, i nuovi controlli parentali e la Modalità Studio. The post ChatGPT ricorderà agli adolescenti di fare una pausa appeared first on Punt",
+      "link": "https://www.punto-informatico.it/chatgpt-ricordera-adolescenti-fare-pausa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T07:51:58+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "DMA: Commissione UE annuncia due nuovi obblighi per Google",
-      "descrizione": "La Commissione europea ha imposto a Google di consentire a terzi l'accesso ai dati di ricerca e alle stesse funzionalità di Android usate da Gemini. The post DMA: Commissione UE annuncia due nuovi obblighi per Google app",
-      "link": "https://www.punto-informatico.it/dma-commissione-ue-annuncia-due-nuovi-obblighi-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-16T14:06:11+00:00",
+      "titolo": "Google rallenta Gemini 3.5 Pro: il problema è il codice",
+      "descrizione": "Google rinvia Gemini 3.5 Pro mentre cerca di migliorarne le prestazioni nel coding.",
+      "link": "https://www.hdblog.it/google/articoli/n664629/google-gemini-3-5-pro-ritardo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T08:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "descrizione": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "fonte": "WIRED",
-      "data": "2026-07-16T22:17:27+00:00",
+      "titolo": "Claude e 1Password: l'accesso sicuro agli account passa all'AI",
+      "descrizione": "Claude può usare le credenziali di 1Password senza vedere password e codici MFA.",
+      "link": "https://www.hdblog.it/mac-os/articoli/n664615/claude-1password-password-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T05:45:00+00:00",
       "modello": "claude"
     }
   ]
