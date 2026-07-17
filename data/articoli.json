@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-17T14:04:29.961707+00:00",
+  "last_updated": "2026-07-17T19:33:55.359588+00:00",
   "items": [
+    {
+      "titolo": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+      "descrizione": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
+      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T19:17:46+00:00"
+    },
+    {
+      "titolo": "Nubia Air, lo smartphone ultra-sottile è in offerta a 140 euro su eBay",
+      "descrizione": "Per chi vuole provare l'esperienza d'uso di uno smartphone con uno spessore inferiore ai 6 millimetri.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664717/nubia-air-256gb-offerta-psprlug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T19:10:00+00:00"
+    },
+    {
+      "titolo": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+      "descrizione": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T18:30:00+00:00"
+    },
+    {
+      "titolo": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
+      "descrizione": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
+      "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T17:47:05+00:00"
+    },
+    {
+      "titolo": "God of War, Kratos si fa male: Ryan Hurst lascia il ruolo nella serie",
+      "descrizione": "Un brutto infortunio.",
+      "link": "https://www.hdblog.it/games/articoli/n664708/god-of-war-serie-prime-video-kratos-ryan-hurst/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T17:25:00+00:00"
+    },
+    {
+      "titolo": "‘The Odyssey’ Backlash Failed Tremendously",
+      "descrizione": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
+      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T17:09:13+00:00"
+    },
+    {
+      "titolo": "Engie PuntoFisso 12 Mesi: bollette bloccate per un anno, conviene davvero?",
+      "descrizione": "Fino al 22 luglio è possibile bloccare il prezzo di luce e gas con Engie Energia PuntoFisso: ne vale la pena? The post Engie PuntoFisso 12 Mesi: bollette bloccate per un anno, conviene davvero? appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/engie-puntofisso-12-mesi-bollette-bloccate-per-un-anno-conviene-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T16:34:58+00:00"
+    },
+    {
+      "titolo": "Signal testa l’uso dello stesso account su due telefoni Android",
+      "descrizione": "La beta di Signal permette di collegare un telefono o tablet Android come dispositivo secondario con la cronologia della chat sincronizzata. The post Signal testa l’uso dello stesso account su due telefoni Android appear",
+      "link": "https://www.punto-informatico.it/signal-testa-uso-stesso-account-due-telefoni-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T16:20:34+00:00"
+    },
+    {
+      "titolo": "Huawei Mate XT 2: il brevetto svela design e nuovo meccanismo di piegatura",
+      "descrizione": "Huawei Mate XT 2 potrebbe arrivare ad ottobre con piegatura interna, schermo esterno e batteria superiore ai 6.000 mAh.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664661/huawei-mate-xt-2-leak-brevetto/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T16:15:00+00:00"
+    },
+    {
+      "titolo": "Roma, i bus elettrici si fermano ancora: batterie ko per il troppo caldo",
+      "descrizione": "I condizionatori al massimo tagliano l'autonomia dei nuovi mezzi Atac. Decine di rientri anticipati nei depositi, ma l'azienda assicura: \"Nessuna linea tagliata\"",
+      "link": "https://www.hdmotori.it/roma-bus-elettrici-atac-caldo-batterie/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T16:00:26+00:00"
+    },
+    {
+      "titolo": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
+      "descrizione": "ASML says that the increased productivity of its Low-NA EUV tools gives it an option to increase the prices of these scanners in the future. The move may have a drastic effect on TSMC's future expansion plans, as the fou",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-17T15:57:16+00:00"
+    },
+    {
+      "titolo": "CrashStealer ruba dati e criptovalute su macOS",
+      "descrizione": "CrashStealer è un nuovo malware per macOS che permette ai cybercriminali di rubare credenziali e di accedere ai walllet di criptovalute. The post CrashStealer ruba dati e criptovalute su macOS appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/crashstealer-ruba-dati-e-criptovalute-su-macos/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T15:43:51+00:00"
+    },
+    {
+      "titolo": "5 prompt di ChatGPT per pianificare le vacanze estive perfette",
+      "descrizione": "5 prompt per ChatGPT che coprono ogni tipo di vacanza estiva, dalla fuga in solitaria al viaggio con la famiglia. The post 5 prompt di ChatGPT per pianificare le vacanze estive perfette appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/5-prompt-chatgpt-pianificare-vacanze-estive-perfette/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T15:30:28+00:00"
+    },
+    {
+      "titolo": "La Condizione del Gambero, documentario italiano girato con iPhone 15 Pro Max",
+      "descrizione": "Il cortometraggio documentaristico su Kayros #shotoniPhone da due registi italiani",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664692/condizione-del-gambero-documentario-italiano/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T15:10:00+00:00"
+    },
+    {
+      "titolo": "Sihoo Doro C300 Pro V2 in offerta: una sedia ergonomica per chi lavora al PC",
+      "descrizione": "La poltrona da ufficio ergonomica Sihoo Doro C300 Pro V2 è in Summer Sale fino al 22 luglio: scopri il codice esclusivo per i lettori di Punto Informatico. The post Sihoo Doro C300 Pro V2 in offerta: una sedia ergonomica",
+      "link": "https://www.punto-informatico.it/sihoo-doro-c300-pro-v2-in-offerta-una-sedia-ergonomica-per-chi-lavora-al-pc/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T15:01:28+00:00"
+    },
+    {
+      "titolo": "Lamborghini snobba il cambio manuale, non tornerà sulle prossime supercar",
+      "descrizione": "La Casa di Sant’Agata Bolognese ha imboccato una strada contraria al rilancio del cambio manuale, seguendo il diktat della sua divisione motorsport",
+      "link": "https://www.hdmotori.it/lamborghini-snobba-il-cambio-manuale-non-tornera-sulle-prossime-supercar/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T15:00:20+00:00"
+    },
+    {
+      "titolo": "Il drone invisibile esiste e si chiama Phantom Twist",
+      "descrizione": "Un team di ricercatori ha creato Phantom Twist, il drone che sfrutta la velocità di rotazione per confondersi con l'ambiente circostante. The post Il drone invisibile esiste e si chiama Phantom Twist appeared first on Pu",
+      "link": "https://www.punto-informatico.it/drone-invisibile-phantom-twist/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T14:52:20+00:00"
+    },
+    {
+      "titolo": "Recensione Nothing Phone 4(b), la concorrenza è in casa ed è spietata | Video",
+      "descrizione": "Abbiamo provato il nuovo Nothing Phone 4(b) e la domanda che ci siamo posti è: ha senso nella line-up di Nothing? La risposta è sì, ma ad una condizione...",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n664397/nothing-phone-4b-test-prova-prezzo-offerte-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T14:31:00+00:00"
+    },
+    {
+      "titolo": "Stop ai motori termici, si prevedono fino a 726.000 posti di lavoro a rischio in Europa",
+      "descrizione": "Uno studio del Fraunhofer IAO analizza gli effetti della transizione verso l'elettrico, stimando un forte impatto su valore industriale e occupazione in Europa",
+      "link": "https://www.hdmotori.it/stop-motori-termici-perdita-posti-lavoro-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T14:30:40+00:00"
+    },
+    {
+      "titolo": "Best Back to School tech deals on laptops and essential tech — save on new semester essentials now",
+      "descrizione": "Grab savings on the best back-to-school tech deals.",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-back-to-school-tech-deals-on-laptops-and-essential-tech-save-on-new-semester-essentials-now",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-17T14:29:45+00:00"
+    },
+    {
+      "titolo": "Data center vietati nello Stato di New York per un anno",
+      "descrizione": "Lo Stato di New York ha bloccato la costruzione di nuovi data center da oltre 50 MW per un anno, in quanto consumano troppa energia e acqua. The post Data center vietati nello Stato di New York per un anno appeared first",
+      "link": "https://www.punto-informatico.it/data-center-vietati-stato-new-york-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T14:21:55+00:00"
+    },
+    {
+      "titolo": "Disney+ ripropone l’offerta di 3 mesi a prezzo scontato (scade il 28 luglio)",
+      "descrizione": "I prezzi dei piani mensili partono da 4,99 euro al mese per tre mesi, poi 6,99 euro al mese senza vincoli. The post Disney+ ripropone l’offerta di 3 mesi a prezzo scontato (scade il 28 luglio) appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/disney-plus-offerta-3-mesi-fino-al-28-luglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T14:17:13+00:00"
+    },
     {
       "titolo": "iPhone 17, AirPods Pro 3 e NO IVA MediaWorld: le migliori offerte del 17 luglio",
       "descrizione": "Amazon e MediaWorld accendono il weekend con sconti su iPhone 17, AirPods Pro 3, Apple Watch Ultra 3, TV Sony e accessori tech.",
@@ -13,161 +167,7 @@
       "descrizione": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
       "link": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
       "fonte": "Latest news",
-      "data": "2026-07-17T13:03:27+00:00"
-    },
-    {
-      "titolo": "Suzuki Hayabusa 2027: come cambia la regina delle maximoto (e arriva una Special Edition)",
-      "descrizione": "Debutta la Suzuki Hayabusa 2027: la sportiva giapponese si rinnova con una nuova Special Edition e mantiene il celebre quattro cilindri da 1.340 cc",
-      "link": "https://www.hdmotori.it/suzuki-hayabusa-2027-come-cambia-e-special-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T13:00:15+00:00"
-    },
-    {
-      "titolo": "X usa Grok per trovare i contenuti rubati e premia gli autori originali",
-      "descrizione": "X aggiorna il programma creator: Grok rileva i contenuti duplicati, penalizza chi copia e trasferisce i guadagni ai creatori originali. The post X usa Grok per trovare i contenuti rubati e premia gli autori originali app",
-      "link": "https://www.punto-informatico.it/x-usa-grok-trovare-contenuti-rubati-premia-autori-originali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T12:51:57+00:00"
-    },
-    {
-      "titolo": "WhatsApp attiva i nomi utente, qualcuno li può già usare",
-      "descrizione": "Prosegue il rollout graduale dei nomi utente su WhatsApp: la funzione permette di avviare chat senza scambiare il numero di telefono. The post WhatsApp attiva i nomi utente, qualcuno li può già usare appeared first on Pu",
-      "link": "https://www.punto-informatico.it/whatsapp-attiva-nomi-utente-qualcuno-puo-gia-usare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T12:41:07+00:00"
-    },
-    {
-      "titolo": "AI data centers must produce as much power as they use, Australia PM says — new national AI framework will also ensure water efficiency and protect intellectual property rights",
-      "descrizione": "Australian Prime Minister Anthony Albanese announced the \"Australian Standards for A.I.,\" which will serve as a national framework for data center developments related to AI. The government plans to set this legislative",
-      "link": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-17T12:16:03+00:00"
-    },
-    {
-      "titolo": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
-      "descrizione": "We consulted preparedness experts and WIRED’s team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
-      "link": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T12:06:00+00:00"
-    },
-    {
-      "titolo": "RedMagic Astra 2 ufficiale: tablet gaming compatto con display OLED a 185Hz",
-      "descrizione": "Arriva anche in Italia",
-      "link": "https://www.hdblog.it/tablet/articoli/n664644/redmagic-astra-2-ufficiale-tablet-gaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T12:01:00+00:00"
-    },
-    {
-      "titolo": "Esodo estivo 2026, Anas ferma i cantieri: la mossa salva-vacanze",
-      "descrizione": "Stop ai cantieri e nuove campagne contro cellulari alla guida e abbandono di animali: Anas vara il piano per l'esodo estivo 2026. Tutte le misure per viaggiare sicuri.",
-      "link": "https://www.hdmotori.it/esodo-estivo-2026-piano-anas-traffico/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T12:00:04+00:00"
-    },
-    {
-      "titolo": "iPhone 17 Pro: il top di gamma di Apple è scontato di 250€ (listino)",
-      "descrizione": "Diminuisce il prezzo di iPhone 17 Pro, il top di gamma di Apple con A19 Pro, nuove fotocamere e una batteria più capiente.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664669/iphone-17-pro-sconto-ebay-con-codice-promo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T11:58:00+00:00"
-    },
-    {
-      "titolo": "Macchia rossa sul display di Galaxy S26 Ultra: per Samsung è un bug del software",
-      "descrizione": "La macchia rossa sul display di Samsung Galaxy S26 Ultra sembra essere un problema software facilmente risolvibile.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664650/samsung-galaxy-s26-ultra-macchia-rossa-display/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T11:55:00+00:00"
-    },
-    {
-      "titolo": "Ring manda un sorvegliante a casa in caso di allarme",
-      "descrizione": "Ring lancia Guard Response nel Regno Unito, un servizio in abbonamento che permette di inviare una guardia autorizzata quando videocamere, videocitofoni o l'allarme rilevano un possibile problema",
-      "link": "https://www.hdblog.it/home/articoli/n664672/ring-guardia-privata-intervento-costo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T11:45:00+00:00"
-    },
-    {
-      "titolo": "Google dice addio a NotebookLM: ora si chiama Gemini Notebook",
-      "descrizione": "Google ha rinominato NotebookLM in Gemini Notebook per integrarlo meglio nell'ecosistema Gemini. Il servizio resta autonomo, ma sarà sempre più collegato agli strumenti AI di Mountain View",
-      "link": "https://www.hdblog.it/google/articoli/n664667/notebooklm-diventa-gemini-notebook/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T11:10:00+00:00"
-    },
-    {
-      "titolo": "Hyundai IONIQ 5 MY27: nuova gamma, più tecnologia e prezzi da 42.800 euro",
-      "descrizione": "La Hyundai IONIQ 5 MY27 rinnova la gamma con più tecnologia, sistemi di sicurezza evoluti e autonomia fino a 570 km secondo il ciclo WLTP",
-      "link": "https://www.hdmotori.it/hyundai-ioniq-5-my27-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T11:00:17+00:00"
-    },
-    {
-      "titolo": "Casio celebra i 20 anni di Mother 3 con un G-Shock giallo in edizione limitata",
-      "descrizione": "In edizione limitata, venduto esclusivamente in Giappone",
-      "link": "https://www.hdblog.it/indossabili/articoli/n664666/casio-celebra-20-anni-mother-3-g-shock/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T10:35:00+00:00"
-    },
-    {
-      "titolo": "Acquisti senza interessi fino a 55 giorni con la carta di credito di TF Bank",
-      "descrizione": "In più si aggiungono la quota annuale gratuita, l'assicurazione di viaggio completa e l'assenza di commissioni sul cambio valuta. The post Acquisti senza interessi fino a 55 giorni con la carta di credito di TF Bank appe",
-      "link": "https://www.punto-informatico.it/fintech/carte/acquisti-senza-interessi-fino-a-55-giorni-carta-di-credito-tf-bank/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T10:33:00+00:00"
-    },
-    {
-      "titolo": "Gioco d’azzardo: Google è responsabile per i video di YouTube",
-      "descrizione": "Secondo la sentenza della Corte di Giustizia dell'Unione Europea, Google è responsabile per i video che promuovono giochi d'azzardo su YouTube. The post Gioco d’azzardo: Google è responsabile per i video di YouTube appea",
-      "link": "https://www.punto-informatico.it/gioco-azzardo-google-responsabile-video-youtube/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T10:30:31+00:00"
-    },
-    {
-      "titolo": "ASML looks to increase prices of its Low-NA EUV tools beyond existing productivity-based model — company wants to capture the value of all the advantages its tools offer, not just wafer throughput improvements",
-      "descrizione": "ASML's comments point to intentions to increase prices, though the company is expected to maintain its value-based approach to price setting. Yet, TSMC is reportedly unhappy about the potential plan.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-looks-to-increase-prices-of-its-low-na-euv-tools-beyond-existing-productivity-based-model-company-wants-to-capture-the-value-of-all-the-advantages-its-tools-offer-not-just-wafer-throughput-improvements",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-17T10:30:00+00:00"
-    },
-    {
-      "titolo": "Ristrutturazioni: da agosto bisognerà prevedere una quota di energia green",
-      "descrizione": "La legge 5/2026 recepisce la direttiva europea RED III e impone l'uso di energie rinnovabili in molte ristrutturazioni edilizie. Coinvolti impianti termici, acqua calda e climatizzazione",
-      "link": "https://www.hdblog.it/home/articoli/n664664/ristrutturazioni-casa-agosto-energia-obblighi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T10:20:00+00:00"
-    },
-    {
-      "titolo": "Roblox lancia Build per creare giochi dal telefono con un prompt AI",
-      "descrizione": "Build di Roblox genera giochi completi da un prompt. Gameplay, ambiente, personaggi e suoni, tutto generato dall'AI. The post Roblox lancia Build per creare giochi dal telefono con un prompt AI appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/roblox-build-creare-giochi-telefono-prompt-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-17T10:10:50+00:00"
-    },
-    {
-      "titolo": "LG Signature Oled T, il televisore trasparente da 50.000 euro arriva in Italia",
-      "descrizione": "Può essere acquistato da oggi, solo su ordinazione",
-      "link": "https://www.hdblog.it/tv/articoli/n664657/lg-signature-oled-t-arriva-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T10:10:00+00:00"
-    },
-    {
-      "titolo": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates — 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility",
-      "descrizione": "Mario Kart Wiicompiled, a claimed 'first static recompilation of a Wii game,' is scheduled to be released in August.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-17T10:00:33+00:00"
-    },
-    {
-      "titolo": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials",
-      "descrizione": "The problem is an over-permissive AWS IoT policy.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-17T10:00:00+00:00"
-    },
-    {
-      "titolo": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "descrizione": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T10:00:00+00:00"
+      "data": "2026-07-17T13:03:00+00:00"
     }
   ]
 }

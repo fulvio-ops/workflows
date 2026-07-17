@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-17T14:04:34.320606+00:00",
+  "last_updated": "2026-07-17T19:34:01.032589+00:00",
   "items": [
     {
-      "titolo": "Coca-Cola colpita da un ransomware: stop alla produzione delle bevande Fairlife",
-      "descrizione": "In corso indagini interne per capire la natura dell’attacco.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664683/coca-cola-colpita-da-ransomware-societa-fairlife/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T13:25:00+00:00",
+      "titolo": "5 prompt di ChatGPT per pianificare le vacanze estive perfette",
+      "descrizione": "5 prompt per ChatGPT che coprono ogni tipo di vacanza estiva, dalla fuga in solitaria al viaggio con la famiglia. The post 5 prompt di ChatGPT per pianificare le vacanze estive perfette appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/5-prompt-chatgpt-pianificare-vacanze-estive-perfette/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-17T15:30:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-      "descrizione": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
-      "link": "https://www.wired.com/story/best-smart-speakers/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T12:01:00+00:00",
+      "titolo": "Google Vids si evolve con Gemini Omni: arrivano gli avatar “personali”",
+      "descrizione": "Pochi clic per creare video con il proprio avatar.",
+      "link": "https://www.hdblog.it/google/articoli/n664702/google-vids-arrivano-gemini-omni-avatar-personali/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-17T17:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
-      "descrizione": "Beijing-based Moonshot AI has released Kimi K3, a 2.8 trillion parameter model that the company describes in its technical blog as the world's first open 3T-class system.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-17T11:32:01+00:00",
+      "titolo": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
+      "descrizione": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "fonte": "Latest news",
+      "data": "2026-07-17T17:35:00+00:00",
       "modello": "claude"
     },
     {
