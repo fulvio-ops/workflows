@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:51:30.099491+00:00",
+  "last_updated": "2026-07-18T19:33:21.959930+00:00",
   "items": [
     {
       "titolo": "Xiaomi Redmi Watch 5 Lite: ottimo smartwatch senza spendere un capitale",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic: in trattative per potenza di calcolo di Meta, accordo da 10 mld $",
-      "descrizione": "Anthropic sarebbe in trattative per acquisire potenza di calcolo da Meta, secondo quanto riferito dal New York Times e dalla Cnbc. L’accordo potrebbe valere fino a 10 miliardi di dollari...",
-      "link": "https://www.ilsole24ore.com/art/anthropic-trattative-potenza-calcolo-meta-accordo-10-mld-$-AJem9nN",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-17T20:01:24+00:00",
+      "titolo": "Claude per Chrome consente di eseguire azioni pericolose",
+      "descrizione": "Una vulnerabilità di Claude per Chrome può essere sfruttata da estensioni infette per accedere ai dati dell'utente conservati dai servizi di Google. The post Claude per Chrome consente di eseguire azioni pericolose appea",
+      "link": "https://www.punto-informatico.it/claude-chrome-consente-eseguire-azioni-pericolose/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-18T15:08:35+00:00",
       "modello": "claude"
     },
     {
