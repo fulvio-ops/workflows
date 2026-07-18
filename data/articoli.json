@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-17T19:33:55.359588+00:00",
+  "last_updated": "2026-07-18T03:33:59.426803+00:00",
   "items": [
+    {
+      "titolo": "Anthropic: in trattative per potenza di calcolo di Meta, accordo da 10 mld $",
+      "descrizione": "Anthropic sarebbe in trattative per acquisire potenza di calcolo da Meta, secondo quanto riferito dal New York Times e dalla Cnbc. L’accordo potrebbe valere fino a 10 miliardi di dollari...",
+      "link": "https://www.ilsole24ore.com/art/anthropic-trattative-potenza-calcolo-meta-accordo-10-mld-$-AJem9nN",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-17T20:01:24+00:00"
+    },
+    {
+      "titolo": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+      "descrizione": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
+      "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+      "fonte": "WIRED",
+      "data": "2026-07-17T19:50:38+00:00"
+    },
     {
       "titolo": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
       "descrizione": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/disney-plus-offerta-3-mesi-fino-al-28-luglio/",
       "fonte": "Punto Informatico",
       "data": "2026-07-17T14:17:13+00:00"
-    },
-    {
-      "titolo": "iPhone 17, AirPods Pro 3 e NO IVA MediaWorld: le migliori offerte del 17 luglio",
-      "descrizione": "Amazon e MediaWorld accendono il weekend con sconti su iPhone 17, AirPods Pro 3, Apple Watch Ultra 3, TV Sony e accessori tech.",
-      "link": "https://www.hdblog.it/amazon/offerte/n664674/offerte-tech-17-luglio-2026-amazon-mediaworld-no-i/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T13:05:00+00:00"
-    },
-    {
-      "titolo": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-      "descrizione": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
-      "link": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
-      "fonte": "Latest news",
-      "data": "2026-07-17T13:03:00+00:00"
     }
   ]
 }
