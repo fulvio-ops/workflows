@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-07-19T08:33:54.774030+00:00",
+  "last_updated": "2026-07-19T13:55:10.015196+00:00",
   "items": [
+    {
+      "titolo": "Russian drones spotted using screwed-on magnetic compasses as navigation aids — the on-board camera can occasionally tilt down to check bearings if satellite comms are lost",
+      "descrizione": "Russian drone troops are adding cheap magnetic compasses to help find their bearings. Crude add-on helps them find their bearings and locate their targets even without GPS.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/russian-drones-spotted-using-screwed-on-magnetic-compasses-as-navigation-aids-the-on-board-camera-can-occasionally-tilt-down-to-check-bearings-if-satellite-comms-are-lost",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-19T12:05:34+00:00"
+    },
+    {
+      "titolo": "Motorola edge 70 max: autonomia superiore a 3 giorni",
+      "descrizione": "Il nuovo Motorola edge 70 max ha uno schermo AMOLED da 6,82 pollici, processore Snapdragon 8 Gen 5, 8 GB di RAM, batteria da 7.100 mAh e Android 16. The post Motorola edge 70 max: autonomia superiore a 3 giorni appeared",
+      "link": "https://www.punto-informatico.it/motorola-edge-70-max-autonomia-superiore-3-giorni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T11:15:26+00:00"
+    },
+    {
+      "titolo": "Due studenti creano un filtro di scarico che trasforma le emissioni in ossigeno",
+      "descrizione": "Due studenti della Pennsylvania hanno sviluppato un filtro di scarico con microalghe che promette di ridurre le emissioni dei veicoli fino al 74% nei test",
+      "link": "https://www.hdmotori.it/filtro-scarico-trasforma-emissioni-ossigeno/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-19T11:00:14+00:00"
+    },
+    {
+      "titolo": "Galaxy Z Fold8 e Z Flip8: nuovi dettagli prima del lancio",
+      "descrizione": "In attesa dell'annuncio ufficiale previsto a Londra il 22 luglio, ecco alcune immagini dei Samsung Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8. The post Galaxy Z Fold8 e Z Flip8: nuovi dettagli prima del lancio appeared firs",
+      "link": "https://www.punto-informatico.it/galaxy-z-fold8-z-flip8-nuovi-dettagli-prima-lancio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T10:21:11+00:00"
+    },
+    {
+      "titolo": "Crazed enthusiast runs PC on 192 AA batteries, successfully boots into Hannah Montana Linux — System is stable during stress testing and even plays FreeDoom",
+      "descrizione": "A creator by the name of \"Uwoslab\" just jerry-rigged three battery banks together, each made up of 64 AA Alkaline cells, to form a giant 192-cell array that's enough to power an AM4 system.",
+      "link": "https://www.tomshardware.com/desktops/pc-building/crazed-enthusiast-runs-pc-on-192-aa-batteries-successfully-boots-into-hannah-montana-linux-system-is-stable-during-stress-testing-and-even-plays-freedoom",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-19T10:00:00+00:00"
+    },
+    {
+      "titolo": "Apple e Google devono rimuovere 13 app di nudificazione",
+      "descrizione": "Il Procuratore Generale della California ha ordinato a Apple e Google di rimuovere dagli store 13 app che sfruttano l'AI per creare deepfake sessuali. The post Apple e Google devono rimuovere 13 app di nudificazione appe",
+      "link": "https://www.punto-informatico.it/apple-google-devono-rimuovere-13-app-nudificazione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T09:07:20+00:00"
+    },
     {
       "titolo": "La NASA porterà il 4K sulla Luna grazie a Starlink: ecco cosa vedremo",
       "descrizione": "Artemis III userà i laser di Starlink per inviare immagini 4K della missione Orion.",
@@ -126,48 +168,6 @@
       "link": "https://www.hdblog.it/nvidia/articoli/n664727/nvidia-shadowplay-240-fps/",
       "fonte": "HDblog.it",
       "data": "2026-07-18T08:05:00+00:00"
-    },
-    {
-      "titolo": "App per pesare (anche la valigia): come funzionano e quali usare",
-      "descrizione": "Per una stima \"al volo\"",
-      "link": "https://www.hdblog.it/eventi/articoli/n664707/app-per-pesare-valigia-come-funzionano-quali-usare/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T07:05:00+00:00"
-    },
-    {
-      "titolo": "Jensen Interceptor GTX: il ritorno di un’icona \"ultra-analogica\"",
-      "descrizione": "Una sportiva d’altri tempi con un V8 puramente termico e il telaio in alluminio, pensata per la pista e senza alcuna traccia di digitalizzazione.",
-      "link": "https://www.hdmotori.it/jensen-interceptor-gtx-ritorno/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T06:30:51+00:00"
-    },
-    {
-      "titolo": "Apple Music più caro in Italia: ecco il nuovo prezzo dell'abbonamento",
-      "descrizione": "Apple Music aumenta anche in Italia: l'abbonamento Individual costa ora 11,99 euro al mese.",
-      "link": "https://www.hdblog.it/apple/articoli/n664728/apple-music-aumento-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T06:05:00+00:00"
-    },
-    {
-      "titolo": "Motorola Edge 70 Fusion, dopo quattro mesi è in sconto del 43% su eBay",
-      "descrizione": "Nella colorazione Pantone Orient Blue e la batteria da 5200 mAh.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664720/motorola-edge-70-fusion-offerta-psprlug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T05:02:00+00:00"
-    },
-    {
-      "titolo": "I migliori monitor Samsung in offerta su eBay",
-      "descrizione": "Scopri i migliori monitor firmati Samsung in offerta speciale su eBay grazie alla promozione estiva che sta veramente abbattendo i prezzi. The post I migliori monitor Samsung in offerta su eBay appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/i-migliori-monitor-samsung-in-offerta-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-18T05:00:27+00:00"
-    },
-    {
-      "titolo": "Anthropic: in trattative per potenza di calcolo di Meta, accordo da 10 mld $",
-      "descrizione": "Anthropic sarebbe in trattative per acquisire potenza di calcolo da Meta, secondo quanto riferito dal New York Times e dalla Cnbc. L’accordo potrebbe valere fino a 10 miliardi di dollari...",
-      "link": "https://www.ilsole24ore.com/art/anthropic-trattative-potenza-calcolo-meta-accordo-10-mld-$-AJem9nN",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-17T20:01:24+00:00"
     }
   ]
 }
