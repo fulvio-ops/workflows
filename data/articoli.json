@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-19T13:55:10.015196+00:00",
+  "last_updated": "2026-07-19T19:33:31.368328+00:00",
   "items": [
+    {
+      "titolo": "ChatGPT, problemi: non funziona in Italia e in Europa, cosa succede | In risoluzione",
+      "descrizione": "La situazione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664758/chatgpt-non-funziona-problemi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-19T14:49:00+00:00"
+    },
+    {
+      "titolo": "Procedimento antitrust: Apple cerca accordo con il governo",
+      "descrizione": "Apple avrebbe avviato discussioni con il governo USA per raggiungere un accordo sulle accuse di monopolio nel mercato dei sistemi operativi mobile. The post Procedimento antitrust: Apple cerca accordo con il governo appe",
+      "link": "https://www.punto-informatico.it/procedimento-antitrust-apple-cerca-accordo-governo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T14:16:37+00:00"
+    },
     {
       "titolo": "Russian drones spotted using screwed-on magnetic compasses as navigation aids — the on-board camera can occasionally tilt down to check bearings if satellite comms are lost",
       "descrizione": "Russian drone troops are adding cheap magnetic compasses to help find their bearings. Crude add-on helps them find their bearings and locate their targets even without GPS.",
@@ -154,20 +168,6 @@
       "link": "https://www.hdblog.it/games/articoli/n664724/fallout-5-obsidian-remaster-fallout-3-new-vegas/",
       "fonte": "HDblog.it",
       "data": "2026-07-18T09:35:00+00:00"
-    },
-    {
-      "titolo": "POCO X8 Pro in offerta su Amazon: un mid-range veloce e con un'ottima autonomia",
-      "descrizione": "Il POCO X8 Pro è in offerta su Amazon ed è ora disponibile in sconto a meno di 400 euro: si tratta della soluzione giusta per un mid-range.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664733/poco-x8-pro-offerta-amazon-luglio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T09:00:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA aggiorna la sua app: registrazioni a 240 FPS e novità per il DLSS",
-      "descrizione": "NVIDIA porta le registrazioni a 240 FPS e amplia il supporto DLSS per nuovi giochi.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n664727/nvidia-shadowplay-240-fps/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T08:05:00+00:00"
     }
   ]
 }
