@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-07-19T03:56:30.487324+00:00",
+  "last_updated": "2026-07-19T08:33:54.774030+00:00",
   "items": [
+    {
+      "titolo": "La NASA porterà il 4K sulla Luna grazie a Starlink: ecco cosa vedremo",
+      "descrizione": "Artemis III userà i laser di Starlink per inviare immagini 4K della missione Orion.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664722/nasa-starlink-artemis-iii-laser/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-19T08:05:00+00:00"
+    },
+    {
+      "titolo": "Amazfit GTR 4 riproduce la musica, monitora il corpo e ha oltre 150 app",
+      "descrizione": "L'Amazfit GTR 4 ha una marea di funzioni come la riproduzione musicale, le telefonate via Bluetooth, l'integrazione di Alexa e oltre 150 modalità sportive. The post Amazfit GTR 4 riproduce la musica, monitora il corpo e",
+      "link": "https://www.punto-informatico.it/amazfit-gtr-4-riproduce-musica-monitora-corpo-ha-oltre-150-app/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T07:43:33+00:00"
+    },
+    {
+      "titolo": "Nubia iMoochi, il robot AI con emozioni e occhi OLED arriva in Cina",
+      "descrizione": "Nubia presenta iMoochi, il robot AI che riconosce emozioni e crea un legame con il proprietario.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664749/nubia-imoochi-robot-ai-emotivo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-19T07:05:00+00:00"
+    },
+    {
+      "titolo": "Mondiali 2026, oggi è il giorno della finale, come vederla dall’estero",
+      "descrizione": "Ecco come vedere la finale dei Mondiali tra Argentina e Spagna in diretta streaming in Italia e dall'estero. Il match è in programma oggi 19 luglio. The post Mondiali 2026, oggi è il giorno della finale, come vederla dal",
+      "link": "https://www.punto-informatico.it/mondiali-2026-oggi-e-il-giorno-della-finale-come-vederla-dallestero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T07:00:09+00:00"
+    },
+    {
+      "titolo": "Basta abbonamenti! Con pCloud hai uno spazio di archiviazione cloud a vita",
+      "descrizione": "Finalmente da oggi puoi dire basta ai costosi abbonamenti grazie a pCloud, la soluzione che offre uno spazio di archiviazione cloud a vita. The post Basta abbonamenti! Con pCloud hai uno spazio di archiviazione cloud a v",
+      "link": "https://www.punto-informatico.it/basta-abbonamenti-con-pcloud-hai-uno-spazio-di-archiviazione-cloud-a-vita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-19T07:00:02+00:00"
+    },
+    {
+      "titolo": "Carburanti, aumenti record prima delle vacanze: gasolio a 2,7 euro al litro",
+      "descrizione": "Il gasolio arriva a sfiorare i 2,7 euro al litro in autostrada. Il Codacons lancia l'allarme per i rincari in vista delle vacanze estive e chiede un intervento immediato del Governo.",
+      "link": "https://www.hdmotori.it/carburanti-aumenti-record-vacanze-gasolio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-19T06:30:50+00:00"
+    },
     {
       "titolo": "Compie 70 anni la scoperta del neutrino: la svolta che ha cambiato la fisica",
       "descrizione": "La scoperta degli antineutrini ha rivoluzionato la fisica, ma molte domande restano aperte. Nuovi esperimenti internazionali puntano a svelare i segreti di queste elusive particelle",
@@ -126,48 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/anthropic-trattative-potenza-calcolo-meta-accordo-10-mld-$-AJem9nN",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-17T20:01:24+00:00"
-    },
-    {
-      "titolo": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "descrizione": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
-      "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T19:50:38+00:00"
-    },
-    {
-      "titolo": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
-      "descrizione": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
-      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T19:17:46+00:00"
-    },
-    {
-      "titolo": "Nubia Air, lo smartphone ultra-sottile è in offerta a 140 euro su eBay",
-      "descrizione": "Per chi vuole provare l'esperienza d'uso di uno smartphone con uno spessore inferiore ai 6 millimetri.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664717/nubia-air-256gb-offerta-psprlug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T19:10:00+00:00"
-    },
-    {
-      "titolo": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
-      "descrizione": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
-      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T18:30:00+00:00"
-    },
-    {
-      "titolo": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
-      "descrizione": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
-      "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
-      "fonte": "WIRED",
-      "data": "2026-07-17T17:47:05+00:00"
-    },
-    {
-      "titolo": "God of War, Kratos si fa male: Ryan Hurst lascia il ruolo nella serie",
-      "descrizione": "Un brutto infortunio.",
-      "link": "https://www.hdblog.it/games/articoli/n664708/god-of-war-serie-prime-video-kratos-ryan-hurst/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-17T17:25:00+00:00"
     }
   ]
 }
