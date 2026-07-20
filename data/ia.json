@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-20T09:34:42.020907+00:00",
+  "last_updated": "2026-07-20T14:33:59.126032+00:00",
   "items": [
     {
-      "titolo": "Perché Apple non ha denunciato anche Jony Ive?",
-      "descrizione": "Nella denuncia contro OpenAI, Apple ha citato ex dipendenti, ma non Jony Ive, che aiuta l'azienda di Sam Altman nella progettazione dei dispositivi. The post Perché Apple non ha denunciato anche Jony Ive? appeared first",
-      "link": "https://www.punto-informatico.it/perche-openai-non-denunciato-jony-ive/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-20T08:21:59+00:00",
+      "titolo": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
+      "descrizione": "SEO is not dead. Here's how to get cited more often and boost search visibility in AI tools today.",
+      "link": "https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/",
+      "fonte": "Latest news",
+      "data": "2026-07-20T13:39:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,12 +18,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic: in trattative per potenza di calcolo di Meta, accordo da 10 mld $",
-      "descrizione": "Anthropic sarebbe in trattative per acquisire potenza di calcolo da Meta, secondo quanto riferito dal New York Times e dalla Cnbc. L’accordo potrebbe valere fino a 10 miliardi di dollari...",
-      "link": "https://www.ilsole24ore.com/art/anthropic-trattative-potenza-calcolo-meta-accordo-10-mld-$-AJem9nN",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-17T20:01:24+00:00",
+      "titolo": "Moonshot e Alibaba sfidano OpenAI e Anthropic con due nuovi modelli AI",
+      "descrizione": "Moonshot AI ha presentato Kimi K3 e, poche ore dopo, Alibaba ha mostrato Qwen3.8",
+      "link": "https://www.hdblog.it/business/articoli/n664828/moonshot-alibaba-nuovi-modelli-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T11:25:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Moonshot e Alibaba sfidano OpenAI e Anthropic con due nuovi modelli AI",
+      "descrizione": "Moonshot AI ha presentato Kimi K3 e, poche ore dopo, Alibaba ha mostrato Qwen3.8",
+      "link": "https://www.hdblog.it/business/articoli/n664828/moonshot-alibaba-nuovi-modelli-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T11:25:00+00:00",
+      "modello": "altri"
     }
   ]
 }
