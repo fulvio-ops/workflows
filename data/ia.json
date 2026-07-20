@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-20T14:33:59.126032+00:00",
+  "last_updated": "2026-07-20T19:57:44.141459+00:00",
   "items": [
     {
-      "titolo": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
-      "descrizione": "SEO is not dead. Here's how to get cited more often and boost search visibility in AI tools today.",
-      "link": "https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/",
-      "fonte": "Latest news",
-      "data": "2026-07-20T13:39:00+00:00",
+      "titolo": "9 consigli di ChatGPT contro il caldo che funzionano davvero",
+      "descrizione": "Un'ondata di calore mette a dura prova chiunque non abbia l'aria condizionata in ogni stanza. Ecco i consigli di ChatGPT per sopravvivere. The post 9 consigli di ChatGPT contro il caldo che funzionano davvero appeared fi",
+      "link": "https://www.punto-informatico.it/9-consigli-chatgpt-contro-caldo-funzionano-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T15:30:55+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Moonshot e Alibaba sfidano OpenAI e Anthropic con due nuovi modelli AI",
-      "descrizione": "Moonshot AI ha presentato Kimi K3 e, poche ore dopo, Alibaba ha mostrato Qwen3.8",
-      "link": "https://www.hdblog.it/business/articoli/n664828/moonshot-alibaba-nuovi-modelli-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-20T11:25:00+00:00",
+      "titolo": "La Cina sfida OpenAI e Anthropic: arrivano Kimi K3 e Qwen3.8",
+      "descrizione": "Due modelli AI cinesi, Kimi K3 di Moonshot e Qwen3.8 di Alibaba, dicono di rivaleggiare con Sol di OpenAI e Fable 5 di Anthropic. The post La Cina sfida OpenAI e Anthropic: arrivano Kimi K3 e Qwen3.8 appeared first on Pu",
+      "link": "https://www.punto-informatico.it/cina-sfida-openai-anthropic-arrivano-kimi-k3-qwen3-8/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T14:59:54+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Moonshot e Alibaba sfidano OpenAI e Anthropic con due nuovi modelli AI",
-      "descrizione": "Moonshot AI ha presentato Kimi K3 e, poche ore dopo, Alibaba ha mostrato Qwen3.8",
-      "link": "https://www.hdblog.it/business/articoli/n664828/moonshot-alibaba-nuovi-modelli-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-20T11:25:00+00:00",
+      "titolo": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns — downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid",
+      "descrizione": "The U.S. may be reigniting efforts to push companies away from Chinese open-weight AI models such as Kimi and DeepSeek.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-20T17:39:23+00:00",
       "modello": "altri"
     }
   ]
