@@ -1,12 +1,131 @@
 {
-  "last_updated": "2026-07-20T04:06:08.805072+00:00",
+  "last_updated": "2026-07-20T09:34:38.424409+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, problemi: non funziona in Italia e in Europa, cosa succede | In risoluzione",
-      "descrizione": "La situazione",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664758/chatgpt-non-funziona-problemi-italia/",
+      "titolo": "Google Pixel 11a, la nuova generazione di midrange promette diversi upgrade",
+      "descrizione": "Stessa piattaforma dei Pixel 11 e selfie camera migliorata.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664807/google-pixel-11a-specifiche-novita-design/",
       "fonte": "HDblog.it",
-      "data": "2026-07-19T14:49:00+00:00"
+      "data": "2026-07-20T09:25:00+00:00"
+    },
+    {
+      "titolo": "Apple testa l'AI nei Genius Bar: registra e riassume le conversazioni con i clienti",
+      "descrizione": "In alcuni Apple Store è partito Live Notes",
+      "link": "https://www.hdblog.it/apple/articoli/n664803/apple-prova-ai-genius-bar-registra-conversazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T09:10:00+00:00"
+    },
+    {
+      "titolo": "HBO Max gratis per 3 mesi: l'offerta TIM dedicata ad alcuni clienti",
+      "descrizione": "Alcuni clienti TIMVision stanno ricevendo via email o SMS un'offerta che include tre mesi di HBO Max Base con pubblicità senza costi. Al termine della promozione l'abbonamento si disattiva...",
+      "link": "https://www.hdblog.it/tim/articoli/n664801/hbo-max-regalo-timvision/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T09:05:00+00:00"
+    },
+    {
+      "titolo": "Galaxy Watch 9 e Ultra 2 sono quasi ufficiali: l'ultimo leak svela tutto",
+      "descrizione": "Ormai l'evento di lancio è solo una formalità",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664791/samsung-galaxy-watch-9-ultra-2-render-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T08:50:00+00:00"
+    },
+    {
+      "titolo": "Mondiali di calcio, quasi 2.000 siti di streaming pirata oscurati dalle autorità",
+      "descrizione": "I nomi delle operazioni sono tutti deliziosamente calcistici, naturalmente.",
+      "link": "https://www.hdblog.it/internet/articoli/n664797/pirateria-mondiali-streaming-illegale-siti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T08:45:00+00:00"
+    },
+    {
+      "titolo": "Le raccomandate ora possono viaggiare anche su WhatsApp, e senza trucchi",
+      "descrizione": "La nuova piattaforma NotificaTo punta a semplificare le comunicazioni legali, eliminando la necessità della raccomandata cartacea e riducendo i limiti della PEC per molti cittadini",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n664796/raccomandate-su-whatsapp/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T08:40:00+00:00"
+    },
+    {
+      "titolo": "La Polizia colpisce le baby gang, facendo leva sui social",
+      "descrizione": "Maxi operazione condotta in 44 province contro la criminalità giovanile: arresti, sequestri e 973 profili individuati sui social network. The post La Polizia colpisce le baby gang, facendo leva sui social appeared first",
+      "link": "https://www.punto-informatico.it/polizia-colpisce-baby-gang-facendo-leva-social/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T08:39:47+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold8 spoilerato da J-Hope dei BTS: errore o leak volontario?",
+      "descrizione": "J-Hope dei BTS mostra il Galaxy Z Fold8 prima dell'annuncio ufficiale, lo smartphone pieghevole di Samsung appare (chiuso) in un video.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664786/samsung-galaxy-z-fold8-spoilerato-j-hope-bts/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T08:35:00+00:00"
+    },
+    {
+      "titolo": "Perché Apple non ha denunciato anche Jony Ive?",
+      "descrizione": "Nella denuncia contro OpenAI, Apple ha citato ex dipendenti, ma non Jony Ive, che aiuta l'azienda di Sam Altman nella progettazione dei dispositivi. The post Perché Apple non ha denunciato anche Jony Ive? appeared first",
+      "link": "https://www.punto-informatico.it/perche-openai-non-denunciato-jony-ive/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T08:21:59+00:00"
+    },
+    {
+      "titolo": "Auto elettriche regine dell’estate: ecco le migliori per le vacanze",
+      "descrizione": "Milioni di famiglie sono in procinto di lasciare la casa di città per viaggiare e nel 2026 sono tanti a partire in auto. C’è una buona notizia per i proprietari di EV",
+      "link": "https://www.hdmotori.it/auto-elettriche-migliori-vacanze/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T08:00:26+00:00"
+    },
+    {
+      "titolo": "iOS 27, nuova beta in arrivo: quali iPhone possono installarla e cosa manca in Italia",
+      "descrizione": "Apple dovrebbe pubblicare nelle prossime ore la seconda beta pubblica di iOS 27",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664787/ios-27-nuova-beta-quali-iphone-cosa-manca/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T07:55:00+00:00"
+    },
+    {
+      "titolo": "Google avvia il rilascio del tachimetro su Google Maps per Android Auto",
+      "descrizione": "Google inizia ad attivare il tachimetro su Maps per Android Auto dopo anni di attesa.",
+      "link": "https://www.hdblog.it/google/articoli/n664784/google-tachimetro-google-maps-android-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T07:35:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi lancia una videocamera che funziona anche dove internet non arriva",
+      "descrizione": "Grazie alla batteria da 9.900 mAh e al pannello solare da 7,6 watt, la nuova videocamera Xiaomi offre sorveglianza continua, audio bidirezionale e registrazione intelligente per risparmiare spazio",
+      "link": "https://www.hdblog.it/fotografia/articoli/n664785/xiaomi-videocamera-sorveglianza-4g-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T07:25:00+00:00"
+    },
+    {
+      "titolo": "Apple testa l’AI nei Genius Bar, registrando le conversazioni",
+      "descrizione": "L'intelligenza artificiale arriva nei Genius Bar di Apple con Live Notes, il sistema che registra e riassume gli interventi di assistenza. The post Apple testa l’AI nei Genius Bar, registrando le conversazioni appeared f",
+      "link": "https://www.punto-informatico.it/apple-ai-genius-bar-registrando-conversazioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T07:14:29+00:00"
+    },
+    {
+      "titolo": "Apple fa causa a OpenAI per i segreti industriali, ma lascia fuori Jony Ive",
+      "descrizione": "Ive non è indicato tra i responsabili dei comportamenti contestati.",
+      "link": "https://www.hdblog.it/apple/articoli/n664781/apple-accusa-openai-segreti-industriali-ive/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T07:05:00+00:00"
+    },
+    {
+      "titolo": "Dopo l’Italia, anche la Francia blocca Polymarket",
+      "descrizione": "L'autorità francese blocca Polymarket, puntando il dito contro i rischi legati alla dipendenza e l'assenza di tutele per gli utenti. The post Dopo l’Italia, anche la Francia blocca Polymarket appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/francia-blocca-polymarket/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T06:45:55+00:00"
+    },
+    {
+      "titolo": "Booster T2: il nuovo robot umanoide cinese punta tutto sull'AI integrata",
+      "descrizione": "Booster T2 integra AI Nvidia Thor per muoversi e manipolare oggetti in autonomia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664769/booster-t2-robot-umanoide-nvidia-thor/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-20T06:25:00+00:00"
+    },
+    {
+      "titolo": "Christopher Nolan, l’intelligenza artificiale è un cavallo di Troia",
+      "descrizione": "Il regista di Odissea torna a parlare di intelligenza artificiale: per Nolan servono prudenza e spirito critico davanti alla tecnologia. The post Christopher Nolan, l’intelligenza artificiale è un cavallo di Troia appear",
+      "link": "https://www.punto-informatico.it/christopher-nolan-intelligenza-artificiale-cavallo-troia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-20T06:11:48+00:00"
     },
     {
       "titolo": "Procedimento antitrust: Apple cerca accordo con il governo",
@@ -30,13 +149,6 @@
       "data": "2026-07-19T11:15:26+00:00"
     },
     {
-      "titolo": "Due studenti creano un filtro di scarico che trasforma le emissioni in ossigeno",
-      "descrizione": "Due studenti della Pennsylvania hanno sviluppato un filtro di scarico con microalghe che promette di ridurre le emissioni dei veicoli fino al 74% nei test",
-      "link": "https://www.hdmotori.it/filtro-scarico-trasforma-emissioni-ossigeno/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-19T11:00:14+00:00"
-    },
-    {
       "titolo": "Galaxy Z Fold8 e Z Flip8: nuovi dettagli prima del lancio",
       "descrizione": "In attesa dell'annuncio ufficiale previsto a Londra il 22 luglio, ecco alcune immagini dei Samsung Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8. The post Galaxy Z Fold8 e Z Flip8: nuovi dettagli prima del lancio appeared firs",
       "link": "https://www.punto-informatico.it/galaxy-z-fold8-z-flip8-nuovi-dettagli-prima-lancio/",
@@ -56,118 +168,6 @@
       "link": "https://www.punto-informatico.it/apple-google-devono-rimuovere-13-app-nudificazione/",
       "fonte": "Punto Informatico",
       "data": "2026-07-19T09:07:20+00:00"
-    },
-    {
-      "titolo": "La NASA porterà il 4K sulla Luna grazie a Starlink: ecco cosa vedremo",
-      "descrizione": "Artemis III userà i laser di Starlink per inviare immagini 4K della missione Orion.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664722/nasa-starlink-artemis-iii-laser/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-19T08:05:00+00:00"
-    },
-    {
-      "titolo": "Amazfit GTR 4 riproduce la musica, monitora il corpo e ha oltre 150 app",
-      "descrizione": "L'Amazfit GTR 4 ha una marea di funzioni come la riproduzione musicale, le telefonate via Bluetooth, l'integrazione di Alexa e oltre 150 modalità sportive. The post Amazfit GTR 4 riproduce la musica, monitora il corpo e",
-      "link": "https://www.punto-informatico.it/amazfit-gtr-4-riproduce-musica-monitora-corpo-ha-oltre-150-app/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-19T07:43:33+00:00"
-    },
-    {
-      "titolo": "Nubia iMoochi, il robot AI con emozioni e occhi OLED arriva in Cina",
-      "descrizione": "Nubia presenta iMoochi, il robot AI che riconosce emozioni e crea un legame con il proprietario.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664749/nubia-imoochi-robot-ai-emotivo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-19T07:05:00+00:00"
-    },
-    {
-      "titolo": "Mondiali 2026, oggi è il giorno della finale, come vederla dall’estero",
-      "descrizione": "Ecco come vedere la finale dei Mondiali tra Argentina e Spagna in diretta streaming in Italia e dall'estero. Il match è in programma oggi 19 luglio. The post Mondiali 2026, oggi è il giorno della finale, come vederla dal",
-      "link": "https://www.punto-informatico.it/mondiali-2026-oggi-e-il-giorno-della-finale-come-vederla-dallestero/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-19T07:00:09+00:00"
-    },
-    {
-      "titolo": "Basta abbonamenti! Con pCloud hai uno spazio di archiviazione cloud a vita",
-      "descrizione": "Finalmente da oggi puoi dire basta ai costosi abbonamenti grazie a pCloud, la soluzione che offre uno spazio di archiviazione cloud a vita. The post Basta abbonamenti! Con pCloud hai uno spazio di archiviazione cloud a v",
-      "link": "https://www.punto-informatico.it/basta-abbonamenti-con-pcloud-hai-uno-spazio-di-archiviazione-cloud-a-vita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-19T07:00:02+00:00"
-    },
-    {
-      "titolo": "Carburanti, aumenti record prima delle vacanze: gasolio a 2,7 euro al litro",
-      "descrizione": "Il gasolio arriva a sfiorare i 2,7 euro al litro in autostrada. Il Codacons lancia l'allarme per i rincari in vista delle vacanze estive e chiede un intervento immediato del Governo.",
-      "link": "https://www.hdmotori.it/carburanti-aumenti-record-vacanze-gasolio/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-19T06:30:50+00:00"
-    },
-    {
-      "titolo": "Compie 70 anni la scoperta del neutrino: la svolta che ha cambiato la fisica",
-      "descrizione": "La scoperta degli antineutrini ha rivoluzionato la fisica, ma molte domande restano aperte. Nuovi esperimenti internazionali puntano a svelare i segreti di queste elusive particelle",
-      "link": "https://www.ilsole24ore.com/art/compie-70-anni-scoperta-neutrino-svolta-che-ha-cambiato-fisica-AJmsNZO",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-18T16:50:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S25 Edge è il migliore sotto i 500€ (offerta eBay)",
-      "descrizione": "Il Samsung Galaxy S25 Edge è indubbiamente il migliore smartphone di questa fascia sotto i 500 euro e su eBay lo trovi anche a meno. The post Samsung Galaxy S25 Edge è il migliore sotto i 500€ (offerta eBay) appeared fir",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s25-edge-migliore-sotto-500e-offerta-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-18T14:11:12+00:00"
-    },
-    {
-      "titolo": "Apple alza i prezzi degli iPhone in Giappone",
-      "descrizione": "Dobbiamo aspettarci incrementi anche da noi?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664742/apple-aumenta-prezzi-iphone-17-giappone-rincari/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T14:10:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Redmi Watch 5 Lite: ottimo smartwatch senza spendere un capitale",
-      "descrizione": "Lo Xiaomi Redmi Watch 5 Lite ha un display AMOLED da 1,96\", offre un'autonomia da 18 giorni, resistenza all'acqua e oltre 150 modalità sportive. The post Xiaomi Redmi Watch 5 Lite: ottimo smartwatch senza spendere un cap",
-      "link": "https://www.punto-informatico.it/xiaomi-redmi-watch-5-lite-ottimo-smartwatch-senza-spendere-capitale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-18T13:51:03+00:00"
-    },
-    {
-      "titolo": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB",
-      "descrizione": "The 3GB GDDR7 chips that the RTX 50 Super GPUs will use reportedly cost twice to thrice as much as the 2GB chips found on vanilla RTX 50-series graphics cards. This would likely push the retail price of these GPUs way be",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-18T13:45:42+00:00"
-    },
-    {
-      "titolo": "Nvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auction — bidding makes $60,000 valuation look like pocket change",
-      "descrizione": "‘The Jensen Jacket’ achieved a hammer price of $960,000 this weekend.",
-      "link": "https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-18T13:22:12+00:00"
-    },
-    {
-      "titolo": "Galaxy S25 Edge in offerta a meno di 500€: è il mid-range Samsung da prendere oggi?",
-      "descrizione": "Il Samsung Galaxy S25 Edge è in offerta e ora costa meno di 500 euro: lo smartphone diventa uno dei best buy della fascia media per la gamma Galaxy.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664737/samsung-galaxy-s25-edge-offerta-psprlug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T10:55:00+00:00"
-    },
-    {
-      "titolo": "Data center orbitali: quali sfide tecniche ci sono?",
-      "descrizione": "Per costruire data center orbitali è necessario superare diversi ostacoli, tra cui costo dei lanci, radiazioni, dissipazione del calore e latenza. The post Data center orbitali: quali sfide tecniche ci sono? appeared fir",
-      "link": "https://www.punto-informatico.it/data-center-orbitali-sfide-tecniche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-18T10:50:13+00:00"
-    },
-    {
-      "titolo": "Your Period Tracker Is (Probably) Spying on You",
-      "descrizione": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "fonte": "WIRED",
-      "data": "2026-07-18T10:30:00+00:00"
-    },
-    {
-      "titolo": "Bethesda conferma Fallout 5 e il ritorno di Obsidian con un nuovo progetto",
-      "descrizione": "Bethesda rilancia Fallout con Fallout 5, Obsidian e due remaster molto attesi.",
-      "link": "https://www.hdblog.it/games/articoli/n664724/fallout-5-obsidian-remaster-fallout-3-new-vegas/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-18T09:35:00+00:00"
     }
   ]
 }
