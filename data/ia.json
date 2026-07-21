@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-21T14:24:41.189165+00:00",
+  "last_updated": "2026-07-21T19:53:15.025200+00:00",
   "items": [
     {
-      "titolo": "X (Twitter): app Android riprogettata con nuove funzioni in arrivo",
-      "descrizione": "Caricamenti più rapidi e maggiore fluidità.",
-      "link": "https://www.hdblog.it/android/articoli/n664990/x-twitter-app-riprogettata-per-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-21T14:20:00+00:00",
+      "titolo": "Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
+      "descrizione": "Nvidia gave Tom’s Hardware an exclusive look inside its previously undisclosed Engineering SuperLab near Nvidia HQ, where we saw Vera Rubin NVL72 in action.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-21T15:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Hai Gemini sul blocco schermo? Un bug mette a rischio i tuoi messaggi",
-      "descrizione": "Una vulnerabilità di Gemini su Android permette di inviare SMS e messaggi WhatsApp dalla schermata di blocco senza conoscere il PIN. Google ha confermato il problema e rilascerà un aggiornamento...",
-      "link": "https://www.hdblog.it/google/articoli/n664976/gemini-invio-whatsapp-senza-password/",
+      "titolo": "Google sfida Mythos: arriva l'AI che trova falle di sicurezza a basso costo",
+      "descrizione": "Gemini 3.5 Flash Cyber individua e corregge vulnerabilità spendendo molto meno.",
+      "link": "https://www.hdblog.it/google/articoli/n665005/google-gemini-3-5-flash-cyber/",
       "fonte": "HDblog.it",
-      "data": "2026-07-21T13:15:00+00:00",
+      "data": "2026-07-21T16:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Violazione di copyright: Anthropic pagherà 1,5 miliardi",
-      "descrizione": "L'accordo extragiudiziale è stato approvato, quindi Anthropic pagherà un risarcimento di 1,5 miliardi di dollari per aver usato copie pirata dei libri. The post Violazione di copyright: Anthropic pagherà 1,5 miliardi app",
-      "link": "https://www.punto-informatico.it/violazione-copyright-anthropic-15-miliardi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-21T13:56:40+00:00",
+      "titolo": "Anthropic, risarcimento record ai titolari di copyright per il training dell'AI",
+      "descrizione": "1,5 miliardi di dollari ai titolari dei diritti. Ma è un po' una vittoria di Pirro.",
+      "link": "https://www.hdblog.it/mercato/articoli/n665003/anthropic-class-action-patteggiamento-causa-chiusa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-21T15:25:00+00:00",
       "modello": "claude"
     },
     {
