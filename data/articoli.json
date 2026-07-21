@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-20T19:57:39.396521+00:00",
+  "last_updated": "2026-07-21T03:47:24.640221+00:00",
   "items": [
+    {
+      "titolo": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
+      "descrizione": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
+      "link": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/",
+      "fonte": "WIRED",
+      "data": "2026-07-20T20:57:39+00:00"
+    },
+    {
+      "titolo": "Terremoti e calamità naturali: quando la tecnologia diventa un valido alleato per “prevedere” i disastri naturali",
+      "descrizione": "Sebbene sia impossibile prevedere con precisione una catastrofe, esistono soluzioni capaci di captare i primi segnali e allertare immediatamente la popolazione",
+      "link": "https://www.ilsole24ore.com/art/terremoti-e-calamita-naturali-quando-tecnologia-diventa-valido-alleato-prevedere-disastri-naturali-AIzQjK0D",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-20T20:55:00+00:00"
+    },
     {
       "titolo": "Even Mild Sleep Deprivation May Lead to Weight Gain",
       "descrizione": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/guerra-apple-openai-rischio-dispositivo-ai-jony-ive/",
       "fonte": "Punto Informatico",
       "data": "2026-07-20T11:41:54+00:00"
-    },
-    {
-      "titolo": "3D printing enthusiast resurrects cancelled dbrand Steam Machine Companion Cube as DIY project — project shelved due to copyright can now be made and assembled at home",
-      "descrizione": "A 3D printing enthusiast has resurrected dbrand's cancelled Steam Machine Companion Cube as a DIY project.",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-resurrects-cancelled-dbrand-steam-machine-companion-cube-as-diy-project-project-shelved-due-to-copyright-can-now-be-made-and-assembled-at-home",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-20T11:25:46+00:00"
-    },
-    {
-      "titolo": "Google usa l’AI per ricostruire il goal più bello di Pelé",
-      "descrizione": "Usando foto, articoli, testimonianze e tre modelli AI, Google ha ricostruito il goal segnato da Pelé il 2 agosto 1959 con tre sombreros consecutivi. The post Google usa l’AI per ricostruire il goal più bello di Pelé appe",
-      "link": "https://www.punto-informatico.it/google-usa-ai-ricostruire-goal-piu-bello-pele/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-20T10:44:18+00:00"
     }
   ]
 }
