@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-21T08:46:14.906504+00:00",
+  "last_updated": "2026-07-21T14:24:41.189165+00:00",
   "items": [
     {
-      "titolo": "DJI Osmo 360 II: i leak svelano batteria più grande e supporto NFC",
-      "descrizione": "DJI Osmo 360 II emerge dai leak con batteria più capiente e supporto NFC.",
-      "link": "https://www.hdblog.it/fotografia/articoli/n664922/dji-osmo-360-ii-leak/",
+      "titolo": "X (Twitter): app Android riprogettata con nuove funzioni in arrivo",
+      "descrizione": "Caricamenti più rapidi e maggiore fluidità.",
+      "link": "https://www.hdblog.it/android/articoli/n664990/x-twitter-app-riprogettata-per-android/",
       "fonte": "HDblog.it",
-      "data": "2026-07-21T08:35:00+00:00",
+      "data": "2026-07-21T14:20:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google progetta un chip AI 10 volte più efficiente per Gemini",
-      "descrizione": "Google lancerà nel 2028 Frozen v2, un nuovo chip AI progettato per rendere Gemini molto più efficiente e meno costoso da eseguire. The post Google progetta un chip AI 10 volte più efficiente per Gemini appeared first on",
-      "link": "https://www.punto-informatico.it/google-progetta-chip-ai-10-volte-piu-efficiente-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-21T06:49:24+00:00",
+      "titolo": "Hai Gemini sul blocco schermo? Un bug mette a rischio i tuoi messaggi",
+      "descrizione": "Una vulnerabilità di Gemini su Android permette di inviare SMS e messaggi WhatsApp dalla schermata di blocco senza conoscere il PIN. Google ha confermato il problema e rilascerà un aggiornamento...",
+      "link": "https://www.hdblog.it/google/articoli/n664976/gemini-invio-whatsapp-senza-password/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-21T13:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "La Cina sfida OpenAI e Anthropic: arrivano Kimi K3 e Qwen3.8",
-      "descrizione": "Due modelli AI cinesi, Kimi K3 di Moonshot e Qwen3.8 di Alibaba, dicono di rivaleggiare con Sol di OpenAI e Fable 5 di Anthropic. The post La Cina sfida OpenAI e Anthropic: arrivano Kimi K3 e Qwen3.8 appeared first on Pu",
-      "link": "https://www.punto-informatico.it/cina-sfida-openai-anthropic-arrivano-kimi-k3-qwen3-8/",
+      "titolo": "Violazione di copyright: Anthropic pagherà 1,5 miliardi",
+      "descrizione": "L'accordo extragiudiziale è stato approvato, quindi Anthropic pagherà un risarcimento di 1,5 miliardi di dollari per aver usato copie pirata dei libri. The post Violazione di copyright: Anthropic pagherà 1,5 miliardi app",
+      "link": "https://www.punto-informatico.it/violazione-copyright-anthropic-15-miliardi/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-20T14:59:54+00:00",
+      "data": "2026-07-21T13:56:40+00:00",
       "modello": "claude"
     },
     {
