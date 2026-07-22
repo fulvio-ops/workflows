@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21T19:53:15.025200+00:00",
+  "last_updated": "2026-07-22T03:49:01.380146+00:00",
   "items": [
     {
-      "titolo": "Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
-      "descrizione": "Nvidia gave Tom’s Hardware an exclusive look inside its previously undisclosed Engineering SuperLab near Nvidia HQ, where we saw Vera Rubin NVL72 in action.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-21T15:15:00+00:00",
+      "titolo": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "descrizione": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "fonte": "WIRED",
+      "data": "2026-07-21T22:50:01+00:00",
       "modello": "chatgpt"
     },
     {
