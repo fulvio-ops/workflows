@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-22T08:45:31.332648+00:00",
+  "last_updated": "2026-07-22T14:24:25.829263+00:00",
   "items": [
     {
-      "titolo": "OpenAI ammette: i suoi modelli AI hanno hackerato Hugging Face",
-      "descrizione": "OpenAI conferma: durante un test, due modelli AI hanno attaccato Hugging Face autonomamente.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n665057/openai-ai-hacking-hugging-face/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-22T08:45:00+00:00",
+      "titolo": "Gemini 3.5 Flash Cyber sfida Mythos 5 e GPT-5.5-Cyber",
+      "descrizione": "Gemini 3.5 Flash Cyber è il nuovo modello di Google che può trovare le vulnerabilità software, come Mythos 5 di Anthropic e GPT-5.5-Cyber di OpenAI. The post Gemini 3.5 Flash Cyber sfida Mythos 5 e GPT-5.5-Cyber appeared",
+      "link": "https://www.punto-informatico.it/gemini-3-5-flash-cyber-sfida-mythos-5-gpt-5-5-cyber/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-22T12:54:09+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,27 +18,27 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro?",
-      "descrizione": "Google presenta Gemini 3.6 Flash, Flash-Lite e Flash Cyber, ma Gemini 3.5 Pro continua a slittare mentre OpenAI e Anthropic accelerano. The post Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro? appeared",
-      "link": "https://www.punto-informatico.it/google-gemini-3-6-flash-che-fine-ha-fatto-gemini-3-5-pro/",
+      "titolo": "Fuga dalla sandbox: gli agenti AI aggirano le restrizioni",
+      "descrizione": "Gli esperti di Pillar Security hanno scoperto che Codex, Cursor, Gemini CLI e Antigravity possono aggirare la sandbox ed eseguire azioni indesiderate. The post Fuga dalla sandbox: gli agenti AI aggirano le restrizioni ap",
+      "link": "https://www.punto-informatico.it/fuga-sandbox-agenti-ai-aggirano-restrizioni/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-22T08:02:17+00:00",
+      "data": "2026-07-22T14:24:10+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro?",
-      "descrizione": "Google presenta Gemini 3.6 Flash, Flash-Lite e Flash Cyber, ma Gemini 3.5 Pro continua a slittare mentre OpenAI e Anthropic accelerano. The post Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro? appeared",
-      "link": "https://www.punto-informatico.it/google-gemini-3-6-flash-che-fine-ha-fatto-gemini-3-5-pro/",
+      "titolo": "Gemini 3.5 Flash Cyber sfida Mythos 5 e GPT-5.5-Cyber",
+      "descrizione": "Gemini 3.5 Flash Cyber è il nuovo modello di Google che può trovare le vulnerabilità software, come Mythos 5 di Anthropic e GPT-5.5-Cyber di OpenAI. The post Gemini 3.5 Flash Cyber sfida Mythos 5 e GPT-5.5-Cyber appeared",
+      "link": "https://www.punto-informatico.it/gemini-3-5-flash-cyber-sfida-mythos-5-gpt-5-5-cyber/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-22T08:02:17+00:00",
+      "data": "2026-07-22T12:54:09+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns — downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid",
-      "descrizione": "The U.S. may be reigniting efforts to push companies away from Chinese open-weight AI models such as Kimi and DeepSeek.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-20T17:39:23+00:00",
+      "titolo": "Microsoft e Samsung investono in Mistral AI",
+      "descrizione": "Microsoft ha sottoscritto un accordo con Mistral AI che prevede espansione dei data center, mentre Samsung dovrebbe investire un miliardo di dollari. The post Microsoft e Samsung investono in Mistral AI appeared first on",
+      "link": "https://www.punto-informatico.it/microsoft-samsung-investono-mistral-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-22T10:16:42+00:00",
       "modello": "altri"
     }
   ]
