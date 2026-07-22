@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-07-22T03:49:01.380146+00:00",
+  "last_updated": "2026-07-22T08:45:31.332648+00:00",
   "items": [
     {
-      "titolo": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "descrizione": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "fonte": "WIRED",
-      "data": "2026-07-21T22:50:01+00:00",
+      "titolo": "OpenAI ammette: i suoi modelli AI hanno hackerato Hugging Face",
+      "descrizione": "OpenAI conferma: durante un test, due modelli AI hanno attaccato Hugging Face autonomamente.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665057/openai-ai-hacking-hugging-face/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-22T08:45:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google sfida Mythos: arriva l'AI che trova falle di sicurezza a basso costo",
-      "descrizione": "Gemini 3.5 Flash Cyber individua e corregge vulnerabilità spendendo molto meno.",
-      "link": "https://www.hdblog.it/google/articoli/n665005/google-gemini-3-5-flash-cyber/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-21T16:35:00+00:00",
+      "titolo": "Windows 11: arriva il pulsante Copilot su Esplora File",
+      "descrizione": "Microsoft aggiunge un pulsante Copilot alla Home di Esplora File su Windows 11. Dovrebbe analizzare i file al passaggio del mouse. The post Windows 11: arriva il pulsante Copilot su Esplora File appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/windows11-pulsante-copilot-esplora-file/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-22T08:29:35+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro?",
+      "descrizione": "Google presenta Gemini 3.6 Flash, Flash-Lite e Flash Cyber, ma Gemini 3.5 Pro continua a slittare mentre OpenAI e Anthropic accelerano. The post Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro? appeared",
+      "link": "https://www.punto-informatico.it/google-gemini-3-6-flash-che-fine-ha-fatto-gemini-3-5-pro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-22T08:02:17+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic, risarcimento record ai titolari di copyright per il training dell'AI",
-      "descrizione": "1,5 miliardi di dollari ai titolari dei diritti. Ma è un po' una vittoria di Pirro.",
-      "link": "https://www.hdblog.it/mercato/articoli/n665003/anthropic-class-action-patteggiamento-causa-chiusa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-21T15:25:00+00:00",
+      "titolo": "Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro?",
+      "descrizione": "Google presenta Gemini 3.6 Flash, Flash-Lite e Flash Cyber, ma Gemini 3.5 Pro continua a slittare mentre OpenAI e Anthropic accelerano. The post Google lancia Gemini 3.6 Flash, che fine ha fatto Gemini 3.5 Pro? appeared",
+      "link": "https://www.punto-informatico.it/google-gemini-3-6-flash-che-fine-ha-fatto-gemini-3-5-pro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-22T08:02:17+00:00",
       "modello": "claude"
     },
     {
