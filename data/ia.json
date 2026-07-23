@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-23T14:33:55.287095+00:00",
+  "last_updated": "2026-07-23T19:46:57.546733+00:00",
   "items": [
     {
-      "titolo": "OpenAI's agent breached Hugging Face before an AI defender caught it: What users should do next",
-      "descrizione": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
-      "link": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
-      "fonte": "Latest news",
-      "data": "2026-07-23T14:29:00+00:00",
+      "titolo": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
+      "descrizione": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
+      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "3 ways Samsung deeply integrates Gemini AI into its new Galaxy devices",
-      "descrizione": "Samsung Unpacked was as much about software as it was hardware.",
-      "link": "https://www.zdnet.com/article/samsung-unpacked-gemini-ai-google-intelligence-integration/",
-      "fonte": "Latest news",
-      "data": "2026-07-22T16:01:36+00:00",
+      "titolo": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
+      "descrizione": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
+      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:25:00+00:00",
       "modello": "gemini"
     },
     {

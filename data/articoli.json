@@ -1,19 +1,166 @@
 {
-  "last_updated": "2026-07-23T14:33:51.779170+00:00",
+  "last_updated": "2026-07-23T19:46:53.699496+00:00",
   "items": [
     {
-      "titolo": "Ring Intercom Video: come rendere smart il tuo vecchio videocitofono spendendo poco!",
+      "titolo": "Ho provato Ring Intercom Video, è valido? Come funziona e come installarlo | VIDEO",
       "descrizione": "Ring Intercom è un adattatore da installare dentro casa che permette di ricevere le chiamate del citofono sullo smartphone, parlare con chi si trova al portone e aprire a distanza, ecco come funziona",
       "link": "https://www.hdblog.it/amazon/recensioni/n664673/ring-intercom-video-come-rendere-citofono-smart/",
       "fonte": "HDblog.it",
-      "data": "2026-07-23T14:31:00+00:00"
+      "data": "2026-07-23T19:00:00+00:00"
     },
     {
-      "titolo": "Microlino, dal rischio di fallimento alla rinascita: 5.000 microcar prodotte in Italia",
-      "descrizione": "Nello stabilimento del marchio in Piemonte è stata prodotta la vettura numero 5.000, celebrata con un'esclusiva one-off.",
-      "link": "https://www.hdmotori.it/microlino-5000-microcar-prodotte-italia/",
+      "titolo": "Tesla: il Cybercab integrerà la connessione satellitare Starlink",
+      "descrizione": "Oltre il 5G: perché l'integrazione della tecnologia satellitare di Elon Musk rappresenta il futuro della connettività.",
+      "link": "https://www.hdmotori.it/tesla-cybercab-starlink/",
       "fonte": "HDblog.it",
-      "data": "2026-07-23T14:30:59+00:00"
+      "data": "2026-07-23T18:30:09+00:00"
+    },
+    {
+      "titolo": "AMD’s new X100 chip lineup puts Strix Halo into robots – APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel’s Panther Lake",
+      "descrizione": "Countering Intel’s recent moves, AMD is bringing its Strix Halo APUs to the realm of robots, and physical AI. Designed for 24/7 operation and a 10-year embedded lifecycle, X100 will also be offered as a Kria System on Mo",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T18:30:00+00:00"
+    },
+    {
+      "titolo": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
+      "descrizione": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
+      "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
+      "fonte": "WIRED",
+      "data": "2026-07-23T18:18:46+00:00"
+    },
+    {
+      "titolo": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center",
+      "descrizione": "AMD showed off its MI455X accelerator at its Advancing AI 2026 event, demonstrating its strong competitive performance, large HBM memory capacity, and Helios rack-scale architecture.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T18:05:44+00:00"
+    },
+    {
+      "titolo": "AMD and Cerebras partner on low-latency, high-throughput AI inference — EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions",
+      "descrizione": "When AMD's Helios meets giant wafers from Cerebras, it is not like when Odysseus meets with the Laestrygonian Giants, they collaborate to build an ultimate data center solution.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T17:45:00+00:00"
+    },
+    {
+      "titolo": "Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K — Lossless Scaling turns old Ampere GPUs into a gaming powerhouse",
+      "descrizione": "A gaming enthusiast leverages Lossless Scaling to supercharge a gaming PC with a GeForce RTX 3090 and GeForce RTX 3050 to deliver up to 144 FPS at 4K.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T17:39:03+00:00"
+    },
+    {
+      "titolo": "AMD’s 256-core Epyc 9996 ‘Venice’ claims up to a 3.4x jump over Intel Xeon competition, 20% over Nvidia Vera – Zen 6 comes with up to 1024MB of L3, 16-channel memory, and 5GHz+ clock speeds",
+      "descrizione": "After over a year of teases, AMD has finally provided details on its 256-core Venice CPU with the Zen 6 architecture, now known as the Epyc 9996.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T17:24:50+00:00"
+    },
+    {
+      "titolo": "Angelelli Automobili svela la Project 754: prestazioni e stile in una serie limitata unica",
+      "descrizione": "Con aerodinamica dedicata e componenti in titanio stampati in 3D, lo stile teutonico Porsche si è unito a quello italiano grazie ad Angelelli Project 754",
+      "link": "https://www.hdmotori.it/angelelli-automobili-project-754-serie-limitata/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T17:00:39+00:00"
+    },
+    {
+      "titolo": "Geekbench 7 introduces biggest overhaul yet — real-world CPU testing, new media workloads, AI benchmarks, and CUDA support",
+      "descrizione": "The latest update introduces more realistic CPU and GPU workloads, redesigned multi-core testing, AI-focused benchmarks, larger datasets, and CUDA support for Nvidia GPUs.",
+      "link": "https://www.tomshardware.com/software/geekbench-7-introduces-biggest-overhaul-yet-real-world-cpu-testing-new-media-workloads-ai-benchmarks-and-cuda-support",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-23T17:00:00+00:00"
+    },
+    {
+      "titolo": "Europa, approvato PRIMA: l'impianto retinico che restituisce parte della vista",
+      "descrizione": "PRIMA arriva in Europa e aiuta i pazienti con degenerazione maculare a tornare a leggere.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665277/impianto-retinico-prima-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:55:00+00:00"
+    },
+    {
+      "titolo": "Best Buy is selling the LG C5 OLED for nearly 50% off - and I recommend it",
+      "descrizione": "It may be one generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price during the Black Friday in July sale.",
+      "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
+      "fonte": "Latest news",
+      "data": "2026-07-23T16:45:20+00:00"
+    },
+    {
+      "titolo": "Come disattivare Google Play Protect su Android e cosa si rischia",
+      "descrizione": "Play Protect ha bloccato milioni di app malevole e installazioni rischiose. Ecco come funziona, come disattivarlo e quali sono i rischi. The post Come disattivare Google Play Protect su Android e cosa si rischia appeared",
+      "link": "https://www.punto-informatico.it/come-disattivare-google-play-protect-android-cosa-si-rischia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-23T16:31:08+00:00"
+    },
+    {
+      "titolo": "Mercedes rischia l'esclusione dal mercato USA: colpa dei partner cinesi",
+      "descrizione": "Mercedes-Benz sarebbe coinvolta in una proposta di legge che sta mirando a escludere dal car market i costruttori con legami con la Cina.",
+      "link": "https://www.hdmotori.it/usa-produttori-azionisti-cinesi-mercedes/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:30:01+00:00"
+    },
+    {
+      "titolo": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
+      "descrizione": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
+      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:25:00+00:00"
+    },
+    {
+      "titolo": "Chat Control 1.0: approvata la proroga fino ad aprile 2028",
+      "descrizione": "In attesa del regolamento permanente, il Consiglio UE ha approvato in via definitiva la proroga della scansione volontaria fino al 3 aprile 2028. The post Chat Control 1.0: approvata la proroga fino ad aprile 2028 appear",
+      "link": "https://www.punto-informatico.it/chat-control-1-approvata-proroga-aprile-2028/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-23T16:22:33+00:00"
+    },
+    {
+      "titolo": "Niente panico: per riavere il tuo account Google basterà un semplice video selfie",
+      "descrizione": "Google introduce la verifica con Video Selfie, permettendo di recuperare l'account tramite un breve filmato del volto.",
+      "link": "https://www.hdblog.it/google/articoli/n665234/google-recupero-account-video-selfie/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:15:00+00:00"
+    },
+    {
+      "titolo": "Trasformano una Lamborghini in un mostro per la Dakar, l’ultima follia targata Rezvani",
+      "descrizione": "In California hanno rivoluzionato una Lamborghini Huracán con un assetto rialzato e pneumatici da fuoristrada",
+      "link": "https://www.hdmotori.it/lamborghini-dakar-rezvani-dune/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T16:00:28+00:00"
+    },
+    {
+      "titolo": "Migliori Smartwatch da Donna (Piccoli e Design Elegante) 2026",
+      "descrizione": "Scopri i migliori smartwatch da donna 2026: modelli eleganti, adatti a un polso piccolo, con funzioni per salute, chiamate e messaggi.",
+      "link": "https://www.hdblog.it/indossabili/guide/n665084/migliori-smartwatch-donna/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T15:31:00+00:00"
+    },
+    {
+      "titolo": "Nuovi costi sui pacchi extra UE: attenzione alle truffe via SMS",
+      "descrizione": "I nuovi costi sui pacchi extra UE possono diventare un’esca per SMS e phishing. Ecco come riconoscere i messaggi falsi e proteggere dati e pagamenti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664995/nuovi-costi-sui-pacchi-extra-ue-attenzione-alle-truffe-via-sms/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T15:31:00+00:00"
+    },
+    {
+      "titolo": "Come pianificare un weekend fuori porta parlando con ChatGPT",
+      "descrizione": "Pianificare un fine settimana fuori porta parlando con ChatGPT anziché digitando prompt cambia completamente l'esperienza. The post Come pianificare un weekend fuori porta parlando con ChatGPT appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/come-pianificare-weekend-fuori-porta-parlando-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-23T15:30:59+00:00"
+    },
+    {
+      "titolo": "Clamoroso BMW, la Kawasaki Z900 è la moto più venduta ai privati in Germania",
+      "descrizione": "Dopo 6 anni crolla l'inespugnabile feudo bavarese: la Kawasaki Z 900 batte la BMW R 1300 GS tra i privati in Germania",
+      "link": "https://www.hdmotori.it/bmw-r1300gs-vs-kawasaki-z900-vendite-privati-germania-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T15:00:53+00:00"
+    },
+    {
+      "titolo": "Il mini reattore nucleare russo da 370 tonnellate è pronto a sfidare l'Artico",
+      "descrizione": "Shelf-M supera una fase chiave e si prepara ad alimentare miniere isolate nell'Artico.",
+      "link": "https://www.hdblog.it/green/articoli/n665263/russia-reattore-nucleare-shelf-m/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-23T14:55:00+00:00"
     },
     {
       "titolo": "Nuova VPN senza limiti: il piano di 28 mesi di NordVPN è la scelta giusta oggi (-70%)",
@@ -21,153 +168,6 @@
       "link": "https://www.punto-informatico.it/nuova-vpn-senza-limiti-il-piano-di-28-mesi-di-nordvpn-e-la-scelta-giusta-oggi-70/",
       "fonte": "Punto Informatico",
       "data": "2026-07-23T14:30:08+00:00"
-    },
-    {
-      "titolo": "Ecco \"Pinch\", la scheda Arduino commerciale più piccola al mondo",
-      "descrizione": "Preordini già aperti a 16 dollari, con consegne da settembre.",
-      "link": "https://www.hdblog.it/domotica/articoli/n665261/arduino-moddo-pinch-scheda-piu-piccola-al-mondo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T14:25:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT ha convinto un paziente a non andare in ospedale",
-      "descrizione": "OpenAI affronta una nuova causa legale. ChatGPT è accusato di aver fornito consigli medici pericolosi a un paziente con embolia polmonare. The post ChatGPT ha convinto un paziente a non andare in ospedale appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-ha-convinto-paziente-non-andare-ospedale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T14:13:39+00:00"
-    },
-    {
-      "titolo": "Commissione UE approva iniziativa sulla verifica dell’età",
-      "descrizione": "L'iniziativa \"Stop Killing The Internet: No Digital ID & No Age Verification\" prevede l'uso volontario dell'identità digitale e della verifica dell'età. The post Commissione UE approva iniziativa sulla verifica dell’età",
-      "link": "https://www.punto-informatico.it/commissione-ue-approva-iniziativa-verifica-eta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T14:07:38+00:00"
-    },
-    {
-      "titolo": "Google vuole che l'ecosistema Android sia pronto alla rivoluzione dei \"Wide Fold\"",
-      "descrizione": "Se le app non supportano a dovere il nuovo formato, è già spacciato.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665258/samsung-galaxy-z-fold-app-android-google-layout/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T14:05:00+00:00"
-    },
-    {
-      "titolo": "Elon Musk sfida Christopher Nolan, farà la sua Odissea con l'AI di Grok Imagine",
-      "descrizione": "Dopo gli attacchi via social, Elon Musk lancia il suo guanto di sfida a Christopher Nolan: realizzerà la sua Odissea con l'AI di Grok.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n665246/musk-sfida-nolan-odissea-ai-grok-imagine/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T14:05:00+00:00"
-    },
-    {
-      "titolo": "IT-Wallet oltre l’app IO, via ai test con le aziende private",
-      "descrizione": "Non solo nell'app IO: IT-Wallet apre anche ai portafogli digitali delle aziende private, con una sperimentazione avviata su scala nazionale. The post IT-Wallet oltre l’app IO, via ai test con le aziende private appeared",
-      "link": "https://www.punto-informatico.it/it-wallet-oltre-app-io-test-aziende-private/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T14:04:40+00:00"
-    },
-    {
-      "titolo": "Revuelto Impavido, Lamborghini crea un’armatura samurai da oltre 1.000 CV",
-      "descrizione": "Adattare le linee taglienti della Lamborghini Revuelto allo stile giapponese non è mai stato così naturale. Ecco a voi la special edition Impavido",
-      "link": "https://www.hdmotori.it/lamborghini-revuelto-impavido-lamborghini-samurai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T14:00:08+00:00"
-    },
-    {
-      "titolo": "Geely e Ford uniscono le forze, nasce la joint venture per produrre auto a Valencia",
-      "descrizione": "Geely Auto e Ford annunciano una joint venture produttiva nello stabilimento di Valencia. Dal 2028 arriveranno nuovi modelli elettrici e multi-energy",
-      "link": "https://www.hdmotori.it/geely-ford-joint-venture-valencia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T13:30:15+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Z Flip / Fold 8, ecco gli sfondi e i suoni ufficiali",
-      "descrizione": "Per chi vuole un tocco di Z8 sul proprio device.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665250/samsung-galaxy-z-flip-fold-8-sfondi-ufficiali-toni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T13:15:00+00:00"
-    },
-    {
-      "titolo": "Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design",
-      "descrizione": "The Arctic Senza AI 370 is a fanless mini PC designed to mount under your desk. Everyday performance isn’t held back by the lack of active cooling, and its soldered dual-channel 32GB LPDDR5X-8000 is appreciated during th",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-23T13:00:54+00:00"
-    },
-    {
-      "titolo": "Lepas L8, parte la conquista dell'Europa: migliaia di SUV in viaggio verso l'Italia",
-      "descrizione": "Con una prima spedizione di quasi 1.500 veicoli diretta anche in Italia, il nuovo SUV plug-in hybrid di Lepas inaugura l'espansione europea del marchio",
-      "link": "https://www.hdmotori.it/lepas-l8-cina-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T13:00:48+00:00"
-    },
-    {
-      "titolo": "Contratti con score di affidabilità: multe a quattro società",
-      "descrizione": "Hera Comm, EstEnergy, Experian Italia e Cerved Group hanno ricevuto una sanzione complessiva di 7,72 milioni di euro per violazione della privacy. The post Contratti con score di affidabilità: multe a quattro società app",
-      "link": "https://www.punto-informatico.it/contratti-score-affidabilita-multe-quattro-societa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T12:59:05+00:00"
-    },
-    {
-      "titolo": "Aqara lancia una presa smart che riduce gli sprechi di energia | PREZZO",
-      "descrizione": "Aqara Power Plug H2 EU consente di controllare elettrodomestici, programmare accensioni e spegnimenti e monitorare i consumi direttamente dall'app",
-      "link": "https://www.hdblog.it/domotica/articoli/n665238/presa-smart-aqara-monitoraggio-consumi-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T12:45:00+00:00"
-    },
-    {
-      "titolo": "Pacco in arrivo? Ci pensa Google Wallet a tracciarlo: la novità già attiva negli USA",
-      "descrizione": "Come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n665240/google-wallet-tracciamento-ordini-gmail-spedizioni-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T12:35:00+00:00"
-    },
-    {
-      "titolo": "22 Back-to-School College Dorm Room Essentials (2026)",
-      "descrizione": "Deck out your room and make class a cinch with these WIRED-tested favorites.",
-      "link": "https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/",
-      "fonte": "WIRED",
-      "data": "2026-07-23T12:01:00+00:00"
-    },
-    {
-      "titolo": "Skate 50 Black Edition, 100 esemplari, abito dark e forcella XL",
-      "descrizione": "Look total black e ciclistica potenziata per la Vent Skate 50 Black Edition. Le novità della serie speciale prodotta in 100 unità al prezzo di 3.350 euro.",
-      "link": "https://www.hdmotori.it/vent-skate-50-black-edition-prezzo-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T12:00:56+00:00"
-    },
-    {
-      "titolo": "Google Pixel Watch 5, il chip non cambia ma aumenta la RAM",
-      "descrizione": "Cosa è emerso in anticipo sul lancio del 12 agosto.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665227/google-pixel-watch-5-chip-ram-specifiche-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T11:55:00+00:00"
-    },
-    {
-      "titolo": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
-      "descrizione": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels.",
-      "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
-      "fonte": "WIRED",
-      "data": "2026-07-23T11:00:00+00:00"
-    },
-    {
-      "titolo": "In arrivo un MacBook Neo con chip A19 Pro e più RAM",
-      "descrizione": "Apple ha avviato lo sviluppo di nuovi Mac che debutteranno tra fine 2026 e inizio 2027, tra cui un MacBook Neo con chip A19 Pro e 12 GB di RAM. The post In arrivo un MacBook Neo con chip A19 Pro e più RAM appeared first",
-      "link": "https://www.punto-informatico.it/macbook-neo-chip-a19-pro-piu-ram/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T10:53:17+00:00"
-    },
-    {
-      "titolo": "Prime Video, le novità di agosto 2026: arriva il documentario su Djokovic",
-      "descrizione": "Le principali nuove uscite disponibili nel mese di agosto sulla piattaforma streaming video statunitense Prime Video. The post Prime Video, le novità di agosto 2026: arriva il documentario su Djokovic appeared first on P",
-      "link": "https://www.punto-informatico.it/prime-video-novita-agosto-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T10:42:14+00:00"
-    },
-    {
-      "titolo": "Banning Social Media for Kids Is a Bad Idea",
-      "descrizione": "The risks are real. But banning children from the internet could create new problems without solving the ones that really matter.",
-      "link": "https://www.wired.com/story/banning-social-media-for-kids-is-a-bad-idea/",
-      "fonte": "WIRED",
-      "data": "2026-07-23T10:00:00+00:00"
     }
   ]
 }
