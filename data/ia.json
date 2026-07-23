@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-23T08:44:59.346536+00:00",
+  "last_updated": "2026-07-23T14:33:55.287095+00:00",
   "items": [
     {
-      "titolo": "TIM Priority e WiFi Priority, una corsia preferenziale per internet",
-      "descrizione": "Cerchiamo di capire meglio cos'è TIM Priority, quali sono i vantaggi dell'opzione WiFi Priority e cosa comporta per tutti gli altri clienti. The post TIM Priority e WiFi Priority, una corsia preferenziale per internet ap",
-      "link": "https://www.punto-informatico.it/tim-priority-wifi-priority-corsia-preferenziale-internet/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-23T06:36:18+00:00",
+      "titolo": "OpenAI's agent breached Hugging Face before an AI defender caught it: What users should do next",
+      "descrizione": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
+      "link": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+      "fonte": "Latest news",
+      "data": "2026-07-23T14:29:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude registra il tuo lavoro e lo rifà da solo: Record a Skill preoccupa gli utenti",
-      "descrizione": "Claude impara osservando lo schermo e automatizza i compiti ripetitivi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665180/claude-record-skill-rischi-lavoro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T07:55:00+00:00",
+      "titolo": "I use Anthropic's Claude AI tools for very different jobs: How to pick between models, Code, and Cowork",
+      "descrizione": "Here's how Anthropic's AI tools work, what they can accomplish, and why security, cost, and your oversight still matter.",
+      "link": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
+      "fonte": "Latest news",
+      "data": "2026-07-23T12:26:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Microsoft e Mistral rafforzano la partnership sull'intelligenza artificiale",
-      "descrizione": "Microsoft e Mistral ampliano la loro partnership con un accordo multimiliardario per rafforzare l'infrastruttura europea dell'intelligenza artificiale. Previsti nuovi data center, GPU Nvidia e...",
-      "link": "https://www.hdblog.it/microsoft/articoli/n665199/microsoft-mistral-ai-europea-accordo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T08:25:00+00:00",
-      "modello": "altri"
     }
   ]
 }
