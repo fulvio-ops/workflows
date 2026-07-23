@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-07-22T19:45:08.052879+00:00",
+  "last_updated": "2026-07-23T03:46:36.635191+00:00",
   "items": [
+    {
+      "titolo": "Why Lettuce Is Always Making People Sick",
+      "descrizione": "The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part of a pattern of leafy greens wreaking digestive havoc.",
+      "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+      "fonte": "WIRED",
+      "data": "2026-07-22T21:41:29+00:00"
+    },
+    {
+      "titolo": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk'",
+      "descrizione": "The company is making adjustments to some existing pre-orders.",
+      "link": "https://www.tomshardware.com/laptops/framework-nearly-doubles-memory-pricing-for-32gb-64gb-laptop-13-pro-overnight-ceo-says-absorbing-lpcamm2-supplier-hikes-would-put-our-ability-to-operate-at-real-financial-risk",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-22T20:50:46+00:00"
+    },
+    {
+      "titolo": "Abbiamo provato Samsung Galaxy Z Fold8, Fold8 Ultra e Flip8 | VIDEO",
+      "descrizione": "Abbiamo toccato con mano i nuovi pieghevoli di Samsung: c'è un nuovo modello \"Ultra\" e lo standard diventa più compatto ed adatto alla fruizione di contenuti multimediali. Prezzi? In linea con le...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n664546/anteprima-samsung-galaxy-z-fold-flip-8-ultra-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-22T19:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold 8 Ultra, Fold 8 e Flip 8 ufficiali: prezzi e promo di lancio",
+      "descrizione": "Samsung ha presentato la nuova generazione dei suoi smartphone pieghevoli",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664932/samsung-galaxy-z-fold-8-ultra-prezzi-promo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-22T18:59:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Watch Ultra 2 e Watch 9 ufficiali: caratteristiche, prezzi e promo",
+      "descrizione": "Si rivolgono a utenti differenti",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664957/samsung-galaxy-watch-ultra2-watch9-ufficiali/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-22T18:58:00+00:00"
+    },
     {
       "titolo": "Apple ha grandi piani per i suoi Mac desktop, nonostante la crisi dei chip",
       "descrizione": "In cantiere un nuovo Mac Mini (con due generazioni di chip), un Mac Studio e, più avanti, arriverà anche un iMac OLED.",
@@ -107,13 +142,6 @@
       "data": "2026-07-22T15:30:12+00:00"
     },
     {
-      "titolo": "TIM Priority, internet a due velocità: è un profondo cambiamento per la rete italiana",
-      "descrizione": "Si parte con la fibra, poi toccherà anche al 5G: TIM Priority prevede un accesso prioritario alla rete, ovviamente pagando un sovrapprezzo.",
-      "link": "https://www.hdblog.it/tim/articoli/n665129/tim-priority-profondo-cambiamento-rete-italiana/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-22T15:15:00+00:00"
-    },
-    {
       "titolo": "La rete di TIM a due velocità con l’arrivo di Priority",
       "descrizione": "È ufficiale l'arrivo di TIM Priority, opzione che prevede un sovrapprezzo per chi non vuole compromessi in termini di velocità e latenza. The post La rete di TIM a due velocità con l’arrivo di Priority appeared first on",
       "link": "https://www.punto-informatico.it/tim-priority/",
@@ -140,34 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-22T13:23:33+00:00"
-    },
-    {
-      "titolo": "Chinese modder gets GeForce RTX 4060 working in Windows 11 on Huawei Arm workstation — uses modified driver borrowed from an Nvidia RTX Spark",
-      "descrizione": "Borrowing a driver from the upcoming RTX Spark, VoidTech managed to get x86 Windows games running on a Huawei Arm workstation.",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/chinese-modder-gets-geforce-rtx-4060-working-in-windows-11-on-huawei-arm-workstation-uses-modified-driver-borrowed-from-an-nvidia-rtx-spark",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-22T13:18:38+00:00"
-    },
-    {
-      "titolo": "I nuovi Samsung Galaxy Watch Ultra2 e Watch9 sono ufficiali",
-      "descrizione": "I nuovi Samsung Galaxy Watch Ultra2 e Galaxy Watch9 annunciati all'evento Unpacked 2026, insieme ai tre modelli di smartphone pieghevoli. The post I nuovi Samsung Galaxy Watch Ultra2 e Watch9 sono ufficiali appeared firs",
-      "link": "https://www.punto-informatico.it/nuovi-samsung-galaxy-watch-ultra2-watch9-ufficiali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-22T13:02:53+00:00"
-    },
-    {
-      "titolo": "Galaxy Z Fold8 Ultra, Fold8 e Flip8 ufficiali: caratteristiche e prezzi",
-      "descrizione": "Annuncio ufficiale per i nuovi smartphone pieghevoli di Samsung: tutto quello che c'è da sapere su Galaxy Z Fold8 Ultra, Z Fold8 e Z Flip8. The post Galaxy Z Fold8 Ultra, Fold8 e Flip8 ufficiali: caratteristiche e prezzi",
-      "link": "https://www.punto-informatico.it/galaxy-z-fold8-ultra-fold8-flip8-ufficiali-caratteristiche-prezzi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-22T13:00:56+00:00"
-    },
-    {
-      "titolo": "Prezzo della benzina troppo alto? Le app che ti fanno risparmiare",
-      "descrizione": "Con queste applicazioni puoi confrontare i prezzi di benzina, diesel e altri carburanti, per scegliere dove fare rifornimento risparmiando. The post Prezzo della benzina troppo alto? Le app che ti fanno risparmiare appea",
-      "link": "https://www.punto-informatico.it/prezzo-benzina-app-risparmiare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-22T12:55:16+00:00"
     }
   ]
 }
