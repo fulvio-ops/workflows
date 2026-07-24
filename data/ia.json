@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-24T08:43:42.681500+00:00",
+  "last_updated": "2026-07-24T14:14:18.006241+00:00",
   "items": [
     {
-      "titolo": "Giudice respinge la denuncia di Google contro SerpApi",
-      "descrizione": "Secondo la giudice, Google non può usare la legge sul copyright per impedire a SerpApi di effettuare lo scraping dei risultati delle ricerche. The post Giudice respinge la denuncia di Google contro SerpApi appeared first",
-      "link": "https://www.punto-informatico.it/giudice-respinge-denuncia-google-contro-serpapi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T07:42:34+00:00",
+      "titolo": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days",
+      "descrizione": "OpenAI confirmed to Hugging Face only this week that models it was testing carried out the July 11 attack on the AI platform's production infrastructure.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-took-ten-days-to-tell-hugging-face-its-models-were-behind-the-july-11-weekend-hack",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-24T13:47:15+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Live sbarca sui dispositivi Google Home di prima generazione",
-      "descrizione": "Gemini Live arriva sui vecchi Google Home con memoria contestuale e nuove funzioni.",
-      "link": "https://www.hdblog.it/google/articoli/n665313/gemini-live-google-home-vecchi-dispositivi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T08:05:00+00:00",
-      "modello": "gemini"
+      "titolo": "Microsoft si arrende sul tasto Copilot, potremo disabilitarlo",
+      "descrizione": "Windows 11 consentirà di rendere completamente inutile il tasto Copilot, scegliendo Do nothing nelle impostazioni dedicate alla tastiera. The post Microsoft si arrende sul tasto Copilot, potremo disabilitarlo appeared fi",
+      "link": "https://www.punto-informatico.it/microsoft-tasto-copilot-potremo-disabilitarlo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-24T10:01:20+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Kimi K3 ha distillato Claude Fable? Gli esperti dicono no",
