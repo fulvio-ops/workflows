@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-07-24T03:45:51.262960+00:00",
+  "last_updated": "2026-07-24T08:43:42.681500+00:00",
   "items": [
     {
-      "titolo": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
-      "descrizione": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
-      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-23T16:25:00+00:00",
+      "titolo": "Giudice respinge la denuncia di Google contro SerpApi",
+      "descrizione": "Secondo la giudice, Google non può usare la legge sul copyright per impedire a SerpApi di effettuare lo scraping dei risultati delle ricerche. The post Giudice respinge la denuncia di Google contro SerpApi appeared first",
+      "link": "https://www.punto-informatico.it/giudice-respinge-denuncia-google-contro-serpapi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-24T07:42:34+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
-      "descrizione": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
-      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
+      "titolo": "Gemini Live sbarca sui dispositivi Google Home di prima generazione",
+      "descrizione": "Gemini Live arriva sui vecchi Google Home con memoria contestuale e nuove funzioni.",
+      "link": "https://www.hdblog.it/google/articoli/n665313/gemini-live-google-home-vecchi-dispositivi/",
       "fonte": "HDblog.it",
-      "data": "2026-07-23T16:25:00+00:00",
+      "data": "2026-07-24T08:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "I use Anthropic's Claude AI tools for very different jobs: How to pick between models, Code, and Cowork",
-      "descrizione": "Here's how Anthropic's AI tools work, what they can accomplish, and why security, cost, and your oversight still matter.",
-      "link": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
-      "fonte": "Latest news",
-      "data": "2026-07-23T12:26:00+00:00",
+      "titolo": "Kimi K3 ha distillato Claude Fable? Gli esperti dicono no",
+      "descrizione": "La Casa Bianca accusa Moonshot di aver copiato Claudr Fable per costruire Kimi K3. Gli esperti dicono che è impossibile. The post Kimi K3 ha distillato Claude Fable? Gli esperti dicono no appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/kimi-k3-distillato-claude-fable-esperti-dicono-no/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-24T08:04:25+00:00",
       "modello": "claude"
     }
   ]
