@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T14:14:18.006241+00:00",
+  "last_updated": "2026-07-24T19:48:16.609667+00:00",
   "items": [
     {
-      "titolo": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days",
-      "descrizione": "OpenAI confirmed to Hugging Face only this week that models it was testing carried out the July 11 attack on the AI platform's production infrastructure.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-took-ten-days-to-tell-hugging-face-its-models-were-behind-the-july-11-weekend-hack",
+      "titolo": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
+      "descrizione": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T13:47:15+00:00",
+      "data": "2026-07-24T18:31:48+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Kimi K3 ha distillato Claude Fable? Gli esperti dicono no",
-      "descrizione": "La Casa Bianca accusa Moonshot di aver copiato Claudr Fable per costruire Kimi K3. Gli esperti dicono che è impossibile. The post Kimi K3 ha distillato Claude Fable? Gli esperti dicono no appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/kimi-k3-distillato-claude-fable-esperti-dicono-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T08:04:25+00:00",
+      "titolo": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
+      "descrizione": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-24T18:31:48+00:00",
       "modello": "claude"
     }
   ]
