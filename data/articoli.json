@@ -1,12 +1,124 @@
 {
-  "last_updated": "2026-07-25T08:24:35.351260+00:00",
+  "last_updated": "2026-07-25T14:03:21.586339+00:00",
   "items": [
     {
+      "titolo": "Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories",
+      "descrizione": "Nvidia and SK Group enter $500 billion strategic partnership focused on long-term memory supply, 2 GW AI data center, and future AI infrastructure",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-25T13:55:35+00:00"
+    },
+    {
+      "titolo": "Il nobile scopo di una famosissima hit anni ‘90: prevenire gli scontri stradali",
+      "descrizione": "Un celebre brano di Robert Miles è stato composto per prevenire le \"stragi del sabato sera\", fenomeno di particolare rilevanza sulle strade italiane negli anni '90.",
+      "link": "https://www.hdmotori.it/scopo-hit-anni-90-prevenire-scontri-stradali/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T13:00:06+00:00"
+    },
+    {
+      "titolo": "Il gigante delle batterie Varta dichiara fallimento in Germania",
+      "descrizione": "La storica azienda tedesca di batterie ha presentato istanza di insolvenza, schiacciata dalla concorrenza cinese e della perdita di commesse chiave. A rischio 3.000 posti di lavoro.",
+      "link": "https://www.hdmotori.it/varta-fallimento-germania/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T11:30:27+00:00"
+    },
+    {
+      "titolo": "HONOR 600 da 256GB: il perfetto medio gamma per non spendere un capitale",
+      "descrizione": "L'HONOR 600, in questa versione da 8 GB di RAM e 256 GB di memoria interna in offerta su ebay, ha un rapporto qualità prezzo eccellente. The post HONOR 600 da 256GB: il perfetto medio gamma per non spendere un capitale a",
+      "link": "https://www.punto-informatico.it/honor-600-256gb-perfetto-medio-gamma-per-non-spendere-un-capitale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-25T11:16:49+00:00"
+    },
+    {
+      "titolo": "Mercedes-Benz, il ritorno del Classe G Cabriolet si avvicina sempre più: prime immagini",
+      "descrizione": "Dopo una lunga attesa, Mercedes-Benz ha svelato le prime immagini ufficiali della nuova variante scoperta della Classe G",
+      "link": "https://www.hdmotori.it/mercedes-benz-classe-g-cabriolet/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T11:00:51+00:00"
+    },
+    {
+      "titolo": "Game Compressor can save you hundreds of GB across your game library — as storage prices remain high, utility leverages Windows' built-in LZX compression for substantial space savings",
+      "descrizione": "Game Compressor leverages Windows' built-in LZX compression for substantial space savings and can save you hundreds of gigs across your game library.",
+      "link": "https://www.tomshardware.com/pc-components/storage/game-compressor-can-save-you-hundreds-of-gigs-across-your-game-library-usd6-utility-leverages-windows-built-in-lzx-compression-for-substantial-space-savings",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-25T11:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
+      "descrizione": "Samsung's new Z Fold 8 Ultra brings design and software changes geared toward power users and enthusiasts.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
+      "fonte": "Latest news",
+      "data": "2026-07-25T10:45:42+00:00"
+    },
+    {
+      "titolo": "XIAOMI Smart Band 10: piccola e funzionale, oggi anche in offerta",
+      "descrizione": "La XIAOMI Smart Band 10 si presenta con un design estremamente compatto senza trascurare diverse funzionalità ed è in offerta su Amazon. The post XIAOMI Smart Band 10: piccola e funzionale, oggi anche in offerta appeared",
+      "link": "https://www.punto-informatico.it/xiaomi-smart-band-10-piccola-funzionale-oggi-anche-offerta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-25T10:35:28+00:00"
+    },
+    {
+      "titolo": "Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly fire incident — Moscow confirms fifth-generation fighter jet crashed in 'technical malfunction'",
+      "descrizione": "An advanced fifth-generation Su-57 stealth fighter jet crashed spectacularly “during a routine training mission in the Moscow region on Thursday,” say reports published by Russian state media. But some Ukrainian sources",
+      "link": "https://www.tomshardware.com/tech-industry/drones/pro-ukraine-group-claims-it-helped-hack-russian-drone-air-defence-system-shooting-down-su-57-in-friendly-fire-incident-moscow-confirms-fifth-generation-fighter-jet-crashed-in-technical-malfunction",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-25T10:30:00+00:00"
+    },
+    {
+      "titolo": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "descrizione": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "fonte": "WIRED",
+      "data": "2026-07-25T10:30:00+00:00"
+    },
+    {
+      "titolo": "Meta, Microsoft e NVIDIA contro Washington: scontro sull'AI open",
+      "descrizione": "Le Big Tech difendono l'AI open-weight mentre cresce lo scontro tecnologico con la Cina.",
+      "link": "https://www.hdblog.it/mercato/articoli/n665415/usa-big-tech-ai-open-weight/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T10:05:00+00:00"
+    },
+    {
+      "titolo": "[Risolto] ChatGPT non funziona in Italia: i problemi e cosa succede",
+      "descrizione": "Nella tarda mattinata di oggi, sabato 25 luglio, ChatGPT ha problemi in Italia",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665425/chatgpt-problemi-italia-25-luglio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T09:55:00+00:00"
+    },
+    {
+      "titolo": "Google multata dall'UE? Trump reagisce con l'arma dei dazi",
+      "descrizione": "Trump risponde alla multa UE contro Google con una nuova minaccia di dazi commerciali.",
+      "link": "https://www.hdblog.it/mercato/articoli/n665409/trump-dazi-unione-europea-google-multa/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T09:05:00+00:00"
+    },
+    {
+      "titolo": "Primo weekend di esodo estivo: 27 milioni di auto in viaggio sulle strade italiane",
+      "descrizione": "Traffico da bollino rosso per il primo grande weekend di partenze verso le località balneari. Ecco le previsioni di viabilità e le tratte più critiche.",
+      "link": "https://www.hdmotori.it/primo-weekend-esodo-estivo-strade-italiane/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T09:00:17+00:00"
+    },
+    {
+      "titolo": "RAM thieves in China jailed after looting a string of eSport hotels — stole 16 sticks worth $2,000 in 'frenzied hotel room-dismantling'",
+      "descrizione": "The rise and fall of a pair of eSports hotel RAM thieves has been retold by Chinese news media.",
+      "link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-25T09:00:00+00:00"
+    },
+    {
       "titolo": "Scoperta la prima esoluna: a 73 anni luce da noi un mondo che sfida le nostre definizioni",
-      "descrizione": "Fra pochi giorni, qui sul pianeta Terra, sarà di nuovo Luna piena. Il 29 luglio la nostra splendida compagna celeste si mostrerà in tutta la sua lucente bellezza. Chi ha...",
+      "descrizione": "Un team internazionale con forte partecipazione italiana dell’Inaf ha individuato per la prima volta un oggetto gassoso grande come Giove in orbita attorno a una nana bruna",
       "link": "https://www.ilsole24ore.com/art/scoperta-prima-esoluna-73-anni-luce-noi-mondo-che-sfida-nostre-definizioni-AJmTyoU",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-25T08:10:54+00:00"
+    },
+    {
+      "titolo": "Google Pixel 10 Pro XL torna in promo su Amazon, è il momento giusto per comprarlo?",
+      "descrizione": "Il Google Pixel 10 Pro XL è in offerta su Amazon e diventa oggi un best buy tra gli samrtphone di fascia alta.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665416/google-pixel-10-pro-xl-amazon-sconto-lug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T07:50:00+00:00"
     },
     {
       "titolo": "Il prompt di ChatGPT per chi vuole cambiare lavoro",
@@ -56,118 +168,6 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n665380/nasa-studio-roghi-controllati-sequoie/",
       "fonte": "HDblog.it",
       "data": "2026-07-24T17:20:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S27 series: conferme sul Pro e filtrano informazioni sulle fotocamere",
-      "descrizione": "Ecco che cambiamenti possiamo aspettarci.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665393/samsung-galaxy-s27-fotocamere-pro-sensori-sony/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T17:05:00+00:00"
-    },
-    {
-      "titolo": "50 anni di BMW RS, come una sigla ha cambiato per sempre le moto",
-      "descrizione": "Nel 1976 nasceva la gamma RS di BMW. Dalle origini con Pininfarina ai record di Nardò fino alla nuova R 1300 RS, cinquant'anni di evoluzione e passione boxer",
-      "link": "https://www.hdmotori.it/bmw-rs-50-anni-storia-modelli-boxer/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T17:00:34+00:00"
-    },
-    {
-      "titolo": "La Cina vuole deviare un asteroide con un impatto a Mach 26",
-      "descrizione": "La Cina testerà la deviazione di un asteroide con un impatto a oltre Mach 26.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n665334/cina-missione-deviazione-asteroide-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T16:55:00+00:00"
-    },
-    {
-      "titolo": "AMD investirà fino a 5 miliardi di dollari in Anthropic",
-      "descrizione": "AMD investirà fino a 5 miliardi di dollari in Anthropic, mentre Anthropic acquisterà le GPU della serie Instinct MI450 per una capacità massima di 2 GW. The post AMD investirà fino a 5 miliardi di dollari in Anthropic ap",
-      "link": "https://www.punto-informatico.it/amd-investira-5-miliardi-dollari-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T16:35:59+00:00"
-    },
-    {
-      "titolo": "Geekom A9 Max 2026 review: Gorgon Point in a compact Mini PC",
-      "descrizione": "Mini PC specialist Geekom has updated its A9 Max design with AMD’s latest mobile silicon. The incremental improvements of the AMD Ryzen AI 9 HX470 are supported by a revamped Ice Blast 3.0 cooling solution with larger fa",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/geekom-a9-max-2026-mini-pc-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T16:30:00+00:00"
-    },
-    {
-      "titolo": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes",
-      "descrizione": "A recent uptick in lag and disconnects led me to reevaluate my home office setup. Here's how I validated my solution.",
-      "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
-      "fonte": "Latest news",
-      "data": "2026-07-24T16:23:45+00:00"
-    },
-    {
-      "titolo": "Passeresti a Very Mobile? 150 Giga, minuti illimitati e 5G a un prezzo mai visto",
-      "descrizione": "Cambiare operatore oggi conviene. The post Passeresti a Very Mobile? 150 Giga, minuti illimitati e 5G a un prezzo mai visto appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/passeresti-a-very-mobile-150-giga-minuti-illimitati-e-5g-a-un-prezzo-mai-visto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T16:00:40+00:00"
-    },
-    {
-      "titolo": "Volkswagen brevetta il volante antistress, così si scarica la tensione",
-      "descrizione": "Volkswagen ha mantenuto la promessa e ha reintrodotto i pulsanti fisici. Analizziamo nel dettaglio il deposito di un nuovo volante per un feedback atipico",
-      "link": "https://www.hdmotori.it/volkswagen-brevetta-volante-antistres/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T16:00:17+00:00"
-    },
-    {
-      "titolo": "Una valvola CRT diventa una sorgente di raggi X | Video",
-      "descrizione": "Una vecchia valvola TV diventa una macchina a raggi X capace di fotografare oggetti comuni.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665374/vecchia-valvola-tv-macchina-raggi-x/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T15:55:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp cambia il design delle chat su iPhone: via i bordi e più minimalismo",
-      "descrizione": "L'interfaccia di WhatsApp su iPhone si rinnova con un design più moderno per le bolle delle chat.",
-      "link": "https://www.hdblog.it/apple/articoli/n665346/whatsapp-ios-chat-iphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T15:45:00+00:00"
-    },
-    {
-      "titolo": "Hyundai IONIQ 6 N Line arriva in Italia, 325 CV e fino a 595 km di autonomia",
-      "descrizione": "Hyundai apre gli ordini della nuova IONIQ 6 N Line: 325 CV, trazione integrale, batteria da 84 kWh e fino a 595 km di autonomia WLTP",
-      "link": "https://www.hdmotori.it/hyundai-ioniq-6-n-line-motori-autonomia-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-24T15:30:33+00:00"
-    },
-    {
-      "titolo": "AMD working on new X3D V-cache mobile chip for gaming laptops, leaker claims — Ryzen 7 9800HX3D could launch with 8 cores, 16 threads, and 96MB cache",
-      "descrizione": "A fresh leak suggests AMD is preparing an 8-core, 16-thread Zen 5 mobile processor with 96MB of L3 cache, potentially bringing the desktop Ryzen 7 9800X3D experience to gaming laptops.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-working-on-new-x3d-v-cache-mobile-chip-for-gaming-laptops-leaker-claims-ryzen-7-9800hx3d-could-launch-with-8-cores-16-threads-and-96mb-cache",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T15:07:53+00:00"
-    },
-    {
-      "titolo": "Apre l’ambulatorio di ChatGPT Salute, può usare i dati sanitari",
-      "descrizione": "OpenAI lancia ChatGPT Salute per tutti negli Stati Uniti: può usare informazioni su farmaci, esami, visite e i dati di Apple Health. The post Apre l’ambulatorio di ChatGPT Salute, può usare i dati sanitari appeared first",
-      "link": "https://www.punto-informatico.it/apre-ambulatorio-chatgpt-salute-puo-usare-dati-sanitari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T15:00:32+00:00"
-    },
-    {
-      "titolo": "Gigabyte announces support for Chinese-made CXMT memory — pushes it to 8200 MT/s on Socket AM5",
-      "descrizione": "The performance is impressive and it's good to see official support, but the question remains whether you can actually buy any of it.",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/gigabyte-announces-support-for-chinese-made-cxmt-memory-pushes-it-to-8200-mt-s-on-socket-am5",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T14:44:58+00:00"
-    },
-    {
-      "titolo": "South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S. tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit",
-      "descrizione": "Samsung and SK Hynix are expected to unveil multibillion-dollar memory-chip partnerships with major U.S. technology companies during South Korean President Lee Jae Myung’s visit to San Francisco",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korean-memory-giants-samsung-and-sk-hynix-are-set-to-announce-massive-deals-with-leading-u-s-tech-firms-report-claims-korean-president-arrives-in-silicon-valley-for-meetings-and-high-profile-ai-summit",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T14:43:04+00:00"
-    },
-    {
-      "titolo": "AMD exec was ‘very happy’ to see Nvidia‘s Vera performance results – ‘I actually thought we were beating them by smaller numbers’",
-      "descrizione": "Nvidia took the first stab with its Vera results earlier this week, and now AMD is biting back with SPEC results for its Zen 6 ‘Venice’ CPUs, as well.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T14:39:03+00:00"
     }
   ]
 }
