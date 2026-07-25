@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-25T03:40:09.570767+00:00",
+  "last_updated": "2026-07-25T08:24:35.351260+00:00",
   "items": [
+    {
+      "titolo": "Scoperta la prima esoluna: a 73 anni luce da noi un mondo che sfida le nostre definizioni",
+      "descrizione": "Fra pochi giorni, qui sul pianeta Terra, sarà di nuovo Luna piena. Il 29 luglio la nostra splendida compagna celeste si mostrerà in tutta la sua lucente bellezza. Chi ha...",
+      "link": "https://www.ilsole24ore.com/art/scoperta-prima-esoluna-73-anni-luce-noi-mondo-che-sfida-nostre-definizioni-AJmTyoU",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-25T08:10:54+00:00"
+    },
+    {
+      "titolo": "Il prompt di ChatGPT per chi vuole cambiare lavoro",
+      "descrizione": "ChatGPT non dovrebbe scrivere il Curriculum Vitae, dovrebbe aiutare a capire dove si vuole andare. Ecco il prompt per svoltare. The post Il prompt di ChatGPT per chi vuole cambiare lavoro appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/prompt-chatgpt-chi-vuole-cambiare-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-25T07:30:32+00:00"
+    },
+    {
+      "titolo": "Starship Flight 13 è un successo: lanciati anche i satelliti Starlink",
+      "descrizione": "Starship completa il miglior ammaraggio di sempre e testa con successo i nuovi Starlink V3.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665411/spacex-starship-starlink-v3-successo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-25T07:05:00+00:00"
+    },
+    {
+      "titolo": "4 offerte Dyson da non perdere su eBay: fino al 50% di sconto per te",
+      "descrizione": "Su eBay abbiamo trovato 4 offerte firmate Dyson, direttamente all'interno del suo negozio ufficiale, fino al 50% di sconto: approfittane. The post 4 offerte Dyson da non perdere su eBay: fino al 50% di sconto per te appe",
+      "link": "https://www.punto-informatico.it/4-offerte-dyson-da-non-perdere-su-ebay-fino-al-50-di-sconto-per-te/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-25T06:00:31+00:00"
+    },
     {
       "titolo": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
       "descrizione": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
@@ -140,34 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-24T14:39:03+00:00"
-    },
-    {
-      "titolo": "Facebook Verified: badge gratuito per le persone reali",
-      "descrizione": "Facebook Verified è un badge gratuito che gli utenti possono ricevere dopo aver completato il riconoscimento facciale tramite video selfie. The post Facebook Verified: badge gratuito per le persone reali appeared first o",
-      "link": "https://www.punto-informatico.it/facebook-verified-badge-gratuito-persone-reali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T13:38:05+00:00"
-    },
-    {
-      "titolo": "PlayStation Network (PSN) down il 24 luglio: cosa succede? Risolto",
-      "descrizione": "Down in corso per PSN: la piattaforma PlayStation Network non funziona, ci sono problemi di login anche per l'applicazione mobile. The post PlayStation Network (PSN) down il 24 luglio: cosa succede? Risolto appeared firs",
-      "link": "https://www.punto-informatico.it/playstation-network-psn-down-24072026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-24T11:31:56+00:00"
-    },
-    {
-      "titolo": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today — deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
-      "descrizione": "On this day in 2006, AMD confirmed its acquisition of graphics chip firm ATI. AMD stumped up a cash-and-stock deal worth a total of $5.4B for the Canadian PC graphics innovators.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/amd-confirmed-usd5-4-billion-ati-acquisition-20-years-ago-today-deal-to-reinvent-our-industry-paved-the-way-for-radeon-gpu-innovation-apus-and-games-console-domination",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-24T10:00:00+00:00"
-    },
-    {
-      "titolo": "Some Kids Will Never Think AI Is Cool",
-      "descrizione": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "fonte": "WIRED",
-      "data": "2026-07-24T10:00:00+00:00"
     }
   ]
 }
