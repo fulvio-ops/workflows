@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-07-24T19:48:12.799848+00:00",
+  "last_updated": "2026-07-25T03:40:09.570767+00:00",
   "items": [
+    {
+      "titolo": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+      "descrizione": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+      "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+      "fonte": "WIRED",
+      "data": "2026-07-24T20:42:11+00:00"
+    },
     {
       "titolo": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
       "descrizione": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds",
@@ -161,13 +168,6 @@
       "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
       "fonte": "WIRED",
       "data": "2026-07-24T10:00:00+00:00"
-    },
-    {
-      "titolo": "European Researchers Say Big Tech Is Blocking Access to Their Data",
-      "descrizione": "EU law gives researchers unprecedented rights to scrutinize social media data. Researchers say TikTok, X, and Meta impede their attempts to look inside.",
-      "link": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
-      "fonte": "WIRED",
-      "data": "2026-07-24T08:49:52+00:00"
     }
   ]
 }
