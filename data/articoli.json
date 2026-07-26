@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-07-26T08:39:26.436784+00:00",
+  "last_updated": "2026-07-26T13:58:40.461691+00:00",
   "items": [
+    {
+      "titolo": "Toyota allunga la vita dei suoi modelli: meno restyling e più aggiornamenti software",
+      "descrizione": "Il colosso giapponese rilascerà meno restyling estetici per estendere la vita dei suoi modelli fino a nove anni, focalizzandosi invece sugli aggiornamenti software.",
+      "link": "https://www.hdmotori.it/toyota-allunga-vita-modelli-meno-restyling/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-26T12:30:35+00:00"
+    },
+    {
+      "titolo": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+      "descrizione": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+      "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+      "fonte": "WIRED",
+      "data": "2026-07-26T11:09:00+00:00"
+    },
+    {
+      "titolo": "Sanzione Google: Trump minaccia nuovi dazi all’Europa",
+      "descrizione": "In seguito alla sanzione inflitta a Google, Trump ha annunciato l'avvio di un indagine commerciale e la probabile imposizione di nuovi dazi all'Europa. The post Sanzione Google: Trump minaccia nuovi dazi all’Europa appea",
+      "link": "https://www.punto-informatico.it/sanzione-google-trump-minaccia-nuovi-dazi-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-26T10:43:59+00:00"
+    },
+    {
+      "titolo": "Perché i cavi USB Type-B sono rimasti molto di nicchia?",
+      "descrizione": "È stato vittima... della sua stazza, prevalentemente. Ma si usa ancora!",
+      "link": "https://www.hdblog.it/hardware/articoli/n665241/usb-type-b-popolare-come-fatto-cosa-serve/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-26T10:05:00+00:00"
+    },
+    {
+      "titolo": "AI enthusiast adds Nvidia Tesla V100 as loud as a lawnmower to gaming PC for $266 — 32GB of VRAM rig can run 27 billion parameter model at 32 tokens per second",
+      "descrizione": "A computing enthusiast has repurposed a very noisy and largely obsolete enterprise GPU (with lots of VRAM) for local LLM inference purposes.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/ai-enthusiast-adds-nvidia-tesla-v100-as-loud-as-a-lawnmower-to-gaming-pc-for-usd266-32gb-of-vram-rig-can-run-27-billion-parameter-model-at-32-tokens-per-second",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-26T10:00:00+00:00"
+    },
+    {
+      "titolo": "Sony WH-1000XM6, le cuffie che uso a casa e in viaggio: a chi e perché le consiglio",
+      "descrizione": "Un altro accessorio che mi accompagna sempre, sia a casa sia quando sono in viaggi",
+      "link": "https://www.hdblog.it/indossabili/consigli/n665307/sony-wh-1000xm6-cuffie-consiglio/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-26T09:01:00+00:00"
+    },
+    {
+      "titolo": "Repsol, Bosch, BMW e Toyota testano la benzina 100% rinnovabile",
+      "descrizione": "In Spagna è stato lanciato un progetto pilota per testare la benzina 100% rinnovabile in condizioni reali e su veicoli già in uso, quindi senza modifiche.",
+      "link": "https://www.hdmotori.it/repsol-bosch-bmw-toyota-benzina-rinnovabile/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-26T09:00:02+00:00"
+    },
     {
       "titolo": "Citizen rilancia il lusso accessibile con due nuovi Tsuyosa automatici dorati",
       "descrizione": "Citizen porta il look dorato sulla linea Tsuyosa 60 con due nuovi automatici da 37 e 40 mm.",
@@ -119,55 +168,6 @@
       "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
       "fonte": "Latest news",
       "data": "2026-07-25T10:45:42+00:00"
-    },
-    {
-      "titolo": "XIAOMI Smart Band 10: piccola e funzionale, oggi anche in offerta",
-      "descrizione": "La XIAOMI Smart Band 10 si presenta con un design estremamente compatto senza trascurare diverse funzionalità ed è in offerta su Amazon. The post XIAOMI Smart Band 10: piccola e funzionale, oggi anche in offerta appeared",
-      "link": "https://www.punto-informatico.it/xiaomi-smart-band-10-piccola-funzionale-oggi-anche-offerta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-25T10:35:28+00:00"
-    },
-    {
-      "titolo": "Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly fire incident — Moscow confirms fifth-generation fighter jet crashed in 'technical malfunction'",
-      "descrizione": "An advanced fifth-generation Su-57 stealth fighter jet crashed spectacularly “during a routine training mission in the Moscow region on Thursday,” say reports published by Russian state media. But some Ukrainian sources",
-      "link": "https://www.tomshardware.com/tech-industry/drones/pro-ukraine-group-claims-it-helped-hack-russian-drone-air-defence-system-shooting-down-su-57-in-friendly-fire-incident-moscow-confirms-fifth-generation-fighter-jet-crashed-in-technical-malfunction",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-25T10:30:00+00:00"
-    },
-    {
-      "titolo": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "descrizione": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "fonte": "WIRED",
-      "data": "2026-07-25T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta, Microsoft e NVIDIA contro Washington: scontro sull'AI open",
-      "descrizione": "Le Big Tech difendono l'AI open-weight mentre cresce lo scontro tecnologico con la Cina.",
-      "link": "https://www.hdblog.it/mercato/articoli/n665415/usa-big-tech-ai-open-weight/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-25T10:05:00+00:00"
-    },
-    {
-      "titolo": "[Risolto] ChatGPT non funziona in Italia: i problemi e cosa succede",
-      "descrizione": "Nella tarda mattinata di oggi, sabato 25 luglio, ChatGPT ha problemi in Italia",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665425/chatgpt-problemi-italia-25-luglio/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-25T09:55:00+00:00"
-    },
-    {
-      "titolo": "Google multata dall'UE? Trump reagisce con l'arma dei dazi",
-      "descrizione": "Trump risponde alla multa UE contro Google con una nuova minaccia di dazi commerciali.",
-      "link": "https://www.hdblog.it/mercato/articoli/n665409/trump-dazi-unione-europea-google-multa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-25T09:05:00+00:00"
-    },
-    {
-      "titolo": "Primo weekend di esodo estivo: 27 milioni di auto in viaggio sulle strade italiane",
-      "descrizione": "Traffico da bollino rosso per il primo grande weekend di partenze verso le località balneari. Ecco le previsioni di viabilità e le tratte più critiche.",
-      "link": "https://www.hdmotori.it/primo-weekend-esodo-estivo-strade-italiane/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-25T09:00:17+00:00"
     }
   ]
 }
