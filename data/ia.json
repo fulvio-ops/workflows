@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:58:43.792137+00:00",
+  "last_updated": "2026-07-26T19:35:59.774397+00:00",
   "items": [
     {
       "titolo": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Opus 5: prestazioni simili a Fable 5 ma più economico",
-      "descrizione": "Opus 5 è il nuovo modello di Anthropic che offre prestazioni superiori a quelle di Opus 4.8 e simili a quelle di Fable 5 (ma costa la metà). The post Claude Opus 5: prestazioni simili a Fable 5 ma più economico appeared",
-      "link": "https://www.punto-informatico.it/claude-opus-5-prestazioni-simili-fable-5-piu-economico/",
+      "titolo": "Falsa app Claude per desktop distribuisce SectopRAT",
+      "descrizione": "Una falsa app di Claude per desktop installa SectopRAT che può rubare password, cookie, dati delle carte di credito e altre informazioni sensibili. The post Falsa app Claude per desktop distribuisce SectopRAT appeared fi",
+      "link": "https://www.punto-informatico.it/falsa-app-claude-desktop-distribuisce-sectoprat/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-25T10:37:59+00:00",
+      "data": "2026-07-26T17:06:15+00:00",
       "modello": "claude"
     }
   ]
