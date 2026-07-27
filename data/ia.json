@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-07-27T04:04:14.040061+00:00",
+  "last_updated": "2026-07-27T10:10:30.934968+00:00",
   "items": [
     {
-      "titolo": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure",
-      "descrizione": "OpenAI tests multiple autonomous AI agents at once and has difficulty identifying the threats each of them represents, if a new report from Reuters is accurate.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-25T16:41:59+00:00",
+      "titolo": "OpenAI e Anthropic chiedono il ban dei modelli open source?",
+      "descrizione": "Nonostante il supporto pubblico per i modelli open source, OpenAI avrebbe chiesto al governo statunitense di imporre restrizioni (come Anthropic). The post OpenAI e Anthropic chiedono il ban dei modelli open source? appe",
+      "link": "https://www.punto-informatico.it/openai-anthropic-chiedono-ban-modelli-open-source/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-27T08:03:42+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Falsa app Claude per desktop distribuisce SectopRAT",
-      "descrizione": "Una falsa app di Claude per desktop installa SectopRAT che può rubare password, cookie, dati delle carte di credito e altre informazioni sensibili. The post Falsa app Claude per desktop distribuisce SectopRAT appeared fi",
-      "link": "https://www.punto-informatico.it/falsa-app-claude-desktop-distribuisce-sectoprat/",
+      "titolo": "Google Pixel 10 Pro, sconto di 400€: 7 anni di update e l'AI di Gemini",
+      "descrizione": "Amazon sconta di 400€ la versione da 128GB del Google Pixel 10 Pro.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665516/google-pixel-10-pro-sconto-400e-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T10:10:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "OpenAI e Anthropic chiedono il ban dei modelli open source?",
+      "descrizione": "Nonostante il supporto pubblico per i modelli open source, OpenAI avrebbe chiesto al governo statunitense di imporre restrizioni (come Anthropic). The post OpenAI e Anthropic chiedono il ban dei modelli open source? appe",
+      "link": "https://www.punto-informatico.it/openai-anthropic-chiedono-ban-modelli-open-source/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-26T17:06:15+00:00",
+      "data": "2026-07-27T08:03:42+00:00",
       "modello": "claude"
     }
   ]
