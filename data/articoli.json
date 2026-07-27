@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-07-27T15:15:03.014884+00:00",
+  "last_updated": "2026-07-27T19:56:26.131235+00:00",
   "items": [
+    {
+      "titolo": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
+      "descrizione": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-",
+      "link": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-27T19:47:49+00:00"
+    },
+    {
+      "titolo": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
+      "descrizione": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-27T19:03:47+00:00"
+    },
+    {
+      "titolo": "MacBook Air M5 contro portatile Windows da 1500 euro: chi vince nel 2026? | Video",
+      "descrizione": "Abbiamo messo a confronto il MacBook Air M5 ad uno dei migliori se non il miglior portatile con Windows per 1500 euro. Il vincitore è scontato?",
+      "link": "https://www.hdblog.it/portatili/comparazioni/n658320/confronto-macbook-vs-windows-2026-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T18:55:00+00:00"
+    },
+    {
+      "titolo": "Realme 16 Pro (512 GB) in offerta su Amazon: un'ottima scelta per un mid-range di qualità",
+      "descrizione": "Il Realme 16 Pro da 512 GB è in offerta su Amazon, ritagliandosi uno spazio da protagonista nella fascia media.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665591/realme-16-pro-512-gb-offerta-amazon-lug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T18:15:00+00:00"
+    },
+    {
+      "titolo": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
+      "descrizione": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
+      "link": "https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/",
+      "fonte": "Latest news",
+      "data": "2026-07-27T17:54:00+00:00"
+    },
+    {
+      "titolo": "Google Chrome, iniziano a circolare le prime build per Linux ARM64",
+      "descrizione": "Per ora non ci sono annunci, ma chi ha il link diretto può procedere.",
+      "link": "https://www.hdblog.it/google/articoli/n665586/google-chrome-linux-arm64-prime-build/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T17:45:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Game Turbo sale di livello: arriva Game Space. Tutte le novità",
+      "descrizione": "Arrivano profili personalizzati per gioco, interfaccia più versatile e libreria automatica. Già in distribuzione, ma le modalità precise non sono chiare per ora.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665583/xiaomi-hyperos-game-turbo-space-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T17:35:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S27 Ultra, finalmente la batteria cresce, e non di poco!",
+      "descrizione": "Si potrebbero toccare i 5.700 mAh tipici. Viva le batterie Si-C!",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665578/samsung-galaxy-s27-ultra-pro-batterie-mah-sic/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T17:05:00+00:00"
+    },
+    {
+      "titolo": "Land Rover: si chiude l'era Discovery Sport, fine produzione a dicembre",
+      "descrizione": "Dopo 11 anni e il calo delle vendite, la Land Rover Discovery Sport esce di scena. Pesano le nuove norme di sicurezza europee GSR2. Cosa cambia per la gamma JLR.",
+      "link": "https://www.hdmotori.it/land-rover-discovery-sport-fine-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T17:00:39+00:00"
+    },
+    {
+      "titolo": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
+      "descrizione": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
+      "link": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
+      "fonte": "Latest news",
+      "data": "2026-07-27T16:53:13+00:00"
+    },
+    {
+      "titolo": "Milioni di auto a rischio: la revisione ora obbliga a sostituire l'airbag",
+      "descrizione": "Milioni di veicoli rischiano lo stop a causa degli airbag Takata, ancora presenti sulle auto dopo il mega-richiamo di quasi un decennio fa. Secondo le nuove regole, senza la sostituzione non si...",
+      "link": "https://www.hdmotori.it/milioni-auto-rischio-revisione-sostituire-airbag/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:30:08+00:00"
+    },
+    {
+      "titolo": "Redmi Note 15 5G al minimo storico su Amazon: fotocamera da 108MP e intelligenza artificiale",
+      "descrizione": "L'offerta Amazon sul nuovo Xiaomi Redmi Note 15 5G.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665574/redmi-note-15-5g-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:25:00+00:00"
+    },
+    {
+      "titolo": "MAVEN svela come si formano le aurore su Marte: scoperto il segreto",
+      "descrizione": "MAVEN scopre che le aurore marziane seguono un meccanismo simile a quello terrestre.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665480/marte-aurore-scoperta-maven/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:20:00+00:00"
+    },
+    {
+      "titolo": "Sembrano app Windows ma non convincono: 70 siti falsi su cui non cliccare",
+      "descrizione": "Scoperti online numerosi siti web che spacciano per vere alcune app Windows a cui fare molta attenzione.",
+      "link": "https://www.hdblog.it/portatili/articoli/n665540/finte-app-windows-malware/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:10:00+00:00"
+    },
+    {
+      "titolo": "Sonoff a partire da 7€ su Amazon: casa smart a prezzo speciale",
+      "descrizione": "Ottime promozioni Sonoff disponibili su Amazon: casa smart a prezzi super competitivi.",
+      "link": "https://www.hdblog.it/amazon/offerte/n665570/sonoff-su-amazon-casa-smart-offerte/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:05:00+00:00"
+    },
+    {
+      "titolo": "FB Mondial Spartan 600: la media retrò arriva in Italia",
+      "descrizione": "Debutta la nuova FB Mondial Spartan 600. Motore bicilindrico da 554 cc, 56 CV, serbatoio da 17,5 litri e stile essenziale.",
+      "link": "https://www.hdmotori.it/fb-mondial-spartan-600-scheda-tecnica-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-27T16:00:25+00:00"
+    },
+    {
+      "titolo": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
+      "descrizione": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
+      "link": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+      "fonte": "Latest news",
+      "data": "2026-07-27T15:52:15+00:00"
+    },
+    {
+      "titolo": "Why an MMO mouse isn’t just for gaming — make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
+      "descrizione": "MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows.",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-27T15:39:54+00:00"
+    },
+    {
+      "titolo": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
+      "descrizione": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
+      "link": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
+      "fonte": "WIRED",
+      "data": "2026-07-27T15:33:56+00:00"
+    },
+    {
+      "titolo": "Samsung e SK hynix vendono chip di memoria a Broadcom e NVIDIA",
+      "descrizione": "Samsung e SK hynix hanno annunciato la sottoscrizione di accordi commerciali con Broadcom e NVIDIA per complessivi 700 miliardi di dollari. The post Samsung e SK hynix vendono chip di memoria a Broadcom e NVIDIA appeared",
+      "link": "https://www.punto-informatico.it/samsung-sk-hynix-vendono-chip-memoria-broadcom-nvidia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-27T15:19:00+00:00"
+    },
     {
       "titolo": "Nike ha presentato le ciabatte smart: connesse, scaldano e vibrano",
       "descrizione": "Le nuove Nike Air Zoom Hyperslide hanno in dotazione inserti magnetici capaci di riscaldarsi e generare vibrazioni, con controlli Bluetooth. The post Nike ha presentato le ciabatte smart: connesse, scaldano e vibrano app",
@@ -9,39 +149,11 @@
       "data": "2026-07-27T14:53:29+00:00"
     },
     {
-      "titolo": "MacBook Air M5 contro portatile Windows da 1500 euro: chi vince nel 2026? | Video",
-      "descrizione": "Abbiamo messo a confronto il MacBook Air M5 ad uno dei migliori se non il miglior portatile con Windows per 1500 euro. Il vincitore è scontato?",
-      "link": "https://www.hdblog.it/portatili/comparazioni/n658320/confronto-macbook-vs-windows-2026-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T14:31:00+00:00"
-    },
-    {
-      "titolo": "Addio all'aletta parasole come la conosciamo: ora diventa tecnologica",
-      "descrizione": "Una nuova soluzione promette di rivoluzionare la sicurezza sostituendo la classica aletta parasole con un tecnologico pannello oscurante.",
-      "link": "https://www.hdmotori.it/addio-aletta-parasole/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T14:30:40+00:00"
-    },
-    {
-      "titolo": "La galassia Messier 94 ora si può anche ascoltare: ecco perché è speciale",
-      "descrizione": "La NASA mostra Messier 94 con raggi X, luce visibile e una versione sonora.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n665481/messier-94-nuova-immagine-nasa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T14:20:00+00:00"
-    },
-    {
       "titolo": "Caso Pirlo: Fonbet oscurato in Italia, ma era già previsto",
       "descrizione": "Il caso Fonbet incrocia la candidatura di Pirlo alla panchina della nazionale: il sito russo di scommesse è tra quelli oscurati da ADM. The post Caso Pirlo: Fonbet oscurato in Italia, ma era già previsto appeared first o",
       "link": "https://www.punto-informatico.it/caso-pirlo-fonbet-oscurato-italia/",
       "fonte": "Punto Informatico",
       "data": "2026-07-27T14:06:34+00:00"
-    },
-    {
-      "titolo": "Incidente terrificante: spezzata in due una Ferrari SF90 da mezzo milione di euro",
-      "descrizione": "Nello scontro stradale, avvenuto in Australia, il conducente è uscito illeso, nonostante la dinamica spaventosa che ha spezzato in due parti la Ferrari.",
-      "link": "https://www.hdmotori.it/incidente-spezzata-due-ferrari-sf90/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T14:00:42+00:00"
     },
     {
       "titolo": "NVIDIA annuncia un’alleanza per la sicurezza AI",
@@ -56,118 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-27T13:34:28+00:00"
-    },
-    {
-      "titolo": "Nothing smentisce l'addio a 12 mercati, ma qualche taglio c'è: il co-fondatore chiarisce",
-      "descrizione": "Il co-fondatore di Nothing smentisce le voci sulla crisi del marchio: niente uscita da 12 mercati, ma alcuni licenziamenti confermati.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665545/nothing-smentisce-addio-12-mercati-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T13:25:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA guida un'alleanza tra big tech per la difesa dell'AI con strumenti aperti",
-      "descrizione": "NVIDIA ha annunciato la Open Secure AI Alliance",
-      "link": "https://www.hdblog.it/nvidia/articoli/n665548/nvidia-guida-nuova-alleanza-modelli-aperti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T13:10:00+00:00"
-    },
-    {
-      "titolo": "Aumenti di Netflix: class action del Movimento Consumatori",
-      "descrizione": "Il Movimento Consumatori ha avviato una class action per chiedere a Netflix di rimborsare le somme incassate con gli aumenti illegittimi tra 2017 e 2024. The post Aumenti di Netflix: class action del Movimento Consumator",
-      "link": "https://www.punto-informatico.it/aumenti-netflix-class-action-movimento-consumatori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T13:01:49+00:00"
-    },
-    {
-      "titolo": "Subaru, basta auto noiose: si torna alla sportività di un tempo",
-      "descrizione": "Il marchio dell'ammasso stellare delle Pleiadi nella costellazione del Toro vuol tornare a far sognare gli appassionati.",
-      "link": "https://www.hdmotori.it/subaru-ritorno-auto-sportive/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T13:00:29+00:00"
-    },
-    {
-      "titolo": "Nanoleaf presenta un supporto per monitor con illuminazione smart integrata | Prezzo",
-      "descrizione": "Il nuovo Smart LED Monitor Stand di Nanoleaf combina ergonomia e illuminazione intelligente. Solleva il monitor, integra effetti RGB indirizzabili, supporta Matter e consente di installare diversi...",
-      "link": "https://www.hdblog.it/hardware/articoli/n665539/nanoleaf-supporto-monitor-illuminato-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T12:45:00+00:00"
-    },
-    {
-      "titolo": "F1, il flop Ferrari glorifica Kimi Antonelli: il Mondiale non è più un’utopia",
-      "descrizione": "Kimi Antonelli ha concluso sul terzo gradino del podio in Ungheria, ampliando il vantaggio su Hamilton in classifica piloti.",
-      "link": "https://www.hdmotori.it/f1-flop-ferrari-kimi-antonelli-mondiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T12:30:44+00:00"
-    },
-    {
-      "titolo": "Samsung e Broadcom, accordo miliardario su chip, memorie e packaging avanzato",
-      "descrizione": "Samsung potrebbe diventare uno dei principali partner industriali di Broadcom grazie a un accordo strategico che coinvolge memorie, produzione di semiconduttori e packaging. L'obiettivo è sostenere...",
-      "link": "https://www.hdblog.it/hardware/articoli/n665536/samsung-broadcoam-accordo-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T12:15:00+00:00"
-    },
-    {
-      "titolo": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes",
-      "descrizione": "There are some great non-Samsung alternatives, too.",
-      "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
-      "fonte": "Latest news",
-      "data": "2026-07-27T12:15:00+00:00"
-    },
-    {
-      "titolo": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy homes from residents",
-      "descrizione": "Residents of Dowagiac, Michigan, filed a case against a data center for generating noise pollution 24/7 for over two years. They said that the site has violated city noise ordinances but hasn't made any improvements.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T12:02:21+00:00"
-    },
-    {
-      "titolo": "176 km con un litro? Dall'India il motore a 6 tempi che sfida l'elettrico",
-      "descrizione": "Un motore a benzina da 176 km con un litro? Il prototipo a 6 tempi inventato in India triplica l'efficienza termica tradizionale. Funziona davvero o è utopia?",
-      "link": "https://www.hdmotori.it/motore-indiano-6-tempi-176-km-litro/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T12:00:44+00:00"
-    },
-    {
-      "titolo": "Diritto alla riparazione: cosa cambia dal 31 luglio",
-      "descrizione": "Dal 31 luglio gli Stati membri dovranno recepire la direttiva europea sul diritto alla riparazione. Le nuove regole riguardano smartphone, elettrodomestici e altri dispositivi, con più tutele per i...",
-      "link": "https://www.hdblog.it/mercato/articoli/n665534/diritto-riparazione-al-via-cosa-significa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T11:25:00+00:00"
-    },
-    {
-      "titolo": "Acquisto chip di memoria cinesi: scontro Apple-Micron",
-      "descrizione": "Apple vuole acquistare i chip di memoria dalle aziende cinesi per ridurre i costi, ma Micron ritiene che ciò distruggerà l'industria statunitense. The post Acquisto chip di memoria cinesi: scontro Apple-Micron appeared f",
-      "link": "https://www.punto-informatico.it/acquisto-chip-memoria-cinesi-scontro-apple-micron/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T11:01:56+00:00"
-    },
-    {
-      "titolo": "Data center in Lombardia e Piemonte: via libera dal Cdm",
-      "descrizione": "Il Cdm ha approvato la realizzazione di sette centri di elaborazione dati in Lombardia e la riconversione di una ex centrale elettrica in Piemonte. The post Data center in Lombardia e Piemonte: via libera dal Cdm appeare",
-      "link": "https://www.punto-informatico.it/data-center-lombardia-piemonte-via-libera-cdm/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T10:00:40+00:00"
-    },
-    {
-      "titolo": "This Is Donald Trump’s AI Brain Trust",
-      "descrizione": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-      "fonte": "WIRED",
-      "data": "2026-07-27T10:00:00+00:00"
-    },
-    {
-      "titolo": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley’s supply — plaintiffs claim project equivalent to 160-acre farm amidst concern about j",
-      "descrizione": "Buildout of large AI data centers in regions historically specializing on agriculture may have long-lasting",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/californias-largest-ai-data-center-project-suing-for-access-to-287-million-gallons-of-colorado-river-water-0-03-percent-of-imperial-valleys-supply-plaintiffs-claim-project-equivalent-to-160-acre-farm-amidst-about-jobs-and-reallocation-of-farmland",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T09:56:17+00:00"
-    },
-    {
-      "titolo": "Approfitta dei due nuovi coupon eBay su tantissimi prodotti di tecnologia",
-      "descrizione": "Cosa stai aspettando? Approfitta subito dei due nuovi coupon eBay disponibili su tantissimi prodotti di tecnologia per un risparmio extra. The post Approfitta dei due nuovi coupon eBay su tantissimi prodotti di tecnologi",
-      "link": "https://www.punto-informatico.it/approfitta-dei-due-nuovi-coupon-ebay-su-tantissimi-prodotti-di-tecnologia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T09:53:07+00:00"
     }
   ]
 }
