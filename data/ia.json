@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T19:56:32.387569+00:00",
+  "last_updated": "2026-07-28T03:38:34.640152+00:00",
   "items": [
     {
       "titolo": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-      "descrizione": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T19:03:47+00:00",
+      "titolo": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "descrizione": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "fonte": "WIRED",
+      "data": "2026-07-27T20:08:00+00:00",
       "modello": "claude"
     }
   ]

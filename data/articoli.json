@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-07-27T19:56:26.131235+00:00",
+  "last_updated": "2026-07-28T03:38:31.174479+00:00",
   "items": [
+    {
+      "titolo": "DHS Official Resigns, Citing ‘War on Immigrants’",
+      "descrizione": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
+      "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
+      "fonte": "WIRED",
+      "data": "2026-07-27T20:34:04+00:00"
+    },
     {
       "titolo": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
       "descrizione": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/nvidia-annuncia-alleanza-sicurezza-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-07-27T13:55:40+00:00"
-    },
-    {
-      "titolo": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site",
-      "descrizione": "OpenAI is in advanced talks to lease SB Energy's 10 GW data center campus in Piketon, Ohio, with Nvidia in discussions to guarantee roughly $250 billion of the financing behind it.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T13:34:28+00:00"
     }
   ]
 }
