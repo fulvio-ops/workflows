@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-07-28T14:39:41.948875+00:00",
+  "last_updated": "2026-07-28T19:54:08.429923+00:00",
   "items": [
     {
-      "titolo": "ChatGPT cambia approccio: adesso rifiuta di scrivere come Hemingway o Rowling",
-      "descrizione": "ChatGPT ha iniziato a rifiutare le richieste di imitare lo stile di autori noti. Adesso propone dei testi originali ispirati ad atmosfera, ritmo e genere, senza replicarne la voce narrativa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665668/chatgpt-rifiuta-di-imitare-scrittori/",
+      "titolo": "Apple nella storia: è la prima a raggiungere 5.000 miliardi di dollari di capitalizzazione",
+      "descrizione": "Un aumento di altri 1.000 miliardi in meno di un anno.",
+      "link": "https://www.hdblog.it/apple/articoli/n665701/apple-5000-miliardi-capitalizzazione-record-borsa/",
       "fonte": "HDblog.it",
-      "data": "2026-07-28T14:15:00+00:00",
+      "data": "2026-07-28T16:05:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "How to remap the Copilot key on your keyboard to something more helpful",
+      "descrizione": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
+      "link": "https://www.zdnet.com/article/remap-copilot-key/",
+      "fonte": "Latest news",
+      "data": "2026-07-28T15:58:00+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
