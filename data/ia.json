@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-28T03:38:34.640152+00:00",
+  "last_updated": "2026-07-28T09:06:03.762129+00:00",
   "items": [
     {
-      "titolo": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-      "descrizione": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T19:03:47+00:00",
+      "titolo": "Aerei elettrici: il Regno Unito investe nella ricarica ultra-rapida",
+      "descrizione": "Nuovi sistemi di ricarica e raffreddamento per rendere gli aerei elettrici più efficienti.",
+      "link": "https://www.hdblog.it/green/articoli/n665598/aerei-elettrici-ricarica-rapida-regno-unito/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T06:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "descrizione": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-      "fonte": "WIRED",
-      "data": "2026-07-27T20:08:00+00:00",
+      "titolo": "Claude AI: alcune conversazioni private sono apparse su Google",
+      "descrizione": "Alcune chat di Claude sono finite su Google: ecco cosa è successo e perché conta.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665612/claude-chat-google-privacy/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T08:15:00+00:00",
       "modello": "claude"
     }
   ]

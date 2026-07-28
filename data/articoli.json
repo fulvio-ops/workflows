@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-07-28T03:38:31.174479+00:00",
+  "last_updated": "2026-07-28T09:06:00.257192+00:00",
   "items": [
     {
-      "titolo": "DHS Official Resigns, Citing ‘War on Immigrants’",
-      "descrizione": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
-      "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
-      "fonte": "WIRED",
-      "data": "2026-07-27T20:34:04+00:00"
-    },
-    {
-      "titolo": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
-      "descrizione": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-",
-      "link": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T19:47:49+00:00"
-    },
-    {
-      "titolo": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-      "descrizione": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T19:03:47+00:00"
-    },
-    {
-      "titolo": "MacBook Air M5 contro portatile Windows da 1500 euro: chi vince nel 2026? | Video",
-      "descrizione": "Abbiamo messo a confronto il MacBook Air M5 ad uno dei migliori se non il miglior portatile con Windows per 1500 euro. Il vincitore è scontato?",
-      "link": "https://www.hdblog.it/portatili/comparazioni/n658320/confronto-macbook-vs-windows-2026-video/",
+      "titolo": "Microsoft presenta Perception, l'intelligenza artificiale per fermare gli attacchi informatici",
+      "descrizione": "Microsoft presenta un'AI che individua vulnerabilità e le corregge in pochi minuti.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665627/microsoft-perception-cybersecurity-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-07-27T18:55:00+00:00"
+      "data": "2026-07-28T09:05:00+00:00"
     },
     {
-      "titolo": "Realme 16 Pro (512 GB) in offerta su Amazon: un'ottima scelta per un mid-range di qualità",
-      "descrizione": "Il Realme 16 Pro da 512 GB è in offerta su Amazon, ritagliandosi uno spazio da protagonista nella fascia media.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665591/realme-16-pro-512-gb-offerta-amazon-lug26/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T18:15:00+00:00"
-    },
-    {
-      "titolo": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
-      "descrizione": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
-      "link": "https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/",
-      "fonte": "Latest news",
-      "data": "2026-07-27T17:54:00+00:00"
-    },
-    {
-      "titolo": "Google Chrome, iniziano a circolare le prime build per Linux ARM64",
-      "descrizione": "Per ora non ci sono annunci, ma chi ha il link diretto può procedere.",
-      "link": "https://www.hdblog.it/google/articoli/n665586/google-chrome-linux-arm64-prime-build/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T17:45:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Game Turbo sale di livello: arriva Game Space. Tutte le novità",
-      "descrizione": "Arrivano profili personalizzati per gioco, interfaccia più versatile e libreria automatica. Già in distribuzione, ma le modalità precise non sono chiare per ora.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665583/xiaomi-hyperos-game-turbo-space-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T17:35:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S27 Ultra, finalmente la batteria cresce, e non di poco!",
-      "descrizione": "Si potrebbero toccare i 5.700 mAh tipici. Viva le batterie Si-C!",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665578/samsung-galaxy-s27-ultra-pro-batterie-mah-sic/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T17:05:00+00:00"
-    },
-    {
-      "titolo": "Land Rover: si chiude l'era Discovery Sport, fine produzione a dicembre",
-      "descrizione": "Dopo 11 anni e il calo delle vendite, la Land Rover Discovery Sport esce di scena. Pesano le nuove norme di sicurezza europee GSR2. Cosa cambia per la gamma JLR.",
-      "link": "https://www.hdmotori.it/land-rover-discovery-sport-fine-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T17:00:39+00:00"
-    },
-    {
-      "titolo": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
-      "descrizione": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
-      "link": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
-      "fonte": "Latest news",
-      "data": "2026-07-27T16:53:13+00:00"
-    },
-    {
-      "titolo": "Milioni di auto a rischio: la revisione ora obbliga a sostituire l'airbag",
-      "descrizione": "Milioni di veicoli rischiano lo stop a causa degli airbag Takata, ancora presenti sulle auto dopo il mega-richiamo di quasi un decennio fa. Secondo le nuove regole, senza la sostituzione non si...",
-      "link": "https://www.hdmotori.it/milioni-auto-rischio-revisione-sostituire-airbag/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:30:08+00:00"
-    },
-    {
-      "titolo": "Redmi Note 15 5G al minimo storico su Amazon: fotocamera da 108MP e intelligenza artificiale",
-      "descrizione": "L'offerta Amazon sul nuovo Xiaomi Redmi Note 15 5G.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665574/redmi-note-15-5g-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:25:00+00:00"
-    },
-    {
-      "titolo": "MAVEN svela come si formano le aurore su Marte: scoperto il segreto",
-      "descrizione": "MAVEN scopre che le aurore marziane seguono un meccanismo simile a quello terrestre.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665480/marte-aurore-scoperta-maven/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:20:00+00:00"
-    },
-    {
-      "titolo": "Sembrano app Windows ma non convincono: 70 siti falsi su cui non cliccare",
-      "descrizione": "Scoperti online numerosi siti web che spacciano per vere alcune app Windows a cui fare molta attenzione.",
-      "link": "https://www.hdblog.it/portatili/articoli/n665540/finte-app-windows-malware/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:10:00+00:00"
-    },
-    {
-      "titolo": "Sonoff a partire da 7€ su Amazon: casa smart a prezzo speciale",
-      "descrizione": "Ottime promozioni Sonoff disponibili su Amazon: casa smart a prezzi super competitivi.",
-      "link": "https://www.hdblog.it/amazon/offerte/n665570/sonoff-su-amazon-casa-smart-offerte/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:05:00+00:00"
-    },
-    {
-      "titolo": "FB Mondial Spartan 600: la media retrò arriva in Italia",
-      "descrizione": "Debutta la nuova FB Mondial Spartan 600. Motore bicilindrico da 554 cc, 56 CV, serbatoio da 17,5 litri e stile essenziale.",
-      "link": "https://www.hdmotori.it/fb-mondial-spartan-600-scheda-tecnica-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-27T16:00:25+00:00"
-    },
-    {
-      "titolo": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
-      "descrizione": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
-      "link": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
-      "fonte": "Latest news",
-      "data": "2026-07-27T15:52:15+00:00"
-    },
-    {
-      "titolo": "Why an MMO mouse isn’t just for gaming — make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
-      "descrizione": "MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows.",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-27T15:39:54+00:00"
-    },
-    {
-      "titolo": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
-      "descrizione": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
-      "link": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
-      "fonte": "WIRED",
-      "data": "2026-07-27T15:33:56+00:00"
-    },
-    {
-      "titolo": "Samsung e SK hynix vendono chip di memoria a Broadcom e NVIDIA",
-      "descrizione": "Samsung e SK hynix hanno annunciato la sottoscrizione di accordi commerciali con Broadcom e NVIDIA per complessivi 700 miliardi di dollari. The post Samsung e SK hynix vendono chip di memoria a Broadcom e NVIDIA appeared",
-      "link": "https://www.punto-informatico.it/samsung-sk-hynix-vendono-chip-memoria-broadcom-nvidia/",
+      "titolo": "Monitor LG Ultra HD 4K da 27 pollici a soli 180€ su Amazon",
+      "descrizione": "Rendi la tua postazione un centro di produttività e intrattenimento con meno di 200€ grazie al Monitor LG Ultra HD 4K da 27\" a soli 179€. The post Monitor LG Ultra HD 4K da 27 pollici a soli 180€ su Amazon appeared first",
+      "link": "https://www.punto-informatico.it/monitor-lg-ultra-hd-4k-da-27-pollici-a-soli-180e-su-amazon/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-27T15:19:00+00:00"
+      "data": "2026-07-28T08:57:06+00:00"
     },
     {
-      "titolo": "Nike ha presentato le ciabatte smart: connesse, scaldano e vibrano",
-      "descrizione": "Le nuove Nike Air Zoom Hyperslide hanno in dotazione inserti magnetici capaci di riscaldarsi e generare vibrazioni, con controlli Bluetooth. The post Nike ha presentato le ciabatte smart: connesse, scaldano e vibrano app",
-      "link": "https://www.punto-informatico.it/nike-ciabatte-smart-connesse-scaldano-vibrano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T14:53:29+00:00"
+      "titolo": "La marcia in più degli occhiali smart di Samsung sarà l'ecosistema",
+      "descrizione": "E la privacy, su cui Meta sta un po' incespicando in questo periodo.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665635/samsung-galaxy-glasses-ecosistema-privacy/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T08:55:00+00:00"
     },
     {
-      "titolo": "Caso Pirlo: Fonbet oscurato in Italia, ma era già previsto",
-      "descrizione": "Il caso Fonbet incrocia la candidatura di Pirlo alla panchina della nazionale: il sito russo di scommesse è tra quelli oscurati da ADM. The post Caso Pirlo: Fonbet oscurato in Italia, ma era già previsto appeared first o",
-      "link": "https://www.punto-informatico.it/caso-pirlo-fonbet-oscurato-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-27T14:06:34+00:00"
+      "titolo": "Hai ricevuto questo SMS dalla ASL? Potrebbe essere una truffa",
+      "descrizione": "Una nuova truffa via SMS sfrutta il nome del Servizio Sanitario Nazionale e delle ASL per convincere le vittime a richiamare numeri con prefisso 893, 895 o 899. Ecco come riconoscere il raggiro ed...",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665630/truffa-asl-sms-numeri-a-pagamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T08:40:00+00:00"
     },
     {
-      "titolo": "NVIDIA annuncia un’alleanza per la sicurezza AI",
-      "descrizione": "NVIDIA ha lanciato la Open Secure AI Alliance che prevede lo sviluppo di tool open source per trovare e correggere vulnerabilità nei sistemi AI. The post NVIDIA annuncia un’alleanza per la sicurezza AI appeared first on",
-      "link": "https://www.punto-informatico.it/nvidia-annuncia-alleanza-sicurezza-ai/",
+      "titolo": "Surface Laptop Ultra: ecco come va l'anti-MacBook Pro di Microsoft e NVIDIA",
+      "descrizione": "Un utente del forum TechPowerUp ha testato un prototipo per quasi un mese.",
+      "link": "https://www.hdblog.it/portatili/articoli/n665631/microsoft-surface-laptop-ultra-leak-test-prototipo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T08:35:00+00:00"
+    },
+    {
+      "titolo": "Meta Ray-Ban Display: nuova versione di Meta AI e Threads",
+      "descrizione": "Meta ha annunciato la nuova versione di Meta AI con Muse Spark, il supporto per Threads e la condivisione su Instagram Instants tramite comandi vocali. The post Meta Ray-Ban Display: nuova versione di Meta AI e Threads a",
+      "link": "https://www.punto-informatico.it/meta-ray-ban-display-nuova-versione-meta-ai-threads/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-27T13:55:40+00:00"
+      "data": "2026-07-28T08:33:14+00:00"
+    },
+    {
+      "titolo": "Elon Musk lancia X Money per tutti negli USA, non serve l’invito",
+      "descrizione": "X Money arriva negli Stati Uniti con conto, carta, cashback, pagamenti P2P e passkey per la sicurezza, ma solo per gli abbonati premium. The post Elon Musk lancia X Money per tutti negli USA, non serve l’invito appeared",
+      "link": "https://www.punto-informatico.it/fintech/elon-musk-lancia-x-money-per-tutti-usa-non-serve-invito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T08:31:28+00:00"
+    },
+    {
+      "titolo": "Nuovo canale in arrivo dopo la cancellazione di un’emittente sul digitale terrestre",
+      "descrizione": "Un nuovo canale è approdato sul digitale terrestre dopo la cancellazione di un'emittente sulla piattaforma, ma solo per alcuni utenti. The post Nuovo canale in arrivo dopo la cancellazione di un’emittente sul digitale te",
+      "link": "https://www.punto-informatico.it/nuovo-canale-in-arrivo-dopo-la-cancellazione-di-emittente-sul-digitale-terrestre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T08:21:07+00:00"
+    },
+    {
+      "titolo": "Oscurato Fonbet, lo sponsor che a Pirlo è costato la Nazionale",
+      "descrizione": "L'Agenzia delle Dogane e dei Monopoli ha inserito Fonbet tra i siti di gioco non autorizzati in Italia, avviando l'oscuramento di alcuni domini. La piattaforma era finita sotto i riflettori anche per...",
+      "link": "https://www.hdblog.it/mercato/articoli/n665623/fonbet-scommesse-oscurato-pirlo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T08:10:00+00:00"
+    },
+    {
+      "titolo": "Cuffie Bluetooth Philips da 50 ore con cancellazione del rumore, scontatissime",
+      "descrizione": "Le Cuffie Bluetooth Philips sono estremamente comode, garantiscono 50 ore di autonomia con cancellazione del rumore e sono scontate al 47%. The post Cuffie Bluetooth Philips da 50 ore con cancellazione del rumore, sconta",
+      "link": "https://www.punto-informatico.it/cuffie-bluetooth-philips-50-ore-cancellazione-rumore-scontatissime/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:51:42+00:00"
+    },
+    {
+      "titolo": "Apple rilascia iOS 26.6, l'ultimo prima di iOS 27: le novità",
+      "descrizione": "Apple ha avviato la distribuzione di iOS 26.6 insieme agli aggiornamenti per iPad, Apple Watch, Apple TV, Vision Pro e HomePod. L'update introduce oltre 75 correzioni di sicurezza e prepara il...",
+      "link": "https://www.hdblog.it/apple/articoli/n665615/ios-266-novita-aggiornamento-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T07:40:00+00:00"
+    },
+    {
+      "titolo": "One UI 9, attenzione a dimenticare il PIN: l'unica soluzione sarà un hard reset",
+      "descrizione": "Dopo 13 tentativi sbagliati di fila, nemmeno il PIN giusto sbloccherà il device.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665616/one-ui-9-pin-sbagliato-hard-reset-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T07:35:00+00:00"
+    },
+    {
+      "titolo": "Offerte Iliad di fine luglio 2026, tanti Giga da 7,99 euro al mese per sempre",
+      "descrizione": "Con le offerte Iliad di luglio 2026 è possibile accedere a tanti Giga con prezzo fisso per sempre: si parte da 7,99 euro al mese. The post Offerte Iliad di fine luglio 2026, tanti Giga da 7,99 euro al mese per sempre app",
+      "link": "https://www.punto-informatico.it/offerte-iliad-di-fine-luglio-2026-tanti-giga-da-799-euro-al-mese-per-sempre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:30:49+00:00"
+    },
+    {
+      "titolo": "Microsoft annuncia MAI-Cyber-1-Flash e Project Perception",
+      "descrizione": "MAI-1-Cyber-Flash è il primo modello di Microsoft con capacità cyber e sarà disponibile tramite MDASH e il nuovo sistema agentico Project Perception. The post Microsoft annuncia MAI-Cyber-1-Flash e Project Perception app",
+      "link": "https://www.punto-informatico.it/microsoft-annuncia-mai-cyber-1-flash-project-perception/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:29:34+00:00"
+    },
+    {
+      "titolo": "Le chat di Claude sono finite su Google e Bing: cosa è successo",
+      "descrizione": "Google e Bing hanno indicizzato link pubblici di Claude, rendendo accessibili le chat: Anthropic ha chiarito l'origine del problema. The post Le chat di Claude sono finite su Google e Bing: cosa è successo appeared first",
+      "link": "https://www.punto-informatico.it/chat-claude-google-bing/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:16:43+00:00"
+    },
+    {
+      "titolo": "Viaggia in tutto il mondo connesso a internet con le eSIM Saily a prezzo onesto",
+      "descrizione": "Sappiamo quanto il roaming possa fare male ed è per questo che consigliamo le eSIM Saily per viaggiare in tutto il mondo connesso a internet. The post Viaggia in tutto il mondo connesso a internet con le eSIM Saily a pre",
+      "link": "https://www.punto-informatico.it/viaggia-in-tutto-il-mondo-connesso-a-internet-con-le-esim-saily-a-prezzo-onesto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:16:26+00:00"
+    },
+    {
+      "titolo": "Connessione sicura in viaggio, la migliore VPN è in offerta (-76%)",
+      "descrizione": "Con una VPN come NordVPN è ora possibile sfruttare uno strumento in grado di garantire una connessione sicura e illimitata durante un viaggio. The post Connessione sicura in viaggio, la migliore VPN è in offerta (-76%) a",
+      "link": "https://www.punto-informatico.it/connessione-sicura-in-viaggio-la-migliore-vpn-e-in-offerta-76/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T07:10:02+00:00"
+    },
+    {
+      "titolo": "Gaffe di Samsung con il power bank per Galaxy S26 Ultra: il web non perdona",
+      "descrizione": "Il power bank magnetico per Samsung Galaxy S26 Ultra si sovrappone parzialmente al teleobiettivo posteriore.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665587/samsung-galaxy-s26-ultra-gaffe-power-bank/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T06:50:00+00:00"
+    },
+    {
+      "titolo": "Apple porta tutti i suoi OS alla versione 26.6: focus sulla sicurezza",
+      "descrizione": "Disponibili i nuovi aggiornamenti per i sistemi Apple: centinaia di vulnerabilità corrette su iOS, macOS, iPadOS, watchOS, tvOS e visionOS. The post Apple porta tutti i suoi OS alla versione 26.6: focus sulla sicurezza a",
+      "link": "https://www.punto-informatico.it/apple-os-versione-26-6-sicurezza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T06:30:57+00:00"
+    },
+    {
+      "titolo": "Amazon sfida Starlink con 5.105 satelliti per connettere gli smartphone",
+      "descrizione": "Amazon vuole portare voce, dati ed emergenze sugli smartphone via satellite.",
+      "link": "https://www.hdblog.it/mercato/articoli/n665600/amazon-5105-satelliti-direct-to-mobile/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T06:15:00+00:00"
+    },
+    {
+      "titolo": "In Cina entra in funzione HIAF: il gigante che studia la materia delle stelle",
+      "descrizione": "La Cina inaugura HIAF, il più potente acceleratore di ioni pesanti mai realizzato.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665494/cina-acceleratore-hiaf-fisica-nucleare/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T06:05:00+00:00"
+    },
+    {
+      "titolo": "Dalla CO2 agli amminoacidi: ecco il sistema solare che cambia il cibo",
+      "descrizione": "Un nuovo processo usa sole e CO₂ per produrre amminoacidi senza coltivazioni intensive.",
+      "link": "https://www.hdblog.it/green/articoli/n665486/co2-amminoacidi-energia-solare/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-28T05:55:00+00:00"
+    },
+    {
+      "titolo": "Addio pagina bianca, l’AI accorcia il tempo tra il pensiero e la scrittura",
+      "descrizione": "Google, le startup, i “secondi cervelli”: l’intera industria degli strumenti di scrittura si è accorta che il vero lavoro accade prima delle parole",
+      "link": "https://www.ilsole24ore.com/art/addio-pagina-bianca-l-ai-accorcia-tempo-il-pensiero-e-scrittura-AJe0WL",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-28T05:52:00+00:00"
+    },
+    {
+      "titolo": "Assicurazione di viaggio gratuita e zero commissioni sul cambio valuta con TF Mastercard Gold",
+      "descrizione": "La carta di credito della banca online svedese TF Mastercard Gold offre diversi vantaggi agli amanti dei viaggi all'estero. The post Assicurazione di viaggio gratuita e zero commissioni sul cambio valuta con TF Mastercar",
+      "link": "https://www.punto-informatico.it/fintech/carte/assicurazione-di-viaggio-gratuita-e-zero-commissioni-sul-cambio-valuta-con-tf-mastercard-gold/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-28T05:02:54+00:00"
     }
   ]
 }
