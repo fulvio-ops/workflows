@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-28T09:06:03.762129+00:00",
+  "last_updated": "2026-07-28T14:39:41.948875+00:00",
   "items": [
     {
-      "titolo": "Aerei elettrici: il Regno Unito investe nella ricarica ultra-rapida",
-      "descrizione": "Nuovi sistemi di ricarica e raffreddamento per rendere gli aerei elettrici più efficienti.",
-      "link": "https://www.hdblog.it/green/articoli/n665598/aerei-elettrici-ricarica-rapida-regno-unito/",
+      "titolo": "ChatGPT cambia approccio: adesso rifiuta di scrivere come Hemingway o Rowling",
+      "descrizione": "ChatGPT ha iniziato a rifiutare le richieste di imitare lo stile di autori noti. Adesso propone dei testi originali ispirati ad atmosfera, ritmo e genere, senza replicarne la voce narrativa",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665668/chatgpt-rifiuta-di-imitare-scrittori/",
       "fonte": "HDblog.it",
-      "data": "2026-07-28T06:40:00+00:00",
+      "data": "2026-07-28T14:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude AI: alcune conversazioni private sono apparse su Google",
-      "descrizione": "Alcune chat di Claude sono finite su Google: ecco cosa è successo e perché conta.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n665612/claude-chat-google-privacy/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-28T08:15:00+00:00",
+      "titolo": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "descrizione": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "fonte": "WIRED",
+      "data": "2026-07-28T10:00:00+00:00",
       "modello": "claude"
     }
   ]
