@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-07-29T09:10:23.305892+00:00",
+  "last_updated": "2026-07-29T14:32:33.151085+00:00",
   "items": [
     {
-      "titolo": "Developer uses AI to bring a native version of The Legend of Zelda: Ocarina of Time to iOS — no emulation required to play one of gaming's all-time greats on an iPhone or iPad",
-      "descrizione": "A developer has used OpenAI's Codex and GPT-5.6 Sol to help port a native version of The Legend of Zelda: Ocarina of Time to iOS and iPadOS devices.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/developer-uses-ai-to-bring-a-native-version-of-the-legend-of-zelda-ocarina-of-time-to-ios-no-emulation-required-to-play-one-of-gamings-all-time-greats-on-an-iphone-or-ipad",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-29T09:00:00+00:00",
+      "titolo": "Hugging Face: nuovi dettagli sull’attacco agentico",
+      "descrizione": "Hugging Face ha pubblicato i dettagli sull'attacco effettuato da un agente AI di OpenAI, descrivendo le tecniche sfruttate per accedere ai suoi sistemi. The post Hugging Face: nuovi dettagli sull’attacco agentico appeare",
+      "link": "https://www.punto-informatico.it/hugging-face-nuovi-dettagli-attacco-agentico/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-29T09:16:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "How to remap the Copilot key on your keyboard to something more helpful",
+      "titolo": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button",
       "descrizione": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
-      "link": "https://www.zdnet.com/article/remap-copilot-key/",
+      "link": "https://www.zdnet.com/article/remap-windows-copilot-key/",
       "fonte": "Latest news",
-      "data": "2026-07-28T15:58:00+00:00",
+      "data": "2026-07-29T13:01:00+00:00",
       "modello": "copilot"
-    },
-    {
-      "titolo": "Google Docs diventa più intelligente: Gemini crea grafica senza uscire dal documento",
-      "descrizione": "Gemini crea immagini, diagrammi e infografiche direttamente in Google Docs.",
-      "link": "https://www.hdblog.it/google/articoli/n665744/gemini-google-docs-immagini-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T08:05:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
