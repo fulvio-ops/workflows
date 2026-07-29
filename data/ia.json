@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-28T19:54:08.429923+00:00",
+  "last_updated": "2026-07-29T03:42:44.814115+00:00",
   "items": [
     {
-      "titolo": "Apple nella storia: è la prima a raggiungere 5.000 miliardi di dollari di capitalizzazione",
-      "descrizione": "Un aumento di altri 1.000 miliardi in meno di un anno.",
-      "link": "https://www.hdblog.it/apple/articoli/n665701/apple-5000-miliardi-capitalizzazione-record-borsa/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-28T16:05:00+00:00",
+      "titolo": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "descrizione": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "fonte": "WIRED",
+      "data": "2026-07-29T00:15:30+00:00",
       "modello": "chatgpt"
     },
     {
