@@ -1,12 +1,145 @@
 {
-  "last_updated": "2026-07-29T14:32:29.321259+00:00",
+  "last_updated": "2026-07-29T19:45:38.512024+00:00",
   "items": [
     {
       "titolo": "Recensione MOVA Lidax Ultra 1000 AWD, 4X4 e navigazione LiDAR al top!",
       "descrizione": "Ho provato il robot tagliaerba MOVA LiDAX Ultra 1000 AWD, una soluzione a quattro ruote motrici davvero super interessante, ecco come è andata!",
       "link": "https://www.hdblog.it/domotica/recensioni/n665222/mova-lidax-ultra-1000-awd-robot-tagliaerba-no-filo/",
       "fonte": "HDblog.it",
-      "data": "2026-07-29T14:31:00+00:00"
+      "data": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "titolo": "Monitoraggio non invasivo della glicemia, primo prototipo di smart ring",
+      "descrizione": "Un team di ricercatori californiani sembra aver trovato una soluzione efficace, analizzando il sudore della pelle.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665850/monitoraggio-glicemia-smart-ring-non-invasivo/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T18:05:00+00:00"
+    },
+    {
+      "titolo": "Autodromo di Monza, concessione prorogata fino al 2044: via agli investimenti",
+      "descrizione": "Monza consolida il proprio futuro nella Formula 1 con l'estensione della concessione all'ACI fino al 2044 e un piano di riqualificazione dell'impianto",
+      "link": "https://www.hdmotori.it/autodromo-monza-concessione-prorogata-2044/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T18:00:49+00:00"
+    },
+    {
+      "titolo": "Motorola Edge 60 Neo cala di prezzo, è il best buy della fascia medio-bassa",
+      "descrizione": "Il Motorola Edge 60 Neo è in offerta e si conferma, sempre di più, un best buy nella fascia medio-bassa del mercato.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665848/motorola-edge-60-neo-offerta-aug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T18:00:00+00:00"
+    },
+    {
+      "titolo": "AlphaFold, Google DeepMind smantella il team da premio Nobel",
+      "descrizione": "Pare che ormai non ci fosse più molto da fare in questo specifico progetto. Molti dipendenti sono stati riassegnati ad altri team DeepMind, altri se ne sono andati.",
+      "link": "https://www.hdblog.it/google/articoli/n665846/google-deepmind-alphafold-team-sciolto/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T17:45:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 10 Pro in offerta su Amazon, è la smartband che sostituisce lo smartwatch (anche con NFC)",
+      "descrizione": "La Xiaomi Smart Band 10 Pro è in offerta su Amazon e diventa la scelta giusta per sostituire lo smartwatch, anche con supporto NFC.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n665843/xiaomi-smart-band-10-pro-offerta-amazon-lug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T17:25:00+00:00"
+    },
+    {
+      "titolo": "La Francia prova ad azzerare la pirateria: blocco automatico per lo sport in streaming",
+      "descrizione": "La Francia vuole oscurare i canali pirata con lo stop automatico alle dirette streaming rubate.",
+      "link": "https://www.hdblog.it/business/articoli/n665790/francia-stop-dirette-streaming-sport/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T17:20:00+00:00"
+    },
+    {
+      "titolo": "Waze è un'app spiona? Il tracciamento non si spegne mai del tutto",
+      "descrizione": "Utenti trattati da \"nodi dati\" costanti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665803/waze-app-spiona-tracciamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T17:05:00+00:00"
+    },
+    {
+      "titolo": "Nuova Hyundai KONA Dark Line: più stile e tecnologia per il SUV coreano",
+      "descrizione": "La famiglia Dark Line si amplia con Hyundai KONA. Il SUV sfoggia dettagli esclusivi, ricca dotazione tecnologica e prezzi da 27.950 euro",
+      "link": "https://www.hdmotori.it/nuova-hyundai-kona-dark-line-prezzo-caratteristiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T17:00:12+00:00"
+    },
+    {
+      "titolo": "Arriva la nuova Stratos? Made in Cina e prezzo alla portata",
+      "descrizione": "Sulla base filosofica della regina dei Rally italiana, è nata una biposto a motore centrale. La SC-01 arriverà sul mercato britannico",
+      "link": "https://www.hdmotori.it/nuova-stratos-made-in-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T16:30:11+00:00"
+    },
+    {
+      "titolo": "Homey, arriva la certificazione Matter 1.5: tanti nuovi prodotti compatibili",
+      "descrizione": "Nell'elenco ci sono videocamere di sorveglianza, videocitofoni, tapparelle, pompe di calore, pannelli solari, e caricatori di veicoli elettrici .",
+      "link": "https://www.hdblog.it/domotica/articoli/n665834/homey-certificazione-matter-1-5-nuovi-dispositivi/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T16:25:00+00:00"
+    },
+    {
+      "titolo": "HBO Max, arrivano gli Shorts basati sull'AI... e non sembrano un'idea malvagia",
+      "descrizione": "Sembrano uno strumento interessante per permettere all'utente di scoprire nuovi contenuti. In arrivo anche un motore di ricerca basato sul linguaggio naturale.",
+      "link": "https://www.hdblog.it/apple/articoli/n665830/hbo-max-ai-shorts-ask-ricerca-linguaggio-naturale/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T16:05:00+00:00"
+    },
+    {
+      "titolo": "AI Act: pareri del Garante Privacy sui decreti legislativi",
+      "descrizione": "Il Garante della privacy ha suggerito alcune modifiche ai decreti legislativi che riguardano l'uso dell'AI per formazione e attività di polizia. The post AI Act: pareri del Garante Privacy sui decreti legislativi appeare",
+      "link": "https://www.punto-informatico.it/ai-act-pareri-del-garante-privacy-sui-decreti-legislativi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-29T16:03:15+00:00"
+    },
+    {
+      "titolo": "Bonus Retrofit 2026 al via: come ottenere fino a 800 euro per GPL e metano",
+      "descrizione": "Parte il Bonus Retrofit 2026: contributi da 400 euro per il GPL e 800 euro per il metano. Ecco requisiti, domanda e come funziona l'incentivo",
+      "link": "https://www.hdmotori.it/bonus-retrofit-2026-auto-gpl-metano/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T16:00:05+00:00"
+    },
+    {
+      "titolo": "L'incidente è agghiacciante, la barra vola nel parabrezza: conducente vivo per miracolo",
+      "descrizione": "La vita di un automobilista può essere imprevedibile. A causa di un errore di calcolo di un autista di camion è avvenuto un crash spaventoso",
+      "link": "https://www.hdmotori.it/incidente-barra-parabrezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T15:30:07+00:00"
+    },
+    {
+      "titolo": "Dazn introduce il diritto di ripensamento per gli abbonamenti",
+      "descrizione": "DAZN introduce il diritto di ripensamento per i nuovi abbonamenti. Chi annulla entro 14 giorni può ottenere un rimborso, ma se ha già iniziato a utilizzare il servizio la piattaforma tratterrà...",
+      "link": "https://www.hdblog.it/mercato/articoli/n665818/dazn-recesso-rimborso-giorni/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "titolo": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
+      "descrizione": "An Nvidia employee has been implicated in the Supermicro smuggling scandal, with his home and desk searched. He's been detained over allegations of forgery and breach of trust. Meanwhile, Nvidia is collapsing its buyer l",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-29T15:10:06+00:00"
+    },
+    {
+      "titolo": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+      "descrizione": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
+      "link": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+      "fonte": "Latest news",
+      "data": "2026-07-29T15:00:45+00:00"
+    },
+    {
+      "titolo": "Microsoft 365: indagine sugli aumenti nel Regno Unito",
+      "descrizione": "La CMA del Regno Unito ha avviato un'indagine per verificare se gli aumenti di Microsoft 365 sono stati effettuati con la massima trasparenza. The post Microsoft 365: indagine sugli aumenti nel Regno Unito appeared first",
+      "link": "https://www.punto-informatico.it/microsoft-365-indagine-aumenti-regno-unito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-29T14:56:34+00:00"
+    },
+    {
+      "titolo": "Fastweb + Vodafone per il cambio di nome e genere sui contratti",
+      "descrizione": "L'iniziativa di Fastweb + Vodafone per il cambio di nome e genere sui contratti, può essere effettuato online o nei punti vendita. The post Fastweb + Vodafone per il cambio di nome e genere sui contratti appeared first o",
+      "link": "https://www.punto-informatico.it/fastweb-vodafone-cambio-nome-genere-contratti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-29T14:48:16+00:00"
     },
     {
       "titolo": "Telegram: mandato di arresto internazionale per Pavel Durov",
@@ -14,13 +147,6 @@
       "link": "https://www.punto-informatico.it/telegram-mandato-arresto-internazionale-pavel-durov/",
       "fonte": "Punto Informatico",
       "data": "2026-07-29T14:24:08+00:00"
-    },
-    {
-      "titolo": "BYD Seal 06, le prime immagini del restyling 2027: tra LiDAR e più potenza",
-      "descrizione": "Tempo di restyling per la berlina tre volumi di BYD. Restano le versioni elettriche ed DM-i plug-in, aumentano la lunghezza complessiva, le potenze erogate e l'autonomia stimata.",
-      "link": "https://www.hdmotori.it/byd-seal-06-prime-immagini-restyling-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T14:00:06+00:00"
     },
     {
       "titolo": "Tutela dei minori: AGCOM ordina blocco di Escort Advisor",
@@ -42,132 +168,6 @@
       "link": "https://www.punto-informatico.it/intelligenza-artificiale-in-azienda-perche-oggi-servono-competenze-manageriali/",
       "fonte": "Punto Informatico",
       "data": "2026-07-29T13:30:55+00:00"
-    },
-    {
-      "titolo": "CMF by Nothing batte un colpo: in arrivo una nuova categoria di prodotti",
-      "descrizione": "Soliti teaser misteriosi: ecco di cosa dovrebbe trattarsi.",
-      "link": "https://www.hdblog.it/nothing/articoli/n665794/cmf-nothing-cuffie-open-ear-clip-pro-auricolari/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T13:20:00+00:00"
-    },
-    {
-      "titolo": "Teacher arrested for clapping in support of opposition at an AI data center meeting — gigawatt-scale project gets approved anyway despite community resistance",
-      "descrizione": "A Physics teacher was arrested for clapping multiple times during a public hearing to rezone land for a proposed gigawatt-scale data center near Emporia, Kansas. The man refused to cooperate when the police asked him to",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-29T13:06:16+00:00"
-    },
-    {
-      "titolo": "Pixel 10 Pro, DJI Osmo 360 e TV OLED 83'': le migliori offerte del 29 luglio",
-      "descrizione": "Le migliori offerte tech di oggi su Amazon e MediaWorld: Pixel 10 Pro, DJI Osmo 360, Blink Mini, JBL Charge Essential 2 e TV OLED Samsung in forte sconto.",
-      "link": "https://www.hdblog.it/amazon/offerte/n665806/migliori-offerte-oggi-amazon-29-luglio-sconti/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T13:05:00+00:00"
-    },
-    {
-      "titolo": "Batteria si carica al 97% in 8 minuti: l'exploit di Hongqi e Lishen Battery",
-      "descrizione": "I test a 25°C confermano la ricarica dal 10% al 97% in 8 minuti. La nuova batteria a 12C riduce la resistenza interna del 15% e punta sul raffreddamento a liquido",
-      "link": "https://www.hdmotori.it/batteria-ricarica-rapida-hongqi-lishen-12c/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T13:00:13+00:00"
-    },
-    {
-      "titolo": "Meccha Chameleon ha risolto un grave problema, i malware nascosti nelle mappe",
-      "descrizione": "Alcune mappe MOD di MECCHA CHAMELEON pubblicate su Steam Workshop contenevano malware, si consiglia di aggiornare subito il gioco.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n665798/meccha-chameleon-problema-malware-mappe/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T12:45:00+00:00"
-    },
-    {
-      "titolo": "Scarafaggi vivi e minacce: eBay risarcisce con 56 milioni due giornalisti",
-      "descrizione": "eBay ha accettato di pagare 55,7 milioni di dollari per chiudere la causa civile avviata dai giornalisti Ina e David Steiner, vittime di una campagna di intimidazioni che comprendeva scarafaggi vivi,...",
-      "link": "https://www.hdblog.it/mercato/articoli/n665799/ebay-intimidazioni-accordo-tribunale-milioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T12:20:00+00:00"
-    },
-    {
-      "titolo": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
-      "descrizione": "A series of studies revealed that employees are spending less time asking their coworkers for help. Here's how that tactic could backfire and how organizations need to adapt.",
-      "link": "https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/",
-      "fonte": "Latest news",
-      "data": "2026-07-29T12:19:00+00:00"
-    },
-    {
-      "titolo": "How to buy second-hand PC hardware without getting scammed — essential rules of engagement for finding used parts and machines in an inflated market",
-      "descrizione": "Buying second-hand can be a great way to pick up a bargain on PC hardware, but you'll need to keep this advice in mind to make sure you avoid the scams.",
-      "link": "https://www.tomshardware.com/pc-components/how-to-buy-second-hand-pc-hardware-without-getting-scammed-essential-rules-of-engagement-for-finding-used-parts-and-machines-in-an-inflated-market",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-29T12:07:36+00:00"
-    },
-    {
-      "titolo": "Ferrari spostati, arriva la Touring Superleggera Veloce12 Aperta con motore V12",
-      "descrizione": "L’artigianalità del Made in Italy assume diverse forme. La Spider Touring Superleggera Veloce12 vanta un motore da 503 CV.",
-      "link": "https://www.hdmotori.it/touring-superleggera-veloce12-aperta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T12:00:32+00:00"
-    },
-    {
-      "titolo": "Love It or Hate It, the Ferrari Luce Is a Thrilling Drive",
-      "descrizione": "WIRED test-drove a preproduction version of the Luce, the storied Italian automaker’s controversial electric car, and it was remarkably surprising. Will it convert Ferrari fanatics?",
-      "link": "https://www.wired.com/story/first-drive-ferrari-luce/",
-      "fonte": "WIRED",
-      "data": "2026-07-29T12:00:00+00:00"
-    },
-    {
-      "titolo": "Betelgeuse non è sola: scoperta la stella compagna della gigante rossa",
-      "descrizione": "Da quasi un secolo Betelgeuse è sotto la lente degli astronomi. Ora, finalmente, sembra essersi chiarito uno dei suoi aspetti più affascinanti: la celebre gigante rossa di Orione avrebbe una...",
-      "link": "https://www.ilsole24ore.com/art/betelgeuse-non-e-sola-scoperta-stella-compagna-gigante-rossa-AJAGuwY",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-07-29T11:54:00+00:00"
-    },
-    {
-      "titolo": "Three US states to deploy 60mph drones armed with pepper spray to neutralize school shooters — ‘Campus Guardian Angel’ drones can also smash windows and ram attackers",
-      "descrizione": "The drone arms race is set to enter U.S. schools with Mithril Defense’s Campus Guardian Angel drones in at least nine schools across three states before the year is out.",
-      "link": "https://www.tomshardware.com/tech-industry/drones/three-us-states-to-deploy-60mph-drones-armed-with-pepper-spray-to-neutralize-school-shooters-campus-guardian-angel-drones-can-also-smash-windows-and-ram-attackers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-29T11:36:04+00:00"
-    },
-    {
-      "titolo": "Verso l’abolizione del bollo auto? La tassa sul possesso vale 7,5 miliardi",
-      "descrizione": "Il ministro Tajani rilancia l'idea di eliminare una delle tasse automobilistiche più odiate, ma si creerebbe un buco finanziario da 7,5 miliardi di euro per le Regioni.",
-      "link": "https://www.hdmotori.it/verso-abolizione-bollo-auto-tassa-possesso/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T11:30:55+00:00"
-    },
-    {
-      "titolo": "Ted Lasso, finalmente ci siamo: la quarta stagione arriva tra pochi giorni | Trailer",
-      "descrizione": "Appuntamento a mercoledì prossimo!",
-      "link": "https://www.hdblog.it/apple/articoli/n665796/apple-tv-ted-lasso-stagione-4-quando-trailer/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T11:25:00+00:00"
-    },
-    {
-      "titolo": "Stop a Escort Advisor in Italia: Agcom ordina l'oscuramento del sito",
-      "descrizione": "Escort Advisor sarà bloccato in Italia dopo il provvedimento di Agcom. Secondo l'Autorità, il sito consentiva l'accesso a immagini e video sessualmente espliciti senza un efficace sistema di verifica...",
-      "link": "https://www.hdblog.it/mercato/articoli/n665787/escort-advisor-blocco-perche-eta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T10:55:00+00:00"
-    },
-    {
-      "titolo": "ASRock porta sul mercato una GPU con 4 GB di memoria video, ed è subito 2020",
-      "descrizione": "Un prodotto pensato per pochi, praticamente nessuno",
-      "link": "https://www.hdblog.it/hardware/articoli/n665780/asrock-nuova-gpu-4-gb-memoria-obsoleta/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T10:45:00+00:00"
-    },
-    {
-      "titolo": "Apple Upgrade Isn’t the Best Way to Buy an iPhone",
-      "descrizione": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
-      "link": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
-      "fonte": "WIRED",
-      "data": "2026-07-29T10:45:00+00:00"
-    },
-    {
-      "titolo": "Robot umanoidi nelle fabbriche tessili: la nuova sfida dell'automazione",
-      "descrizione": "2.000 robot umanoidi entreranno nelle fabbriche tessili per aumentare produttività ed efficienza.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665738/robot-umanoidi-fabbriche-tessili/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T10:35:00+00:00"
     }
   ]
 }
