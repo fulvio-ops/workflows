@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-29T03:42:44.814115+00:00",
+  "last_updated": "2026-07-29T09:10:23.305892+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "descrizione": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "fonte": "WIRED",
-      "data": "2026-07-29T00:15:30+00:00",
+      "titolo": "Developer uses AI to bring a native version of The Legend of Zelda: Ocarina of Time to iOS — no emulation required to play one of gaming's all-time greats on an iPhone or iPad",
+      "descrizione": "A developer has used OpenAI's Codex and GPT-5.6 Sol to help port a native version of The Legend of Zelda: Ocarina of Time to iOS and iPadOS devices.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/developer-uses-ai-to-bring-a-native-version-of-the-legend-of-zelda-ocarina-of-time-to-ios-no-emulation-required-to-play-one-of-gamings-all-time-greats-on-an-iphone-or-ipad",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-29T09:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,6 +16,14 @@
       "fonte": "Latest news",
       "data": "2026-07-28T15:58:00+00:00",
       "modello": "copilot"
+    },
+    {
+      "titolo": "Google Docs diventa più intelligente: Gemini crea grafica senza uscire dal documento",
+      "descrizione": "Gemini crea immagini, diagrammi e infografiche direttamente in Google Docs.",
+      "link": "https://www.hdblog.it/google/articoli/n665744/gemini-google-docs-immagini-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-29T08:05:00+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
