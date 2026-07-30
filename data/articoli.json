@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T19:45:38.512024+00:00",
+  "last_updated": "2026-07-30T03:31:13.105100+00:00",
   "items": [
     {
       "titolo": "Recensione MOVA Lidax Ultra 1000 AWD, 4X4 e navigazione LiDAR al top!",
@@ -107,13 +107,6 @@
       "data": "2026-07-29T15:30:07+00:00"
     },
     {
-      "titolo": "Dazn introduce il diritto di ripensamento per gli abbonamenti",
-      "descrizione": "DAZN introduce il diritto di ripensamento per i nuovi abbonamenti. Chi annulla entro 14 giorni può ottenere un rimborso, ma se ha già iniziato a utilizzare il servizio la piattaforma tratterrà...",
-      "link": "https://www.hdblog.it/mercato/articoli/n665818/dazn-recesso-rimborso-giorni/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-29T15:15:00+00:00"
-    },
-    {
       "titolo": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
       "descrizione": "An Nvidia employee has been implicated in the Supermicro smuggling scandal, with his home and desk searched. He's been detained over allegations of forgery and breach of trust. Meanwhile, Nvidia is collapsing its buyer l",
       "link": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/intelligenza-artificiale-in-azienda-perche-oggi-servono-competenze-manageriali/",
       "fonte": "Punto Informatico",
       "data": "2026-07-29T13:30:55+00:00"
+    },
+    {
+      "titolo": "Teacher arrested for clapping in support of opposition at an AI data center meeting — gigawatt-scale project gets approved anyway despite community resistance",
+      "descrizione": "A Physics teacher was arrested for clapping multiple times during a public hearing to rezone land for a proposed gigawatt-scale data center near Emporia, Kansas. The man refused to cooperate when the police asked him to",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-29T13:06:16+00:00"
     }
   ]
 }
