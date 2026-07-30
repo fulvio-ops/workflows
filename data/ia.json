@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-07-30T09:03:41.079035+00:00",
+  "last_updated": "2026-07-30T14:33:41.892582+00:00",
   "items": [
     {
-      "titolo": "Nuova Mercedes-Benz GLA accetta la sfida, tre versioni 100% BEV: a partire da 46.972 euro",
-      "descrizione": "La nuova Mercedes GLA debutta con motori elettrici, ricarica ultra rapida e interni hi-tech. Autonomia fino a 657 km e architettura a 800 Volt",
-      "link": "https://www.hdmotori.it/nuova-mercedes-benz-gla-caratteristiche-prezzo/",
+      "titolo": "Zelda: Ocarina of Time, arriva il porting nativo per iPhone grazie (anche) all'AI",
+      "descrizione": "Tutto parte da un codice C decompilato da un gruppo di appassionati, e adattato ai Melafonini da Claude e ChatGPT.",
+      "link": "https://www.hdblog.it/apple/articoli/n665930/zelda-ocarina-time-porting-nativo-ipad-iphone/",
       "fonte": "HDblog.it",
-      "data": "2026-07-30T09:00:21+00:00",
+      "data": "2026-07-30T12:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "È in arrivo la super app di Copilot (che nessuno ha chiesto)",
-      "descrizione": "Il CEO di Microsoft ha confermato in via ufficiale il prossimo arrivo di una super app che riunirà tutte le esperienze di Copilot. The post È in arrivo la super app di Copilot (che nessuno ha chiesto) appeared first on P",
-      "link": "https://www.punto-informatico.it/super-app-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-30T08:58:41+00:00",
+      "titolo": "Microsoft lavora a una \"super app\" per Copilot: conferme da Nadella",
+      "descrizione": "Potrebbe debuttare già a fine estate. Chissà forse... sarà anche più facile liberarsene?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n665925/microsoft-copilot-super-app-nadella-conferma/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-30T12:20:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "descrizione": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-      "fonte": "WIRED",
-      "data": "2026-07-28T10:00:00+00:00",
+      "titolo": "Gemini su Mac diventa più semplice: ora basta un tasto per parlare con l'AI di Google",
+      "descrizione": "E si può fare tanto.",
+      "link": "https://www.hdblog.it/google/articoli/n665922/gemini-mac-tasto-fn-voce-schermo-ai-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-30T12:10:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Zelda: Ocarina of Time, arriva il porting nativo per iPhone grazie (anche) all'AI",
+      "descrizione": "Tutto parte da un codice C decompilato da un gruppo di appassionati, e adattato ai Melafonini da Claude e ChatGPT.",
+      "link": "https://www.hdblog.it/apple/articoli/n665930/zelda-ocarina-time-porting-nativo-ipad-iphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-30T12:25:00+00:00",
       "modello": "claude"
     }
   ]
