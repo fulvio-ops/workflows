@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-31T09:17:21.591141+00:00",
+  "last_updated": "2026-07-31T14:37:10.700816+00:00",
   "items": [
     {
-      "titolo": "Glovo punta sull'AI: prodotti e ristoranti si cercano su ChatGPT e Claude",
-      "descrizione": "Glovo scommette sull'intelligenza artificiale con un'integrazione che porta il catalogo di negozi e ristoranti dentro ChatGPT e Claude. La ricerca avviene nel chatbot, mentre l'acquisto viene...",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n666013/glovo-shopping-su-chatgpt-claude-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T09:10:00+00:00",
+      "titolo": "Anche l’Ai di Anthropic colpisce servizi esterni durante i test",
+      "descrizione": "Dopo il caso OpenAi-Hugging Face arriva l’ammissione di Anthropic. Ma non può essere sempre colpa dell’AI.",
+      "link": "https://www.ilsole24ore.com/art/il-caso-openai-hugging-face-perche-non-puo-essere-colpa-dell-ai-AJdEpwa",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-31T08:01:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "descrizione": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "fonte": "WIRED",
-      "data": "2026-07-30T15:04:22+00:00",
+      "titolo": "Google aggiorna Gemini per macOS e Gemini Spark",
+      "descrizione": "Gemini per macOS supporta l'esecuzione dei compiti tramite comandi vocali, mentre Gemini Spark permette di automatizzare le azioni in Chrome. The post Google aggiorna Gemini per macOS e Gemini Spark appeared first on Pun",
+      "link": "https://www.punto-informatico.it/google-aggiorna-gemini-macos-gemini-spark/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-31T14:16:04+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Glovo punta sull'AI: prodotti e ristoranti si cercano su ChatGPT e Claude",
-      "descrizione": "Glovo scommette sull'intelligenza artificiale con un'integrazione che porta il catalogo di negozi e ristoranti dentro ChatGPT e Claude. La ricerca avviene nel chatbot, mentre l'acquisto viene...",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n666013/glovo-shopping-su-chatgpt-claude-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T09:10:00+00:00",
+      "titolo": "Claude Opus 4.7 e Mythos 5 hanno attaccato tre aziende",
+      "descrizione": "Claude Opus 4.7, Mythos 5 e un altro modello in test di Anthropic hanno aggirato la sandbox per accedere ad Internet e attaccare tre aziende reali. The post Claude Opus 4.7 e Mythos 5 hanno attaccato tre aziende appeared",
+      "link": "https://www.punto-informatico.it/claude-opus-4-7-mythos-5-attacco-tre-aziende/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-31T08:08:59+00:00",
       "modello": "claude"
     }
   ]
