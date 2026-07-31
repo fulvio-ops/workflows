@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-30T19:53:28.602050+00:00",
+  "last_updated": "2026-07-31T03:52:12.810094+00:00",
   "items": [
     {
-      "titolo": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "descrizione": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "titolo": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "descrizione": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "fonte": "WIRED",
-      "data": "2026-07-30T17:51:10+00:00",
+      "data": "2026-07-31T01:24:26+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "descrizione": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "titolo": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "descrizione": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "fonte": "WIRED",
-      "data": "2026-07-30T17:51:10+00:00",
+      "data": "2026-07-31T01:24:26+00:00",
       "modello": "claude"
     }
   ]

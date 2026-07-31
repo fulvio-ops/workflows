@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-07-30T19:53:25.299577+00:00",
+  "last_updated": "2026-07-31T03:52:08.270543+00:00",
   "items": [
+    {
+      "titolo": "Recensione Samsung Galaxy Z Fold 8: il formato a passaporto convince | Video",
+      "descrizione": "Abbiamo provato il nuovo pieghevole \"a passaporto\" di Samsung: lo Z Fold 8. Il nuovo formato rivoluzionario che sembra anticipare Apple, è davvero così comodo?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n665527/recensione-samsung-galaxy-z-fold-8-prezzo-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-30T19:00:00+00:00"
+    },
     {
       "titolo": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "descrizione": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
@@ -161,13 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/cybersecurity-e-ai-nuova-sfida-e-collasso-scarsita-AJKNCvX",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-07-30T11:37:22+00:00"
-    },
-    {
-      "titolo": "30 Georgia homes are being acquired via sale or eminent domain to expand power grid — one affected family member says it’s ‘for the data centers’",
-      "descrizione": "Georgia's largest power supply company is reclaiming 30 homes that lay in the path of its power line expansion project through sale or eminent domain. The company says the project is not for a data center, but the substa",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/30-georgia-homes-are-being-reclaimed-via-sale-or-eminent-domain-to-expand-power-grid-one-affected-family-member-says-its-for-the-data-centers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-07-30T11:20:00+00:00"
     }
   ]
 }
