@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-31T03:52:12.810094+00:00",
+  "last_updated": "2026-07-31T09:17:21.591141+00:00",
   "items": [
     {
-      "titolo": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "descrizione": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "fonte": "WIRED",
-      "data": "2026-07-31T01:24:26+00:00",
+      "titolo": "Glovo punta sull'AI: prodotti e ristoranti si cercano su ChatGPT e Claude",
+      "descrizione": "Glovo scommette sull'intelligenza artificiale con un'integrazione che porta il catalogo di negozi e ristoranti dentro ChatGPT e Claude. La ricerca avviene nel chatbot, mentre l'acquisto viene...",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n666013/glovo-shopping-su-chatgpt-claude-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T09:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "È in arrivo la super app di Copilot (che nessuno ha chiesto)",
-      "descrizione": "Il CEO di Microsoft ha confermato in via ufficiale il prossimo arrivo di una super app che riunirà tutte le esperienze di Copilot. The post È in arrivo la super app di Copilot (che nessuno ha chiesto) appeared first on P",
-      "link": "https://www.punto-informatico.it/super-app-copilot/",
+      "titolo": "Microsoft 365 Copilot supera i 30 milioni di licenze a pagamento",
+      "descrizione": "I numeri confermano il successo di Microsoft 365 Copilot, che supera i 30 milioni di licenze e amplia la diffusione nelle imprese. The post Microsoft 365 Copilot supera i 30 milioni di licenze a pagamento appeared first",
+      "link": "https://www.punto-informatico.it/microsoft-365-copilot-supera-30-milioni-licenze-pagamento/",
       "fonte": "Punto Informatico",
-      "data": "2026-07-30T08:58:41+00:00",
+      "data": "2026-07-31T07:05:53+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "descrizione": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "fonte": "WIRED",
-      "data": "2026-07-31T01:24:26+00:00",
+      "titolo": "Glovo punta sull'AI: prodotti e ristoranti si cercano su ChatGPT e Claude",
+      "descrizione": "Glovo scommette sull'intelligenza artificiale con un'integrazione che porta il catalogo di negozi e ristoranti dentro ChatGPT e Claude. La ricerca avviene nel chatbot, mentre l'acquisto viene...",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n666013/glovo-shopping-su-chatgpt-claude-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T09:10:00+00:00",
       "modello": "claude"
     }
   ]
