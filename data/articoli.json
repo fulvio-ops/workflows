@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-07-31T14:37:06.919551+00:00",
+  "last_updated": "2026-07-31T19:53:58.910841+00:00",
   "items": [
+    {
+      "titolo": "Samsung Good Lock, modulo popolare bisticcia con l'Edge Panel della One UI",
+      "descrizione": "C'entra l'apprezzato modulo One Handed Operation. Samsung è già al corrente del problema e rilascerà presto una soluzione.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666097/samsung-good-lock-bug-edge-panel/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T17:55:00+00:00"
+    },
+    {
+      "titolo": "Novità per rimborsi Trenitalia: antitrust accetta gli impegni",
+      "descrizione": "Uno degli impegni di Trenitalia per semplificare la richiesta di rimborso dei biglietti prevede l'eliminazione dell'attestazione di rinuncia al viaggio. The post Novità per rimborsi Trenitalia: antitrust accetta gli impe",
+      "link": "https://www.punto-informatico.it/novita-per-rimborsi-trenitalia-antitrust-accetta-gli-impegni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-31T17:54:19+00:00"
+    },
+    {
+      "titolo": "Google Pixel 11, il \"Glow\" potrebbe avere un altro nome: spunta \"HiLight\"",
+      "descrizione": "Proviamo a... fare luce sulla questione",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666095/google-pixel-11-glow-hilight-led-luce-novita-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T17:45:00+00:00"
+    },
+    {
+      "titolo": "Gemini Spark, l'agente AI di Google finalmente può usare Chrome desktop",
+      "descrizione": "Il software arriva anche in Italia!ge",
+      "link": "https://www.hdblog.it/google/articoli/n666094/gemini-spark-google-chrome-desktop/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T17:35:00+00:00"
+    },
+    {
+      "titolo": "Electronic Arts diventa privata: operazione record da 55 miliardi di dollari",
+      "descrizione": "Dopo 35 anni EA lascia la Borsa.",
+      "link": "https://www.hdblog.it/games/articoli/n666091/electronic-arts-delisting-borsa-record-privata/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T17:25:00+00:00"
+    },
+    {
+      "titolo": "Musica e AI, sentenza storica contro Suno: «Viola il diritto d’autore»",
+      "descrizione": "Il Tribunale di Monaco di Baviera dà ragione alla collecting tedesca Gema contro la app americana da 5,4 miliardi di dollari",
+      "link": "https://www.ilsole24ore.com/art/musica-e-ai-sentenza-storica-contro-suno-viola-diritto-d-autore-AJv4Ewb",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-07-31T17:01:10+00:00"
+    },
+    {
+      "titolo": "Non è il solito restomod, la nuova Delta di Maturo è un capolavoro da 400 CV",
+      "descrizione": "Oltre 250 punti di saldatura, carrozzeria in carbonio e 540 Nm di coppia. Ecco la nuova interpretazione su misura della Lancia Delta Integrale firmata Maturo",
+      "link": "https://www.hdmotori.it/lancia-delta-maturo-restomod/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T17:00:58+00:00"
+    },
+    {
+      "titolo": "Casio rilancia l'orologio digitale con A1000SP-7: ora è in acciaio e vetro zaffiro",
+      "descrizione": "Casio rinnova il suo iconico digitale con acciaio, vetro zaffiro e finiture premium.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666064/casio-vintage-a1000sp-7/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T16:55:00+00:00"
+    },
+    {
+      "titolo": "Missione Swift: problemi per la navicella LINK",
+      "descrizione": "LINK ha iniziato a ruotare per un malfunzionamento del sistema di controllo dell'assetto, quindi sono in corso manovre per risolvere il problema. The post Missione Swift: problemi per la navicella LINK appeared first on",
+      "link": "https://www.punto-informatico.it/missione-swift-problemi-navicella-link/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-31T16:50:25+00:00"
+    },
+    {
+      "titolo": "iPhone Air 2 arriverà nel 2027 con almeno 5 novità",
+      "descrizione": "Scopriamo quali.",
+      "link": "https://www.hdblog.it/apple/articoli/n666077/iphone-air-2-2027-novita-fotocamere-chip-a20-apple/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T16:10:00+00:00"
+    },
+    {
+      "titolo": "Sony, finalmente una dichiarazione sullo stop ai supporti fisici per PlayStation",
+      "descrizione": "Indovinate a quanto sono servite proteste e petizioni?",
+      "link": "https://www.hdblog.it/sony/articoli/n666079/sony-commenti-abbandono-giochi-fisici-playstation/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T16:05:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID. Aura T6, il SUV nato con Xpeng per riconquistare la Cina",
+      "descrizione": "Volkswagen presenta in Cina il nuovo ID. Aura T6, SUV elettrico sviluppato con Xpeng. Design moderno, tecnologia Lidar e motore da 231 CV",
+      "link": "https://www.hdmotori.it/volkswagen-id-aura-t6-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-07-31T16:00:15+00:00"
+    },
+    {
+      "titolo": "Nuova offerta NordVPN: 28 mesi a prezzo scontato e 3 GB gratis con le eSIM di Saily",
+      "descrizione": "Con la nuova promo di NordVPN è possibile attivare il piano da 28 mesi con un prezzo ridotto e con 3 GB all'estero da usare con Saily. The post Nuova offerta NordVPN: 28 mesi a prezzo scontato e 3 GB gratis con le eSIM d",
+      "link": "https://www.punto-informatico.it/nuova-offerta-nordvpn-28-mesi-a-prezzo-scontato-e-3-gb-gratis-con-le-esim-di-saily/",
+      "fonte": "Punto Informatico",
+      "data": "2026-07-31T15:46:19+00:00"
+    },
+    {
+      "titolo": "Tom’s Hardware’s 30th Anniversary — From Intel feuds and DIP switches to 30 years of unbiased testing",
+      "descrizione": "We take a look back at the history of Tom’s Hardware as we celebrate our 30-year anniversary.",
+      "link": "https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-07-31T15:05:30+00:00"
+    },
     {
       "titolo": "Bastano 2 dollari per oscurare il LED degli occhiali smart di Meta",
       "descrizione": "Con una spesa davvero irrisoria si trovano accessori che nascondono il LED sugli occhiali smart di Meta, tanti saluti alla privacy. The post Bastano 2 dollari per oscurare il LED degli occhiali smart di Meta appeared fir",
@@ -16,39 +114,11 @@
       "data": "2026-07-31T14:16:04+00:00"
     },
     {
-      "titolo": "Da una pozza riemergono 10 targhe, sul web si cercano i legittimi proprietari",
-      "descrizione": "Sui social è scattata la caccia a coloro che hanno perso le targhe. Tra buche e strade allagate, l'ondata di maltempo ha creato il disagio a Perugia",
-      "link": "https://www.hdmotori.it/pozza-targhe-riemerse-proprietari/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T14:00:53+00:00"
-    },
-    {
       "titolo": "Risponde a un SMS e gli rubano 36.000 euro, rimborsato",
       "descrizione": "Un cliente Deutsche Bank ha perso una cifra enorme per una truffa iniziata via SMS, l'Arbitro Bancario Finanziario ha imposto il rimborso. The post Risponde a un SMS e gli rubano 36.000 euro, rimborsato appeared first on",
       "link": "https://www.punto-informatico.it/risponde-sms-rubano-36000-euro-rimborsato/",
       "fonte": "Punto Informatico",
       "data": "2026-07-31T13:46:53+00:00"
-    },
-    {
-      "titolo": "Disney+ perde il 4K HDR in Italia: piano Premium impoverito senza annunci ufficiali",
-      "descrizione": "Massimo 1080p SDR: la stessa risoluzione del piano Standard.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n666051/disney-plus-italia-4k-hdr-premium-full-hd-sdr/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T13:01:00+00:00"
-    },
-    {
-      "titolo": "BMW: cancellato il fuoristrada \"anti Classe G\"",
-      "descrizione": "BMW sta attraversando una fase di riassetto che dovrebbe portare alla cancellazione di un nuovo SUV di lusso.",
-      "link": "https://www.hdmotori.it/bmw-cancellato-fuoristrada/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T13:00:14+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S26 FE e Tab S12 stanno arrivando: c'è la conferma ufficiale",
-      "descrizione": "Ufficialmente confermato l'arrivo dei prossimi Samsung Galaxy S26 FE e Galaxy Tab S12.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666015/samsung-galaxy-s26-fe-tab-s12-conferma-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T12:50:00+00:00"
     },
     {
       "titolo": "Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets",
@@ -58,27 +128,6 @@
       "data": "2026-07-31T12:45:27+00:00"
     },
     {
-      "titolo": "Samsung Galaxy SmartTag 3 cambia design: addio ad una caratteristica utile?",
-      "descrizione": "Un'immagine anticipa come saranno i nuovi tracker Samsung.",
-      "link": "https://www.hdblog.it/hardware/articoli/n666045/samsung-galaxy-smarttag-3-design-novita-leak-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T12:40:00+00:00"
-    },
-    {
-      "titolo": "NAVEE NT5 Max VS Segway ZT3 Pro: confronto tra monopattini all terrain",
-      "descrizione": "Confrontiamo le specifiche tecniche di due monopattini molto interessanti, con caratteristiche adatte sia alla strada che ad un leggero off-road.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664256/navee-nt5-max-vs-segway-zt3-pro-confronto-tra-monopattini-off-road/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T12:31:00+00:00"
-    },
-    {
-      "titolo": "Droni ricaricati con un laser in volo: ecco il nuovo metodo cinese",
-      "descrizione": "Un laser ricarica i droni in volo: ecco come funziona la nuova tecnologia cinese.",
-      "link": "https://www.hdblog.it/droni/articoli/n666031/droni-ricarica-laser-volo-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T12:15:00+00:00"
-    },
-    {
       "titolo": "Lyca Mobile conferma il passaggio alla rete TIM",
       "descrizione": "Dopo il blackout di ieri, Lyca Mobile ufficializza il passaggio alla rete TIM con un post sul blog dedicato alla nuova infrastruttura. The post Lyca Mobile conferma il passaggio alla rete TIM appeared first on Punto Info",
       "link": "https://www.punto-informatico.it/lyca-mobile-conferma-passaggio-rete-tim/",
@@ -86,39 +135,11 @@
       "data": "2026-07-31T12:08:27+00:00"
     },
     {
-      "titolo": "A Bolzano arrivano le colonnine con i sensori contro la sosta abusiva",
-      "descrizione": "Un progetto di Powy prevede l’installazione di 35 punti di ricarica dotati di sensori tecnologici per contrastare i “furbetti” che occupano gli stalli impropriamente.",
-      "link": "https://www.hdmotori.it/bolzano-colonnine-sensori-sosta-abusiva/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T12:00:01+00:00"
-    },
-    {
       "titolo": "New open source printer has 7 toolheads that swap in 5 seconds for fast, zero-waste multi-color 3D printing — Sovol M1D 3D printer is the first open-source IDEX design with an integrated tool-changer",
       "descrizione": "Sovol M1D 3D printer is the first open-source IDEX design with an integrated tool-changer — seven heads for quick-swapping materials with two fully independent nozzles, with 300x300x350mm print volume.",
       "link": "https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-31T12:00:00+00:00"
-    },
-    {
-      "titolo": "Anche i nuovi pieghevoli Samsung ricevono le attenzioni di Caviar",
-      "descrizione": "La serie \"Legends\" rende omaggio a tre personaggi iconici della storia del cinema nella cultura pop.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666047/samsung-galaxy-z-fold-8-ultra-caviar-lusso-cinema/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T11:55:00+00:00"
-    },
-    {
-      "titolo": "Un escavatore autonomo per la Luna: il cantiere spaziale parte nel 2028",
-      "descrizione": "Un robot autonomo preparerà il terreno per le future basi lunari della NASA entro il 2028.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666026/nasa-scavatore-luna-2028/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T11:45:00+00:00"
-    },
-    {
-      "titolo": "SpaceX lancerà 18 satelliti militari USA con un contratto miliardario",
-      "descrizione": "SpaceX lancerà 18 satelliti militari USA per il tracciamento di minacce dallo spazio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666018/spacex-contratto-space-force-falcon-9/",
-      "fonte": "HDblog.it",
-      "data": "2026-07-31T11:15:00+00:00"
     },
     {
       "titolo": "Save $900 on this RTX 5070 gaming PC from MSI in this limited-time Woot deal, now $1,399 — grab a huge saving on this Codex R2 rig with a 10-core Intel CPU, 32GB DDR5, and a 1TB SSD",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/data-centers/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-units-could-be-much-faster-to-deploy-but-questions-about-reliability-and-longevity-remain",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-07-31T10:00:00+00:00"
-    },
-    {
-      "titolo": "App IO, su YouTube la video ufficiale che spiega l’applicazione",
-      "descrizione": "Messaggi, documenti digitali e pagamenti pagoPA: la nuova guida ufficiale dell'app IO aiuta a scoprire tutte le funzionalità disponibili. The post App IO, su YouTube la video ufficiale che spiega l’applicazione appeared",
-      "link": "https://www.punto-informatico.it/app-io-video-ufficiale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-31T09:39:07+00:00"
-    },
-    {
-      "titolo": "Chip di memoria introvabili: nuovi aumenti per Apple?",
-      "descrizione": "Il CEO Tim Cook ha evidenziato le difficoltà di approvvigionamento e l'incremento dei costi dei chip di memoria, quindi non si escludono nuovi rincari. The post Chip di memoria introvabili: nuovi aumenti per Apple? appea",
-      "link": "https://www.punto-informatico.it/chip-memoria-introvabili-nuovi-aumenti-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-31T09:01:54+00:00"
-    },
-    {
-      "titolo": "The World Is Too Hot. El Niño Is Partly to Blame",
-      "descrizione": "Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.",
-      "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
-      "fonte": "WIRED",
-      "data": "2026-07-31T09:00:00+00:00"
     }
   ]
 }
