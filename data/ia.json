@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-08-01T08:34:37.036489+00:00",
+  "last_updated": "2026-08-01T13:56:54.808302+00:00",
   "items": [
     {
-      "titolo": "Chinese AI Researchers Are Finding Their Voice on X",
-      "descrizione": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "titolo": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "descrizione": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "fonte": "WIRED",
-      "data": "2026-07-31T18:14:43+00:00",
+      "data": "2026-08-01T09:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft 365 Copilot supera i 30 milioni di licenze a pagamento",
-      "descrizione": "I numeri confermano il successo di Microsoft 365 Copilot, che supera i 30 milioni di licenze e amplia la diffusione nelle imprese. The post Microsoft 365 Copilot supera i 30 milioni di licenze a pagamento appeared first",
-      "link": "https://www.punto-informatico.it/microsoft-365-copilot-supera-30-milioni-licenze-pagamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-07-31T07:05:53+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini Spark, l'agente AI di Google finalmente può usare Chrome desktop",
-      "descrizione": "Il software arriva anche in Italia!ge",
-      "link": "https://www.hdblog.it/google/articoli/n666094/gemini-spark-google-chrome-desktop/",
+      "titolo": "Gemini, la prima configurazione degli smartphone potrebbe essere assistita da lei",
+      "descrizione": "Per un setup più veloce e più smart",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666061/gemini-prima-configurazione-smartphone/",
       "fonte": "HDblog.it",
-      "data": "2026-07-31T17:35:00+00:00",
+      "data": "2026-08-01T09:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Chinese AI Researchers Are Finding Their Voice on X",
-      "descrizione": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "fonte": "WIRED",
-      "data": "2026-07-31T18:14:43+00:00",
+      "titolo": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
+      "descrizione": "Anthropic's Claude hacked three real-life companies during security capabilities test — open test environment and unwitting targets' lax cybersecurity practices led bots run rampant",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-01T12:30:00+00:00",
       "modello": "claude"
     }
   ]
