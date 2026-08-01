@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-01T13:56:54.808302+00:00",
+  "last_updated": "2026-08-01T19:36:24.967476+00:00",
   "items": [
     {
-      "titolo": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "titolo": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "descrizione": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
       "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "fonte": "WIRED",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
-      "descrizione": "Anthropic's Claude hacked three real-life companies during security capabilities test — open test environment and unwitting targets' lax cybersecurity practices led bots run rampant",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-01T12:30:00+00:00",
+      "titolo": "Anthropic nella blacklist del governo USA: nessuna prova",
+      "descrizione": "L'amministrazione Trump non ha fornito prove sufficienti per giustificare l'inserimento di Anthropic nella blacklist del Dipartimento della Difesa. The post Anthropic nella blacklist del governo USA: nessuna prova appear",
+      "link": "https://www.punto-informatico.it/anthropic-blacklist-governo-usa-nessuna-prova/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-01T16:58:19+00:00",
       "modello": "claude"
     }
   ]
