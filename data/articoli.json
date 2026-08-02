@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-08-02T08:37:28.263219+00:00",
+  "last_updated": "2026-08-02T13:57:44.881143+00:00",
   "items": [
+    {
+      "titolo": "Brabus Ultima 55: così il celebre tuner conquista il mare",
+      "descrizione": "Prestazioni estreme, tecnologia idrofoil e lusso estremo su misura nel nuovo catamarano sviluppato da Brubus con Sunreef Yachts.",
+      "link": "https://www.hdmotori.it/brabus-ultima-55-tuner-conquista-mare/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-02T12:30:55+00:00"
+    },
+    {
+      "titolo": "First open-source firmware for AM5 officially launches — Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850",
+      "descrizione": "3mdeb has introduced a new open-source firmware for the MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform.",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-02T12:10:00+00:00"
+    },
+    {
+      "titolo": "I went running with the Galaxy Watch 9 in London, and it taught me something new",
+      "descrizione": "I appreciate the light and comfortable build on Samsung's Galaxy Watch 9, with a range of helpful tracking features and nudges.",
+      "link": "https://www.zdnet.com/article/galaxy-watch-9-first-look/",
+      "fonte": "Latest news",
+      "data": "2026-08-02T10:30:37+00:00"
+    },
+    {
+      "titolo": "Autonomia enorme, foto professionali e audio by Bose: POCO F8 Ultra",
+      "descrizione": "Il POCO F8 ULTRA è su eBay nella versione da 12 GB di RAM e 256 GB di memoria interna a un ottimo prezzo e per ciò che offre non è da perdere. The post Autonomia enorme, foto professionali e audio by Bose: POCO F8 Ultra",
+      "link": "https://www.punto-informatico.it/autonomia-enorme-foto-professionali-audio-by-bose-poco-f8-ultra/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-02T09:55:08+00:00"
+    },
+    {
+      "titolo": "Chiavetta USB avviabile: con Ventoy ne basta una per tutti i sistemi operativi",
+      "descrizione": "Tutte le ISO in un’unica unità di memoria.",
+      "link": "https://www.hdblog.it/linux/articoli/n666050/chiavetta-usb-avviabile-ventoy-sistemi-operativi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-02T08:55:00+00:00"
+    },
+    {
+      "titolo": "Il MacBook Neo torna in offerta: lo sconto di oggi annulla i rincari di Apple",
+      "descrizione": "Il MacBook Neo torna in promo e lo sconto di oggi annulla i rincari annunciati da Apple per il suo notebook.",
+      "link": "https://www.hdblog.it/portatili/offerte/n666136/macbook-neo-offerta-aug26/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-02T08:50:00+00:00"
+    },
+    {
+      "titolo": "Il Galaxy S26 Ultra inizia agosto con un nuovo sconto su Amazon (anche a rate)",
+      "descrizione": "Il Samsung Galaxy S26 Ultra è in offerta su Amazon ed è ora disponibile in sconto con anche la possibiltià di acquisto a rate.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n666135/il-samsung-galaxy-s26-ultra-offerta-amazn-ago26/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-02T08:30:00+00:00"
+    },
     {
       "titolo": "ChatGPT Sol sfida Claude Fable 5. La nuova guerra non è sui chatbot ma sul costo del lavoro digitale",
       "descrizione": "Dopo la corsa ai modelli più potenti, OpenAI e Anthropic cambiano strategia: piattaforme, agenti e servizi alle imprese diventano il vero terreno di scontro. Vince chi produce più valore per euro speso, non chi risponde",
@@ -93,13 +142,6 @@
       "data": "2026-08-01T09:00:00+00:00"
     },
     {
-      "titolo": "USB: trent'anni di evoluzione, tra velocità e nuove funzionalità",
-      "descrizione": "Come è cambiato lo standard USB nel tempo.",
-      "link": "https://www.hdblog.it/hardware/articoli/n665691/usb-trentanni-evoluzione-velocita-funzioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-01T08:55:00+00:00"
-    },
-    {
       "titolo": "Windows 11 funzionerà meglio sui dispositivi con 8 GB di RAM",
       "descrizione": "Microsoft ha annunciato altri miglioramenti in arrivo nei prossimi mesi, tra cui un funzionamento ottimale di Windows 11 con 8 GB di memoria. The post Windows 11 funzionerà meglio sui dispositivi con 8 GB di RAM appeared",
       "link": "https://www.punto-informatico.it/windows-11-funzionera-meglio-dispositivi-8-gb-ram/",
@@ -114,34 +156,6 @@
       "data": "2026-08-01T08:30:43+00:00"
     },
     {
-      "titolo": "Google Maps: così la piattaforma riesce ad anticipare code e rallentamenti",
-      "descrizione": "L’app incrocia dati in tempo reale con altre informazioni.",
-      "link": "https://www.hdblog.it/google/articoli/n665793/google-maps-come-prevede-code-rallentamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-01T07:55:00+00:00"
-    },
-    {
-      "titolo": "Lexus Flight: il nuovo servizio aerotaxi di lusso con elicotteri Leonardo",
-      "descrizione": "Il marchio giapponese lancia un servizio esclusivo in elicottero per completare la sua visione di mobilità integrata tra terra, aria e anche mare.",
-      "link": "https://www.hdmotori.it/lexus-flight-servizio-aerotaxi-elicotteri-leonardo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-01T07:00:26+00:00"
-    },
-    {
-      "titolo": "Casio lancia il Gravitymaster GWR-B3000: più leggero e preciso",
-      "descrizione": "Casio rinnova il Gravitymaster con materiali più leggeri e funzioni per il volo.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666106/casio-g-shock-gravitymaster-gwr-b3000-nuovo-g-shoc/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-01T06:35:00+00:00"
-    },
-    {
-      "titolo": "Poste Italiane: debuttano i nuovi tricicli elettrici con battery swap",
-      "descrizione": "Entrano in servizio 22 veicoli dell’italiana Askoll con tecnologia battery swap per una mobilità aziendale sempre più sostenibile ed efficiente.",
-      "link": "https://www.hdmotori.it/poste-italiane-tricicli-elettrici-battery-swap/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-01T06:30:42+00:00"
-    },
-    {
       "titolo": "Paramount+ Coupon Codes and Deals for August 2026",
       "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
       "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
@@ -152,20 +166,6 @@
       "titolo": "Valvoline Coupons and Promo Codes for August 2026",
       "descrizione": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
       "link": "https://www.wired.com/story/valvoline-coupons/",
-      "fonte": "WIRED",
-      "data": "2026-08-01T05:00:00+00:00"
-    },
-    {
-      "titolo": "Home Depot Promo Codes: 50% Off in August 2026",
-      "descrizione": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-01T05:00:00+00:00"
-    },
-    {
-      "titolo": "Design Within Reach Promo Codes: 30% Off | August 2026",
-      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
       "fonte": "WIRED",
       "data": "2026-08-01T05:00:00+00:00"
     }
