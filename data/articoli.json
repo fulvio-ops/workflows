@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-08-03T10:06:40.453031+00:00",
+  "last_updated": "2026-08-03T15:18:18.646712+00:00",
   "items": [
+    {
+      "titolo": "Stellantis Canada: niente più auto, la Roshel lo vuole per veicoli blindati",
+      "descrizione": "Lo stabilimento Stellantis di Brampton potrebbe passare a Roshel: in arrivo un maxi-appalto da 6 miliardi per la produzione di veicoli blindati destinati alla NATO.",
+      "link": "https://www.hdmotori.it/stellantis-brampton-roshel-veicoli-blindati/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T15:00:40+00:00"
+    },
+    {
+      "titolo": "NASA finanzia 18 idee che potrebbero cambiare il futuro dello spazio",
+      "descrizione": "NASA finanzia 18 idee visionarie per le future missioni sulla Luna, Marte e oltre.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666216/nasa-niac-2026-tecnologie-spaziali/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T14:50:00+00:00"
+    },
+    {
+      "titolo": "Honor Band 11 e 11 Pro ufficiali: più autonomia e display migliorati",
+      "descrizione": "Scopriamo le novità e le differenze tra i due modelli.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666208/honor-band-11-pro-funzioni-prezzi-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T14:40:00+00:00"
+    },
+    {
+      "titolo": "Aruba SuperSite: la piattaforma con IA per creare il tuo sito con un clic",
+      "descrizione": "Aruba SuperSite è l'ecosistema perfetto per portare la tua idea online senza saper programmare. The post Aruba SuperSite: la piattaforma con IA per creare il tuo sito con un clic appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/aruba-supersite-la-piattaforma-con-ia-per-creare-il-tuo-sito-con-un-clic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T14:39:04+00:00"
+    },
+    {
+      "titolo": "iPhone 18, iPhone 18 Pro e Ultra/Fold, tutto quello che sappiamo ad oggi",
+      "descrizione": "Mancano ormai poche settimane al lancio dei nuovi iPhone 18, ecco tutto quello che sappiamo ad oggi: caratteristiche, novità, prezzo e modello pieghevole",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n665523/iphone-18-pro-ultra-caratteristiche-prezzo-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T14:31:00+00:00"
+    },
+    {
+      "titolo": "FiberCop trasforma le centrali in edge data center",
+      "descrizione": "FiberCop ha avviato la trasformazione delle centrali di telecomunicazioni in edge data center che faranno parte di una rete distribuita nazionale. The post FiberCop trasforma le centrali in edge data center appeared firs",
+      "link": "https://www.punto-informatico.it/fibercop-trasforma-centrali-edge-data-center/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T14:20:06+00:00"
+    },
+    {
+      "titolo": "Lo speaker Bose SoundLink Flex (2ª Gen) scende su Amazon: 12 ore di musica e colore Menta Fresca",
+      "descrizione": "Bose SoundLink Flex 2ª Gen in colorazione Menta Fresca è in offerta su Amazon a 117,99€: speaker Bluetooth IP67 con 12 ore di autonomia.",
+      "link": "https://www.hdblog.it/tv/offerte/n666212/bose-soundlink-flex-2-gen-menta-fresca-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T13:35:00+00:00"
+    },
+    {
+      "titolo": "Disney+ ripristina il 4K HDR in Italia | Statement",
+      "descrizione": "Massimo 1080p SDR: la stessa risoluzione del piano Standard.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n666051/disney-plus-italia-4k-hdr-premium-full-hd-sdr/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T13:15:00+00:00"
+    },
+    {
+      "titolo": "DuckDuckGo lancia gli occhiali senza AI e deride gli smart glasses",
+      "descrizione": "Gli innovativi occhiali da sole presentati da DuckDuckGo puntano tutto sulla privacy: nessuna AI, nessun microfono e nessuna fotocamera. The post DuckDuckGo lancia gli occhiali senza AI e deride gli smart glasses appeare",
+      "link": "https://www.punto-informatico.it/duckduckgo-occhiali-senza-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T13:08:47+00:00"
+    },
+    {
+      "titolo": "Hideo Kojima ha lanciato il lettore CD di Death Stranding 2",
+      "descrizione": "Il creatore di Death Stranding 2 firma un lettore CD da collezione con Bluetooth, USB-C e design ispirato al BB Pod: costa 190 euro. The post Hideo Kojima ha lanciato il lettore CD di Death Stranding 2 appeared first on",
+      "link": "https://www.punto-informatico.it/hideo-kojima-lettore-cd-death-stranding-2/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T12:33:13+00:00"
+    },
+    {
+      "titolo": "Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes",
+      "descrizione": "Practically every graphics card introduced since 2022 has had at least 6GB or 8GB of VRAM, but AMD is bucking that trend in 2026 with the new RX 9050 4GB. We dusted off two older 4GB cards to see if that little VRAM mean",
+      "link": "https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-03T12:30:00+00:00"
+    },
+    {
+      "titolo": "Recensione Proton VPN (Gratis e a Pagamento) 2026",
+      "descrizione": "Recensione 2026 di Proton VPN: piano gratuito e a pagamento a confronto. Scopri perché è un servizio sicuro e affidabile con giurisdizione svizzera.",
+      "link": "https://www.hdblog.it/sicurezza/guide/n666073/proton-vpn-recensione/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T12:26:00+00:00"
+    },
+    {
+      "titolo": "La prima cabrio italo-indiana, gli studenti IED disegnano capolavori",
+      "descrizione": "In un mercato delle quattro ruote sempre più omologato è emerso un progetto speciale, disegnato dagli studenti dello IED.",
+      "link": "https://www.hdmotori.it/prima-cabrio-italo-indiana-ied/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T12:00:00+00:00"
+    },
+    {
+      "titolo": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
+      "descrizione": "A Redditor recently unlocked their HP laptop BIOS using Claude Code.",
+      "link": "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-03T11:55:17+00:00"
+    },
+    {
+      "titolo": "Risultato storico per Suzuki: la produzione esplode in India",
+      "descrizione": "A Hansalpur il primo stabilimento produttivo di Suzuki a livello globale ha raggiunto obiettivi e numeri ambiziosi.",
+      "link": "https://www.hdmotori.it/risultato-suzuki-produzione-india/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T11:30:53+00:00"
+    },
+    {
+      "titolo": "Nothing, cambio di strategia? Punta a diventare un'azienda \"AI First\"",
+      "descrizione": "La società di Carl Pei cerca di fronteggiare la crisi delle memorie.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666198/nothing-svolta-ai-indossabili/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T11:25:00+00:00"
+    },
+    {
+      "titolo": "AirPods con fotocamera: Apple accelera i tempi con uscita già a settembre?",
+      "descrizione": "I nuovi AirPods di Apple con fotocamera integrata potrebbero essere ufficializzati il prossimo mese.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666187/airpods-con-fotocamera-uscita-rumor/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T11:15:00+00:00"
+    },
+    {
+      "titolo": "Arm yourself with a Hall Effect controller for just $9 — GameSir's Tegenaria Lite PC controller is 50% off for a limited time",
+      "descrizione": "Pick up a gaming controller complete with drift-free hall-effect thumbsticks for half the price.",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/arm-yourself-with-a-hall-effect-controller-for-just-usd9-gamesirs-tegenaria-lite-pc-controller-is-50-percent-off-for-a-limited-time",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-03T11:00:52+00:00"
+    },
+    {
+      "titolo": "Microsoft Teams riorganizza i pulsanti delle riunioni",
+      "descrizione": "La nuova interfaccia di Microsoft Teams sposta Alza la mano, rende la toolbar personalizzabile e riduce gli errori durante le riunioni. The post Microsoft Teams riorganizza i pulsanti delle riunioni appeared first on Pun",
+      "link": "https://www.punto-informatico.it/microsoft-teams-riorganizza-pulsanti-riunioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T10:15:36+00:00"
+    },
     {
       "titolo": "OPPO Reno16 F arriva in Italia ed è già in sconto al lancio",
       "descrizione": "Il nuovo OPPO Reno16 F è ufficialmente disponibile in Italia con AI, display AMOLED, ricarica SUPERVOOC e sconto proposto al lancio. The post OPPO Reno16 F arriva in Italia ed è già in sconto al lancio appeared first on",
@@ -14,13 +147,6 @@
       "link": "https://www.punto-informatico.it/microplastiche-raggiunto-sorgenti-idrotermali-profondita/",
       "fonte": "Punto Informatico",
       "data": "2026-08-03T09:31:48+00:00"
-    },
-    {
-      "titolo": "Patente, perché Sinner viene sempre bocciato? Svelato il vero problema",
-      "descrizione": "Jannik Sinner è stabilmente al comando del Ranking ATP come numero 1 al mondo, ma ha un serio grattacapo a superare l’esame della patente di moto.",
-      "link": "https://www.hdmotori.it/patente-moto-sinner-problema/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T09:30:02+00:00"
     },
     {
       "titolo": "Problemi con Poste Italiane: segnalazioni di down il 3 agosto (risolto)",
@@ -37,137 +163,11 @@
       "data": "2026-08-03T09:23:26+00:00"
     },
     {
-      "titolo": "OnePlus N6x ufficiale: punta su autonomia e durabilità, ma ha solo 4 GB di RAM",
-      "descrizione": "Autonomia molto elevata e certificazione MIL-STD, ma solo 4 GB di RAM: OnePlus N6x è ufficiale e già disponibile per l'acquisto in India.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666173/oneplus-n6x-ufficiale-autonomia-durabilita-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T09:20:00+00:00"
-    },
-    {
-      "titolo": "Che auto guida Roberto Mancini, supercar e SUV ma la preferita è tedesca",
-      "descrizione": "Il neo CT della Nazionale, Roberto Mancini, ha un parco auto piuttosto variegato. Scopriamo tutte le sue vetture.",
-      "link": "https://www.hdmotori.it/auto-roberto-mancini-supercar-suv/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T09:00:43+00:00"
-    },
-    {
       "titolo": "Negli Stati Uniti la diarrea esplosiva è diventata una vera epidemia",
       "descrizione": "È panico negli Stati Uniti per un'epidemia fuori controllo di diarrea esplosiva con un parassita che sta colpendo quasi l'intero Paese. The post Negli Stati Uniti la diarrea esplosiva è diventata una vera epidemia appear",
       "link": "https://www.punto-informatico.it/stati-uniti-diarrea-esplosiva-diventata-vera-epidemia/",
       "fonte": "Punto Informatico",
       "data": "2026-08-03T08:54:17+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy F70 Pro ufficiale in India: specifiche e prezzi",
-      "descrizione": "Uno smartphone economico ma dalle buone specifiche tecniche.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666177/samsung-galaxy-f70-pro-5g-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T08:40:00+00:00"
-    },
-    {
-      "titolo": "Bowers & Wilkins Px8 S2 a 610€ su Amazon: le cuffie premium al prezzo più basso",
-      "descrizione": "Bowers & Wilkins Px8 S2 sono in offerta su Amazon a 610,85€: cuffie wireless premium con ANC, aptX Lossless, driver Carbon Cone e 30 ore di autonomia.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n666169/bowers-wilkins-px8-s2-cuffie-wireless-anc-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T08:40:00+00:00"
-    },
-    {
-      "titolo": "Non è un buon periodo per Elon Musk: il suo patrimonio crolla sotto i 700 miliardi",
-      "descrizione": "Il patrimonio di Musk cala, ma il vero tema è come i mercati valutano il futuro.",
-      "link": "https://www.hdblog.it/mercato/articoli/n666165/elon-musk-patrimonio-calo-spacex-tesla/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T08:20:00+00:00"
-    },
-    {
-      "titolo": "XBOX sempre più care, in UE le console di Microsoft costano fino a 200 euro in più",
-      "descrizione": "Fino a 200 euro di aumento per le console Xbox in Europa: Microsoft ha aggiornato i listini di Series X e Series S con effetto immediato.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666163/xbox-console-microsoft-aumento-prezzo-200-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T08:10:00+00:00"
-    },
-    {
-      "titolo": "Sul digitale terrestre si accende un nuovo canale, ma non per tutti",
-      "descrizione": "Nelle scorse ore sul digitale terrestre, la piattaforma italiana di intrattenimento gratuito, si è acceso un nuovo canale, ma non per tutti. The post Sul digitale terrestre si accende un nuovo canale, ma non per tutti ap",
-      "link": "https://www.punto-informatico.it/sul-digitale-terrestre-si-accende-un-nuovo-canale-ma-non-per-tutti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T08:08:35+00:00"
-    },
-    {
-      "titolo": "La Spagna è sempre più la patria dei costruttori cinesi: ora richiede regole UE",
-      "descrizione": "Le regioni spagnole accolgono i giganti dell'auto elettrica di Pechino, ma chiedono a Bruxelles norme più severe per evitare una corsa al ribasso.",
-      "link": "https://www.hdmotori.it/spagna-patria-costruttori-cinesi-regole-ue/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T08:00:26+00:00"
-    },
-    {
-      "titolo": "Crisi dei chip, si allungano i tempi di consegna per i MacBook Air",
-      "descrizione": "Tra le due e le sei settimane sul sito ufficiale. Per fortuna ci sono svariate configurazioni e tagli in pronta consegna presso i rivenditori terzi.",
-      "link": "https://www.hdblog.it/portatili/articoli/n666164/crisi-chip-macbook-air-consegne-ritardi-attese/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T07:35:00+00:00"
-    },
-    {
-      "titolo": "Oak Ridge accelera la fusione nucleare con nuovi impianti per test estremi",
-      "descrizione": "Gli USA realizzano infrastrutture condivise per testare i componenti dei futuri reattori a fusione.",
-      "link": "https://www.hdblog.it/green/articoli/n666159/fusione-nucleare-test-componenti-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T07:25:00+00:00"
-    },
-    {
-      "titolo": "Medio gamma con qualcosa in più spendendo meno? Samsung Galaxy A57",
-      "descrizione": "Il Samsung Galaxy A57, in questa versione da 256 GB, è sicuramente lo smartphone più interessante in questa fascia di prezzo. The post Medio gamma con qualcosa in più spendendo meno? Samsung Galaxy A57 appeared first on",
-      "link": "https://www.punto-informatico.it/medio-gamma-qualcosa-piu-spendendo-meno-samsung-galaxy-a57/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T07:07:47+00:00"
-    },
-    {
-      "titolo": "Casio F-B100W arriva in commercio: l'orologio digitale con il contapassi",
-      "descrizione": "Casio aggiorna il suo storico digitale con Bluetooth, contapassi e due anni di autonomia.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666157/casio-f-b100w-smartwatch-retro/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T07:05:00+00:00"
-    },
-    {
-      "titolo": "Bose QuietComfort Earbuds: audio strepitoso per tutto il giorno",
-      "descrizione": "Gli auricolari wireless Bose QuietComfort Earbuds garantiscono un audio di qualità con una notevole autonomia e sono in offerta al 25%. The post Bose QuietComfort Earbuds: audio strepitoso per tutto il giorno appeared fi",
-      "link": "https://www.punto-informatico.it/bose-quietcomfort-earbuds-audio-strepitoso-per-tutto-il-giorno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T06:44:14+00:00"
-    },
-    {
-      "titolo": "Perché la rivoluzione degli agenti intelligenti cambia il lavoro più dei chatbot",
-      "descrizione": "Parla Marco Bragadin, Ceo Datlas azienda specializzata nella digitalizzazione dei processi che già usa agenti, saperi e competenze umane",
-      "link": "https://www.ilsole24ore.com/art/perche-rivoluzione-agenti-intelligenti-cambia-lavoro-piu-chatbot-AI8tCwwD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-02T14:09:04+00:00"
-    },
-    {
-      "titolo": "First open-source firmware for AM5 officially launches — Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850",
-      "descrizione": "3mdeb has introduced a new open-source firmware for the MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform.",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-02T12:10:00+00:00"
-    },
-    {
-      "titolo": "I went running with the Galaxy Watch 9 in London, and it taught me something new",
-      "descrizione": "I appreciate the light and comfortable build on Samsung's Galaxy Watch 9, with a range of helpful tracking features and nudges.",
-      "link": "https://www.zdnet.com/article/galaxy-watch-9-first-look/",
-      "fonte": "Latest news",
-      "data": "2026-08-02T10:30:37+00:00"
-    },
-    {
-      "titolo": "ChatGPT Sol sfida Claude Fable 5. La nuova guerra non è sui chatbot ma sul costo del lavoro digitale",
-      "descrizione": "Dopo la corsa ai modelli più potenti, OpenAI e Anthropic cambiano strategia: piattaforme, agenti e servizi alle imprese diventano il vero terreno di scontro. Vince chi produce più valore per euro speso, non chi risponde",
-      "link": "https://www.ilsole24ore.com/art/chatgpt-sol-sfida-claude-fable-5-nuova-guerra-non-e-chatbot-ma-costo-lavoro-digitale-AJyPTtW",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-02T07:10:59+00:00"
-    },
-    {
-      "titolo": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage — optimizations to reduce OS memory footprint have begun",
-      "descrizione": "While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB lap",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-01T14:48:26+00:00"
     }
   ]
 }

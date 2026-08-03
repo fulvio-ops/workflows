@@ -1,21 +1,45 @@
 {
-  "last_updated": "2026-08-03T10:06:45.298415+00:00",
+  "last_updated": "2026-08-03T15:18:25.064974+00:00",
   "items": [
     {
-      "titolo": "Astra di OpenAI risolve 10 problemi matematici irrisolti: svolta per l’AI?",
-      "descrizione": "Astra di OpenAI ha risolto 10 grandi problemi della matematica. Se confermati, i risultati potrebbero segnare una svolta nella ricerca scientifica. The post Astra di OpenAI risolve 10 problemi matematici irrisolti: svolt",
-      "link": "https://www.punto-informatico.it/astra-openai-risolve-10-problemi-matematici-irrisolti-svolta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T07:08:35+00:00",
+      "titolo": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+      "descrizione": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
+      "link": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+      "fonte": "Latest news",
+      "data": "2026-08-03T14:45:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT Sol sfida Claude Fable 5. La nuova guerra non è sui chatbot ma sul costo del lavoro digitale",
-      "descrizione": "Dopo la corsa ai modelli più potenti, OpenAI e Anthropic cambiano strategia: piattaforme, agenti e servizi alle imprese diventano il vero terreno di scontro. Vince chi produce più valore per euro speso, non chi risponde",
-      "link": "https://www.ilsole24ore.com/art/chatgpt-sol-sfida-claude-fable-5-nuova-guerra-non-e-chatbot-ma-costo-lavoro-digitale-AJyPTtW",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-02T07:10:59+00:00",
+      "titolo": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+      "descrizione": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
+      "link": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+      "fonte": "Latest news",
+      "data": "2026-08-03T14:45:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google e PSG insieme fino al 2029: in campo con Gemini e Pixel",
+      "descrizione": "Nuova partnership tra Google e PSG, l'AI di Gemini e gli smartphone Pixel diventano protagonisti dentro e fuori dal terreno di gioco. The post Google e PSG insieme fino al 2029: in campo con Gemini e Pixel appeared first",
+      "link": "https://www.punto-informatico.it/google-psg-insieme-fino-2029-gemini-pixel/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T14:49:15+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+      "descrizione": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
+      "link": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+      "fonte": "Latest news",
+      "data": "2026-08-03T14:45:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Agente AI con DeepSeek usato per colpire server vulnerabili",
+      "descrizione": "Un cybercriminale cinese ha sfruttato Hermes Agent con DeepSeek per colpire diversi server vulnerabili, ma gli attacchi non hanno avuto successo. The post Agente AI con DeepSeek usato per colpire server vulnerabili appea",
+      "link": "https://www.punto-informatico.it/agente-ai-deepseek-attacco-server-vulnerabili/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T12:28:10+00:00",
+      "modello": "altri"
     }
   ]
 }
