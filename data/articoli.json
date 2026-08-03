@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-08-03T15:18:18.646712+00:00",
+  "last_updated": "2026-08-03T19:59:29.190214+00:00",
   "items": [
+    {
+      "titolo": "LinkedIn lancia pulsante per segnalare i contenuti AI",
+      "descrizione": "Il nuovo strumento di LinkedIn permette agli utenti di segnalare post che sembrano creati dall'intelligenza artificiale. The post LinkedIn lancia pulsante per segnalare i contenuti AI appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/linkedin-lancia-pulsante-segnalare-contenuti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T18:36:58+00:00"
+    },
+    {
+      "titolo": "iPhone 18, iPhone 18 Pro e Ultra/Fold, tutto quello che sappiamo ad oggi",
+      "descrizione": "Mancano ormai poche settimane al lancio dei nuovi iPhone 18, ecco tutto quello che sappiamo ad oggi: caratteristiche, novità, prezzo e modello pieghevole",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n665523/iphone-18-pro-ultra-caratteristiche-prezzo-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T18:21:00+00:00"
+    },
+    {
+      "titolo": "Microsoft vuole portare i giochi Xbox 360 su PC, nuove indiscrezioni",
+      "descrizione": "L'iniziativa potrebbe essere annunciata l'anno prossimo.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666247/microsoft-xbox-360-giochi-pc/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T18:05:00+00:00"
+    },
+    {
+      "titolo": "Samsung protegge le sue smart TV dal rischio dei \"Residential Proxy\"",
+      "descrizione": "È emerso che alcune app usavano la connessione degli utenti per generare traffico e fare cose in Rete a loro volta.",
+      "link": "https://www.hdblog.it/tv/articoli/n666242/samsung-tv-stop-app-sicurezza-residential-proxy/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T17:35:00+00:00"
+    },
+    {
+      "titolo": "Xbox, continuano i festeggiamenti per il 25° anniversario: tutte le novità",
+      "descrizione": "Immagini e grafiche custom, collezioni di giochi sul Game Pass e nuove date per l’Xbox FanFest Tour.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666240/xbox-celebrazioni-25-anniversario-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T17:15:00+00:00"
+    },
+    {
+      "titolo": "Apple lancia gli AirPods con fotocamere a settembre?",
+      "descrizione": "Apple starebbe sviluppando due nuovi modelli di AirPods con fotocamere integrate e supporto a Visual Intelligence. The post Apple lancia gli AirPods con fotocamere a settembre? appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/apple-lancia-airpods-fotocamere-settembre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T17:10:36+00:00"
+    },
+    {
+      "titolo": "Contenuti terroristici: denuncia per Telegram in Australia",
+      "descrizione": "L'autorità australiana ha avviato un procedimento civile contro Telegram perché l'azienda non ha rilevato e rimosso materiale pro-terrorismo. The post Contenuti terroristici: denuncia per Telegram in Australia appeared f",
+      "link": "https://www.punto-informatico.it/contenuti-terroristici-denuncia-telegram-australia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T16:43:01+00:00"
+    },
+    {
+      "titolo": "In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea — TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100",
+      "descrizione": "The latest round of price increases affects the entire RTX 50 lineup, with premium models bearing the brunt of rising production costs.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-03T16:39:36+00:00"
+    },
+    {
+      "titolo": "Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5",
+      "descrizione": "Alibaba lancia Qwen3.8-Max. Il modello supera GPT-5.6 Sol e Fable 5 in diversi benchmark di coding, visione e multimodalità. The post Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5 appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/qwen-3-8-max-alibaba-supera-gpt-5-6-sol-fable-5/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T16:17:48+00:00"
+    },
+    {
+      "titolo": "OpenAI raggiunge il miliardo di utenti attivi e taglia tanti prezzi",
+      "descrizione": "Il modello di ultima generazione meno potente, GPT-5.6 Luna, crolla addirittura dell'80%.",
+      "link": "https://www.hdblog.it/android/articoli/n666235/openai-miliardo-utenti-attivi-taglio-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T16:05:00+00:00"
+    },
+    {
+      "titolo": "This free Linux tool makes it easy to check your PC battery and disk usage - here's how",
+      "descrizione": "The Mission Center system monitor for Linux adds some new features that will appeal to a broader user base, especially those with laptops.",
+      "link": "https://www.zdnet.com/article/mission-center-makes-it-even-easier-for-you-to-check-battery-and-disk-usage/",
+      "fonte": "Latest news",
+      "data": "2026-08-03T15:53:44+00:00"
+    },
+    {
+      "titolo": "Smart TV: Samsung rimuove app che condividono la connessione",
+      "descrizione": "Samsung rimuoverà dallo store app e giochi contenenti SDK che trasformano le smart TV in proxy residenziali (usati durante gli attacchi informatici). The post Smart TV: Samsung rimuove app che condividono la connessione",
+      "link": "https://www.punto-informatico.it/smart-tv-samsung-rimuove-app-condividono-connessione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T15:40:49+00:00"
+    },
+    {
+      "titolo": "Come usare al meglio la memoria di ChatGPT: 5 trucchi",
+      "descrizione": "Come sfruttare davvero la memoria di ChatGPT con 5 consigli pratici e prompt pronti all'uso per ottenere risposte migliori. The post Come usare al meglio la memoria di ChatGPT: 5 trucchi appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/come-usare-al-meglio-memoria-chatgpt-5-trucchi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T15:30:21+00:00"
+    },
+    {
+      "titolo": "Pixel 11 Pro, filtrano poster ufficiali che anticipano design e funzioni AI",
+      "descrizione": "Ancora tante immagini che anticipano design e feature.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666222/pixel-11-pro-foto-ufficiali-funzioni-fotocamera-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-03T15:20:00+00:00"
+    },
     {
       "titolo": "Stellantis Canada: niente più auto, la Roshel lo vuole per veicoli blindati",
       "descrizione": "Lo stabilimento Stellantis di Brampton potrebbe passare a Roshel: in arrivo un maxi-appalto da 6 miliardi per la produzione di veicoli blindati destinati alla NATO.",
@@ -30,32 +128,11 @@
       "data": "2026-08-03T14:39:04+00:00"
     },
     {
-      "titolo": "iPhone 18, iPhone 18 Pro e Ultra/Fold, tutto quello che sappiamo ad oggi",
-      "descrizione": "Mancano ormai poche settimane al lancio dei nuovi iPhone 18, ecco tutto quello che sappiamo ad oggi: caratteristiche, novità, prezzo e modello pieghevole",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n665523/iphone-18-pro-ultra-caratteristiche-prezzo-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T14:31:00+00:00"
-    },
-    {
       "titolo": "FiberCop trasforma le centrali in edge data center",
       "descrizione": "FiberCop ha avviato la trasformazione delle centrali di telecomunicazioni in edge data center che faranno parte di una rete distribuita nazionale. The post FiberCop trasforma le centrali in edge data center appeared firs",
       "link": "https://www.punto-informatico.it/fibercop-trasforma-centrali-edge-data-center/",
       "fonte": "Punto Informatico",
       "data": "2026-08-03T14:20:06+00:00"
-    },
-    {
-      "titolo": "Lo speaker Bose SoundLink Flex (2ª Gen) scende su Amazon: 12 ore di musica e colore Menta Fresca",
-      "descrizione": "Bose SoundLink Flex 2ª Gen in colorazione Menta Fresca è in offerta su Amazon a 117,99€: speaker Bluetooth IP67 con 12 ore di autonomia.",
-      "link": "https://www.hdblog.it/tv/offerte/n666212/bose-soundlink-flex-2-gen-menta-fresca-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T13:35:00+00:00"
-    },
-    {
-      "titolo": "Disney+ ripristina il 4K HDR in Italia | Statement",
-      "descrizione": "Massimo 1080p SDR: la stessa risoluzione del piano Standard.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n666051/disney-plus-italia-4k-hdr-premium-full-hd-sdr/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T13:15:00+00:00"
     },
     {
       "titolo": "DuckDuckGo lancia gli occhiali senza AI e deride gli smart glasses",
@@ -79,20 +156,6 @@
       "data": "2026-08-03T12:30:00+00:00"
     },
     {
-      "titolo": "Recensione Proton VPN (Gratis e a Pagamento) 2026",
-      "descrizione": "Recensione 2026 di Proton VPN: piano gratuito e a pagamento a confronto. Scopri perché è un servizio sicuro e affidabile con giurisdizione svizzera.",
-      "link": "https://www.hdblog.it/sicurezza/guide/n666073/proton-vpn-recensione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T12:26:00+00:00"
-    },
-    {
-      "titolo": "La prima cabrio italo-indiana, gli studenti IED disegnano capolavori",
-      "descrizione": "In un mercato delle quattro ruote sempre più omologato è emerso un progetto speciale, disegnato dagli studenti dello IED.",
-      "link": "https://www.hdmotori.it/prima-cabrio-italo-indiana-ied/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T12:00:00+00:00"
-    },
-    {
       "titolo": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
       "descrizione": "A Redditor recently unlocked their HP laptop BIOS using Claude Code.",
       "link": "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings",
@@ -100,74 +163,11 @@
       "data": "2026-08-03T11:55:17+00:00"
     },
     {
-      "titolo": "Risultato storico per Suzuki: la produzione esplode in India",
-      "descrizione": "A Hansalpur il primo stabilimento produttivo di Suzuki a livello globale ha raggiunto obiettivi e numeri ambiziosi.",
-      "link": "https://www.hdmotori.it/risultato-suzuki-produzione-india/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T11:30:53+00:00"
-    },
-    {
-      "titolo": "Nothing, cambio di strategia? Punta a diventare un'azienda \"AI First\"",
-      "descrizione": "La società di Carl Pei cerca di fronteggiare la crisi delle memorie.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666198/nothing-svolta-ai-indossabili/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T11:25:00+00:00"
-    },
-    {
-      "titolo": "AirPods con fotocamera: Apple accelera i tempi con uscita già a settembre?",
-      "descrizione": "I nuovi AirPods di Apple con fotocamera integrata potrebbero essere ufficializzati il prossimo mese.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666187/airpods-con-fotocamera-uscita-rumor/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-03T11:15:00+00:00"
-    },
-    {
       "titolo": "Arm yourself with a Hall Effect controller for just $9 — GameSir's Tegenaria Lite PC controller is 50% off for a limited time",
       "descrizione": "Pick up a gaming controller complete with drift-free hall-effect thumbsticks for half the price.",
       "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/arm-yourself-with-a-hall-effect-controller-for-just-usd9-gamesirs-tegenaria-lite-pc-controller-is-50-percent-off-for-a-limited-time",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-03T11:00:52+00:00"
-    },
-    {
-      "titolo": "Microsoft Teams riorganizza i pulsanti delle riunioni",
-      "descrizione": "La nuova interfaccia di Microsoft Teams sposta Alza la mano, rende la toolbar personalizzabile e riduce gli errori durante le riunioni. The post Microsoft Teams riorganizza i pulsanti delle riunioni appeared first on Pun",
-      "link": "https://www.punto-informatico.it/microsoft-teams-riorganizza-pulsanti-riunioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T10:15:36+00:00"
-    },
-    {
-      "titolo": "OPPO Reno16 F arriva in Italia ed è già in sconto al lancio",
-      "descrizione": "Il nuovo OPPO Reno16 F è ufficialmente disponibile in Italia con AI, display AMOLED, ricarica SUPERVOOC e sconto proposto al lancio. The post OPPO Reno16 F arriva in Italia ed è già in sconto al lancio appeared first on",
-      "link": "https://www.punto-informatico.it/oppo-reno16-f-italia-sconto-lancio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T09:54:20+00:00"
-    },
-    {
-      "titolo": "Le microplastiche hanno raggiunto le sorgenti idrotermali di profondità",
-      "descrizione": "Stando a recenti e preoccupanti scoperte da parte degli scienziati, le microplastiche hanno raggiunto le sorgenti idrotermali di profondità. The post Le microplastiche hanno raggiunto le sorgenti idrotermali di profondit",
-      "link": "https://www.punto-informatico.it/microplastiche-raggiunto-sorgenti-idrotermali-profondita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T09:31:48+00:00"
-    },
-    {
-      "titolo": "Problemi con Poste Italiane: segnalazioni di down il 3 agosto (risolto)",
-      "descrizione": "Problemi segnalati con i servizi online di Poste Italiane: monitoriamo la situazione con aggiornamenti in tempo reale. The post Problemi con Poste Italiane: segnalazioni di down il 3 agosto (risolto) appeared first on Pu",
-      "link": "https://www.punto-informatico.it/poste-italiane-down-03082026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T09:25:27+00:00"
-    },
-    {
-      "titolo": "Ban social media in Australia: molti minori ancora online",
-      "descrizione": "Il primo report pubblicato dal governo australiano conferma che molti utenti con età inferiore ai 16 anni possono ancora accedere ai social media. The post Ban social media in Australia: molti minori ancora online appear",
-      "link": "https://www.punto-informatico.it/ban-social-media-australia-molti-minori-ancora-online/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T09:23:26+00:00"
-    },
-    {
-      "titolo": "Negli Stati Uniti la diarrea esplosiva è diventata una vera epidemia",
-      "descrizione": "È panico negli Stati Uniti per un'epidemia fuori controllo di diarrea esplosiva con un parassita che sta colpendo quasi l'intero Paese. The post Negli Stati Uniti la diarrea esplosiva è diventata una vera epidemia appear",
-      "link": "https://www.punto-informatico.it/stati-uniti-diarrea-esplosiva-diventata-vera-epidemia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T08:54:17+00:00"
     }
   ]
 }

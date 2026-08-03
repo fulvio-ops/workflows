@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-03T15:18:25.064974+00:00",
+  "last_updated": "2026-08-03T19:59:33.696871+00:00",
   "items": [
     {
-      "titolo": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
-      "descrizione": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
-      "link": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
-      "fonte": "Latest news",
-      "data": "2026-08-03T14:45:00+00:00",
+      "titolo": "Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5",
+      "descrizione": "Alibaba lancia Qwen3.8-Max. Il modello supera GPT-5.6 Sol e Fable 5 in diversi benchmark di coding, visione e multimodalità. The post Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5 appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/qwen-3-8-max-alibaba-supera-gpt-5-6-sol-fable-5/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-03T16:17:48+00:00",
       "modello": "chatgpt"
     },
     {
@@ -34,11 +34,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "Agente AI con DeepSeek usato per colpire server vulnerabili",
-      "descrizione": "Un cybercriminale cinese ha sfruttato Hermes Agent con DeepSeek per colpire diversi server vulnerabili, ma gli attacchi non hanno avuto successo. The post Agente AI con DeepSeek usato per colpire server vulnerabili appea",
-      "link": "https://www.punto-informatico.it/agente-ai-deepseek-attacco-server-vulnerabili/",
+      "titolo": "Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5",
+      "descrizione": "Alibaba lancia Qwen3.8-Max. Il modello supera GPT-5.6 Sol e Fable 5 in diversi benchmark di coding, visione e multimodalità. The post Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5 appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/qwen-3-8-max-alibaba-supera-gpt-5-6-sol-fable-5/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-03T12:28:10+00:00",
+      "data": "2026-08-03T16:17:48+00:00",
       "modello": "altri"
     }
   ]
