@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-04T03:39:42.504364+00:00",
+  "last_updated": "2026-08-04T09:09:50.791788+00:00",
   "items": [
     {
-      "titolo": "Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5",
-      "descrizione": "Alibaba lancia Qwen3.8-Max. Il modello supera GPT-5.6 Sol e Fable 5 in diversi benchmark di coding, visione e multimodalità. The post Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5 appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/qwen-3-8-max-alibaba-supera-gpt-5-6-sol-fable-5/",
+      "titolo": "Sam Altman consiglia l’AI invece di parlare con i figli",
+      "descrizione": "Il CEO di OpenAI propone di collegare il calendario di famiglia a ChatGPT, per generare ogni mattina un podcast dedicato ai figli. The post Sam Altman consiglia l’AI invece di parlare con i figli appeared first on Punto",
+      "link": "https://www.punto-informatico.it/sam-altman-consiglia-ai-invece-parlare-figli/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-03T16:17:48+00:00",
+      "data": "2026-08-04T08:46:23+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google e PSG insieme fino al 2029: in campo con Gemini e Pixel",
-      "descrizione": "Nuova partnership tra Google e PSG, l'AI di Gemini e gli smartphone Pixel diventano protagonisti dentro e fuori dal terreno di gioco. The post Google e PSG insieme fino al 2029: in campo con Gemini e Pixel appeared first",
-      "link": "https://www.punto-informatico.it/google-psg-insieme-fino-2029-gemini-pixel/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T14:49:15+00:00",
+      "titolo": "Google Pixel 9a: il medio gamma di Big G è in offerta a poco meno di 345€",
+      "descrizione": "Google Pixel 9a in sconto su eBay: display Actua OLED a 120 Hz, batteria da 5100 mAh con oltre 30 ore di autonomia, chip Tensor G4 con Gemini Nano e supporto software fino al 2032.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n666281/google-pixel-9a-sconto-ebay-codice-promo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-04T08:11:00+00:00",
       "modello": "gemini"
     },
     {
@@ -32,14 +32,6 @@
       "fonte": "Latest news",
       "data": "2026-08-03T14:45:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5",
-      "descrizione": "Alibaba lancia Qwen3.8-Max. Il modello supera GPT-5.6 Sol e Fable 5 in diversi benchmark di coding, visione e multimodalità. The post Qwen3.8-Max di Alibaba supera GPT-5.6 Sol e Fable 5 appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/qwen-3-8-max-alibaba-supera-gpt-5-6-sol-fable-5/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-03T16:17:48+00:00",
-      "modello": "altri"
     }
   ]
 }
