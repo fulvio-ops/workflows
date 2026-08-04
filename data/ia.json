@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-04T09:09:50.791788+00:00",
+  "last_updated": "2026-08-04T14:40:37.017320+00:00",
   "items": [
     {
-      "titolo": "Sam Altman consiglia l’AI invece di parlare con i figli",
-      "descrizione": "Il CEO di OpenAI propone di collegare il calendario di famiglia a ChatGPT, per generare ogni mattina un podcast dedicato ai figli. The post Sam Altman consiglia l’AI invece di parlare con i figli appeared first on Punto",
-      "link": "https://www.punto-informatico.it/sam-altman-consiglia-ai-invece-parlare-figli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-04T08:46:23+00:00",
+      "titolo": "‘Apple is getting this wrong,’ says OpenAI — startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees",
+      "descrizione": "OpenAI denies Apple's allegations in a blog post. The company claims that it doesn't have and even doesn't want its rivals trade secrets.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/apple-is-getting-this-wrong-says-openai-startup-blasts-iphone-maker-over-lawsuit-alleging-it-stole-confidential-information-through-ex-apple-employees",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-04T11:52:34+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Pixel 9a: il medio gamma di Big G è in offerta a poco meno di 345€",
-      "descrizione": "Google Pixel 9a in sconto su eBay: display Actua OLED a 120 Hz, batteria da 5100 mAh con oltre 30 ore di autonomia, chip Tensor G4 con Gemini Nano e supporto software fino al 2032.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666281/google-pixel-9a-sconto-ebay-codice-promo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-04T08:11:00+00:00",
+      "titolo": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+      "descrizione": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
+      "link": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+      "fonte": "Latest news",
+      "data": "2026-08-03T14:45:00+00:00",
       "modello": "gemini"
     },
     {
@@ -32,6 +32,14 @@
       "fonte": "Latest news",
       "data": "2026-08-03T14:45:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Mistral Is in the Right Place at the Right Time",
+      "descrizione": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "fonte": "WIRED",
+      "data": "2026-08-04T09:21:11+00:00",
+      "modello": "altri"
     }
   ]
 }
