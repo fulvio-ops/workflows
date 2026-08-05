@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-08-05T09:07:02.452906+00:00",
+  "last_updated": "2026-08-05T14:34:16.532865+00:00",
   "items": [
     {
-      "titolo": "OpenAI e Anthropic: agenti AI continuano a violare le regole dei test di sicurezza",
-      "descrizione": "False identità per aggirare i limiti imposti dai test: preoccupazione nel Regno Unito",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666395/openai-anthropic-agenti-ai-violano-regole-test/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T08:40:00+00:00",
+      "titolo": "OpenAI conferma altri attacchi eseguiti dai suoi modelli",
+      "descrizione": "OpenAI ha confermato altri due attacchi effettuati da agenti basati sul modello GPT-5.6 Sol, ma non ci sono stati rilevati danni nel mondo reale. The post OpenAI conferma altri attacchi eseguiti dai suoi modelli appeared",
+      "link": "https://www.punto-informatico.it/openai-conferma-altri-attacchi-modelli/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-05T08:02:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "OpenAI e Anthropic: agenti AI continuano a violare le regole dei test di sicurezza",
-      "descrizione": "False identità per aggirare i limiti imposti dai test: preoccupazione nel Regno Unito",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666395/openai-anthropic-agenti-ai-violano-regole-test/",
+      "titolo": "Microsoft 365 Copilot, feature rimossa all'improvviso pochi giorni dopo il rollout",
+      "descrizione": "Era una feature destinata agli amministratori IT che già aveva causato qualche controversia in fase di presentazione.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666443/microsoft-365-copilot-feature-rimossa-improvviso/",
       "fonte": "HDblog.it",
-      "data": "2026-08-05T08:40:00+00:00",
+      "data": "2026-08-05T11:55:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "descrizione": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "fonte": "WIRED",
+      "data": "2026-08-04T23:11:31+00:00",
       "modello": "claude"
     },
     {
