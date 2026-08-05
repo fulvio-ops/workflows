@@ -1,19 +1,131 @@
 {
-  "last_updated": "2026-08-05T14:34:12.644549+00:00",
+  "last_updated": "2026-08-05T19:56:18.217940+00:00",
   "items": [
     {
-      "titolo": "Recensione DJI Osmo Pocket 4P: non pensavo potesse piacermi così tanto",
-      "descrizione": "La nostra prova sul campo della nuova Osmo Pocket 4P di DJI, che porta alcune migliorie importanti rispetto al modello base.",
-      "link": "https://www.hdblog.it/fotografia/recensioni/n665576/recensione-dji-pocket-4p-test-video/",
+      "titolo": "EA pronta a una massiccia ristrutturazione (con licenziamenti) dopo l'addio alla Borsa?",
+      "descrizione": "Il consorzio che l'ha sostanzialmente comprata ha dovuto fare parecchi debiti, e deve recuperare un po' di denaro.",
+      "link": "https://www.hdblog.it/games/articoli/n666490/ea-ristrutturazione-licenziamenti-debiti/",
       "fonte": "HDblog.it",
-      "data": "2026-08-05T14:31:00+00:00"
+      "data": "2026-08-05T18:05:00+00:00"
     },
     {
-      "titolo": "Anker su Amazon a 84€: power bank da viaggio che ricarica anche il MacBook",
-      "descrizione": "La power bank Anker da 25.000 mAh è in offerta su Amazon a 84,99€: 165W totali, cavi USB-C integrati e ricarica per più dispositivi.",
-      "link": "https://www.hdblog.it/hardware/offerte/n666461/anker-power-bank-25000mah-165w-cavi-usb-c-amazon/",
+      "titolo": "Pannelli solari spaziali, questa nuova costruzione li rende molto più convenienti",
+      "descrizione": "Resistenti ed economici",
+      "link": "https://www.hdblog.it/green/articoli/n666457/pannelli-solari-spaziali-nuova-costruzione/",
       "fonte": "HDblog.it",
-      "data": "2026-08-05T14:15:00+00:00"
+      "data": "2026-08-05T17:55:00+00:00"
+    },
+    {
+      "titolo": "Amazon raggiunge per la prima volta i 3.000 miliardi di capitalizzazione",
+      "descrizione": "Grazie soprattutto a cloud e AI.",
+      "link": "https://www.hdblog.it/amazon/articoli/n666484/amazon-capitalizzazione-3mila-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T17:25:00+00:00"
+    },
+    {
+      "titolo": "I ran a dumpstate analysis on my Android phone - 3 system diagnostics to check for free",
+      "descrizione": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's what you can learn from it.",
+      "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
+      "fonte": "Latest news",
+      "data": "2026-08-05T17:15:43+00:00"
+    },
+    {
+      "titolo": "AI e satelliti: la prossima sfida è il controllo orbitale",
+      "descrizione": "L'AI cambierà la gestione dei satelliti, ma norme e fiducia restano il vero ostacolo.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666458/ai-satelliti-spazio-costellazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T16:55:00+00:00"
+    },
+    {
+      "titolo": "Gmail dice addio a POP e Gmailify: cosa cambia dal 2027",
+      "descrizione": "Dal 2027 Gmail non importerà più email da account esterni tramite POP e perderà la funzione Invia email come. The post Gmail dice addio a POP e Gmailify: cosa cambia dal 2027 appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/gmail-dice-addio-pop-gmailify-cosa-cambia-2027/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-05T16:47:17+00:00"
+    },
+    {
+      "titolo": "Il futuro di Disney+, tra piano gratuito e collaborazioni con TikTok",
+      "descrizione": "La società corre ai ripari per contrastare l'ascesa di YouTube.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n666479/disney-plus-piani-futuro-tiktok-gratis-pubblicita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T16:45:00+00:00"
+    },
+    {
+      "titolo": "Casio Oceanus Retro Tone in edizione limitata: solo 800 esemplari disponibili",
+      "descrizione": "Casio rinnova Oceanus con due modelli limitati dal look rétro e tecnologia solare.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666429/casio-oceanus-retro-tone/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T16:25:00+00:00"
+    },
+    {
+      "titolo": "Harry Potter compie 25 anni: arriva il maxi set Lego del Ministero della Magia",
+      "descrizione": "Per il 25° anniversario di Harry Potter, Lego presenta un imponente set del Ministero della Magia con Sala delle Profezie, aula del tribunale, uffici iconici e nuove minifigure",
+      "link": "https://www.hdblog.it/giochi/articoli/n666473/lego-harry-potter-ministero-della-magia-dettagli-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T16:15:00+00:00"
+    },
+    {
+      "titolo": "Huawei MateBook Pro S ufficiale: incredibilmente leggero e supersottile",
+      "descrizione": "Meno di 800 g, addirittura! Record assoluto per un 14\"?",
+      "link": "https://www.hdblog.it/portatili/articoli/n666474/huawei-matebook-pro-14-s-specifiche-peso-piuma/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T16:05:00+00:00"
+    },
+    {
+      "titolo": "Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways",
+      "descrizione": "One method is easier, but the other gets you faster, more reliable performance.",
+      "link": "https://www.zdnet.com/article/how-to-run-affinity-free-photoshop-alternative-on-linux/",
+      "fonte": "Latest news",
+      "data": "2026-08-05T15:52:12+00:00"
+    },
+    {
+      "titolo": "Roman porta nello spazio 1,35 milioni di nomi e una nuova astronomia",
+      "descrizione": "Roman porterà nello spazio 1,35 milioni di nomi per studiare pianeti ed energia oscura",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666417/nancy-grace-roman-telescopio-nasa-esopianeti/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T15:40:00+00:00"
+    },
+    {
+      "titolo": "MAGA Is In Turmoil Over Tucker Carlson’s Possible 2028 Presidential Bid",
+      "descrizione": "Joe Kent says that he and other anti–Donald Trump MAGA figures have formed a new movement. They want Tucker Carlson to run for the presidency in 2028.",
+      "link": "https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/",
+      "fonte": "WIRED",
+      "data": "2026-08-05T15:30:21+00:00"
+    },
+    {
+      "titolo": "Huawei Nova 16 SE ufficiale: super display, super batteria, prezzo da midrange",
+      "descrizione": "Un buon midrange con un display sopra la media.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666470/huawei-nova-16-se-specifiche-immagini-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T15:25:00+00:00"
+    },
+    {
+      "titolo": "PagoPA passa a Poligrafico e Poste Italiane: acquisizione completata",
+      "descrizione": "Completata l'acquisizione di PagoPA da parte di IPZS e Poste Italiane. La piattaforma continuerà a sviluppare servizi come l'app IO, SEND, la Piattaforma Digitale Nazionale Dati e IT Wallet",
+      "link": "https://www.hdblog.it/mercato/articoli/n666469/pago-passa-a-poste-e-ipzs-ufficiale-acquisto/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T15:20:00+00:00"
+    },
+    {
+      "titolo": "Razzo Falcon 9 si schianta sulla Luna: possibili immagini",
+      "descrizione": "Lo stadio superiore di un razzo Falcon 9 ha colpito la Luna a circa 8.700 Km/h e nei prossimi giorni dovrebbero arrivare le immagini del cratere creato. The post Razzo Falcon 9 si schianta sulla Luna: possibili immagini",
+      "link": "https://www.punto-informatico.it/razzo-falcon-9-schianta-luna-possibili-immagini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-05T15:14:07+00:00"
+    },
+    {
+      "titolo": "Blood Falls svela un ecosistema marino rimasto isolato sotto i ghiacci",
+      "descrizione": "Le Blood Falls rivelano un ecosistema marino sopravvissuto sotto i ghiacci dell'Antartide.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666410/blood-falls-antartide-vita-marina/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T15:10:00+00:00"
+    },
+    {
+      "titolo": "$4,429 order for a ROG Astral RTX 5090 cancelled by Nvidia due to a 'late' price increase, with Asus blamed — marketplace buyer refunded after immediate $500 increase, with top-spec GPU now almost 2.5x higher than MSRP",
+      "descrizione": "Nvidia cancelled a Redditor's Asus ROG Astral RTX 5090 BTF GPU order, originally priced at $4,429, because of a $500 price rise, with Nvidia blaming Asus for the confusion.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/usd4-429-order-for-a-rog-astral-rtx-5090-cancelled-by-nvidia-due-to-a-late-price-increase-with-asus-blamed-marketplace-buyer-refunded-after-immediate-usd500-increase-with-top-spec-gpu-now-almost-2-5x-higher-than-msrp",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-05T14:48:13+00:00"
     },
     {
       "titolo": "Base lunare: aggiornamento sui lander della fase I",
@@ -23,13 +135,6 @@
       "data": "2026-08-05T14:00:35+00:00"
     },
     {
-      "titolo": "Huawei Watch GT 7 e Pro ufficiali: il design non cambia, migliorano le prestazioni",
-      "descrizione": "Tre modelli in tutto.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666455/huawei-watch-gt-7-pro-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T13:50:00+00:00"
-    },
-    {
       "titolo": "Electronic Arts lascia il Nasdaq, finisce un’epoca per il videogioco",
       "descrizione": "Come previsto il gigante del videogioco Usa passa sotto il controllo di un consorzio guidato dal fondo sovrano saudita Pif per 55 miliardi di dollari.",
       "link": "https://www.ilsole24ore.com/art/electronic-arts-lascia-nasdaq-finisce-un-epoca-il-videogioco-AJHq8ef",
@@ -37,39 +142,11 @@
       "data": "2026-08-05T13:46:00+00:00"
     },
     {
-      "titolo": "Mercedes-AMG CLA 45, è lei la più veloce: nuovo record al Nurburgring",
-      "descrizione": "Nel suo segmento la Mercedes-AMG CLA 45 è risultata imbattibile sull’iconico tracciato del Nürburgring-Nordschleife.",
-      "link": "https://www.hdmotori.it/mercedes-amg-cla-45-record-nurburgring/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T13:00:19+00:00"
-    },
-    {
       "titolo": "QIDI Plus5: debutta oggi la nuova stampante 3D dal grande formato da 669 euro",
       "descrizione": "Viene rilasciata oggi la nuova stampante 3D QIDI Plus5 con volume più ampio, camera riscaldata a 65 °C e prezzi promozionali a partire da 669 euro. The post QIDI Plus5: debutta oggi la nuova stampante 3D dal grande forma",
       "link": "https://www.punto-informatico.it/qidi-plus5-debutta-oggi-la-nuova-stampante-3d-dal-grande-formato-da-669-euro/",
       "fonte": "Punto Informatico",
       "data": "2026-08-05T13:00:12+00:00"
-    },
-    {
-      "titolo": "LG amplia la gamma Fit & Max con i frigoriferi da incasso da 75 cm | Prezzi",
-      "descrizione": "LG amplia la gamma Fit & Max con quattro nuovi frigoriferi da incasso da 75 cm. Offrono 386 litri di capacità, funzioni smart basate sull'intelligenza artificiale, Wi-Fi e sistemi Door Cooling e...",
-      "link": "https://www.hdblog.it/lg/articoli/n666445/frigoriferi-incasso-lg-75-cm-fit-and-max-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T12:45:00+00:00"
-    },
-    {
-      "titolo": "Colpo grosso di Bending Spoons: acquisizione miliardaria per la tech italiana",
-      "descrizione": "Dopo l'ingresso in Borsa, ecco l'acquisizione di Airtable.",
-      "link": "https://www.hdblog.it/business/articoli/n666444/bending-spoons-acquista-airtable/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T12:35:00+00:00"
-    },
-    {
-      "titolo": "PC lento? Microsoft vuole affidare la diagnosi di Windows all’AI",
-      "descrizione": "Microsoft presenta ETW MCP, uno strumento che utilizza l'intelligenza artificiale per analizzare le tracce di Event Tracing for Windows. Gli sviluppatori possono interrogare i dati sulle prestazioni...",
-      "link": "https://www.hdblog.it/portatili/articoli/n666442/pc-windows-lento-diagnosi-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T12:10:00+00:00"
     },
     {
       "titolo": "Score all the essentials of a great gaming PC for only $983.98 — $155 savings nets 9800X3D, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, Asus B850 motherboard, and free MSI AIO",
@@ -86,88 +163,11 @@
       "data": "2026-08-05T12:00:16+00:00"
     },
     {
-      "titolo": "Carburante annacquato: aumentano i guasti ai motori",
-      "descrizione": "Il mistero dei carburanti sporchi ha portato all’intervento delle Fiamme gialle nei laboratori chimici dell’Agenzia delle Dogane e dei Monopoli.",
-      "link": "https://www.hdmotori.it/carburante-annacquato-guasti-motori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T12:00:02+00:00"
-    },
-    {
-      "titolo": "Microsoft 365 Copilot, feature rimossa all'improvviso pochi giorni dopo il rollout",
-      "descrizione": "Era una feature destinata agli amministratori IT che già aveva causato qualche controversia in fase di presentazione.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666443/microsoft-365-copilot-feature-rimossa-improvviso/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:55:00+00:00"
-    },
-    {
       "titolo": "Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year",
       "descrizione": "Elon Musk's SpaceX and xAI will exclusive use Nvidia AI accelerators for training and inference as companies believe Vera Rubin is the best AI compute architecture available today.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-05T11:50:34+00:00"
-    },
-    {
-      "titolo": "La bolletta del condominio potrebbe avere un \"nemico\" insospettabile",
-      "descrizione": "Motori più efficienti, recupero dell'energia e riduzione dei consumi in stand-by possono abbassare sensibilmente i costi dell'ascensore. Ecco quali interventi permettono di risparmiare energia negli...",
-      "link": "https://www.hdblog.it/home/articoli/n666439/ascensore-consumi-efficientamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:40:00+00:00"
-    },
-    {
-      "titolo": "Rubati più di 100 milioni di dollari in Bitcoin: sono migliaia i wallet compromessi",
-      "descrizione": "Sfruttata una vulnerabilità relativa alle credenziali di Coldcard per sottrarre Bitcoin agli utenti.",
-      "link": "https://www.hdblog.it/business/articoli/n666418/furto-bitcoin-100-milioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:20:00+00:00"
-    },
-    {
-      "titolo": "Spotify cresce ancora: 300 milioni di clienti Premium e ricavi in aumento",
-      "descrizione": "Spotify chiude un trimestre da record con oltre 300 milioni di clienti Premium, ricavi in aumento del 14% e margine lordo ai massimi storici. La piattaforma rafforza così la leadership nello...",
-      "link": "https://www.hdblog.it/mercato/articoli/n666435/spotify-premium-utenti-paganti-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:10:00+00:00"
-    },
-    {
-      "titolo": "ASUS ProArt continua a espandersi: arriva anche un box SSD di fascia alta",
-      "descrizione": "70 euro, fino a 40 Gbps di trasferimenti, disponibilità effettiva ancora ignota.",
-      "link": "https://www.hdblog.it/hardware/articoli/n666438/asus-proart-box-ssd-esterno-usb-4-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:05:00+00:00"
-    },
-    {
-      "titolo": "Frore claims its LiquidJet can drop Nvidia Rubin GPU temperatures by 10°C — can also boost performance by 15% as hyperscalers eye using delidded GPUs in production environments",
-      "descrizione": "As cooling becomes a crucial element for economic efficiency of AI data centers, Frore claims that using is LiquidJet coldplate could increase efficiency of token generation by 15%.",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/frore-claims-its-liquidjet-can-drop-nvidia-rubin-gpu-temperatures-by-10-c-can-also-boost-performance-by-15-percent-as-hyperscalers-eye-using-delidded-gpus-in-production-environments",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-05T11:02:00+00:00"
-    },
-    {
-      "titolo": "Bollo auto: in Sicilia arriva la rottamazione senza sanzioni né interessi",
-      "descrizione": "La regione ha approvato la misura per regolarizzare i debiti entro il 31 ottobre: ecco come funziona la rottamazione dei tributi regionali arretrati.",
-      "link": "https://www.hdmotori.it/bollo-auto-sicilia-rottamazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T11:00:15+00:00"
-    },
-    {
-      "titolo": "Honor lancia in Italia un raffrescatore / stufetta elettrica utilizzabile tutto l'anno",
-      "descrizione": "La promo di lancio è peraltro notevole.",
-      "link": "https://www.hdblog.it/honor/articoli/n666434/honor-choice-tower-fan-raffrescatore-3-in-1/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T10:55:00+00:00"
-    },
-    {
-      "titolo": "La Cina accelera sul nucleare: 8 nuovi reattori e 25 miliardi di investimenti",
-      "descrizione": "Pechino approva quattro nuove centrali per rafforzare energia, industria e decarbonizzazione.",
-      "link": "https://www.hdblog.it/green/articoli/n666402/cina-nuove-centrali-nucleari-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-05T10:45:00+00:00"
-    },
-    {
-      "titolo": "No One Can Afford to Make ‘Myst’ Games Anymore",
-      "descrizione": "“Myst” sold over 6 million copies in the ’90s. Its latest sequel couldn’t shore up any funding, pointing to an existential crisis among double-A games.",
-      "link": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
-      "fonte": "WIRED",
-      "data": "2026-08-05T10:45:00+00:00"
     }
   ]
 }
