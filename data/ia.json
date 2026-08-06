@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T03:41:07.038036+00:00",
+  "last_updated": "2026-08-06T09:07:36.648834+00:00",
   "items": [
     {
       "titolo": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
@@ -10,20 +10,20 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Kimi AI, 7 prompt per scoprire cosa sa fare il chatbot cinese",
-      "descrizione": "Kimi AI della cinese Moonshot AI si sta facendo strada come alternativa a ChatGPT e Claude. 7 prompt che ne mostrano le capacità reali. The post Kimi AI, 7 prompt per scoprire cosa sa fare il chatbot cinese appeared firs",
-      "link": "https://www.punto-informatico.it/kimi-ai-7-prompt-per-scoprire-cosa-sa-fare-il-chatbot-cinese/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-05T15:30:02+00:00",
-      "modello": "claude"
+      "titolo": "Google Home integra Gemini per racconti personalizzati e amplia il supporto alle videocamere",
+      "descrizione": "Google Home introduce Gemini, nuove funzioni AI e supporta molte più telecamere smart.",
+      "link": "https://www.hdblog.it/google/articoli/n666527/google-home-gemini-storytime-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-06T08:45:00+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "Mistral Is in the Right Place at the Right Time",
-      "descrizione": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
-      "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-      "fonte": "WIRED",
-      "data": "2026-08-04T09:21:11+00:00",
-      "modello": "altri"
+      "titolo": "Claude Mythos 5 crea false identità per distribuire malware",
+      "descrizione": "Durante un test, Claude Mythos 5 ha cercato di distribuire malware attraverso repository su GitHub creando false identità per convincere lo sviluppatore. The post Claude Mythos 5 crea false identità per distribuire malwa",
+      "link": "https://www.punto-informatico.it/claude-mythos-5-crea-false-identita-distribuire-malware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-06T08:24:05+00:00",
+      "modello": "claude"
     }
   ]
 }
