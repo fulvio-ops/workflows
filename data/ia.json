@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-08-06T09:07:36.648834+00:00",
+  "last_updated": "2026-08-06T14:36:07.998109+00:00",
   "items": [
     {
-      "titolo": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "descrizione": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "fonte": "WIRED",
-      "data": "2026-08-06T00:15:04+00:00",
+      "titolo": "WPA MCP su Windows 11: l’AI aiuta a diagnosticare i problemi del PC",
+      "descrizione": "WPA MCP di Microsoft è lo strumento che usa l'AI di GitHub Copilot per analizzare le prestazioni di Windows 11 e individuare i problemi più rapidamente. The post WPA MCP su Windows 11: l’AI aiuta a diagnosticare i proble",
+      "link": "https://www.punto-informatico.it/wpa-mcp-windows11-ai-aiuta-diagnosticare-problemi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-06T14:14:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Home integra Gemini per racconti personalizzati e amplia il supporto alle videocamere",
-      "descrizione": "Google Home introduce Gemini, nuove funzioni AI e supporta molte più telecamere smart.",
-      "link": "https://www.hdblog.it/google/articoli/n666527/google-home-gemini-storytime-aggiornamento/",
+      "titolo": "WPA MCP su Windows 11: l’AI aiuta a diagnosticare i problemi del PC",
+      "descrizione": "WPA MCP di Microsoft è lo strumento che usa l'AI di GitHub Copilot per analizzare le prestazioni di Windows 11 e individuare i problemi più rapidamente. The post WPA MCP su Windows 11: l’AI aiuta a diagnosticare i proble",
+      "link": "https://www.punto-informatico.it/wpa-mcp-windows11-ai-aiuta-diagnosticare-problemi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-06T14:14:26+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Confronto Alexa+ VS Gemini Home: qual è l'assistente migliore | Video",
+      "descrizione": "Abbiamo messo a confronto i nuovi assistenti vocali di Google e Amazon, potenziati dall'intelligenza artificiale. Vediamo pregi e difetti di entrambi i sistemi.",
+      "link": "https://www.hdblog.it/google/recensioni/n666352/alexa-vs-google-assistenti-ai-confronto-video/",
       "fonte": "HDblog.it",
-      "data": "2026-08-06T08:45:00+00:00",
+      "data": "2026-08-06T14:31:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Mythos 5 crea false identità per distribuire malware",
-      "descrizione": "Durante un test, Claude Mythos 5 ha cercato di distribuire malware attraverso repository su GitHub creando false identità per convincere lo sviluppatore. The post Claude Mythos 5 crea false identità per distribuire malwa",
-      "link": "https://www.punto-informatico.it/claude-mythos-5-crea-false-identita-distribuire-malware/",
+      "titolo": "Anthropic svilupperà chip AI per Claude come OpenAI",
+      "descrizione": "Anthropic crea un team per progettare chip dedicati a Claude. L'obiettivo è migliorare prestazioni ed efficienza. The post Anthropic svilupperà chip AI per Claude come OpenAI appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/anthropic-sviluppera-chip-ai-per-claude-come-openai/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-06T08:24:05+00:00",
+      "data": "2026-08-06T10:33:53+00:00",
       "modello": "claude"
     }
   ]
