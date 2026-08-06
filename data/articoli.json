@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-05T19:56:18.217940+00:00",
+  "last_updated": "2026-08-06T03:41:03.267708+00:00",
   "items": [
+    {
+      "titolo": "I ran a dumpstate analysis on my Samsung phone and found 3 useful system diagnostics",
+      "descrizione": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's how I've been using it.",
+      "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
+      "fonte": "Latest news",
+      "data": "2026-08-06T00:24:00+00:00"
+    },
+    {
+      "titolo": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "descrizione": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "fonte": "WIRED",
+      "data": "2026-08-06T00:15:04+00:00"
+    },
+    {
+      "titolo": "Recensione DJI Osmo Pocket 4P: non pensavo potesse piacermi così tanto",
+      "descrizione": "La nostra prova sul campo della nuova Osmo Pocket 4P di DJI, che porta alcune migliorie importanti rispetto al modello base.",
+      "link": "https://www.hdblog.it/fotografia/recensioni/n665576/recensione-dji-pocket-4p-test-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-05T19:00:00+00:00"
+    },
     {
       "titolo": "EA pronta a una massiccia ristrutturazione (con licenziamenti) dopo l'addio alla Borsa?",
       "descrizione": "Il consorzio che l'ha sostanzialmente comprata ha dovuto fare parecchi debiti, e deve recuperare un po' di denaro.",
@@ -21,13 +42,6 @@
       "link": "https://www.hdblog.it/amazon/articoli/n666484/amazon-capitalizzazione-3mila-miliardi/",
       "fonte": "HDblog.it",
       "data": "2026-08-05T17:25:00+00:00"
-    },
-    {
-      "titolo": "I ran a dumpstate analysis on my Android phone - 3 system diagnostics to check for free",
-      "descrizione": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's what you can learn from it.",
-      "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
-      "fonte": "Latest news",
-      "data": "2026-08-05T17:15:43+00:00"
     },
     {
       "titolo": "AI e satelliti: la prossima sfida è il controllo orbitale",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/score-all-the-essentials-of-a-great-gaming-pc-for-only-usd983-98-usd155-savings-nets-9800x3d-1tb-samsung-9100-ssd-16gb-of-ddr5-ram-asus-b850-motherboard-and-free-msi-aio",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-05T12:01:51+00:00"
-    },
-    {
-      "titolo": "US military GPS jamming exercise suspected of contributing to civilian plane crash in New Mexico — medevac flight lost signal before flying into a mountain, killing everyone onboard",
-      "descrizione": "A medevac flight in New Mexico suffered from GPS interference due to activities by nearby U.S. military units. Although it didn't directly cause the plane to crash, it added to the stress and workload of the pilots, caus",
-      "link": "https://www.tomshardware.com/tech-industry/us-military-gps-jamming-exercise-suspected-of-contributing-to-civilian-plane-crash-in-new-mexico-medevac-flight-lost-signal-before-flying-into-a-mountain-killing-everyone-onboard",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-05T12:00:16+00:00"
-    },
-    {
-      "titolo": "Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year",
-      "descrizione": "Elon Musk's SpaceX and xAI will exclusive use Nvidia AI accelerators for training and inference as companies believe Vera Rubin is the best AI compute architecture available today.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-05T11:50:34+00:00"
     }
   ]
 }
