@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-08-07T07:43:04.416692+00:00",
+  "last_updated": "2026-08-07T13:40:38.149196+00:00",
   "items": [
     {
-      "titolo": "OpenAI prepara il suo gadget AI: non avrà un display | Rumor",
-      "descrizione": "Il dispositivo OpenAI di Jony Ive sarà portatile, senza display e dotato di parti mobili.",
-      "link": "https://www.hdblog.it/domotica/articoli/n666626/openai-jony-ive-dispositivo-ai-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T07:10:00+00:00",
+      "titolo": "Attacco contro Hugging Face: collaborazione tra agenti AI",
+      "descrizione": "Gli agenti AI di OpenAI hanno creato una message board per collaborare tra loro e trovare la soluzione al compito assegnato aggirando la sandbox. The post Attacco contro Hugging Face: collaborazione tra agenti AI appeare",
+      "link": "https://www.punto-informatico.it/attacco-contro-hugging-face-collaborazione-agenti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-07T13:30:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "WPA MCP su Windows 11: l’AI aiuta a diagnosticare i problemi del PC",
-      "descrizione": "WPA MCP di Microsoft è lo strumento che usa l'AI di GitHub Copilot per analizzare le prestazioni di Windows 11 e individuare i problemi più rapidamente. The post WPA MCP su Windows 11: l’AI aiuta a diagnosticare i proble",
-      "link": "https://www.punto-informatico.it/wpa-mcp-windows11-ai-aiuta-diagnosticare-problemi/",
+      "titolo": "Microsoft ha spoilerato il nuovo logo di Copilot",
+      "descrizione": "Possibile restyling per il logo di Copilot, il nuovo design è stato scovato in una versione d'anteprima del browser Edge e non solo. The post Microsoft ha spoilerato il nuovo logo di Copilot appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/microsoft-spoilerato-nuovo-logo-copilot/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-06T14:14:26+00:00",
+      "data": "2026-08-07T12:13:25+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Ask Maps evolve: così Maps diventa più intelligente grazie a Gemini",
-      "descrizione": "Ask Maps evolve con memoria delle chat, integrazione opzionale con Gmail e nuove funzioni per pianificare viaggi, trovare hotel, ordinare cibo e consultare il trasporto pubblico in tempo reale",
-      "link": "https://www.hdblog.it/google/articoli/n666610/ask-maps-novita-smart-memoria-gmail/",
+      "titolo": "La nuova UI di Gemini sta arrivando sui Galaxy Watch: primi avvistamenti",
+      "descrizione": "Il Glow Overlay è già disponibile su molti Galaxy Watch",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666652/galaxy-watch-nuova-ui-gemini/",
       "fonte": "HDblog.it",
-      "data": "2026-08-06T17:15:00+00:00",
+      "data": "2026-08-07T10:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic svilupperà chip AI per Claude come OpenAI",
-      "descrizione": "Anthropic crea un team per progettare chip dedicati a Claude. L'obiettivo è migliorare prestazioni ed efficienza. The post Anthropic svilupperà chip AI per Claude come OpenAI appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/anthropic-sviluppera-chip-ai-per-claude-come-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-06T10:33:53+00:00",
+      "titolo": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
+      "descrizione": "Anthropic has announced its building a team to co-design custom ASIC chips for AI inferencing workloads. This will give it greater control over its compute buildout and allow it to make its AI models specifically more ef",
+      "link": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-07T10:30:00+00:00",
       "modello": "claude"
     }
   ]
