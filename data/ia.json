@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-06T14:36:07.998109+00:00",
+  "last_updated": "2026-08-07T00:16:32.170314+00:00",
   "items": [
     {
-      "titolo": "WPA MCP su Windows 11: l’AI aiuta a diagnosticare i problemi del PC",
-      "descrizione": "WPA MCP di Microsoft è lo strumento che usa l'AI di GitHub Copilot per analizzare le prestazioni di Windows 11 e individuare i problemi più rapidamente. The post WPA MCP su Windows 11: l’AI aiuta a diagnosticare i proble",
-      "link": "https://www.punto-informatico.it/wpa-mcp-windows11-ai-aiuta-diagnosticare-problemi/",
+      "titolo": "Creare un sito web senza uscire da ChatGPT, con un solo prompt",
+      "descrizione": "Con la nuova funzione di ChatGPT è possibile creare e pubblicare un sito web semplicemente descrivendo ciò che si vuole . Ecco come funziona. The post Creare un sito web senza uscire da ChatGPT, con un solo prompt appear",
+      "link": "https://www.punto-informatico.it/creare-sito-web-senza-uscire-chatgpt-un-solo-prompt/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-06T14:14:26+00:00",
+      "data": "2026-08-06T15:30:51+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Confronto Alexa+ VS Gemini Home: qual è l'assistente migliore | Video",
-      "descrizione": "Abbiamo messo a confronto i nuovi assistenti vocali di Google e Amazon, potenziati dall'intelligenza artificiale. Vediamo pregi e difetti di entrambi i sistemi.",
-      "link": "https://www.hdblog.it/google/recensioni/n666352/alexa-vs-google-assistenti-ai-confronto-video/",
+      "titolo": "Ask Maps evolve: così Maps diventa più intelligente grazie a Gemini",
+      "descrizione": "Ask Maps evolve con memoria delle chat, integrazione opzionale con Gmail e nuove funzioni per pianificare viaggi, trovare hotel, ordinare cibo e consultare il trasporto pubblico in tempo reale",
+      "link": "https://www.hdblog.it/google/articoli/n666610/ask-maps-novita-smart-memoria-gmail/",
       "fonte": "HDblog.it",
-      "data": "2026-08-06T14:31:00+00:00",
+      "data": "2026-08-06T17:15:00+00:00",
       "modello": "gemini"
     },
     {
