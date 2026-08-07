@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-08-07T13:40:33.735246+00:00",
+  "last_updated": "2026-08-07T19:17:04.295501+00:00",
   "items": [
+    {
+      "titolo": "IXPE: l'osservatorio d NASA e ASI trova le tracce di una teoria formulata 90 anni fa",
+      "descrizione": "IXPE trova la prova più convincente di un effetto quantistico previsto nel 1936",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666686/ixpe-birifrangenza-vuoto-magnetar/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T17:15:00+00:00"
+    },
+    {
+      "titolo": "Scientist says RAM pricing has reverted to normalized 2007 levels — memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
+      "descrizione": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says.",
+      "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-07T16:58:22+00:00"
+    },
+    {
+      "titolo": "Incendi estivi, la Grecia usa quattro satelliti per scovare i focolai",
+      "descrizione": "La Grecia sperimenta Hellenic Fire System, una costellazione di quattro satelliti con sensori termici progettata per individuare rapidamente piccoli incendi e seguirne l’evoluzione",
+      "link": "https://www.hdblog.it/green/articoli/n666698/incendi-sistema-satellitare-grecia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T16:45:00+00:00"
+    },
+    {
+      "titolo": "Il nuovo Roborock Qrevo 2 Pro si libera dei moci per pulire i tappeti | PREZZO",
+      "descrizione": "Qrevo 2 Pro debutta in Italia con navigazione LiDAR, riconoscimento degli ostacoli, supporto Matter e SmartPlan 3.0. Fino al 23 agosto il prezzo scende da 699 a 499 euro",
+      "link": "https://www.hdblog.it/home/articoli/n666695/roborock-qrevo-2-pro-specifiche-prezzo-robot/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T16:10:00+00:00"
+    },
+    {
+      "titolo": "Più auto con meno dipendenti, i numeri Toyota che \"scuotono\" Volkswagen",
+      "descrizione": "Produzione a rilento, costi fissi e scontro sui licenziamenti: perché il modello Volkswagen non funziona più rispetto a Toyota.",
+      "link": "https://www.hdmotori.it/volkswagen-vs-toyota-crisi-produzione-tagli/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T16:00:43+00:00"
+    },
+    {
+      "titolo": "Occhiali a infrarossi: così potremmo vedere ciò che oggi è invisibile",
+      "descrizione": "Nuovi occhiali trasformano la luce infrarossa invisibile in colori percepibili dall’occhio umano.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666681/occhiali-infrarossi-vista-umana/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T15:55:00+00:00"
+    },
+    {
+      "titolo": "AI fuori controllo: anche Meta finisce nel caso degli agenti in fuga",
+      "descrizione": "Un test AI di Meta finisce fuori dall’ambiente previsto e riapre il problema della sicurezza.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666685/meta-ai-agente-internet-test-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T15:40:00+00:00"
+    },
+    {
+      "titolo": "Ecco il reattore a filamento che riduce le emissioni dell'industria chimica",
+      "descrizione": "Un nuovo reattore elettrico converte il metano riducendo emissioni e consumi energetici.",
+      "link": "https://www.hdblog.it/green/articoli/n666608/reattore-lampadina-decarbonizzazione-industria/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T15:20:00+00:00"
+    },
+    {
+      "titolo": "OddCube è il purificatore d'aria che sfida l’obsolescenza programmata",
+      "descrizione": "OddCube è un purificatore d'aria progettato per essere riparabile e costruito con componenti comuni, filtri standard, ventole da PC e parti realizzabili con una normale stampante 3D",
+      "link": "https://www.hdblog.it/home/articoli/n666687/purificatore-daria-virale-stampa-3d-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T15:10:00+00:00"
+    },
+    {
+      "titolo": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
+      "descrizione": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But here's what else I see.",
+      "link": "https://www.zdnet.com/article/i-read-microsofts-windows-11-quality-progress-report-and-the-subtext-says-it-all/",
+      "fonte": "Latest news",
+      "data": "2026-08-07T15:09:00+00:00"
+    },
+    {
+      "titolo": "Proteste contro i data center: spunta una ghigliottina",
+      "descrizione": "Un manifestante si è presentato con una ghigliottina alla protesta contro la realizzazione di un nuovo data center: è arrivata la moratoria. The post Proteste contro i data center: spunta una ghigliottina appeared first",
+      "link": "https://www.punto-informatico.it/proteste-contro-data-center-ghigliottina/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-07T15:06:01+00:00"
+    },
+    {
+      "titolo": "Ford e Dacia chiudono per siccità: il Danubio ferma la produzione auto",
+      "descrizione": "La siccità record del Danubio riduce la corrente alla centrale nucleare: Dacia e Ford fermano gli impianti per salvare la rete elettrica rumena.",
+      "link": "https://www.hdmotori.it/dacia-ford-chiusura-fabbriche-siccita-danubio/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T15:00:46+00:00"
+    },
+    {
+      "titolo": "Tesla e SpaceX costruiscono la fabbrica di chip più grande mai vista",
+      "descrizione": "Tesla e SpaceX avviano Terafab, la maxi fabbrica di chip dedicata ad AI, robot e spazio.",
+      "link": "https://www.hdblog.it/mercato/articoli/n666603/tesla-spacex-terafab-chip-factory/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T14:45:00+00:00"
+    },
+    {
+      "titolo": "Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police",
+      "descrizione": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data center's representatives",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-07T14:32:26+00:00"
+    },
+    {
+      "titolo": "Gli smartphone più venduti di luglio 2026: Galaxy S26 Ultra domina con le super offerte | Video",
+      "descrizione": "Abbiamo raccolto i dati di vendita dei link affiliati di Amazon a luglio 2026, ecco quali sono stati i prodotti più venduti!",
+      "link": "https://www.hdblog.it/smartphone/speciali/n666301/smartphone-piu-venduti-luglio-estate/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T14:31:00+00:00"
+    },
+    {
+      "titolo": "Mazda, nuova sportiva in arrivo: cosa sappiamo sull’erede della RX-7",
+      "descrizione": "Il marchio di Fuchū potrebbe rilanciare in una chiave moderna la RX-7. La sportiva roadster ha fatto la storia nel mercato JDM.",
+      "link": "https://www.hdmotori.it/mazda-erede-rx-7/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T14:30:01+00:00"
+    },
+    {
+      "titolo": "Galaxy Fit3 scontato a 39 euro: è l'orologio per fitness e salute che cercavi",
+      "descrizione": "Alla faccia degli smartwatch costosi questo ha tutto quello che serve.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n666680/galaxy-fit3-scontato-39-euro-orologio-fitness/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T14:24:00+00:00"
+    },
+    {
+      "titolo": "Scientists Used AI to Create 16 New Viruses",
+      "descrizione": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "fonte": "WIRED",
+      "data": "2026-08-07T14:13:57+00:00"
+    },
+    {
+      "titolo": "Troppe richieste: BMW avvia subito la produzione della i3",
+      "descrizione": "Al via a Monaco la produzione della nuova BMW i3 elettrica. Forte domanda, costi tagliati del 10% e cantiere da record senza fermare le linee di montaggio.",
+      "link": "https://www.hdmotori.it/bmw-produzione-i3/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T14:00:41+00:00"
+    },
     {
       "titolo": "Deepfake di Mentana, il Garante richiama Striscia la Notizia",
       "descrizione": "Il Garante Privacy ha ammonito RTI (Mediaset) per i video deepfake di Enrico Mentana trasmessi da Striscia la Notizia: poca trasparenza. The post Deepfake di Mentana, il Garante richiama Striscia la Notizia appeared firs",
@@ -16,32 +149,11 @@
       "data": "2026-08-07T13:14:42+00:00"
     },
     {
-      "titolo": "Carabinieri in e-bike: tra i turisti in spiaggia c'è un \"Arma\" in più",
-      "descrizione": "A Montalto Marina i Carabinieri abbandonano le auto d'ordinanza bloccate dal traffico d'agosto e passano alle e-bike per i controlli di sicurezza sul lungomare.",
-      "link": "https://www.hdmotori.it/carabinieri-e-bike-spiaggia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T13:00:29+00:00"
-    },
-    {
       "titolo": "Octopus taglia i prezzi, ecco la nuova promo per bollette luce e gas più leggere",
       "descrizione": "Con Octopus è possibile bloccare il prezzo di luce e gas per 12 mesi, ecco la promo di agosto. The post Octopus taglia i prezzi, ecco la nuova promo per bollette luce e gas più leggere appeared first on Punto Informatico",
       "link": "https://www.punto-informatico.it/octopus-taglia-i-prezzi-ecco-la-nuova-promo-per-bollette-luce-e-gas-piu-leggere/",
       "fonte": "Punto Informatico",
       "data": "2026-08-07T13:00:01+00:00"
-    },
-    {
-      "titolo": "Apple corregge una grave vulnerabilità: aggiornamento per macOS Tahoe, Sequoia e Sonoma",
-      "descrizione": "Conviene installarlo subito.",
-      "link": "https://www.hdblog.it/apple/articoli/n666667/apple-macos-aggiornamento-screen-sharing-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T12:55:00+00:00"
-    },
-    {
-      "titolo": "Il New Mexico impone a Meta pesanti modifiche per gli account dei minori",
-      "descrizione": "Meta perde la causa avviata dal New Mexico e dovrà finanziare un fondo da 567 milioni di dollari oltre a modificare profondamente il funzionamento di Facebook e Instagram per i minorenni",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n666668/il-new-mexico-impone-a-meta-pesanti-modifiche-per-gli-account-dei-minori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T12:45:00+00:00"
     },
     {
       "titolo": "I'm a diehard OnePlus user: Here's my plan now that the company is leaving North America",
@@ -51,123 +163,11 @@
       "data": "2026-08-07T12:37:57+00:00"
     },
     {
-      "titolo": "Nissan-NX7, debutta il nuovo SUV elettrico e range extender: arriverà in Europa?",
-      "descrizione": "La Casa giapponese ha intenzione di sfruttare la collaborazione con Dongfeng per il lancio di un nuovo SUV alla spina chiamato NX7.",
-      "link": "https://www.hdmotori.it/nissan-nx7-nuovo-suv-elettrico-range-extender/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T12:30:49+00:00"
-    },
-    {
-      "titolo": "Nikita Bier lascia il ruolo di capo di X dopo poco più di un anno",
-      "descrizione": "Da capo del prodotto a semplice utente: Nikita Bier passa il testimone sulla piattaforma di Musk",
-      "link": "https://www.hdblog.it/mercato/articoli/n666661/nikita-brier-lascia-ruolo-capo-x/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T11:35:00+00:00"
-    },
-    {
-      "titolo": "TIM entra nel mercato delle eSIM da viaggio con una formula originale",
-      "descrizione": "TIM lancia le nuove eSIM Travel acquistabili anche da chi non è cliente. La soluzione abbina una normale eSIM TIM a un pacchetto roaming TIM in Viaggio Pass, con attivazione completamente online",
-      "link": "https://www.hdblog.it/tim/articoli/n666662/tim-esim-viaggio-non-cliente-costi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T11:25:00+00:00"
-    },
-    {
-      "titolo": "Google Wallet: i genitori possono inviare la \"paghetta digitale\" ai figli negli USA",
-      "descrizione": "Ecco come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n666660/google-wallet-figli-family-link-inviare-soldi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T11:15:00+00:00"
-    },
-    {
       "titolo": "Design, tecnologia e ottimo prezzo per il Samsung Galaxy A37 5G",
       "descrizione": "Il Samsung Galaxy A37 ha un ottimo rapporto qualità prezzo e oggi è in offerta su eBay con il codice segreto per cui non è da perdere. The post Design, tecnologia e ottimo prezzo per il Samsung Galaxy A37 5G appeared fir",
       "link": "https://www.punto-informatico.it/design-tecnologia-ottimo-prezzo-per-samsung-galaxy-a37-5g/",
       "fonte": "Punto Informatico",
       "data": "2026-08-07T11:14:47+00:00"
-    },
-    {
-      "titolo": "Nvidia sells RTX 50-series GPUs at MSRP during QuakeCon 2026 — graphics cards sold at launch prices more than a year after release are now considered an attraction",
-      "descrizione": "The Nvidia booth at QuakeCon 2026 is offering Founders Edition GeForce RTX 5090, 5080, and 5070 GPUs at MSRP. Supplies are limited, though, so you should head out ASAP if you want to snag one right now.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T11:11:49+00:00"
-    },
-    {
-      "titolo": "Samsung presenta ISOCELL HPC da 200 MP: lo vedremo sui Galaxy S27?",
-      "descrizione": "Più luce e meno rumore grazie alla tecnologia DeepPix.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666654/samsung-sensore-isocell-hpc-200-mp-galaxy-s27/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T11:05:00+00:00"
-    },
-    {
-      "titolo": "Elon Musk's massive Terafab chip-making facility starts to take shape — 100 million square feet of manufacturing space and $16.8B initial capital investment",
-      "descrizione": "SpaceX and Tesla officially begin to build the massive Terafab facility that will be three times bigger than Samsung's Pyeongtaek campus.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T11:00:00+00:00"
-    },
-    {
-      "titolo": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
-      "descrizione": "Anthropic has announced its building a team to co-design custom ASIC chips for AI inferencing workloads. This will give it greater control over its compute buildout and allow it to make its AI models specifically more ef",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T10:30:00+00:00"
-    },
-    {
-      "titolo": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry",
-      "descrizione": "Many young men are driven to resentment and are financially exploited as influencers sell them classes, pills, and the illusion of clout, a new report reveals.",
-      "link": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
-      "fonte": "WIRED",
-      "data": "2026-08-07T10:30:00+00:00"
-    },
-    {
-      "titolo": "OpenAI porta a Microsoft 24 miliardi: svelati i numeri dell’accordo",
-      "descrizione": "Microsoft registra circa 20,7 miliardi di euro dai rapporti commerciali con OpenAI",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666651/microsoft-openai-ricavi-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T10:15:00+00:00"
-    },
-    {
-      "titolo": "Soundcore Boom 2 è la potente cassa bluetooth da 80W da portare in spiaggia: sconto Amazon",
-      "descrizione": "Bassi potentissimi e 24 ore di autonomia per questa cassa bluetooth impermeabile.",
-      "link": "https://www.hdblog.it/hardware/offerte/n666656/soundcore-boom-2-cassa-bluetooth-spiaggia-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T10:11:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia i Redmi 17 in Italia: batteria da 7.500 mAh e prezzi da 199 euro",
-      "descrizione": "Xiaomi presenta in Italia Redmi 17 e Redmi 17 5G. I nuovi smartphone puntano su una batteria da 7.500 mAh, display da 6,9 pollici a 120 Hz e prezzi di lancio a partire da 199,90 euro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666655/redmi-17-5g-specifiche-immagini-prezzo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T10:05:00+00:00"
-    },
-    {
-      "titolo": "Musica AI: Suno prepara watermark invisibili per ogni brano",
-      "descrizione": "Suno inserirà watermark nei brani AI per renderli riconoscibili dalle piattaforme.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666641/suno-watermark-musica-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T09:35:00+00:00"
-    },
-    {
-      "titolo": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
-      "descrizione": "Microplastics are in everything, especially your coffee. A new generation of plastic-free drip coffee brewers is trying to change this.",
-      "link": "https://www.wired.com/story/plastic-free-coffee-makers/",
-      "fonte": "WIRED",
-      "data": "2026-08-07T09:32:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi REDMI 17 e REDMI 17 5G ufficiali: grande batteria e RGB",
-      "descrizione": "Xiaomi ha presentato i nuovi REDMI 17 e REDMI 17 5G con autonomia elevata, ambio display, doppia fotocamera da 50 MP e RGB per le notifiche. The post Xiaomi REDMI 17 e REDMI 17 5G ufficiali: grande batteria e RGB appeare",
-      "link": "https://www.punto-informatico.it/xiaomi-redmi-17-grande-batteria-rgb/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T09:21:06+00:00"
-    },
-    {
-      "titolo": "Ora l’intelligenza artificiale può creare virus, è allarme rischi",
-      "descrizione": "Gli scienziati hanno creato i primi virus progettati dall’intelligenza artificiale, una pietra miliare che fa sperare in nuove medicine, ma solleva anche preoccupazioni su come garantire la sicurezza di questa...",
-      "link": "https://www.ilsole24ore.com/art/ora-l-intelligenza-artificiale-puo-creare-virus-ma-e-allarme-rischi-AJ0jAKh",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-07T09:03:00+00:00"
     }
   ]
 }

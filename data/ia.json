@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-07T13:40:38.149196+00:00",
+  "last_updated": "2026-08-07T19:17:08.898707+00:00",
   "items": [
     {
-      "titolo": "Attacco contro Hugging Face: collaborazione tra agenti AI",
-      "descrizione": "Gli agenti AI di OpenAI hanno creato una message board per collaborare tra loro e trovare la soluzione al compito assegnato aggirando la sandbox. The post Attacco contro Hugging Face: collaborazione tra agenti AI appeare",
-      "link": "https://www.punto-informatico.it/attacco-contro-hugging-face-collaborazione-agenti-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T13:30:05+00:00",
+      "titolo": "Incendi estivi, la Grecia usa quattro satelliti per scovare i focolai",
+      "descrizione": "La Grecia sperimenta Hellenic Fire System, una costellazione di quattro satelliti con sensori termici progettata per individuare rapidamente piccoli incendi e seguirne l’evoluzione",
+      "link": "https://www.hdblog.it/green/articoli/n666698/incendi-sistema-satellitare-grecia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-07T16:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "La nuova UI di Gemini sta arrivando sui Galaxy Watch: primi avvistamenti",
-      "descrizione": "Il Glow Overlay è già disponibile su molti Galaxy Watch",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666652/galaxy-watch-nuova-ui-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T10:25:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
-      "descrizione": "Anthropic has announced its building a team to co-design custom ASIC chips for AI inferencing workloads. This will give it greater control over its compute buildout and allow it to make its AI models specifically more ef",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T10:30:00+00:00",
+      "titolo": "ByteDance prepara un modello AI per sfidare Mythos di Anthropic",
+      "descrizione": "Il gruppo proprietario di TikTok starebbe addestrando un modello AI delle dimensioni di Mythos, il sistema più avanzato di Anthropic. The post ByteDance prepara un modello AI per sfidare Mythos di Anthropic appeared firs",
+      "link": "https://www.punto-informatico.it/bytedance-prepara-modello-ai-sfidare-mythos-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-07T14:27:28+00:00",
       "modello": "claude"
     }
   ]
