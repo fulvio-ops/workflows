@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-08-08T07:16:33.302299+00:00",
+  "last_updated": "2026-08-08T13:13:33.361635+00:00",
   "items": [
+    {
+      "titolo": "Dialoghi più chiari in TV: le regolazioni che fanno la differenza",
+      "descrizione": "Alcuni trucchi per esaltare le voci.",
+      "link": "https://www.hdblog.it/tv/articoli/n666348/dialoghi-piu-chiari-voce-tv-impostazioni-come-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T12:55:00+00:00"
+    },
+    {
+      "titolo": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
+      "descrizione": "Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits.",
+      "link": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-08T12:35:00+00:00"
+    },
+    {
+      "titolo": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
+      "descrizione": "Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers.",
+      "link": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-08T11:45:00+00:00"
+    },
+    {
+      "titolo": "I prodotti per la Smart Home più venduti a luglio 2026",
+      "descrizione": "Abbiamo raccolto i dati di vendita dei link affiliati di Amazon a luglio 2026, ecco quali sono stati i prodotti più venduti! Alcuni sono assurdi!",
+      "link": "https://www.hdblog.it/home/recensioni/n666354/prodotti-smart-home-piu-venduti-luglio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T11:31:00+00:00"
+    },
+    {
+      "titolo": "Quake festeggia 30 anni con la nuova espansione gratuita Dawn of The Machine",
+      "descrizione": "Ecco cosa contiente.",
+      "link": "https://www.hdblog.it/games/articoli/n666732/quake-dawn-of-the-machine-espansione-gratuita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T11:05:00+00:00"
+    },
+    {
+      "titolo": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
+      "descrizione": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E. coli.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-08T11:00:00+00:00"
+    },
+    {
+      "titolo": "PROMISE: il rover NASA esplorerà il polo sud lunare | Cosa sappiamo",
+      "descrizione": "NASA studia PROMISE, rover nucleare per esplorare il polo sud lunare anche al buio.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666712/nasa-promise-rover-luna-polo-sud/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T10:55:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17T Pro: il top di gamma che oggi costa molto meno",
+      "descrizione": "Lo Xiaomi 17T Pro, nella versione da 12 GB di RAM e 512 GB di memoria interna, è in offerta su eBay scontato di oltre 360 euro. The post Xiaomi 17T Pro: il top di gamma che oggi costa molto meno appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/xiaomi-17t-pro-top-gamma-che-oggi-costa-molto-meno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-08T10:48:27+00:00"
+    },
+    {
+      "titolo": "Fable 5: Anthropic riduce i falsi positivi in biologia",
+      "descrizione": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia app",
+      "link": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-08T10:40:28+00:00"
+    },
+    {
+      "titolo": "DJI Osmo 360 II potrebbe arrivare il 13 agosto | Nuovo teaser",
+      "descrizione": "DJI prepara Osmo 360 II con batteria più grande e possibili video 8K a 60 fps.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666713/dji-osmo-360-ii-8k-60-fps/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T09:55:00+00:00"
+    },
+    {
+      "titolo": "Stellantis richiama 20.000 auto: un guasto al servosterzo potrebbe provocare un incendio",
+      "descrizione": "Nuovo richiamo per quasi 20.000 vetture Stellantis in Francia. Nel mirino quattro modelli di Citroën, Fiat e Opel: un problema al cablaggio della direzione assistita potrebbe causare un corto...",
+      "link": "https://www.hdmotori.it/stellantis-richiama-20-000-auto-un-guasto-al-servosterzo-potrebbe-provocare-un-incendio/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T09:25:34+00:00"
+    },
+    {
+      "titolo": "Recensione TV Sony Bravia 7 II: ottime prestazioni, ma i Mini LED RGB costano",
+      "descrizione": "La nostra prova completa di misure del TV Sony Bravia 7 II da 65 pollici, con nuova soluzione di retorilluminazione Mini LED RGB super efficiente e colori al top",
+      "link": "https://www.hdblog.it/tv/articoli/n666023/tv-sony-bravia7ii-miniledrgb-4k-test-prova-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T09:01:00+00:00"
+    },
+    {
+      "titolo": "DKW NZ 350-1: una moto della Seconda Guerra Mondiale è \"riemersa\" dal Danubio",
+      "descrizione": "La secca record del Danubio fa riaffiorare a Budapest una rara moto DKW del 1944 e un arsenale di bombe. Il ritrovamento storico dopo ben 80 anni.",
+      "link": "https://www.hdmotori.it/ritrovamento-moto-seconda-guerra-danubio/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T09:00:23+00:00"
+    },
+    {
+      "titolo": "Svelata la versione sportiva GT della Range Rover, il SUV fastback che non c'era",
+      "descrizione": "Per seguire il trend delle principali Case costruttrici Range Rover lancerà una variante GT, caratterizzata da un'impostazione differente rispetto ai tradizionali SUV del marchio inglese.",
+      "link": "https://www.hdmotori.it/range-rover-gt-fastback/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T08:00:11+00:00"
+    },
+    {
+      "titolo": "Acceso in Cina il maxi data center AI alimentato dalle rinnovabili",
+      "descrizione": "In Mongolia Interna nasce un campus AI da oltre 2 GW alimentato direttamente da fonti rinnovabili.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666691/cina-data-center-ai-rinnovabili-galaxy-campus/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T07:25:00+00:00"
+    },
     {
       "titolo": "Bollo auto, è rivoluzione dal 2028: tutte le novità della miniriforma",
       "descrizione": "Tra 2 anni una nuova disciplina gestirà le regole applicative della tassa automobilistica. Scopriamo cosa cambierà.",
@@ -30,67 +135,11 @@
       "data": "2026-08-08T06:00:21+00:00"
     },
     {
-      "titolo": "IXPE: l'osservatorio d NASA e ASI trova le tracce di una teoria formulata 90 anni fa",
-      "descrizione": "IXPE trova la prova più convincente di un effetto quantistico previsto nel 1936",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666686/ixpe-birifrangenza-vuoto-magnetar/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T17:15:00+00:00"
-    },
-    {
       "titolo": "Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months — memory prices had been falling exponentially for decades",
       "descrizione": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says.",
       "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-07T16:58:22+00:00"
-    },
-    {
-      "titolo": "Incendi estivi, la Grecia usa quattro satelliti per scovare i focolai",
-      "descrizione": "La Grecia sperimenta Hellenic Fire System, una costellazione di quattro satelliti con sensori termici progettata per individuare rapidamente piccoli incendi e seguirne l’evoluzione",
-      "link": "https://www.hdblog.it/green/articoli/n666698/incendi-sistema-satellitare-grecia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T16:45:00+00:00"
-    },
-    {
-      "titolo": "Il nuovo Roborock Qrevo 2 Pro si libera dei moci per pulire i tappeti | PREZZO",
-      "descrizione": "Qrevo 2 Pro debutta in Italia con navigazione LiDAR, riconoscimento degli ostacoli, supporto Matter e SmartPlan 3.0. Fino al 23 agosto il prezzo scende da 699 a 499 euro",
-      "link": "https://www.hdblog.it/home/articoli/n666695/roborock-qrevo-2-pro-specifiche-prezzo-robot/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T16:10:00+00:00"
-    },
-    {
-      "titolo": "Più auto con meno dipendenti, i numeri Toyota che \"scuotono\" Volkswagen",
-      "descrizione": "Produzione a rilento, costi fissi e scontro sui licenziamenti: perché il modello Volkswagen non funziona più rispetto a Toyota.",
-      "link": "https://www.hdmotori.it/volkswagen-vs-toyota-crisi-produzione-tagli/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T16:00:43+00:00"
-    },
-    {
-      "titolo": "Occhiali a infrarossi: così potremmo vedere ciò che oggi è invisibile",
-      "descrizione": "Nuovi occhiali trasformano la luce infrarossa invisibile in colori percepibili dall’occhio umano.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666681/occhiali-infrarossi-vista-umana/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T15:55:00+00:00"
-    },
-    {
-      "titolo": "AI fuori controllo: anche Meta finisce nel caso degli agenti in fuga",
-      "descrizione": "Un test AI di Meta finisce fuori dall’ambiente previsto e riapre il problema della sicurezza.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666685/meta-ai-agente-internet-test-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T15:40:00+00:00"
-    },
-    {
-      "titolo": "Ecco il reattore a filamento che riduce le emissioni dell'industria chimica",
-      "descrizione": "Un nuovo reattore elettrico converte il metano riducendo emissioni e consumi energetici.",
-      "link": "https://www.hdblog.it/green/articoli/n666608/reattore-lampadina-decarbonizzazione-industria/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T15:20:00+00:00"
-    },
-    {
-      "titolo": "OddCube è il purificatore d'aria che sfida l’obsolescenza programmata",
-      "descrizione": "OddCube è un purificatore d'aria progettato per essere riparabile e costruito con componenti comuni, filtri standard, ventole da PC e parti realizzabili con una normale stampante 3D",
-      "link": "https://www.hdblog.it/home/articoli/n666687/purificatore-daria-virale-stampa-3d-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T15:10:00+00:00"
     },
     {
       "titolo": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
@@ -107,20 +156,6 @@
       "data": "2026-08-07T15:06:01+00:00"
     },
     {
-      "titolo": "Ford e Dacia chiudono per siccità: il Danubio ferma la produzione auto",
-      "descrizione": "La siccità record del Danubio riduce la corrente alla centrale nucleare: Dacia e Ford fermano gli impianti per salvare la rete elettrica rumena.",
-      "link": "https://www.hdmotori.it/dacia-ford-chiusura-fabbriche-siccita-danubio/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T15:00:46+00:00"
-    },
-    {
-      "titolo": "Tesla e SpaceX costruiscono la fabbrica di chip più grande mai vista",
-      "descrizione": "Tesla e SpaceX avviano Terafab, la maxi fabbrica di chip dedicata ad AI, robot e spazio.",
-      "link": "https://www.hdblog.it/mercato/articoli/n666603/tesla-spacex-terafab-chip-factory/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T14:45:00+00:00"
-    },
-    {
       "titolo": "Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police",
       "descrizione": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data center's representatives",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
@@ -133,41 +168,6 @@
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "fonte": "WIRED",
       "data": "2026-08-07T14:13:57+00:00"
-    },
-    {
-      "titolo": "Deepfake di Mentana, il Garante richiama Striscia la Notizia",
-      "descrizione": "Il Garante Privacy ha ammonito RTI (Mediaset) per i video deepfake di Enrico Mentana trasmessi da Striscia la Notizia: poca trasparenza. The post Deepfake di Mentana, il Garante richiama Striscia la Notizia appeared firs",
-      "link": "https://www.punto-informatico.it/deepfake-mentana-garante-richiama-striscia-notizia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T13:15:24+00:00"
-    },
-    {
-      "titolo": "Apple rushes out emergency fix for screen sharing flaw on Macs - update ASAP",
-      "descrizione": "The updates were unexpected. Apple must have considered this flaw serious enough to warrant an immediate fix.",
-      "link": "https://www.zdnet.com/article/apple-rushes-emergency-fix-for-mac-screen-sharing-flaw-update-asap/",
-      "fonte": "Latest news",
-      "data": "2026-08-07T13:14:42+00:00"
-    },
-    {
-      "titolo": "Octopus taglia i prezzi, ecco la nuova promo per bollette luce e gas più leggere",
-      "descrizione": "Con Octopus è possibile bloccare il prezzo di luce e gas per 12 mesi, ecco la promo di agosto. The post Octopus taglia i prezzi, ecco la nuova promo per bollette luce e gas più leggere appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/octopus-taglia-i-prezzi-ecco-la-nuova-promo-per-bollette-luce-e-gas-piu-leggere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T13:00:01+00:00"
-    },
-    {
-      "titolo": "I'm a diehard OnePlus user: Here's my plan now that the company is leaving North America",
-      "descrizione": "OnePlus has officially ended business across North America and Europe. I explain what happens next and the best alternatives to consider.",
-      "link": "https://www.zdnet.com/article/oneplus-is-leaving-north-america-my-plan-as-a-diehard-user/",
-      "fonte": "Latest news",
-      "data": "2026-08-07T12:37:57+00:00"
-    },
-    {
-      "titolo": "Design, tecnologia e ottimo prezzo per il Samsung Galaxy A37 5G",
-      "descrizione": "Il Samsung Galaxy A37 ha un ottimo rapporto qualità prezzo e oggi è in offerta su eBay con il codice segreto per cui non è da perdere. The post Design, tecnologia e ottimo prezzo per il Samsung Galaxy A37 5G appeared fir",
-      "link": "https://www.punto-informatico.it/design-tecnologia-ottimo-prezzo-per-samsung-galaxy-a37-5g/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T11:14:47+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-08T07:16:37.070747+00:00",
+  "last_updated": "2026-08-08T13:13:36.927905+00:00",
   "items": [
     {
-      "titolo": "Incendi estivi, la Grecia usa quattro satelliti per scovare i focolai",
-      "descrizione": "La Grecia sperimenta Hellenic Fire System, una costellazione di quattro satelliti con sensori termici progettata per individuare rapidamente piccoli incendi e seguirne l’evoluzione",
-      "link": "https://www.hdblog.it/green/articoli/n666698/incendi-sistema-satellitare-grecia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-07T16:45:00+00:00",
+      "titolo": "OpenAI mette in pausa Astra, teme capacità hacker avanzate",
+      "descrizione": "OpenAI ha messo in pausa Astra perché teme che possa anche trovare ed eseguire exploit zero-day senza intervento umano. The post OpenAI mette in pausa Astra, teme capacità hacker avanzate appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/openai-mette-pausa-astra-teme-capacita-hacker-avanzate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-08T09:27:58+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "ByteDance prepara un modello AI per sfidare Mythos di Anthropic",
-      "descrizione": "Il gruppo proprietario di TikTok starebbe addestrando un modello AI delle dimensioni di Mythos, il sistema più avanzato di Anthropic. The post ByteDance prepara un modello AI per sfidare Mythos di Anthropic appeared firs",
-      "link": "https://www.punto-informatico.it/bytedance-prepara-modello-ai-sfidare-mythos-anthropic/",
+      "titolo": "How to Disable Gemini in Gmail and Google Docs",
+      "descrizione": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "fonte": "WIRED",
+      "data": "2026-08-08T10:00:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Fable 5: Anthropic riduce i falsi positivi in biologia",
+      "descrizione": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia app",
+      "link": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-07T14:27:28+00:00",
+      "data": "2026-08-08T10:40:28+00:00",
       "modello": "claude"
     }
   ]
