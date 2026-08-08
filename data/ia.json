@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-08-08T13:13:36.927905+00:00",
+  "last_updated": "2026-08-08T18:59:57.612709+00:00",
   "items": [
     {
-      "titolo": "OpenAI mette in pausa Astra, teme capacità hacker avanzate",
-      "descrizione": "OpenAI ha messo in pausa Astra perché teme che possa anche trovare ed eseguire exploit zero-day senza intervento umano. The post OpenAI mette in pausa Astra, teme capacità hacker avanzate appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/openai-mette-pausa-astra-teme-capacita-hacker-avanzate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-08T09:27:58+00:00",
+      "titolo": "Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto”",
+      "descrizione": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine.",
+      "link": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-08T14:00:56+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Microsoft ha spoilerato il nuovo logo di Copilot",
-      "descrizione": "Possibile restyling per il logo di Copilot, il nuovo design è stato scovato in una versione d'anteprima del browser Edge e non solo. The post Microsoft ha spoilerato il nuovo logo di Copilot appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/microsoft-spoilerato-nuovo-logo-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T12:13:25+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "How to Disable Gemini in Gmail and Google Docs",
