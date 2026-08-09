@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-09T07:17:51.599590+00:00",
+  "last_updated": "2026-08-09T13:16:40.345942+00:00",
   "items": [
+    {
+      "titolo": "FCC moves to ban LiDAR-equipped foreign drones from US — classifies the technology as \"military-grade\" in a proposal that could also hit thermal models and the swarms used in drone light shows",
+      "descrizione": "The FCC is proposing a retroactive sales ban on previously approved foreign-made drones with LiDAR and other “military-grade” features, potentially removing several popular DJI models from U.S. stores.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-09T13:00:00+00:00"
+    },
+    {
+      "titolo": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings — shift follows physics teacher's arrest for clapping at data center hearing",
+      "descrizione": "Emporia, Kansas, switched to virtual city council meetings after death threats intensified against city leaders. The move also canceled public comments, prompting some members of the public to ask why it was affected, to",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-09T12:20:00+00:00"
+    },
+    {
+      "titolo": "Ho utilizzato iPhone Air per un anno: come è andata? | Video",
+      "descrizione": "iPhone Air non ha venduto secondo le aspettative di Apple. Lo abbiamo utilizzato per un anno e vi raccontiamo il perché, secondo noi.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n648894/iphone-air-dopo-un-anno/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T11:31:00+00:00"
+    },
+    {
+      "titolo": "Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value — chipmaker later reverses course with a better solution",
+      "descrizione": "Crucial memory owner recounts their experience with Micron's warranty process since the company has axed the Crucial brand.",
+      "link": "https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-09T11:20:00+00:00"
+    },
+    {
+      "titolo": "Samsung e SK hynix svelano nuove tecnologie di memoria",
+      "descrizione": "Samsung ha mostrato le nuove tecnologie zHBM, zNAND-O e V10 BV-NAND, mentre SK hynix ha svelato la tecnologia HBF (High Bandwidth Flash). The post Samsung e SK hynix svelano nuove tecnologie di memoria appeared first on",
+      "link": "https://www.punto-informatico.it/samsung-sk-hynix-svelano-nuove-tecnologie-storage/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-09T10:49:53+00:00"
+    },
+    {
+      "titolo": "The 12 Best Anime to Watch if You Think You Hate Anime",
+      "descrizione": "Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
+      "link": "https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/",
+      "fonte": "WIRED",
+      "data": "2026-08-09T10:00:00+00:00"
+    },
+    {
+      "titolo": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "descrizione": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "fonte": "WIRED",
+      "data": "2026-08-09T09:30:00+00:00"
+    },
+    {
+      "titolo": "Data center e clima: il nuovo progetto Amazon riapre il dibattito sulle emissioni",
+      "descrizione": "Il nuovo data center Amazon sarà alimentato da una gigantesca centrale a gas.",
+      "link": "https://www.hdblog.it/mercato/articoli/n666755/amazon-centrale-gas-data-center-ai-texas/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T09:25:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Mix Fold 5, un leak conferma il design a passaporto e HyperOS 4",
+      "descrizione": "Formato simile a Galaxy Fold 8 e al futuro iPhone pieghevole.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666754/xiaomi-mix-fold-5-leak-design-passaporto-hyperos-4/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T08:55:00+00:00"
+    },
+    {
+      "titolo": "Smart home: una presa intelligente da pochi euro può fare la differenza",
+      "descrizione": "Come rendere smart la propria casa con un solo accessorio.",
+      "link": "https://www.hdblog.it/domotica/articoli/n666664/smart-home-presa-intelligente-pochi-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T08:25:00+00:00"
+    },
+    {
+      "titolo": "Ha un V8 Maserati da 460 CV, ma non è un’auto: questa moto costa 144.000 euro",
+      "descrizione": "Si chiama Lazareth Wazuma V8M ed è una delle moto più folli mai costruite. Quattro ruote, 855 kg e un V8 Maserati 4.7 aspirato da 460 CV. Un esemplare quasi nuovo è appena...",
+      "link": "https://www.hdmotori.it/ha-un-v8-maserati-da-460-cv-ma-non-e-unauto-questa-moto-costa-144-000-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T08:00:40+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A18: i benchmark svelano una scheda tecnica senza sorprese",
+      "descrizione": "Il modello LTE si è fatto vedere su Geekbench: cosa sappiamo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666753/samsung-galaxy-a18-4g-lte-specifiche-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T07:35:00+00:00"
+    },
     {
       "titolo": "Nuovi droni marziani: scoveranno ghiaccio utile per la colonizzazione",
       "descrizione": "La NASA testa un'antenna in tessuto per cercare ghiaccio nel sottosuolo marziano.",
@@ -58,32 +142,11 @@
       "data": "2026-08-08T14:45:00+00:00"
     },
     {
-      "titolo": "Patente a 17 anni, multe e sorpasso a destra: cambia tutto, nuove regole allo studio",
-      "descrizione": "Il nuovo Codice della Strada potrebbe cambiare parecchie regole per automobilisti, motociclisti e ciclisti. Dalla patente B a 17 anni alle nuove multe per chi corre, passando per il sorpasso a destra...",
-      "link": "https://www.hdmotori.it/patente-a-17-anni-multe-e-sorpasso-a-destra-cambia-tutto-nuove-regole-allo-studio/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T14:30:46+00:00"
-    },
-    {
-      "titolo": "Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto”",
-      "descrizione": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine.",
-      "link": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T14:00:56+00:00"
-    },
-    {
       "titolo": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
       "descrizione": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew unde",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-08T13:51:24+00:00"
-    },
-    {
-      "titolo": "Dialoghi più chiari in TV: le regolazioni che fanno la differenza",
-      "descrizione": "Alcuni trucchi per esaltare le voci.",
-      "link": "https://www.hdblog.it/tv/articoli/n666348/dialoghi-piu-chiari-voce-tv-impostazioni-come-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T12:55:00+00:00"
     },
     {
       "titolo": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
@@ -100,74 +163,11 @@
       "data": "2026-08-08T11:45:00+00:00"
     },
     {
-      "titolo": "I prodotti per la Smart Home più venduti a luglio 2026",
-      "descrizione": "Abbiamo raccolto i dati di vendita dei link affiliati di Amazon a luglio 2026, ecco quali sono stati i prodotti più venduti! Alcuni sono assurdi!",
-      "link": "https://www.hdblog.it/home/recensioni/n666354/prodotti-smart-home-piu-venduti-luglio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T11:31:00+00:00"
-    },
-    {
-      "titolo": "Quake festeggia 30 anni con la nuova espansione gratuita Dawn of The Machine",
-      "descrizione": "Ecco cosa contiente.",
-      "link": "https://www.hdblog.it/games/articoli/n666732/quake-dawn-of-the-machine-espansione-gratuita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T11:05:00+00:00"
-    },
-    {
       "titolo": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
       "descrizione": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E. coli.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-08T11:00:00+00:00"
-    },
-    {
-      "titolo": "PROMISE: il rover NASA esplorerà il polo sud lunare | Cosa sappiamo",
-      "descrizione": "NASA studia PROMISE, rover nucleare per esplorare il polo sud lunare anche al buio.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666712/nasa-promise-rover-luna-polo-sud/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T10:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17T Pro: il top di gamma che oggi costa molto meno",
-      "descrizione": "Lo Xiaomi 17T Pro, nella versione da 12 GB di RAM e 512 GB di memoria interna, è in offerta su eBay scontato di oltre 360 euro. The post Xiaomi 17T Pro: il top di gamma che oggi costa molto meno appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/xiaomi-17t-pro-top-gamma-che-oggi-costa-molto-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-08T10:48:27+00:00"
-    },
-    {
-      "titolo": "Fable 5: Anthropic riduce i falsi positivi in biologia",
-      "descrizione": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia app",
-      "link": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-08T10:40:28+00:00"
-    },
-    {
-      "titolo": "Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months — memory prices had been falling exponentially for decades",
-      "descrizione": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says.",
-      "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T16:58:22+00:00"
-    },
-    {
-      "titolo": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
-      "descrizione": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But here's what else I see.",
-      "link": "https://www.zdnet.com/article/i-read-microsofts-windows-11-quality-progress-report-and-the-subtext-says-it-all/",
-      "fonte": "Latest news",
-      "data": "2026-08-07T15:09:00+00:00"
-    },
-    {
-      "titolo": "Proteste contro i data center: spunta una ghigliottina",
-      "descrizione": "Un manifestante si è presentato con una ghigliottina alla protesta contro la realizzazione di un nuovo data center: è arrivata la moratoria. The post Proteste contro i data center: spunta una ghigliottina appeared first",
-      "link": "https://www.punto-informatico.it/proteste-contro-data-center-ghigliottina/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-07T15:06:01+00:00"
-    },
-    {
-      "titolo": "Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police",
-      "descrizione": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data center's representatives",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-07T14:32:26+00:00"
     }
   ]
 }

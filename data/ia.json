@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-09T07:17:55.428355+00:00",
+  "last_updated": "2026-08-09T13:16:44.736078+00:00",
   "items": [
     {
-      "titolo": "Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto”",
-      "descrizione": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine.",
-      "link": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T14:00:56+00:00",
+      "titolo": "Reddit: tool AI per la moderazione e altre novità",
+      "descrizione": "Reddit potenzierà la moderazione con i tool AI, semplificherà la partecipazione dei nuovi utenti e migliorerà le protezioni contro spam e scraping. The post Reddit: tool AI per la moderazione e altre novità appeared firs",
+      "link": "https://www.punto-informatico.it/reddit-tool-ai-moderazione-altre-novita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-09T09:02:21+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Fable 5: Anthropic riduce i falsi positivi in biologia",
-      "descrizione": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia app",
-      "link": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/",
+      "titolo": "Claude crea file Word, Excel, PDF e presentazioni: ecco come",
+      "descrizione": "Claude può creare documenti Word formattati, fogli di calcolo con formule e grafici, PDF impaginati e presentazioni con slide, pronti da scaricare e modificare. The post Claude crea file Word, Excel, PDF e presentazioni:",
+      "link": "https://www.punto-informatico.it/claude-crea-file-word-excel-pdf-presentazioni-come/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-08T10:40:28+00:00",
+      "data": "2026-08-09T07:30:34+00:00",
       "modello": "claude"
     }
   ]
