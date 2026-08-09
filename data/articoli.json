@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-08-09T13:16:40.345942+00:00",
+  "last_updated": "2026-08-09T19:02:29.302288+00:00",
   "items": [
+    {
+      "titolo": "X annuncia un nuovo programma di revenue sharing",
+      "descrizione": "Original Content Rewards è il nuovo programma di X che permette ai creatori di guadagnare con la pubblicazione di contenuti originali. The post X annuncia un nuovo programma di revenue sharing appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/x-annuncia-nuovo-programma-revenue-sharing/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-09T16:05:36+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 10 in offerta su Amazon, è l'affare low cost di oggi",
+      "descrizione": "La Xiaomi Smart Band 10 è in offerta su Amazon e diventa un best buy low cost: è la smartband da prendere oggi.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n666774/xiaomi-smart-band-10-offerta-amazon-agosto-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Tab S12 Ultra e S12+ vicini: nuovi render confermano il design",
+      "descrizione": "Un look decisamente familiare.",
+      "link": "https://www.hdblog.it/tablet/articoli/n666771/samsung-galaxy-tab-s12-plus-ultra-design-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-09T15:05:00+00:00"
+    },
+    {
+      "titolo": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks",
+      "descrizione": "The fearless TrashBench has been testing direct die water cooling of graphics cards and suffered most of the leaky nightmares you might expect.",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-09T14:15:00+00:00"
+    },
+    {
+      "titolo": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
+      "descrizione": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored 2,541 points in the",
+      "link": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-09T13:20:00+00:00"
+    },
     {
       "titolo": "FCC moves to ban LiDAR-equipped foreign drones from US — classifies the technology as \"military-grade\" in a proposal that could also hit thermal models and the swarms used in drone light shows",
       "descrizione": "The FCC is proposing a retroactive sales ban on previously approved foreign-made drones with LiDAR and other “military-grade” features, potentially removing several popular DJI models from U.S. stores.",
@@ -128,46 +163,11 @@
       "data": "2026-08-08T15:31:51+00:00"
     },
     {
-      "titolo": "Motorola Edge 70 Neo si fa vedere nei primi render: la fotocamera è da 200 MP",
-      "descrizione": "Scopriamo in anteprima design e una caratteristica chiave.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666743/motorola-edge-70-neo-render-fotocamera-200-mp-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T14:50:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17T Pro in offerta, è sempre più un flagship killer",
-      "descrizione": "Lo Xiaomi 17T Pro è in offerta e si conferma un vero e proprio flagship killer al prezzo a cui viene proposto.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666745/xiaomi-17t-pro-512-gb-offerta-agosto-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-08T14:45:00+00:00"
-    },
-    {
-      "titolo": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
+      "titolo": "Amazon circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
       "descrizione": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew unde",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-08T13:51:24+00:00"
-    },
-    {
-      "titolo": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
-      "descrizione": "Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits.",
-      "link": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-08T12:35:00+00:00"
-    },
-    {
-      "titolo": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
-      "descrizione": "Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers.",
-      "link": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-08T11:45:00+00:00"
-    },
-    {
-      "titolo": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
-      "descrizione": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E. coli.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-08T11:00:00+00:00"
     }
   ]
 }
