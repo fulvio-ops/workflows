@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-10T13:46:03.999846+00:00",
+  "last_updated": "2026-08-10T19:18:17.683638+00:00",
   "items": [
     {
-      "titolo": "iQOO Z11S presto in arrivo insieme a Neo 11 Ultra?",
-      "descrizione": "iQOO Z11S potrebbe essere una delle prossime novità del marchio Vivo: il possibile identikit comprende MediaTek Dimensity 7500, Android 16 e supporto alla ricarica rapida a 44 watt",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666830/iqoo-z11s-debutto-con-neo-11-ultra/",
+      "titolo": "Ghiaccio pronto in 6 minuti: la nuova macchinetta Xiaomi è piccola e costa poco",
+      "descrizione": "La nuova Xiaomi Mijia Ice Maker occupa uno spazio paragonabile a un foglio A4 e offre produzione rapida del ghiaccio, sterilizzazione UV, autopulizia e avvio programmabile",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n666877/macchina-ghiaccio-piccola-portatile-xiaomi-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-08-10T13:15:00+00:00",
+      "data": "2026-08-10T17:10:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
-      "descrizione": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks.",
-      "link": "https://www.zdnet.com/article/how-i-use-claude-cowork-record-a-skill-for-automated-research/",
-      "fonte": "Latest news",
-      "data": "2026-08-10T12:26:00+00:00",
+      "titolo": "OpenClaw usa Claude per attaccare il sito di una palestra",
+      "descrizione": "Un utente voleva solo prenotare una lezione in palestra con OpenClaw, ma l'agente AI ha deciso di trovare un posto eliminando un'altra prenotazione. The post OpenClaw usa Claude per attaccare il sito di una palestra appe",
+      "link": "https://www.punto-informatico.it/openclaw-usa-claude-attaccare-sito-palestra/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T17:19:08+00:00",
       "modello": "claude"
     }
   ]
