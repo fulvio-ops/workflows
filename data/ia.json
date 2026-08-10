@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-10T02:35:41.202280+00:00",
+  "last_updated": "2026-08-10T08:05:18.925398+00:00",
   "items": [
     {
-      "titolo": "Reddit: tool AI per la moderazione e altre novità",
-      "descrizione": "Reddit potenzierà la moderazione con i tool AI, semplificherà la partecipazione dei nuovi utenti e migliorerà le protezioni contro spam e scraping. The post Reddit: tool AI per la moderazione e altre novità appeared firs",
-      "link": "https://www.punto-informatico.it/reddit-tool-ai-moderazione-altre-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-09T09:02:21+00:00",
+      "titolo": "OpenAI compra NextSlide: le presentazioni non saranno più le stesse",
+      "descrizione": "OpenAI acquisisce NextSlide per portare l'AI generativa nelle presentazioni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666760/openai-acquisisce-nextslide/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T06:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude crea file Word, Excel, PDF e presentazioni: ecco come",
-      "descrizione": "Claude può creare documenti Word formattati, fogli di calcolo con formule e grafici, PDF impaginati e presentazioni con slide, pronti da scaricare e modificare. The post Claude crea file Word, Excel, PDF e presentazioni:",
-      "link": "https://www.punto-informatico.it/claude-crea-file-word-excel-pdf-presentazioni-come/",
+      "titolo": "Claude Code attiva la modalità automatica di default, cosa cambia",
+      "descrizione": "Dal 14 agosto Claude Code attiva la modalità automatica per Pro, Max e Team. L'89% delle azioni dannose viene intercettato. The post Claude Code attiva la modalità automatica di default, cosa cambia appeared first on Pun",
+      "link": "https://www.punto-informatico.it/claude-code-attiva-modalita-automatica-default-cosa-cambia/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-09T07:30:34+00:00",
+      "data": "2026-08-10T07:29:38+00:00",
       "modello": "claude"
     }
   ]
