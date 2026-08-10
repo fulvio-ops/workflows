@@ -1,12 +1,145 @@
 {
-  "last_updated": "2026-08-10T08:05:14.502833+00:00",
+  "last_updated": "2026-08-10T13:45:59.473072+00:00",
   "items": [
     {
-      "titolo": "A Dubai arriva la Raining Street: pioggia artificiale contro il caldo estremo",
-      "descrizione": "A Dubai una strada con pioggia artificiale mantiene 27 °C anche con 47 °C all'esterno.",
-      "link": "https://www.hdblog.it/green/articoli/n666785/dubai-raining-street-pioggia-artificiale/",
+      "titolo": "iQOO Z11S presto in arrivo insieme a Neo 11 Ultra?",
+      "descrizione": "iQOO Z11S potrebbe essere una delle prossime novità del marchio Vivo: il possibile identikit comprende MediaTek Dimensity 7500, Android 16 e supporto alla ricarica rapida a 44 watt",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666830/iqoo-z11s-debutto-con-neo-11-ultra/",
       "fonte": "HDblog.it",
-      "data": "2026-08-10T07:55:00+00:00"
+      "data": "2026-08-10T13:15:00+00:00"
+    },
+    {
+      "titolo": "SPID o CIE? I numeri ufficiali dicono cosa usano gli italiani",
+      "descrizione": "SPID resta il sistema più usato per accedere ai servizi online della PA, ma CIE cresce rapidamente: il confronto con i dati ufficiali. The post SPID o CIE? I numeri ufficiali dicono cosa usano gli italiani appeared first",
+      "link": "https://www.punto-informatico.it/spid-cie-numeri-ufficiali-cosa-usano-italiani/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T12:32:47+00:00"
+    },
+    {
+      "titolo": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+      "descrizione": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks.",
+      "link": "https://www.zdnet.com/article/how-i-use-claude-cowork-record-a-skill-for-automated-research/",
+      "fonte": "Latest news",
+      "data": "2026-08-10T12:26:00+00:00"
+    },
+    {
+      "titolo": "AI data center bans surge past 500 nationwide as local US politicians begin blocking new developments — growing public outrage and bipartisan pushback threaten big tech expansion plans",
+      "descrizione": "New AI data center development bans jumped to over 500 in July, according to recent analysis, with political and public pressure growing.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-bans-surge-past-500-nationwide-as-local-us-politicians-begin-blocking-new-developments-growing-public-outrage-and-bipartisan-pushback-threaten-big-tech-expansion-plans",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-10T12:25:51+00:00"
+    },
+    {
+      "titolo": "Microsoft Planner cambia interfaccia: il nuovo design arriva a settembre",
+      "descrizione": "Microsoft prepara il rollout della nuova interfaccia di Planner: il redesign arriverà da settembre 2026 con navigazione semplificata e maggiore coerenza tra Web e Teams",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666829/microsoft-planner-aggiornato-cosa-cambia-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T12:15:00+00:00"
+    },
+    {
+      "titolo": "FAW: i pionieri dell'auto cinese arrivano in Italia, la gamma proposta",
+      "descrizione": "Il colosso cinese FAW sbarca in Italia con China Car Company. In arrivo i modelli T77, T90, B70S e la JoyEE 08 PHEV, in attesa dell'elettrica Joy EE04 nel 2027.",
+      "link": "https://www.hdmotori.it/faw-bestune-italia-models-china-car-company/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T12:00:17+00:00"
+    },
+    {
+      "titolo": "Mercato memorie, anomalia storica: la RAM costa quanto nel 2007",
+      "descrizione": "La produzione di memoria cresce molto più lentamente della domanda generata dall’AI. Il risultato è un’anomalia storica che ha riportato il costo della RAM ai livelli di quasi vent’anni fa",
+      "link": "https://www.hdblog.it/hardware/articoli/n666825/mercato-memorie-anomalia-storica-la-ram-costa-quanto-nel-2007/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T11:45:00+00:00"
+    },
+    {
+      "titolo": "Precisione astronomica e meraviglia visiva: l’eclissi di Sole al tramonto si vedrà anche dall’Italia",
+      "descrizione": "Ci siamo: il 12 agosto 2026 il cielo regalerà uno degli spettacoli naturali più affascinanti: un’eclissi di Sole visibile anche dall’Italia, nelle ore del tramonto. Un evento che unisce precisione...",
+      "link": "https://www.ilsole24ore.com/art/precisione-astronomica-e-meraviglia-visiva-l-eclissi-sole-tramonto-si-vedra-anche-dall-italia-AJHGALf",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-10T11:10:03+00:00"
+    },
+    {
+      "titolo": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
+      "descrizione": "The approach is like a Costco for heat pumps, and it’s helping make installations more accessible as heat waves worsen.",
+      "link": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
+      "fonte": "WIRED",
+      "data": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "titolo": "DJI Osmo 360 II si mostra prima del lancio: batteria più grande e video 8K",
+      "descrizione": "DJI Osmo 360 II compare in un video unboxing prima della presentazione del 13 agosto: design familiare, batteria da 2.150 mAh e possibile registrazione video 360 in 8K a 50 fps",
+      "link": "https://www.hdblog.it/fotografia/articoli/n666820/dji-osmo-360-ii-video-unboxing-immagini-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T10:45:00+00:00"
+    },
+    {
+      "titolo": "Sony Xperia 1 IX: primo avvistamento per il top di gamma del 2027",
+      "descrizione": "In anticipo rispetto ai predecessori.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666817/sony-xperia-1-ix-certificazione-lancio-2027-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T10:40:00+00:00"
+    },
+    {
+      "titolo": "Mini friggitrice ad aria e macchina da caffè vintage: le offerte del volantino Lidl",
+      "descrizione": "Il volantino Lidl della settimana è ricco di prodotti Silvercrest per la cucina: macinacaffè, tostapane, bollitore, friggitrice ad aria, planetaria e macchina da caffè a prezzi per tutti",
+      "link": "https://www.hdblog.it/home/articoli/n666823/lidl-nuovo-volantino-macchina-caffe-planetaria/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T10:35:00+00:00"
+    },
+    {
+      "titolo": "La Suzuki Jimny diventa una supercar: assetto ribassato e look anni ‘70",
+      "descrizione": "Una rappresentazione grafica ha svelato le linee di una versione coupé della Suzuki Jimny. Il DNA 4x4 ha lasciato spazio a una estetica estrema.",
+      "link": "https://www.hdmotori.it/suzuki-jimny-supercar-assetto-ribassato/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T10:30:07+00:00"
+    },
+    {
+      "titolo": "Citizen amplia la gamma Dress Classic con due nuovi Eco-Drive",
+      "descrizione": "Due nuovi Citizen Eco-Drive con vetro zaffiro, design classico e autonomia a luce.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666782/citizen-eco-drive-dress-classic-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-10T10:25:00+00:00"
+    },
+    {
+      "titolo": "Scegli Iliad ad agosto 2026, ecco le offerte da 7,99 euro al mese per sempre",
+      "descrizione": "Con Iliad è possibile scegliere una nuova offerta a prezzo fisso per sempre, ecco le promo da attivare ad agosto 2026 per una nuova SIM. The post Scegli Iliad ad agosto 2026, ecco le offerte da 7,99 euro al mese per semp",
+      "link": "https://www.punto-informatico.it/scegli-iliad-ad-agosto-2026-ecco-le-offerte-da-799-euro-al-mese-per-sempre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T10:10:18+00:00"
+    },
+    {
+      "titolo": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice — farmer trusted pesticide recipe after months of successful advice",
+      "descrizione": "A farmer in China followed an AI app's advice for his 25-acre farmland, resulting in the death of his entire crop of sesame seedlings. 67-year-old man was initially skeptical of the tool but eventually trusted it after m",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-10T10:00:00+00:00"
+    },
+    {
+      "titolo": "Linux: disponibile la distro iDeal OS 4.4, basata su MX e Debian",
+      "descrizione": "Tra le distro Linux, la nuova versione di iDeal OS introduce repository ufficiale, kernel Liquorix e Waterfox come browser predefinito. The post Linux: disponibile la distro iDeal OS 4.4, basata su MX e Debian appeared f",
+      "link": "https://www.punto-informatico.it/linux-distro-ideal-os-4-4/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T09:43:53+00:00"
+    },
+    {
+      "titolo": "5 offerte tech per l’intrattenimento a prezzo folle su Amazon",
+      "descrizione": "Dai un'occhiata immediatamente a queste 5 offerte tech dedicate all'intrattenimento disponibili a prezzo folle solo ed unicamente su Amazon. The post 5 offerte tech per l’intrattenimento a prezzo folle su Amazon appeared",
+      "link": "https://www.punto-informatico.it/5-offerte-tech-per-lintrattenimento-a-prezzo-folle-su-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T09:32:46+00:00"
+    },
+    {
+      "titolo": "7 offerte tech bollenti su eBay",
+      "descrizione": "Abbiamo selezionato 7 offerte tech bollenti in esclusiva su eBay a un prezzo decisamente conveniente e imperdibile, anche a tasso zero. The post 7 offerte tech bollenti su eBay appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/7-offerte-tech-bollenti-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T09:24:46+00:00"
+    },
+    {
+      "titolo": "Xiaomi TV F 55 UHD 4K da 55 pollici a soli 324€ su Amazon, anche tasso zero",
+      "descrizione": "La televisione smart Xiaomi TV F 55 con un display da 55 pollici e tecnologia UHD 4K è in offerta su Amazon a soli 324€, anche a tasso zero. The post Xiaomi TV F 55 UHD 4K da 55 pollici a soli 324€ su Amazon, anche tasso",
+      "link": "https://www.punto-informatico.it/xiaomi-tv-f-55-uhd-4k-55-pollici-soli-324-euro-amazon-anche-tasso-zero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-10T08:18:02+00:00"
     },
     {
       "titolo": "Amazon costruisce un data center senza informare i cittadini",
@@ -14,13 +147,6 @@
       "link": "https://www.punto-informatico.it/amazon-costruisce-data-center-senza-informare-cittadini/",
       "fonte": "Punto Informatico",
       "data": "2026-08-10T07:48:01+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia una lavapavimenti con vapore a 160 °C e schiuma detergente",
-      "descrizione": "La nuova lavapavimenti Xiaomi aggiunge un sistema che distribuisce schiuma detergente contro grasso e macchie difficili, mantenendo vapore a 160 °C e aspirazione da 26mila Pa",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n666787/xiaomi-mijia-floor-scrubber-5-pro-foam-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T07:45:00+00:00"
     },
     {
       "titolo": "Logitech M720 Triathlon: mouse wireless multidispositivo con 6 tasti programmabili",
@@ -42,132 +168,6 @@
       "link": "https://www.punto-informatico.it/germania-aspettato-25-anni-return-to-castle-wolfenstein/",
       "fonte": "Punto Informatico",
       "data": "2026-08-10T07:20:47+00:00"
-    },
-    {
-      "titolo": "Eclissi solare totale del 12 agosto 2026: dove vederla al meglio",
-      "descrizione": "L'Europa si prepara all'eclissi solare totale del 12 agosto 2026, visibile anche dall'Italia.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n659460/eclissi-solare-12-agosto-2026-dove-vederla/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T07:05:00+00:00"
-    },
-    {
-      "titolo": "Data center: dopo l’arresto per un applauso, solo riunioni virtuali",
-      "descrizione": "Proteste e minacce hanno spinto l'amministrazione di Emporia a spostare online le riunioni sui data center, togliendo parola ai cittadini. The post Data center: dopo l’arresto per un applauso, solo riunioni virtuali appe",
-      "link": "https://www.punto-informatico.it/data-center-arresto-applauso-solo-riunioni-virtuali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T06:55:34+00:00"
-    },
-    {
-      "titolo": "Apple Watch: probabile un nuovo modello senza schermo",
-      "descrizione": "L'azienda di Cupertino potrebbe annunciare in futuro un Apple Watch senza schermo (più leggero ed economico), seguendo l'attuale trend del settore. The post Apple Watch: probabile un nuovo modello senza schermo appeared",
-      "link": "https://www.punto-informatico.it/apple-watch-probabile-nuovo-modello-senza-schermo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T06:50:35+00:00"
-    },
-    {
-      "titolo": "Denti splendenti e gengive sane con Oral-B iO2 a soli 69€ in confezione da 2",
-      "descrizione": "Approfitta di questa promozione eccezionale per avere ben 2 Oral-B iO2 a soli 69 euro circa, più base di ricarica e custodia da viaggio. The post Denti splendenti e gengive sane con Oral-B iO2 a soli 69€ in confezione da",
-      "link": "https://www.punto-informatico.it/denti-splendenti-gengive-sane-con-oral-b-io2-soli-69e-confezione-da-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T06:43:50+00:00"
-    },
-    {
-      "titolo": "Il caso dello spiralismo, la religione creata dall’AI",
-      "descrizione": "Migliaia di utenti hanno raccontato conversazioni con chatbot che parlavano di spiralismo, una presunta religione dell'AI da diffondere. The post Il caso dello spiralismo, la religione creata dall’AI appeared first on Pu",
-      "link": "https://www.punto-informatico.it/spiralismo-religione-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T06:21:20+00:00"
-    },
-    {
-      "titolo": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-      "descrizione": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
-      "link": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
-      "fonte": "WIRED",
-      "data": "2026-08-10T06:00:00+00:00"
-    },
-    {
-      "titolo": "Su Marte la guida autonoma funziona meglio di quanto immaginassimo",
-      "descrizione": "Perseverance guida quasi da solo su Marte e cambia il futuro delle missioni spaziali.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666761/perseverance-guida-autonoma-marte/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T05:55:00+00:00"
-    },
-    {
-      "titolo": "X cambia le regole: addio ai guadagni facili, ora conta davvero creare",
-      "descrizione": "X cambia la monetizzazione: premi ai contenuti originali, stop ai semplici repost.",
-      "link": "https://www.hdblog.it/mercato/articoli/n666762/x-original-content-rewards/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T05:45:00+00:00"
-    },
-    {
-      "titolo": "Anche Kimi K3 scappa dal sandbox: l'AI cinese riaccende l'allarme sicurezza",
-      "descrizione": "Kimi K3 esce dal sandbox di test sfruttando una configurazione errata, senza hackerare sistemi esterni.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n666763/kimi-k3-fuga-sandbox-test-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T05:35:00+00:00"
-    },
-    {
-      "titolo": "Scoperto un nuovo materiale prodotto dalla bomba atomica di Hiroshima",
-      "descrizione": "Gli scienziati hanno scoperto uno strano nuovo materiale nato dall'esplosione della bomba atomica di Hiroshima che poteva formarsi solo così. The post Scoperto un nuovo materiale prodotto dalla bomba atomica di Hiroshima",
-      "link": "https://www.punto-informatico.it/scoperto-nuovo-materiale-prodotto-bomba-atomica-hiroshima/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T05:30:07+00:00"
-    },
-    {
-      "titolo": "Una proteina della carne è stata coltivata nella lattuga",
-      "descrizione": "Per la prima volta, una proteina chiave della carne è stata coltivata nella lattuga e questo potrebbe ridurre l'impatto del consumo di carne. The post Una proteina della carne è stata coltivata nella lattuga appeared fir",
-      "link": "https://www.punto-informatico.it/proteina-carne-coltivata-lattuga/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T05:00:19+00:00"
-    },
-    {
-      "titolo": "NordVPN, la doppia offerta di agosto: 3 Giga eSIM gratuiti e fino al 73% di sconto",
-      "descrizione": "La promozione in corso è una delle migliori in ambito VPN per l'estate 2026. The post NordVPN, la doppia offerta di agosto: 3 Giga eSIM gratuiti e fino al 73% di sconto appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/nordvpn-la-doppia-offerta-di-agosto-3-giga-esim-gratuiti-e-fino-al-73-di-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-09T18:04:15+00:00"
-    },
-    {
-      "titolo": "Disney+, sei mesi con sconti fino al 25% rispetto ai piani mensili",
-      "descrizione": "Al termine i piani si rinnovano in automatico al prezzo in vigore al momento del pagamento, a meno che non si scelga di disdire prima. The post Disney+, sei mesi con sconti fino al 25% rispetto ai piani mensili appeared",
-      "link": "https://www.punto-informatico.it/disney-sei-mesi-con-sconti-fino-al-25-rispetto-ai-piani-mensili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-09T17:02:13+00:00"
-    },
-    {
-      "titolo": "X annuncia un nuovo programma di revenue sharing",
-      "descrizione": "Original Content Rewards è il nuovo programma di X che permette ai creatori di guadagnare con la pubblicazione di contenuti originali. The post X annuncia un nuovo programma di revenue sharing appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/x-annuncia-nuovo-programma-revenue-sharing/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-09T16:05:36+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Band 10 in offerta su Amazon, è l'affare low cost di oggi",
-      "descrizione": "La Xiaomi Smart Band 10 è in offerta su Amazon e diventa un best buy low cost: è la smartband da prendere oggi.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n666774/xiaomi-smart-band-10-offerta-amazon-agosto-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-09T16:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Tab S12 Ultra e S12+ vicini: nuovi render confermano il design",
-      "descrizione": "Un look decisamente familiare.",
-      "link": "https://www.hdblog.it/tablet/articoli/n666771/samsung-galaxy-tab-s12-plus-ultra-design-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-09T15:05:00+00:00"
-    },
-    {
-      "titolo": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks",
-      "descrizione": "The fearless TrashBench has been testing direct die water cooling of graphics cards and suffered most of the leaky nightmares you might expect.",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-09T14:15:00+00:00"
-    },
-    {
-      "titolo": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
-      "descrizione": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored 2,541 points in the",
-      "link": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-09T13:20:00+00:00"
     }
   ]
 }
