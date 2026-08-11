@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-11T07:38:49.560173+00:00",
+  "last_updated": "2026-08-11T13:44:05.017365+00:00",
   "items": [
     {
-      "titolo": "OpenAI annuncia GPT-5.6-Cyber e novità per Daybreak",
-      "descrizione": "GPT-5.6-Cyber è il modello sviluppato da OpenAI con meno restrizioni di GPT-5.6 Sol che può essere sfruttato per trovare e risolvere le vulnerabilità. The post OpenAI annuncia GPT-5.6-Cyber e novità per Daybreak appeared",
-      "link": "https://www.punto-informatico.it/openai-annuncia-gpt-5-6-cyber-novita-daybreak/",
+      "titolo": "ChatGPT down: tutti gli aggiornamenti sui problemi dell’11 agosto",
+      "descrizione": "Tutti gli aggiornamenti sul down di ChatGPT di martedì 11 agosto 2026: problemi con l'app desktop, con le conversazioni e con Work. The post ChatGPT down: tutti gli aggiornamenti sui problemi dell’11 agosto appeared firs",
+      "link": "https://www.punto-informatico.it/chatgpt-down-11082026/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-11T07:29:35+00:00",
+      "data": "2026-08-11T12:58:56+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "How to Disable Gemini in Gmail and Google Docs",
-      "descrizione": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "fonte": "WIRED",
-      "data": "2026-08-08T10:00:00+00:00",
+      "titolo": "Gemini ascolta di nascosto? Gli utenti segnalano attivazioni automatiche in auto",
+      "descrizione": "Pare che Google abbia attivato silenziosamente l'ascolto ambientale di Gemini in modalità guida.",
+      "link": "https://www.hdblog.it/google/articoli/n666925/gemini-attiva-solo-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T11:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code attiva la modalità Auto: meno conferme, più autonomia per gli sviluppatori",
-      "descrizione": "Claude Code userà la modalità Auto di default, riducendo gli interventi degli sviluppatori.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666861/claude-code-auto-mode-default/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T05:35:00+00:00",
+      "titolo": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "descrizione": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "fonte": "WIRED",
+      "data": "2026-08-11T11:00:00+00:00",
       "modello": "claude"
     }
   ]
