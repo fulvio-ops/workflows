@@ -1,33 +1,138 @@
 {
-  "last_updated": "2026-08-11T13:44:01.702714+00:00",
+  "last_updated": "2026-08-11T19:26:40.595946+00:00",
   "items": [
     {
-      "titolo": "Stellantis, svelato il propulsore elettrico per chi sogna il V8: addio turbo lag",
-      "descrizione": "Con un nuovo compressore elettrico i tecnici intendono eliminare il turbo lag. Scopriamo cosa ha partorito la divisione performance Stellantis SRT",
-      "link": "https://www.hdmotori.it/stellantis-propulsore-elettrico-v8-turbo-lag/",
+      "titolo": "Quale smartwatch comprare oggi? I nostri consigli | Video",
+      "descrizione": "Dipende tutto da come lo utilizziamo: ecco qualche utile consiglio.",
+      "link": "https://www.hdblog.it/indossabili/consigli/n666411/quale-smartwatch-comprare-oggi-consigli-video/",
       "fonte": "HDblog.it",
-      "data": "2026-08-11T13:30:57+00:00"
+      "data": "2026-08-11T18:40:00+00:00"
     },
     {
-      "titolo": "Mercedes-AMG: il nuovo SUV sportivo si avvicina al debutto",
-      "descrizione": "Design sportivo, piattaforma AMG.EA e potenze fino a 1.169 CV per l'inedito SUV del marchio di Affalterbach.",
-      "link": "https://www.hdmotori.it/mercedes-amg-nuovo-suv-sportivo-debutto/",
+      "titolo": "AI ed energia pulita: nasce il campus che cambia le regole dei data center",
+      "descrizione": "Un enorme campus AI userà energia rinnovabile per alimentare fino a un milione di acceleratori.",
+      "link": "https://www.hdblog.it/green/articoli/n666846/envision-galaxy-campus-ai-rinnovabili/",
       "fonte": "HDblog.it",
-      "data": "2026-08-11T13:00:13+00:00"
+      "data": "2026-08-11T17:30:00+00:00"
     },
     {
-      "titolo": "Da domani cambiano gli imballaggi alimentari: l’UE frena gli inquinanti eterni",
-      "descrizione": "Dal 12 agosto 2026 iniziano ad applicarsi nell’Unione europea le nuove regole PPWR sugli imballaggi: il primo cambiamento riguarda i limiti agli PFAS nei materiali destinati al contatto con gli...",
-      "link": "https://www.hdblog.it/home/articoli/n666934/nuove-regole-ue-imballaggi-alimentari-cosa-cambia/",
+      "titolo": "Superconduttori ultrasottili: il passo che può cambiare il futuro dei computer quantistici",
+      "descrizione": "Superconduttori atomici più stabili potrebbero rendere i chip quantistici più piccoli ed efficienti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666853/superconduttori-ultrasottili-dispositivi-quantum/",
       "fonte": "HDblog.it",
-      "data": "2026-08-11T12:45:00+00:00"
+      "data": "2026-08-11T17:15:00+00:00"
     },
     {
-      "titolo": "Tre anni e il vecchio record è battuto: nuovo picco per la temperatura degli oceani",
-      "descrizione": "Luglio 2026 ha segnato un nuovo record per la temperatura superficiale degli oceani lontani dai poli, con una media di 20,96 °C secondo Copernicus, superando il precedente massimo del 2023",
-      "link": "https://www.hdblog.it/green/articoli/n666932/temperatura-oceani-record-riscaldamento-globale/",
+      "titolo": "Sony e TSMC verso un maxi investimento da 6,4 miliardi nei sensori d’immagine",
+      "descrizione": "Una nuova joint venture tra Sony Semiconductor Solutions e TSMC potrebbe realizzare a Kumamoto capacità produttiva dedicata ai sensori d’immagine, con l’obiettivo di avviare la produzione nel 2029",
+      "link": "https://www.hdblog.it/hardware/articoli/n666983/sony-tsmc-investimento-sensori/",
       "fonte": "HDblog.it",
-      "data": "2026-08-11T12:15:00+00:00"
+      "data": "2026-08-11T17:05:00+00:00"
+    },
+    {
+      "titolo": "Cina, esplode in volo il razzo Lunga Marcia 7A: cosa è successo",
+      "descrizione": "Spettacolare incidente al lancio del Lunga Marcia 7A: il razzo cinese esplode durante il Max-Q. A rischio il calendario spaziale 2026. The post Cina, esplode in volo il razzo Lunga Marcia 7A: cosa è successo appeared fir",
+      "link": "https://www.punto-informatico.it/cina-esplode-volo-razzo-lunga-marcia-7a-cose-successo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T17:01:45+00:00"
+    },
+    {
+      "titolo": "Fabbriche sulla Luna e robot operai: il nuovo obiettivo di SpaceX",
+      "descrizione": "SpaceX accelera sul piano di fabbriche lunari gestite da robot per costruire satelliti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666859/spacex-fabbriche-luna/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T16:55:00+00:00"
+    },
+    {
+      "titolo": "Truffa con smishing: INPS usa l’AI per verificare i documenti",
+      "descrizione": "I cybercriminali chiedono alle ignare vittime di fornire numerosi dati personali attraverso un falso sito INPS che sfrutta l'intelligenza artificiale. The post Truffa con smishing: INPS usa l’AI per verificare i document",
+      "link": "https://www.punto-informatico.it/truffa-smishing-inps-usa-ai-verificare-documenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T16:42:13+00:00"
+    },
+    {
+      "titolo": "L’auto del domani controllerà la salute mentre guidiamo: così potrà prevenire i malori",
+      "descrizione": "Volante con ECG, telecamere, microfoni e sensori ottici: l’Automotive Health studia auto capaci di monitorare i parametri vitali durante la guida",
+      "link": "https://www.hdmotori.it/auto-monitora-salute-guida-malori/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T16:30:31+00:00"
+    },
+    {
+      "titolo": "Timex rinnova la linea Waterbury con modelli classici e prezzi accessibili",
+      "descrizione": "Timex rinnova la famiglia Waterbury con modelli classici, eleganti e convenienti.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666856/timex-waterbury-classic-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T16:25:00+00:00"
+    },
+    {
+      "titolo": "Il paradosso dell'auto usata, un'elettrica ora costa meno di una a benzina",
+      "descrizione": "Un'analisi AutoUncle rivela come le auto elettriche del 2022 abbiano perso il 49% del valore in 4 anni. Un crollo da 455€ al mese che stacca nettamente le benzina",
+      "link": "https://www.hdmotori.it/auto-elettriche-usate-prezzi-confronto-benzina/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T16:00:49+00:00"
+    },
+    {
+      "titolo": "La Cina affida all'AI il coordinamento degli attacchi aerei di massa",
+      "descrizione": "La Cina presenta un sistema AI per pianificare attacchi aerei complessi e coordinati.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666850/cina-ai-attacchi-aerei/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T15:55:00+00:00"
+    },
+    {
+      "titolo": "Dipendenza dai social media: oltre 3.000 cause negli USA",
+      "descrizione": "Meta, TikTok e altre aziende dovranno affrontare un processo che riunisce oltre 3.000 cause relative alla dipendenza creata dalle piattaforme social. The post Dipendenza dai social media: oltre 3.000 cause negli USA appe",
+      "link": "https://www.punto-informatico.it/dipendenza-social-media-oltre-3000-cause-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T15:40:23+00:00"
+    },
+    {
+      "titolo": "ErgoCub, il robot italiano che collabora davvero con le persone",
+      "descrizione": "ErgoCub usa AI e sensori per collaborare con i lavoratori riducendo fatica e rischi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666849/ergocub-robot-umanoide-collaborazione-uomo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T15:35:00+00:00"
+    },
+    {
+      "titolo": "Questa “scatola” su gomma produce più energia di quanto ne consumi: c'è lo zampino di BMW",
+      "descrizione": "Deep Orange 17 è il prototipo solare della Clemson University sviluppato con il supporto di BMW: pesa 550 kg e integra oltre 1.700 celle fotovoltaiche",
+      "link": "https://www.hdmotori.it/deep-orange-auto-solare-bmw/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T15:30:38+00:00"
+    },
+    {
+      "titolo": "NASA+ arriva su HBO Max e discovery+: lo spazio entra nello streaming",
+      "descrizione": "NASA+ arriva su HBO Max e discovery+ con dirette spaziali e contenuti in Dolby Vision.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666919/nasa-plus-hbo-max-discovery-streaming/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T15:15:00+00:00"
+    },
+    {
+      "titolo": "Ariel Rider Mudd 72V: la e-bike fuoristrada che punta ai 104 km/h",
+      "descrizione": "Ariel Rider presenta Mudd 72V, la nuova e-bike fuoristrada da 104 km/h e 8.000W di picco. Scopri scheda tecnica, autonomia, dettagli della ciclistica e prezzo di lancio.",
+      "link": "https://www.hdmotori.it/ariel-rider-mudd-72v-ebike-fuoristrada/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T14:30:15+00:00"
+    },
+    {
+      "titolo": "Il Parlamento europeo vuole Piracy Shield in tutti i paesi?",
+      "descrizione": "Uno studio commissionato dal Parlamento UE suggerisce di introdurre una legge che permette di bloccare lo streaming illegale come avviene in Italia. The post Il Parlamento europeo vuole Piracy Shield in tutti i paesi? ap",
+      "link": "https://www.punto-informatico.it/parlamento-europeo-vuole-piracy-shield-tutti-paesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T14:17:16+00:00"
+    },
+    {
+      "titolo": "Artisti AI su Spotify, sta per arrivare il badge dedicato",
+      "descrizione": "Spotify introduce il badge AI Persona per identificare gli artisti creati con l'intelligenza artificiale e limitarne le raccomandazioni. The post Artisti AI su Spotify, sta per arrivare il badge dedicato appeared first o",
+      "link": "https://www.punto-informatico.it/artisti-ai-spotify-badge/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T14:09:15+00:00"
+    },
+    {
+      "titolo": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+      "descrizione": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "fonte": "Latest news",
+      "data": "2026-08-11T13:00:00+00:00"
     },
     {
       "titolo": "Packaging, cambiano le regole in Europa: stop ai PFAS",
@@ -37,39 +142,11 @@
       "data": "2026-08-11T12:14:00+00:00"
     },
     {
-      "titolo": "Alfa Romeo UK regala un corso di guida in Italia a chi acquista una Quadrifoglio",
-      "descrizione": "Comprare una Giulia o Stelvio Quadrifoglio e guidare in pista a Varano de' Melegari: l'iniziativa di Alfa Romeo UK valida fino al 30 novembre.",
-      "link": "https://www.hdmotori.it/alfa-romeo-uk-corso-guida-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T12:00:46+00:00"
-    },
-    {
-      "titolo": "Gemini ascolta di nascosto? Gli utenti segnalano attivazioni automatiche in auto",
-      "descrizione": "Pare che Google abbia attivato silenziosamente l'ascolto ambientale di Gemini in modalità guida.",
-      "link": "https://www.hdblog.it/google/articoli/n666925/gemini-attiva-solo-auto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T11:55:00+00:00"
-    },
-    {
       "titolo": "$580 million undersea cable rerouted to avoid the grave of Dobby the House Elf — company caves to fan demands to safeguard Harry Potter filming location, will instead pass by Bronze Age burial site",
       "descrizione": "The Greenlink Connector project, which will connect the grid of Ireland and Wales, had to reroute its path after Harry Potter fans complained that it would 'desecrate' the 'grave' of beloved character Dobby. The change o",
       "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-11T11:47:22+00:00"
-    },
-    {
-      "titolo": "Gemini Notebook, in arrivo le app generate direttamente dai documenti",
-      "descrizione": "Una nuova voce App è comparsa nel pannello Studio di Gemini Notebook: attraverso un prompt, l’intelligenza artificiale potrebbe utilizzare le fonti caricate per realizzare dashboard, giochi e altri...",
-      "link": "https://www.hdblog.it/google/articoli/n666929/gemini-notebook-app-in-arrivo-notebooklm/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T11:45:00+00:00"
-    },
-    {
-      "titolo": "La soundbar low cost di Xiaomi oggi costa 39,99 euro: affare su eBay",
-      "descrizione": "Un'ottima occasione per TV e PC.",
-      "link": "https://www.hdblog.it/tv/offerte/n666931/soundbar-low-cost-xiaomi-oggi-costa-39-euro-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T11:24:00+00:00"
     },
     {
       "titolo": "YouTube raddoppia le soglie per monetizzare: che fatica, guadagnare!",
@@ -79,13 +156,6 @@
       "data": "2026-08-11T11:21:55+00:00"
     },
     {
-      "titolo": "Ciarra porta in Europa i nuovi radiatori elettrici smart fino a 2 kW",
-      "descrizione": "Ciarra amplia la gamma per il riscaldamento domestico con nuovi radiatori e termoconvettori elettrici da 1, 1,5 e 2 kW, già disponibili nella maggior parte dei Paesi europei",
-      "link": "https://www.hdblog.it/home/articoli/n666926/ciarra-radiatori-e-termoconvettori-elettrici-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T11:15:00+00:00"
-    },
-    {
       "titolo": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
       "descrizione": "Nvidia to arrange financing from major financial institutions at attractive rates for customers seeking to build AI data centers.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
@@ -93,81 +163,11 @@
       "data": "2026-08-11T11:04:32+00:00"
     },
     {
-      "titolo": "Eccentrica V12 Roadster, la Lamborghini Diablo ritorna in vita in un restomod epocale",
-      "descrizione": "Fate largo alla Eccentrica V12 Roadster, un bolide che si pone l’obiettivo di eguagliare il fascino della Lamborghini Diablo.",
-      "link": "https://www.hdmotori.it/eccentrica-v12-roadster-restomod-lamborghini-diablo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T11:00:02+00:00"
-    },
-    {
       "titolo": "Japanese authorities use new tool to identify initial torrent uploaders — anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring",
       "descrizione": "Japanese authorities have taken a big step in cracking down on piracy by arresting an initial-seeder at popular anime torrenting website Nyaa.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-11T11:00:00+00:00"
-    },
-    {
-      "titolo": "Modder adds Radeon RX 9070 XT eGPU to Steam Machine, runs Crimson Desert at over 100 FPS on High — moves boot drive to USB-C port, leverages M.2 to OCuLink adaptor and eGPU dock",
-      "descrizione": "A Redditor has successfully connected a very powerful eGPU the Steam Machine via an M.2 to OCuLink adapter.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modder-adds-radeon-rx-9070-xt-egpu-to-steam-machine-runs-crimson-desert-at-over-100-fps-on-high-moves-boot-drive-to-usb-c-port-leverages-m-2-to-oculink-adaptor-and-egpu-dock",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T10:57:43+00:00"
-    },
-    {
-      "titolo": "WhatsApp integra gli username nella scheda dei nuovi contatti: cosa cambia",
-      "descrizione": "WhatsApp aggiunge un campo per gli username nella scheda dedicata all'aggiunta di un nuovo contatto.",
-      "link": "https://www.hdblog.it/android/articoli/n666904/whatsapp-aggiornamento-username-contatti/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T10:55:00+00:00"
-    },
-    {
-      "titolo": "L’AI può aiutare il clima, ma potrebbe favorire molto di più petrolio e gas",
-      "descrizione": "L’intelligenza artificiale migliora anche efficienza e produzione delle energie rinnovabili, ma secondo un nuovo studio i vantaggi potrebbero non compensare quelli ottenuti dal settore fossile",
-      "link": "https://www.hdblog.it/green/articoli/n666922/ai-aiuta-lenergia-fossile/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T10:35:00+00:00"
-    },
-    {
-      "titolo": "Laser wireless charging could keep drones airborne indefinitely — improved receiver converts at 38.49% efficiency and uses nanocrystalline material for thermals",
-      "descrizione": "Researchers use a ground-based laser to wirelessly deliver power to drones, potentially allowing them to stay airborne without landing to recharge.",
-      "link": "https://www.tomshardware.com/tech-industry/drones/wireless-ota-charging-with-lasers-could-keep-drones-airborne-indefinitely-improved-receiver-converts-at-38-49-percent-efficiency-and-uses-nanocrystalline-material-for-thermals",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T10:30:00+00:00"
-    },
-    {
-      "titolo": "Giardini e pannelli solari insieme: il biosolar roof cambia le città",
-      "descrizione": "Pannelli solari e vegetazione insieme portano notevoli benefici.",
-      "link": "https://www.hdblog.it/green/articoli/n666915/giardini-pannelli-solari-biosolar-roof-citta/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T10:15:00+00:00"
-    },
-    {
-      "titolo": "Minimal Phone 2, le specifiche: display OLED, tastiera QWERTY e chip MediaTek",
-      "descrizione": "Parte la campagna Kickstarter di Minimal Phone 2: ecco cosa c'è da sapere",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666900/minimal-phone-2-specifiche-dettagli/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T10:05:00+00:00"
-    },
-    {
-      "titolo": "Gamer recruitment drive results in ‘supercharged’ hiring campaign for new Air Traffic Controllers — 94% hiring goal hit in record time with $155,000 salary potential; ‘the strongest, sharpest workforce in aviation histor",
-      "descrizione": "The campaign to recruit video gamers into Air Traffic Control jobs has been a resounding success, according to U.S. Department of Transport head Secretary Sean P. Duffy.",
-      "link": "https://www.tomshardware.com/video-games/gamer-recruitment-drive-results-in-supercharged-hiring-campaign-for-new-air-traffic-controllers-usdot-secretary-reckons-theyve-got-the-strongest-sharpest-workforce-in-aviation-history",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T10:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Z Fold8: come sempre, JerryRigEverything ci va giù pesante",
-      "descrizione": "Come si è comportato il Galaxy Z Fold8 affrontando graffi, fuoco, sabbia e piegature estreme nel durability test di JerryRigEverything.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666903/samsung-galaxy-z-fold8-jerryrigeverything/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T09:55:00+00:00"
-    },
-    {
-      "titolo": "Il leak del brand luxury svela molto su iPhone 18 Pro: colori, display e data",
-      "descrizione": "Caviar, brand che produce accessori luxury per i dispositivi, ha pubblicato un sito con molte informazioni su iPhone 18 Pro e Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666897/leak-brand-luxury-svela-molto-iphone-18-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T09:50:00+00:00"
     }
   ]
 }
