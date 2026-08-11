@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-11T02:28:59.097794+00:00",
+  "last_updated": "2026-08-11T07:38:49.560173+00:00",
   "items": [
     {
-      "titolo": "Ghiaccio pronto in 6 minuti: la nuova macchinetta Xiaomi è piccola e costa poco",
-      "descrizione": "La nuova Xiaomi Mijia Ice Maker occupa uno spazio paragonabile a un foglio A4 e offre produzione rapida del ghiaccio, sterilizzazione UV, autopulizia e avvio programmabile",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n666877/macchina-ghiaccio-piccola-portatile-xiaomi-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-10T17:10:00+00:00",
+      "titolo": "OpenAI annuncia GPT-5.6-Cyber e novità per Daybreak",
+      "descrizione": "GPT-5.6-Cyber è il modello sviluppato da OpenAI con meno restrizioni di GPT-5.6 Sol che può essere sfruttato per trovare e risolvere le vulnerabilità. The post OpenAI annuncia GPT-5.6-Cyber e novità per Daybreak appeared",
+      "link": "https://www.punto-informatico.it/openai-annuncia-gpt-5-6-cyber-novita-daybreak/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-11T07:29:35+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "OpenClaw usa Claude per attaccare il sito di una palestra",
-      "descrizione": "Un utente voleva solo prenotare una lezione in palestra con OpenClaw, ma l'agente AI ha deciso di trovare un posto eliminando un'altra prenotazione. The post OpenClaw usa Claude per attaccare il sito di una palestra appe",
-      "link": "https://www.punto-informatico.it/openclaw-usa-claude-attaccare-sito-palestra/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-10T17:19:08+00:00",
+      "titolo": "Claude Code attiva la modalità Auto: meno conferme, più autonomia per gli sviluppatori",
+      "descrizione": "Claude Code userà la modalità Auto di default, riducendo gli interventi degli sviluppatori.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666861/claude-code-auto-mode-default/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-11T05:35:00+00:00",
       "modello": "claude"
     }
   ]
