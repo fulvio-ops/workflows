@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-12T07:53:32.741481+00:00",
+  "last_updated": "2026-08-12T13:49:23.911383+00:00",
   "items": [
     {
-      "titolo": "Gemini supera un miliardo di utenti attivi al mese",
-      "descrizione": "Google fa sapere che Gemini ha superato il miliardo di utenti attivi al mese, è il prodotto con la crescita più rapida della sua storia. The post Gemini supera un miliardo di utenti attivi al mese appeared first on Punto",
-      "link": "https://www.punto-informatico.it/gemini-miliardo-utenti-attivi-mese/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-12T07:13:31+00:00",
+      "titolo": "How optical interconnects and silicon photonics emerged as AI's next hot commodity — looming US-China summit puts photonics into the crosshairs",
+      "descrizione": "The U.S. wants Chinese optical transceivers out of future AI data centers, but China’s current dominance of the rapidly evolving photonics supply chain could make a ban complicated",
+      "link": "https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-12T12:42:23+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini supera il miliardo di utenti mensili: Google raggiunge un nuovo record",
-      "descrizione": "Lo ha annunciato il CEO Sundar Pichai.",
-      "link": "https://www.hdblog.it/google/articoli/n667000/google-gemini-ai-1-miliardo-utenti-mensili-record/",
+      "titolo": "Gemini arriva sui TV TCL in Italia: tutti i modelli compatibili",
+      "descrizione": "Google Gemini arriva sui televisori TCL anche in Italia. Il rollout coinvolgerà numerosi modelli delle gamme 2025 e 2026: ecco l’elenco completo dei TV compatibili e quelli da aggiornare",
+      "link": "https://www.hdblog.it/tv/articoli/n667034/tcl-tv-arriva-gemini-modelli-elenco/",
       "fonte": "HDblog.it",
-      "data": "2026-08-12T07:25:00+00:00",
+      "data": "2026-08-12T10:20:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "descrizione": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "fonte": "WIRED",
-      "data": "2026-08-11T11:00:00+00:00",
+      "titolo": "Prima un mese, ora due giorni: così Claude Code sta accelerando i chip Samsung",
+      "descrizione": "Samsung sta utilizzando Claude Code di Anthropic nello sviluppo e nella verifica dei semiconduttori. In alcuni test interni attività da oltre un mese sono state completate in appena due giorni",
+      "link": "https://www.hdblog.it/hardware/articoli/n667041/samsung-chip-uso-ai-claude-applicazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T11:45:00+00:00",
       "modello": "claude"
     }
   ]
