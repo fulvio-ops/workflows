@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-08-12T13:49:19.080829+00:00",
+  "last_updated": "2026-08-12T19:27:55.147545+00:00",
   "items": [
-    {
-      "titolo": "Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak — 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB",
-      "descrizione": "A new leak from Jaykihn says some Nova Lake SKUs, including mobile counterparts, will retain the cache config of their fully-enabled variants despite having reduced E-cores.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-12T13:37:47+00:00"
-    },
-    {
-      "titolo": "Insta360 X6 ufficiale: 8K a 50 fps, sensori più grandi, lenti sostituibili e tanta AI",
-      "descrizione": "Insta360 X6 è ufficiale e porta in dote sensori più grandi, registrazione 8K a 50 fps, Dolby Vision, maggiore autonomia e un sistema di intelligenza artificiale",
-      "link": "https://www.hdblog.it/fotografia/articoli/n666966/insta360-x6-ufficiale-specifiche-immagini-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T13:31:00+00:00"
-    },
-    {
-      "titolo": "HONOR Robot Phone arriva in Cina, da concept a device pronto per il mercato",
-      "descrizione": "Le specifiche e il prezzo di HONOR Robot Phone, lo smartphone più particolare di quest'anno arriva ufficialmente in Cina, da noi chissà.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667044/honor-robot-phone-arriva-arriva-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T13:10:00+00:00"
-    },
     {
       "titolo": "Abbiamo provato la Insta360 X6: la nuova regina del 360 | Video",
       "descrizione": "Insta360 lancia la sua nuova videocamera 360 di punta ovvero la X6. Quest'ultimo modello migliora tutti i piccoli dettagli che mancavano sul precedente.",
       "link": "https://www.hdblog.it/tecnologia/recensioni/n664820/insta360-x6--ciao-ciao-concorrenza/",
       "fonte": "HDblog.it",
-      "data": "2026-08-12T13:01:00+00:00"
+      "data": "2026-08-12T18:54:00+00:00"
     },
     {
-      "titolo": "Incendio Laguna Seca: a fuoco rara Mazda 767B da 2 milioni",
-      "descrizione": "Paura a Laguna Seca durante la Monterey Car Week: un incendio nei paddock danneggia la Mazda 767B da 2 milioni di dollari. Nessun ferito, pronto il restauro",
-      "link": "https://www.hdmotori.it/incendio-laguna-seca-mazda-767b/",
+      "titolo": "Anteprima Google Pixel 11 e Watch 5: cosa cambia davvero nella nuova generazione",
+      "descrizione": "Abbiamo provato i nuovi Google Pixel 11, 11 Pro, 11 Pro Xl e Watch 5. Prezzi che fortunatamente non salgono per tutti i modelli e migliorie evidenti alle fotocamere ed ai consumi. Siamo arrivati alla...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n666254/anteprima-google-pixel-11-watch-5-prezzi/",
       "fonte": "HDblog.it",
-      "data": "2026-08-12T13:00:37+00:00"
+      "data": "2026-08-12T18:53:00+00:00"
     },
     {
-      "titolo": "Memorie cinesi nei futuri iPhone e MacBook di Apple?",
-      "descrizione": "Apple avrebbe avviato i test dei chip della cinese CXMT per iPhone e MacBook, ma difficilmente riceverà il via libera per l'acquisto dal governo. The post Memorie cinesi nei futuri iPhone e MacBook di Apple? appeared fir",
-      "link": "https://www.punto-informatico.it/memorie-cinesi-futuri-iphone-macbook-apple/",
+      "titolo": "SpaceXAI Grok 4.6: prestazioni simili a GPT-5.6 Sol",
+      "descrizione": "Il nuovo modello Grok 4.6 annunciato da SpaceXAI offre capacità superiori rispetto a Grok 4.5 e prestazioni simili a quelle di GPT-5.6 Sol (OpenAI). The post SpaceXAI Grok 4.6: prestazioni simili a GPT-5.6 Sol appeared f",
+      "link": "https://www.punto-informatico.it/spacexai-grok-4-6-prestazioni-simili-gpt-5-6-sol/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-12T12:56:24+00:00"
+      "data": "2026-08-12T17:25:01+00:00"
     },
     {
-      "titolo": "Il nuovo PowerDetect di Shark pulisce anche all’indietro e regola la potenza",
-      "descrizione": "Il nuovo Shark PowerDetect utilizza quattro sistemi di rilevamento per adattare la pulizia alla superficie e allo sporco. Offre inoltre Reverse Clean e fino a 70 minuti di autonomia",
-      "link": "https://www.hdblog.it/home/articoli/n667045/shark-aspirapolvere-senza-filo-detect-funzioni-prezzo/",
+      "titolo": "Motori spaziali stampati in 3D: perché sono sempre più importanti",
+      "descrizione": "Un nuovo motore stampato in 3D punta a rendere i trasporti spaziali più economici e rapidi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666949/motore-spaziale-stampato-3d/",
       "fonte": "HDblog.it",
-      "data": "2026-08-12T12:35:00+00:00"
+      "data": "2026-08-12T16:55:00+00:00"
     },
     {
-      "titolo": "Xiaomi Redmi Note 15 5G: autonomia senza ansia spendendo 180€",
-      "descrizione": "Ancora più economico lo Xiaomi Redmi Note 15 5G con fotocamera da 108MP e batteria da 5.520mAh.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n667040/xiaomi-redmi-note-15-5g-codice-promo-ebay/",
+      "titolo": "Abode lancia due nuovi sensori smart per proteggere garage e spazi esterni",
+      "descrizione": "Abode presenta Outdoor Contact Sensor e Garage Tilt Sensor, due nuovi dispositivi wireless progettati per monitorare garage, cancelli, capanni e altre strutture situate all’esterno",
+      "link": "https://www.hdblog.it/domotica/articoli/n667074/abode-sensori-esterni-garage-prezzi/",
       "fonte": "HDblog.it",
-      "data": "2026-08-12T12:28:00+00:00"
+      "data": "2026-08-12T16:40:00+00:00"
     },
     {
-      "titolo": "Eclissi solare questa sera: orari e come vederla in sicurezza",
-      "descrizione": "L’eclissi solare sarà visibile anche in Italia: ecco gli orari, dove guardarla e quali occhiali certificati usare per evitare rischi. The post Eclissi solare questa sera: orari e come vederla in sicurezza appeared first",
-      "link": "https://www.punto-informatico.it/eclissi-solare-orari-come-vederla-sicurezza/",
+      "titolo": "La Cina mette il vento al servizio delle piattaforme petrolifere",
+      "descrizione": "La Cina inaugura una piattaforma eolica galleggiante che alimenta impianti offshore.",
+      "link": "https://www.hdblog.it/green/articoli/n666954/cina-piattaforma-eolica-galleggiante-16mw/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T16:25:00+00:00"
+    },
+    {
+      "titolo": "Ororo lancia la Home Collection: coperte e cuscini riscaldati a batteria",
+      "descrizione": "Ororo presenta Home Collection, una nuova gamma di cuscini, coperte, sedute e fasce riscaldate alimentate da batterie ricaricabili e pensate per l’utilizzo dentro e fuori casa",
+      "link": "https://www.hdblog.it/home/articoli/n667082/ororo-abbigliamento-riscaldato-accessori/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T16:10:00+00:00"
+    },
+    {
+      "titolo": "La Mercedes di LeBron James fatta su misura, lusso sfrenato per il king dell’NBA",
+      "descrizione": "La Mercedes-Maybach S 680 personalizzata da LeBron James è stata esposta nella kermesse di Monterey in California.",
+      "link": "https://www.hdmotori.it/mercedes-lebron-james-su-misura/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T16:00:06+00:00"
+    },
+    {
+      "titolo": "Pixel 11 Pro Fold: ufficiale il nuovo smartphone pieghevole",
+      "descrizione": "Il nuovo Pixel 11 Pro Fold è più sottile e leggero, ha schermi OLED da 8 e 6,5 pollici, processore Tensor G6, 16 GB di RAM e cinque fotocamere. The post Pixel 11 Pro Fold: ufficiale il nuovo smartphone pieghevole appeare",
+      "link": "https://www.punto-informatico.it/pixel-11-pro-fold-ufficiale-il-nuovo-smartphone-pieghevole/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-12T12:00:03+00:00"
+      "data": "2026-08-12T15:59:30+00:00"
     },
     {
-      "titolo": "Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
-      "descrizione": "European users of Anthropic's Claude models can expect that future versions of those tools will begin embedding digital marks in generated text and images to identify them as the product of AI.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
+      "titolo": "MQ-28 Ghost Bat: perché i droni gregari sono il futuro del combattimento",
+      "descrizione": "Il Ghost Bat vola con i caccia USA: ecco perché i droni gregari stanno cambiando la difesa.",
+      "link": "https://www.hdblog.it/droni/articoli/n666957/ghost-bat-test-usa-f35/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T15:55:00+00:00"
+    },
+    {
+      "titolo": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
+      "descrizione": "A data center GPU has become more expensive because of the AI boom enabled by unprecedented data center buildouts — shocking. Nvidia's RTX 6000 Pro Blackwell is now twice as costly as it was last year at the time of its",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-12T11:30:00+00:00"
+      "data": "2026-08-12T15:53:19+00:00"
     },
     {
-      "titolo": "La prima mappa mondiale del colesterolo cattivo. Paese per paese",
-      "descrizione": "Uno studio apparso su JAMA e basato sui dati del Global Burden of Disease 2023 fotografa per la prima volta il peso globale dell’ipercolesterolemia",
-      "link": "https://www.infodata.ilsole24ore.com/2026/08/12/la-prima-mappa-mondiale-del-colesterolo-cattivo-paese-per-paese/",
+      "titolo": "AI data center developers begin suing local jurisdictions behind bans and moratoriums — claims range from officials exceeding authority to violations of due process and equal protection laws",
+      "descrizione": "Some data center developers are suing local governments for passing temporary bans and moratorium, saying that they such moves violated their rights to due process and equal protection. This move has gotten one county to",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-developers-begin-suing-local-jurisdictions-behind-bans-and-moratoriums-claims-range-from-officials-exceeding-authority-to-violations-of-due-process-and-equal-protection-laws",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-12T15:46:55+00:00"
+    },
+    {
+      "titolo": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable",
+      "descrizione": "CoreWeave reported $2.58 billion in quarterly revenue, up 112% year over year.",
+      "link": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-12T15:41:47+00:00"
+    },
+    {
+      "titolo": "Trovata la prima glueball: confermata una particella prevista da 50 anni",
+      "descrizione": "Confermata la prima glueball: ecco perché cambia lo studio della materia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666952/prima-glueball-confermata/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T15:40:00+00:00"
+    },
+    {
+      "titolo": "Hackers are hunting for your private photos, FBI warns: 6 ways to avoid a sextortion nightmare",
+      "descrizione": "Hackers who steal compromising images of you from social media and personal accounts are selling them on the dark web. Here's how to protect yourself.",
+      "link": "https://www.zdnet.com/article/hackers-private-photos-fbi-avoid-sextortion/",
+      "fonte": "Latest news",
+      "data": "2026-08-12T15:37:36+00:00"
+    },
+    {
+      "titolo": "SwitchBot lancia kata: l’assistente AI controlla casa e crea automazioni",
+      "descrizione": "SwitchBot introduce kata nella propria app, un assistente AI capace di controllare i dispositivi smart, interpretare richieste in linguaggio naturale e trasformarle in automazioni",
+      "link": "https://www.hdblog.it/domotica/articoli/n667072/switchbot-assistente-ai-domotica-kata/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T15:10:00+00:00"
+    },
+    {
+      "titolo": "Sogni di guidare la prima monoposto F1 di Michael Schumacher? All’asta è un affare",
+      "descrizione": "La carriera di Michael Schumacher nel Circus è cominciata nell’abitacolo di una Jordan 191. Uno dei sette esemplari finirà all’asta",
+      "link": "https://www.hdmotori.it/asta-jordan-f1-michael-schumacher/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T15:00:55+00:00"
+    },
+    {
+      "titolo": "SpaceX prepara basi marziane autosufficienti: energia e acqua senza rifornimenti",
+      "descrizione": "SpaceX punta su energia e riciclo dell'acqua per missioni spaziali di lunga durata.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666948/spacex-basi-autosufficienti-marte/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T14:55:00+00:00"
+    },
+    {
+      "titolo": "Pixel Watch 5 è già in preordine su Amazon: eccolo",
+      "descrizione": "Amazon ha aperto i preordini di Google Pixel Watch 5 con le versioni Wi-Fi e LTE, l'AI Gemini, display luminoso e autonomia fino a 72 ore. The post Pixel Watch 5 è già in preordine su Amazon: eccolo appeared first on Pun",
+      "link": "https://www.punto-informatico.it/pixel-watch-5-preordine-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T14:50:22+00:00"
+    },
+    {
+      "titolo": "Ryanair porta Gemini dietro le quinte dei voli: cosa farà l’AI di Google",
+      "descrizione": "Ryanair firma una partnership di cinque anni con Google Cloud e porta Gemini e i modelli DeepMind nei processi interni, dalla pianificazione degli equipaggi alla gestione della flotta",
+      "link": "https://www.hdblog.it/google/articoli/n667071/ryanair-accordo-google-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T14:50:00+00:00"
+    },
+    {
+      "titolo": "Signal svela una nuova funzionalità per proteggere le chat",
+      "descrizione": "Automatic Key Verification è una funzionalità che permette di verificare l'uso della crittografia end-to-end per le conversazioni tra utenti Signal. The post Signal svela una nuova funzionalità per proteggere le chat app",
+      "link": "https://www.punto-informatico.it/signal-svela-nuova-funzionalita-proteggere-chat/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T14:44:13+00:00"
+    },
+    {
+      "titolo": "Pixel 11, Pixel 11 Pro e Pro XL già in preordine su Amazon",
+      "descrizione": "Via ai preordini dei nuovi Pixel 11 su Amazon: ordinalo il tuo nuovo smartphone Google al prezzo minimo garantito, ricevilo al day one. The post Pixel 11, Pixel 11 Pro e Pro XL già in preordine su Amazon appeared first o",
+      "link": "https://www.punto-informatico.it/pixel-11-preordine-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T14:20:31+00:00"
+    },
+    {
+      "titolo": "Ecco Google Pixel 11: più AI, nuovo Tensor G6 e il prezzo non cambia",
+      "descrizione": "La nuova famiglia Pixel 11 suggerisce con più chiarezza dove Google vuole portare lo smartphone.",
+      "link": "https://www.ilsole24ore.com/art/ecco-google-pixel-11-piu-ai-nuovo-tensor-g6-e-super-zoom-30x-AJZnnTj",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-12T11:25:00+00:00"
+      "data": "2026-08-12T14:12:00+00:00"
     },
     {
-      "titolo": "IMAP pubblica i primi dati scientifici: cosa rivelano sullo spazio interstellare",
-      "descrizione": "La missione IMAP rende pubblici i primi dati per studiare Sole, vento solare e spazio interstellare.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n666941/nasa-imap-primi-dati-scientifici/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T11:20:00+00:00"
-    },
-    {
-      "titolo": "La strage delle gomme dell’estate italiana di cui nessuno parla: officine prese d’assalto",
-      "descrizione": "Le temperature bollenti stanno causando danni agli automobilisti italiani. Non si contano più le esplosioni e le crepe sugli pneumatici",
-      "link": "https://www.hdmotori.it/strage-gomme-estate-italiana/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T11:00:46+00:00"
-    },
-    {
-      "titolo": "Gli USA preparano occhiali contro il lampo nucleare: si oscurano in 150 microsecondi",
-      "descrizione": "Nuovi occhiali intelligenti proteggono i piloti dal lampo di un'esplosione nucleare.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666959/air-force-occhiali-lampo-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:55:00+00:00"
-    },
-    {
-      "titolo": "Gli USA riaprono a TikTok: può tornare sui dispositivi federali",
-      "descrizione": "Gli Stati Uniti riaprono a TikTok sui dispositivi governativi. Secondo l’OMB, la legge del 2022 non si applica più all’attuale versione americana dopo la riorganizzazione delle attività negli USA",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n667036/tiktok-usa-divieto-revocato/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:45:00+00:00"
-    },
-    {
-      "titolo": "Nessuno di voi ha mai provato questo Windows Phone: o meglio, Surface Phone",
-      "descrizione": "Spunta fuori un prototipo del Surface Phone che Microsoft non ha più lanciato.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667019/windows-phone-surface-prototipo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:40:00+00:00"
-    },
-    {
-      "titolo": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool — pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky",
-      "descrizione": "A flight carrying passengers who attended a cybersecurity convention reportedly had its Wi-Fi network victimized by deauthentication attacks while an 'evil twin' hotspot rerouted potential victims to a phishing website.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-12T10:30:00+00:00"
-    },
-    {
-      "titolo": "Gemini arriva sui TV TCL in Italia: tutti i modelli compatibili",
-      "descrizione": "Google Gemini arriva sui televisori TCL anche in Italia. Il rollout coinvolgerà numerosi modelli delle gamme 2025 e 2026: ecco l’elenco completo dei TV compatibili e quelli da aggiornare",
-      "link": "https://www.hdblog.it/tv/articoli/n667034/tcl-tv-arriva-gemini-modelli-elenco/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:20:00+00:00"
-    },
-    {
-      "titolo": "Batteria da 12.000 mAh su smartphone? Honor ci sta lavorando ed è a buon punto",
-      "descrizione": "Impressionante.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667031/honor-smartphone-batteria-12000-mah-power3-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:10:00+00:00"
-    },
-    {
-      "titolo": "Londra, maxi-blitz polizia: sequestrate supercar per oltre 8 milioni di sterline",
-      "descrizione": "Sequestrata anche una Ferrari Monza SP2 da 3,7 milioni: guidava un ragazzo col foglio rosa e senza assicurazione nel maxi-blitz contro i bolidi da 8 milioni di sterline",
-      "link": "https://www.hdmotori.it/londra-blitz-supercar-sequestrate-supercar/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:00:55+00:00"
-    },
-    {
-      "titolo": "FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months",
-      "descrizione": "Details from recent court filings show that DOGE's influence within government—and potential conflicts of interest—extend further than previously known.",
-      "link": "https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/",
-      "fonte": "WIRED",
-      "data": "2026-08-12T10:00:00+00:00"
-    },
-    {
-      "titolo": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
-      "descrizione": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers.",
-      "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-      "fonte": "WIRED",
-      "data": "2026-08-12T10:00:00+00:00"
-    },
-    {
-      "titolo": "Amazon non dice più cosa avete comprato nelle email: c’entra anche l’AI",
-      "descrizione": "Le email di conferma degli ordini Amazon mostrano sempre meno dettagli e spesso sostituiscono il nome del prodotto con una categoria generica. Dietro la scelta ci sarebbero privacy, sicurezza dei...",
-      "link": "https://www.hdblog.it/amazon/articoli/n667029/amazon-email-inutili-ordini-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T09:50:00+00:00"
-    },
-    {
-      "titolo": "Polymarket via dalle maglie della Lazio",
-      "descrizione": "La Lazio annuncia la fine della sponsorizzazione con Polymarket, dopo l'oscuramento della piattaforma in Italia disposto dall'Autorità. The post Polymarket via dalle maglie della Lazio appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/polymarket-lazio/",
+      "titolo": "Google sfida Apple con Pixel Tag, il tracker anti-AirTag",
+      "descrizione": "Pixel Tag è la risposta di Google a AirTag: tecnologia Ultra Wideband, batteria sostituibile e compatibilità solo con smartphone Android. The post Google sfida Apple con Pixel Tag, il tracker anti-AirTag appeared first o",
+      "link": "https://www.punto-informatico.it/google-pixel-tag-tracker/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-12T09:49:18+00:00"
+      "data": "2026-08-12T14:04:31+00:00"
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-12T13:49:23.911383+00:00",
+  "last_updated": "2026-08-12T19:27:59.834746+00:00",
   "items": [
     {
-      "titolo": "How optical interconnects and silicon photonics emerged as AI's next hot commodity — looming US-China summit puts photonics into the crosshairs",
-      "descrizione": "The U.S. wants Chinese optical transceivers out of future AI data centers, but China’s current dominance of the rapidly evolving photonics supply chain could make a ban complicated",
-      "link": "https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-12T12:42:23+00:00",
+      "titolo": "SpaceXAI Grok 4.6: prestazioni simili a GPT-5.6 Sol",
+      "descrizione": "Il nuovo modello Grok 4.6 annunciato da SpaceXAI offre capacità superiori rispetto a Grok 4.5 e prestazioni simili a quelle di GPT-5.6 Sol (OpenAI). The post SpaceXAI Grok 4.6: prestazioni simili a GPT-5.6 Sol appeared f",
+      "link": "https://www.punto-informatico.it/spacexai-grok-4-6-prestazioni-simili-gpt-5-6-sol/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T17:25:01+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini arriva sui TV TCL in Italia: tutti i modelli compatibili",
-      "descrizione": "Google Gemini arriva sui televisori TCL anche in Italia. Il rollout coinvolgerà numerosi modelli delle gamme 2025 e 2026: ecco l’elenco completo dei TV compatibili e quelli da aggiornare",
-      "link": "https://www.hdblog.it/tv/articoli/n667034/tcl-tv-arriva-gemini-modelli-elenco/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T10:20:00+00:00",
+      "titolo": "Come usare i Gem di Gemini: 5 assistenti AI utili da creare subito",
+      "descrizione": "I Gem di Gemini permettono di salvare istruzioni specifiche per un compito e riutilizzarle automaticamente in ogni conversazione futura. The post Come usare i Gem di Gemini: 5 assistenti AI utili da creare subito appeare",
+      "link": "https://www.punto-informatico.it/come-usare-gem-gemini-5-assistenti-ai-utili-creare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T15:30:30+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Prima un mese, ora due giorni: così Claude Code sta accelerando i chip Samsung",
-      "descrizione": "Samsung sta utilizzando Claude Code di Anthropic nello sviluppo e nella verifica dei semiconduttori. In alcuni test interni attività da oltre un mese sono state completate in appena due giorni",
-      "link": "https://www.hdblog.it/hardware/articoli/n667041/samsung-chip-uso-ai-claude-applicazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-12T11:45:00+00:00",
+      "titolo": "Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
+      "descrizione": "European users of Anthropic's Claude models can expect that future versions of those tools will begin embedding digital marks in generated text and images to identify them as the product of AI.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-12T11:30:00+00:00",
       "modello": "claude"
     }
   ]
