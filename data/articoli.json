@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-12T02:46:19.154466+00:00",
+  "last_updated": "2026-08-12T07:53:28.913795+00:00",
   "items": [
+    {
+      "titolo": "La Formula E cambia casa: tutte le gare elettriche su Disney+",
+      "descrizione": "Disney+ trasmetterà la Formula E in oltre 140 Paesi a partire dalla stagione 2026/27.",
+      "link": "https://www.hdblog.it/mercato/articoli/n667006/formula-e-disney-plus-streaming/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T07:45:00+00:00"
+    },
+    {
+      "titolo": "Xbox Elite 3: spunta un prototipo del nuovo controller Microsoft e c'è un piccolo display",
+      "descrizione": "A cosa serve? Abbiamo già qualche idea.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666999/xbox-elite-series-3-prototipo-schermo-controller/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T07:35:00+00:00"
+    },
+    {
+      "titolo": "Gemini supera il miliardo di utenti mensili: Google raggiunge un nuovo record",
+      "descrizione": "Lo ha annunciato il CEO Sundar Pichai.",
+      "link": "https://www.hdblog.it/google/articoli/n667000/google-gemini-ai-1-miliardo-utenti-mensili-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T07:25:00+00:00"
+    },
+    {
+      "titolo": "Trapano avvitatore a batteria con percussione Makita a un prezzo speciale",
+      "descrizione": "Offerta straordinaria su eBay che sta praticamente regalando questo trapano avvitatore a batteria con percussione Makita a meno di 80€. The post Trapano avvitatore a batteria con percussione Makita a un prezzo speciale a",
+      "link": "https://www.punto-informatico.it/trapano-avvitatore-batteria-percussione-makita-prezzo-speciale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T07:15:36+00:00"
+    },
+    {
+      "titolo": "Apple cambia strategia e fa scorta di OLED per paura dei rincari",
+      "descrizione": "La mossa di Cupertino.",
+      "link": "https://www.hdblog.it/apple/articoli/n666995/apple-scorte-oled-sei-settimane-rincari-iphone-18/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T07:15:00+00:00"
+    },
+    {
+      "titolo": "Gemini supera un miliardo di utenti attivi al mese",
+      "descrizione": "Google fa sapere che Gemini ha superato il miliardo di utenti attivi al mese, è il prodotto con la crescita più rapida della sua storia. The post Gemini supera un miliardo di utenti attivi al mese appeared first on Punto",
+      "link": "https://www.punto-informatico.it/gemini-miliardo-utenti-attivi-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T07:13:31+00:00"
+    },
+    {
+      "titolo": "ChatGPT arriva su Linux, l’app desktop è disponibile in anteprima",
+      "descrizione": "OpenAI ha lanciato l'app desktop di ChatGPT per Linux, in anteprima, con Codex, Work, browser e supporto a Ubuntu, Debian e Fedora. The post ChatGPT arriva su Linux, l’app desktop è disponibile in anteprima appeared firs",
+      "link": "https://www.punto-informatico.it/chatgpt-linux-app-desktop-disponibile-anteprima/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T06:49:47+00:00"
+    },
+    {
+      "titolo": "Windows 11 costa di più ai produttori: i prezzi dei PC rischiano nuovi aumenti",
+      "descrizione": "Quest'anno l'incremento sarebbe più alto del solito.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666996/microsoft-windows-11-aumento-prezzo-licenze-pc/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T06:45:00+00:00"
+    },
+    {
+      "titolo": "Programma Artemis: ecco dove la NASA prova ogni tecnologia prima del decollo",
+      "descrizione": "La NASA testa habitat, rover e strumenti in un laboratorio che replica la superficie lunare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666942/nasa-lunar-development-test-facility-artemis/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T06:35:00+00:00"
+    },
+    {
+      "titolo": "Grok Bot, Elon Musk lancia un esercito di agenti AI",
+      "descrizione": "xAI presenta Grok Bot, un sistema di agenti AI che collabora, utilizza strumenti e automatizza attività su Windows, macOS e Linux. The post Grok Bot, Elon Musk lancia un esercito di agenti AI appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/grok-bot-elon-musk-esercito-agenti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T06:13:59+00:00"
+    },
+    {
+      "titolo": "Threads sbarca sui visori Meta Quest: cosa si può fare in VR",
+      "descrizione": "Threads debutta sui visori Meta Quest con un'app completa per usare il social in VR. Ecco cosa offre e la strategia dietro questa scelta. The post Threads sbarca sui visori Meta Quest: cosa si può fare in VR appeared fir",
+      "link": "https://www.punto-informatico.it/threads-visori-meta-quest-cosa-si-puo-fare-vr/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T06:05:45+00:00"
+    },
+    {
+      "titolo": "Una regione aggiorna la composizione dei canali del digitale terrestre",
+      "descrizione": "Un'importante regione italiana ha aggiornato la composizione dei canali del digitale terrestre con novità interessanti per gli spettatori. The post Una regione aggiorna la composizione dei canali del digitale terrestre a",
+      "link": "https://www.punto-informatico.it/regione-aggiorna-composizione-canali-digitale-terrestre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T06:00:54+00:00"
+    },
+    {
+      "titolo": "Stop agli occhiali intelligenti nei tribunali di Regno Unito e New York",
+      "descrizione": "Regno Unito e New York vietano i Meta Glasses nei tribunali per motivi di privacy.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667002/meta-glasses-vietati-tribunali-regno-unito/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T05:55:00+00:00"
+    },
+    {
+      "titolo": "Booking down: problemi con l’app dei viaggi il 12 agosto (risolto)",
+      "descrizione": "Ci sono problemi con l'applicazione mobile di Booking, non carica correttamente: tutti gli aggiornamenti in tempo reale sulla situazione. The post Booking down: problemi con l’app dei viaggi il 12 agosto (risolto) appear",
+      "link": "https://www.punto-informatico.it/booking-down-12082026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-12T05:45:08+00:00"
+    },
+    {
+      "titolo": "La Grande Muraglia Solare cambia la Cina: energia anche di notte",
+      "descrizione": "La Cina accelera sulle rinnovabili con un gigantesco progetto nel deserto della Kubuqi.",
+      "link": "https://www.hdblog.it/green/articoli/n666958/cina-progetto-rinnovabili-deserto-kubuqi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-12T05:35:00+00:00"
+    },
+    {
+      "titolo": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
+      "descrizione": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "link": "https://www.wired.com/story/chegg-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "Paramount+ Coupon Codes and Deals for August 2026",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "Sam's Club Promo Codes and Membership Deals for August 2026",
+      "descrizione": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "Zoro Coupon Codes: 55% Off August",
+      "descrizione": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "30% VistaPrint Coupon & Promo Codes | August 2026",
+      "descrizione": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "link": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "Breville Promo Code: $700 Off | August 2026",
+      "descrizione": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "link": "https://www.wired.com/story/breville-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "titolo": "Design Within Reach Promo Codes: 30% Off | August 2026",
+      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T05:00:00+00:00"
+    },
     {
       "titolo": "Quale smartwatch comprare oggi? I nostri consigli | Video",
       "descrizione": "Dipende tutto da come lo utilizziamo: ecco qualche utile consiglio.",
@@ -9,165 +163,11 @@
       "data": "2026-08-11T18:40:00+00:00"
     },
     {
-      "titolo": "AI ed energia pulita: nasce il campus che cambia le regole dei data center",
-      "descrizione": "Un enorme campus AI userà energia rinnovabile per alimentare fino a un milione di acceleratori.",
-      "link": "https://www.hdblog.it/green/articoli/n666846/envision-galaxy-campus-ai-rinnovabili/",
+      "titolo": "Bassi profondi e zero distrazioni: gli auricolari Bose QuietComfort sono al minimo storico",
+      "descrizione": "I Bose QuietComfort Earbuds sono al minimo storico su Amazon: cancellazione del rumore, fino a 30 ore di autonomia, Bluetooth multipoint e suono personalizzabile da app.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n666990/auricolari-bose-quietcomfort-minimo-storico/",
       "fonte": "HDblog.it",
-      "data": "2026-08-11T17:30:00+00:00"
-    },
-    {
-      "titolo": "Superconduttori ultrasottili: il passo che può cambiare il futuro dei computer quantistici",
-      "descrizione": "Superconduttori atomici più stabili potrebbero rendere i chip quantistici più piccoli ed efficienti.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666853/superconduttori-ultrasottili-dispositivi-quantum/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T17:15:00+00:00"
-    },
-    {
-      "titolo": "Sony e TSMC verso un maxi investimento da 6,4 miliardi nei sensori d’immagine",
-      "descrizione": "Una nuova joint venture tra Sony Semiconductor Solutions e TSMC potrebbe realizzare a Kumamoto capacità produttiva dedicata ai sensori d’immagine, con l’obiettivo di avviare la produzione nel 2029",
-      "link": "https://www.hdblog.it/hardware/articoli/n666983/sony-tsmc-investimento-sensori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T17:05:00+00:00"
-    },
-    {
-      "titolo": "Cina, esplode in volo il razzo Lunga Marcia 7A: cosa è successo",
-      "descrizione": "Spettacolare incidente al lancio del Lunga Marcia 7A: il razzo cinese esplode durante il Max-Q. A rischio il calendario spaziale 2026. The post Cina, esplode in volo il razzo Lunga Marcia 7A: cosa è successo appeared fir",
-      "link": "https://www.punto-informatico.it/cina-esplode-volo-razzo-lunga-marcia-7a-cose-successo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T17:01:45+00:00"
-    },
-    {
-      "titolo": "Fabbriche sulla Luna e robot operai: il nuovo obiettivo di SpaceX",
-      "descrizione": "SpaceX accelera sul piano di fabbriche lunari gestite da robot per costruire satelliti.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666859/spacex-fabbriche-luna/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T16:55:00+00:00"
-    },
-    {
-      "titolo": "Truffa con smishing: INPS usa l’AI per verificare i documenti",
-      "descrizione": "I cybercriminali chiedono alle ignare vittime di fornire numerosi dati personali attraverso un falso sito INPS che sfrutta l'intelligenza artificiale. The post Truffa con smishing: INPS usa l’AI per verificare i document",
-      "link": "https://www.punto-informatico.it/truffa-smishing-inps-usa-ai-verificare-documenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T16:42:13+00:00"
-    },
-    {
-      "titolo": "L’auto del domani controllerà la salute mentre guidiamo: così potrà prevenire i malori",
-      "descrizione": "Volante con ECG, telecamere, microfoni e sensori ottici: l’Automotive Health studia auto capaci di monitorare i parametri vitali durante la guida",
-      "link": "https://www.hdmotori.it/auto-monitora-salute-guida-malori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T16:30:31+00:00"
-    },
-    {
-      "titolo": "Timex rinnova la linea Waterbury con modelli classici e prezzi accessibili",
-      "descrizione": "Timex rinnova la famiglia Waterbury con modelli classici, eleganti e convenienti.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666856/timex-waterbury-classic-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T16:25:00+00:00"
-    },
-    {
-      "titolo": "Il paradosso dell'auto usata, un'elettrica ora costa meno di una a benzina",
-      "descrizione": "Un'analisi AutoUncle rivela come le auto elettriche del 2022 abbiano perso il 49% del valore in 4 anni. Un crollo da 455€ al mese che stacca nettamente le benzina",
-      "link": "https://www.hdmotori.it/auto-elettriche-usate-prezzi-confronto-benzina/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T16:00:49+00:00"
-    },
-    {
-      "titolo": "La Cina affida all'AI il coordinamento degli attacchi aerei di massa",
-      "descrizione": "La Cina presenta un sistema AI per pianificare attacchi aerei complessi e coordinati.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666850/cina-ai-attacchi-aerei/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T15:55:00+00:00"
-    },
-    {
-      "titolo": "Dipendenza dai social media: oltre 3.000 cause negli USA",
-      "descrizione": "Meta, TikTok e altre aziende dovranno affrontare un processo che riunisce oltre 3.000 cause relative alla dipendenza creata dalle piattaforme social. The post Dipendenza dai social media: oltre 3.000 cause negli USA appe",
-      "link": "https://www.punto-informatico.it/dipendenza-social-media-oltre-3000-cause-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T15:40:23+00:00"
-    },
-    {
-      "titolo": "ErgoCub, il robot italiano che collabora davvero con le persone",
-      "descrizione": "ErgoCub usa AI e sensori per collaborare con i lavoratori riducendo fatica e rischi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666849/ergocub-robot-umanoide-collaborazione-uomo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T15:35:00+00:00"
-    },
-    {
-      "titolo": "Questa “scatola” su gomma produce più energia di quanto ne consumi: c'è lo zampino di BMW",
-      "descrizione": "Deep Orange 17 è il prototipo solare della Clemson University sviluppato con il supporto di BMW: pesa 550 kg e integra oltre 1.700 celle fotovoltaiche",
-      "link": "https://www.hdmotori.it/deep-orange-auto-solare-bmw/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T15:30:38+00:00"
-    },
-    {
-      "titolo": "NASA+ arriva su HBO Max e discovery+: lo spazio entra nello streaming",
-      "descrizione": "NASA+ arriva su HBO Max e discovery+ con dirette spaziali e contenuti in Dolby Vision.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666919/nasa-plus-hbo-max-discovery-streaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T15:15:00+00:00"
-    },
-    {
-      "titolo": "Ariel Rider Mudd 72V: la e-bike fuoristrada che punta ai 104 km/h",
-      "descrizione": "Ariel Rider presenta Mudd 72V, la nuova e-bike fuoristrada da 104 km/h e 8.000W di picco. Scopri scheda tecnica, autonomia, dettagli della ciclistica e prezzo di lancio.",
-      "link": "https://www.hdmotori.it/ariel-rider-mudd-72v-ebike-fuoristrada/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-11T14:30:15+00:00"
-    },
-    {
-      "titolo": "Il Parlamento europeo vuole Piracy Shield in tutti i paesi?",
-      "descrizione": "Uno studio commissionato dal Parlamento UE suggerisce di introdurre una legge che permette di bloccare lo streaming illegale come avviene in Italia. The post Il Parlamento europeo vuole Piracy Shield in tutti i paesi? ap",
-      "link": "https://www.punto-informatico.it/parlamento-europeo-vuole-piracy-shield-tutti-paesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T14:17:16+00:00"
-    },
-    {
-      "titolo": "Artisti AI su Spotify, sta per arrivare il badge dedicato",
-      "descrizione": "Spotify introduce il badge AI Persona per identificare gli artisti creati con l'intelligenza artificiale e limitarne le raccomandazioni. The post Artisti AI su Spotify, sta per arrivare il badge dedicato appeared first o",
-      "link": "https://www.punto-informatico.it/artisti-ai-spotify-badge/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T14:09:15+00:00"
-    },
-    {
-      "titolo": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
-      "descrizione": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "fonte": "Latest news",
-      "data": "2026-08-11T13:00:00+00:00"
-    },
-    {
-      "titolo": "Packaging, cambiano le regole in Europa: stop ai PFAS",
-      "descrizione": "Applicato il nuovo regolamento europeo sul packaging con l'obiettivo di ridurre i rifiuti, la plastica e sostanze nocive come i PFAS. The post Packaging, cambiano le regole in Europa: stop ai PFAS appeared first on Punto",
-      "link": "https://www.punto-informatico.it/packaging-cambiano-regole-europa-stop-pfas/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T12:14:00+00:00"
-    },
-    {
-      "titolo": "$580 million undersea cable rerouted to avoid the grave of Dobby the House Elf — company caves to fan demands to safeguard Harry Potter filming location, will instead pass by Bronze Age burial site",
-      "descrizione": "The Greenlink Connector project, which will connect the grid of Ireland and Wales, had to reroute its path after Harry Potter fans complained that it would 'desecrate' the 'grave' of beloved character Dobby. The change o",
-      "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T11:47:22+00:00"
-    },
-    {
-      "titolo": "YouTube raddoppia le soglie per monetizzare: che fatica, guadagnare!",
-      "descrizione": "YouTube cambia le regole del Partner Program. Dal 2027 raddoppiano le soglie per accedere ai ricavi pubblicitari. The post YouTube raddoppia le soglie per monetizzare: che fatica, guadagnare! appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/youtube-raddoppia-soglie-monetizzare-fatica-guadagnare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-11T11:21:55+00:00"
-    },
-    {
-      "titolo": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
-      "descrizione": "Nvidia to arrange financing from major financial institutions at attractive rates for customers seeking to build AI data centers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T11:04:32+00:00"
-    },
-    {
-      "titolo": "Japanese authorities use new tool to identify initial torrent uploaders — anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring",
-      "descrizione": "Japanese authorities have taken a big step in cracking down on piracy by arresting an initial-seeder at popular anime torrenting website Nyaa.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-11T11:00:00+00:00"
+      "data": "2026-08-11T18:12:00+00:00"
     }
   ]
 }
