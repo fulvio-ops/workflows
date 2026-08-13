@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-08-13T07:54:57.486515+00:00",
+  "last_updated": "2026-08-13T13:49:57.069493+00:00",
   "items": [
     {
-      "titolo": "Poco F9 Pro e F9 Ultra: i primi rumor anticipano la capienza delle batterie",
-      "descrizione": "Dovrebbero essere la versione global di Redmi K100 Pro e Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667100/poco-f9-pro-ultra-batteria-velocita-ricarica-redmi/",
+      "titolo": "Fusione nucleare: il MIT svela il vero ostacolo, e non è la fisica",
+      "descrizione": "Il MIT propone un metodo per capire quando la fusione può diventare davvero conveniente.",
+      "link": "https://www.hdblog.it/green/articoli/n667055/mit-fusione-nucleare-qecon/",
       "fonte": "HDblog.it",
-      "data": "2026-08-13T06:55:00+00:00",
+      "data": "2026-08-13T10:50:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features",
+      "descrizione": "The move should cut down on the confusion between the two apps, especially for anyone who bounces back and forth between the two of them.",
+      "link": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
+      "fonte": "Latest news",
+      "data": "2026-08-13T13:32:06+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Google Pixel 11: Gemini Intelligence e altre funzionalità AI",
@@ -18,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
-      "descrizione": "European users of Anthropic's Claude models can expect that future versions of those tools will begin embedding digital marks in generated text and images to identify them as the product of AI.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-12T11:30:00+00:00",
+      "titolo": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
+      "descrizione": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
+      "link": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
+      "fonte": "Latest news",
+      "data": "2026-08-13T12:06:00+00:00",
       "modello": "claude"
     }
   ]
