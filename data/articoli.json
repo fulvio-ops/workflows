@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-12T19:27:55.147545+00:00",
+  "last_updated": "2026-08-13T02:48:39.374935+00:00",
   "items": [
+    {
+      "titolo": "'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today",
+      "descrizione": "Versatility is in, with people expected to work across the tech stack.",
+      "link": "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/",
+      "fonte": "Latest news",
+      "data": "2026-08-13T01:00:39+00:00"
+    },
+    {
+      "titolo": "The Best Photos of the Big August Solar Eclipse",
+      "descrizione": "It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.",
+      "link": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T22:47:30+00:00"
+    },
+    {
+      "titolo": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+      "descrizione": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
+      "fonte": "WIRED",
+      "data": "2026-08-12T20:14:30+00:00"
+    },
     {
       "titolo": "Abbiamo provato la Insta360 X6: la nuova regina del 360 | Video",
       "descrizione": "Insta360 lancia la sua nuova videocamera 360 di punta ovvero la X6. Quest'ultimo modello migliora tutti i piccoli dettagli che mancavano sul precedente.",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/signal-svela-nuova-funzionalita-proteggere-chat/",
       "fonte": "Punto Informatico",
       "data": "2026-08-12T14:44:13+00:00"
-    },
-    {
-      "titolo": "Pixel 11, Pixel 11 Pro e Pro XL già in preordine su Amazon",
-      "descrizione": "Via ai preordini dei nuovi Pixel 11 su Amazon: ordinalo il tuo nuovo smartphone Google al prezzo minimo garantito, ricevilo al day one. The post Pixel 11, Pixel 11 Pro e Pro XL già in preordine su Amazon appeared first o",
-      "link": "https://www.punto-informatico.it/pixel-11-preordine-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-12T14:20:31+00:00"
-    },
-    {
-      "titolo": "Ecco Google Pixel 11: più AI, nuovo Tensor G6 e il prezzo non cambia",
-      "descrizione": "La nuova famiglia Pixel 11 suggerisce con più chiarezza dove Google vuole portare lo smartphone.",
-      "link": "https://www.ilsole24ore.com/art/ecco-google-pixel-11-piu-ai-nuovo-tensor-g6-e-super-zoom-30x-AJZnnTj",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-12T14:12:00+00:00"
-    },
-    {
-      "titolo": "Google sfida Apple con Pixel Tag, il tracker anti-AirTag",
-      "descrizione": "Pixel Tag è la risposta di Google a AirTag: tecnologia Ultra Wideband, batteria sostituibile e compatibilità solo con smartphone Android. The post Google sfida Apple con Pixel Tag, il tracker anti-AirTag appeared first o",
-      "link": "https://www.punto-informatico.it/google-pixel-tag-tracker/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-12T14:04:31+00:00"
     }
   ]
 }
