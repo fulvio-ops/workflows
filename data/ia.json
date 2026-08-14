@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-13T19:27:13.131960+00:00",
+  "last_updated": "2026-08-14T02:47:15.517850+00:00",
   "items": [
     {
-      "titolo": "Lockheed Martin punta a una rete spaziale unificata per la difesa",
-      "descrizione": "Una rete che collega satelliti, sensori e difesa per rispondere più rapidamente alle minacce.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667050/lockheed-martin-rete-satelliti-difesa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-13T16:55:00+00:00",
+      "titolo": "The Safety Reckoning Inside OpenAI",
+      "descrizione": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "fonte": "WIRED",
+      "data": "2026-08-13T22:37:19+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini voice calling on Android Auto keeps failing me - and Google has until September to fix it",
-      "descrizione": "With Google Assistant shutting down this fall, Android users will be left with inferior voice calling, thanks to Gemini.",
-      "link": "https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing-google-must-fix-by-september/",
+      "titolo": "This free Android assistant fixes my biggest Gemini frustration - and keeps my data private",
+      "descrizione": "With Google set to retire Assistant, and Gemini not exactly the replacement many of us want, Dicio is a solid option. There's one catch.",
+      "link": "https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/",
       "fonte": "Latest news",
-      "data": "2026-08-13T17:07:04+00:00",
+      "data": "2026-08-14T00:00:45+00:00",
       "modello": "gemini"
     },
     {

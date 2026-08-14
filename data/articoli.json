@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-08-13T19:27:09.009397+00:00",
+  "last_updated": "2026-08-14T02:47:12.226285+00:00",
   "items": [
+    {
+      "titolo": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
+      "descrizione": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
+      "link": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+      "fonte": "Latest news",
+      "data": "2026-08-13T20:46:54+00:00"
+    },
     {
       "titolo": "Ho provato la nuova Creative Deck di Ulanzi: D200X e D100H | VIDEO",
       "descrizione": "Queste 2 periferiche sono pensate per aiutare durante l'editing di foto e video. Le abbiamo testate per diversi giorni.",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/social-media-meta-chiuso-750000-account-australia/",
       "fonte": "Punto Informatico",
       "data": "2026-08-13T13:24:32+00:00"
-    },
-    {
-      "titolo": "Revolut Lounge negli aeroporti, si parte da Copenaghen nel 2027",
-      "descrizione": "Prossima apertura per le Revolut Lounge negli aeroporti europei: il debutto a Copenaghen nel 2027, con aree premium dedicate ai viaggiatori. The post Revolut Lounge negli aeroporti, si parte da Copenaghen nel 2027 appear",
-      "link": "https://www.punto-informatico.it/fintech/conti/revolut-lounge-aeroporti-copenaghen-2027/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-13T12:56:11+00:00"
     }
   ]
 }
