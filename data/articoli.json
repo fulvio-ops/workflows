@@ -1,19 +1,166 @@
 {
-  "last_updated": "2026-08-14T07:51:56.653907+00:00",
+  "last_updated": "2026-08-14T13:45:11.832695+00:00",
   "items": [
     {
-      "titolo": "Xiaomi Mijia Smart Range Hood 3: la cappa si pulisce da sola",
-      "descrizione": "La nuova cappa Xiaomi regola l’aspirazione e pulisce la girante ad alta velocità",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n667236/xiaomi-mijia-smart-range-hood-3/",
+      "titolo": "DREO porta l'AI nella gestione dell'aria di casa: le novità in arrivo a IFA 2026",
+      "descrizione": "A Berlino debutterà anche una nuova gamma di purificatori d'aria",
+      "link": "https://hdhome/domotica/articoli/n667290/dreo-ai-gestione-aria-casa-ifa-2026/",
       "fonte": "HDblog.it",
-      "data": "2026-08-14T07:40:00+00:00"
+      "data": "2026-08-14T13:40:00+00:00"
     },
     {
-      "titolo": "Poco F9 Pro e Ultra: un maxi leak anticipa specifiche, design e prezzi",
-      "descrizione": "Sembra proprio che saranno la variante global di Redmi K100 Pro e K100 Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667226/poco-f9-pro-ultra-specifiche-prezzi-differenze/",
+      "titolo": "ieGeek Camera ZY-G4: la telecamera 4G per sorvegliare le aree senza corrente e senza Wi-Fi",
+      "descrizione": "ieGeek Camera ZY-G4 usa rete 4G, pannello solare e registrazione AOV per sorvegliare terreni, cantieri e proprietà senza Wi-Fi. The post ieGeek Camera ZY-G4: la telecamera 4G per sorvegliare le aree senza corrente e senz",
+      "link": "https://www.punto-informatico.it/iegeek-camera-zy-g4-la-telecamera-4g-per-sorvegliare-le-aree-senza-corrente-e-senza-wi-fi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T13:01:12+00:00"
+    },
+    {
+      "titolo": "Fiat Topolino sbarca negli USA, ma c'è un problema \"surreale\"",
+      "descrizione": "La microcar elettrica non rispetta i limiti LSV. Fiat offre un kit aggiornamento gratuito per sbloccare la velocità e guidare su strada",
+      "link": "https://www.hdmotori.it/fiat-topolino-usa-problema-omologazione/",
       "fonte": "HDblog.it",
-      "data": "2026-08-14T07:35:00+00:00"
+      "data": "2026-08-14T13:00:26+00:00"
+    },
+    {
+      "titolo": "Apple avvisa gli utenti in 110 Paesi: possibile attacco con spyware mercenari",
+      "descrizione": "Non è la prima volta che vengono inviati avvisi di questo tipo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667269/apple-avvisa-utenti-attacco-spyware-mercenari/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T12:25:00+00:00"
+    },
+    {
+      "titolo": "Apple avvisa gli utenti: attacco spyware in corso",
+      "descrizione": "Apple ha inviato agli utenti in 110 paesi nuovi avvisi relativi ad un attacco spyware in corso, consigliando di attivare la modalità isolamento. The post Apple avvisa gli utenti: attacco spyware in corso appeared first o",
+      "link": "https://www.punto-informatico.it/apple-avvisa-utenti-attacco-spyware/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T12:15:18+00:00"
+    },
+    {
+      "titolo": "Apple Watch SE 3: oggi te lo metti al polso con appena 229€",
+      "descrizione": "L'Apple Watch SE 3, con cassa da 40 mm e cinturino sport galassia, oggi in offerta su Amazon a soli 229 euro. The post Apple Watch SE 3: oggi te lo metti al polso con appena 229€ appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/apple-watch-se-3-oggi-lo-metti-al-polso-con-appena-229e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T12:07:38+00:00"
+    },
+    {
+      "titolo": "Porsche Taycan, game over: vendite in calo e uscita di scena",
+      "descrizione": "In un futuro sempre più incerto per l’industria dell’automotive 2.0, Porsche deve affrontare numeri a ribasso per la Taycan",
+      "link": "https://www.hdmotori.it/porsche-taycan-stop-produzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T12:00:28+00:00"
+    },
+    {
+      "titolo": "US imposes up to 100% tariffs on foreign-made drones and components — China remains primary target as Washington moves to reduce reliance on overseas suppliers",
+      "descrizione": "The Trump administration says the new tariffs are necessary for national security and to address the US industry's heavy reliance on foreign-made drones and components, particularly from China.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T11:53:06+00:00"
+    },
+    {
+      "titolo": "AGCOM fa ordine nelle offerte FWA: arriva un nuovo bollino per quelle da 1 Gbps",
+      "descrizione": "Le offerte internet FWA non saranno più tutte nello stesso calderone: AGCOM introduce un bollino blu per le reti VHCN e mantiene giallo e rosso per le connessioni meno performanti",
+      "link": "https://www.hdblog.it/mobile/articoli/n667264/bollino-blu-fwa-veloci-agcom/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T11:45:00+00:00"
+    },
+    {
+      "titolo": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms — our full 1:1 interview transcript",
+      "descrizione": "We speak to Robert Hallock, Intel VP & GM of Enthusiast Channel Business, about Nova Lake rumors, how the company is focusing on DIY builders during RAMageddon, and how Raptor Lake refresh induced a paradigm shift for th",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T11:00:00+00:00"
+    },
+    {
+      "titolo": "Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off — RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD",
+      "descrizione": "This pre-built ABS Cyclone Aqua comes with a ten-core Intel Core i5-14400F CPU, an Nvidia GeForce RTX 5060 GPU, a 1TB SSD, and 32GB of RAM, all for $1,099.99.",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T10:43:57+00:00"
+    },
+    {
+      "titolo": "Caraffa addio? Ninja HydraSense filtra l’acqua fino a 6 volte più velocemente",
+      "descrizione": "Ninja HydraSense è il nuovo sistema SharkNinja per avere acqua filtrata direttamente sul piano della cucina, senza installazione: rimuove oltre 80 contaminanti e mantiene alcuni minerali",
+      "link": "https://www.hdblog.it/home/articoli/n667259/sistema-filtrare-acqua-ninja-hydrasense-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T10:35:00+00:00"
+    },
+    {
+      "titolo": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
+      "descrizione": "Ukraine intelligence claims that Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin NX modules with AI capabilities, allegedly for terminal guidance.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T10:30:00+00:00"
+    },
+    {
+      "titolo": "Agenti AI litigano tra loro e scoppia una guerra territoriale",
+      "descrizione": "Un esperimento di Anthropic dimostra che gli agenti AI possono litigare tra loro per completare le attività assegnate, causando seri problemi. The post Agenti AI litigano tra loro e scoppia una guerra territoriale appear",
+      "link": "https://www.punto-informatico.it/agenti-ai-litigano-scoppia-guerra-territoriale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T10:28:17+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17 Ultra si è inventato una Luna che non esiste durante l'ultima eclissi di Sole",
+      "descrizione": "Xiaomi 17 Ultra si è decisamente confuso durante l'ultima eclissi, scambiando il Sole per la Luna.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667250/xiaomi-17-ultra-eclissi-sole-luna-foto-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T10:25:00+00:00"
+    },
+    {
+      "titolo": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "descrizione": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "fonte": "WIRED",
+      "data": "2026-08-14T10:15:00+00:00"
+    },
+    {
+      "titolo": "Pixel 11, Google fa chiarezza sul Tensor G6: lo fa TSMC, ma non a 2 nm",
+      "descrizione": "Niente processo a 2 nm per Tensor G6: durante la presentazione dei Pixel 11 a Taiwan, Google ha spiegato che il nuovo SoC è realizzato da TSMC con una tecnologia a 3 nm evoluta",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667255/pixel-11-pro-xl-tensor-g6-nm-processo-produttivo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T10:10:00+00:00"
+    },
+    {
+      "titolo": "VPN senza limiti per 27 mesi, ecco la promo di Surfshark (-85%)",
+      "descrizione": "Surfshark è una VPN illimitata e ricca di vantaggi, con la promo in corso il piano da 27 mesi ora costa 2,49 euro al mese, ecco l'offerta. The post VPN senza limiti per 27 mesi, ecco la promo di Surfshark (-85%) appeared",
+      "link": "https://www.punto-informatico.it/vpn-senza-limiti-per-27-mesi-ecco-la-promo-di-surfshark-85/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T10:00:13+00:00"
+    },
+    {
+      "titolo": "Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC — Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra",
+      "descrizione": "The heavily modified ZTE Nubia Z70 Ultra uses two full-size CPU coolers to keep its Snapdragon 8 Elite running under sustained loads, while Termux, Linux and compatibility layers turn it into a makeshift desktop PC.",
+      "link": "https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T10:00:00+00:00"
+    },
+    {
+      "titolo": "Un monumento per Elon Musk, ma non quello che vorrebbe lui",
+      "descrizione": "Cards Against Humanity vuole costruire una statua provocatoria dedicata a Elon Musk, dopo lo scontro legale contro SpaceX in Texas. The post Un monumento per Elon Musk, ma non quello che vorrebbe lui appeared first on Pu",
+      "link": "https://www.punto-informatico.it/monumento-elon-musk-cah/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T09:49:28+00:00"
+    },
+    {
+      "titolo": "Prepariamoci all'eclissi solare del 2027: ecco dove si vedrà meglio",
+      "descrizione": "Il 2 agosto 2027 una spettacolare eclissi solare attraverserà il Mediterraneo.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n667166/eclissi-solare-2027-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T09:45:00+00:00"
+    },
+    {
+      "titolo": "OpenAI annuncia la modalità Ultrafast per GPT-5.6 Sol",
+      "descrizione": "La modalità Ultrafast di GPT-5.6 Sol sfrutta la tecnologia di Cerebras per aumentare la velocità delle risposte fino a 14 volte (750 token al secondo). The post OpenAI annuncia la modalità Ultrafast per GPT-5.6 Sol appea",
+      "link": "https://www.punto-informatico.it/openai-annuncia-modalita-ultrafast-gpt-5-6-sol/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T09:12:55+00:00"
+    },
+    {
+      "titolo": "Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate — green sparkle 2-player edition of Computer Space hails from 1973",
+      "descrizione": "A games industry veteran is selling off what is 'probably the rarest arcade game in existence' via Boston’s RR Auctions.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T09:00:00+00:00"
     },
     {
       "titolo": "Docsity cambia il modo di studiare con appunti, quiz e strumenti AI per preparare gli esami",
@@ -21,153 +168,6 @@
       "link": "https://www.punto-informatico.it/docsity-cambia-il-modo-di-studiare-con-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-08-14T07:30:32+00:00"
-    },
-    {
-      "titolo": "Computer History per ChatGPT e Codex registra tutto quello che fai",
-      "descrizione": "OpenAI lancia Computer History per ChatGPT e Codex: registra le attività sul Mac e aiuta a riprendere il lavoro da dove lo si è lasciato. The post Computer History per ChatGPT e Codex registra tutto quello che fai appear",
-      "link": "https://www.punto-informatico.it/computer-history-chatgpt-codex/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T07:25:07+00:00"
-    },
-    {
-      "titolo": "Claude down il 14 agosto: tutti gli aggiornamenti (risolto)",
-      "descrizione": "Qualche problema per Claude alla vigilia di Ferragosto: segnalato un down della piattaforma AI, mentre la status dashboard non risponde. The post Claude down il 14 agosto: tutti gli aggiornamenti (risolto) appeared first",
-      "link": "https://www.punto-informatico.it/claude-down-14082026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T07:02:07+00:00"
-    },
-    {
-      "titolo": "Anthropic pronta a battere ogni record in Borsa con un'Ipo da 2 mila miliardi di dollari",
-      "descrizione": "Le stime degli investitori sono astronomiche.",
-      "link": "https://www.hdblog.it/business/articoli/n667212/anthropic-ipo-2-mila-miliardi-dollari-record-borsa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:55:00+00:00"
-    },
-    {
-      "titolo": "Instagram ha un nuovo logo (ma così sembra Instagzam)",
-      "descrizione": "Restyling per il logo di Instagram, il nuovo wordmark è ufficiale e fa parte di un rinnovamento che arriverà a interessare tutto il brand. The post Instagram ha un nuovo logo (ma così sembra Instagzam) appeared first on",
-      "link": "https://www.punto-informatico.it/instagram-nuovo-logo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T06:33:20+00:00"
-    },
-    {
-      "titolo": "Addio all'uomo che cambiò il destino di Toyota: dalla Prius all'ascesa globale",
-      "descrizione": "Hiroshi Okuda si è spento a 93 anni: è stato il presidente che ha posto le basi per la leadership di Toyota nell'ibrido e per l'ascesa nel panorama automobilistico mondiale.",
-      "link": "https://www.hdmotori.it/addio-uomo-cambio-toyota/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:30:35+00:00"
-    },
-    {
-      "titolo": "Instagram, il nuovo logo è qui (ma non piacerà a tutti)",
-      "descrizione": "Prima modifica dopo 10 anni di staticità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667197/instagram-nuovo-logo-commenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:20:00+00:00"
-    },
-    {
-      "titolo": "Galaxy S27, Samsung ci ripensa: niente fotocamera ad apertura variabile?",
-      "descrizione": "Gli ultimi rumor parlano di un ripensamento: ecco perché.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667216/samsung-galaxy-s27-fotocamera-apertura-variabile/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:15:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT arriva su Linux: OpenAI colma finalmente il vuoto",
-      "descrizione": "ChatGPT debutta su Linux con Codex, Work e supporto per Ubuntu, Debian e Fedora.",
-      "link": "https://www.hdblog.it/linux/articoli/n667168/chatgpt-linux-app-openai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:10:00+00:00"
-    },
-    {
-      "titolo": "Apple TV apre ai film classici: arrivano Titanic, E.T. e Zodiac",
-      "descrizione": "Apple TV aggiunge circa 20 grandi film e cambia una parte importante della sua strategia streaming.",
-      "link": "https://www.hdblog.it/apple/articoli/n667169/apple-tv-film-classici-titanic-et-zodiac/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T06:05:00+00:00"
-    },
-    {
-      "titolo": "Google lancia Gemini 3.7 Flash, il nuovo modello AI costa la metà",
-      "descrizione": "Il nuovo modello Flash della famiglia Gemini punta su codice, automazione e agenti AI, con prestazioni superiori e prezzi più bassi. The post Google lancia Gemini 3.7 Flash, il nuovo modello AI costa la metà appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-3-7-flash/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T06:04:44+00:00"
-    },
-    {
-      "titolo": "iPhone X è ufficialmente un prodotto obsoleto per Apple: cosa significa",
-      "descrizione": "Stesso destino anche per MacBook Pro 15 2018: cosa significa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667217/iphone-x-macboop-pro-2018-obsoleti-apple-lista/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T05:45:00+00:00"
-    },
-    {
-      "titolo": "GPT-5.6 Sol cambia marcia: con Ultrafast l’AI arriva a velocità record",
-      "descrizione": "Ultrafast accelera GPT-5.6 Sol fino a 750 token al secondo grazie ai chip Cerebras.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667228/openai-ultrafast-gpt-5-6-sol-14-volte-veloce/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T05:35:00+00:00"
-    },
-    {
-      "titolo": "La coscienza nasce dalle emozioni o dai pensieri?",
-      "descrizione": "Se da tempo ti chiedi se la coscienza nasce dalle emozioni o dai pensieri allora devi dare un'occhiata alla risposta che ha dato la scienza. The post La coscienza nasce dalle emozioni o dai pensieri? appeared first on Pu",
-      "link": "https://www.punto-informatico.it/coscienza-nasce-emozioni-o-pensieri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T05:30:39+00:00"
-    },
-    {
-      "titolo": "Il caffè è una cosa seria: scopri cialde e capsule Borbone compatibili su eBay",
-      "descrizione": "Sappiamo bene che il caffè è una cosa serie ed è per questo che abbiamo selezionato le migliori cialde e capsule Borbone compatibili su eBay. The post Il caffè è una cosa seria: scopri cialde e capsule Borbone compatibil",
-      "link": "https://www.punto-informatico.it/il-caffe-e-una-cosa-seria-scopri-cialde-e-capsule-borbone-compatibili-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T05:00:04+00:00"
-    },
-    {
-      "titolo": "Columbia Promo Codes: 15% Off | August 2026",
-      "descrizione": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-14T05:00:00+00:00"
-    },
-    {
-      "titolo": "Office Depot Coupons: Save With Promo Codes in August 2026",
-      "descrizione": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "fonte": "WIRED",
-      "data": "2026-08-14T05:00:00+00:00"
-    },
-    {
-      "titolo": "Pura Promo Codes: $20 Off August 2026",
-      "descrizione": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "link": "https://www.wired.com/story/pura-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-14T05:00:00+00:00"
-    },
-    {
-      "titolo": "3 offerte a tempo da non perdere su Amazon: il tempo scorre!",
-      "descrizione": "Abbiamo selezionato per te 3 offerte a tempo da non perdere assolutamente disponibili solo su Amazon, ma sbrigati perché il tempo scorre. The post 3 offerte a tempo da non perdere su Amazon: il tempo scorre! appeared fir",
-      "link": "https://www.punto-informatico.it/3-offerte-a-tempo-da-non-perdere-su-amazon-il-tempo-scorre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T04:30:07+00:00"
-    },
-    {
-      "titolo": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
-      "descrizione": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
-      "link": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
-      "fonte": "Latest news",
-      "data": "2026-08-13T20:46:54+00:00"
-    },
-    {
-      "titolo": "Ho provato la nuova Creative Deck di Ulanzi: D200X e D100H | VIDEO",
-      "descrizione": "Queste 2 periferiche sono pensate per aiutare durante l'editing di foto e video. Le abbiamo testate per diversi giorni.",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n666067/ulanzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-13T18:40:00+00:00"
-    },
-    {
-      "titolo": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO silicon photonics products will extend until the end of the decade",
-      "descrizione": "The case for near-packaged optics (NPO) is strengthening, as the growing pains of co-packaged optics (CPO) become apparent. We explain the material differences between the two technologies as optics and silicon photonics",
-      "link": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-13T16:52:45+00:00"
     }
   ]
 }
