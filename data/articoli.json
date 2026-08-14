@@ -1,12 +1,117 @@
 {
-  "last_updated": "2026-08-14T13:45:11.832695+00:00",
+  "last_updated": "2026-08-14T19:15:14.074218+00:00",
   "items": [
     {
-      "titolo": "DREO porta l'AI nella gestione dell'aria di casa: le novità in arrivo a IFA 2026",
-      "descrizione": "A Berlino debutterà anche una nuova gamma di purificatori d'aria",
-      "link": "https://hdhome/domotica/articoli/n667290/dreo-ai-gestione-aria-casa-ifa-2026/",
+      "titolo": "Google Fogli diventa una dashboard interattiva con Gemini",
+      "descrizione": "Sheets canvas di Google Fogli sfrutta Gemini per trasformare un foglio di calcolo con centinaia di righe e colonne in una dashboard interattiva. The post Google Fogli diventa una dashboard interattiva con Gemini appeared",
+      "link": "https://www.punto-informatico.it/google-fogli-diventa-dashboard-interattiva-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T16:39:32+00:00"
+    },
+    {
+      "titolo": "Ray-Ban Meta per non vedenti: l’AI diventa un aiuto quotidiano",
+      "descrizione": "Gli smart glasses usano fotocamera e AI per descrivere ciò che circonda chi li indossa.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667178/ray-ban-meta-ai-non-vedenti/",
       "fonte": "HDblog.it",
-      "data": "2026-08-14T13:40:00+00:00"
+      "data": "2026-08-14T16:25:00+00:00"
+    },
+    {
+      "titolo": "Apple TV punta su Last Seen, thriller australiano in arrivo",
+      "descrizione": "Last Seen debutta il 9 settembre: una telefonata riapre un caso vecchio di 11 anni.",
+      "link": "https://www.hdblog.it/apple/articoli/n667170/last-seen-apple-tv-thriller-australiano/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T16:10:00+00:00"
+    },
+    {
+      "titolo": "Apple is warning users of new spyware attacks - what to do if you're a target",
+      "descrizione": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
+      "link": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+      "fonte": "Latest news",
+      "data": "2026-08-14T16:08:11+00:00"
+    },
+    {
+      "titolo": "Questa Mercedes del '79 era sepolta ad Avellino: oggi è un pezzo unico al mondo",
+      "descrizione": "Inghiottita dal terremoto dell'Irpinia nel 1980, una Mercedes 280 TE con soli 6.100 km riaffiora intonsa dopo 40 anni. Oggi vale oltre 130.000 dollari",
+      "link": "https://www.hdmotori.it/mercedes-280-te-w123-ritrovata-avellino/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T16:00:40+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z Fold8: la cerniera rimane un problema",
+      "descrizione": "Il Galaxy ZFold8 ha ancora una certificazione IP48, quindi polvere e sabbia possono danneggiare facilmente la cerniera dello smartphone pieghevole. The post Samsung Galaxy Z Fold8: la cerniera rimane un problema appeared",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-z-fold8-cerniera-rimane-problema/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T15:37:47+00:00"
+    },
+    {
+      "titolo": "GeForce NOW esce dalla beta su Linux: il cloud gaming abbatte un altro muro",
+      "descrizione": "GeForce NOW arriva nativamente su Linux mentre NVIDIA migliora il DLSS 4.5",
+      "link": "https://www.hdblog.it/nvidia/articoli/n667176/geforce-now-linux-app-nativa-dlss-4-5/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T15:35:00+00:00"
+    },
+    {
+      "titolo": "NASA prepara il sismometro che ascolterà i terremoti sulla Luna",
+      "descrizione": "LEMS studierà terremoti e impatti vicino al Polo Sud lunare lavorando in autonomia.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667186/nasa-lems-sismometro-luna-artemis/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T15:15:00+00:00"
+    },
+    {
+      "titolo": "Le fitness band senza schermo piacciono: +122% di vendite in un anno",
+      "descrizione": "Più salute, meno schermo.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667300/mercato-indossabili-fitness-band-senza-schermo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T15:05:00+00:00"
+    },
+    {
+      "titolo": "Lascia la Tesla Cybertruck collegata alla corrente per due settimane: succede l’impensabile",
+      "descrizione": "Un proprietario di Tesla ha dimenticato in corrente per due settimane il Cybertruck. Il pick-up full electric era completamente immobilizzato.",
+      "link": "https://www.hdmotori.it/tesla-cybertruck-in-corrente-problema/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T15:00:12+00:00"
+    },
+    {
+      "titolo": "Francia, \"liberté\" anche per i social: bocciato il divieto per gli under 15",
+      "descrizione": "Macron ha già chiesto di riscrivere la legge",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667297/social-francia-boccia-divieto-under-15/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T14:45:00+00:00"
+    },
+    {
+      "titolo": "Chad Powers 2 arriva su Disney+ a settembre | Trailer ufficiale",
+      "descrizione": "La seconda stagione di Chad Powers arriva il 3 settembre con sei nuovi episodi su Disney+.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n665963/chad-powers-stagione-2-disney-plus/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T14:40:00+00:00"
+    },
+    {
+      "titolo": "Ho provato \"lo smartwatch per cani\" con GPS e RETE DATI: vale la pena?",
+      "descrizione": "Quanto sareste disposti a spendere ogni anno per sapere sempre dove si trova il vostro cane? È più o meno la domanda che mi sono fatto quando ho iniziato a provare Kippy DOG, un...",
+      "link": "https://www.hdblog.it/home/articoli/n666733/kippy-dog-gps-cani-provato-serve-davvero/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T14:31:00+00:00"
+    },
+    {
+      "titolo": "Francia, stop al ban dei social per gli under 15: legge bocciata",
+      "descrizione": "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista. The post Francia, stop al ban dei social per gli under 15: legge bocciata appeared f",
+      "link": "https://www.punto-informatico.it/francia-stop-ban-social-under-15-legge-bocciata/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T14:26:28+00:00"
+    },
+    {
+      "titolo": "Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
+      "descrizione": "Cargo thieves knocked two private security escort vehicles out of action on California roads in recent months, then made off with millions of dollars in AI data center hardware.",
+      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-14T14:13:41+00:00"
+    },
+    {
+      "titolo": "Elettricità gratis: ecco la tenda che produce energia per caricare lo smartphone",
+      "descrizione": "Il tessuto magnetoelastico sfrutta l'effetto Villari.",
+      "link": "https://www.hdblog.it/green/articoli/n667287/tenda-smart-produzione-energia-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T14:10:00+00:00"
     },
     {
       "titolo": "ieGeek Camera ZY-G4: la telecamera 4G per sorvegliare le aree senza corrente e senza Wi-Fi",
@@ -14,20 +119,6 @@
       "link": "https://www.punto-informatico.it/iegeek-camera-zy-g4-la-telecamera-4g-per-sorvegliare-le-aree-senza-corrente-e-senza-wi-fi/",
       "fonte": "Punto Informatico",
       "data": "2026-08-14T13:01:12+00:00"
-    },
-    {
-      "titolo": "Fiat Topolino sbarca negli USA, ma c'è un problema \"surreale\"",
-      "descrizione": "La microcar elettrica non rispetta i limiti LSV. Fiat offre un kit aggiornamento gratuito per sbloccare la velocità e guidare su strada",
-      "link": "https://www.hdmotori.it/fiat-topolino-usa-problema-omologazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T13:00:26+00:00"
-    },
-    {
-      "titolo": "Apple avvisa gli utenti in 110 Paesi: possibile attacco con spyware mercenari",
-      "descrizione": "Non è la prima volta che vengono inviati avvisi di questo tipo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667269/apple-avvisa-utenti-attacco-spyware-mercenari/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T12:25:00+00:00"
     },
     {
       "titolo": "Apple avvisa gli utenti: attacco spyware in corso",
@@ -44,25 +135,11 @@
       "data": "2026-08-14T12:07:38+00:00"
     },
     {
-      "titolo": "Porsche Taycan, game over: vendite in calo e uscita di scena",
-      "descrizione": "In un futuro sempre più incerto per l’industria dell’automotive 2.0, Porsche deve affrontare numeri a ribasso per la Taycan",
-      "link": "https://www.hdmotori.it/porsche-taycan-stop-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T12:00:28+00:00"
-    },
-    {
       "titolo": "US imposes up to 100% tariffs on foreign-made drones and components — China remains primary target as Washington moves to reduce reliance on overseas suppliers",
       "descrizione": "The Trump administration says the new tariffs are necessary for national security and to address the US industry's heavy reliance on foreign-made drones and components, particularly from China.",
       "link": "https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-14T11:53:06+00:00"
-    },
-    {
-      "titolo": "AGCOM fa ordine nelle offerte FWA: arriva un nuovo bollino per quelle da 1 Gbps",
-      "descrizione": "Le offerte internet FWA non saranno più tutte nello stesso calderone: AGCOM introduce un bollino blu per le reti VHCN e mantiene giallo e rosso per le connessioni meno performanti",
-      "link": "https://www.hdblog.it/mobile/articoli/n667264/bollino-blu-fwa-veloci-agcom/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T11:45:00+00:00"
     },
     {
       "titolo": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms — our full 1:1 interview transcript",
@@ -79,13 +156,6 @@
       "data": "2026-08-14T10:43:57+00:00"
     },
     {
-      "titolo": "Caraffa addio? Ninja HydraSense filtra l’acqua fino a 6 volte più velocemente",
-      "descrizione": "Ninja HydraSense è il nuovo sistema SharkNinja per avere acqua filtrata direttamente sul piano della cucina, senza installazione: rimuove oltre 80 contaminanti e mantiene alcuni minerali",
-      "link": "https://www.hdblog.it/home/articoli/n667259/sistema-filtrare-acqua-ninja-hydrasense-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T10:35:00+00:00"
-    },
-    {
       "titolo": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
       "descrizione": "Ukraine intelligence claims that Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin NX modules with AI capabilities, allegedly for terminal guidance.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
@@ -98,76 +168,6 @@
       "link": "https://www.punto-informatico.it/agenti-ai-litigano-scoppia-guerra-territoriale/",
       "fonte": "Punto Informatico",
       "data": "2026-08-14T10:28:17+00:00"
-    },
-    {
-      "titolo": "Xiaomi 17 Ultra si è inventato una Luna che non esiste durante l'ultima eclissi di Sole",
-      "descrizione": "Xiaomi 17 Ultra si è decisamente confuso durante l'ultima eclissi, scambiando il Sole per la Luna.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667250/xiaomi-17-ultra-eclissi-sole-luna-foto-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T10:25:00+00:00"
-    },
-    {
-      "titolo": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "descrizione": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "fonte": "WIRED",
-      "data": "2026-08-14T10:15:00+00:00"
-    },
-    {
-      "titolo": "Pixel 11, Google fa chiarezza sul Tensor G6: lo fa TSMC, ma non a 2 nm",
-      "descrizione": "Niente processo a 2 nm per Tensor G6: durante la presentazione dei Pixel 11 a Taiwan, Google ha spiegato che il nuovo SoC è realizzato da TSMC con una tecnologia a 3 nm evoluta",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667255/pixel-11-pro-xl-tensor-g6-nm-processo-produttivo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T10:10:00+00:00"
-    },
-    {
-      "titolo": "VPN senza limiti per 27 mesi, ecco la promo di Surfshark (-85%)",
-      "descrizione": "Surfshark è una VPN illimitata e ricca di vantaggi, con la promo in corso il piano da 27 mesi ora costa 2,49 euro al mese, ecco l'offerta. The post VPN senza limiti per 27 mesi, ecco la promo di Surfshark (-85%) appeared",
-      "link": "https://www.punto-informatico.it/vpn-senza-limiti-per-27-mesi-ecco-la-promo-di-surfshark-85/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T10:00:13+00:00"
-    },
-    {
-      "titolo": "Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC — Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra",
-      "descrizione": "The heavily modified ZTE Nubia Z70 Ultra uses two full-size CPU coolers to keep its Snapdragon 8 Elite running under sustained loads, while Termux, Linux and compatibility layers turn it into a makeshift desktop PC.",
-      "link": "https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-14T10:00:00+00:00"
-    },
-    {
-      "titolo": "Un monumento per Elon Musk, ma non quello che vorrebbe lui",
-      "descrizione": "Cards Against Humanity vuole costruire una statua provocatoria dedicata a Elon Musk, dopo lo scontro legale contro SpaceX in Texas. The post Un monumento per Elon Musk, ma non quello che vorrebbe lui appeared first on Pu",
-      "link": "https://www.punto-informatico.it/monumento-elon-musk-cah/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T09:49:28+00:00"
-    },
-    {
-      "titolo": "Prepariamoci all'eclissi solare del 2027: ecco dove si vedrà meglio",
-      "descrizione": "Il 2 agosto 2027 una spettacolare eclissi solare attraverserà il Mediterraneo.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n667166/eclissi-solare-2027-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T09:45:00+00:00"
-    },
-    {
-      "titolo": "OpenAI annuncia la modalità Ultrafast per GPT-5.6 Sol",
-      "descrizione": "La modalità Ultrafast di GPT-5.6 Sol sfrutta la tecnologia di Cerebras per aumentare la velocità delle risposte fino a 14 volte (750 token al secondo). The post OpenAI annuncia la modalità Ultrafast per GPT-5.6 Sol appea",
-      "link": "https://www.punto-informatico.it/openai-annuncia-modalita-ultrafast-gpt-5-6-sol/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T09:12:55+00:00"
-    },
-    {
-      "titolo": "Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate — green sparkle 2-player edition of Computer Space hails from 1973",
-      "descrizione": "A games industry veteran is selling off what is 'probably the rarest arcade game in existence' via Boston’s RR Auctions.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-14T09:00:00+00:00"
-    },
-    {
-      "titolo": "Docsity cambia il modo di studiare con appunti, quiz e strumenti AI per preparare gli esami",
-      "descrizione": "Docsity raccoglie appunti, quiz, video corsi e strumenti AI per aiutare studenti universitari e liceali a organizzare studio e ripasso. The post Docsity cambia il modo di studiare con appunti, quiz e strumenti AI per pre",
-      "link": "https://www.punto-informatico.it/docsity-cambia-il-modo-di-studiare-con-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T07:30:32+00:00"
     }
   ]
 }
