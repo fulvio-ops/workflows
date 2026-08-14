@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-08-14T02:47:15.517850+00:00",
+  "last_updated": "2026-08-14T07:52:03.375050+00:00",
   "items": [
     {
-      "titolo": "The Safety Reckoning Inside OpenAI",
-      "descrizione": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "fonte": "WIRED",
-      "data": "2026-08-13T22:37:19+00:00",
+      "titolo": "Computer History per ChatGPT e Codex registra tutto quello che fai",
+      "descrizione": "OpenAI lancia Computer History per ChatGPT e Codex: registra le attività sul Mac e aiuta a riprendere il lavoro da dove lo si è lasciato. The post Computer History per ChatGPT e Codex registra tutto quello che fai appear",
+      "link": "https://www.punto-informatico.it/computer-history-chatgpt-codex/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T07:25:07+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot cambia, oggi inizia la grande trasformazione",
-      "descrizione": "Microsoft ha dato il via alla fusione tra Copilot e Microsoft 365 Copilot, annunciando un'app unificata e un logo tutto nuovo per l'AI. The post Copilot cambia, oggi inizia la grande trasformazione appeared first on Punt",
-      "link": "https://www.punto-informatico.it/copilot-cambia-inizia-grande-trasformazione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-13T14:48:10+00:00",
+      "titolo": "Microsoft prepara il Copilot unico: tutte le AI in una sola app",
+      "descrizione": "Microsoft riunirà Copilot e Microsoft 365 Copilot in un'unica super app AI",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667227/microsoft-copilot-super-app-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T05:55:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "This free Android assistant fixes my biggest Gemini frustration - and keeps my data private",
-      "descrizione": "With Google set to retire Assistant, and Gemini not exactly the replacement many of us want, Dicio is a solid option. There's one catch.",
-      "link": "https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/",
-      "fonte": "Latest news",
-      "data": "2026-08-14T00:00:45+00:00",
+      "titolo": "Google corre con Gemini 3.7 Flash: più potente dopo sole 3 settimane",
+      "descrizione": "Gemini 3.7 Flash migliora coding e agenti AI, con prezzi dimezzati.",
+      "link": "https://www.hdblog.it/google/articoli/n667233/gemini-3-7-flash-google-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-14T06:50:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
-      "descrizione": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
-      "link": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
-      "fonte": "Latest news",
-      "data": "2026-08-13T12:06:00+00:00",
+      "titolo": "Claude down il 14 agosto: tutti gli aggiornamenti (risolto)",
+      "descrizione": "Qualche problema per Claude alla vigilia di Ferragosto: segnalato un down della piattaforma AI, mentre la status dashboard non risponde. The post Claude down il 14 agosto: tutti gli aggiornamenti (risolto) appeared first",
+      "link": "https://www.punto-informatico.it/claude-down-14082026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T07:02:07+00:00",
       "modello": "claude"
     }
   ]
