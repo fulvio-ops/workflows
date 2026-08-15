@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-15T06:59:04.601329+00:00",
+  "last_updated": "2026-08-15T12:59:39.353479+00:00",
   "items": [
+    {
+      "titolo": "SpaceX studia i sistemi vitali per una presenza stabile sulla Luna",
+      "descrizione": "SpaceX guarda oltre Starship e lavora sui sistemi necessari per vivere stabilmente sulla Luna",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667187/spacex-base-lunare-riciclo-acqua/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-15T11:55:00+00:00"
+    },
+    {
+      "titolo": "Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry",
+      "descrizione": "Intel VP Robert Hallock suggests the PC industry is going to see a split between mainstream and enthusiast sockets if current market conditions don’t let up.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-says-pc-market-is-a-tale-of-two-kingdoms-with-mainstream-taking-a-beating-vp-suggests-a-split-between-mainstream-and-enthusiast-sockets-across-the-industry",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-15T11:30:00+00:00"
+    },
+    {
+      "titolo": "Anti-drone chain gun with 50mm precision-guided ammunition unveiled — Northrop Grumman's Raid Hunter is designed to wipe out drone swarms and cruise missiles",
+      "descrizione": "US aerospace, defense, and security giant Northrop Grumman thinks its Raid Hunter will provide short-range, layered air defense against the increasingly complex aerial threats we are seeing in modern warfare.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/anti-drone-chain-gun-with-50mm-precision-guided-ammunition-unveiled-northrop-grummans-raid-hunter-is-designed-to-wipe-out-drone-swarms-and-cruise-missiles",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-15T10:30:00+00:00"
+    },
+    {
+      "titolo": "Android 17 QPR2 ti lascia scegliere il colore che vuoi per l'interfaccia",
+      "descrizione": "Questione di sfumature: ecco come Google potenzia i colori dinamici.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667329/android-17-qpr2-pixel-colori-dinamici-come-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-15T10:25:00+00:00"
+    },
+    {
+      "titolo": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+      "descrizione": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+      "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+      "fonte": "WIRED",
+      "data": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "titolo": "Windows 11: ecco le novità in arrivo a fine agosto",
+      "descrizione": "Microsoft ha rilasciato versioni preliminari di Windows 11 24H2 e 25H2 con la possibilità di spostare e ridimensionare la barra delle applicazioni. The post Windows 11: ecco le novità in arrivo a fine agosto appeared fir",
+      "link": "https://www.punto-informatico.it/windows-11-novita-fine-agosto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-15T09:35:33+00:00"
+    },
+    {
+      "titolo": "Bose QuietComfort Ultra (2ª Gen): Amazon sconta del 35% le cuffie con audio spaziale",
+      "descrizione": "Le Bose QuietComfort Ultra Gen 2 con audio spaziale avanzato, modalità Cinema e cancellazione del rumore sono a prezzo ridotto su Amazon.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n667336/bose-quietcomfort-ultra-2a-gen-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-15T08:44:00+00:00"
+    },
+    {
+      "titolo": "POCO X8 Pro (8/512GB) vince a mani basse il confronto con i mid-range",
+      "descrizione": "Tra gli smartphone di fascia media il POCO X8 Pro, soprattutto nella versione da 512GB, è uno dei migliori e oggi è in offerta su Amazon. The post POCO X8 Pro (8/512GB) vince a mani basse il confronto con i mid-range app",
+      "link": "https://www.punto-informatico.it/poco-x8-pro-8-512gb-vince-mani-basse-confronto-con-mid-range/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-15T07:37:13+00:00"
+    },
     {
       "titolo": "Una selezione di offerte Dyson su eBay imperdibili",
       "descrizione": "Scopri una selezione accurata di offerte Dyson disponibili sul suo store ufficiale di eBay a prezzi imperdibili, anche a rate tasso zero. The post Una selezione di offerte Dyson su eBay imperdibili appeared first on Punt",
@@ -23,20 +79,6 @@
       "data": "2026-08-14T16:39:32+00:00"
     },
     {
-      "titolo": "Ray-Ban Meta per non vedenti: l’AI diventa un aiuto quotidiano",
-      "descrizione": "Gli smart glasses usano fotocamera e AI per descrivere ciò che circonda chi li indossa.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667178/ray-ban-meta-ai-non-vedenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T16:25:00+00:00"
-    },
-    {
-      "titolo": "Apple TV punta su Last Seen, thriller australiano in arrivo",
-      "descrizione": "Last Seen debutta il 9 settembre: una telefonata riapre un caso vecchio di 11 anni.",
-      "link": "https://www.hdblog.it/apple/articoli/n667170/last-seen-apple-tv-thriller-australiano/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T16:10:00+00:00"
-    },
-    {
       "titolo": "Apple is warning users of new spyware attacks - what to do if you're a target",
       "descrizione": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
       "link": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
@@ -44,67 +86,11 @@
       "data": "2026-08-14T16:08:11+00:00"
     },
     {
-      "titolo": "Questa Mercedes del '79 era sepolta ad Avellino: oggi è un pezzo unico al mondo",
-      "descrizione": "Inghiottita dal terremoto dell'Irpinia nel 1980, una Mercedes 280 TE con soli 6.100 km riaffiora intonsa dopo 40 anni. Oggi vale oltre 130.000 dollari",
-      "link": "https://www.hdmotori.it/mercedes-280-te-w123-ritrovata-avellino/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T16:00:40+00:00"
-    },
-    {
       "titolo": "Samsung Galaxy Z Fold8: la cerniera rimane un problema",
       "descrizione": "Il Galaxy ZFold8 ha ancora una certificazione IP48, quindi polvere e sabbia possono danneggiare facilmente la cerniera dello smartphone pieghevole. The post Samsung Galaxy Z Fold8: la cerniera rimane un problema appeared",
       "link": "https://www.punto-informatico.it/samsung-galaxy-z-fold8-cerniera-rimane-problema/",
       "fonte": "Punto Informatico",
       "data": "2026-08-14T15:37:47+00:00"
-    },
-    {
-      "titolo": "GeForce NOW esce dalla beta su Linux: il cloud gaming abbatte un altro muro",
-      "descrizione": "GeForce NOW arriva nativamente su Linux mentre NVIDIA migliora il DLSS 4.5",
-      "link": "https://www.hdblog.it/nvidia/articoli/n667176/geforce-now-linux-app-nativa-dlss-4-5/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T15:35:00+00:00"
-    },
-    {
-      "titolo": "NASA prepara il sismometro che ascolterà i terremoti sulla Luna",
-      "descrizione": "LEMS studierà terremoti e impatti vicino al Polo Sud lunare lavorando in autonomia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667186/nasa-lems-sismometro-luna-artemis/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T15:15:00+00:00"
-    },
-    {
-      "titolo": "Le fitness band senza schermo piacciono: +122% di vendite in un anno",
-      "descrizione": "Più salute, meno schermo.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667300/mercato-indossabili-fitness-band-senza-schermo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T15:05:00+00:00"
-    },
-    {
-      "titolo": "Lascia la Tesla Cybertruck collegata alla corrente per due settimane: succede l’impensabile",
-      "descrizione": "Un proprietario di Tesla ha dimenticato in corrente per due settimane il Cybertruck. Il pick-up full electric era completamente immobilizzato.",
-      "link": "https://www.hdmotori.it/tesla-cybertruck-in-corrente-problema/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T15:00:12+00:00"
-    },
-    {
-      "titolo": "Francia, \"liberté\" anche per i social: bocciato il divieto per gli under 15",
-      "descrizione": "Macron ha già chiesto di riscrivere la legge",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667297/social-francia-boccia-divieto-under-15/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T14:45:00+00:00"
-    },
-    {
-      "titolo": "Chad Powers 2 arriva su Disney+ a settembre | Trailer ufficiale",
-      "descrizione": "La seconda stagione di Chad Powers arriva il 3 settembre con sei nuovi episodi su Disney+.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n665963/chad-powers-stagione-2-disney-plus/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T14:40:00+00:00"
-    },
-    {
-      "titolo": "Ho provato \"lo smartwatch per cani\" con GPS e RETE DATI: vale la pena?",
-      "descrizione": "Quanto sareste disposti a spendere ogni anno per sapere sempre dove si trova il vostro cane? È più o meno la domanda che mi sono fatto quando ho iniziato a provare Kippy DOG, un...",
-      "link": "https://www.hdblog.it/home/articoli/n666733/kippy-dog-gps-cani-provato-serve-davvero/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-14T14:31:00+00:00"
     },
     {
       "titolo": "Francia, stop al ban dei social per gli under 15: legge bocciata",
@@ -168,6 +154,20 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-14T10:30:00+00:00"
+    },
+    {
+      "titolo": "Agenti AI litigano tra loro e scoppia una guerra territoriale",
+      "descrizione": "Un esperimento di Anthropic dimostra che gli agenti AI possono litigare tra loro per completare le attività assegnate, causando seri problemi. The post Agenti AI litigano tra loro e scoppia una guerra territoriale appear",
+      "link": "https://www.punto-informatico.it/agenti-ai-litigano-scoppia-guerra-territoriale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-14T10:28:17+00:00"
+    },
+    {
+      "titolo": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "descrizione": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "fonte": "WIRED",
+      "data": "2026-08-14T10:15:00+00:00"
     }
   ]
 }
