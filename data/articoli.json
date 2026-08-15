@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-08-14T19:15:14.074218+00:00",
+  "last_updated": "2026-08-15T01:50:45.648834+00:00",
   "items": [
+    {
+      "titolo": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+      "descrizione": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+      "fonte": "WIRED",
+      "data": "2026-08-14T21:43:17+00:00"
+    },
     {
       "titolo": "Google Fogli diventa una dashboard interattiva con Gemini",
       "descrizione": "Sheets canvas di Google Fogli sfrutta Gemini per trasformare un foglio di calcolo con centinaia di righe e colonne in una dashboard interattiva. The post Google Fogli diventa una dashboard interattiva con Gemini appeared",
@@ -161,13 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-14T10:30:00+00:00"
-    },
-    {
-      "titolo": "Agenti AI litigano tra loro e scoppia una guerra territoriale",
-      "descrizione": "Un esperimento di Anthropic dimostra che gli agenti AI possono litigare tra loro per completare le attività assegnate, causando seri problemi. The post Agenti AI litigano tra loro e scoppia una guerra territoriale appear",
-      "link": "https://www.punto-informatico.it/agenti-ai-litigano-scoppia-guerra-territoriale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-14T10:28:17+00:00"
     }
   ]
 }
