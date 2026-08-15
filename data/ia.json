@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T12:59:44.219780+00:00",
+  "last_updated": "2026-08-15T18:48:43.227651+00:00",
   "items": [
     {
       "titolo": "Il plugin Adobe su ChatGPT, 10 prompt per creare immagini e video",
@@ -10,27 +10,27 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "PowerToys porta l’AI dei Copilot+ PC direttamente sul desktop",
-      "descrizione": "PowerToys integra Phi Silica per elaborare testi con l’AI direttamente sul PC",
-      "link": "https://www.hdblog.it/windows/articoli/n667183/powertoys-ai-phi-silica-windows-11/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-15T07:25:00+00:00",
+      "titolo": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features",
+      "descrizione": "The move should cut down on the confusion between the two apps, especially for anyone who bounces back and forth between the two of them.",
+      "link": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
+      "fonte": "Latest news",
+      "data": "2026-08-13T13:32:06+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google permette di rimuovere il watermark da Gemini",
-      "descrizione": "Una nuova opzione di Gemini permette agli utenti di rimuovere il watermark visibile nell'angolo inferiore destro che indica la generazione AI. The post Google permette di rimuovere il watermark da Gemini appeared first o",
-      "link": "https://www.punto-informatico.it/google-permette-rimuovere-watermark-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-15T11:00:23+00:00",
+      "titolo": "Su Gemini il watermark che contrassegna le creazioni AI ora diventa opzionale",
+      "descrizione": "Ecco cosa cambia e come fare.",
+      "link": "https://www.hdblog.it/google/articoli/n667346/gemini-watermark-invisibili-come-rimuovere-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-15T15:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Agenti AI litigano tra loro e scoppia una guerra territoriale",
-      "descrizione": "Un esperimento di Anthropic dimostra che gli agenti AI possono litigare tra loro per completare le attività assegnate, causando seri problemi. The post Agenti AI litigano tra loro e scoppia una guerra territoriale appear",
-      "link": "https://www.punto-informatico.it/agenti-ai-litigano-scoppia-guerra-territoriale/",
+      "titolo": "Anthropic spiega come funziona il watermark di Claude",
+      "descrizione": "Anthropic ha fornito dettagli sul watermark aggiunto al testo generato da Claude (non visibile all'utente), specificando che potrebbe essere rimosso. The post Anthropic spiega come funziona il watermark di Claude appeare",
+      "link": "https://www.punto-informatico.it/anthropic-spiega-come-funziona-watermark-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-14T10:28:17+00:00",
+      "data": "2026-08-15T14:52:04+00:00",
       "modello": "claude"
     }
   ]
