@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T13:02:00.574299+00:00",
+  "last_updated": "2026-08-16T18:47:57.883085+00:00",
   "items": [
     {
       "titolo": "Il plugin Adobe su ChatGPT, 10 prompt per creare immagini e video",
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google permette di rimuovere il watermark da Gemini",
-      "descrizione": "Una nuova opzione di Gemini permette agli utenti di rimuovere il watermark visibile nell'angolo inferiore destro che indica la generazione AI. The post Google permette di rimuovere il watermark da Gemini appeared first o",
-      "link": "https://www.punto-informatico.it/google-permette-rimuovere-watermark-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-15T11:00:23+00:00",
+      "titolo": "Chrome potrebbe cambiare le password compromesse al posto tuo con Gemini",
+      "descrizione": "La novità si affaccia sul canale Canary.",
+      "link": "https://www.hdblog.it/google/articoli/n667370/chrome-gemini-cambia-password-automatico-ai-canary/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-16T15:05:00+00:00",
       "modello": "gemini"
     },
     {

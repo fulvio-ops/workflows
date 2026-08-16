@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-16T13:01:56.668557+00:00",
+  "last_updated": "2026-08-16T18:47:53.536880+00:00",
   "items": [
+    {
+      "titolo": "Apple addestra un modello AI per la Cina con l’aiuto di Alibaba",
+      "descrizione": "Apple ha avviato l'addestramento di un modello AI con l'aiuto di Alibaba e sarà disponibile per le funzionalità AI che verranno attivate con iOS 27. The post Apple addestra un modello AI per la Cina con l’aiuto di Alibab",
+      "link": "https://www.punto-informatico.it/apple-addestra-modelli-ai-cina-aiuto-alibaba/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-16T16:06:36+00:00"
+    },
+    {
+      "titolo": "This portable, external CD/DVD drive comes with a 2.5-inch SATA and an SD Card slot for just $26 — Save 10% on a modern essential for keeping physical media alive",
+      "descrizione": "If you have a bunch of old CDs or DVDs lying around and want something quick and simple to access them, this external drive can get the job done for you for less than $30 while offering extra features that would make it",
+      "link": "https://www.tomshardware.com/pc-components/this-portable-external-cd-dvd-drive-comes-with-a-2-5-inch-sata-and-an-sd-card-slot-for-just-usd26-save-10-percent-on-a-modern-essential-for-keeping-physical-media-alive",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-16T15:18:31+00:00"
+    },
+    {
+      "titolo": "Chrome potrebbe cambiare le password compromesse al posto tuo con Gemini",
+      "descrizione": "La novità si affaccia sul canale Canary.",
+      "link": "https://www.hdblog.it/google/articoli/n667370/chrome-gemini-cambia-password-automatico-ai-canary/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-16T15:05:00+00:00"
+    },
+    {
+      "titolo": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
+      "descrizione": "Dell has created a humorous AI-era update to its iconic early-2000s 'Dude, you’re getting a Dell' series of commercials.",
+      "link": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-16T14:31:33+00:00"
+    },
+    {
+      "titolo": "Xiaomi 18 Ultra potrebbe non esserci: e non è l'unico super top cinese a rischio",
+      "descrizione": "Oppo e Vivo invece potrebbero optare per un lancio solo in Cina.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667368/xiaomi-18-ultra-cancellato-oppo-vivo-pro-max-crisi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-16T14:20:00+00:00"
+    },
+    {
+      "titolo": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km range, country builds 6,000 flying-wing drones a year",
+      "descrizione": "The drone that destroyed a Tupolev Tu-95MS strategic bomber at Russia's Engels-2 air base last month turns out to be the MICH 2000.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-16T13:20:00+00:00"
+    },
     {
       "titolo": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
       "descrizione": "Intel’s Robert Hallock says he hopes enthusiasts “do the math” compared to AMD, highlighting that the company’s new core architecture will release in consumer processors before the data center.",
@@ -114,13 +156,6 @@
       "data": "2026-08-16T05:25:00+00:00"
     },
     {
-      "titolo": "Samsung Galaxy S27, il nuovo design delle fotocamere confermato da un brevetto",
-      "descrizione": "Dopo anni di continuità, sembra proprio stia per arrivare un cambiamento importante nel design dei flagship Samsung.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667349/samsung-galaxy-s27-brevetto-design-fotocamere/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-15T16:05:00+00:00"
-    },
-    {
       "titolo": "Niente Serie A sui canali di Tring: segnale bloccato",
       "descrizione": "La Lega Serie A ha interrotto la fornitura del segnale per le partite di Serie A e Coppa Italia perché Tring consente la visione anche in Italia. The post Niente Serie A sui canali di Tring: segnale bloccato appeared fir",
       "link": "https://www.punto-informatico.it/niente-serie-a-canali-tring-segnale-bloccato/",
@@ -128,46 +163,11 @@
       "data": "2026-08-15T15:55:33+00:00"
     },
     {
-      "titolo": "SpaceX compra Cursor, startup di programmazione AI per 60 miliardi di dollari",
-      "descrizione": "Ora è ufficiale.",
-      "link": "https://www.hdblog.it/business/articoli/n667347/spacex-acquisisce-cursor-60-miliardi-ai-coding/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-15T15:35:00+00:00"
-    },
-    {
-      "titolo": "Oltre 2000 robotaxi arriveranno in Europa grazie a Uber e Pony AI",
-      "descrizione": "La partnership punta a lanciare servizi di robotaxi con guida autonoma di Livello 4 a partire da Zagabria, grazie alla piattaforma globale di Uber e alla tecnologia di Pony AI.",
-      "link": "https://www.hdmotori.it/oltre-2000-robotaxi-europa-uber-pony-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-15T15:30:16+00:00"
-    },
-    {
       "titolo": "Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST",
       "descrizione": "Backblaze's quarterly reports compare whichever drives are available at the time.",
       "link": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-15T15:30:10+00:00"
-    },
-    {
-      "titolo": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out —prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD",
-      "descrizione": "The Acer Predator Orion 6000 gaming desktop is currently on sale for $2,099, $700 off its regular price.",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-nvidia-rtx-5070-ti-gaming-pc-for-usd2-099-before-it-sells-out-prebuilt-powerhouse-includes-a-core-ultra-7-265kf-32gb-ram-1tb-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-15T14:23:36+00:00"
-    },
-    {
-      "titolo": "Nvidia turns $5B Intel stock bet into $30B windfall — filing reveals new $21B SpaceX stake and complete exit from Arm stock",
-      "descrizione": "Nvidia quietly makes strategic and financial investments in clients, partners, and suppliers: CoreWeave, Coherent, Intel, Nokia, and SpaceX.",
-      "link": "https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-15T14:16:35+00:00"
-    },
-    {
-      "titolo": "Devs blame Windows for VLC media player bug that causes 33-second delay when playing MP3 files — creators allege Microsoft Defender blocking plugin cache is to blame",
-      "descrizione": "VLC developers say a Windows 11 issue involving Microsoft Defender can interfere with the media player's plugin cache and cause unusually long playback delays.",
-      "link": "https://www.tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-15T13:30:00+00:00"
     }
   ]
 }
