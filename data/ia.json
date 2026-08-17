@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-17T07:17:10.465959+00:00",
+  "last_updated": "2026-08-17T13:07:20.719243+00:00",
   "items": [
     {
-      "titolo": "Meta Glimmer porta l’AI sui PC: ma è davvero per tutti?",
-      "descrizione": "Meta rende Glimmer scaricabile, mentre i modelli AI più potenti restano dietro le sue API.",
-      "link": "https://www.hdblog.it/mercato/articoli/n667381/meta-glimmer-ai-open-weight-zuckerberg/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T07:15:00+00:00",
+      "titolo": "AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
+      "descrizione": "AI Paper Trail è un tool di Proton che sfrutta Lumo per analizzare le conversazioni di ChatGPT e Claude, svelando i dati condivisi con i chatbot. The post AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
+      "link": "https://www.punto-informatico.it/ai-paper-trail-proton-svela-dati-personali-usati-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T12:41:23+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Chrome potrebbe cambiare le password compromesse al posto tuo con Gemini",
-      "descrizione": "La novità si affaccia sul canale Canary.",
-      "link": "https://www.hdblog.it/google/articoli/n667370/chrome-gemini-cambia-password-automatico-ai-canary/",
+      "titolo": "Pixel 11, Gemini ci dirà come e perché si scarica la batteria con questa novità",
+      "descrizione": "Ecco cosa farà la nuova funzione in sviluppo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667454/google-pixel-battery-usage-summaries-riepilogo-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-08-16T15:05:00+00:00",
+      "data": "2026-08-17T12:25:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
-      "descrizione": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
-      "link": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
-      "fonte": "Latest news",
-      "data": "2026-08-13T12:06:00+00:00",
+      "titolo": "AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
+      "descrizione": "AI Paper Trail è un tool di Proton che sfrutta Lumo per analizzare le conversazioni di ChatGPT e Claude, svelando i dati condivisi con i chatbot. The post AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
+      "link": "https://www.punto-informatico.it/ai-paper-trail-proton-svela-dati-personali-usati-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T12:41:23+00:00",
       "modello": "claude"
     }
   ]
