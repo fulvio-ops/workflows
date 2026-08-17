@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-08-17T13:07:20.719243+00:00",
+  "last_updated": "2026-08-17T18:59:06.257516+00:00",
   "items": [
     {
-      "titolo": "AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
-      "descrizione": "AI Paper Trail è un tool di Proton che sfrutta Lumo per analizzare le conversazioni di ChatGPT e Claude, svelando i dati condivisi con i chatbot. The post AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
-      "link": "https://www.punto-informatico.it/ai-paper-trail-proton-svela-dati-personali-usati-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T12:41:23+00:00",
+      "titolo": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+      "descrizione": "Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-17T15:39:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features",
-      "descrizione": "The move should cut down on the confusion between the two apps, especially for anyone who bounces back and forth between the two of them.",
-      "link": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
-      "fonte": "Latest news",
-      "data": "2026-08-13T13:32:06+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Pixel 11, Gemini ci dirà come e perché si scarica la batteria con questa novità",
-      "descrizione": "Ecco cosa farà la nuova funzione in sviluppo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667454/google-pixel-battery-usage-summaries-riepilogo-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T12:25:00+00:00",
+      "titolo": "Usare Gemini 3.7 Flash per mettere ordine tra email e bollette",
+      "descrizione": "Gemini 3.7 Flash può cercare nella posta elettronica e nell'archivio di Google, estrarre scadenze da documenti diversi e costruire un piano d'azione. The post Usare Gemini 3.7 Flash per mettere ordine tra email e bollett",
+      "link": "https://www.punto-informatico.it/usare-gemini-3-7-flash-mettere-ordine-email-bollette/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T15:30:53+00:00",
       "modello": "gemini"
     },
     {

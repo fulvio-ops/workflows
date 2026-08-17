@@ -1,12 +1,124 @@
 {
-  "last_updated": "2026-08-17T13:07:17.471458+00:00",
+  "last_updated": "2026-08-17T18:59:01.902839+00:00",
   "items": [
     {
-      "titolo": "Brabus Bodo Cabriolet: 1.000 CV e 360 km/h a cielo aperto",
-      "descrizione": "Basata sull'Aston Martin Vanquish Volante, la nuova cabriolet di Brabus unisce l’artigianalità, le prestazioni del motore V12 biturbo e la tecnologia blockchain.",
-      "link": "https://www.hdmotori.it/brabus-bodo-cabriolet/",
+      "titolo": "AmnesiaStealer colpisce i Mac e prende il controllo dei browser",
+      "descrizione": "AmnesiaStealer è un malware per macOS che ruba password, cookie e dati dai browser Chromium e può consentire il controllo remoto delle sessioni web. The post AmnesiaStealer colpisce i Mac e prende il controllo dei browse",
+      "link": "https://www.punto-informatico.it/amnesiastealer-colpisce-mac-prende-controllo-browser/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T18:23:22+00:00"
+    },
+    {
+      "titolo": "Honor Pad 20 Pro ufficiale: un tablet multimediale / gaming di fascia alta",
+      "descrizione": "Display bello ampio e super definito, batteria enorme e tanta potenza.",
+      "link": "https://www.hdblog.it/tablet/articoli/n667505/honor-pad-20-pro-specifiche-prezzi-immagini/",
       "fonte": "HDblog.it",
-      "data": "2026-08-17T13:00:47+00:00"
+      "data": "2026-08-17T17:50:00+00:00"
+    },
+    {
+      "titolo": "La Duesenberg di Clark Gable regina di Pebble Beach, vince l'edizione 2026",
+      "descrizione": "La Duesemberg SSJ Special Speedster dell’iconico attore americano ha conquistato il Best of Show alla 75ª edizione del Concorso d'Eleganza di Pebble Beach in California.",
+      "link": "https://www.hdmotori.it/duesenberg-clark-gable-pebble-beach-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T17:30:33+00:00"
+    },
+    {
+      "titolo": "AI-enriched Linux 7.2 delivers cache-aware scheduling - here's everything new",
+      "descrizione": "The latest kernel also brings filesystem and I/O improvements and substantial new support across AMD, Intel, Apple, Nvidia, USB4, and laptop hardware.",
+      "link": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
+      "fonte": "Latest news",
+      "data": "2026-08-17T17:12:00+00:00"
+    },
+    {
+      "titolo": "Banane armate e cervelli fritti: il lato oscuro dell’AI slop",
+      "descrizione": "Il fruitslop porta sui social video generati dall'AI con frutti antropomorfi, sempre più spesso protagonisti di torture e scene violente. The post Banane armate e cervelli fritti: il lato oscuro dell’AI slop appeared fir",
+      "link": "https://www.punto-informatico.it/banane-armate-cervelli-fritti-lato-oscuro-ai-slop/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T16:56:50+00:00"
+    },
+    {
+      "titolo": "Apple cambierà il consenso al tracciamento per le app",
+      "descrizione": "Apple ha accettato di modificare le schermate dei consensi relativi alla funzionalità App Tracking Transparency in Europa, evitando una multa in Germania. The post Apple cambierà il consenso al tracciamento per le app ap",
+      "link": "https://www.punto-informatico.it/apple-cambiera-consenso-tracciamento-app/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T16:49:46+00:00"
+    },
+    {
+      "titolo": "Abbandona una Ferrari Roma a un incrocio: mistero a Brescia",
+      "descrizione": "Una preziosa Ferrari Roma è stata lasciata in stato di abbandono la sera del 13 agosto in provincia di Brescia. Una ammaccatura ha sollevato degli interrogativi.",
+      "link": "https://www.hdmotori.it/ferrari-roma-incrocio-mistero-brescia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T16:30:54+00:00"
+    },
+    {
+      "titolo": "Porsche celebra i 100 anni del Nürburgring con una 911 a tiratura limitata",
+      "descrizione": "Per celebrare i 100 anni del Nürburgring, Porsche presenta una serie speciale della 911 GT3 limitata a soli 100 esemplari",
+      "link": "https://www.hdmotori.it/porsche-911-100-anni-nurburgring/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T16:00:08+00:00"
+    },
+    {
+      "titolo": "IKEA lancia ÖRNVRÅK, un mini display multifunzione incredibilmente economico",
+      "descrizione": "Neanche 6 euro!",
+      "link": "https://www.hdblog.it/home/articoli/n667486/ikea-termometro-igrometro-orologio-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:55:00+00:00"
+    },
+    {
+      "titolo": "Pewex, la spesa si può pagare fino a 12 mesi: come funzionano le rate",
+      "descrizione": "La spesa al supermercato entra nel mondo del buy now, pay later: Pewex introduce Klarna, ma le dilazioni da 6 a 12 mesi sono finanziamenti che prevedono interessi",
+      "link": "https://www.hdblog.it/home/articoli/n667484/pewex-spesa-a-rate-con-klarna-interessi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:45:00+00:00"
+    },
+    {
+      "titolo": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+      "descrizione": "Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-17T15:39:28+00:00"
+    },
+    {
+      "titolo": "Usare Gemini 3.7 Flash per mettere ordine tra email e bollette",
+      "descrizione": "Gemini 3.7 Flash può cercare nella posta elettronica e nell'archivio di Google, estrarre scadenze da documenti diversi e costruire un piano d'azione. The post Usare Gemini 3.7 Flash per mettere ordine tra email e bollett",
+      "link": "https://www.punto-informatico.it/usare-gemini-3-7-flash-mettere-ordine-email-bollette/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-17T15:30:53+00:00"
+    },
+    {
+      "titolo": "Xiaomi lancia un acquario smart che pensa quasi a tutto, anche a nutrire i pesci",
+      "descrizione": "Xiaomi presenta Mijia Smart Fish Tank 2 Pro, acquario intelligente con filtrazione multistrato, mangiatoia automatica, display LCD e controllo a distanza attraverso l’app Mi Home",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n667481/xiaomi-acquario-smart-smart-fish-tank-2-pro-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:20:00+00:00"
+    },
+    {
+      "titolo": "Superman di Unitree: il nuovo robot straccia l'uomo in velocità e salto | Video",
+      "descrizione": "Il nuovo umanoide Superman raggiunge 45,6 km/h e salta 2 metri da fermo.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667467/unitree-superman-robot-umanoide-velocita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:10:00+00:00"
+    },
+    {
+      "titolo": "Fotocamera ZEISS e super teleobiettivo: il vivo V70 5G è al minimo storico",
+      "descrizione": "Prezzo più basso di sempre su Amazon per il vivo V70 5G da 256GB: fotocamera ZEISS da 50 MP, super teleobiettivo 3x, video 4K a 60 fps, display OLED 1.5K e batteria da 5400 mAh.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n667470/vivo-v70-5g-fotocamere-zeiss-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:08:00+00:00"
+    },
+    {
+      "titolo": "L’auto più estrema al mondo si chiama Czinger 21C Spyder, 1.250 CV e un limite d'altezza",
+      "descrizione": "Una meravigliosa creatura su quattro ruote ha fatto capolino al Monterey Car Week 2026. Tenetevi forte per le caratteristiche della Czinger 21C Spyder.",
+      "link": "https://www.hdmotori.it/czinger-21c-spyder-1-250-cv/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T15:00:36+00:00"
+    },
+    {
+      "titolo": "È morto Alex Fiorio: addio a uno dei protagonisti della Lancia che fece la storia dei rally",
+      "descrizione": "Il mondo dei rally è in lutto. Alex Fiorio è morto a 61 anni dopo una lunga malattia. Pilota di punta negli anni d’oro della Lancia Delta, fu vicecampione del mondo nel 1989",
+      "link": "https://www.hdmotori.it/e-morto-alex-fiorio-addio-a-uno-dei-protagonisti-della-lancia-che-fece-la-storia-dei-rally/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-17T14:47:04+00:00"
     },
     {
       "titolo": "OpenRouter sarà la nuova acquisizione di Stripe",
@@ -16,32 +128,11 @@
       "data": "2026-08-17T13:00:07+00:00"
     },
     {
-      "titolo": "Anthropic, un watermark invisibile nei testi generati da Claude AI: ecco come funziona",
-      "descrizione": "La tecnologia adotta un approccio simile a SynthID-Text",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667459/anthropic-watermark-invisibile-testi-claude-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T12:35:00+00:00"
-    },
-    {
       "titolo": "Omarchy 4, major release per la distro Linux basata su Arch",
       "descrizione": "La distro Linux basata su arriva con importanti novità per interfaccia, rete, Hyprland e gestione dei monitor: cosa cambia in Omarchy 4. The post Omarchy 4, major release per la distro Linux basata su Arch appeared first",
       "link": "https://www.punto-informatico.it/omarchy-4/",
       "fonte": "Punto Informatico",
       "data": "2026-08-17T12:27:30+00:00"
-    },
-    {
-      "titolo": "Pixel 11, Gemini ci dirà come e perché si scarica la batteria con questa novità",
-      "descrizione": "Ecco cosa farà la nuova funzione in sviluppo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667454/google-pixel-battery-usage-summaries-riepilogo-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T12:25:00+00:00"
-    },
-    {
-      "titolo": "Motorola presenta Moto G Max: fascia media con 7.000 mAh e display a 120 Hz",
-      "descrizione": "Moto G Max debutta con batteria da 7.000 mAh, display LCD Full HD+ da 6,72 pollici a 120 Hz e fotocamera principale Sony LYTIA 600 da 50 MP. Ecco caratteristiche e prezzo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667453/motorola-moto-g-max-ufficiale-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T12:15:00+00:00"
     },
     {
       "titolo": "6 offerte per la tua casa smart su Amazon a prezzo da scaffale",
@@ -51,20 +142,6 @@
       "data": "2026-08-17T12:02:11+00:00"
     },
     {
-      "titolo": "L’evoluzione dello stile Aston Martin: i segreti della special edition Valen",
-      "descrizione": "L'Aston Martin con motore anteriore più potente nei 113 anni di storia dell'azienda ha assunto forme estreme. Scopriamo la Valen in tutta la sua bellezza.",
-      "link": "https://www.hdmotori.it/stile-aston-martin-valen-segreti-special-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T12:00:19+00:00"
-    },
-    {
-      "titolo": "Google potrebbe affidarsi ad AMD per sviluppare la TPU di decima generazione",
-      "descrizione": "Secondo SemiAnalysis, AMD potrebbe partecipare allo sviluppo delle future TPU di Google. Tra le ipotesi c’è una maggiore integrazione tra acceleratori AI, core CPU e memoria HBM",
-      "link": "https://www.hdblog.it/hardware/articoli/n667450/google-amd-prossime-tpu-rumor/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T11:45:00+00:00"
-    },
-    {
       "titolo": "GoldenEye 007 for N64 has been '100% decompiled' — success of half-decade project opens up possibilities for complex mods and ports",
       "descrizione": "A reverse engineering and retro gaming enthusiast has finally succeeded in their goal of decompiling GoldenEye 007, the monumental James Bond adventure shooter from Rare.",
       "link": "https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports",
@@ -72,39 +149,11 @@
       "data": "2026-08-17T11:28:17+00:00"
     },
     {
-      "titolo": "Vivo Y31T in arrivo: economico ma con una batteria colossale",
-      "descrizione": "Un device che esiste in funzione della tecnologia di batterie Si-C.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667448/vivo-y31t-prezzo-immagini-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T11:15:00+00:00"
-    },
-    {
       "titolo": "Amazon: nuove condizioni d’uso per impedire le class action",
       "descrizione": "Le nuove condizioni d'uso di sito, servizi e app Amazon impediscono agli utenti statunitensi di avviare una class action (è obbligatorio l'arbitrato). The post Amazon: nuove condizioni d’uso per impedire le class action",
       "link": "https://www.punto-informatico.it/amazon-nuove-condizioni-uso-impedire-class-action/",
       "fonte": "Punto Informatico",
       "data": "2026-08-17T10:43:57+00:00"
-    },
-    {
-      "titolo": "Giochi e mondi virtuali, solo l’8,5% degli studi riguarda bambini e adolescenti",
-      "descrizione": "La letteratura scientifica sui mondi virtuali mostra associazioni sia negative sia positive, ma pochi studi permettono di stabilire relazioni causali, soprattutto quando si parla di minori",
-      "link": "https://www.hdblog.it/games/articoli/n667443/roblox-fortnite-minecraft-salute-minori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T10:25:00+00:00"
-    },
-    {
-      "titolo": "HMD pronta a rilasciare una versione \"Pro\" del suo 102 4G | Rumor",
-      "descrizione": "Qualche upgrade mirato per un \"telefonino\" con connettività 4G essenziale e senza pretese.",
-      "link": "https://www.hdblog.it/hmd/articoli/n667439/hmd-102-4g-pro-specifiche-novita-quando-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T10:15:00+00:00"
-    },
-    {
-      "titolo": "Moulinex Easy Fry Silence è la friggitrice ad aria più silenziosa: ora in sconto su Amazon",
-      "descrizione": "Dal design bianco e con 10 programmi intelligenti.",
-      "link": "https://www.hdblog.it/amazon/offerte/n667422/moulinex-easy-friggitrice-aria-silenziosa-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-17T10:06:00+00:00"
     },
     {
       "titolo": "Senior PC store staff accused of running secret rival shop with stolen inventory — Hong Kong retailer claims substantial losses over year-long scheme",
@@ -119,55 +168,6 @@
       "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
       "fonte": "WIRED",
       "data": "2026-08-17T10:00:00+00:00"
-    },
-    {
-      "titolo": "Dopo Pixel e Galaxy, Scam Detection di Google sui vivo",
-      "descrizione": "Google potrebbe portare la tecnologia anti-truffa di Scam Detection sugli smartphone del marchio vivo: è stato scovato un indizio. The post Dopo Pixel e Galaxy, Scam Detection di Google sui vivo appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/dopo-pixel-galaxy-scam-detection-google-smartphone-vivo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T09:57:18+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2 più sicuro senza una vecchia funzionalità",
-      "descrizione": "Microsoft rimuoverà WMIC da Windows 11 24H2/25H2 per motivi di sicurezza, quindi non sarà presente tra i file di installazione di Windows 11 26H2. The post Windows 11 26H2 più sicuro senza una vecchia funzionalità appear",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-piu-sicuro-senza-vecchia-funzionalita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T09:52:20+00:00"
-    },
-    {
-      "titolo": "Ray-Ban Meta, i video delle molestie sono ancora online",
-      "descrizione": "Meta aveva promesso di rimuovere i video molesti girati con gli occhiali Ray-Ban Meta, ma molti contenuti sono ancora online su Instagram. The post Ray-Ban Meta, i video delle molestie sono ancora online appeared first o",
-      "link": "https://www.punto-informatico.it/ray-ban-meta-video-molestie-sono-ancora-online/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T09:44:36+00:00"
-    },
-    {
-      "titolo": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
-      "descrizione": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process.",
-      "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
-      "fonte": "WIRED",
-      "data": "2026-08-17T09:30:00+00:00"
-    },
-    {
-      "titolo": "XIAOMI C301, la telecamera WiFi che tutti dovrebbero avere ora a soli 23€ su Amazon",
-      "descrizione": "XIAOMI C301 è la telecamera WiFi per interno che tutti dovrebbero avere a casa e in ufficio: oggi la trovi in offerta su Amazon a soli 22,90 euro. The post XIAOMI C301, la telecamera WiFi che tutti dovrebbero avere ora a",
-      "link": "https://www.punto-informatico.it/xiaomi-c301-telecamera-wifi-tutti-dovrebbero-avere-ora-soli-23-euro-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T09:18:39+00:00"
-    },
-    {
-      "titolo": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
-      "descrizione": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
-      "link": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
-      "fonte": "WIRED",
-      "data": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "titolo": "In arrivo El Niño: gli scienziati dicono che cambierà l’autunno in Italia",
-      "descrizione": "Gli scienziati hanno annunciato l'arrivo di un potente El Niño che cambierà il prossimo autunno in Italia, un evento climatico storico. The post In arrivo El Niño: gli scienziati dicono che cambierà l’autunno in Italia a",
-      "link": "https://www.punto-informatico.it/in-arrivo-el-nino-gli-scienziati-dicono-che-cambiera-autunno-in-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T08:45:18+00:00"
     }
   ]
 }
