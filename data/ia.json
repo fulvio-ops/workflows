@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-08-18T13:09:39.948655+00:00",
+  "last_updated": "2026-08-18T18:57:40.096973+00:00",
   "items": [
     {
-      "titolo": "Lancia Delta HF Integrale EVO 2, vero orgoglio italiano: 447.000 km e non sentirli",
-      "descrizione": "La prova che c’è stata un’epoca in cui l’auto italiana era all’apice ce la regala la Lancia Delta HF Integrale EVO 2",
-      "link": "https://www.hdmotori.it/lancia-delta-hf-integrale-evo-2-447000-km/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-18T12:00:21+00:00",
+      "titolo": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "descrizione": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "fonte": "WIRED",
+      "data": "2026-08-18T18:33:11+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft elimina Copilot da Excel, ecco perché",
-      "descrizione": "Dopo oltre 12 mesi di beta, Microsoft cancella una funzione di Copilot per Excel. Ecco cosa cambia e quali strumenti restano disponibili. The post Microsoft elimina Copilot da Excel, ecco perché appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/microsoft-elimina-copilot-da-excel-ecco-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-18T09:11:15+00:00",
+      "titolo": "Mico, il \"volto di Copilot\" non dura neanche un anno: Microsoft lo \"retrocede\"",
+      "descrizione": "Sarà parte della piattaforma di apprendimento interattiva Microsoft Learn Live.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667634/microsoft-mico-copilot-volto-rimosso/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-18T16:45:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Workspace lets Gemini access your company data by default - how to shut it down",
-      "descrizione": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
-      "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
-      "fonte": "Latest news",
-      "data": "2026-08-17T11:38:51+00:00",
+      "titolo": "5 cose che Gemini sa fare e ChatGPT ancora no",
+      "descrizione": "ChatGPT e Gemini si equivalgono su molti compiti, ma ci sono cinque aree in cui Gemini ha un vantaggio strutturale. Ecco dove domina. The post 5 cose che Gemini sa fare e ChatGPT ancora no appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/5-cose-gemini-sa-fare-chatgpt-ancora-no/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-18T15:30:55+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic continua a crescere a ritmo vertiginoso: IPO sopra i 2.000 mld?",
-      "descrizione": "I ricavi annualizzati sono passati in pochi mesi da 9 miliardi ad addirittura 65 miliardi.",
-      "link": "https://www.hdblog.it/business/articoli/n667579/anthropic-crescita-ricavi-vertiginosa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-18T10:20:00+00:00",
+      "titolo": "How to avoid Claude watermarking your content",
+      "descrizione": "The answer is where you least expect it.",
+      "link": "https://www.zdnet.com/article/how-to-avoid-claude-watermarking-your-content/",
+      "fonte": "Latest news",
+      "data": "2026-08-18T13:30:00+00:00",
       "modello": "claude"
     }
   ]
