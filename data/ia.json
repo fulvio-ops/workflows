@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-08-18T07:05:34.504361+00:00",
+  "last_updated": "2026-08-18T13:09:39.948655+00:00",
   "items": [
     {
-      "titolo": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?",
-      "descrizione": "This year’s El Niño is shaping up to be the strongest on record. Here’s what to expect.",
-      "link": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
-      "fonte": "WIRED",
-      "data": "2026-08-17T21:28:42+00:00",
+      "titolo": "Lancia Delta HF Integrale EVO 2, vero orgoglio italiano: 447.000 km e non sentirli",
+      "descrizione": "La prova che c’è stata un’epoca in cui l’auto italiana era all’apice ce la regala la Lancia Delta HF Integrale EVO 2",
+      "link": "https://www.hdmotori.it/lancia-delta-hf-integrale-evo-2-447000-km/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-18T12:00:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Usare Gemini 3.7 Flash per mettere ordine tra email e bollette",
-      "descrizione": "Gemini 3.7 Flash può cercare nella posta elettronica e nell'archivio di Google, estrarre scadenze da documenti diversi e costruire un piano d'azione. The post Usare Gemini 3.7 Flash per mettere ordine tra email e bollett",
-      "link": "https://www.punto-informatico.it/usare-gemini-3-7-flash-mettere-ordine-email-bollette/",
+      "titolo": "Microsoft elimina Copilot da Excel, ecco perché",
+      "descrizione": "Dopo oltre 12 mesi di beta, Microsoft cancella una funzione di Copilot per Excel. Ecco cosa cambia e quali strumenti restano disponibili. The post Microsoft elimina Copilot da Excel, ecco perché appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/microsoft-elimina-copilot-da-excel-ecco-perche/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-17T15:30:53+00:00",
+      "data": "2026-08-18T09:11:15+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+      "descrizione": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+      "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+      "fonte": "Latest news",
+      "data": "2026-08-17T11:38:51+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
-      "descrizione": "AI Paper Trail è un tool di Proton che sfrutta Lumo per analizzare le conversazioni di ChatGPT e Claude, svelando i dati condivisi con i chatbot. The post AI Paper Trail di Proton svela i dati personali usati da ChatGPT",
-      "link": "https://www.punto-informatico.it/ai-paper-trail-proton-svela-dati-personali-usati-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-17T12:41:23+00:00",
+      "titolo": "Anthropic continua a crescere a ritmo vertiginoso: IPO sopra i 2.000 mld?",
+      "descrizione": "I ricavi annualizzati sono passati in pochi mesi da 9 miliardi ad addirittura 65 miliardi.",
+      "link": "https://www.hdblog.it/business/articoli/n667579/anthropic-crescita-ricavi-vertiginosa/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-18T10:20:00+00:00",
       "modello": "claude"
     }
   ]
