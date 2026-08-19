@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-08-19T01:54:01.637665+00:00",
+  "last_updated": "2026-08-19T07:07:01.476518+00:00",
   "items": [
     {
-      "titolo": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "descrizione": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "fonte": "WIRED",
-      "data": "2026-08-18T18:33:11+00:00",
+      "titolo": "ChatGPT Ads: arrivano le pubblicità in Italia, tra pochi giorni",
+      "descrizione": "ChatGPT inizierà a mostrare pubblicità anche in Italia: come funzionano gli annunci e dove compariranno all'interno delle conversazioni. The post ChatGPT Ads: arrivano le pubblicità in Italia, tra pochi giorni appeared f",
+      "link": "https://www.punto-informatico.it/chatgpt-ads-pubblicita-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T06:18:38+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Mico, il \"volto di Copilot\" non dura neanche un anno: Microsoft lo \"retrocede\"",
-      "descrizione": "Sarà parte della piattaforma di apprendimento interattiva Microsoft Learn Live.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n667634/microsoft-mico-copilot-volto-rimosso/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-18T16:45:00+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "5 cose che Gemini sa fare e ChatGPT ancora no",
