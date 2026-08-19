@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-08-19T07:07:01.476518+00:00",
+  "last_updated": "2026-08-19T13:10:35.769490+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Ads: arrivano le pubblicità in Italia, tra pochi giorni",
-      "descrizione": "ChatGPT inizierà a mostrare pubblicità anche in Italia: come funzionano gli annunci e dove compariranno all'interno delle conversazioni. The post ChatGPT Ads: arrivano le pubblicità in Italia, tra pochi giorni appeared f",
-      "link": "https://www.punto-informatico.it/chatgpt-ads-pubblicita-italia/",
+      "titolo": "Come funziona il bar di Pechino che regala crediti AI illimitati",
+      "descrizione": "L'AGI Bar della capitale cinese permette di utilizzare gratuitamente l'intelligenza artificiale di DeepSeek (e regala troppi drink). The post Come funziona il bar di Pechino che regala crediti AI illimitati appeared firs",
+      "link": "https://www.punto-informatico.it/come-funziona-bar-pechino-regala-crediti-ai-illimitati/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-19T06:18:38+00:00",
+      "data": "2026-08-19T12:52:08+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "5 cose che Gemini sa fare e ChatGPT ancora no",
-      "descrizione": "ChatGPT e Gemini si equivalgono su molti compiti, ma ci sono cinque aree in cui Gemini ha un vantaggio strutturale. Ecco dove domina. The post 5 cose che Gemini sa fare e ChatGPT ancora no appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/5-cose-gemini-sa-fare-chatgpt-ancora-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-18T15:30:55+00:00",
+      "titolo": "Gemini arriva in Chrome su Android, e può anche navigare al posto dell’utente",
+      "descrizione": "Google completa il rollout di Gemini in Chrome su Android negli Stati Uniti: l’assistente può riassumere pagine, rispondere a domande e, con Auto browse, navigare autonomamente",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667704/gemini-in-chrome-rollout-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T09:45:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How to avoid Claude watermarking your content",
-      "descrizione": "The answer is where you least expect it.",
-      "link": "https://www.zdnet.com/article/how-to-avoid-claude-watermarking-your-content/",
-      "fonte": "Latest news",
-      "data": "2026-08-18T13:30:00+00:00",
+      "titolo": "Dev uses Claude AI to create native macOS driver for 'obscure' Windows-only printer — Linux container hack enables system-wide Cmd-P printing, driver now available on Github",
+      "descrizione": "A developer has revealed that they used Claude Code to create a macOS laser printer driver for the HP Laser 1008a, a machine designed for Windows users.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-uses-claude-ai-to-create-native-macos-driver-for-obscure-windows-only-printer-linux-container-hack-enables-system-wide-cmd-p-printing-driver-now-available-on-github",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-19T10:00:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Come funziona il bar di Pechino che regala crediti AI illimitati",
+      "descrizione": "L'AGI Bar della capitale cinese permette di utilizzare gratuitamente l'intelligenza artificiale di DeepSeek (e regala troppi drink). The post Come funziona il bar di Pechino che regala crediti AI illimitati appeared firs",
+      "link": "https://www.punto-informatico.it/come-funziona-bar-pechino-regala-crediti-ai-illimitati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T12:52:08+00:00",
+      "modello": "altri"
     }
   ]
 }
