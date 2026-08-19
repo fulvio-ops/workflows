@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-08-19T13:10:35.769490+00:00",
+  "last_updated": "2026-08-19T18:54:37.850202+00:00",
   "items": [
     {
-      "titolo": "Come funziona il bar di Pechino che regala crediti AI illimitati",
-      "descrizione": "L'AGI Bar della capitale cinese permette di utilizzare gratuitamente l'intelligenza artificiale di DeepSeek (e regala troppi drink). The post Come funziona il bar di Pechino che regala crediti AI illimitati appeared firs",
-      "link": "https://www.punto-informatico.it/come-funziona-bar-pechino-regala-crediti-ai-illimitati/",
+      "titolo": "5 cose che Claude sa fare meglio rispetto a ChatGPT",
+      "descrizione": "Claude e ChatGPT si sfidano a distanza ravvicinata, ma alcune funzioni restano esclusive di Claude. Ecco le 5 più interessanti. The post 5 cose che Claude sa fare meglio rispetto a ChatGPT appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/5-cose-claude-sa-fare-meglio-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-19T12:52:08+00:00",
+      "data": "2026-08-19T15:30:57+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini arriva in Chrome su Android, e può anche navigare al posto dell’utente",
-      "descrizione": "Google completa il rollout di Gemini in Chrome su Android negli Stati Uniti: l’assistente può riassumere pagine, rispondere a domande e, con Auto browse, navigare autonomamente",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667704/gemini-in-chrome-rollout-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T09:45:00+00:00",
+      "titolo": "Microsoft Copilot svela dati sensibili: basta chiedere",
+      "descrizione": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. The post Microsoft Copilot svela dati sensibili: basta chiedere appeared f",
+      "link": "https://www.punto-informatico.it/microsoft-copilot-svela-dati-sensibili-basta-chiedere/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T13:26:20+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Pixel Watch 5 Review: More Health, More AI",
+      "descrizione": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+      "link": "https://www.wired.com/review/google-pixel-watch-5/",
+      "fonte": "WIRED",
+      "data": "2026-08-19T16:34:24+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Dev uses Claude AI to create native macOS driver for 'obscure' Windows-only printer — Linux container hack enables system-wide Cmd-P printing, driver now available on Github",
-      "descrizione": "A developer has revealed that they used Claude Code to create a macOS laser printer driver for the HP Laser 1008a, a machine designed for Windows users.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-uses-claude-ai-to-create-native-macos-driver-for-obscure-windows-only-printer-linux-container-hack-enables-system-wide-cmd-p-printing-driver-now-available-on-github",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-19T10:00:00+00:00",
+      "titolo": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "descrizione": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "fonte": "WIRED",
+      "data": "2026-08-19T16:44:07+00:00",
       "modello": "claude"
     },
     {

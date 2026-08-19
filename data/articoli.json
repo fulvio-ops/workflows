@@ -1,19 +1,138 @@
 {
-  "last_updated": "2026-08-19T13:10:28.322824+00:00",
+  "last_updated": "2026-08-19T18:54:33.607688+00:00",
   "items": [
+    {
+      "titolo": "Your Comcast router doubles as a motion detector now - and a potential police informant",
+      "descrizione": "Opinion: Comcast's new motion detection technology could benefit your home, but it also raises privacy concerns. The details are in the fine print.",
+      "link": "https://www.zdnet.com/article/comcast-routers-detect-motion/",
+      "fonte": "Latest news",
+      "data": "2026-08-19T17:13:57+00:00"
+    },
+    {
+      "titolo": "Snapseed per Android, Google lavora a Motion Blur e file LUT",
+      "descrizione": "Chissà quando inizierà la distribuzione ufficiale?",
+      "link": "https://www.hdblog.it/google/articoli/n667774/snapseed-motion-blur-file-lut-android-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T17:10:00+00:00"
+    },
+    {
+      "titolo": "Alexa+ gratis sui dispositivi FireTV: anche in Italia?",
+      "descrizione": "A partire da oggi, gli utenti statunitensi non devono più sottoscrivere un abbonamento per accedere ad Alexa+ tramite dispositivi Fire TV compatibili. The post Alexa+ gratis sui dispositivi FireTV: anche in Italia? appea",
+      "link": "https://www.punto-informatico.it/alexa-gratis-dispositivi-firetv-anche-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T17:05:53+00:00"
+    },
+    {
+      "titolo": "I 15 anni di un record che Skoda custodisce ancora con orgoglio",
+      "descrizione": "Nel 2011 una speciale Škoda Octavia vRS raggiunse 227,080 mph a Bonneville, conquistando un record che resiste ancora nella storia del marchio",
+      "link": "https://www.hdmotori.it/skoda-octavia-rs-record-bonneville/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T17:00:01+00:00"
+    },
+    {
+      "titolo": "Nubia Neo 5 Max è quasi un tablet: 7,5 pollici di diagonale!",
+      "descrizione": "Ben 7.000 mAh di batteria e un'impronta decisamente gaming, con controlli ad hoc e molto altro. Arriverà da noi?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667770/nubia-neo-5-max-padphone-display-enorme-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:55:00+00:00"
+    },
+    {
+      "titolo": "AirPods 5, due modelli in arrivo: Apple lascia un indizio nel codice di macOS",
+      "descrizione": "Cosa sappiamo.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667758/airpods-5-codice-macos-26-7-chip-h3/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:35:00+00:00"
+    },
+    {
+      "titolo": "Raspberry Pi, arriva il dispositivo per aiutare i produttori su larga scala",
+      "descrizione": "Si chiama Raspberry Pi Compute Module 5 Programming Jig.",
+      "link": "https://www.hdblog.it/domotica/articoli/n667762/raspberry-pi-compute-module-5-programming-jig/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:25:00+00:00"
+    },
+    {
+      "titolo": "Alexa+ gratuita su Fire TV negli USA, anche senza abbonamento Prime: presto da noi?",
+      "descrizione": "Amazon rende Alexa+ gratuita sui Fire TV compatibili negli Stati Uniti, anche per chi non è abbonato a Prime. L’aggiornamento è automatico e non richiede l’attivazione di un piano",
+      "link": "https://www.hdblog.it/tv/articoli/n667760/amazon-alexa-plus-gratuito-per-tutti-quali-dispositivi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:15:00+00:00"
+    },
+    {
+      "titolo": "Recensione Pixel 11 Pro XL, perfettamente imperfetto, e mi ha messo in difficoltà",
+      "descrizione": "Abbiamo provato il nuovo top di gamma Google ed ecco come ci siamo trovati!",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n667678/recensione-google-pixel-11-pro-xl-prezzo-sconti/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:01:00+00:00"
+    },
+    {
+      "titolo": "Torna lo straccia bollo, stop a sanzioni e interessi per chi regolarizza il bollo auto",
+      "descrizione": "",
+      "link": "https://www.hdmotori.it/torna-straccia-bollo-stop-sanzioni-interessi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T16:00:22+00:00"
+    },
+    {
+      "titolo": "Samsung Wallet diventa la chiave dell'auto: arriva il supporto alle Volkswagen EV",
+      "descrizione": "Basta la smartphone, e non serve neanche toglierlo dalla tasca.",
+      "link": "https://www.hdblog.it/samsung/articoli/n667750/samsung-wallet-digital-key-galaxy-volkswagen-ev/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T15:50:00+00:00"
+    },
+    {
+      "titolo": "China shifting massive AI data center complexes to rural provinces to tap surplus energy — ‘Eastern Data, Western Computing’ strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
+      "descrizione": "Chinese tech giants are putting up data centers in rural Chinese provinces with zero resistance. The abundance of land and energy in these areas allowed infrastructure to easily be built with limited issues, although som",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-19T15:49:04+00:00"
+    },
+    {
+      "titolo": "Xiaomi ha il suo Liquid Glass su HyperOS 4, ma non su tutti i modelli",
+      "descrizione": "Xiaomi cambia l’aspetto di HyperOS 4 con Soft Light Glass, una soluzione che ricorda Liquid Glass di Apple e che richiede una discreta potenza di elaborazione grafica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667753/hyperos-4-liquid-glass-quali-modelli-xiaomi-redmi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T15:40:00+00:00"
+    },
+    {
+      "titolo": "Gmail, Claude può rispondere alle email e inviarle senza permesso",
+      "descrizione": "Claude può inviare email su Gmail senza approvazione a ogni messaggio. Ecco come funziona la nuova automazione e quali rischi comporta. The post Gmail, Claude può rispondere alle email e inviarle senza permesso appeared",
+      "link": "https://www.punto-informatico.it/gmail-claude-puo-rispondere-email-inviarle-senza-permesso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T15:06:24+00:00"
+    },
+    {
+      "titolo": "Mini apre alla trazione posteriore: svolta epocale per la Cooper",
+      "descrizione": "La Mini, reintrodotta sul mercato nel 2001, potrebbe in futuro essere costruita sulla base della piattaforma Neue Klasse della BMW.",
+      "link": "https://www.hdmotori.it/nuova-mini-cooper-trazione-posteriore/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T15:00:46+00:00"
+    },
+    {
+      "titolo": "Amazon crede nelle consegne con i droni: Prime Air in 500 location entro l'anno",
+      "descrizione": "Prime Air accelera negli USA: Amazon sta per ampliare la copertura delle consegne con i droni, mentre in Italia il progetto è sospeso.",
+      "link": "https://www.hdblog.it/droni/articoli/n667735/amazon-consegne-droni-prime-air-espansione/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T14:40:00+00:00"
+    },
+    {
+      "titolo": "Microsoft cambia i nomi dei prodotti troppo spesso: questo curioso sito ne tiene traccia",
+      "descrizione": "E li prevede persino.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667734/microsoft-cambia-nomi-prodotti-sito-traccia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-19T14:35:00+00:00"
+    },
+    {
+      "titolo": "Amazon estende il servizio Prime Air negli Stati Uniti",
+      "descrizione": "Amazon ha annunciato che il servizio Prime Air verrà esteso entro fine 2026 a quasi 500 città negli Stati Uniti (in Italia doveva arrivare a marzo). The post Amazon estende il servizio Prime Air negli Stati Uniti appeare",
+      "link": "https://www.punto-informatico.it/amazon-estende-servizio-prime-air-stati-uniti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-19T14:30:05+00:00"
+    },
     {
       "titolo": "Il film MUTINY è finito su Prime Video prima di arrivare al cinema",
       "descrizione": "Prime Video ha pubblicato la versione integrale di MUTINY, ma il film debba arrivare prima al cinema: è un errore della piattaforma? The post Il film MUTINY è finito su Prime Video prima di arrivare al cinema appeared fi",
       "link": "https://www.punto-informatico.it/mutiny-prime-video/",
       "fonte": "Punto Informatico",
       "data": "2026-08-19T13:08:09+00:00"
-    },
-    {
-      "titolo": "Nothing Phone 3, Roborock, Xiaomi Smart Band 10 e altro: le migliori offerte del 19 agosto",
-      "descrizione": "Le migliori offerte tech del 19 agosto puntano su smartphone, robot aspirapolvere, monitor gaming, action cam, smart band e dispositivi per la casa con prezzi interessanti soprattutto su Amazon.",
-      "link": "https://www.hdblog.it/amazon/offerte/n667724/migliori-offerte-tech-19-agosto-2026-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T13:05:00+00:00"
     },
     {
       "titolo": "Come funziona il bar di Pechino che regala crediti AI illimitati",
@@ -30,32 +149,11 @@
       "data": "2026-08-19T12:40:00+00:00"
     },
     {
-      "titolo": "Apple ha in serbo parecchie novità per CarPlay con iOS 27: quali sono",
-      "descrizione": "Apple arricchisce CarPlay con iOS 27: video a veicolo fermo, nuova interfaccia ed una Siri ancora più avanzata.",
-      "link": "https://www.hdblog.it/apple/articoli/n667696/apple-carplay-nuove-funzioni-ios-27/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T12:25:00+00:00"
-    },
-    {
-      "titolo": "La Ferrari 550 Maranello è tornata e si chiama Veloce 12 Aperta",
-      "descrizione": "Touring Superleggera si è superata e ha svelato la Veloce12 Aperta, restomod della Ferrari 550 Maranello con V12 da 530 CV e cambio manuale.",
-      "link": "https://www.hdmotori.it/ferrari-550-maranello-veloce-12-aperta/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T12:00:00+00:00"
-    },
-    {
       "titolo": "Serie A al via: ecco cosa devono fare gli abbonati DAZN in vacanza all’estero",
       "descrizione": "L'utilizzo di una VPN si rende indispensabile per evitare il blocco geografico che impedisce la visione dei contenuti in streaming. The post Serie A al via: ecco cosa devono fare gli abbonati DAZN in vacanza all’estero a",
       "link": "https://www.punto-informatico.it/serie-a-al-via-ecco-cosa-devono-fare-gli-abbonati-dazn-in-vacanza-allestero/",
       "fonte": "Punto Informatico",
       "data": "2026-08-19T11:54:39+00:00"
-    },
-    {
-      "titolo": "Net zero urbano, lo studio: i piani europei dipendono troppo dalle rimozioni di CO2",
-      "descrizione": "Nature Climate Change pubblica un’analisi dei piani di 103 città europee: gli obiettivi sono ambiziosi, ma la robustezza media delle strategie di compensazione resta medio-bassa",
-      "link": "https://www.hdblog.it/green/articoli/n667717/citta-ue-emissioni-zero-troppa-co2/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T11:45:00+00:00"
     },
     {
       "titolo": "Beijing AI bar that offers unlimited free DeepSeek coding tokens with $1.50 drink haemorrhaging cash — 'the bar is completely losing money, ' owner admits",
@@ -65,109 +163,11 @@
       "data": "2026-08-19T11:44:32+00:00"
     },
     {
-      "titolo": "Problemi con Vodafone il 19 agosto: tutti gli aggiornamenti",
-      "descrizione": "Centinaia di segnalazioni relative a problemi per la rete Vodafone: tutti gli aggiornamenti su quanto sta accadendo oggi, 19 agosto 2026. The post Problemi con Vodafone il 19 agosto: tutti gli aggiornamenti appeared firs",
+      "titolo": "Problemi con Vodafone il 19 agosto: tutti gli aggiornamenti (risolto)",
+      "descrizione": "Centinaia di segnalazioni relative a problemi per la rete Vodafone: tutti gli aggiornamenti su quanto sta accadendo oggi, 19 agosto 2026. The post Problemi con Vodafone il 19 agosto: tutti gli aggiornamenti (risolto) app",
       "link": "https://www.punto-informatico.it/vodafone-down-19082026/",
       "fonte": "Punto Informatico",
       "data": "2026-08-19T11:43:07+00:00"
-    },
-    {
-      "titolo": "Una foto per scoprire il diabete? La nuova AI di Google ci prova",
-      "descrizione": "PhotoScan di Google sfrutta l'AI e una foto dello smartphone per stimare il grasso corporeo e la resistenza all'insulina. The post Una foto per scoprire il diabete? La nuova AI di Google ci prova appeared first on Punto",
-      "link": "https://www.punto-informatico.it/foto-scoprire-diabete-nuova-ai-google-ci-prova/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T11:17:38+00:00"
-    },
-    {
-      "titolo": "Windows Defender, la saga continua: ora le scansioni vanno in crash",
-      "descrizione": "Arriva quasi alla fine, poi si pianta.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n667715/windows-defender-bug-crash-scansioni-malware/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T11:10:00+00:00"
-    },
-    {
-      "titolo": "Fairphone 6+ è lo smartphone Android con riparabilità 10/10",
-      "descrizione": "Il nuovo Fairphone 6+ ha ottenuto un punteggio di riparabilità 10/10 perché i componenti possono essere smontati facilmente con un solo cacciavite. The post Fairphone 6+ è lo smartphone Android con riparabilità 10/10 app",
-      "link": "https://www.punto-informatico.it/fairphone-6-smartphone-android-riparabilita-10/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T11:08:57+00:00"
-    },
-    {
-      "titolo": "I Tried a Window-Cleaning Robot: Do Not Recommend",
-      "descrizione": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
-      "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
-      "fonte": "WIRED",
-      "data": "2026-08-19T11:08:00+00:00"
-    },
-    {
-      "titolo": "Motorola Edge 60 Neo: display OLED 120Hz e sensore Sony LYTIA a poco più di 245€",
-      "descrizione": "Il Motorola Edge 60 Neo è in offerta su eBay: display pOLED a 120 Hz, fotocamera Sony da 50 MP e ricarica TurboPower da 68W.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n667709/motorola-edge-60-neo-display-oled-120hz-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:56:00+00:00"
-    },
-    {
-      "titolo": "Paramount+ prova ad attirare nuovi abbonati con episodi gratuiti",
-      "descrizione": "Per ora i test sembrano circoscritti all'ecosistema Android e i dettagli sono poco chiari.",
-      "link": "https://www.hdblog.it/android/articoli/n667714/paramount-plus-episodi-gratis-pubblicita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:50:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi aggiorna la lista EOL: stop agli aggiornamenti per 12 Lite e altri modelli",
-      "descrizione": "Xiaomi interrompe il supporto per sei dispositivi tra smartphone e tablet. Tra quelli che interessano direttamente l’Europa c’è Xiaomi 12 Lite, che ora fa parte della lista EOL",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667712/xiaomi-12-lite-fine-supporto-cosa-significa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:40:00+00:00"
-    },
-    {
-      "titolo": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block — most licensed chips must stay in Hong Kong, which can't power them",
-      "descrizione": "Beijing wants most of each company's U.S.-licensed allowance, which the FT puts at up to 100,000 units apiece, kept off the mainland.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-19T10:37:13+00:00"
-    },
-    {
-      "titolo": "Xiaomi ha una nuova fontanella smart per cani e gatti che sterilizza anche l’acqua",
-      "descrizione": "Xiaomi presenta Mijia Smart Pet Water Fountain 2 Sterilization Edition, fontanella per cani e gatti con serbatoio da 3 litri, sterilizzazione UV-C e batteria fino a 90 giorni",
-      "link": "https://www.hdblog.it/home/articoli/n667710/xiaomi-dispenser-acqua-cani-gatti-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:20:00+00:00"
-    },
-    {
-      "titolo": "Social media e dipendenza: iniziato il processo per Meta",
-      "descrizione": "È iniziato in California il processo nei confronti di Meta, accusata di aver ingannato gli utenti in merito alla sicurezza di Facebook e Instagram. The post Social media e dipendenza: iniziato il processo per Meta appear",
-      "link": "https://www.punto-informatico.it/social-media-dipendenza-iniziato-processo-meta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T10:12:57+00:00"
-    },
-    {
-      "titolo": "Lidl da Guinness World Record: un trapano Parkside fa muovere il London Eye",
-      "descrizione": "Un trapano a batteria da 20 V è riuscito a mettere in movimento il London Eye",
-      "link": "https://www.hdblog.it/home/articoli/n667705/lidl-guinness-world-record-trapano-parkside/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:10:00+00:00"
-    },
-    {
-      "titolo": "L'algoritmo di X (Twitter) si impegna per far arrabbiare gli utenti Democratici?",
-      "descrizione": "Uno studio pubblicato di recente suggerisce di sì, ma la società potrebbe già essere intervenuta per correggere il problema.",
-      "link": "https://www.hdblog.it/android/articoli/n667708/x-twitter-algoritmo-ragebait-democratici/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:05:00+00:00"
-    },
-    {
-      "titolo": "Il prezzo della benzina è raddoppiato negli ultimi 30 anni",
-      "descrizione": "Un'analisi del Codacons evidenzia come, tra il 1996 e il 2026, la benzina sia raddoppiata e il diesel sia quasi triplicato, con pesanti effetti a catena su inflazione e carrello della spesa.",
-      "link": "https://www.hdmotori.it/prezzo-benzina-raddoppiato-30-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T10:00:08+00:00"
-    },
-    {
-      "titolo": "TikTok sta pensando ai pagamenti peer-to-peer tra utenti, attraverso i messaggi privati",
-      "descrizione": "Nel codice dell'app di TikTok sono stati individuati riferimenti alla possibilità di inviare denaro con modalità P2P, attraverso i messaggi.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n667689/tiktok-pagamenti-peer-to-peer-messaggi-privati/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-19T09:55:00+00:00"
     }
   ]
 }
