@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-08-20T07:07:46.899576+00:00",
+  "last_updated": "2026-08-20T13:12:23.256183+00:00",
   "items": [
     {
-      "titolo": "IKEA, partnership con Xbox in arrivo: ecco i primi teaser ufficiali",
-      "descrizione": "Non si capisce quasi nulla, ma l'attesa potrebbe essere breve: magari ne sapremo di più alla Gamescom a fine mese.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n667786/ikea-xbox-partnership-teaser-video/",
+      "titolo": "Apple contro OpenAI, è scontro sui presunti segreti industriali sottratti",
+      "descrizione": "Apple chiede a un giudice federale di respingere la richiesta di OpenAI di archiviare la causa sui presunti segreti industriali sottratti attraverso alcuni ex dipendenti di Cupertino",
+      "link": "https://www.hdblog.it/apple/articoli/n667868/apple-contro-openai-segreti-rubati/",
       "fonte": "HDblog.it",
-      "data": "2026-08-20T05:50:00+00:00",
+      "data": "2026-08-20T12:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Copilot svela dati sensibili: basta chiedere",
-      "descrizione": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. The post Microsoft Copilot svela dati sensibili: basta chiedere appeared f",
-      "link": "https://www.punto-informatico.it/microsoft-copilot-svela-dati-sensibili-basta-chiedere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T13:26:20+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Google lancia una serie di nuovi strumenti per studiare con Search e Gemini",
-      "descrizione": "Arrivano visualizzazioni interattive, simulazioni 3D, quiz personalizzati e altro",
-      "link": "https://www.hdblog.it/google/articoli/n667788/google-nuovi-strumenti-studio-search-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T06:20:00+00:00",
+      "titolo": "Google Pixel Watch 5 Review: More Health, More AI",
+      "descrizione": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+      "link": "https://www.wired.com/review/google-pixel-watch-5/",
+      "fonte": "WIRED",
+      "data": "2026-08-19T16:34:24+00:00",
       "modello": "gemini"
     },
     {
@@ -34,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "Come funziona il bar di Pechino che regala crediti AI illimitati",
-      "descrizione": "L'AGI Bar della capitale cinese permette di utilizzare gratuitamente l'intelligenza artificiale di DeepSeek (e regala troppi drink). The post Come funziona il bar di Pechino che regala crediti AI illimitati appeared firs",
-      "link": "https://www.punto-informatico.it/come-funziona-bar-pechino-regala-crediti-ai-illimitati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T12:52:08+00:00",
+      "titolo": "Beijing AI bar that offers unlimited free DeepSeek coding tokens with $1.50 drink haemorrhaging cash — 'the bar is completely losing money, ' owner admits",
+      "descrizione": "An AI-themed bar in Beijing's Zhongguancun tech hub hands out free, unlimited DeepSeek tokens with its drinks, running inference locally on two Nvidia DGX Spark mini-PCs.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijing-ai-bar-pours-pints-of-foam-with-free-deepseek-tokens-served-from-two-nvidia-dgx-sparks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-19T11:44:32+00:00",
       "modello": "altri"
     }
   ]
