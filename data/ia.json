@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-20T01:52:34.464232+00:00",
+  "last_updated": "2026-08-20T07:07:46.899576+00:00",
   "items": [
     {
-      "titolo": "5 cose che Claude sa fare meglio rispetto a ChatGPT",
-      "descrizione": "Claude e ChatGPT si sfidano a distanza ravvicinata, ma alcune funzioni restano esclusive di Claude. Ecco le 5 più interessanti. The post 5 cose che Claude sa fare meglio rispetto a ChatGPT appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/5-cose-claude-sa-fare-meglio-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-19T15:30:57+00:00",
+      "titolo": "IKEA, partnership con Xbox in arrivo: ecco i primi teaser ufficiali",
+      "descrizione": "Non si capisce quasi nulla, ma l'attesa potrebbe essere breve: magari ne sapremo di più alla Gamescom a fine mese.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667786/ikea-xbox-partnership-teaser-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-20T05:50:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Pixel Watch 5 Review: More Health, More AI",
-      "descrizione": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-      "link": "https://www.wired.com/review/google-pixel-watch-5/",
-      "fonte": "WIRED",
-      "data": "2026-08-19T16:34:24+00:00",
+      "titolo": "Google lancia una serie di nuovi strumenti per studiare con Search e Gemini",
+      "descrizione": "Arrivano visualizzazioni interattive, simulazioni 3D, quiz personalizzati e altro",
+      "link": "https://www.hdblog.it/google/articoli/n667788/google-nuovi-strumenti-studio-search-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-20T06:20:00+00:00",
       "modello": "gemini"
     },
     {
