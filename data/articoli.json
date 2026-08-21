@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-08-20T19:01:04.848648+00:00",
+  "last_updated": "2026-08-21T01:58:35.759040+00:00",
   "items": [
+    {
+      "titolo": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+      "descrizione": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+      "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+      "fonte": "WIRED",
+      "data": "2026-08-20T20:03:13+00:00"
+    },
     {
       "titolo": "Windows 11, le patch di agosto mandano in crisi alcuni videogiochi",
       "descrizione": "Crash e riavvii spontanei, a quanto pare a causa di un singolo file modificato. Per fortuna c'è un workaround che sembra efficace.",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/binance-annuncia-agent-os-trading-agenti-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-08-20T13:29:59+00:00"
-    },
-    {
-      "titolo": "Virginia county with 250 data centers begins to rein in building — Loudoun’s more than 250 data centers made it one of the richest counties in the US, but residents are pushing back",
-      "descrizione": "Loudoun County recently changed its zoning policy which treated data centers as office parks. These projects now have to go through an approval process from the people and the local government, a significant change after",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-20T13:19:34+00:00"
     }
   ]
 }
