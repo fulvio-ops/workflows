@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-08-21T13:12:22.455433+00:00",
+  "last_updated": "2026-08-21T18:57:55.866077+00:00",
   "items": [
     {
-      "titolo": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
-      "descrizione": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T11:40:00+00:00",
+      "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
+      "descrizione": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
+      "link": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+      "fonte": "Latest news",
+      "data": "2026-08-21T17:47:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Pixel, il widget At a Glance sarà potenziato da Gemini",
-      "descrizione": "A quanto pare la società sta lavorando per implementare i Gemini Daily Brief nel suo famoso widget.",
-      "link": "https://www.hdblog.it/google/articoli/n667963/google-pixel-at-a-glance-widget-gemini-lock-screen/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T09:25:00+00:00",
+      "titolo": "PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica",
+      "descrizione": "Una nuova utility ancora segreta è in arrivo su PowerToys. L'aggiornamento porta anche Phi Silica per l'AI locale sui PC Copilot+ The post PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica appeared firs",
+      "link": "https://www.punto-informatico.it/powertoys-in-arrivo-nuova-utility-ai-locale-phi-silica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T17:25:39+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Come togliere la filigrana visibile dalle immagini create con Gemini",
+      "descrizione": "La filigrana luminosa di Gemini sulle immagini generate era utile, ma fastidiosa nelle presentazioni e nei materiali professionali. Come eliminarla. The post Come togliere la filigrana visibile dalle immagini create con",
+      "link": "https://www.punto-informatico.it/come-togliere-filigrana-visibile-immagini-create-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T15:30:36+00:00",
       "modello": "gemini"
     },
     {
