@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-21T07:08:53.816430+00:00",
+  "last_updated": "2026-08-21T13:12:22.455433+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ora può leggere i messaggi sul Mac e rispondere",
-      "descrizione": "Il nuovo plugin di ChatGPT su Mac permette di cercare tra i messaggi, trovare follow-up e preparare risposte per conto dell'utente. The post ChatGPT ora può leggere i messaggi sul Mac e rispondere appeared first on Punto",
-      "link": "https://www.punto-informatico.it/chatgpt-leggere-messaggi-mac-rispondere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T06:40:45+00:00",
+      "titolo": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
+      "descrizione": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T11:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Pixel Watch 5 Review: More Health, More AI",
-      "descrizione": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-      "link": "https://www.wired.com/review/google-pixel-watch-5/",
-      "fonte": "WIRED",
-      "data": "2026-08-19T16:34:24+00:00",
+      "titolo": "Google Pixel, il widget At a Glance sarà potenziato da Gemini",
+      "descrizione": "A quanto pare la società sta lavorando per implementare i Gemini Daily Brief nel suo famoso widget.",
+      "link": "https://www.hdblog.it/google/articoli/n667963/google-pixel-at-a-glance-widget-gemini-lock-screen/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T09:25:00+00:00",
       "modello": "gemini"
     },
     {

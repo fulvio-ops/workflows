@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-08-21T07:08:50.539928+00:00",
+  "last_updated": "2026-08-21T13:12:19.118836+00:00",
   "items": [
     {
-      "titolo": "Hammond testa una moto cinese da 135 CV contro una Ducati Panigale V2: risultato spiazzante",
-      "descrizione": "Il noto giornalista e presentatore Richard Hammond ha messo a confronto la ZX Moto 820RR con una Ducati Panigale V2",
-      "link": "https://www.hdmotori.it/hammond-moto-cinese-ducati-panigale-v2/",
+      "titolo": "Rollme View Series, gli occhiali smart da 99 dollari con AI e fotocamera Sony",
+      "descrizione": "ProView e AuraView sono i due modelli di occhiali smart presentati da Rollme: caratteristiche interessanti proposte a un prezzo economico.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667960/rollme-view-series-occhiali-smart-99-dollari/",
       "fonte": "HDblog.it",
-      "data": "2026-08-21T07:00:45+00:00"
+      "data": "2026-08-21T13:05:00+00:00"
     },
     {
-      "titolo": "WhatsApp sposa sempre di più il Liquid Glass con questi cambiamenti",
-      "descrizione": "Il processo non è ancora terminato.",
-      "link": "https://www.hdblog.it/apple/articoli/n667922/whatsapp-liquid-glass-editor-video-player-ios/",
+      "titolo": "Arrivano le categorie su Proton Mail per migliorare l'organizzazione dei messaggi",
+      "descrizione": "Proton Mail introduce le categorie per organizzare automaticamente le email, con filtri personalizzabili e attenzione alla privacy.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n667950/categorie-proton-mail-organizzazione-messaggi/",
       "fonte": "HDblog.it",
-      "data": "2026-08-21T06:55:00+00:00"
+      "data": "2026-08-21T12:55:00+00:00"
     },
     {
-      "titolo": "HP OmniBook 5 da 16″ con Ryzen AI 5, 16 GB di RAM e SSD da 512 GB (-250€)",
-      "descrizione": "Oggi su Amazon c'è un'offerta per l'HP OmniBook 5 da 16 pollici, con Ryzen AI 5, 16 GB di RAM e SSD da 512 GB, che ti fa risparmiare 250€. The post HP OmniBook 5 da 16″ con Ryzen AI 5, 16 GB di RAM e SSD da 512 GB (-250€",
-      "link": "https://www.punto-informatico.it/hp-omnibook-5-16-ryzen-ai-5-16-gb-ram-ssd-512-gb-250e/",
+      "titolo": "Patreon cambia algoritmo: più spazio ai piccoli creator e tante nuove funzioni",
+      "descrizione": "Patreon vuole cambiare il modo in cui gli utenti scoprono nuovi creator",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667984/patreon-cambia-algoritmo-piccoli-creator/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T12:40:00+00:00"
+    },
+    {
+      "titolo": "LG Display introduces new OLED deposition technique that uses lithography instead of metal masks — \"FLiPP\" photolithography delivers 1.6x brightness and 2.4x longer lifespan",
+      "descrizione": "OLED displays have long been manufacturer using a metal mask for deposition that wastes material, is expensive, and can sag under its own weight. LG Display's FLiPP solves this by using photolithography instead, relying",
+      "link": "https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T12:40:00+00:00"
+    },
+    {
+      "titolo": "Tesla dice addio al Solar Roof, il tetto solare ha fallito",
+      "descrizione": "Il progetto Solar Roof di Tesla sarebbe stato abbandonato per motivi economici: pochi impianti installati e prezzi cresciuti negli anni. The post Tesla dice addio al Solar Roof, il tetto solare ha fallito appeared first",
+      "link": "https://www.punto-informatico.it/tesla-addio-solar-roof-tetto-solare-fallito/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-21T06:46:56+00:00"
+      "data": "2026-08-21T12:37:45+00:00"
     },
     {
-      "titolo": "Galaxy A08: la batteria potrebbe essere più grande che sui flagship Samsung",
-      "descrizione": "Un paradosso ormai classico: ecco cosa sappiamo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667925/galaxy-a08-la-batteria-potrebbe-essere-piu-grande-che-sui-flagship-samsung/",
+      "titolo": "Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling — claims that senior management had no knowledge of illicit transactions",
+      "descrizione": "An independent investigation on Supermicro clears senior management from any wrong-doing and also says that its financial statements were still reliable, despite the alleged diversion of its restricted products. Neverthe",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T12:20:54+00:00"
+    },
+    {
+      "titolo": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
+      "descrizione": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T11:40:00+00:00"
+    },
+    {
+      "titolo": "Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'",
+      "descrizione": "Nvidia has rejected a report published by The Information that it plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-denies-report-it-will-ship-groq-based-lpus-to-china-by-year-end",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T11:39:39+00:00"
+    },
+    {
+      "titolo": "Google, arriva il tasto \"ufficiale\" per inserire i siti nelle fonti preferite",
+      "descrizione": "Sarà più immediato delle implementazioni realizzate in autonomia dai vari editori.",
+      "link": "https://www.hdblog.it/google/articoli/n667982/google-pulsante-fonti-preferite-ufficiale/",
       "fonte": "HDblog.it",
-      "data": "2026-08-21T06:45:00+00:00"
+      "data": "2026-08-21T11:35:00+00:00"
     },
     {
-      "titolo": "Aldi: l'aspirapolvere sembra un Dyson, in Italia la friggitrice ad aria costa 20 euro",
-      "descrizione": "Oltre a una friggitrice da 20 euro.",
-      "link": "https://www.hdblog.it/home/articoli/n667882/aldi-discount-aspirapolvere-economico-friggitrice/",
+      "titolo": "Crisi dell'auto in Germania: anche BMW ridurrà il numero di modelli?",
+      "descrizione": "La Casa bavarese sembrava non essere intaccata dalla crisi, ma il lancio della rivoluzionaria piattaforma Neue Klasse impatterà il listino futuro?",
+      "link": "https://www.hdmotori.it/bmw-riduzione-numero-modelli/",
       "fonte": "HDblog.it",
-      "data": "2026-08-21T06:20:00+00:00"
+      "data": "2026-08-21T11:30:35+00:00"
     },
     {
-      "titolo": "Apple Music segnalerà le canzoni create con l’intelligenza artificiale",
-      "descrizione": "Apple Music introdurrà un’etichetta per riconoscere i brani generati con l’intelligenza artificiale.",
-      "link": "https://www.hdblog.it/apple/articoli/n667928/apple-music-etichetta-canzoni-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T06:15:00+00:00"
-    },
-    {
-      "titolo": "Google Discover cambia, arriva il feed personalizzato con l’AI",
-      "descrizione": "Annunciate tre novità per l'accesso ai contenuti tramite Google: riguardano le fonti preferite, Discover e i riepiloghi audio delle notizie. The post Google Discover cambia, arriva il feed personalizzato con l’AI appeare",
-      "link": "https://www.punto-informatico.it/google-discover-cambia-feed-personalizzato-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T06:09:36+00:00"
-    },
-    {
-      "titolo": "Occhiali con fotocamera, i cinema britannici iniziano a vietare l'uso in sala",
-      "descrizione": "Gli smart glass con fotocamera iniziano a essere vietati o limitati anche nei cinema britannici",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667932/occhiali-fotocamera-cinema-britannici/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T06:05:00+00:00"
-    },
-    {
-      "titolo": "Questo pesce di lago potrebbe essere più vecchio degli Stati Uniti",
-      "descrizione": "Dopo decenni di dati raccolti gli scienziati pensano che questo pesce di lago potrebbe essere addirittura più vecchio degli Stati Uniti. The post Questo pesce di lago potrebbe essere più vecchio degli Stati Uniti appeare",
-      "link": "https://www.punto-informatico.it/questo-pesce-di-lago-potrebbe-essere-piu-vecchio-degli-stati-uniti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T06:00:38+00:00"
-    },
-    {
-      "titolo": "ChatGPT ora può leggere e inviare iMessage dal Mac",
-      "descrizione": "ChatGPT arriva su Messaggi del Mac per cercare chat, scrivere risposte e inviarle.",
-      "link": "https://www.hdblog.it/apple/articoli/n667929/chatgpt-imessage-mac-messaggi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T05:45:00+00:00"
-    },
-    {
-      "titolo": "Sony Xperia 10 VIII passa su Geekbench con lo stesso chip del predecessore",
-      "descrizione": "Un modestissimo Snapdragon 6 Gen 3. Colpa della crisi dei chip, molto probabilmente.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667917/sony-xperia-10-viii-benchmark-chip-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T05:35:00+00:00"
-    },
-    {
-      "titolo": "Paramount+ Coupon Codes and Deals for August 2026",
-      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T05:00:00+00:00"
-    },
-    {
-      "titolo": "Zoro Coupon Codes: 55% Off August",
-      "descrizione": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
-      "link": "https://www.wired.com/story/zoro-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T05:00:00+00:00"
-    },
-    {
-      "titolo": "B&H Photo Promo Codes and Deals This August 2026",
-      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T05:00:00+00:00"
-    },
-    {
-      "titolo": "Valvoline Coupons and Promo Codes for August 2026",
-      "descrizione": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T05:00:00+00:00"
-    },
-    {
-      "titolo": "Home Depot Promo Codes: 30% Off in August 2026",
-      "descrizione": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T05:00:00+00:00"
-    },
-    {
-      "titolo": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-      "descrizione": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
-      "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
-      "fonte": "WIRED",
-      "data": "2026-08-20T20:03:13+00:00"
-    },
-    {
-      "titolo": "Windows 11, le patch di agosto mandano in crisi alcuni videogiochi",
-      "descrizione": "Crash e riavvii spontanei, a quanto pare a causa di un singolo file modificato. Per fortuna c'è un workaround che sembra efficace.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n667916/windows-11-patch-agosto-bug-videogiochi-crash/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T18:05:00+00:00"
-    },
-    {
-      "titolo": "Google Pixel 11 Pro, arriva l'app per scatenare tutto il potenziale di HiLight",
-      "descrizione": "Purtroppo non è semplicissima da installare. Per ora è appannaggio degli utenti più smaliziati.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667915/google-pixel-11-pro-app-hilight-studio/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T17:45:00+00:00"
-    },
-    {
-      "titolo": "Ecco quando arriva la serie animata di Golden Axe! | Primo trailer",
-      "descrizione": "Iniziate a raccogliere le pozioni!",
-      "link": "https://www.hdblog.it/games/articoli/n667914/golden-axe-serie-tv-trailer-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T17:25:00+00:00"
-    },
-    {
-      "titolo": "Data center e rinnovabili corrono, la rete no: arriva Heron Link",
-      "descrizione": "Una nuova fabbrica produrrà sistemi da 5 MW per collegare più rapidamente energia e data center.",
-      "link": "https://www.hdblog.it/green/articoli/n667842/heron-power-fabbrica-rete-elettrica-california/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T17:15:00+00:00"
-    },
-    {
-      "titolo": "FIAT Pandina Tributo Autobianchi, la novità principale è nell’abitacolo",
-      "descrizione": "FIAT sta lavorando a una Pandina Tributo Autobianchi con prove su strada mirate. Sono spuntati i primi dettagli degli interni.",
-      "link": "https://www.hdmotori.it/fiat-pandina-tributo-autobianchi-novita-principale/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T17:00:46+00:00"
-    },
-    {
-      "titolo": "YouTube Premium aumenta in Italia: fino a 4€/mese in più",
-      "descrizione": "Il piano regolare sale di 2€, quello Family di 4€ e quello Lite di 1€.",
-      "link": "https://www.hdblog.it/google/articoli/n667910/youtube-premium-aumento-prezzi-italia-quanto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-20T16:40:00+00:00"
-    },
-    {
-      "titolo": "The LG C6 OLED TV is one of the most impressive TVs I've tested year - and it's on sale",
-      "descrizione": "The LG C6 OLED is one of my favorite TVs of 2026, with excellent color accuracy and picture quality - especially for this deal with free wall mounting and a free $200 gift card.",
-      "link": "https://www.zdnet.com/article/lg-c6-oled-tv-gift-card-deal/",
+      "titolo": "China joins Europe in scrapping Windows for Linux",
+      "descrizione": "The specialized Chinese version of Windows was already scheduled for retirement in February 2027, but now its end-of-life date has been moved up.",
+      "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
       "fonte": "Latest news",
-      "data": "2026-08-20T16:21:48+00:00"
+      "data": "2026-08-21T11:18:30+00:00"
+    },
+    {
+      "titolo": "Call of Duty Modern Warfare 4, tempo di Beta! Orari, requisiti e molto altro",
+      "descrizione": "Per chi ha fatto il preorder la battaglia inizia già questa sera!",
+      "link": "https://www.hdblog.it/windows/articoli/n667979/call-duty-modern-warfare-4-beta-requisiti/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T11:15:00+00:00"
+    },
+    {
+      "titolo": "Ray-Ban Meta, il Regno Unito vuole vietarli nei cinema",
+      "descrizione": "I cinema britannici vogliono vietare gli occhiali connessi come i Meta Ray-Ban per contrastare la pirateria e le riprese clandestine. The post Ray-Ban Meta, il Regno Unito vuole vietarli nei cinema appeared first on Punt",
+      "link": "https://www.punto-informatico.it/ray-ban-meta-regno-unito-vuole-vietarli-cinema/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T11:08:06+00:00"
+    },
+    {
+      "titolo": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout",
+      "descrizione": "Slovakia sought to modernize its traffic control systems by acquiring a batch of 279 new speed cameras, but they have Russian backdoors and multiple other security issues.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-21T11:00:00+00:00"
+    },
+    {
+      "titolo": "Grok svela dati personali con la generazione dei riassunti",
+      "descrizione": "Grok può svelare i dati personali dell'utente quando esegue istruzioni cifrate nascoste durante la generazione del riassunto di una pagina web. The post Grok svela dati personali con la generazione dei riassunti appeared",
+      "link": "https://www.punto-informatico.it/grok-svela-dati-personali-generazione-riassunti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T10:38:13+00:00"
+    },
+    {
+      "titolo": "Recensione Honor Pad X9 Max, display e autonomia al primo posto!",
+      "descrizione": "Abbiamo provato il nuovo Pad X9 Max di Honor, un tablet da ben 13 pollici votato all'intrattenimento, ecco come è andata!",
+      "link": "https://www.hdblog.it/tablet/recensioni/n666827/honor-pad-x9-max-test-prova-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T10:31:00+00:00"
+    },
+    {
+      "titolo": "Insta360 Luna Pro ufficiale: una Ultra con singola fotocamera",
+      "descrizione": "La rivale perfetta della DJI Osmo Pocket 4?",
+      "link": "https://www.hdblog.it/fotografia/articoli/n667975/insta360-luna-pro-specifiche-prezzo-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T10:25:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Pad 8 in offerta su Amazon: è il tablet da prendere nella fascia media",
+      "descrizione": "Lo Xiaomi Pad 8 è in offerta e diventa il tablet da prendere nella fascia media su Amazon: ecco la promo.",
+      "link": "https://www.hdblog.it/tablet/offerte/n667966/xiaomi-pad-8-offerta-amazon-agosto-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T10:15:00+00:00"
+    },
+    {
+      "titolo": "Bilibili, lo \"YouTube cinese\" vuole espandersi nel resto del mondo",
+      "descrizione": "La società ha rilasciato la versione globale della sua app Android, localizzata in inglese e senza l'obbligo di verifica dell'età con documenti ufficiali, e tante altre iniziative sono in cantiere.",
+      "link": "https://www.hdblog.it/android/articoli/n667968/bilibili-streaming-video-espansione-internazionale/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T10:05:00+00:00"
+    },
+    {
+      "titolo": "Toyota Corolla: negli USA arriva l'edizione limitata per i 60 anni",
+      "descrizione": "Toyota celebra i 60 anni della Corolla con il Model Year 2027 e l'inedita 60th Anniversary Special Edition, edizione limitata da 2.500 unità, insieme a nuovi dettagli estetica e...",
+      "link": "https://www.hdmotori.it/toyota-corolla-60-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T10:00:50+00:00"
+    },
+    {
+      "titolo": "Serie A, si comincia: le tre partite in onda su NOW il 22 e 23 agosto",
+      "descrizione": "Anche quest'anno - stagione 2026/2027 - il pass Sport di NOW offre tre partite di Serie A ad ogni turno di campionato. The post Serie A, si comincia: le tre partite in onda su NOW il 22 e 23 agosto appeared first on Punt",
+      "link": "https://www.punto-informatico.it/serie-a-si-comincia-le-tre-partite-in-onda-su-now-il-22-e-23-agosto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T09:58:33+00:00"
+    },
+    {
+      "titolo": "La NASA fotografa l'estate più rovente della storia europea",
+      "descrizione": "Un'estate da record per l'Europa: cinque ondate di calore, temperature oltre i 40°C e circa 10.000 morti in eccesso secondo la NASA, che punta il dito anche sulla scarsa diffusione della...",
+      "link": "https://www.hdblog.it/green/articoli/n667946/nasa-timelapse-satellite-ondata-calore-europa-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T09:55:00+00:00"
+    },
+    {
+      "titolo": "YouTube Premium, che stangata: fino a 4 euro in più al mese",
+      "descrizione": "Aumento di prezzo per gli abbonamenti YouTube Premium in Italia, su tutta la linea: rincari sui piani Individuali, Famiglia, Studenti, Lite. The post YouTube Premium, che stangata: fino a 4 euro in più al mese appeared f",
+      "link": "https://www.punto-informatico.it/youtube-premium-stangata-fino-4-euro-piu-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T09:44:34+00:00"
+    },
+    {
+      "titolo": "Dalla Corea arriva il maxi SUV di lusso Genesis GV90",
+      "descrizione": "Alla lunga lista di brand che vogliono ritagliarsi uno spazio nel segmento dei super SUV elettrici si è aggiunto anche Genesis con la nuova GV90.",
+      "link": "https://www.hdmotori.it/maxi-suv-lusso-genesis-gv90/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-21T09:39:23+00:00"
     }
   ]
 }
