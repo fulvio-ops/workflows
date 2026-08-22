@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-08-21T18:57:50.969936+00:00",
+  "last_updated": "2026-08-22T01:51:38.677124+00:00",
   "items": [
+    {
+      "titolo": "The Unlikely Place at the Center of China’s AI Boom",
+      "descrizione": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "fonte": "WIRED",
+      "data": "2026-08-21T23:25:32+00:00"
+    },
     {
       "titolo": "Bitcoin, super impennata negli ultimi giorni: caso isolato o segnale di risalita?",
       "descrizione": "C'è stato un massiccio \"short squeeze\" che ha portato alla liquidazione di oltre 2,7 miliardi di dollari di posizioni.",
@@ -161,13 +168,6 @@
       "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
       "fonte": "Latest news",
       "data": "2026-08-21T11:18:30+00:00"
-    },
-    {
-      "titolo": "Ray-Ban Meta, il Regno Unito vuole vietarli nei cinema",
-      "descrizione": "I cinema britannici vogliono vietare gli occhiali connessi come i Meta Ray-Ban per contrastare la pirateria e le riprese clandestine. The post Ray-Ban Meta, il Regno Unito vuole vietarli nei cinema appeared first on Punt",
-      "link": "https://www.punto-informatico.it/ray-ban-meta-regno-unito-vuole-vietarli-cinema/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T11:08:06+00:00"
     }
   ]
 }
