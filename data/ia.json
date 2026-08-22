@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T07:00:39.394931+00:00",
+  "last_updated": "2026-08-22T13:02:13.267625+00:00",
   "items": [
     {
       "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
@@ -26,20 +26,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Cosa rende davvero intelligente un agente AI? Non sono gli LLM",
-      "descrizione": "Nvidia porta Claude dal 30% al 100% migliorando il software che controlla l’AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668041/nvidia-harness-agenti-ai-claude/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T06:35:00+00:00",
+      "titolo": "Anthropic mette un marchio ai testi generati dall’Ai. Finisce l’era del copia-incolla",
+      "descrizione": "Una risposta agli obblighi dell’AI Act europeo che apre una nuova fase: il copia e incolla anonimo potrebbe diventare molto meno invisibile.",
+      "link": "https://www.ilsole24ore.com/art/anthropic-mette-marchio-testi-generati-dall-ai-ecco-come-funziona-AJKqKhk",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-12T08:01:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Beijing AI bar that offers unlimited free DeepSeek coding tokens with $1.50 drink haemorrhaging cash — 'the bar is completely losing money, ' owner admits",
-      "descrizione": "An AI-themed bar in Beijing's Zhongguancun tech hub hands out free, unlimited DeepSeek tokens with its drinks, running inference locally on two Nvidia DGX Spark mini-PCs.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijing-ai-bar-pours-pints-of-foam-with-free-deepseek-tokens-served-from-two-nvidia-dgx-sparks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-19T11:44:32+00:00",
-      "modello": "altri"
     }
   ]
 }
