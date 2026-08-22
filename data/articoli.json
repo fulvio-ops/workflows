@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-08-22T13:02:07.542791+00:00",
+  "last_updated": "2026-08-22T18:49:43.931435+00:00",
   "items": [
+    {
+      "titolo": "La Fotocamera Pixel cambia sui Pixel 11 con queste due novità",
+      "descrizione": "Una funzione inedita e un ritocco all'interfaccia.",
+      "link": "https://www.hdblog.it/google/comparazioni/n668071/fotocamera-pixel-11-modalita-avvio-rapido-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T17:05:00+00:00"
+    },
+    {
+      "titolo": "Android offrirà più controllo sui dati condivisi dei file multimediali: ecco come",
+      "descrizione": "Un'opzione in più.",
+      "link": "https://www.hdblog.it/google/articoli/n668066/google-selettore-file-privacy-posizione-condivisi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T16:45:00+00:00"
+    },
+    {
+      "titolo": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
+      "descrizione": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and mo",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-22T13:57:17+00:00"
+    },
+    {
+      "titolo": "Apple Vision Pro non doveva chiamarsi così: spunta il nome originale",
+      "descrizione": "Il retroscena.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668063/apple-vision-pro-reality-nome-originale-retroscena/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T13:25:00+00:00"
+    },
+    {
+      "titolo": "Sony Xperia 10 VIII sarà così? Un'immagine anticipa il possibile design",
+      "descrizione": "Alla presentazione ufficiale manca pochissimo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668060/sony-xperia-10-viii-design-specifiche-leak-foto/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T13:10:00+00:00"
+    },
     {
       "titolo": "Pluto TV: ecco le novità di settembre 2026",
       "descrizione": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
@@ -107,13 +142,6 @@
       "data": "2026-08-22T08:25:00+00:00"
     },
     {
-      "titolo": "Poco X8 e X8 Power presto all'attacco della fascia media con batterie pazzesche",
-      "descrizione": "Un leak anticipare alcune specifiche chiave.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668030/poco-x8-power-specifiche-batteria-leak-fotocamere/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T07:55:00+00:00"
-    },
-    {
       "titolo": "SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay",
       "descrizione": "C'è un set LEGO in offerta per tutti su eBay grazie agli sconti imperdibili dedicati sia ai più grandi che ai più piccoli, anche tasso zero. The post SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay appeared fir",
       "link": "https://www.punto-informatico.it/set-lego-in-offerta-per-tutti-sconti-imperdibili-su-ebay/",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/come-togliere-filigrana-visibile-immagini-create-gemini/",
       "fonte": "Punto Informatico",
       "data": "2026-08-21T15:30:36+00:00"
-    },
-    {
-      "titolo": "SanDisk expansion cards for Xbox Series X|S now available on Amazon — alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
-      "descrizione": "The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external drives to copy and backup games from the Xbox consoles",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/sandisk-expansion-cards-for-xbox-series-x-s-now-available-on-amazon-alternative-storage-solution-to-seagate-wd-arrives-on-the-market-five-years-after-the-launch-of-the-consoles",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T15:25:29+00:00"
-    },
-    {
-      "titolo": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' — OpenAI fights to keep lawsuit away from a state jury",
-      "descrizione": "Florida's lawsuit against OpenAI and Sam Altman has now been sitting before U.S. District Judge Aileen Cannon in Fort Pierce for seven weeks.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-fights-to-keep-chatgpt-lawsuit-away-from-a-state-jury",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T15:11:18+00:00"
-    },
-    {
-      "titolo": "T2 chiama in causa Microsoft e Reddit per i nuovi leak di GTA 6",
-      "descrizione": "Microsoft e Reddit chiamate a fornire a Take-Two tutte le informazioni in loro possesso sugli autori dei leak di Grand Theft Auto VI. The post T2 chiama in causa Microsoft e Reddit per i nuovi leak di GTA 6 appeared firs",
-      "link": "https://www.punto-informatico.it/microsoft-reddit-nuovi-leak-gta-6/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T14:01:53+00:00"
-    },
-    {
-      "titolo": "Tassa per Big Tech senza accordo con gli editori in Australia",
-      "descrizione": "Google, Meta, TikTok e LinkedIn dovranno pagare una tassa annuale in caso di mancato accordo con gli editori per la pubblicazione delle news. The post Tassa per Big Tech senza accordo con gli editori in Australia appeare",
-      "link": "https://www.punto-informatico.it/tassa-big-tech-senza-accordo-editori-australia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T13:59:53+00:00"
     }
   ]
 }
