@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-22T01:51:38.677124+00:00",
+  "last_updated": "2026-08-22T07:00:34.962440+00:00",
   "items": [
+    {
+      "titolo": "Cosa rende davvero intelligente un agente AI? Non sono gli LLM",
+      "descrizione": "Nvidia porta Claude dal 30% al 100% migliorando il software che controlla l’AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668041/nvidia-harness-agenti-ai-claude/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T06:35:00+00:00"
+    },
+    {
+      "titolo": "Razzi alimentati con plastica e gomma: la scommessa giapponese",
+      "descrizione": "Letara raccoglie 16 milioni di dollari e porta i razzi ibridi oltre i piccoli satelliti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668038/letara-razzi-ibridi-plastica-gomma/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T06:15:00+00:00"
+    },
+    {
+      "titolo": "SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay",
+      "descrizione": "C'è un set LEGO in offerta per tutti su eBay grazie agli sconti imperdibili dedicati sia ai più grandi che ai più piccoli, anche tasso zero. The post SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay appeared fir",
+      "link": "https://www.punto-informatico.it/set-lego-in-offerta-per-tutti-sconti-imperdibili-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-22T06:00:05+00:00"
+    },
+    {
+      "titolo": "RayNeo iO e GT ufficiali: un assistente e un cinema a portata di occhio",
+      "descrizione": "Nuovi occhiali AR pensati per rivoluzionare lavoro e intrattenimento",
+      "link": "https://www.hdblog.it/games/articoli/n668029/rayneo-io-gt-occhiali-smart-ar-specifiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T05:55:00+00:00"
+    },
     {
       "titolo": "The Unlikely Place at the Center of China’s AI Boom",
       "descrizione": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -114,13 +142,6 @@
       "data": "2026-08-21T14:01:53+00:00"
     },
     {
-      "titolo": "Volvo Trucks celebra il centenario con la nuova \"100 Year Edition\"",
-      "descrizione": "I modelli di punta FH e FH16 si rinnovano con un'esclusiva edizione speciale che celebra l'eredità svedese, il comfort d'avanguardia e una sicurezza a cinque stelle.",
-      "link": "https://www.hdmotori.it/volvo-trucks-100-year-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-21T14:00:31+00:00"
-    },
-    {
       "titolo": "Tassa per Big Tech senza accordo con gli editori in Australia",
       "descrizione": "Google, Meta, TikTok e LinkedIn dovranno pagare una tassa annuale in caso di mancato accordo con gli editori per la pubblicazione delle news. The post Tassa per Big Tech senza accordo con gli editori in Australia appeare",
       "link": "https://www.punto-informatico.it/tassa-big-tech-senza-accordo-editori-australia/",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-21T12:20:54+00:00"
-    },
-    {
-      "titolo": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
-      "descrizione": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T11:40:00+00:00"
-    },
-    {
-      "titolo": "Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'",
-      "descrizione": "Nvidia has rejected a report published by The Information that it plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-denies-report-it-will-ship-groq-based-lpus-to-china-by-year-end",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T11:39:39+00:00"
-    },
-    {
-      "titolo": "China joins Europe in scrapping Windows for Linux",
-      "descrizione": "The specialized Chinese version of Windows was already scheduled for retirement in February 2027, but now its end-of-life date has been moved up.",
-      "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
-      "fonte": "Latest news",
-      "data": "2026-08-21T11:18:30+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T01:51:43.597304+00:00",
+  "last_updated": "2026-08-22T07:00:39.394931+00:00",
   "items": [
     {
       "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "descrizione": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "fonte": "WIRED",
-      "data": "2026-08-19T16:44:07+00:00",
+      "titolo": "Cosa rende davvero intelligente un agente AI? Non sono gli LLM",
+      "descrizione": "Nvidia porta Claude dal 30% al 100% migliorando il software che controlla l’AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668041/nvidia-harness-agenti-ai-claude/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-22T06:35:00+00:00",
       "modello": "claude"
     },
     {
