@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T13:03:16.577149+00:00",
+  "last_updated": "2026-08-23T18:49:25.043729+00:00",
   "items": [
     {
       "titolo": "Fusione nucleare: il segreto per triplicare l’energia è nel diamante",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
-      "descrizione": "Copilot usa le conversazioni Teams per sviluppare funzioni, correggere bug e preparare pull request.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-23T06:25:00+00:00",
+      "titolo": "PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica",
+      "descrizione": "Una nuova utility ancora segreta è in arrivo su PowerToys. L'aggiornamento porta anche Phi Silica per l'AI locale sui PC Copilot+ The post PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica appeared firs",
+      "link": "https://www.punto-informatico.it/powertoys-in-arrivo-nuova-utility-ai-locale-phi-silica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-21T17:25:39+00:00",
       "modello": "copilot"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic offre Claude Mythos 5 con Claude Security",
-      "descrizione": "Anthropic ha aggiunto Claude Mythos 5 a Claude Security, quindi le aziende possono usare il modello per trovare e correggere le vulnerabilità. The post Anthropic offre Claude Mythos 5 con Claude Security appeared first o",
-      "link": "https://www.punto-informatico.it/anthropic-claude-mythos-5-claude-security/",
+      "titolo": "Anthropic: valutazione di 2.000 miliardi dopo l’IPO?",
+      "descrizione": "Anthropic dovrebbe raccogliere oltre 100 miliardi di dollari al termine dell'offerta pubblica iniziale e raggiungere una valutazione di 2.000 miliardi. The post Anthropic: valutazione di 2.000 miliardi dopo l’IPO? appear",
+      "link": "https://www.punto-informatico.it/anthropic-valutazione-2000-miliardi-ipo/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-23T09:03:37+00:00",
+      "data": "2026-08-23T13:27:41+00:00",
       "modello": "claude"
     }
   ]

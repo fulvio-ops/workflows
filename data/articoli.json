@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-08-23T13:03:13.395422+00:00",
+  "last_updated": "2026-08-23T18:49:21.486826+00:00",
   "items": [
+    {
+      "titolo": "Garmin Forerunner 170 Music, correre senza telefono in città ad agosto",
+      "descrizione": "Leggero, preciso e con la musica offline al polso. Lo abbiamo provato sotto il sole estivo.",
+      "link": "https://www.ilsole24ore.com/art/garmin-forerunner-170-music-correre-senza-telefono-citta-ad-agosto-AJXY4Eh",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-23T16:32:35+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy S27 Ultra raddoppia? Due versioni e design in stile iPhone nei leak",
+      "descrizione": "Samsung sembra pronta a cambiare tanto con i prossimi flagship.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668109/samsung-galaxy-s27-ultra-pro-design-leak-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T14:50:00+00:00"
+    },
+    {
+      "titolo": "Logitech non rimborsa i consumatori: denuncia negli USA",
+      "descrizione": "Logitech è stata denunciata perché non ha rimborsato i consumatori, dopo l'annullamento dei dazi di Trump da parte della Corte Suprema. The post Logitech non rimborsa i consumatori: denuncia negli USA appeared first on P",
+      "link": "https://www.punto-informatico.it/logitech-non-rimborsa-consumatori-denuncia-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T14:49:38+00:00"
+    },
+    {
+      "titolo": "Redmi Note 15 5G in offerta: un'ottima scelta per un nuovo smartphone a prezzo contenuto",
+      "descrizione": "Lo Xiaomi Redmi Note 15 5g è in offerta e può diventare il modello giusto da prendere per chi cerca uno smartphone economico.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n668108/xiaomi-redmi-15-5g-offerta-fine-agosto-2206/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T14:20:00+00:00"
+    },
+    {
+      "titolo": "Grab the Asus Prime Radeon RX 9070 OC for $629.99 — save $120 on this 16GB gaming GPU for reliable 1440p and 4K gaming",
+      "descrizione": "The Asus Prime Radeon RX 9070 OC is available for just $629.99 on Amazon, delivering strong 1440p performance, 16GB of VRAM, a 2,610MHz boost clock, and a triple-fan cooling system at a $120 discount.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/grab-the-asus-prime-radeon-rx-9070-oc-for-usd629-99-save-usd120-on-this-16gb-gaming-gpu-for-reliable-1440p-and-4k-gaming",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T14:07:45+00:00"
+    },
+    {
+      "titolo": "Anthropic: valutazione di 2.000 miliardi dopo l’IPO?",
+      "descrizione": "Anthropic dovrebbe raccogliere oltre 100 miliardi di dollari al termine dell'offerta pubblica iniziale e raggiungere una valutazione di 2.000 miliardi. The post Anthropic: valutazione di 2.000 miliardi dopo l’IPO? appear",
+      "link": "https://www.punto-informatico.it/anthropic-valutazione-2000-miliardi-ipo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T13:27:41+00:00"
+    },
+    {
+      "titolo": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
+      "descrizione": "The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.",
+      "link": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T13:15:00+00:00"
+    },
     {
       "titolo": "Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
       "descrizione": "Nvidia's most powerful desktop offering, the GB300 DGX Station, is available to buy starting from just $94,930 and you can spec it up to $108,350. It offers 748GB of unified memory shared across the 72-core Grace CPU and",
       "link": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
       "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T13:00:00+00:00"
+    },
+    {
+      "titolo": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
+      "descrizione": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
+      "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+      "fonte": "WIRED",
       "data": "2026-08-23T13:00:00+00:00"
     },
     {
@@ -58,8 +114,8 @@
       "data": "2026-08-23T11:30:00+00:00"
     },
     {
-      "titolo": "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna",
-      "descrizione": "Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper. The post Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna appe",
+      "titolo": "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update)",
+      "descrizione": "Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper. The post Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (upd",
       "link": "https://www.punto-informatico.it/missione-change-7-ricerca-acqua-ghiacciata-luna/",
       "fonte": "Punto Informatico",
       "data": "2026-08-23T10:46:56+00:00"
@@ -112,62 +168,6 @@
       "link": "https://www.punto-informatico.it/cambio-frequenze-digitale-terrestre-aggiorna-tv-decoder-continuare-vedere/",
       "fonte": "Punto Informatico",
       "data": "2026-08-23T07:00:16+00:00"
-    },
-    {
-      "titolo": "Vivo T5 5G è in arrivo con display curvo, profilo sottile e tanta AI",
-      "descrizione": "Un primo sguardo a caratteristiche chiave e design.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668075/vivo-t5-5g-display-curvo-ai-teaser-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-23T06:55:00+00:00"
-    },
-    {
-      "titolo": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
-      "descrizione": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and mo",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-22T13:57:17+00:00"
-    },
-    {
-      "titolo": "Storage unit auction winner finds retro Pentium 4 PC with a see-through, UV-reactive PSU — Y2K time capsule discovered among 100 laptops and hundreds of RAM sticks",
-      "descrizione": "This vintage PC build looks like it came straight out of the 90s with a bold, in-your-face look that make sure you can't mistake it for anything but a gamer's lifeline. What you're looking at is an Apevia X-SuperAlien ca",
-      "link": "https://www.tomshardware.com/pc-components/storage-unit-auction-winner-finds-retro-pentium-4-pc-with-a-see-through-uv-reactive-psu-y2k-time-capsule-discovered-among-100-laptops-and-hundreds-of-ram-sticks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-22T12:00:00+00:00"
-    },
-    {
-      "titolo": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating — claims removal and repasting dropped GPU hotspot temperatures by 30°C",
-      "descrizione": "A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequent black screens.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-22T11:30:00+00:00"
-    },
-    {
-      "titolo": "Apple licenzia oltre 200 persone dei team Vision Pro e Siri",
-      "descrizione": "Apple ha confermato il licenziamento di oltre 200 persone che si occupavano dello sviluppo di contenuti e software per Vision Pro e Siri. The post Apple licenzia oltre 200 persone dei team Vision Pro e Siri appeared firs",
-      "link": "https://www.punto-informatico.it/apple-licenzia-oltre-200-ersone-team-vision-pro-siri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-22T10:50:54+00:00"
-    },
-    {
-      "titolo": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-      "descrizione": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-      "fonte": "WIRED",
-      "data": "2026-08-22T10:30:00+00:00"
-    },
-    {
-      "titolo": "L’inimitabile Nothing Phone (3) su Amazon al prezzo più basso di sempre",
-      "descrizione": "Il Nothing Phone (3) da 12 GB di RAM e 256 GB di memoria interna è in sconto su Amazon al 42% e raggiunge quindi il minimo storico. The post L’inimitabile Nothing Phone (3) su Amazon al prezzo più basso di sempre appeare",
-      "link": "https://www.punto-informatico.it/inimitabile-nothing-phone-3-amazon-prezzo-piu-basso-sempre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-22T10:01:49+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2: novità per AutoPlay e permessi",
-      "descrizione": "Nella build preliminare di Windows 11 26H2 ci sono novità per la finestra di dialogo della funzionalità AutoPlay e i permessi di accesso all'hardware. The post Windows 11 26H2: novità per AutoPlay e permessi appeared fir",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-novita-autoplay-permessi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-22T09:59:06+00:00"
     }
   ]
 }
