@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-23T07:02:37.248318+00:00",
+  "last_updated": "2026-08-23T13:03:16.577149+00:00",
   "items": [
     {
-      "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
-      "descrizione": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
-      "link": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
-      "fonte": "Latest news",
-      "data": "2026-08-21T17:47:47+00:00",
+      "titolo": "Fusione nucleare: il segreto per triplicare l’energia è nel diamante",
+      "descrizione": "Capire come fonde il diamante potrebbe aumentare fino a tre volte il guadagno della fusione laser",
+      "link": "https://www.hdblog.it/green/articoli/n668089/fusione-nucleare-diamante-guadagno-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T10:10:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Come togliere la filigrana visibile dalle immagini create con Gemini",
-      "descrizione": "La filigrana luminosa di Gemini sulle immagini generate era utile, ma fastidiosa nelle presentazioni e nei materiali professionali. Come eliminarla. The post Come togliere la filigrana visibile dalle immagini create con",
-      "link": "https://www.punto-informatico.it/come-togliere-filigrana-visibile-immagini-create-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T15:30:36+00:00",
+      "titolo": "Gboard legge tra le righe sui Pixel 11: l'AI di Gemini suggerisce le risposte",
+      "descrizione": "Gboard prova a capire come scrivi: ecco come funziona.",
+      "link": "https://www.hdblog.it/google/articoli/n668077/pixel-11-gboard-gemini-suggerimenti-personalizzati/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T07:45:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic mette un marchio ai testi generati dall’Ai. Finisce l’era del copia-incolla",
-      "descrizione": "Una risposta agli obblighi dell’AI Act europeo che apre una nuova fase: il copia e incolla anonimo potrebbe diventare molto meno invisibile.",
-      "link": "https://www.ilsole24ore.com/art/anthropic-mette-marchio-testi-generati-dall-ai-ecco-come-funziona-AJKqKhk",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-12T08:01:00+00:00",
+      "titolo": "Anthropic offre Claude Mythos 5 con Claude Security",
+      "descrizione": "Anthropic ha aggiunto Claude Mythos 5 a Claude Security, quindi le aziende possono usare il modello per trovare e correggere le vulnerabilità. The post Anthropic offre Claude Mythos 5 con Claude Security appeared first o",
+      "link": "https://www.punto-informatico.it/anthropic-claude-mythos-5-claude-security/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T09:03:37+00:00",
       "modello": "claude"
     }
   ]

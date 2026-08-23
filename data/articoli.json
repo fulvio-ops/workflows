@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-08-23T07:02:33.022163+00:00",
+  "last_updated": "2026-08-23T13:03:13.395422+00:00",
   "items": [
+    {
+      "titolo": "Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
+      "descrizione": "Nvidia's most powerful desktop offering, the GB300 DGX Station, is available to buy starting from just $94,930 and you can spec it up to $108,350. It offers 748GB of unified memory shared across the 72-core Grace CPU and",
+      "link": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T13:00:00+00:00"
+    },
+    {
+      "titolo": "OPPO Enco Buds3: impermeabili, autonomia di 48h e un prezzo imbattibile",
+      "descrizione": "Approfitta velocemente di questa occasione incredibile che trovi solo su Amazon per avere le mitiche OPPO Enco Buds3 a soli 19,99€. The post OPPO Enco Buds3: impermeabili, autonomia di 48h e un prezzo imbattibile appeare",
+      "link": "https://www.punto-informatico.it/oppo-enco-buds3-impermeabili-autonomia-48h-e-prezzo-imbattibile/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T12:58:46+00:00"
+    },
+    {
+      "titolo": "Le scorie nucleari potrebbero alimentare centrali da 500 MW",
+      "descrizione": "Un reattore a sali fusi punta a recuperare l’energia ancora nascosta nel combustibile nucleare usato.",
+      "link": "https://www.hdblog.it/green/articoli/n668088/reattore-sali-fusi-scorie-nucleari-500-mw/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T12:55:00+00:00"
+    },
+    {
+      "titolo": "Allenamento, salute e notifiche: XIAOMI Smart Band 10 Pro fa tutto",
+      "descrizione": "La XIAOMI Smart Band 10 Pro ha una marea di funzionalità, un bellissimo display, resistenza fino a 5 ATM e batteria da 21 giorni. The post Allenamento, salute e notifiche: XIAOMI Smart Band 10 Pro fa tutto appeared first",
+      "link": "https://www.punto-informatico.it/allenamento-salute-notifiche-xiaomi-smart-band-10-pro-fa-tutto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T12:39:36+00:00"
+    },
+    {
+      "titolo": "Il robot che non teme scale, pioggia e caldo: ecco DR02 | Video",
+      "descrizione": "DR02 affronta scale e terreni difficili puntando al lavoro industriale reale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668087/deep-robotics-dr02-robot-umanoide-scale/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T12:10:00+00:00"
+    },
+    {
+      "titolo": "Humanoid robots shatter Usain Bolt's 100m record, hits 23.8 mph before crashing into foam pads — video shows Tiangong Ultra logging 9.39-second sprint before colliding with padded wall",
+      "descrizione": "Two robots at the 2026 World Humanoid Robot Games in Beijing beat Usain Bolt's 2009 100-meter dash world record. The Tiangong Ultra set a record of 9.39 seconds, while the Honor Lightning achieved a 9.47 record time, bre",
+      "link": "https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T11:45:00+00:00"
+    },
+    {
+      "titolo": "Dreame Chrona: ho provato la maschera LED antiage | Video",
+      "descrizione": "Quindici giorni con Dreame Chrona, la maschera LED antiage",
+      "link": "https://www.hdblog.it/home/recensioni/n667971/dreame-chrona-provato-maschera-led-antiage-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T11:31:00+00:00"
+    },
+    {
+      "titolo": "Startup to use drones to keep clouds away from solar farms, 'Our ultimate goal is to reduce the intensity of severe storms and hurricanes' — chemical-free tech promises up to 30% power boost for $30 to $60 an hour",
+      "descrizione": "Meteoric plans to deploy drones and use mechanical action to dissipate low and mid-altitude clouds covering solar power plants. The startup says that it already has a working prototype that cut artificial clouds by 13%,",
+      "link": "https://www.tomshardware.com/tech-industry/drones/startup-to-use-drones-to-keep-clouds-away-from-solar-farms-our-ultimate-goal-is-to-reduce-the-intensity-of-severe-storms-and-hurricanes-chemical-free-tech-promises-up-to-30-percent-power-boost-for-usd30-to-usd60-an-hour",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T11:30:00+00:00"
+    },
+    {
+      "titolo": "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna",
+      "descrizione": "Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper. The post Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna appe",
+      "link": "https://www.punto-informatico.it/missione-change-7-ricerca-acqua-ghiacciata-luna/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-23T10:46:56+00:00"
+    },
+    {
+      "titolo": "Officials nationwide face death threats and gunfire over AI data center projects — More than 500 towns restrict builds as councils shutter public comment",
+      "descrizione": "Recent data published in the Soufan Center's July IntelBrief found hundreds of posts with threat language between July 2025 and July 2026, and a volume surge beginning in April.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T10:30:00+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: il segreto per triplicare l’energia è nel diamante",
+      "descrizione": "Capire come fonde il diamante potrebbe aumentare fino a tre volte il guadagno della fusione laser",
+      "link": "https://www.hdblog.it/green/articoli/n668089/fusione-nucleare-diamante-guadagno-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T10:10:00+00:00"
+    },
+    {
+      "titolo": "Enthusiast mods GTX 1080 Ti with a dual-tower CPU cooler, sees up to 32°C reduction in temps — Mod yields 30W power savings and 9% higher FPS",
+      "descrizione": "What if you could have twice the CPU cooler in your computer? If that's a question that piques your interest, then TrashBench has answered your curiosity in droves with an experiment that ended up working incredibly well",
+      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32-c-reduction-in-temps-mod-yields-30w-power-savings-and-9-percent-higher-fps",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T10:00:00+00:00"
+    },
+    {
+      "titolo": "Maxell brings back classic 1970s cassette tapes — 1970s ferric formula is custom-made for vintage PC data drives",
+      "descrizione": "Maxell and Disk Union collaborate to release special edition UD-60U cassette tapes in Japan.",
+      "link": "https://www.tomshardware.com/pc-components/storage/maxell-partners-with-disk-union-to-release-ud-60u-special-edition-cassettes-black-and-red-ud-tapes-could-be-ideal-for-use-in-your-c64-datassette",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-23T09:30:00+00:00"
+    },
+    {
+      "titolo": "Apple CarPlay e Android Auto: cosa cambia tra i due sistemi di infotainment",
+      "descrizione": "Un confronto tra le funzioni delle due piattaforme.",
+      "link": "https://www.hdblog.it/android/articoli/n667967/apple-carplay-android-auto-differenze/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T08:20:00+00:00"
+    },
+    {
+      "titolo": "GTA 6, leak e polemiche non smuovono Rockstar: confermato l'evento Netflix",
+      "descrizione": "Il polverone di questi giorni non cambia i piani.",
+      "link": "https://www.hdblog.it/games/articoli/n668076/gta-6-leak-rockstar-evento-netflix-27-agosto-vi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T07:35:00+00:00"
+    },
     {
       "titolo": "Cambio di frequenze sul digitale terrestre: aggiorna tv e decoder per continuare a vedere",
       "descrizione": "Un cambio di frequenze sulla piattaforma digitale terrestre sta obbligando tutti ad aggiornare tv e decoder per continuare a vedere. The post Cambio di frequenze sul digitale terrestre: aggiorna tv e decoder per continua",
@@ -16,27 +121,6 @@
       "data": "2026-08-23T06:55:00+00:00"
     },
     {
-      "titolo": "La Fotocamera Pixel cambia sui Pixel 11 con queste due novità",
-      "descrizione": "Una funzione inedita e un ritocco all'interfaccia.",
-      "link": "https://www.hdblog.it/google/comparazioni/n668071/fotocamera-pixel-11-modalita-avvio-rapido-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T17:05:00+00:00"
-    },
-    {
-      "titolo": "Android offrirà più controllo sui dati condivisi dei file multimediali: ecco come",
-      "descrizione": "Un'opzione in più.",
-      "link": "https://www.hdblog.it/google/articoli/n668066/google-selettore-file-privacy-posizione-condivisi/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T16:45:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Band 10 Pro in offerta su Amazon: è la smartband che sostituisce gli smartwatch",
-      "descrizione": "La Xiaomi Smart Band 10 Pro è in offerta su Amazon ed è ora disponibile con un prezzo ridotto fino a 74,99 euro.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n668070/xiaomi-smart-band-10-pro-offerta-amazon-ago26/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T16:30:00+00:00"
-    },
-    {
       "titolo": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
       "descrizione": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and mo",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
@@ -44,39 +128,11 @@
       "data": "2026-08-22T13:57:17+00:00"
     },
     {
-      "titolo": "Apple Vision Pro non doveva chiamarsi così: spunta il nome originale",
-      "descrizione": "Il retroscena.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n668063/apple-vision-pro-reality-nome-originale-retroscena/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T13:25:00+00:00"
-    },
-    {
-      "titolo": "Sony Xperia 10 VIII sarà così? Un'immagine anticipa il possibile design",
-      "descrizione": "Alla presentazione ufficiale manca pochissimo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668060/sony-xperia-10-viii-design-specifiche-leak-foto/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T13:10:00+00:00"
-    },
-    {
-      "titolo": "Pluto TV: ecco le novità di settembre 2026",
-      "descrizione": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n668053/pluto-tv-settembre-nuovi-canali-gratis/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T12:55:00+00:00"
-    },
-    {
       "titolo": "Storage unit auction winner finds retro Pentium 4 PC with a see-through, UV-reactive PSU — Y2K time capsule discovered among 100 laptops and hundreds of RAM sticks",
       "descrizione": "This vintage PC build looks like it came straight out of the 90s with a bold, in-your-face look that make sure you can't mistake it for anything but a gamer's lifeline. What you're looking at is an Apevia X-SuperAlien ca",
       "link": "https://www.tomshardware.com/pc-components/storage-unit-auction-winner-finds-retro-pentium-4-pc-with-a-see-through-uv-reactive-psu-y2k-time-capsule-discovered-among-100-laptops-and-hundreds-of-ram-sticks",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-22T12:00:00+00:00"
-    },
-    {
-      "titolo": "Plastiche contaminate da laboratori e ospedali, ma come avviene il riciclo?",
-      "descrizione": "Una soluzione dalla Scozia",
-      "link": "https://www.hdblog.it/green/articoli/n668013/plastiche-contaminate-laboratori-ospedali-riciclo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T11:35:00+00:00"
     },
     {
       "titolo": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating — claims removal and repasting dropped GPU hotspot temperatures by 30°C",
@@ -93,25 +149,11 @@
       "data": "2026-08-22T10:50:54+00:00"
     },
     {
-      "titolo": "MediaWorld, le offerte del Back to School includono un buono fino a 250€",
-      "descrizione": "Al centro della promozione una ricca selezione di computer portatili per studenti universitari e per chi frequenta superiori e medie.",
-      "link": "https://www.hdblog.it/portatili/offerte/n668059/mediaworld-le-offerte-del-back-to-school-includono-un-buono-fino-a-250/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T10:36:00+00:00"
-    },
-    {
       "titolo": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
       "descrizione": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
       "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
       "fonte": "WIRED",
       "data": "2026-08-22T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta Pocket porta i minigiochi AI dentro un social network",
-      "descrizione": "Pocket permette di creare minigiochi con l’AI e condividerli in un feed social.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n668047/meta-pocket-minigiochi-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T10:15:00+00:00"
     },
     {
       "titolo": "L’inimitabile Nothing Phone (3) su Amazon al prezzo più basso di sempre",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/windows-11-26h2-novita-autoplay-permessi/",
       "fonte": "Punto Informatico",
       "data": "2026-08-22T09:59:06+00:00"
-    },
-    {
-      "titolo": "Dietro alla camuffatura si nasconde la nuova Audi RS Q7? Foto spia",
-      "descrizione": "Arrivano da Bressanone le foto spia di un'Audi Q7 che potrebbe essere la futura RS, la chiacchierata versione al vertice delle prestazioni",
-      "link": "https://www.hdmotori.it/nuova-audi-rs-q7-foto-spia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-22T09:30:39+00:00"
-    },
-    {
-      "titolo": "SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay",
-      "descrizione": "C'è un set LEGO in offerta per tutti su eBay grazie agli sconti imperdibili dedicati sia ai più grandi che ai più piccoli, anche tasso zero. The post SET LEGO in OFFERTA per tutti: SCONTI imperdibili su eBay appeared fir",
-      "link": "https://www.punto-informatico.it/set-lego-in-offerta-per-tutti-sconti-imperdibili-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-22T06:00:05+00:00"
-    },
-    {
-      "titolo": "The Unlikely Place at the Center of China’s AI Boom",
-      "descrizione": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "fonte": "WIRED",
-      "data": "2026-08-21T23:25:32+00:00"
-    },
-    {
-      "titolo": "Un terzo delle pagine web è scritto dall’AI",
-      "descrizione": "Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale. The post Un terzo delle pagine web è scritto dall’AI appeared first on P",
-      "link": "https://www.punto-informatico.it/terzo-pagine-web-scritto-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T16:29:30+00:00"
-    },
-    {
-      "titolo": "Come togliere la filigrana visibile dalle immagini create con Gemini",
-      "descrizione": "La filigrana luminosa di Gemini sulle immagini generate era utile, ma fastidiosa nelle presentazioni e nei materiali professionali. Come eliminarla. The post Come togliere la filigrana visibile dalle immagini create con",
-      "link": "https://www.punto-informatico.it/come-togliere-filigrana-visibile-immagini-create-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T15:30:36+00:00"
-    },
-    {
-      "titolo": "SanDisk expansion cards for Xbox Series X|S now available on Amazon — alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
-      "descrizione": "The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external drives to copy and backup games from the Xbox consoles",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/sandisk-expansion-cards-for-xbox-series-x-s-now-available-on-amazon-alternative-storage-solution-to-seagate-wd-arrives-on-the-market-five-years-after-the-launch-of-the-consoles",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-21T15:25:29+00:00"
     }
   ]
 }
