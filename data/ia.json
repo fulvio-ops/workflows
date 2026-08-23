@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T02:03:20.756487+00:00",
+  "last_updated": "2026-08-23T07:02:37.248318+00:00",
   "items": [
     {
       "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica",
-      "descrizione": "Una nuova utility ancora segreta è in arrivo su PowerToys. L'aggiornamento porta anche Phi Silica per l'AI locale sui PC Copilot+ The post PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica appeared firs",
-      "link": "https://www.punto-informatico.it/powertoys-in-arrivo-nuova-utility-ai-locale-phi-silica/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T17:25:39+00:00",
+      "titolo": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
+      "descrizione": "Copilot usa le conversazioni Teams per sviluppare funzioni, correggere bug e preparare pull request.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-23T06:25:00+00:00",
       "modello": "copilot"
     },
     {
