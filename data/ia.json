@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-08-24T07:29:43.414379+00:00",
+  "last_updated": "2026-08-24T13:14:46.513154+00:00",
   "items": [
     {
-      "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
-      "descrizione": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
-      "link": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+      "titolo": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+      "descrizione": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
       "fonte": "Latest news",
-      "data": "2026-08-21T17:47:47+00:00",
+      "data": "2026-08-24T11:59:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic: valutazione di 2.000 miliardi dopo l’IPO?",
-      "descrizione": "Anthropic dovrebbe raccogliere oltre 100 miliardi di dollari al termine dell'offerta pubblica iniziale e raggiungere una valutazione di 2.000 miliardi. The post Anthropic: valutazione di 2.000 miliardi dopo l’IPO? appear",
-      "link": "https://www.punto-informatico.it/anthropic-valutazione-2000-miliardi-ipo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-23T13:27:41+00:00",
-      "modello": "claude"
+      "titolo": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem?",
+      "descrizione": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short.",
+      "link": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
+      "fonte": "Latest news",
+      "data": "2026-08-24T12:48:57+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
+      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
+      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-24T09:41:42+00:00",
+      "modello": "gemini"
     }
   ]
 }
