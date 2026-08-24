@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-08-24T01:58:46.606990+00:00",
+  "last_updated": "2026-08-24T07:29:43.414379+00:00",
   "items": [
     {
-      "titolo": "Fusione nucleare: il segreto per triplicare l’energia è nel diamante",
-      "descrizione": "Capire come fonde il diamante potrebbe aumentare fino a tre volte il guadagno della fusione laser",
-      "link": "https://www.hdblog.it/green/articoli/n668089/fusione-nucleare-diamante-guadagno-energia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-23T10:10:00+00:00",
+      "titolo": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
+      "descrizione": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
+      "link": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+      "fonte": "Latest news",
+      "data": "2026-08-21T17:47:47+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica",
-      "descrizione": "Una nuova utility ancora segreta è in arrivo su PowerToys. L'aggiornamento porta anche Phi Silica per l'AI locale sui PC Copilot+ The post PowerToys: in arrivo una nuova utility e l’AI locale con Phi Silica appeared firs",
-      "link": "https://www.punto-informatico.it/powertoys-in-arrivo-nuova-utility-ai-locale-phi-silica/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-21T17:25:39+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gboard legge tra le righe sui Pixel 11: l'AI di Gemini suggerisce le risposte",
-      "descrizione": "Gboard prova a capire come scrivi: ecco come funziona.",
-      "link": "https://www.hdblog.it/google/articoli/n668077/pixel-11-gboard-gemini-suggerimenti-personalizzati/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-23T07:45:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic: valutazione di 2.000 miliardi dopo l’IPO?",
