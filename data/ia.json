@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-24T13:14:46.513154+00:00",
+  "last_updated": "2026-08-24T19:00:41.473295+00:00",
   "items": [
     {
-      "titolo": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
-      "descrizione": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
-      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
-      "fonte": "Latest news",
-      "data": "2026-08-24T11:59:05+00:00",
+      "titolo": "OpenAI vuole maggiori controlli sui modelli AI",
+      "descrizione": "OpenAI vuole aggiornare una legge della California per rafforzare i controlli sui modelli AI durante il ciclo di vita, a partire dall'addestramento. The post OpenAI vuole maggiori controlli sui modelli AI appeared first",
+      "link": "https://www.punto-informatico.it/openai-vuole-maggiori-controlli-modelli-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T16:55:04+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
-      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
-      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-24T09:41:42+00:00",
+      "titolo": "7 funzioni di Gemini che cambiano la giornata",
+      "descrizione": "Gemini non è più solo un chatbot. Ecco 7 funzioni per gestire ricerche, email, riunioni, presentazioni e attività ripetitive. The post 7 funzioni di Gemini che cambiano la giornata appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/7-funzioni-gemini-cambiano-giornata/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T15:30:35+00:00",
       "modello": "gemini"
     }
   ]

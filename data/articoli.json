@@ -1,47 +1,131 @@
 {
-  "last_updated": "2026-08-24T13:14:41.638794+00:00",
+  "last_updated": "2026-08-24T19:00:38.081313+00:00",
   "items": [
     {
-      "titolo": "Tesla Semi: la versione per Europa dice addio agli specchietti tradizionali",
-      "descrizione": "Il nuovo teaser di Tesla Semi anticipa l'addio agli specchietti tradizionali. In arrivo le telecamere CMS per il mercato europeo in vista del debutto all'IAA di Hannover.",
-      "link": "https://www.hdmotori.it/tesla-semi-telecamere-cms-specchietti-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T13:00:50+00:00"
+      "titolo": "Hot Chips 2026: SK hynix pushes hybrid bonding HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
+      "descrizione": "The problem, per SK, is that HBM cubes are capped at a total thickness of 775 microns, the standard thickness of a 300mm logic wafer.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-24T17:55:45+00:00"
     },
     {
-      "titolo": "Xiaomi, su l’asticella con il nuovo chip Xring O3: LPDDR6 e GPU fino all’85% più veloce",
-      "descrizione": "Xiaomi presenta Xring O3, il nuovo SoC realizzato sul nodo TSMC N3P a 3 nm: integra circa 24 miliardi di transistor, una nuova CPU ARM, GPU a 16 core e supporto alle memorie LPDDR6.",
-      "link": "https://www.hdblog.it/hardware/articoli/n668188/xiaomi-xring-o3-ufficiale-soc-cosa-cambia-europa/",
+      "titolo": "SGT STOUT: il blindato anti-drone ora cambia bersaglio con facilità",
+      "descrizione": "Un aggiornamento software permette allo SGT STOUT di contrastare droni fino a 25 kg.",
+      "link": "https://www.hdblog.it/droni/articoli/n668099/sgt-stout-software-anti-drone/",
       "fonte": "HDblog.it",
-      "data": "2026-08-24T12:45:00+00:00"
+      "data": "2026-08-24T17:30:00+00:00"
     },
     {
-      "titolo": "Aria condizionata o meno emissioni? L'Italia si distingue dal resto d'Europa",
-      "descrizione": "L'Italia è il Paese dove l’aria condizionata è più diffusa tra i sei presi in esame",
-      "link": "https://www.hdblog.it/home/articoli/n668189/caldo-estremo-europa-aria-condizionata/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T12:35:00+00:00"
+      "titolo": "OpenAI vuole maggiori controlli sui modelli AI",
+      "descrizione": "OpenAI vuole aggiornare una legge della California per rafforzare i controlli sui modelli AI durante il ciclo di vita, a partire dall'addestramento. The post OpenAI vuole maggiori controlli sui modelli AI appeared first",
+      "link": "https://www.punto-informatico.it/openai-vuole-maggiori-controlli-modelli-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T16:55:04+00:00"
     },
     {
-      "titolo": "Xiaomi Skynomad N70 Max: svelati i lussuosissimi interni",
-      "descrizione": "Il colosso cinese ha mostrato le immagini dell’abitacolo del modello a ruote alte ad autonomia estesa, lo Skynomad N70 Max.",
-      "link": "https://www.hdmotori.it/xiaomi-skynomad-n70-max-interni/",
+      "titolo": "Fusione nucleare, arrivano gli stellarator con magneti piatti",
+      "descrizione": "Magneti piatti e software potrebbero rendere gli stellarator più facili da costruire",
+      "link": "https://www.hdblog.it/green/articoli/n668094/fusione-nucleare-stellarator-magneti-piatti/",
       "fonte": "HDblog.it",
-      "data": "2026-08-24T12:30:32+00:00"
+      "data": "2026-08-24T16:55:00+00:00"
     },
     {
-      "titolo": "EISA incorona Oppo Find X9 Ultra: fotografia e video valgono il premio",
-      "descrizione": "EISA premia Oppo Find X9 Ultra per fotografia e registrazione video: il flagship offre focali equivalenti da 14 a 230 mm, tele 10x e registrazione fino a 8K a 30 fps",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668184/oppo-find-x9-ultra-premio-foto-video/",
+      "titolo": "Mania di Cyberdeck? Ecco il tutorial passo-passo ufficiale di Raspberry Pi",
+      "descrizione": "Se siete anche voi ossessionati dal nuovo trend su TikTok ma non ve ne intendete tanto di elettronica niente paura: è più facile a farsi che a dirsi con questa guida.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n668223/raspberry-pi-5-cyberdeck-tutorial-ufficiale/",
       "fonte": "HDblog.it",
-      "data": "2026-08-24T12:15:00+00:00"
+      "data": "2026-08-24T16:45:00+00:00"
     },
     {
-      "titolo": "Xiaomi ha il suo DGX Spark: ecco AI Cube, con ben tre chip Xring proprietari",
-      "descrizione": "Il device dovrebbe eseguire modelli fino a 120 miliardi di parametri completamente in locale.",
-      "link": "https://www.hdblog.it/hardware/articoli/n668186/xiaomi-ai-cube-xring-o3-chip-custom-ai-locale-llm/",
+      "titolo": "Microsoft migliora OneDrive su Mac: sincronizzazione più veloce",
+      "descrizione": "OneDrive riceve un nuovo motore di sincronizzazione su macOS. Microsoft promette più velocità, meno consumo della CPU e maggiore autonomia. The post Microsoft migliora OneDrive su Mac: sincronizzazione più veloce appeare",
+      "link": "https://www.punto-informatico.it/microsoft-migliora-onedrive-mac-sincronizzazione-piu-veloce/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T16:37:00+00:00"
+    },
+    {
+      "titolo": "NASA apre ai privati la preparazione delle missioni spaziali",
+      "descrizione": "NASA amplia ai privati i servizi necessari per preparare satelliti e sonde al lancio.",
+      "link": "https://www.hdblog.it/mercato/articoli/n668091/nasa-payload-processing-servizi-privati/",
       "fonte": "HDblog.it",
-      "data": "2026-08-24T12:05:00+00:00"
+      "data": "2026-08-24T16:25:00+00:00"
+    },
+    {
+      "titolo": "ClasseViva sotto scacco hacker? Spaggiari ammette un attacco, ma ridimensiona",
+      "descrizione": "Un attacco hacker rivendicato contro Spaggiari Parma ha acceso l'allarme tra milioni di famiglie, ma il registro elettronico ClasseViva non sarebbe stato toccato: nel mirino solo la piattaforma per...",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n668217/classeviva-sotto-attacco-hacker/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-24T16:15:00+00:00"
+    },
+    {
+      "titolo": "Caro carburante, agosto da record: fino a 1 miliardo di euro in più rispetto al 2025",
+      "descrizione": "Secondo le stime di Facile.it, gli automobilisti italiani potrebbero spendere oltre 1 miliardo di euro in più rispetto ad agosto 2025 tra benzina e diesel",
+      "link": "https://www.hdmotori.it/carburante-agosto-record-1-miliardo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-24T16:00:55+00:00"
+    },
+    {
+      "titolo": "Nori A3, il robot domestico che costa meno di 1.500 euro",
+      "descrizione": "Nori A3 porta braccia robotiche, LiDAR e telecamere in casa per circa 1.445 euro",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668102/nori-a3-robot-domestico-1450-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-24T15:55:00+00:00"
+    },
+    {
+      "titolo": "GrapheneOS e Motorola, il piano include anche i pieghevoli RAZR",
+      "descrizione": "Inizialmente ci si concentrerà su un unico candybar tradizionale, ma poi si passerà anche ai pieghevoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668219/grapheneos-motorola-supporto-pieghevoli-razr-flip/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-24T15:50:00+00:00"
+    },
+    {
+      "titolo": "La migliore VPN è in offerta: 28 mesi a prezzo ridotto per NordVPN",
+      "descrizione": "La migliore VPN da attivare oggi è NordVPN. Il servizio è disponibile con un prezzo scontato scegliendo il piano di 28 mesi. Ecco la promo. The post La migliore VPN è in offerta: 28 mesi a prezzo ridotto per NordVPN appe",
+      "link": "https://www.punto-informatico.it/la-migliore-vpn-e-in-offerta-28-mesi-a-prezzo-ridotto-per-nordvpn/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T15:45:13+00:00"
+    },
+    {
+      "titolo": "Quasi Vera, Taylor Mega è fatta con l'AI nel film di Fausto Brizzi | Trailer ufficiale",
+      "descrizione": "Fausto Brizzi porta al cinema una influencer virtuale creata con l’intelligenza artificiale",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n668215/quasi-vera-film-ai-taylor-mega/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-24T15:45:00+00:00"
+    },
+    {
+      "titolo": "Uso AI senza permesso: streamer denuncia Twitch e Amazon",
+      "descrizione": "Uno streamer ha denunciato Amazon perché utilizza i contenuti pubblicati su Twitch per addestrare i suoi modelli AI, senza permesso o compenso. The post Uso AI senza permesso: streamer denuncia Twitch e Amazon appeared f",
+      "link": "https://www.punto-informatico.it/uso-ai-senza-permesso-streamer-denuncia-twitch-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T15:31:45+00:00"
+    },
+    {
+      "titolo": "7 funzioni di Gemini che cambiano la giornata",
+      "descrizione": "Gemini non è più solo un chatbot. Ecco 7 funzioni per gestire ricerche, email, riunioni, presentazioni e attività ripetitive. The post 7 funzioni di Gemini che cambiano la giornata appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/7-funzioni-gemini-cambiano-giornata/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T15:30:35+00:00"
+    },
+    {
+      "titolo": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
+      "descrizione": "A new report claims nine people have been indicted over the illegal smuggling of Nvidia B300 servers to China.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-24T15:09:55+00:00"
+    },
+    {
+      "titolo": "XRING O3 è il nuovo chip per smartphone di Xiaomi",
+      "descrizione": "XRING O3 è il nuovo chip sviluppato dall'azienda cinese e prodotto da TSMC con CPU a 10 core e GPU a 16 core che verrà usato per lo Xiaomi 18 Fold. The post XRING O3 è il nuovo chip per smartphone di Xiaomi appeared firs",
+      "link": "https://www.punto-informatico.it/xring-03-nuovo-chip-smartphone-xiaomi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T14:13:27+00:00"
+    },
+    {
+      "titolo": "WhatsApp Payments: pagamenti in-app anche in Italia?",
+      "descrizione": "In una versione beta di WhatsApp per iOS è presente la funzionalità Payments che permette di inviare e ricevere pagamenti in Italia e altri paesi. The post WhatsApp Payments: pagamenti in-app anche in Italia? appeared fi",
+      "link": "https://www.punto-informatico.it/whatsapp-payments-pagamenti-in-app-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-24T13:24:15+00:00"
     },
     {
       "titolo": "Undersea cable to Antarctica through Drake Passage is viable, researchers find — 1,600km route to Chile could spell an end to research data leaving in 'suitcases full of hard drives'",
@@ -51,67 +135,11 @@
       "data": "2026-08-24T12:03:28+00:00"
     },
     {
-      "titolo": "Luxeed RX: il crossover con design ex Ferrari sfida Xiaomi YU7",
-      "descrizione": "Debutta il nuovo SUV sportivo nato dalla collaborazione tra Chery e Huawei. Offre motori fino a 586 CV, 4 LiDAR di bordo e un’autonomia dichiarata compresa tra 700 e 852 km.",
-      "link": "https://www.hdmotori.it/luxeed-rx-crossover-elettrico-chery-huawei/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T12:00:16+00:00"
-    },
-    {
-      "titolo": "WindTre lancia Super Fibra: cosa include l’offerta da 24,99 euro al mese",
-      "descrizione": "Con WindTre Super Fibra arrivano il nuovo modem Wi-Fi 7 capace di gestire fino a 256 dispositivi, Giga illimitati in 5G per chi abbina una linea mobile e Amazon Prime incluso per un anno",
-      "link": "https://www.hdblog.it/h3g/articoli/n668183/windtre-super-fibra-offerta-prezzo-giga-illimitati/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T11:45:00+00:00"
-    },
-    {
-      "titolo": "I vecchi SSD SATA vanno ancora bene per il gaming nel 2026?",
-      "descrizione": "Per ora sì, assolutamente, ma le cose stanno cambiando, grazie a DirectStorage e tecnologie analoghe. Ma la \"massa critica\" che renderà l'upgrade necessario probabilmente non si raggiungerà tanto...",
-      "link": "https://www.hdblog.it/hardware/articoli/n668182/benchmark-gaming-ssd-sata-vs-pcie-nvme/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T11:35:00+00:00"
-    },
-    {
-      "titolo": "Il nuovo Nokia 300 Charge costa 30€, dura 40 giorni e ricarica gli altri smartphone",
-      "descrizione": "Non manca nemmeno la torcia super-potente.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668177/nokia-300-charge-batteria-autonomia-torcia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T11:20:00+00:00"
-    },
-    {
-      "titolo": "L’AI potrebbe diventare il nuovo motivo per cambiare smartphone",
-      "descrizione": "Gli smartphone restano veloci e utilizzabili sempre più a lungo, ma l’intelligenza artificiale potrebbe offrire a Google e agli altri produttori un nuovo motivo per spingere gli utenti verso i...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668179/smartphone-invecchiamento-ai-pixel/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T10:55:00+00:00"
-    },
-    {
-      "titolo": "La e-bike per la famiglia: spazio per tutti su Formidable",
-      "descrizione": "Eurobike 2026 svela Galian Formidable, e-cargo con vano anteriore e portapacchi lungo. Dettagli tecnici, motori Bosch e Valeo, autonomia e prezzi.",
-      "link": "https://www.hdmotori.it/galian-le-formidable-e-bike-cargo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T10:30:35+00:00"
-    },
-    {
       "titolo": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
       "descrizione": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
       "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
       "fonte": "WIRED",
       "data": "2026-08-24T10:30:00+00:00"
-    },
-    {
-      "titolo": "La Cina manda 1.000 robot al lavoro: cucineranno e daranno farmaci",
-      "descrizione": "Quasi 1.000 robot lavoreranno in farmacie, cucine e impianti per imparare sul campo.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668101/realman-1000-robot-realbot-lavoro/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T10:25:00+00:00"
-    },
-    {
-      "titolo": "La nuova serratura Xiaomi apre la porta e può chiedere aiuto senza farsi notare",
-      "descrizione": "La nuova Xiaomi Smart Door Lock 5C punta sulla sicurezza con cilindro di classe C, chiusura automatica, nove sistemi di sblocco e notifiche in caso di tentativi sospetti",
-      "link": "https://www.hdblog.it/home/articoli/n668174/xiaomi-serratura-smart-5c-funzioni-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T10:15:00+00:00"
     },
     {
       "titolo": "ToxicPanda ruba dati da 349 app Android e blocca Google Play",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/quale-tablet-scegliere-per-la-scuola-una-selezione-in-offerta-su-amazon/",
       "fonte": "Punto Informatico",
       "data": "2026-08-24T09:27:19+00:00"
-    },
-    {
-      "titolo": "Social media: ban per minori di 16 anni in Nuova Zelanda",
-      "descrizione": "Anche il governo della Nuova Zelanda vuole vietare l'accesso ai social media per i minori di 16 anni, quindi sarà obbligatoria la verifica dell'età. The post Social media: ban per minori di 16 anni in Nuova Zelanda appea",
-      "link": "https://www.punto-informatico.it/social-media-ban-minori-16-anni-nuova-zelanda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-24T09:23:34+00:00"
-    },
-    {
-      "titolo": "Smartphone Motorola con GrapheneOS nel 2027, ma sarà costoso",
-      "descrizione": "Il primo smartphone di Motorola con GrapheneOS arriverà sul mercato statunitense nel 2027, ma sarà un modello di fascia alta e quindi piuttosto costoso. The post Smartphone Motorola con GrapheneOS nel 2027, ma sarà costo",
-      "link": "https://www.punto-informatico.it/smartphone-motorola-grapheneos-2027-costoso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-24T08:25:25+00:00"
-    },
-    {
-      "titolo": "Olimpiadi degli umanoidi, a Pechino il record di Lightning (più veloce di Bolt)",
-      "descrizione": "In corso al National Speed Skating Oval della capitale cinese la seconda edizione dei World Humanoid Robot Games: sul podio la «creatura» di Honor",
-      "link": "https://www.ilsole24ore.com/art/olimpiadi-umanoidi-pechino-record-lightning-piu-veloce-bolt-AJOaLCt",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-24T08:18:00+00:00"
-    },
-    {
-      "titolo": "Invisibili e insapore: i metalli pesanti nel pesce che mangiamo",
-      "descrizione": "Un'analisi approfondita ha scoperto la presenza di metalli pesanti invisibili e insapore in alcune specie di pesce che mangiamo solitamente. The post Invisibili e insapore: i metalli pesanti nel pesce che mangiamo appear",
-      "link": "https://www.punto-informatico.it/invisibili-insapore-metalli-pesanti-pesce-mangiamo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-24T08:15:27+00:00"
     }
   ]
 }
