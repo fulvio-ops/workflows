@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-08-25T01:53:28.767459+00:00",
+  "last_updated": "2026-08-25T07:09:42.053170+00:00",
   "items": [
+    {
+      "titolo": "Hack Hugging Face: Alabama avvia indagine su OpenAI",
+      "descrizione": "Il Procuratore Generale dell'Alabama ha avviato un'indagine e chiesto a OpenAI di fornire tutta la documentazione sull'attacco contro Hugging Face. The post Hack Hugging Face: Alabama avvia indagine su OpenAI appeared fi",
+      "link": "https://www.punto-informatico.it/hack-hugging-face-alabama-avvia-indagine-openai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T07:04:03+00:00"
+    },
+    {
+      "titolo": "Xiaomi, Samsung e HONOR: il tuo nuovo smartphone a prezzo da scaffale su eBay",
+      "descrizione": "Approfitta subito di 4 offerte speciali per acquistare il tuo nuovo smartphone Xiaomi, Samsung o HONOR a prezzo da scaffale su eBay. The post Xiaomi, Samsung e HONOR: il tuo nuovo smartphone a prezzo da scaffale su eBay",
+      "link": "https://www.punto-informatico.it/xiaomi-samsung-e-honor-il-tuo-nuovo-smartphone-a-prezzo-da-scaffale-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T06:48:50+00:00"
+    },
+    {
+      "titolo": "Sony Xperia 10 VIII è ufficiale: un display più luminoso, ma le novità sono poche",
+      "descrizione": "Sony ha presentato Xperia 10 VIII, nuova generazione del suo smartphone di fascia media",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668253/sony-xperia-10-viii-ufficiale-novita-poche/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T06:40:00+00:00"
+    },
+    {
+      "titolo": "Smartphone, il mercato del Sud-est asiatico crolla del 15%: cresce solo Samsung",
+      "descrizione": "Tutto il mondo è paese: la crisi delle memorie si fa sentire su scala globale.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668247/mercato-smartphone-sud-est-asiatico-calo-samsung/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T06:35:00+00:00"
+    },
+    {
+      "titolo": "Hugging Face verso la vendita: sul tavolo oltre 11 miliardi",
+      "descrizione": "Hugging Face avrebbe ricevuto offerte che valutano la società oltre 11 miliardi di euro.",
+      "link": "https://www.hdblog.it/mercato/articoli/n668250/hugging-face-acquisizione-13-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T06:05:00+00:00"
+    },
+    {
+      "titolo": "Un canale tv amplia la sua copertura su scala nazionale e regionale",
+      "descrizione": "Novità sulla piattaforma digitale terrestre dove un canale tv ha ampliato la sua copertura sia su scala nazionale che su scala regionale. The post Un canale tv amplia la sua copertura su scala nazionale e regionale appea",
+      "link": "https://www.punto-informatico.it/un-canale-tv-amplia-la-sua-copertura-su-scala-nazionale-e-regionale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T06:00:23+00:00"
+    },
+    {
+      "titolo": "Curiosity torna a scalare Marte e cerca le ultime tempeste",
+      "descrizione": "Curiosity riprende la salita del Monte Sharp studiando rocce, atmosfera e tempeste di polvere.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668173/curiosity-monte-sharp-marte/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T05:55:00+00:00"
+    },
+    {
+      "titolo": "Atari sta preparando qualcosa di grosso (o grande?) | teaser ufficiali",
+      "descrizione": "Di che cosa si tratterà mai? Le parole usate dalla società sono incredibilmente ambigue.",
+      "link": "https://www.hdblog.it/games/articoli/n668238/atari-teaser-progetto-grosso/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T05:45:00+00:00"
+    },
+    {
+      "titolo": "Può un dissipatore a liquido di 22 anni fa domare la CPU gaming più potente di oggi?",
+      "descrizione": "Ti aspetteresti di peggio, e invece , se si tratta solo di giocare e non di stress test, se la cava più che egregiamente, come dimostra uno degli ultimi video di DerBauer.",
+      "link": "https://www.hdblog.it/hardware/articoli/n668236/dissipatore-aio-22-anni-vs-amd-ryzen-9800x3d/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T05:35:00+00:00"
+    },
+    {
+      "titolo": "Cos’è l’enorme macchia rossa nel Marocco che si vede dallo spazio",
+      "descrizione": "Scienziati e ricercatori hanno scoperto e stanno continuando a osservare un'enorme macchia rossa nel Marocco visibile dallo spazio. The post Cos’è l’enorme macchia rossa nel Marocco che si vede dallo spazio appeared firs",
+      "link": "https://www.punto-informatico.it/enorme-macchia-rossa-marocco-si-vede-spazio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T05:30:42+00:00"
+    },
+    {
+      "titolo": "Potrebbe esistere un interruttore per spegnere il dolore",
+      "descrizione": "Gli scienziati hanno scoperto nei topi un meccanismo che potrebbe rivelare l'esistenza di un interruttore per spegnere il dolore nell'uomo. The post Potrebbe esistere un interruttore per spegnere il dolore appeared first",
+      "link": "https://www.punto-informatico.it/potrebbe-esistere-interruttore-spegnere-dolore/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T05:00:10+00:00"
+    },
     {
       "titolo": "Hot Chips 2026: Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache — next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
       "descrizione": "Intel has pulled back the curtain on its next-gen Diamond Rapids Xeon CPUs, packing up to 256 P-cores and 1.28 TB of last-level cache.",
@@ -37,20 +114,6 @@
       "data": "2026-08-24T16:55:04+00:00"
     },
     {
-      "titolo": "Fusione nucleare, arrivano gli stellarator con magneti piatti",
-      "descrizione": "Magneti piatti e software potrebbero rendere gli stellarator più facili da costruire",
-      "link": "https://www.hdblog.it/green/articoli/n668094/fusione-nucleare-stellarator-magneti-piatti/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T16:55:00+00:00"
-    },
-    {
-      "titolo": "Mania di Cyberdeck? Ecco il tutorial passo-passo ufficiale di Raspberry Pi",
-      "descrizione": "Se siete anche voi ossessionati dal nuovo trend su TikTok ma non ve ne intendete tanto di elettronica niente paura: è più facile a farsi che a dirsi con questa guida.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n668223/raspberry-pi-5-cyberdeck-tutorial-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T16:45:00+00:00"
-    },
-    {
       "titolo": "Microsoft migliora OneDrive su Mac: sincronizzazione più veloce",
       "descrizione": "OneDrive riceve un nuovo motore di sincronizzazione su macOS. Microsoft promette più velocità, meno consumo della CPU e maggiore autonomia. The post Microsoft migliora OneDrive su Mac: sincronizzazione più veloce appeare",
       "link": "https://www.punto-informatico.it/microsoft-migliora-onedrive-mac-sincronizzazione-piu-veloce/",
@@ -58,53 +121,11 @@
       "data": "2026-08-24T16:37:00+00:00"
     },
     {
-      "titolo": "NASA apre ai privati la preparazione delle missioni spaziali",
-      "descrizione": "NASA amplia ai privati i servizi necessari per preparare satelliti e sonde al lancio.",
-      "link": "https://www.hdblog.it/mercato/articoli/n668091/nasa-payload-processing-servizi-privati/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T16:25:00+00:00"
-    },
-    {
-      "titolo": "Attacco hacker a Spaggiari: colpita Modulistica Smart, ClasseViva non coinvolta",
-      "descrizione": "Un attacco hacker rivendicato contro Spaggiari Parma ha acceso l'allarme tra milioni di famiglie, ma il registro elettronico ClasseViva non sarebbe stato toccato: nel mirino solo la piattaforma per...",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n668217/classeviva-sotto-attacco-hacker/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T16:15:00+00:00"
-    },
-    {
-      "titolo": "Caro carburante, agosto da record: fino a 1 miliardo di euro in più rispetto al 2025",
-      "descrizione": "Secondo le stime di Facile.it, gli automobilisti italiani potrebbero spendere oltre 1 miliardo di euro in più rispetto ad agosto 2025 tra benzina e diesel",
-      "link": "https://www.hdmotori.it/carburante-agosto-record-1-miliardo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T16:00:55+00:00"
-    },
-    {
-      "titolo": "Nori A3, il robot domestico che costa meno di 1.500 euro",
-      "descrizione": "Nori A3 porta braccia robotiche, LiDAR e telecamere in casa per circa 1.445 euro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668102/nori-a3-robot-domestico-1450-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T15:55:00+00:00"
-    },
-    {
-      "titolo": "GrapheneOS e Motorola, il piano include anche i pieghevoli RAZR",
-      "descrizione": "Inizialmente ci si concentrerà su un unico candybar tradizionale, ma poi si passerà anche ai pieghevoli.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668219/grapheneos-motorola-supporto-pieghevoli-razr-flip/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T15:50:00+00:00"
-    },
-    {
       "titolo": "La migliore VPN è in offerta: 28 mesi a prezzo ridotto per NordVPN",
       "descrizione": "La migliore VPN da attivare oggi è NordVPN. Il servizio è disponibile con un prezzo scontato scegliendo il piano di 28 mesi. Ecco la promo. The post La migliore VPN è in offerta: 28 mesi a prezzo ridotto per NordVPN appe",
       "link": "https://www.punto-informatico.it/la-migliore-vpn-e-in-offerta-28-mesi-a-prezzo-ridotto-per-nordvpn/",
       "fonte": "Punto Informatico",
       "data": "2026-08-24T15:45:13+00:00"
-    },
-    {
-      "titolo": "Quasi Vera, Taylor Mega è fatta con l'AI nel film di Fausto Brizzi | Trailer ufficiale",
-      "descrizione": "Fausto Brizzi porta al cinema una influencer virtuale creata con l’intelligenza artificiale",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n668215/quasi-vera-film-ai-taylor-mega/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-24T15:45:00+00:00"
     },
     {
       "titolo": "Uso AI senza permesso: streamer denuncia Twitch e Amazon",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/networking/researcgers-find-a-drake-passage-cable-to-antarctica-is-buildable",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-24T12:03:28+00:00"
-    },
-    {
-      "titolo": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
-      "descrizione": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
-      "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-      "fonte": "WIRED",
-      "data": "2026-08-24T10:30:00+00:00"
-    },
-    {
-      "titolo": "ToxicPanda ruba dati da 349 app Android e blocca Google Play",
-      "descrizione": "La versione aggiornata di ToxicPanda permette di rubare dati e credenziali da 349 app bancarie e di criptovalute, sfruttando un'interfaccia fasulla. The post ToxicPanda ruba dati da 349 app Android e blocca Google Play a",
-      "link": "https://www.punto-informatico.it/toxicpanda-ruba-dati-349-app-android-blocca-google-play/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-24T10:11:21+00:00"
-    },
-    {
-      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
-      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
-      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-24T09:41:42+00:00"
     }
   ]
 }
