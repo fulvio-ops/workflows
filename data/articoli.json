@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-08-25T13:12:44.913896+00:00",
+  "last_updated": "2026-08-25T18:58:32.719615+00:00",
   "items": [
+    {
+      "titolo": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
+      "descrizione": "OpenAI arrived at Hot Chips on Tuesday with benchmarks claiming its first in-house chip beats Nvidia's GB300.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-25T18:05:23+00:00"
+    },
+    {
+      "titolo": "La Porsche 911 Targa della Polizia frantuma ogni record: vola oltre i 216.000 euro",
+      "descrizione": "Per anni ha pattugliato le autostrade olandesi a caccia di automobilisti indisciplinati. Oggi quella Porsche 911 Targa è diventata un pezzo da collezione",
+      "link": "https://www.hdmotori.it/porsche-911-targa-polizia-olandese-asta-216000-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T18:00:22+00:00"
+    },
+    {
+      "titolo": "Un laser elimina il ghiaccio nelle centrali nucleari in pochi minuti",
+      "descrizione": "Un laser separa in pochi minuti i cestelli ghiacciati dei sistemi di sicurezza nucleari.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668168/laser-ghiaccio-centrali-nucleari/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T17:40:00+00:00"
+    },
+    {
+      "titolo": "SpaceX, Elon Musk promette il primo data center orbitale nel 2027",
+      "descrizione": "Elon Musk annuncia i primi satelliti AI di SpaceX nel 2027. Saranno data center orbitanti basati sulla tecnologia NVIDIA. The post SpaceX, Elon Musk promette il primo data center orbitale nel 2027 appeared first on Punto",
+      "link": "https://www.punto-informatico.it/spacex-elon-musk-promette-primo-data-center-orbitale-2027/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T17:31:50+00:00"
+    },
+    {
+      "titolo": "Windows 11 manda in crash i giochi: arriva la soluzione",
+      "descrizione": "L'update KB5121003 di Windows 11 provoca crash e riavvii nei giochi. Microsoft indica una soluzione temporanea per risolvere il problema. The post Windows 11 manda in crash i giochi: arriva la soluzione appeared first on",
+      "link": "https://www.punto-informatico.it/windows-11-crash-giochi-soluzione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T17:07:24+00:00"
+    },
+    {
+      "titolo": "Xbox continua con i festeggiamenti del 25° anniversario: tanti nuovi accessori limitati",
+      "descrizione": "La società ha coinvolto alcuni partner storici. La proposta di Razer è particolarmente interessante.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668363/xbox-25-periferiche-accessori-razer-8bitdo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T17:05:00+00:00"
+    },
+    {
+      "titolo": "CATL, ora le batterie si comprano online come \"cibo a domicilio\"",
+      "descrizione": "CATL lancia la piattaforma B2B CATL Mall: celle LFP e moduli d'accumulo venduti direttamente online senza intermediari, con garanzia di 5 anni",
+      "link": "https://www.hdmotori.it/catl-mall-vendita-online-batterie-lfp/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T17:00:09+00:00"
+    },
+    {
+      "titolo": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "descrizione": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "link": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-08-25T16:57:55+00:00"
+    },
+    {
+      "titolo": "Wyze Indoor Pan Cam ufficiale: tracking AI migliorato e modalità notturna più efficace",
+      "descrizione": "C'è anche una modalità privacy \"fisica\", che sposta il sensore verso l'interno del corpo della videocamera.",
+      "link": "https://www.hdblog.it/domotica/articoli/n668361/wyze-indoor-pan-cam-specifiche-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T16:25:00+00:00"
+    },
+    {
+      "titolo": "Lancia Delta S4, ribaltamento fatale: il tragico incidente di Stra",
+      "descrizione": "Non è stato un incidente di rally. Mirco Celin ha perso la vita a 35 anni in un crash stradale a bordo di una Lancia Delta S4",
+      "link": "https://www.hdmotori.it/lancia-delta-s4-incidente-stra/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T16:00:12+00:00"
+    },
+    {
+      "titolo": "Gemini, nuova interfaccia su Android: arrivano notifiche e filtri",
+      "descrizione": "Gemini si prepara a cambiare ancora su Android. Ecco le novità dell'interfaccia, dalla gestione delle chat alle notifiche e a Spark. The post Gemini, nuova interfaccia su Android: arrivano notifiche e filtri appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-nuova-interfaccia-android-arrivano-notifiche-filtri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T15:49:25+00:00"
+    },
+    {
+      "titolo": "Garmin Fenix 9 e 9 Pro ufficiali: più potenza e fino a 57 giorni di autonomia",
+      "descrizione": "Garmin presenta Fenix 9 e Fenix 9 Pro, disponibili con casse da 43, 47 e 51 mm: nuovi display AMOLED, hardware più potente, funzioni sportive evolute e autonomia fino a 57 giorni",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668354/garmin-fenix-9-pro-solar-ufficiali-specifiche-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T15:45:00+00:00"
+    },
+    {
+      "titolo": "WhatsApp più sicuro con nuova autenticazione e passkey",
+      "descrizione": "WhatsApp permetterà di impostare una password per la verifica in due passaggi, usare passkey multiple e mostrerà più informazioni sulle chiamate. The post WhatsApp più sicuro con nuova autenticazione e passkey appeared f",
+      "link": "https://www.punto-informatico.it/whatsapp-piu-sicuro-nuova-autenticazione-passkey/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T15:39:27+00:00"
+    },
+    {
+      "titolo": "Uno straccio di sconto: in tempi di aumenti Apple taglia un prezzo. Quello del panno",
+      "descrizione": "I Mac costano tanto, ma pulirne lo schermo è più economico...",
+      "link": "https://www.hdblog.it/apple/articoli/n668351/apple-panno-pulizia-prezzo-taglio-italia-10-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T15:35:00+00:00"
+    },
+    {
+      "titolo": "Troppi \"touch\" in auto, Renault frena: i tasti fisici non si toccano",
+      "descrizione": "Renault difende i comandi fisici a bordo: schermi touch troppo complessi e rischiosi per la sicurezza. Anche Volkswagen e Mercedes rivedono i loro piani tecnologici",
+      "link": "https://www.hdmotori.it/renault-stop-tutto-touch-pulsanti-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-25T15:30:10+00:00"
+    },
+    {
+      "titolo": "Apple annuncia il nuovo Mac mini con chip M5 Pro e M6",
+      "descrizione": "Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate. The post Apple annuncia il nuovo Mac mini con chip M5 Pro e M6 appeared first",
+      "link": "https://www.punto-informatico.it/apple-annuncia-nuovo-mac-mini-chip-m5-pro-m6/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T13:51:38+00:00"
+    },
     {
       "titolo": "Propaganda russa con ChatGPT: OpenAI chiude gli account",
       "descrizione": "OpenAI ha chiuso gli account ChatGPT usati per generare post e commenti a favore della Russia pubblicati su X, Facebook, Telegram, Substack e LinkedIn. The post Propaganda russa con ChatGPT: OpenAI chiude gli account app",
@@ -16,13 +128,6 @@
       "data": "2026-08-25T13:00:00+00:00"
     },
     {
-      "titolo": "Excel cambia il connettore Exchange: alcuni file andranno modificati a mano",
-      "descrizione": "Microsoft abbandona Exchange Web Services su Exchange Online e modifica il connettore utilizzato da Power Query in Excel. Le vecchie cartelle di lavoro interessate non verranno migrate automaticamente",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668309/microsoft-excel-connettore-exchange-cosa-cambia/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T12:45:00+00:00"
-    },
-    {
       "titolo": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
       "descrizione": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month.",
       "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
@@ -30,60 +135,11 @@
       "data": "2026-08-25T12:40:22+00:00"
     },
     {
-      "titolo": "Promozioni auto: ecco i modelli con più del 20% di sconto ad agosto 2026",
-      "descrizione": "Abbiamo raccolto tutte le promozioni auto che ad agosto prevedono uno sconto superiore al 20%. Il prezzo si riduce, ma attenzione ai vincoli.",
-      "link": "https://www.hdmotori.it/promozioni-auto-sconto-agosto-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T12:30:03+00:00"
-    },
-    {
-      "titolo": "Un malware Android è entrato negli infotainment delle auto",
-      "descrizione": "Un malware Android chiamato JarService è stato distribuito ad alcuni infotainment auto attraverso TWCore, un’app di sistema legittima. Kaspersky lo definisce il primo caso documentato di questo tipo",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n668308/virus-infotainment-auto-kaspersky/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T12:15:00+00:00"
-    },
-    {
-      "titolo": "La nuova Opel Corsa arriverà nel 2028, sarà solo elettrica e costerà 25.000 euro",
-      "descrizione": "L'amministratore delegato Florian Huettl conferma il futuro della Opel più venduta: addio ai motori termici per la prossima generazione",
-      "link": "https://www.hdmotori.it/opel-corsa-elettrica-2028-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T12:00:56+00:00"
-    },
-    {
       "titolo": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
       "descrizione": "Nvidia has provided more color on its Vera CPU for agentic data centers at Hot Chips 2026, showcasing the benefits of spatial multithreading and the power benefits of the LPDDR5X memory system.",
       "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-25T11:53:48+00:00"
-    },
-    {
-      "titolo": "Xiaomi presenta una nuova cuociriso smart con 9 modalità di cottura",
-      "descrizione": "La nuova cuociriso Xiaomi non prepara solamente riso: supporta cottura a vapore, stufatura e preparazioni senza acqua, con un programma rapido capace di completare il ciclo in circa 26 minuti",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n668305/xiaomi-cuociriso-smart-funzioni-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T11:50:00+00:00"
-    },
-    {
-      "titolo": "8 profili social falsi e l'ossessione per i like: \"Controllavo sempre, poi sono svenuto\"",
-      "descrizione": "Cuoco, istruttore di sub e appassionato di letteratura. Tutto per avere like.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n668303/social-dipendenza-ossessione-like-ragazzo-italiano/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T11:45:00+00:00"
-    },
-    {
-      "titolo": "macOS si prepara a dire addio a un'utility da terminale storica",
-      "descrizione": "Con macOS 27 Golden Gate hdiutil, tool per ridimensionare, montare e in generale gestire le immagini disco, diventa ufficialmente \"deprecato\". Più avanti sarà rimosso.",
-      "link": "https://www.hdblog.it/apple/articoli/n668306/macos-27-golden-gate-tool-terminale-hdiutil/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T11:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi presenta uno scaldabagno smart minimal senza scarico della condensa",
-      "descrizione": "Il nuovo Mijia Smart Gas Water Heater Pro 16L integra Wi-Fi, Xiaomi Home, tecnologia zero-cold-water e controllo della temperatura, oltre a un sistema innovativo per gestire la condensa",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n668301/xiaomi-scaldabagno-smart-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T11:20:00+00:00"
     },
     {
       "titolo": "AI coder gets Doom running on a custom CPU designed by GPT-5.6 Sol — game viewport is overlaid on a pulsing schematic of the CPU in Turing Complete's sandbox environment",
@@ -107,67 +163,11 @@
       "data": "2026-08-25T10:47:19+00:00"
     },
     {
-      "titolo": "L’intelligenza artificiale sta chiudendo le porte ai giovani",
-      "descrizione": "L’AI pesa sulle assunzioni: i lavoratori tra 22 e 25 anni sono i più esposti.",
-      "link": "https://www.hdblog.it/mercato/articoli/n668284/ai-lavoro-giovani-posti-entry-level/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T10:45:00+00:00"
-    },
-    {
       "titolo": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads — will use optimized Vera Rubin NVL72 in space with Starmind satellite",
       "descrizione": "Nvidia claims the chip completes agentic, reinforcement learning, and data processing tasks up to 1.8 times faster than x86 processors.",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-will-deploy-standalone-nvidia-vera-cpus-for-groks-agentic-workloads",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-08-25T10:41:54+00:00"
-    },
-    {
-      "titolo": "Tesla Cybercab: il nuovo robotaxi sarà presentato il 3 settembre",
-      "descrizione": "Il prossimo 3 settembre Tesla presenterà il Cybercab ad Austin. Due posti, zero volante o pedali: la svolta di Elon Musk tra intelligenza artificiale, chip AI5 e Robotaxi.",
-      "link": "https://www.hdmotori.it/tesla-cybercab-presentazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-25T10:30:50+00:00"
-    },
-    {
-      "titolo": "Spotify, gli audiolibri non partono? Il bug è in fase di correzione",
-      "descrizione": "Spotify conferma i problemi con gli audiolibri e annuncia una correzione. Ecco cosa fare se la riproduzione non funziona. The post Spotify, gli audiolibri non partono? Il bug è in fase di correzione appeared first on Pun",
-      "link": "https://www.punto-informatico.it/spotify-audiolibri-non-partono-bug-correzione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T10:13:21+00:00"
-    },
-    {
-      "titolo": "Nuovo Mac mini in arrivo prima di iPhone 18 e iPad mini",
-      "descrizione": "Apple dovrebbe annunciare entro fine agosto o inizio settembre il nuovo Mac mini, mentre entro fine ottobre arriverà il nuovo iPad mini con schermo OLED. The post Nuovo Mac mini in arrivo prima di iPhone 18 e iPad mini a",
-      "link": "https://www.punto-informatico.it/nuovo-mac-mini-arrivo-prima-iphone-18-ipad-mini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T09:37:46+00:00"
-    },
-    {
-      "titolo": "It Should Be Harder to Apply for a Job. No, Really",
-      "descrizione": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-      "fonte": "WIRED",
-      "data": "2026-08-25T09:30:00+00:00"
-    },
-    {
-      "titolo": "GrapheneOS sui Motorola Razr, garantiti 7 anni di aggiornamenti",
-      "descrizione": "GrapheneOS punta sui Motorola di fascia alta: supporto ai Razr, firmware forniti da Motorola e aggiornamenti fino a 7 anni. The post GrapheneOS sui Motorola Razr, garantiti 7 anni di aggiornamenti appeared first on Punto",
-      "link": "https://www.punto-informatico.it/grapheneos-motorola-razr-garantiti-7-anni-aggiornamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T09:06:34+00:00"
-    },
-    {
-      "titolo": "Apple, via libera di Trump alla RAM cinese di CXMT e YMTC?",
-      "descrizione": "Apple potrebbe ottenere da Trump il via libera per acquistare memoria cinese da CXMT e YMTC, nonostante l'opposizione del Congresso. The post Apple, via libera di Trump alla RAM cinese di CXMT e YMTC? appeared first on P",
-      "link": "https://www.punto-informatico.it/apple-via-libera-trump-ram-cinese-cxmt-ymtc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T08:23:00+00:00"
-    },
-    {
-      "titolo": "Pavel Durov ricorda l’indagine francese e accusa altri governi",
-      "descrizione": "Durov ha ricordato l'arresto in Francia di due anni fa, evidenziando che ci sono motivazioni politiche dietro i frequenti attacchi contro Telegram. The post Pavel Durov ricorda l’indagine francese e accusa altri governi",
-      "link": "https://www.punto-informatico.it/pavel-durov-ricorda-indagine-francese-accusa-altri-governi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T08:00:52+00:00"
     }
   ]
 }
