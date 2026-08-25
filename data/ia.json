@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-25T07:09:47.097154+00:00",
+  "last_updated": "2026-08-25T13:12:50.511265+00:00",
   "items": [
     {
-      "titolo": "Hack Hugging Face: Alabama avvia indagine su OpenAI",
-      "descrizione": "Il Procuratore Generale dell'Alabama ha avviato un'indagine e chiesto a OpenAI di fornire tutta la documentazione sull'attacco contro Hugging Face. The post Hack Hugging Face: Alabama avvia indagine su OpenAI appeared fi",
-      "link": "https://www.punto-informatico.it/hack-hugging-face-alabama-avvia-indagine-openai/",
+      "titolo": "Propaganda russa con ChatGPT: OpenAI chiude gli account",
+      "descrizione": "OpenAI ha chiuso gli account ChatGPT usati per generare post e commenti a favore della Russia pubblicati su X, Facebook, Telegram, Substack e LinkedIn. The post Propaganda russa con ChatGPT: OpenAI chiude gli account app",
+      "link": "https://www.punto-informatico.it/propaganda-russa-chatgpt-openai-chiude-account/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-25T07:04:03+00:00",
+      "data": "2026-08-25T13:09:05+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,12 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "7 funzioni di Gemini che cambiano la giornata",
-      "descrizione": "Gemini non è più solo un chatbot. Ecco 7 funzioni per gestire ricerche, email, riunioni, presentazioni e attività ripetitive. The post 7 funzioni di Gemini che cambiano la giornata appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/7-funzioni-gemini-cambiano-giornata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-24T15:30:35+00:00",
+      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
+      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
+      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-24T09:41:42+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Windows veteran's vibe-coded Task Manager now also runs on Mac and Linux — downloadable app is the result of a 107-page spec fed to Claude Code",
+      "descrizione": "Legendary Windows developer Dave Plummer has been busy finessing his revamped Task Manager, now dubbed TMOG.",
+      "link": "https://www.tomshardware.com/software/windows/windows-veterans-vibe-coded-task-manager-now-also-runs-on-mac-and-linux-downloadable-app-is-the-result-of-a-107-page-spec-fed-to-claude-code",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-25T10:30:00+00:00",
+      "modello": "claude"
     }
   ]
 }
