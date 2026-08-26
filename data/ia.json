@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-26T13:17:40.012857+00:00",
+  "last_updated": "2026-08-26T20:04:45.494642+00:00",
   "items": [
     {
-      "titolo": "OpenAI bans Russian ChatGPT accounts posing as a fake Israeli think tank — used VPNs to push pro-Kremlin narratives and steal academic papers for its website",
-      "descrizione": "Instead of using ChatGPT to write the articles, the operators used the chatbot to strip any wording that might mark them as Russian speakers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-russian-chatgpt-accounts-behind-a-fake-think-tank-pushing-pro-kremlin-narratives",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-26T09:41:55+00:00",
+      "titolo": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "descrizione": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "fonte": "WIRED",
+      "data": "2026-08-26T19:16:42+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini, nuova interfaccia su Android: arrivano notifiche e filtri",
-      "descrizione": "Gemini si prepara a cambiare ancora su Android. Ecco le novità dell'interfaccia, dalla gestione delle chat alle notifiche e a Spark. The post Gemini, nuova interfaccia su Android: arrivano notifiche e filtri appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-nuova-interfaccia-android-arrivano-notifiche-filtri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T15:49:25+00:00",
+      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
+      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
+      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-24T09:41:42+00:00",
       "modello": "gemini"
     },
     {
