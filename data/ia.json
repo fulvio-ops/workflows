@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-26T07:10:06.506159+00:00",
+  "last_updated": "2026-08-26T13:17:40.012857+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Plus, tornano i limiti di 5 ore per Codex e Work",
-      "descrizione": "OpenAI ripristina il limite di 5 ore per Codex e Work sugli account Plus",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668292/chatgpt-plus-limite-5-ore-codex-work/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-26T06:40:00+00:00",
+      "titolo": "OpenAI bans Russian ChatGPT accounts posing as a fake Israeli think tank — used VPNs to push pro-Kremlin narratives and steal academic papers for its website",
+      "descrizione": "Instead of using ChatGPT to write the articles, the operators used the chatbot to strip any wording that might mark them as Russian speakers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-russian-chatgpt-accounts-behind-a-fake-think-tank-pushing-pro-kremlin-narratives",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-26T09:41:55+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google porta la sua AI in banca e negli studi legali con Gemini Enterprise",
-      "descrizione": "Google Cloud ha annunciato le prime due versioni di Gemini Enterprise sviluppate per settori professionali specifici",
-      "link": "https://www.hdblog.it/google/articoli/n668388/google-gemini-enterprise-banche-studi-legali/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-26T06:15:00+00:00",
+      "titolo": "Gemini, nuova interfaccia su Android: arrivano notifiche e filtri",
+      "descrizione": "Gemini si prepara a cambiare ancora su Android. Ecco le novità dell'interfaccia, dalla gestione delle chat alle notifiche e a Spark. The post Gemini, nuova interfaccia su Android: arrivano notifiche e filtri appeared fir",
+      "link": "https://www.punto-informatico.it/gemini-nuova-interfaccia-android-arrivano-notifiche-filtri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-25T15:49:25+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude and Cowork will share memories about you now - unless you opt out",
-      "descrizione": "Anthropic is merging Claude chat and Cowork memory, raising privacy questions about what AI remembers and if it's worth the tradeoff.",
-      "link": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
-      "fonte": "Latest news",
-      "data": "2026-08-25T17:00:00+00:00",
+      "titolo": "Claude Cowork condivide la memoria con Claude Chat",
+      "descrizione": "Claude Cowork accede alla memoria di Claude Chat, quindi l'utente non deve fornire le stesse informazioni (la funzionalità può essere disattivata). The post Claude Cowork condivide la memoria con Claude Chat appeared fir",
+      "link": "https://www.punto-informatico.it/claude-cowork-condivide-memoria-claude-chat/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-26T11:05:50+00:00",
       "modello": "claude"
     }
   ]
