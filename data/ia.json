@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-26T01:59:41.320648+00:00",
+  "last_updated": "2026-08-26T07:10:06.506159+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
-      "descrizione": "OpenAI arrived at Hot Chips on Tuesday with benchmarks claiming its first in-house chip beats Nvidia's GB300.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-25T18:05:23+00:00",
+      "titolo": "ChatGPT Plus, tornano i limiti di 5 ore per Codex e Work",
+      "descrizione": "OpenAI ripristina il limite di 5 ore per Codex e Work sugli account Plus",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668292/chatgpt-plus-limite-5-ore-codex-work/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-26T06:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini, nuova interfaccia su Android: arrivano notifiche e filtri",
-      "descrizione": "Gemini si prepara a cambiare ancora su Android. Ecco le novità dell'interfaccia, dalla gestione delle chat alle notifiche e a Spark. The post Gemini, nuova interfaccia su Android: arrivano notifiche e filtri appeared fir",
-      "link": "https://www.punto-informatico.it/gemini-nuova-interfaccia-android-arrivano-notifiche-filtri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-25T15:49:25+00:00",
+      "titolo": "Google porta la sua AI in banca e negli studi legali con Gemini Enterprise",
+      "descrizione": "Google Cloud ha annunciato le prime due versioni di Gemini Enterprise sviluppate per settori professionali specifici",
+      "link": "https://www.hdblog.it/google/articoli/n668388/google-gemini-enterprise-banche-studi-legali/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-26T06:15:00+00:00",
       "modello": "gemini"
     },
     {
