@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-26T20:04:45.494642+00:00",
+  "last_updated": "2026-08-27T09:53:14.721714+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
-      "descrizione": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "fonte": "WIRED",
-      "data": "2026-08-26T19:16:42+00:00",
+      "titolo": "Il sistema all-in-one Philips 8500 cambia il modo di stirare ed è scontato del 24%",
+      "descrizione": "Il Philips 8500 (AIS8530/20) è un sistema stirante da 2200 W con 6 bar, asse multiangolare, tecnologia OptimalTEMP e base rimovibile per vaporizzare capi, tende e tappezzeria. Attualmente è in...",
+      "link": "https://www.hdblog.it/philips/offerte/n668534/philips-8500-sistema-stirante-aio-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-27T08:12:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Pixel 11 Pro XL, alla prova dell’AI: cosa sa fare davvero Gemini sullo smartphone",
-      "descrizione": "Dalla dettatura intelligente alle foto scelte dall’algoritmo, L’AI comincia a essere utile, ma restano limiti su potenza e affidabilità. La nostra prova",
-      "link": "https://www.ilsole24ore.com/art/pixel-11-pro-xl-prova-dell-ai-cosa-sa-fare-davvero-gemini-smartphone-AJmWxYq",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-24T09:41:42+00:00",
+      "titolo": "Google aggiorna Gemini Live e annuncia Gemini 3.5 Transcribe",
+      "descrizione": "Google ha aggiunto nuove funzionalità di produttività a Gemini Live e annunciato Gemini 3.5 Transcribe che trascrive la voce in testo formattato. The post Google aggiorna Gemini Live e annuncia Gemini 3.5 Transcribe appe",
+      "link": "https://www.punto-informatico.it/google-aggiorna-gemini-live-annuncia-gemini-3-5-transcribe/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-27T07:06:24+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Cowork condivide la memoria con Claude Chat",
-      "descrizione": "Claude Cowork accede alla memoria di Claude Chat, quindi l'utente non deve fornire le stesse informazioni (la funzionalità può essere disattivata). The post Claude Cowork condivide la memoria con Claude Chat appeared fir",
-      "link": "https://www.punto-informatico.it/claude-cowork-condivide-memoria-claude-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-26T11:05:50+00:00",
+      "titolo": "Anthropic's Claude and Cowork will share memories about you now - unless you opt out",
+      "descrizione": "Anthropic is merging Claude chat and Cowork memory, raising privacy questions about what AI remembers and if it's worth the tradeoff.",
+      "link": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
+      "fonte": "Latest news",
+      "data": "2026-08-25T17:00:00+00:00",
       "modello": "claude"
     }
   ]
