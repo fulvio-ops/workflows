@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-27T09:53:14.721714+00:00",
+  "last_updated": "2026-08-27T22:17:51.310526+00:00",
   "items": [
     {
-      "titolo": "Il sistema all-in-one Philips 8500 cambia il modo di stirare ed è scontato del 24%",
-      "descrizione": "Il Philips 8500 (AIS8530/20) è un sistema stirante da 2200 W con 6 bar, asse multiangolare, tecnologia OptimalTEMP e base rimovibile per vaporizzare capi, tende e tappezzeria. Attualmente è in...",
-      "link": "https://www.hdblog.it/philips/offerte/n668534/philips-8500-sistema-stirante-aio-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-27T08:12:00+00:00",
+      "titolo": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "descrizione": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "fonte": "WIRED",
+      "data": "2026-08-27T16:52:42+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic's Claude and Cowork will share memories about you now - unless you opt out",
-      "descrizione": "Anthropic is merging Claude chat and Cowork memory, raising privacy questions about what AI remembers and if it's worth the tradeoff.",
-      "link": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
-      "fonte": "Latest news",
-      "data": "2026-08-25T17:00:00+00:00",
+      "titolo": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "descrizione": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "fonte": "WIRED",
+      "data": "2026-08-27T18:06:52+00:00",
       "modello": "claude"
     }
   ]
