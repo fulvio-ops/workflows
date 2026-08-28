@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-28T11:27:28.601652+00:00",
+  "last_updated": "2026-08-28T22:23:20.406762+00:00",
   "items": [
     {
-      "titolo": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
-      "descrizione": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel can provide them.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-28T10:30:00+00:00",
+      "titolo": "OpenAI svela cosa è successo nel caso Hugging Face",
+      "descrizione": "OpenAI ricostruisce il breach di Hugging Face e presenta nuove misure di sicurezza",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n668591/openai-rapporto-breach-hugging-face/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T16:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google AI Mode diventa un agente di viaggio con queste novità",
-      "descrizione": "Google AI Mode permette di monitorare i prezzi dei voli, acquistare biglietti in base a punti o miglia e prenotare una camera in hotel con Google Pay. The post Google AI Mode diventa un agente di viaggio con queste novit",
-      "link": "https://www.punto-informatico.it/google-ai-mode-diventa-agente-viaggio-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-28T08:36:15+00:00",
+      "titolo": "Google AI Mode diventa un agente di viaggio per voli e hotel",
+      "descrizione": "AI Mode controlla voli, prezzi e hotel e aiuta anche a completare le prenotazioni",
+      "link": "https://www.hdblog.it/google/articoli/n668732/google-ai-mode-viaggi-voli-hotel/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic, un giudice blocca la messa al bando del Pentagono",
-      "descrizione": "Un giudice federale statunitense ha definito illegale la decisione del Pentagono di escludere Anthropic da alcuni contratti militari. The post Anthropic, un giudice blocca la messa al bando del Pentagono appeared first o",
-      "link": "https://www.punto-informatico.it/anthropic-giudice-blocca-messa-bando-pentagono/",
+      "titolo": "Anthropic lancia MHS: lo standard che porta l’AI nei robot",
+      "descrizione": "Dopo il successo di MCP, Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature. The post Anthropic lancia MHS: lo standard che porta l’AI nei robot appeared first",
+      "link": "https://www.punto-informatico.it/anthrropic-lancia-mhs-standard-ai-robot/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-28T11:00:26+00:00",
+      "data": "2026-08-28T17:28:40+00:00",
       "modello": "claude"
     }
   ]

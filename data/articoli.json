@@ -1,26 +1,145 @@
 {
-  "last_updated": "2026-08-28T11:27:24.813348+00:00",
+  "last_updated": "2026-08-28T22:23:16.361733+00:00",
   "items": [
     {
-      "titolo": "Scorie nucleari per alimentare le missioni spaziali verso Marte",
-      "descrizione": "Isotopi radioattivi dai reattori terrestri potrebbero fornire energia alle missioni spaziali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668597/scorie-nucleari-energia-missioni-spaziali/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T11:15:00+00:00"
+      "titolo": "Milo Yiannopoulos Detained by ICE in Louisiana",
+      "descrizione": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
+      "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+      "fonte": "WIRED",
+      "data": "2026-08-28T19:44:11+00:00"
     },
     {
-      "titolo": "Hisense lancia A10 Pro e Ultra con display e-ink e LCD magnetico",
-      "descrizione": "I nuovi Hisense A10 Pro e Ultra puntano su lettura e studio grazie al display e-ink da 300 ppi, ma possono trasformarsi grazie a un secondo schermo LCD a colori da 4,96 pollici agganciato sul retro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668702/hisense-a10-smartphone-eink-ufficiale-prezzo/",
+      "titolo": "Recensione Google Pixel 11: il top di gamma \"economico\" da 999 euro ha senso?",
+      "descrizione": "Cosa cambia e cosa no",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n668413/recensione-google-pixel-11-test-prova-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-08-28T11:10:00+00:00"
+      "data": "2026-08-28T18:40:00+00:00"
     },
     {
-      "titolo": "BYD: la Blade Battery 2.0 ha mantenuto il 99% della capacità dopo 350 ricariche flash",
-      "descrizione": "Test da 30.000 km a 240 km/h e centinaia di ricariche flash in pochi giorni per la Yangwang U7 con Blade Battery 2.0. La prova di BYD anticipa i nuovi obblighi sull'affidabilità imposti...",
-      "link": "https://www.hdmotori.it/byd-blade-battery-capacita-350-ricariche-flash/",
+      "titolo": "Anthropic lancia MHS: lo standard che porta l’AI nei robot",
+      "descrizione": "Dopo il successo di MCP, Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature. The post Anthropic lancia MHS: lo standard che porta l’AI nei robot appeared first",
+      "link": "https://www.punto-informatico.it/anthrropic-lancia-mhs-standard-ai-robot/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-28T17:28:40+00:00"
+    },
+    {
+      "titolo": "Il leaker di GTA 6 si dilegua lasciando in eredità una truffa crypto",
+      "descrizione": "Una variante giusto un pelo più sofisticata del solito \"pump & dump\" con \"rug pull\" finale, ma lì siamo andati a finire. Bottino relativamente magro, tutto considerato: 250.000 dollari.",
+      "link": "https://www.hdblog.it/games/articoli/n668748/gta-6-leak-cyberleek-truffa-crypto-meme-coin/",
       "fonte": "HDblog.it",
-      "data": "2026-08-28T11:00:24+00:00"
+      "data": "2026-08-28T17:25:00+00:00"
+    },
+    {
+      "titolo": "Piccoli Big Bang al CERN: cosa hanno scoperto gli scienziati",
+      "descrizione": "Al CERN collisioni di ossigeno e neon aiutano a studiare il plasma dell’universo primordiale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668606/cern-piccoli-big-bang-plasma-quark-gluoni/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T17:15:00+00:00"
+    },
+    {
+      "titolo": "Android: Google sanzionerà le app troppo avide di RAM",
+      "descrizione": "Dal 2027 Google Play introdurrà nuovi limiti sull'uso della RAM delle app Android. Chi non si adegua rischia penalizzazioni sullo Store. The post Android: Google sanzionerà le app troppo avide di RAM appeared first on Pu",
+      "link": "https://www.punto-informatico.it/android-google-sanzionera-app-troppo-avide-ram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-28T17:05:53+00:00"
+    },
+    {
+      "titolo": "Zontes lancia il nuovo 125V: arriva il gemello più \"cattivo\" del 125X",
+      "descrizione": "Il nuovo Zontes 125V punta su leggerezza e dotazione: pesa appena 108 kg, ha 15 CV, spazio per due caschi integrali e in Spagna costa 2.688 euro",
+      "link": "https://www.hdmotori.it/zontes-lancia-il-nuovo-125v-arriva-il-gemello-piu-cattivo-del-125x/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T17:00:18+00:00"
+    },
+    {
+      "titolo": "Roblox, nuove iniziative per limitare il doomscrolling tra i più giovani",
+      "descrizione": "Pratiche che incentivano la visualizzazione di video uno dietro l'altro saranno bloccate per gli account Kids e Select.",
+      "link": "https://www.hdblog.it/games/articoli/n668742/roblox-blocco-doomscrolling-utenti-giovani/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T16:35:00+00:00"
+    },
+    {
+      "titolo": "Meta Ray-Ban, in arrivo la chiusura di una delle falle più critiche per la privacy",
+      "descrizione": "Bastava avviare una registrazione normalmente e poi coprire/manomettere il LED subito dopo. Il nuovo firmware risolve.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668741/ray-ban-meta-firmware-privacy-led-registrazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T16:05:00+00:00"
+    },
+    {
+      "titolo": "Octavia compie 30 anni, l’auto che ha cambiato il destino di Škoda",
+      "descrizione": "Dalla prima generazione del 1996 alla quarta serie: quasi 7,9 milioni di esemplari prodotti in 30 anni hanno trasformato la Škoda Octavia in un’icona",
+      "link": "https://www.hdmotori.it/skoda-octavia-compie-30-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T16:00:31+00:00"
+    },
+    {
+      "titolo": "Citizen lancia il Promaster Skyhawk Red Arrows in edizione limitata",
+      "descrizione": "Citizen presenta il Promaster Skyhawk Red Arrows, limitato a 9.999 esemplari.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668595/citizen-promaster-skyhawk-red-arrows/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:55:00+00:00"
+    },
+    {
+      "titolo": "Google AI Mode diventa un agente di viaggio per voli e hotel",
+      "descrizione": "AI Mode controlla voli, prezzi e hotel e aiuta anche a completare le prenotazioni",
+      "link": "https://www.hdblog.it/google/articoli/n668732/google-ai-mode-viaggi-voli-hotel/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:35:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID. California Cruise, il camper diventa elettrico: autonomia e prezzo",
+      "descrizione": "Volkswagen ID. California Cruise è il primo camper elettrico della famiglia: due posti letto, V2L fino a 3,6 kW e prezzo da 60.761 euro",
+      "link": "https://www.hdmotori.it/volkswagen-id-california-cruise-camper-elettrico-autonomia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:30:58+00:00"
+    },
+    {
+      "titolo": "Claude, 5 prompt per sfruttare la nuova memoria",
+      "descrizione": "La nuova memoria di Claude impara durante la conversazione, funziona tra chat diverse e si può gestire per argomento. Come sfruttarla al massimo. The post Claude, 5 prompt per sfruttare la nuova memoria appeared first on",
+      "link": "https://www.punto-informatico.it/claude-5-prompt-sfruttare-nuova-memoria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-28T15:30:26+00:00"
+    },
+    {
+      "titolo": "NVIDIA verso lo stop al rilascio di nuovi driver GeForce GameReady su Windows 10",
+      "descrizione": "L'ultimo arriverà a ottobre 2026.",
+      "link": "https://www.hdblog.it/hardware/articoli/n668737/windows-10-driver-geforce-rtx-stop-nvidia-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:25:00+00:00"
+    },
+    {
+      "titolo": "Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
+      "descrizione": "Nvidia establishes its employees federal political action committee (PAC) to fund politicians whose positions are favorable to Nvidia's interests.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-gears-up-its-influence-in-washington-forming-pac-tells-employees-that-decisions-congress-makes-over-the-coming-years-could-have-substantial-consequences-for-the-ai-industry-according-to-report",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-28T15:19:27+00:00"
+    },
+    {
+      "titolo": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "descrizione": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "link": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "fonte": "Latest news",
+      "data": "2026-08-28T15:15:05+00:00"
+    },
+    {
+      "titolo": "Microsoft Flight Simulator omaggia l'Italia con un nuovo aggiornamento | VIDEO",
+      "descrizione": "E non è l'unica novità",
+      "link": "https://www.hdblog.it/games/articoli/n668718/microsoft-flight-simulator-italia-aggiornamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-28T15:15:00+00:00"
+    },
+    {
+      "titolo": "Zelensky premia Musk e chiede di usare Starlink in Russia",
+      "descrizione": "Il Presidente dell'Ucraina ha conferito a Elon Musk l'Ordine di Libertà, probabilmente per ottenere il permesso di usare Starlink in territorio russo. The post Zelensky premia Musk e chiede di usare Starlink in Russia ap",
+      "link": "https://www.punto-informatico.it/zelensky-premia-musk-chiede-usare-starlink-russia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-28T15:03:57+00:00"
+    },
+    {
+      "titolo": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers",
+      "descrizione": "Nvidia denies putting AI cloud commitments initiative on hold despite reports that some deals were paused amid partner pushback over customer controls and concerns about potential antitrust scrutiny.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-denies-pausing-ai-cloud-commitments-initiative-after-reported-partner-backlash-report-claims-company-told-cloud-providers-it-could-only-lease-its-gpus-to-nvidia-approved-customers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-28T13:13:58+00:00"
     },
     {
       "titolo": "Inside Meta’s Push to Put Robots to Work in Data Centers",
@@ -28,13 +147,6 @@
       "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
       "fonte": "WIRED",
       "data": "2026-08-28T10:56:22+00:00"
-    },
-    {
-      "titolo": "Homey prova a risolvere il problema degli aggiornamenti firmware nella smart home",
-      "descrizione": "L'app ufficiale vuole diventare l'unico punto dell'impianto per la distribuzione di aggiornamenti firmware.",
-      "link": "https://www.hdblog.it/domotica/articoli/n668698/homey-app-ufficiale-aggiornamenti-universali/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T10:55:00+00:00"
     },
     {
       "titolo": "Diretta Milan-Venezia: quando e dove vederla in streaming",
@@ -51,123 +163,11 @@
       "data": "2026-08-28T10:49:31+00:00"
     },
     {
-      "titolo": "Piquadro debutta a IFA 2026 con accessori, zaini smart e chiusure biometriche",
-      "descrizione": "Il nuovo Corner Backpack di Piquadro integra sensori MEMS Bosch Sensortec capaci di raccogliere informazioni sulla qualità dell’aria durante gli spostamenti, mantenendo la tecnologia discreta nel...",
-      "link": "https://www.hdblog.it/eventi/articoli/n668697/piquadro-ifa-2026-novita-in-arrivo-quali/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T10:45:00+00:00"
-    },
-    {
-      "titolo": "Addio alle flash drive? Il DNA apre una nuova strada per le memorie",
-      "descrizione": "DNA sintetico e perovskite danno vita a una memoria efficiente che funziona sotto 0,1 volt",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668605/dna-sintetico-memoria-memristore/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T10:35:00+00:00"
-    },
-    {
-      "titolo": "L'auto \"Frankenstein\" di Mad Max Fury Road finisce su eBay",
-      "descrizione": "Dalle riprese di Mad Max Fury Road direttamente su eBay: la bizzarra auto \"ibrida\" su base furgone Mitsubishi finisce all'asta. Prezzo, caratteristiche e storia del mezzo.",
-      "link": "https://www.hdmotori.it/auto-frankenstein-mad-max-fury-road-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T10:30:52+00:00"
-    },
-    {
       "titolo": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
       "descrizione": "California residents have a legal right to access the data that companies collect about them. Actually exercising that right is a burdensome nightmare.",
       "link": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
       "fonte": "WIRED",
       "data": "2026-08-28T10:15:00+00:00"
-    },
-    {
-      "titolo": "Maserati sbarca al cinema: il film sulle origini del mito ha un cast stellare",
-      "descrizione": "Dai garage di Bologna alle corse americane: la storia della famiglia Maserati diventa un film con Al Pacino e Anthony Hopkins. Cast, trama e data d'uscita.",
-      "link": "https://www.hdmotori.it/maserati-the-brothers-film-cast-uscita/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T10:00:30+00:00"
-    },
-    {
-      "titolo": "DJI prepara tre debutti europei per IFA 2026: ecco le novità in arrivo",
-      "descrizione": "A IFA 2026 DJI mostrerà per la prima volta in Europa Osmo 360 II, capace di registrare video panoramici fino a 8K a 60 fps, insieme a due nuovi prodotti per pulizia smart ed energia domestica",
-      "link": "https://www.hdblog.it/dji/articoli/n668686/dji-a-ifa-2026-novita-in-arrivo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:55:00+00:00"
-    },
-    {
-      "titolo": "Anche in casa Sony torna l'OLED accessibile: ecco i nuovi TV Bravia 6",
-      "descrizione": "Sony amplia la gamma BRAVIA con il nuovo OLED 6, il modello più accessibile e disponibile fino a 83 pollici: dopo tre anni torna un pannello autoilluminante di grandi dimensioni nel catalogo del...",
-      "link": "https://www.hdblog.it/tv/articoli/n668670/sony-bravia-6-ritorno-oled-accessibile-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:45:00+00:00"
-    },
-    {
-      "titolo": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue — move could potentially save residential users $100 annually",
-      "descrizione": "I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This translates to about $100 a year for each home, with the",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/indiana-power-provider-proposes-usd59-million-rate-cut-for-state-says-data-centers-and-other-large-customers-are-driving-increased-revenue-move-could-potentially-save-residential-users-usd100-annually",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-28T09:37:11+00:00"
-    },
-    {
-      "titolo": "Stellantis, Filosa difende l’accordo con Dongfeng a Rennes: «Non siamo un cavallo di Troia»",
-      "descrizione": "Il CEO di Stellantis respinge le accuse di favorire l'espansione del Dragone in Europa, dopo la partnership con Dongfeng per la produzione di modelli cinesi nello stabilimento bretone.",
-      "link": "https://www.hdmotori.it/stellantis-filosa-dongfeng-rennes/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:30:38+00:00"
-    },
-    {
-      "titolo": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
-      "descrizione": "Influential right-wing conspiracy theorists and MAGA-aligned pundits are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination advocate and philanthropist.",
-      "link": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
-      "fonte": "WIRED",
-      "data": "2026-08-28T09:30:00+00:00"
-    },
-    {
-      "titolo": "Difesa collettiva contro attacchi AI: appello di 118 aziende",
-      "descrizione": "Oltre 100 aziende, tra cui OpenAI, Google e Microsoft, hanno evidenziato la necessità di un'azione collettiva per difendersi dagli attacchi AI. The post Difesa collettiva contro attacchi AI: appello di 118 aziende appear",
-      "link": "https://www.punto-informatico.it/difesa-collettiva-contro-attacchi-ai-appello-118-aziende/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-28T09:28:31+00:00"
-    },
-    {
-      "titolo": "I Ray-Ban Meta rischiano il ban in Germania: timori per la privacy",
-      "descrizione": "HateAid ha presentato in Germania una denuncia contro Meta, Ray-Ban, Oakley e diversi rivenditori, chiedendo lo stop alla vendita dei Ray-Ban Meta per possibili rischi legati alla privacy",
-      "link": "https://www.hdblog.it/indossabili/articoli/n668681/ray-ban-meta-rischio-ban-germania-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:25:00+00:00"
-    },
-    {
-      "titolo": "Atari e Activision, mega operazione nostalgia: 39 classici tornano su cartuccia",
-      "descrizione": "Le cartucce saranno compatibili anche con gli Atari originali dell'epoca!",
-      "link": "https://www.hdblog.it/games/articoli/n668676/atari-activision-39-giochi-cartucce-retro-ristampe/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:05:00+00:00"
-    },
-    {
-      "titolo": "Top Gear ritorna con una nuova stagione: tra i conduttori il comico Jimmy Carr?",
-      "descrizione": "La BBC annuncia il ritorno di Top Gear dopo 4 anni di stop per l'incidente a Freddie Flintoff. In corso i contatti con il l'attore comico Jimmy Carr e l'ex rugbista Joe Marler.",
-      "link": "https://www.hdmotori.it/top-gear-ritorno-conduttori/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T09:00:08+00:00"
-    },
-    {
-      "titolo": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
-      "descrizione": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
-      "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
-      "fonte": "WIRED",
-      "data": "2026-08-28T09:00:00+00:00"
-    },
-    {
-      "titolo": "Lidl investe 5,6 miliardi di euro in un mega data center per l’AI",
-      "descrizione": "Il proprietario di Lidl, investirà fino a 5,6 miliardi di euro in un maxi data center AI per rafforzare la sovranità digitale dell’Europa. The post Lidl investe 5,6 miliardi di euro in un mega data center per l’AI appear",
-      "link": "https://www.punto-informatico.it/lidl-investe-56-miliardi-euro-mega-data-center-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-28T08:43:24+00:00"
-    },
-    {
-      "titolo": "Google AI Mode diventa un agente di viaggio con queste novità",
-      "descrizione": "Google AI Mode permette di monitorare i prezzi dei voli, acquistare biglietti in base a punti o miglia e prenotare una camera in hotel con Google Pay. The post Google AI Mode diventa un agente di viaggio con queste novit",
-      "link": "https://www.punto-informatico.it/google-ai-mode-diventa-agente-viaggio-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-28T08:36:15+00:00"
     }
   ]
 }
