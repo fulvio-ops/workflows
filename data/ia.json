@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-27T22:17:51.310526+00:00",
+  "last_updated": "2026-08-28T11:27:28.601652+00:00",
   "items": [
     {
-      "titolo": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "descrizione": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "fonte": "WIRED",
-      "data": "2026-08-27T16:52:42+00:00",
+      "titolo": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
+      "descrizione": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel can provide them.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-28T10:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google aggiorna Gemini Live e annuncia Gemini 3.5 Transcribe",
-      "descrizione": "Google ha aggiunto nuove funzionalità di produttività a Gemini Live e annunciato Gemini 3.5 Transcribe che trascrive la voce in testo formattato. The post Google aggiorna Gemini Live e annuncia Gemini 3.5 Transcribe appe",
-      "link": "https://www.punto-informatico.it/google-aggiorna-gemini-live-annuncia-gemini-3-5-transcribe/",
+      "titolo": "Google AI Mode diventa un agente di viaggio con queste novità",
+      "descrizione": "Google AI Mode permette di monitorare i prezzi dei voli, acquistare biglietti in base a punti o miglia e prenotare una camera in hotel con Google Pay. The post Google AI Mode diventa un agente di viaggio con queste novit",
+      "link": "https://www.punto-informatico.it/google-ai-mode-diventa-agente-viaggio-novita/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-27T07:06:24+00:00",
+      "data": "2026-08-28T08:36:15+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "descrizione": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "fonte": "WIRED",
-      "data": "2026-08-27T18:06:52+00:00",
+      "titolo": "Anthropic, un giudice blocca la messa al bando del Pentagono",
+      "descrizione": "Un giudice federale statunitense ha definito illegale la decisione del Pentagono di escludere Anthropic da alcuni contratti militari. The post Anthropic, un giudice blocca la messa al bando del Pentagono appeared first o",
+      "link": "https://www.punto-informatico.it/anthropic-giudice-blocca-messa-bando-pentagono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-28T11:00:26+00:00",
       "modello": "claude"
     }
   ]
