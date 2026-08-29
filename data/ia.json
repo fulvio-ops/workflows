@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-29T07:07:40.108951+00:00",
+  "last_updated": "2026-08-29T16:44:56.825651+00:00",
   "items": [
     {
-      "titolo": "OpenAI svela cosa è successo nel caso Hugging Face",
-      "descrizione": "OpenAI ricostruisce il breach di Hugging Face e presenta nuove misure di sicurezza",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n668591/openai-rapporto-breach-hugging-face/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T16:25:00+00:00",
+      "titolo": "OpenAI non si fida di Musk e rescinde il contratto con Cursor",
+      "descrizione": "OpenAI ha rescisso il contratto sottoscritto con Cursor, in quanto l'azienda californiana non è certa che SpaceX rispetterà i termini di servizio. The post OpenAI non si fida di Musk e rescinde il contratto con Cursor ap",
+      "link": "https://www.punto-informatico.it/openai-non-si-fida-musk-rescinde-contratto-cursor/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-29T09:42:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google AI Mode diventa un agente di viaggio per voli e hotel",
-      "descrizione": "AI Mode controlla voli, prezzi e hotel e aiuta anche a completare le prenotazioni",
-      "link": "https://www.hdblog.it/google/articoli/n668732/google-ai-mode-viaggi-voli-hotel/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-28T15:35:00+00:00",
+      "titolo": "A week with the Google Pixel 11 changed my mind about Gemini (for the better)",
+      "descrizione": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel the standout in its generation.",
+      "link": "https://www.zdnet.com/article/google-pixel-11-review/",
+      "fonte": "Latest news",
+      "data": "2026-08-29T13:00:44+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic lancia MHS: lo standard che porta l’AI nei robot",
-      "descrizione": "Dopo il successo di MCP, Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature. The post Anthropic lancia MHS: lo standard che porta l’AI nei robot appeared first",
-      "link": "https://www.punto-informatico.it/anthrropic-lancia-mhs-standard-ai-robot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-28T17:28:40+00:00",
+      "titolo": "AI che migliora altra AI: Anthropic mostra cosa sa già fare",
+      "descrizione": "Anthropic testa ricercatori AI automatici su 10 benchmark di allineamento.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668764/anthropic-ai-auto-miglioramento-allineamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-29T08:35:00+00:00",
       "modello": "claude"
     }
   ]
