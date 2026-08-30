@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-08-30T11:57:20.271386+00:00",
+  "last_updated": "2026-08-30T16:43:23.306322+00:00",
   "items": [
+    {
+      "titolo": "WhatsApp: nuovi attacchi zero-click, consigli della Polizia",
+      "descrizione": "La Polizia di Stato ha rilevato nuovi attacchi zero-click contro WhatsApp per iOS, quindi consiglia di seguire alcuni accorgimenti per ridurre i rischi. The post WhatsApp: nuovi attacchi zero-click, consigli della Polizi",
+      "link": "https://www.punto-informatico.it/whatsapp-nuovi-attacchi-zero-click-consigli-polizia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T16:39:49+00:00"
+    },
+    {
+      "titolo": "CXMT denuncia il governo degli Stati Uniti",
+      "descrizione": "CXMT ha denunciato il Dipartimento della Difesa degli Stati Uniti chiedendo la rimozione dalla sua blacklist, in quanto non è un'azienda militare. The post CXMT denuncia il governo degli Stati Uniti appeared first on Pun",
+      "link": "https://www.punto-informatico.it/cxmt-denuncia-governo-stati-uniti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T15:22:54+00:00"
+    },
+    {
+      "titolo": "Brave annuncia Email Aliases per garantire la privacy",
+      "descrizione": "La versione 1.94 di Brave per desktop permette di generare indirizzi email casuali che possono essere usati per la registrazione ai servizi online. The post Brave annuncia Email Aliases per garantire la privacy appeared",
+      "link": "https://www.punto-informatico.it/brave-annuncia-email-aliases-garantire-privacy/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T14:14:26+00:00"
+    },
+    {
+      "titolo": "Huawei Watch D3: l'orologio che si gonfia per misurare la pressione cambia design",
+      "descrizione": "Sarà molto più sottile: lancio il 2 settembre.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668813/huawei-watch-d3-display-design-pressione-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T14:05:00+00:00"
+    },
+    {
+      "titolo": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
+      "descrizione": "Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app.",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-30T12:05:00+00:00"
+    },
     {
       "titolo": "China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware",
       "descrizione": "Chinese DRAM maker CXMT wants the US Department of Defense to remove it from the list of companies linked to the Chinese military.",
@@ -86,8 +121,8 @@
       "data": "2026-08-30T06:30:58+00:00"
     },
     {
-      "titolo": "Nancy Grace Roman Space Telescope è pronto al lancio",
-      "descrizione": "Il lancio del Nancy Grace Roman Space Telescope è previsto alle ore 13:26 italiane con un razzo Falcon Heavy di SpaceX dal Kennedy Space Center. The post Nancy Grace Roman Space Telescope è pronto al lancio appeared firs",
+      "titolo": "Nancy Grace Roman Space Telescope è pronto al lancio (update)",
+      "descrizione": "Il lancio del Nancy Grace Roman Space Telescope è previsto alle ore 13:26 italiane con un razzo Falcon Heavy di SpaceX dal Kennedy Space Center. The post Nancy Grace Roman Space Telescope è pronto al lancio (update) appe",
       "link": "https://www.punto-informatico.it/nancy-grace-roman-space-telescope-lancio/",
       "fonte": "Punto Informatico",
       "data": "2026-08-29T17:32:25+00:00"
@@ -114,25 +149,11 @@
       "data": "2026-08-29T15:14:44+00:00"
     },
     {
-      "titolo": "Oppo Find X10 Series, tre modelli e lancio globale ad ottobre? Cosa sappiamo",
-      "descrizione": "Find X10 base, Find X10 Pro e Find X10 Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668787/oppo-find-x10-lancio-globale-ottobre-pro-max/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T15:05:00+00:00"
-    },
-    {
       "titolo": "Social media e minori: denunce per Discord e Snapchat",
       "descrizione": "Il governo brasiliano ha denunciato Discord, mentre il procuratore generale della Pennsylvania ha denunciato Snap per la scarsa protezione dei minori. The post Social media e minori: denunce per Discord e Snapchat appear",
       "link": "https://www.punto-informatico.it/social-media-minori-denunce-discord-snapchat/",
       "fonte": "Punto Informatico",
       "data": "2026-08-29T14:34:12+00:00"
-    },
-    {
-      "titolo": "Xiaomi Pad 9 Pro Max sarà un piacere per gli occhi: display 13'' con modalità comfort",
-      "descrizione": "I primi rumor anticipano caratteristiche interessanti.",
-      "link": "https://www.hdblog.it/tablet/articoli/n668782/xiaomi-pad9-pro-max-specifiche-xring-o3-13-pollici/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T14:05:00+00:00"
     },
     {
       "titolo": "Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/occhiali-meta-registrazione-bloccata-led-coperto/",
       "fonte": "Punto Informatico",
       "data": "2026-08-29T10:57:24+00:00"
-    },
-    {
-      "titolo": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-      "descrizione": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix.",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-08-29T10:30:00+00:00"
-    },
-    {
-      "titolo": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
-      "descrizione": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
-      "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
-      "fonte": "WIRED",
-      "data": "2026-08-29T10:30:00+00:00"
-    },
-    {
-      "titolo": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "descrizione": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "fonte": "WIRED",
-      "data": "2026-08-29T10:30:00+00:00"
     }
   ]
 }
