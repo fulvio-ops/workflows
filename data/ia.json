@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-30T05:27:52.485490+00:00",
+  "last_updated": "2026-08-30T11:57:24.879907+00:00",
   "items": [
     {
-      "titolo": "OpenAI non si fida di Musk e rescinde il contratto con Cursor",
-      "descrizione": "OpenAI ha rescisso il contratto sottoscritto con Cursor, in quanto l'azienda californiana non è certa che SpaceX rispetterà i termini di servizio. The post OpenAI non si fida di Musk e rescinde il contratto con Cursor ap",
+      "titolo": "OpenAI non si fida di Musk e rescinde il contratto con Cursor (update)",
+      "descrizione": "OpenAI ha rescisso il contratto sottoscritto con Cursor, in quanto l'azienda californiana non è certa che SpaceX rispetterà i termini di servizio. The post OpenAI non si fida di Musk e rescinde il contratto con Cursor (u",
       "link": "https://www.punto-informatico.it/openai-non-si-fida-musk-rescinde-contratto-cursor/",
       "fonte": "Punto Informatico",
       "data": "2026-08-29T09:42:44+00:00",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "AI che migliora altra AI: Anthropic mostra cosa sa già fare",
-      "descrizione": "Anthropic testa ricercatori AI automatici su 10 benchmark di allineamento.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668764/anthropic-ai-auto-miglioramento-allineamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T08:35:00+00:00",
+      "titolo": "Sony Music e Warner Chappell Music denunciano Anthropic",
+      "descrizione": "Sony Music e Warner Chappell Music accusano Anthropic di aver usato migliaia di brani musicali senza autorizzazione per l'addestramento di Claude. The post Sony Music e Warner Chappell Music denunciano Anthropic appeared",
+      "link": "https://www.punto-informatico.it/sony-music-warner-chappell-music-denunciano-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T10:40:27+00:00",
       "modello": "claude"
     }
   ]

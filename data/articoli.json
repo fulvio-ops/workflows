@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-30T05:27:48.360358+00:00",
+  "last_updated": "2026-08-30T11:57:20.271386+00:00",
   "items": [
+    {
+      "titolo": "China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware",
+      "descrizione": "Chinese DRAM maker CXMT wants the US Department of Defense to remove it from the list of companies linked to the Chinese military.",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-30T11:30:00+00:00"
+    },
+    {
+      "titolo": "Sony Music e Warner Chappell Music denunciano Anthropic",
+      "descrizione": "Sony Music e Warner Chappell Music accusano Anthropic di aver usato migliaia di brani musicali senza autorizzazione per l'addestramento di Claude. The post Sony Music e Warner Chappell Music denunciano Anthropic appeared",
+      "link": "https://www.punto-informatico.it/sony-music-warner-chappell-music-denunciano-anthropic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T10:40:27+00:00"
+    },
+    {
+      "titolo": "Apple Watch Ultra 4, cosa dicono i rumor: più sensori, nuovo chip e dubbi sul design",
+      "descrizione": "Il conto alla rovescia per il lancio del 9 settembre è agli sgoccioli.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668789/apple-watch-ultra-4-novita-sensori-chip-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T10:35:00+00:00"
+    },
+    {
+      "titolo": "Modders solder power cables directly to RTX 5090 PCB to eliminate notorious melting 16-pin connector — bare-board Galax HOF card pulls 600W under chiller cooling",
+      "descrizione": "TecLab, a Brazilian YouTuber, has just shown the most dangerous method of bypassing the 16-pin connector on an RTX 5090 — by soldering wires directly to the card's PCB. In an attempt to save the GPU from melting, they've",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-08-30T10:30:00+00:00"
+    },
+    {
+      "titolo": "PlayStation 5: funzioni e scorciatoie del DualSense che migliorano l’esperienza",
+      "descrizione": "Una serie di trucchi per sfruttare al meglio il controller.",
+      "link": "https://www.hdblog.it/sony/articoli/n668717/playstation-5-funzioni-e-scorciatoie-dualsense/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T10:01:00+00:00"
+    },
+    {
+      "titolo": "Plaud One, l’intelligenza artificiale ascolta le riunioni e prepara il lavoro dopo",
+      "descrizione": "Gli auricolari di Plaud costano 249,90 euro, inclusi 176 euro di crediti Plaud per utilizzare i servizi dell’agente. Il prodotto arriverà sul mercato e nel quarto trimestre 2026.",
+      "link": "https://www.ilsole24ore.com/art/plaud-one-l-intelligenza-artificiale-ascolta-riunioni-e-prepara-lavoro-dopo-AJyD2Wr",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-08-30T09:45:00+00:00"
+    },
+    {
+      "titolo": "Vivo X500 Pro Max avrà un display speciale: ecco perché",
+      "descrizione": "Vivo anticipa alcune caratteristiche interessanti.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668799/vivo-x500-pro-max-display-2k-boe-q11-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T09:35:00+00:00"
+    },
+    {
+      "titolo": "Android Automotive e Android Auto non sono la stessa cosa: ecco le differenze",
+      "descrizione": "Cosa cambia davvero tra i due sistemi di infotainment.",
+      "link": "https://www.hdblog.it/google/articoli/n668492/android-automotive-android-auto-differenze/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T09:01:00+00:00"
+    },
+    {
+      "titolo": "Waymo contro Tesla: continua lo scontro tra i due approcci alla guida autonoma",
+      "descrizione": "Ridondanza di sensori o sole telecamere? I vertici di Waymo difendono la filosofia dell’azienda e criticano quella di Tesla, pur senza mai nominarla.",
+      "link": "https://www.hdmotori.it/waymo-contro-tesla-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T07:30:40+00:00"
+    },
+    {
+      "titolo": "Motorola Moto G67 5G: -47% con l'offerta di oggi, è il low cost da scegliere",
+      "descrizione": "Il Motorola Moto G67 5G è in offerta con il 47% di sconto e diventa oggi il best buy della fascia bassa del mercato.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n668801/motorola-moto-g67-5g-offerta-fine-agosto-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T07:15:00+00:00"
+    },
+    {
+      "titolo": "Sonno, attività e allenamenti sotto controllo con Garmin vívoactive 6",
+      "descrizione": "Con il Garmin vívoactive 6 puoi tenere il tuo fisico sotto controllo in ogni momento e oggi è in offerta a un prezzo speciale su Amazon. The post Sonno, attività e allenamenti sotto controllo con Garmin vívoactive 6 appe",
+      "link": "https://www.punto-informatico.it/sonno-attivita-allenamenti-sotto-controllo-con-garmin-vivoactive-6/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-30T06:33:26+00:00"
+    },
+    {
+      "titolo": "Land Rover Defender: rinviata al 2030 la nuova generazione e anche la versione elettrica",
+      "descrizione": "La forte domanda della versione attuale e i limiti tecnici della piattaforma spingono Jaguar Land Rover a posticipare la nuova generazione del Defender.",
+      "link": "https://www.hdmotori.it/land-rover-defender-rinviata-nuova-generazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-30T06:30:58+00:00"
+    },
     {
       "titolo": "Nancy Grace Roman Space Telescope è pronto al lancio",
       "descrizione": "Il lancio del Nancy Grace Roman Space Telescope è previsto alle ore 13:26 italiane con un razzo Falcon Heavy di SpaceX dal Kennedy Space Center. The post Nancy Grace Roman Space Telescope è pronto al lancio appeared firs",
@@ -51,13 +135,6 @@
       "data": "2026-08-29T14:05:00+00:00"
     },
     {
-      "titolo": "Xbox Project Helix: la next-gen sarà \"una famiglia di dispositivi\", lo dice Asha Sharma",
-      "descrizione": "La nuova CEO ha parlato del futuro di Xbox in un'intervista.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668780/xbox-project-helix-famiglia-dispositivi-console-pc/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T13:35:00+00:00"
-    },
-    {
       "titolo": "Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first",
       "descrizione": "The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling.",
       "link": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
@@ -65,32 +142,11 @@
       "data": "2026-08-29T11:39:30+00:00"
     },
     {
-      "titolo": "GTA 6, Digital Foundry premia la grafica nonostante i 30 fps: \"senza precedenti\"",
-      "descrizione": "Qualche compromesso anche sulla risoluzione. Ma il risultato impressiona.",
-      "link": "https://www.hdblog.it/games/articoli/n668760/gta-6-vi-analisi-grafica-digital-foundry-30-fps/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T11:35:00+00:00"
-    },
-    {
-      "titolo": "Chrome: come disattivare le attività in background e risparmiare risorse",
-      "descrizione": "Il noto continua a operare anche quando viene chiuso.",
-      "link": "https://www.hdblog.it/google/articoli/n668623/chrome-come-disattivare-attivita-background/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T11:01:00+00:00"
-    },
-    {
       "titolo": "Occhiali Meta: registrazione bloccata se il LED è coperto",
       "descrizione": "M;eta rilascerà un aggiornamento per bloccare la fotocamera degli smart glass quando gli utenti coprono il LED dopo l'avvio della registrazione. The post Occhiali Meta: registrazione bloccata se il LED è coperto appeared",
       "link": "https://www.punto-informatico.it/occhiali-meta-registrazione-bloccata-led-coperto/",
       "fonte": "Punto Informatico",
       "data": "2026-08-29T10:57:24+00:00"
-    },
-    {
-      "titolo": "Motorola pronta a brillare: sta per lanciare un Razr 70 con Swarovski",
-      "descrizione": "E no, non è neppure la prima volta: ecco la data.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668757/motorola-razr-70-swarovski-ifa-2026-data-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T10:35:00+00:00"
     },
     {
       "titolo": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
@@ -112,62 +168,6 @@
       "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
       "fonte": "WIRED",
       "data": "2026-08-29T10:30:00+00:00"
-    },
-    {
-      "titolo": "Il blocco di Windows può essere aggirato via Thunderbolt: come proteggersi",
-      "descrizione": "Gli attacchi si basano sul Direct Memory Access.",
-      "link": "https://www.hdblog.it/portatili/articoli/n668568/blocco-windows-aggirato-via-thunderbolt-soluzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T10:01:00+00:00"
-    },
-    {
-      "titolo": "Garmin Vivoactive 6: sconto del 19% sullo smartwatch con 11 giorni di autonomia",
-      "descrizione": "Display AMOLED da 1,2\" e 2.000 nit, oltre 80 sport, funzioni per la corsa, musica, Garmin Pay e fino a 11 giorni di autonomia: il Garmin vivoactive 6 è a prezzo ridotto su Amazon.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n668771/garmin-vivoactive-6-amoled-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T09:55:00+00:00"
-    },
-    {
-      "titolo": "OpenAI non si fida di Musk e rescinde il contratto con Cursor",
-      "descrizione": "OpenAI ha rescisso il contratto sottoscritto con Cursor, in quanto l'azienda californiana non è certa che SpaceX rispetterà i termini di servizio. The post OpenAI non si fida di Musk e rescinde il contratto con Cursor ap",
-      "link": "https://www.punto-informatico.it/openai-non-si-fida-musk-rescinde-contratto-cursor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-29T09:42:44+00:00"
-    },
-    {
-      "titolo": "Il Galaxy S26 Ultra costa sempre meno, con i saldi di fine agosto è il top da prendere",
-      "descrizione": "Il Samsung Galaxy S26 Ultra è in offerta e diventa sempre di più un best buy tra gli smartphone di fascia alta.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n668772/samsung-galaxy-s26-ultra-offerta-885-e-ago26/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T09:40:00+00:00"
-    },
-    {
-      "titolo": "Non disturbare, silenzioso e modalità aereo: cosa cambia e quando usarle",
-      "descrizione": "Le tre modalità incidono anche sui consumi energetici.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668455/non-disturbare-silenzioso-modalita-aereo/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T09:01:00+00:00"
-    },
-    {
-      "titolo": "Volkswagen potrebbe convertire la fabbrica di Osnabrück: dalle auto all'Iron Dome",
-      "descrizione": "Volkswagen, Bassa Sassonia e Rafael trattano sul futuro dello stabilimento di Osnabrück, che potrebbe produrre componenti e mezzi di supporto per l’Iron Dome",
-      "link": "https://www.hdmotori.it/volkswagen-fabbrica-osnabruck-iron-dome/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-29T09:00:36+00:00"
-    },
-    {
-      "titolo": "Psilocybin Might Make Your Brain Live in the Moment",
-      "descrizione": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
-      "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
-      "fonte": "WIRED",
-      "data": "2026-08-29T09:00:00+00:00"
-    },
-    {
-      "titolo": "Beats Studio Pro: le migliori cuffie Bluetooth a meno della metà",
-      "descrizione": "Le Beats Studio Pro hanno la cancellazione del rumore, un audio spaziale personalizzato, batteria fino a 40 ore e sono in offerta al 55%. The post Beats Studio Pro: le migliori cuffie Bluetooth a meno della metà appeared",
-      "link": "https://www.punto-informatico.it/beats-studio-pro-migliori-cuffie-bluetooth-meno-della-meta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-29T08:40:53+00:00"
     }
   ]
 }
