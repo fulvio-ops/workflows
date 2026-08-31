@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-31T05:40:32.322680+00:00",
+  "last_updated": "2026-08-31T13:56:35.774370+00:00",
   "items": [
     {
-      "titolo": "Dentro il laboratorio Huawei dove lo smartwatch prova a diventare un assistente per la salute",
-      "descrizione": "Al Huawei Health Lab di Songshan Lake ingegner e ricercatori provano a insegnare agli smartwatch a capire cosa succede dentro il corpo umano.",
-      "link": "https://www.ilsole24ore.com/art/dentro-laboratorio-huawei-dove-smartwatch-prova-diventare-assistente-la-salute-AJZDSNu",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-08-30T13:05:55+00:00",
+      "titolo": "ChatGPT, Reddit e Roblox devono rispettare il DSA in Europa",
+      "descrizione": "ChatGPT, Reddit e Roblox hanno superati i 45 milioni di utenti mensili, quindi dovranno rispettare gli obblighi aggiuntivi del Digital Services Act. The post ChatGPT, Reddit e Roblox devono rispettare il DSA in Europa ap",
+      "link": "https://www.punto-informatico.it/chatgpt-reddit-roblox-devono-rispettare-dsa-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-31T13:34:51+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Sony Music e Warner Chappell Music denunciano Anthropic",
-      "descrizione": "Sony Music e Warner Chappell Music accusano Anthropic di aver usato migliaia di brani musicali senza autorizzazione per l'addestramento di Claude. The post Sony Music e Warner Chappell Music denunciano Anthropic appeared",
-      "link": "https://www.punto-informatico.it/sony-music-warner-chappell-music-denunciano-anthropic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-30T10:40:27+00:00",
+      "titolo": "Anthropic citata in giudizio da Sony e Warner: chiesti danni per miliardi di dollari",
+      "descrizione": "Sony Music Publishing e Warner Chappell Music hanno fatto causa ad Anthropic negli Stati Uniti",
+      "link": "https://www.hdblog.it/mercato/articoli/n668893/sony-music-publishing-warner-anthropic/",
+      "fonte": "HDblog.it",
+      "data": "2026-08-31T12:25:00+00:00",
       "modello": "claude"
     }
   ]
