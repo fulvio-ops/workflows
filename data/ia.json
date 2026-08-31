@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-31T13:56:35.774370+00:00",
+  "last_updated": "2026-08-31T22:53:12.158343+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, Reddit e Roblox devono rispettare il DSA in Europa",
-      "descrizione": "ChatGPT, Reddit e Roblox hanno superati i 45 milioni di utenti mensili, quindi dovranno rispettare gli obblighi aggiuntivi del Digital Services Act. The post ChatGPT, Reddit e Roblox devono rispettare il DSA in Europa ap",
-      "link": "https://www.punto-informatico.it/chatgpt-reddit-roblox-devono-rispettare-dsa-europa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-08-31T13:34:51+00:00",
+      "titolo": "'Sophisticated' AI swarm attacks are months away, OpenAI warns: What experts say businesses must do",
+      "descrizione": "OpenAI sounds a solemn and dire alarm, but we're woefully unprepared for what's coming.",
+      "link": "https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/",
+      "fonte": "Latest news",
+      "data": "2026-08-31T17:48:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "A week with the Google Pixel 11 changed my mind about Gemini (for the better)",
-      "descrizione": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel the standout in its generation.",
-      "link": "https://www.zdnet.com/article/google-pixel-11-review/",
+      "titolo": "Gemini Notebook can analyze your Google Play books now: 3 ways I use this feature",
+      "descrizione": "Import a supported Google Play book, and Gemini Notebook will use it as a source of information to generate reports, quizzes, podcasts, and more.",
+      "link": "https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/",
       "fonte": "Latest news",
-      "data": "2026-08-29T13:00:44+00:00",
+      "data": "2026-08-31T17:58:01+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic citata in giudizio da Sony e Warner: chiesti danni per miliardi di dollari",
-      "descrizione": "Sony Music Publishing e Warner Chappell Music hanno fatto causa ad Anthropic negli Stati Uniti",
-      "link": "https://www.hdblog.it/mercato/articoli/n668893/sony-music-publishing-warner-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-08-31T12:25:00+00:00",
+      "titolo": "Infostealer per Claude: Anthropic rimuove i dati di pagamento",
+      "descrizione": "Anthropic ha rilevato accessi non autorizzati agli account Claude effettuati tramite infostealer, avvisato gli utenti e rimosso i metodi di pagamento. The post Infostealer per Claude: Anthropic rimuove i dati di pagament",
+      "link": "https://www.punto-informatico.it/infostealer-claude-anthropic-rimuove-dati-pagamento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-08-31T10:04:43+00:00",
       "modello": "claude"
     }
   ]
