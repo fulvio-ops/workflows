@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-09-01T05:14:01.886802+00:00",
+  "last_updated": "2026-09-01T11:42:17.652363+00:00",
   "items": [
     {
-      "titolo": "'Sophisticated' AI swarm attacks are months away, OpenAI warns: What experts say businesses must do",
-      "descrizione": "OpenAI sounds a solemn and dire alarm, but we're woefully unprepared for what's coming.",
-      "link": "https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/",
-      "fonte": "Latest news",
-      "data": "2026-08-31T17:48:05+00:00",
+      "titolo": "ChatGPT e Grok per uso militare nella piattaforma del Pentagono",
+      "descrizione": "Il Pentagono ha aggiunto ChatGPT Mil e Grok for Government alla sua piattaforma GenAI.mil usata per varie attività da oltre 1,7 milioni di dipendenti. The post ChatGPT e Grok per uso militare nella piattaforma del Pentag",
+      "link": "https://www.punto-informatico.it/chatgpt-grok-uso-militare-piattaforma-pentagono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-01T10:36:10+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Notebook can analyze your Google Play books now: 3 ways I use this feature",
-      "descrizione": "Import a supported Google Play book, and Gemini Notebook will use it as a source of information to generate reports, quizzes, podcasts, and more.",
-      "link": "https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/",
-      "fonte": "Latest news",
-      "data": "2026-08-31T17:58:01+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Infostealer per Claude: Anthropic rimuove i dati di pagamento",
-      "descrizione": "Anthropic ha rilevato accessi non autorizzati agli account Claude effettuati tramite infostealer, avvisato gli utenti e rimosso i metodi di pagamento. The post Infostealer per Claude: Anthropic rimuove i dati di pagament",
-      "link": "https://www.punto-informatico.it/infostealer-claude-anthropic-rimuove-dati-pagamento/",
+      "titolo": "Gemini su Android Auto, troppi problemi: dubbi sulla sicurezza",
+      "descrizione": "Comandi non compresi e richieste da ripetere: alcuni utenti temono che Gemini possa rendere Android Auto più rischioso durante la guida. The post Gemini su Android Auto, troppi problemi: dubbi sulla sicurezza appeared fi",
+      "link": "https://www.punto-informatico.it/gemini-android-auto-troppi-problemi-dubbi-sicurezza/",
       "fonte": "Punto Informatico",
-      "data": "2026-08-31T10:04:43+00:00",
-      "modello": "claude"
+      "data": "2026-09-01T10:38:13+00:00",
+      "modello": "gemini"
     }
   ]
 }
