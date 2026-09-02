@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-02T16:36:59.926875+00:00",
+  "last_updated": "2026-09-02T21:05:23.817359+00:00",
   "items": [
     {
-      "titolo": "OpenAI limita Astra: il nuovo modello AI è troppo potente",
-      "descrizione": "OpenAI prepara Astra, un modello AI capace di scoprire falle informatiche mai viste. Per questo l'azienda ha deciso di limitarne le capacità. The post OpenAI limita Astra: il nuovo modello AI è troppo potente appeared fi",
-      "link": "https://www.punto-informatico.it/openai-limita-astra-nuovo-modello-ai-troppo-potente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-02T16:04:02+00:00",
+      "titolo": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "descrizione": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "fonte": "WIRED",
+      "data": "2026-09-02T18:41:02+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Android Drop di settembre: novità per Find Hub e Gemini",
-      "descrizione": "Google ha annunciato cinque novità per i dispositivi Android, tra cui l'uso di Gemini per ricordare la posizione degli oggetti e la visione guidata. The post Android Drop di settembre: novità per Find Hub e Gemini appear",
-      "link": "https://www.punto-informatico.it/android-drop-settembre-novita-find-hub-gemini/",
+      "titolo": "Google annuncia Gemini 3.8 Flash e Gemini 3.8 Flash Cyber",
+      "descrizione": "Gemini 3.8 Flash offre prestazioni migliori dei concorrenti in molte attività, mentre la variante Cyber è specializzato nella ricerca di vulnerabilità. The post Google annuncia Gemini 3.8 Flash e Gemini 3.8 Flash Cyber a",
+      "link": "https://www.punto-informatico.it/google-annuncia-gemini-3-8-flash-gemini-3-8-flash-cyber/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-02T10:40:25+00:00",
+      "data": "2026-09-02T17:10:16+00:00",
       "modello": "gemini"
     },
     {

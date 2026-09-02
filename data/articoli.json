@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-09-02T16:36:55.212750+00:00",
+  "last_updated": "2026-09-02T21:05:19.217717+00:00",
   "items": [
+    {
+      "titolo": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+      "descrizione": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
+      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+      "fonte": "WIRED",
+      "data": "2026-09-02T21:00:00+00:00"
+    },
+    {
+      "titolo": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "descrizione": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "fonte": "WIRED",
+      "data": "2026-09-02T18:20:00+00:00"
+    },
+    {
+      "titolo": "Nothing OS 5.0 è ufficiale: le novità tra AI, trasparenze e Quick Share con iPhone",
+      "descrizione": "Novità, modelli coinvolti e tempistiche.",
+      "link": "https://www.hdblog.it/smartphone/comparazioni/n669173/nothing-os-5-0-android-17-novita-quando-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-02T18:15:00+00:00"
+    },
+    {
+      "titolo": "Google annuncia Gemini 3.8 Flash e Gemini 3.8 Flash Cyber",
+      "descrizione": "Gemini 3.8 Flash offre prestazioni migliori dei concorrenti in molte attività, mentre la variante Cyber è specializzato nella ricerca di vulnerabilità. The post Google annuncia Gemini 3.8 Flash e Gemini 3.8 Flash Cyber a",
+      "link": "https://www.punto-informatico.it/google-annuncia-gemini-3-8-flash-gemini-3-8-flash-cyber/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-02T17:10:16+00:00"
+    },
+    {
+      "titolo": "Auto elettriche, dal 2027 cambia la ricarica: colonnine ogni 60 km e pagamenti più facili",
+      "descrizione": "Dal 2027 entrano nel vivo le nuove regole europee sulla ricarica delle auto elettriche: più colonnine sulla rete TEN-T, pagamenti diretti e tariffe trasparenti",
+      "link": "https://www.hdmotori.it/auto-elettriche-2027-cambia-ricarica/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-02T17:00:37+00:00"
+    },
+    {
+      "titolo": "Xiaomi porta in Italia Redmi Watch 6 e Smart Band 11 Active: prezzi da 29,99 euro",
+      "descrizione": "Xiaomi porta in Italia Redmi Watch 6 Lite, Redmi Watch 6 Active e Xiaomi Smart Band 11 Active: tre nuovi wearable pensati per fasce di prezzo differenti, con listini compresi tra 29,99 e 69,99 euro",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669167/xiaomi-redmi-watch-6-smart-band-11-active-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-02T16:50:00+00:00"
+    },
+    {
+      "titolo": "Samsung porta a IFA 2026 nuove lavatrici Bespoke AI: fino a 13kg di bucato",
+      "descrizione": "Samsung annuncia due nuove lavatrici Bespoke AI per IFA 2026: un modello da 10 kg con efficienza energetica A-70% e uno da 13 kg che mantiene la profondità standard di 600 mm, entrambi con apertura...",
+      "link": "https://www.hdblog.it/samsung/articoli/n669165/samsung-ifa26-lavatrici-bespoke-ai-13kg-a70/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-02T16:45:00+00:00"
+    },
     {
       "titolo": "Vince una Maserati alla lotteria, con 2 euro si ritrova un gioiello",
       "descrizione": "Alla lotteria di beneficenza per la raccolta fondi per il restauro di una Cappella in Francia un uomo ha avuto in premio una Maserati Ghibli",
@@ -65,39 +114,11 @@
       "data": "2026-09-02T15:45:00+00:00"
     },
     {
-      "titolo": "Huawei FreeBuds Neo: piccoli fuori ma ambiziosi dentro, con ANC e audio lossless",
-      "descrizione": "Huawei FreeBuds Neo sono nuovi auricolari true wireless con cancellazione attiva del rumore fino a 30 dB, audio ad alta risoluzione e un’autonomia complessiva dichiarata fino a 40 ore",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669159/huawei-freebuds-neo-immagini-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T15:40:00+00:00"
-    },
-    {
-      "titolo": "Polestar 4 SUV, 1.665 litri di bagagliaio e 630 km di autonomia: parte da 55.900 euro",
-      "descrizione": "Polestar presenta la nuova 4 SUV: più spazio, fino a 544 CV, autonomia massima di 630 km, batteria da 100 kWh e prezzi da 55.900 euro",
-      "link": "https://www.hdmotori.it/polestar-4-suv-spazio-autonomia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T15:30:57+00:00"
-    },
-    {
       "titolo": "Basta scrolling: 6 attività suggerite dall’AI per dimenticarsi del telefono",
       "descrizione": "Le notifiche costanti e lo scrolling consumano energia senza restituire nulla. Ecco il piano suggerito dall'AI per usare meno il telefono. The post Basta scrolling: 6 attività suggerite dall’AI per dimenticarsi del telef",
       "link": "https://www.punto-informatico.it/basta-scrolling-6-attivita-suggerite-ai-dimenticarsi-telefono/",
       "fonte": "Punto Informatico",
       "data": "2026-09-02T15:30:22+00:00"
-    },
-    {
-      "titolo": "Nubia Air a poco più di 150€: sottilissimo e con display AMOLED 1.5K 120Hz",
-      "descrizione": "In offerta il Nubia Air, lo smartphone sottile e con display AMOLED 1.5K a 120Hz è a prezzo ridotto su eBay.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n669151/nubia-air-display-amoled-120hz-sconto-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T15:03:00+00:00"
-    },
-    {
-      "titolo": "Hyundai ha brevettato un fuoristrada estremo, l’anti-Jimny arriverà sul mercato?",
-      "descrizione": "La Casa coreana potrebbe lanciare concretamente il Concept Boulder per sfidare la Suzuki Jimny, la nuova Ford Bronco e la celebre Jeep Wrangler",
-      "link": "https://www.hdmotori.it/hyundai-brevetto-fuoristrada-estremo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T15:00:31+00:00"
     },
     {
       "titolo": "Missione Fermi Explorer: viaggio verso Alpha Centauri",
@@ -114,25 +135,11 @@
       "data": "2026-09-02T14:43:10+00:00"
     },
     {
-      "titolo": "Fiat Grande Panda, a settembre la Turbo 100 scende a 14.950 euro",
-      "descrizione": "Offerta di settembre per la Fiat Grande Panda Turbo 100: prezzo da 14.950 euro col finanziamento Stellantis, senza alcun obbligo di permuta o rottamazione",
-      "link": "https://www.hdmotori.it/fiat-grande-panda-turbo-100-promozione-settembre/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T14:30:43+00:00"
-    },
-    {
       "titolo": "Russian hacker faces up to 20 years in prison, following extradition and indictment over US phishing campaign that allegedly infected 80,000 PCs — hacker stole victims' data via remote access",
       "descrizione": "Russian national faces US charges over a phishing campaign that allegedly infected 80,000 PCs and stole credentials and personal data",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/russian-hacker-faces-up-to-20-years-in-prison-following-extradition-and-indictment-over-us-phishing-campaign-that-allegedly-infected-80-000-pcs-hacker-stole-victims-data-via-remote-access",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-02T14:22:37+00:00"
-    },
-    {
-      "titolo": "Ritorna la Pajero, Mitsubishi svela il fuoristrada a 7 posti pronto a tutto",
-      "descrizione": "Il brand giapponese ha presentato finalmente la quinta generazione del fuoristrada più amato. Scopriamo nel dettaglio la Mitsubishi Pajero",
-      "link": "https://www.hdmotori.it/ritorno-pajero-mitsubishi-7-posti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-02T14:00:10+00:00"
     },
     {
       "titolo": "We explored early DLSS 5 performance with community mods — and the limits of the 12V-2x6 power connector may hold it back on the RTX 5090",
@@ -161,13 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/eff-asks-california-governor-to-veto-bill-that-would-require-online-age-verification-electronic-frontier-foundation-argues-bill-would-result-in-privacy-invasive-checks-and-step-on-first-amendment",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-02T11:20:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 più sicuro: l’integrità della memoria si attiva da sola",
-      "descrizione": "Da ottobre Microsoft attiverà automaticamente l'integrità della memoria su molti PC Windows 11 compatibili. Ecco cosa sapere. The post Windows 11 più sicuro: l’integrità della memoria si attiva da sola appeared first on",
-      "link": "https://www.punto-informatico.it/windows-11-piu-sicuro-integrita-memoria-si-attiva-da-sola/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-02T10:56:58+00:00"
     }
   ]
 }
