@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-02T04:38:54.215888+00:00",
+  "last_updated": "2026-09-02T11:22:39.173351+00:00",
   "items": [
     {
-      "titolo": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "descrizione": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "fonte": "WIRED",
-      "data": "2026-09-01T20:00:00+00:00",
+      "titolo": "AI data center investment projected to hit $32 trillion by 2050 — infrastructure spending estimated to exceed capital requirements for railways, electrification, or the internet",
+      "descrizione": "These investments aren't massive one-time expenses — data center operators are expected to upgrade their expensive GPUs and related infrastructure every four to six years, as new semiconductor technologies arrive on the",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-investment-projected-to-hit-usd32-trillion-by-2050-infrastructure-spending-estimated-to-exceed-capital-requirements-for-railways-electrification-or-the-internet",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-02T11:00:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Renault Scenic E-Tech, 642 km di autonomia e nuovo prezzo: ora parte da 32.500 euro",
-      "descrizione": "Renault aggiorna Scenic E-Tech Electric con batterie da 67 e 89 kWh, fino a 642 km di autonomia WLTP, Google Gemini e un nuovo prezzo da 32.500 euro",
-      "link": "https://www.hdmotori.it/renault-scenic-e-tech-autonomia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-01T15:30:59+00:00",
+      "titolo": "Android Drop di settembre: novità per Find Hub e Gemini",
+      "descrizione": "Google ha annunciato cinque novità per i dispositivi Android, tra cui l'uso di Gemini per ricordare la posizione degli oggetti e la visione guidata. The post Android Drop di settembre: novità per Find Hub e Gemini appear",
+      "link": "https://www.punto-informatico.it/android-drop-settembre-novita-find-hub-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-02T10:40:25+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Come usare meglio Claude: 5 abitudini da abbandonare",
-      "descrizione": "5 errori comuni nell'uso di Claude e come evitarli, dai prompt troppo elaborati alle conversazioni infinite, fino ai Progetti. The post Come usare meglio Claude: 5 abitudini da abbandonare appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/come-usare-meglio-claude-5-abitudini-da-abbandonare/",
+      "titolo": "TV Android: come usare Claude per eliminare app e servizi inutili",
+      "descrizione": "Un prompt per Claude permette di ripulire Android TV da app e servizi inutili e ridurre il lag. Come funziona e quali precauzioni seguire. The post TV Android: come usare Claude per eliminare app e servizi inutili appear",
+      "link": "https://www.punto-informatico.it/tv-android-come-usare-claude-eliminare-app-servizi-inutili/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-01T15:30:40+00:00",
+      "data": "2026-09-02T09:17:42+00:00",
       "modello": "claude"
     }
   ]
