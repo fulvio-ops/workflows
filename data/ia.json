@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-03T04:36:49.914529+00:00",
+  "last_updated": "2026-09-03T11:18:46.192120+00:00",
   "items": [
     {
-      "titolo": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "descrizione": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "fonte": "WIRED",
-      "data": "2026-09-02T18:41:02+00:00",
+      "titolo": "Violazione di copyright: governo USA dalla parte di OpenAI",
+      "descrizione": "Il governo degli Stati Uniti ha depositato un documento per supportare OpenAI nello scontro legale contro il New York Times iniziato a fine 2023. The post Violazione di copyright: governo USA dalla parte di OpenAI appear",
+      "link": "https://www.punto-informatico.it/violazione-copyright-governo-usa-parte-openai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-03T09:46:06+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "TV Android: come usare Claude per eliminare app e servizi inutili",
-      "descrizione": "Un prompt per Claude permette di ripulire Android TV da app e servizi inutili e ridurre il lag. Come funziona e quali precauzioni seguire. The post TV Android: come usare Claude per eliminare app e servizi inutili appear",
-      "link": "https://www.punto-informatico.it/tv-android-come-usare-claude-eliminare-app-servizi-inutili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-02T09:17:42+00:00",
+      "titolo": "Developer uses Claude Code to debloat Android smart TV for 'unbelievable' performance upgrade — TV now smoother than it was new as autonomous agent deactivates apps, shortens animations, all without root access",
+      "descrizione": "A developer revitalized his smart TV performance by using Claude Code to debloat it.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-uses-claude-code-to-debloat-android-smart-tv-for-unbelievable-performance-upgrade-tv-now-smoother-than-it-was-new-as-autonomous-agent-deactivates-apps-shortens-animations-all-without-root-access",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-02T09:00:00+00:00",
       "modello": "claude"
     }
   ]
