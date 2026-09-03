@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-09-03T16:27:53.341639+00:00",
+  "last_updated": "2026-09-03T21:04:22.297730+00:00",
   "items": [
+    {
+      "titolo": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
+      "descrizione": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-03T19:05:37+00:00"
+    },
+    {
+      "titolo": "Recensione POCO F9 Ultra: il top di gamma a metà prezzo imbattibile | Video",
+      "descrizione": "Abbiamo provato il nuovo top di gamma del sottobrand Xiaomi che costa la metà degli altri (in offerta). E' imbattibile?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n668860/recensione-poco-f9-ultra-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T19:00:00+00:00"
+    },
+    {
+      "titolo": "Chrome, individuate 19 estensioni che rubavano credenziali crypto",
+      "descrizione": "Una campagna \"paziente\": le estensioni funzionavano bene e senza sospetti finché non si raggiungeva una massa critica di installazioni, poi sferravano l'attacco.",
+      "link": "https://www.hdblog.it/windows/articoli/n669314/google-chrome-estensioni-malware-chromium/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T18:05:00+00:00"
+    },
+    {
+      "titolo": "IFA 2026, dall’AI ai robot: ecco cosa vedere a Berlino",
+      "descrizione": "BERLINO – La grande rassegna berlinese della tecnologia apre i battenti al pubblico oggi 4 settembre mettendo al centro della scena, come già l’anno passato, intelligenza artificiale e robotica in...",
+      "link": "https://www.ilsole24ore.com/art/ifa-2026-dall-ai-robot-ecco-cosa-vedere-berlino-AJUohr2",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-03T17:59:34+00:00"
+    },
+    {
+      "titolo": "GTA 6 arriverà a 60 FPS su PS5 Pro?",
+      "descrizione": "In molti ritengono che sia parecchio difficile: il collo di bottiglia potrebbe essere la CPU, più che la GPU.",
+      "link": "https://www.hdblog.it/games/articoli/n669307/gta-6-60-fps-playstation-5-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:45:00+00:00"
+    },
+    {
+      "titolo": "Il nuovo CEO di Apple è un pilota Porsche: piede pesante e tanto cervello",
+      "descrizione": "Si chiama John Ternus e ha chiuso un giro veloce sulla pista di Laguna Seca sotto il minuto e quarta secondi al volante di una super sportiva",
+      "link": "https://www.hdmotori.it/nuovo-ceo-apple-pilota-porsche/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:30:22+00:00"
+    },
+    {
+      "titolo": "NASA e Axiom Space cambiano la tuta lunare di Artemis, perché?",
+      "descrizione": "I ritardi di Artemis spingono la NASA a rivedere la tuta lunare di Axiom Space: nasce la Sortie Suit, pensata per ridurre peso e tempi di sviluppo. The post NASA e Axiom Space cambiano la tuta lunare di Artemis, perché?",
+      "link": "https://www.punto-informatico.it/nasa-axiom-space-cambiano-tuta-lunare-artemis-perche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-03T17:27:24+00:00"
+    },
+    {
+      "titolo": "GTA 6, Sony svela i controller DualSense in edizione limitata: prezzi e data di lancio",
+      "descrizione": "In arrivo anche in Italia: ecco come preordinarli.",
+      "link": "https://www.hdblog.it/hardware/articoli/n669303/gta-6-vi-dualsense-prezzo-italia-preordini-data/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:25:00+00:00"
+    },
+    {
+      "titolo": "La LEGO PlayStation è ufficiale! Quasi 2.000 pezzi, in vendita da ottobre",
+      "descrizione": "179,99 euro di listino... forse si fa prima a prenderne una vera usata ai mercatini?",
+      "link": "https://www.hdblog.it/sony/articoli/n669300/lego-playstation-ufficiale-prezzi-pezzi-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:15:00+00:00"
+    },
+    {
+      "titolo": "iPhone pieghevole: potrebbe superare i 3.000 dollari col massimo della memoria",
+      "descrizione": "E partire da oltre 2.000 dollari per la configurazione base.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669293/iphone-ultra-pieghevole-prezzo-2000-3000-dollari/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:05:00+00:00"
+    },
+    {
+      "titolo": "Toyota vende biscotti gelato da 86 dollari: la strana trovata pubblicitaria",
+      "descrizione": "Per lanciare il minivan Sienna Platinum con frigo di bordo, Toyota si allea con Graeter's Ice Cream: arrivano i biscotti gelato al caramello salato da 86 dollari a confezione",
+      "link": "https://www.hdmotori.it/toyota-sienna-gelato-86-dollari/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T17:00:31+00:00"
+    },
+    {
+      "titolo": "DJI Romo P2 e A2 ufficiali in Italia: ecco i robot aspirapolvere attenti alla privacy",
+      "descrizione": "Una risposta al caso sorto negli Stati Uniti",
+      "link": "https://www.hdblog.it/home/articoli/n669270/dji-romo-p2-a2-prezzo-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T16:45:00+00:00"
+    },
+    {
+      "titolo": "Monza, la monoposto dei sogni finisce sul carro attrezzi della Polizia di Stato",
+      "descrizione": "La monoposto dei sogni è stata trasferita a Monza, in piazza Duomo, per la cerimonia di presentazione ufficiale in vista dell’evento nel Tempio della velocità",
+      "link": "https://www.hdmotori.it/monza-monoposto-carro-attrezzi-polizia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-03T16:30:02+00:00"
+    },
     {
       "titolo": "Google Vids trasforma PDF, Word e Google Docs in riassunti video",
       "descrizione": "Google Vids ora permette di convertire documenti PDF, Word e Google Docs in sintesi video automatiche. Ecco come funziona. The post Google Vids trasforma PDF, Word e Google Docs in riassunti video appeared first on Punto",
@@ -30,13 +121,6 @@
       "data": "2026-09-03T16:02:00+00:00"
     },
     {
-      "titolo": "Nuova Mazda 6e, con la batteria più grande l'autonomia arriva a 560 km",
-      "descrizione": "La berlina originariamente presentata e venduta in Cina come Mazda EZ-6, si aggiorna con novità tecniche di assoluto livello",
-      "link": "https://www.hdmotori.it/nuova-mazda-6e-batteria-560-km-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:00:24+00:00"
-    },
-    {
       "titolo": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
       "descrizione": "Systems with Nvidia's RTX Spark N1X chips will launch in October in mini PCs and laptops, with the chips coming in two configurations.",
       "link": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
@@ -51,46 +135,11 @@
       "data": "2026-09-03T16:00:00+00:00"
     },
     {
-      "titolo": "iPhone 18 Pro, il nuovo chip A20 Pro promette scintille: cosa cambia per i leak",
-      "descrizione": "Modifiche che potrebbero spingere su gaming e reattività.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669282/iphone-18-pro-a20-chip-prestazioni-gaming-gpu/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T15:55:00+00:00"
-    },
-    {
-      "titolo": "Photoshop dentro Slack: l’AI cambia il modo di usare Adobe",
-      "descrizione": "Slackbot può usare oltre 70 strumenti Adobe per creare e modificare contenuti.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n669221/adobe-photoshop-premiere-slack-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T15:45:00+00:00"
-    },
-    {
       "titolo": "7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e Claude",
       "descrizione": "I consigli di produttività più interessanti non sono quelli ovvi. ChatGPT, Gemini, Claude e Perplexity suggeriscono 7 tecniche non convenzionali. The post 7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e",
       "link": "https://www.punto-informatico.it/7-trucchi-produttivita-insoliti-chatgpt-gemini-claude/",
       "fonte": "Punto Informatico",
       "data": "2026-09-03T15:30:52+00:00"
-    },
-    {
-      "titolo": "F1 GP Monza, premi speciali: Ferrari sogna di alzare i trofei FRAGILE",
-      "descrizione": "I primi tre piloti al traguardo della sfida brianzola avranno la possibilità di alzare dei riconoscimenti molto particolari",
-      "link": "https://www.hdmotori.it/f1-gp-monza-trofei-speciali-fragile/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T15:30:47+00:00"
-    },
-    {
-      "titolo": "Dyson: non c'è solo lo spazzolino, ecco tutti i nuovi prodotti intelligenti",
-      "descrizione": "A Berlino Dyson presenta dieci nuovi prodotti basati su intelligenza artificiale e sistemi di visione: dallo spazzolino CameraJet con videocamera integrata ai robot aspirapolvere Nurovi, fino ai...",
-      "link": "https://www.hdblog.it/home/articoli/n669276/dyson-novita-ifa26-robot-purificatori-piastra/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T15:01:00+00:00"
-    },
-    {
-      "titolo": "Toyota C-HR festeggia 10 anni, per l'occasione la GR SPORT si rifà il look",
-      "descrizione": "oyota C-HR celebra 10 anni e 2,1 milioni di vendite con l'aggiornamento della GR Sport: debutta il colore Onyx Grey opaco con nuovi cerchi da 19 pollici",
-      "link": "https://www.hdmotori.it/toyota-c-hr-gr-sport-restyling/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T15:00:23+00:00"
     },
     {
       "titolo": "NVIDIA acquisisce Hugging Face per 12,9 miliardi di dollari",
@@ -100,32 +149,11 @@
       "data": "2026-09-03T14:58:56+00:00"
     },
     {
-      "titolo": "Nvidia compra davvero Hugging Face: affare da 12,93 miliardi",
-      "descrizione": "Nvidia acquisisce Hugging Face per 12,93 miliardi e punta sull'ecosistema AI aperto",
-      "link": "https://www.hdblog.it/nvidia/articoli/n669281/nvidia-acquisisce-hugging-face-12-93-miliardi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T14:45:00+00:00"
-    },
-    {
       "titolo": "Un suono incredibile e luci LED con i Samsung Galaxy Buds3 Pro",
       "descrizione": "Goditi un suono meraviglioso in qualsiasi ambiente con molte personalizzazioni grazie agli auricolari wireless Samsung Galaxy Buds3 Pro. The post Un suono incredibile e luci LED con i Samsung Galaxy Buds3 Pro appeared fi",
       "link": "https://www.punto-informatico.it/suono-incredibile-luci-led-con-samsung-galaxy-buds3-pro/",
       "fonte": "Punto Informatico",
       "data": "2026-09-03T14:33:20+00:00"
-    },
-    {
-      "titolo": "Recensione POCO F9 Ultra: il top di gamma a metà prezzo imbattibile | Video",
-      "descrizione": "Abbiamo provato il nuovo top di gamma del sottobrand Xiaomi che costa la metà degli altri (in offerta). E' imbattibile?",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n668860/recensione-poco-f9-ultra-test-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T14:31:00+00:00"
-    },
-    {
-      "titolo": "F1, Ferrari omaggia Schumacher a Monza: il significato dietro la livrea celebrativa",
-      "descrizione": "Charles Leclerc e Lewis Hamilton scenderanno in pista a Monza al volante di una Ferrari SF-26 più rossa del solito",
-      "link": "https://www.hdmotori.it/f1-ferrari-omaggia-schumacher-livrea/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T14:30:19+00:00"
     },
     {
       "titolo": "Data center, la controversa frontiera sotto i mari",
@@ -135,39 +163,11 @@
       "data": "2026-09-03T14:21:26+00:00"
     },
     {
-      "titolo": "Pixel 11 e Pixel 10 ottengono i riepiloghi AI sull'utilizzo della batteria",
-      "descrizione": "Sui Pixel 11 e Pixel 10 arrivano i riepiloghi con intelligenza artificiale che svelano tutto circa l'uso della batteria.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669252/google-pixel-11-10-riepilogo-ai-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T14:20:00+00:00"
-    },
-    {
       "titolo": "Solare, crescita record grazie a tecnologie e ricerca",
       "descrizione": "Il solare continua a battere record su record, ma nessuno se ne accorge. Dopo aver superato la soglia dei 100 gigawatt nel 2012, il mondo ha impiegato 10 anni per...",
       "link": "https://www.ilsole24ore.com/art/solare-crescita-record-grazie-tecnologie-e-ricerca-AJOU5b0",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-03T14:19:02+00:00"
-    },
-    {
-      "titolo": "L’eolico prende quota con aquiloni e palloni aerostatici",
-      "descrizione": "Aquiloni e palloncini non sono più semplici giocattoli, ma strumenti pionieristici per sfruttare il potenziale inespresso dell’energia eolica d’alta quota, inaccessibile alle turbine dell’eolico tradizionale. A differenz",
-      "link": "https://www.ilsole24ore.com/art/l-eolico-prende-quota-aquiloni-e-palloni-aerostatici-AJ6irc0",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-03T14:17:36+00:00"
-    },
-    {
-      "titolo": "AI da indossare e serrature smart: le novità SwitchBot per IFA 2026",
-      "descrizione": "SwitchBot presenta a IFA 2026 AI MindClip, assistente AI indossabile per appunti e promemoria, e la nuova serratura smart Lock Ultra Max.",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n667697/ai-da-indossare-e-serrature-smart-le-novita-switchbot-per-ifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T14:01:00+00:00"
-    },
-    {
-      "titolo": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "descrizione": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "fonte": "WIRED",
-      "data": "2026-09-03T13:00:00+00:00"
     }
   ]
 }
