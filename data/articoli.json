@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-02T21:05:19.217717+00:00",
+  "last_updated": "2026-09-03T04:36:45.567591+00:00",
   "items": [
+    {
+      "titolo": "Cosa sappiamo di Atlas, il modello di Ai creato da World Lab di Fei-Fei Li?",
+      "descrizione": "L’ambizione è costruire una rappresentazione coerente dello spazio, ricostruire ambienti tridimensionali e simularne l’evoluzione nel tempo.",
+      "link": "https://www.ilsole24ore.com/art/cosa-sappiamo-atlas-modello-ai-creato-world-lab-fei-fei-li-AJljp51",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-03T04:22:14+00:00"
+    },
+    {
+      "titolo": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "descrizione": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "fonte": "WIRED",
+      "data": "2026-09-03T01:32:02+00:00"
+    },
     {
       "titolo": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
       "descrizione": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-02T13:14:05+00:00"
-    },
-    {
-      "titolo": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "descrizione": "The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part.",
-      "link": "https://www.wired.com/story/here-comes-the-tesla-cybercab/",
-      "fonte": "WIRED",
-      "data": "2026-09-02T11:30:00+00:00"
-    },
-    {
-      "titolo": "EFF asks California governor to veto bill that would require online age verification — Electronic Frontier Foundation argues bill would result in privacy-invasive checks and step on First Amendment",
-      "descrizione": "Electronic Frontier Foundation asks California governor to veto bill that would require online age verification — EFF argues A.B. 1709 would result in privacy-invasive checks and step on First Amendment",
-      "link": "https://www.tomshardware.com/tech-industry/eff-asks-california-governor-to-veto-bill-that-would-require-online-age-verification-electronic-frontier-foundation-argues-bill-would-result-in-privacy-invasive-checks-and-step-on-first-amendment",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-02T11:20:00+00:00"
     }
   ]
 }
