@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-09-04T11:21:49.366404+00:00",
+  "last_updated": "2026-09-04T16:24:07.238057+00:00",
   "items": [
     {
-      "titolo": "Plex invita ad aggiornare subito Media Server e Desktop per motivi di sicurezza",
-      "descrizione": "L’aggiornamento di Plex può richiedere qualche passaggio aggiuntivo sui NAS Synology, QNAP e di altri produttori, dove i nuovi pacchetti potrebbero arrivare più tardi e rendere necessaria...",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669368/plex-server-vulnerabilita-aggiornare/",
+      "titolo": "Google porta Gemini Spark dentro Google Foto: cosa può fare",
+      "descrizione": "Gemini Spark arriva in Google Photos per modificare foto, creare album e automatizzare attività.",
+      "link": "https://www.hdblog.it/google/articoli/n669397/google-porta-gemini-spark-dentro-foto-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-09-04T11:15:00+00:00"
+      "data": "2026-09-04T16:20:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen mostra la mobilità del futuro, mercato pronto alla rivoluzione",
+      "descrizione": "Per uscire dalla crisi il Gruppo tedesco ha lanciato un servizio ride sharing e una soluzione di trasporto autonomo di merci con ID. Buzz AD",
+      "link": "https://www.hdmotori.it/volkswagen-mobilita-futuro-rivoluzione-mercato/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T16:00:12+00:00"
+    },
+    {
+      "titolo": "Nintendo annuncia due Direct per la prossima settimana: data e ora",
+      "descrizione": "Ecco come e quando seguirli.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n669401/nintendo-direct-settembre-zelda-data-ora-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T15:55:00+00:00"
+    },
+    {
+      "titolo": "Moto Guzzi 105 Anniversary, 5 modelli con livree speciali in arrivo",
+      "descrizione": "Il restyling dello stabilimento di Mandello ispira la serie speciale 105 Anniversary: stile e dettagli inediti per Stelvio, V100, V85 Strada e V7 Stone",
+      "link": "https://www.hdmotori.it/moto-guzzi-105-anniversary-modelli-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T15:30:39+00:00"
+    },
+    {
+      "titolo": "GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero",
+      "descrizione": "Un prompt mette alla prova ChatGPT-6 Astra sulle attività complesse. Il modello pianifica, corregge gli errori e consegna il risultato. The post GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero appeared first on",
+      "link": "https://www.punto-informatico.it/gpt-6-astra-prompt-mostra-cosa-sa-fare-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T15:30:29+00:00"
+    },
+    {
+      "titolo": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
+      "descrizione": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
+      "link": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+      "fonte": "WIRED",
+      "data": "2026-09-04T15:17:12+00:00"
+    },
+    {
+      "titolo": "BMW porta a Torino la nuova X5: debutto italiano insieme a iX3 e i3",
+      "descrizione": "BMW sarà al Salone Auto Torino 2026 con iX3, nuova i3 e nuova X5. Per il grande SUV si tratta della prima apparizione ufficiale in Italia",
+      "link": "https://www.hdmotori.it/bmw-x5-salone-auto-torino/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T15:00:20+00:00"
+    },
+    {
+      "titolo": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
+      "descrizione": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new RTX 50 \"Blackwell\" GP",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-04T14:56:38+00:00"
+    },
+    {
+      "titolo": "Microsoft prepara un Windows senza distrazioni: ecco Project Zenith",
+      "descrizione": "Project Zenith porta Windows 11, AI locale e strumenti di sviluppo sui nuovi PC.",
+      "link": "https://www.hdblog.it/windows/articoli/n669388/microsoft-project-zenith-windows-11-sviluppatori/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T14:55:00+00:00"
+    },
+    {
+      "titolo": "Su Pixel Watch il meteo si arricchisce con nuove informazioni",
+      "descrizione": "Aria fresca.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669381/pixel-watch-meteo-qualita-aria-uv-complicazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T14:35:00+00:00"
+    },
+    {
+      "titolo": "Microsoft Project Zenith: Windows 11 per gli sviluppatori",
+      "descrizione": "Project Zenith è una versione ottimizzata di Windows 11, installata sul mini PC AMD Ryzen AI Halo, con tutti gli strumenti utili agli sviluppatori. The post Microsoft Project Zenith: Windows 11 per gli sviluppatori appea",
+      "link": "https://www.punto-informatico.it/microsoft-project-zenith-windows-11-sviluppatori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T14:32:04+00:00"
+    },
+    {
+      "titolo": "Smart glasses vietati in Norvegia? Timori per privacy e riconoscimento facciale",
+      "descrizione": "La Norvegia valuta un divieto sugli smart glasses e dispositivi indossabili con videocamera.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669369/occhiali-smart-glasses-vietati-norvegia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T14:20:00+00:00"
+    },
+    {
+      "titolo": "AI, energia smart e domotica: ecco tutte le novità SBS a IFA 2026",
+      "descrizione": "Caricatori intelligenti, cover PURO e la novità Vivanco HΩME.",
+      "link": "https://www.hdblog.it/domotica/articoli/n669377/sbs-caricatori-ai-smart-home-novita-ifa-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T14:10:00+00:00"
+    },
+    {
+      "titolo": "Ducati fa sul serio tra i pedali: 4 nuove bici, corsa, gravel ed e-MTB",
+      "descrizione": "Ducati svela quattro nuove bici per il 2027: dalla Monoscocca da corsa alla gravel GraviaX, fino alle e-MTB da 130 Nm. Sviluppate con Nibali e il Gruppo Zecchetto.",
+      "link": "https://www.hdmotori.it/ducati-nuove-bici-2027-modelli-caratteristiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T14:00:38+00:00"
+    },
+    {
+      "titolo": "Tineco a IFA 2026: vapore e pulizia smart per una casa senza sforzi",
+      "descrizione": "A Berlino arrivano FLOOR ONE S11 Artist Fusion Steam, FLOOR ONE S9 Artist Boost Steam e PURE ONE STATION 7 ZeroTouch.",
+      "link": "https://www.hdblog.it/home/articoli/n668451/tineco-novita-pulizia-casa-smart-ifa-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T13:55:00+00:00"
+    },
+    {
+      "titolo": "IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark",
+      "descrizione": "I nuovi Lenovo Yoga Pro 9n e Yoga 9n 2-1in-1, mostrati all'IFA 2026, integrano processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. The post IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark appe",
+      "link": "https://www.punto-informatico.it/ifa-2026-lenovo-yoga-pro-9n-chip-nvidia-rtx-spark/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T13:38:13+00:00"
+    },
+    {
+      "titolo": "Gamma Kawasaki rétro e cruiser 2027: tutti i modelli aggiornati",
+      "descrizione": "Dalla guidabilità A2 di Eliminator e KLE500 allo stile classico di Z650RS e Z900RS: ecco come cambia la gamma Kawasaki 2027.",
+      "link": "https://www.hdmotori.it/kawasaki-gamma-2027-retro-cruiser/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T13:30:56+00:00"
+    },
+    {
+      "titolo": "Terremoto in corso per Volkswagen, possibile addio a SEAT entro 3 anni",
+      "descrizione": "Le voci di un possibile exit del brand SEAT si stanno facendo insistenti in Germania. Volkswagen potrebbe essere costretta al sacrificio spagnolo",
+      "link": "https://www.hdmotori.it/volkswagen-possibile-addio-seat/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T13:00:35+00:00"
+    },
+    {
+      "titolo": "Bluetti a IFA 2026 con Balco 500: dal balcone all'energia per tutta la casa",
+      "descrizione": "BLUETTI mostrerà anche Pioneer 5000 e la gamma Elite mini",
+      "link": "https://www.hdblog.it/home/articoli/n668675/bluetti-ifa-2026-balco-500-balcone-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T13:00:00+00:00"
+    },
+    {
+      "titolo": "Discrete graphics card sales hit four-year record despite soaring memory prices — AMD gains market share as notebook graphics carry the market",
+      "descrizione": "Shipments of standalone graphics processors for PCs grow sequentially and year-over-year amid shortage of components and increased prices.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/discrete-graphics-card-sales-hit-four-year-record-despite-high-prices-shipments-reach-13-24-million-units-as-market-defies-pc-slump",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-04T12:45:23+00:00"
+    },
+    {
+      "titolo": "Audio di Raoul Bova: sanzione irrisoria per Fabrizio Corona",
+      "descrizione": "Nonostante la grave violazione della privacy di Raoul Bova, Fabrizio Corona dovrà pagare solo 4.950 euro perché non aveva nessun reddito nel 2025. The post Audio di Raoul Bova: sanzione irrisoria per Fabrizio Corona appe",
+      "link": "https://www.punto-informatico.it/audio-raoul-bova-sanzione-irrisoria-fabrizio-corona/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T12:37:25+00:00"
+    },
+    {
+      "titolo": "Ecco Qira, l’evoluzione dell’assistente personale di Lenovo che tiene alla tua privacy",
+      "descrizione": "BERLINO - L’IFA è sicuramente un’ottima vetrina per i prodotti ad alta tecnologica, ma al giorno d’oggi non basta mettere potenza e memoria a disposizione degli utenti, servono servizi che...",
+      "link": "https://www.ilsole24ore.com/art/ecco-quira-l-evoluzione-dell-assistente-personale-lenovo-che-tiene-tua-privacy-AJRHaO3",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-04T12:29:00+00:00"
+    },
+    {
+      "titolo": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
+      "descrizione": "The mission to Phobos, Japan’s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
+      "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
+      "fonte": "WIRED",
+      "data": "2026-09-04T12:00:00+00:00"
     },
     {
       "titolo": "Lenovo porta l’AI nei nuovi PC, ma non sempre come Microsoft si aspettava",
@@ -14,160 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/lenovo-porta-l-ai-nuovi-pc-ma-non-sempre-come-microsoft-si-aspettava-AJ77zT3",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-04T11:08:38+00:00"
-    },
-    {
-      "titolo": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
-      "descrizione": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
-      "link": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/",
-      "fonte": "WIRED",
-      "data": "2026-09-04T11:00:00+00:00"
-    },
-    {
-      "titolo": "Microsoft porta la verifica dell’età su Windows 11: come funziona",
-      "descrizione": "Windows 11 potrà comunicare alle applicazioni solo la fascia d'età e lo stato di verifica dell'utente, senza rivelare i dati personali. The post Microsoft porta la verifica dell’età su Windows 11: come funziona appeared",
-      "link": "https://www.punto-informatico.it/microsoft-porta-verifica-eta-windows-11-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T10:56:28+00:00"
-    },
-    {
-      "titolo": "Dyson mette occhi, sensori e algoritmi nelle macchine di casa. Le novità a IFA 2026",
-      "descrizione": "Dai robot Nurovi, capaci di riconoscere sporco e superfici, ai purificatori HushJet, progettati per spostare più aria facendo meno rumore. Ecco le principali novità presentate a Berlino.",
-      "link": "https://www.ilsole24ore.com/art/dyson-mette-occhi-sensori-e-algoritmi-macchine-casa-novita-ifa-2026-AJqdxZ2",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-04T10:48:01+00:00"
-    },
-    {
-      "titolo": "IFA 2026: ASUS ProArt P16 e P14 con NVIDIA RTX Spark",
-      "descrizione": "ProArt P16 e P14 sono i primi notebook di ASUS con il superchip NVIDIA RTX Spark N1X (CPU a 20 core, GPU a 6.144 CUDA core e fino a 128 GB di RAM). The post IFA 2026: ASUS ProArt P16 e P14 con NVIDIA RTX Spark appeared f",
-      "link": "https://www.punto-informatico.it/ifa-2026-asus-proart-p16-p14-nvidia-rtx-spark/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T10:42:56+00:00"
-    },
-    {
-      "titolo": "Mova vuole dare il tatto ai robot: ecco le tecnologie di IFA 2026",
-      "descrizione": "Mova porta a IFA 2026 22 prodotti e 15 tecnologie, tra cui TactiPercept per dare una sorta di tatto ai robot aspirapolvere, tagliaerba con bracci multifunzione e sistemi robotici capaci di manipolare...",
-      "link": "https://www.hdblog.it/home/articoli/n669365/mova-a-ifa-2026-novita-tagliaerba/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T10:40:00+00:00"
-    },
-    {
-      "titolo": "Iveco può diventare indiana: via libera all'OPA di Tata dopo il sì di BCE e Consob",
-      "descrizione": "Completato il percorso delle autorizzazioni internazionali, l'offerta pubblica da 3,8 miliardi di euro partirà il 7 settembre, completando la cessione da parte di Exor.",
-      "link": "https://www.hdmotori.it/iveco-via-libera-tata-bce-consob/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T10:30:26+00:00"
-    },
-    {
-      "titolo": "Chinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share",
-      "descrizione": "CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker",
-      "link": "https://www.tomshardware.com/pc-components/dram/chinas-cmxt-had-an-actual-roadmap-for-its-alleged-industrial-espionage-from-samsung-south-korean-court-says-project-hefei-was-responsible-for-cxmts-current-position-as-major-dram-maker",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-04T10:30:00+00:00"
-    },
-    {
-      "titolo": "ICE Wants to Know Who Bought a Certain Green Beanie From REI in the Last 2 Years",
-      "descrizione": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
-      "link": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
-      "fonte": "WIRED",
-      "data": "2026-09-04T10:30:00+00:00"
-    },
-    {
-      "titolo": "LG mostra a IFA 2026 la sua AI Home tra TV ed elettrodomestici",
-      "descrizione": "La strategia LG per la casa intelligente passa anche da CLOiD e ThinQ Claw: l’AI può apprendere le abitudini dell’utente, coordinare i dispositivi connessi e intervenire in modo più proattivo nelle...",
-      "link": "https://www.hdblog.it/lg/articoli/n669360/lg-mostra-a-ifa-2026-la-sua-ai-home-tra-tv-ed-elettrodomestici/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T10:10:00+00:00"
-    },
-    {
-      "titolo": "Ryanair taglia 10000 collegamenti: rincari e rotte a rischio anche in Italia",
-      "descrizione": "Stime al ribasso nonostante i record di agosto.",
-      "link": "https://www.hdblog.it/business/articoli/n669344/ryanair-prezzi-carburante-taglio-voli-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T09:55:00+00:00"
-    },
-    {
-      "titolo": "Svelato ad Austin il Cybercab, la vera scommessa di Tesla",
-      "descrizione": "Niente volante né pedali per la due posti di Tesla presentata ad Austin. La sfida dell'intelligenza artificiale tra burocrazia e rivalità con Waymo.",
-      "link": "https://www.hdmotori.it/svelato-cybercab-tesla/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T09:30:14+00:00"
-    },
-    {
-      "titolo": "Cosori e Levoit a IFA 2026 con una nuova friggitrice dual zone e purificatore smart",
-      "descrizione": "A IFA 2026 VeSync presenta Cosori Iconic Dual, friggitrice ad aria da 8,6 litri con due zone indipendenti, e Levoit Eleva 300X, purificatore smart progettato per la camera da letto",
-      "link": "https://www.hdblog.it/home/articoli/n669355/cosori-ifa-2026-friggitrice-purificatore-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T09:10:00+00:00"
-    },
-    {
-      "titolo": "Mammotion porta a IFA 2026 il robot tagliaerba con LiDAR e quattro telecamere",
-      "descrizione": "Mammotion anticipa a IFA 2026 Luba 4 AWD, robot tagliaerba della gamma 2027 con quattro telecamere, LiDAR a 360 gradi e NetRTK per migliorare navigazione e precisione anche nei prati più complessi",
-      "link": "https://www.hdblog.it/home/articoli/n669347/robot-rasaerba-mammotion-4wd-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:50:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA RTX Spark N1X per laptop e desktop da ottobre",
-      "descrizione": "NVIDIA ha comunicato che i primi dispositivi (laptop e desktop compatti) con chip RTX Stark N1X arriveranno sul mercato nel mese di ottobre. The post NVIDIA RTX Spark N1X per laptop e desktop da ottobre appeared first on",
-      "link": "https://www.punto-informatico.it/nvidia-rtx-spark-n1x-laptop-desktop-ottobre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T08:40:57+00:00"
-    },
-    {
-      "titolo": "Samsung Connect, la casa che cambia: ne parlano Daniele Grassi ed Ettore Jovane",
-      "descrizione": "A IFA 2026, Samsung ha scelto di raccontare le proprie novità in modo diverso rispetto agli ultimi anni.",
-      "link": "https://www.hdblog.it/samsung/articoli/n669225/samsung-connect-casa-cambia-grassi-jovane/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:40:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Smart Band 11 arriva in Cina: 21 giorni di autonomia e display da 2000 nits",
-      "descrizione": "Tutti i dettagli sulla nuova Smart Band 11 di Xiaomi",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669339/xiaomi-smart-band-11-specifiche-lancio-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:35:00+00:00"
-    },
-    {
-      "titolo": "Toyota Yaris Cross cambia volto: gamma Full Hybrid e prezzo di 24.950 euro (in promo)",
-      "descrizione": "Toyota rinnova la Yaris Cross con un nuovo frontale, gamma esclusivamente Full Hybrid da 130 CV e prezzi in Italia da 29.600 euro",
-      "link": "https://www.hdmotori.it/toyota-yaris-cross-restyling-motori-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:30:11+00:00"
-    },
-    {
-      "titolo": "ECOVACS conquista IFA 2026: tutta la casa si pulisce da sola",
-      "descrizione": "Al debutto i nuovi robot per pulire pavimenti, finestre, piscine e per la cura del giardino.",
-      "link": "https://www.hdblog.it/home/articoli/n669101/ecovacs-robot-casa-ifa-novita-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:26:00+00:00"
-    },
-    {
-      "titolo": "L’iPhone Fold potrebbe costare fino a 3.500 euro",
-      "descrizione": "L'iPhone Fold potrebbe costare fino a 3.500 euro in Italia. RAM e memoria pesano sulle stime di prezzo del nuovo Apple. The post L’iPhone Fold potrebbe costare fino a 3.500 euro appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/iphone-fold-potrebbe-costare-fino-3-500-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T08:20:40+00:00"
-    },
-    {
-      "titolo": "Per salvare l’Amazonia si inizia dalle città: ora entra in gioco l’AI",
-      "descrizione": "L’AI aiuta le città amazzoniche a scegliere dove intervenire contro rischi ed emissioni.",
-      "link": "https://www.hdblog.it/green/articoli/n669337/amazonia-ai-citta-cambiamento-climatico/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:20:00+00:00"
-    },
-    {
-      "titolo": "Reolink a IFA 2026: nuova OMVI e AI ReoNeura in primo piano",
-      "descrizione": "Reolink porta a IFA 2026 una nuova OMVI e le evoluzioni della piattaforma AI ReoNeura.",
-      "link": "https://www.hdblog.it/home/articoli/n669271/reolink-ifa-2026-omvi-reoneura-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:01:00+00:00"
-    },
-    {
-      "titolo": "Carburanti, taglio accise: il Governo pensa a una nuova proroga di 5 giorni",
-      "descrizione": "Matteo Salvini ha annunciato la protrazione del taglio delle accise sul diesel fino al 10 settembre. Al vaglio diverse soluzioni.",
-      "link": "https://www.hdmotori.it/carburanti-taglio-accise-proroga/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T08:00:26+00:00"
     }
   ]
 }

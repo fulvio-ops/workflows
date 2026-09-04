@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-09-04T11:21:53.874258+00:00",
+  "last_updated": "2026-09-04T16:24:11.391913+00:00",
   "items": [
     {
-      "titolo": "WhatsApp apre agli agenti esterni: come funzionano le nuove chat",
-      "descrizione": "WhatsApp testa chat dedicate agli agenti esterni, con API key e gestione separata.",
-      "link": "https://www.hdblog.it/android/articoli/n669346/whatsapp-chat-agenti-terze-parti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T09:20:00+00:00",
+      "titolo": "GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero",
+      "descrizione": "Un prompt mette alla prova ChatGPT-6 Astra sulle attività complesse. Il modello pianifica, corregge gli errori e consegna il risultato. The post GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero appeared first on",
+      "link": "https://www.punto-informatico.it/gpt-6-astra-prompt-mostra-cosa-sa-fare-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T15:30:29+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Gemini Spark arriva su Google Foto: cosa può fare con le foto",
+      "descrizione": "Gemini Spark arriva su Google Foto e automatizza la gestione delle immagini. Crea album, modifica foto, estrae testi e le condivide. The post Gemini Spark arriva su Google Foto: cosa può fare con le foto appeared first o",
+      "link": "https://www.punto-informatico.it/gemini-spark-google-foto-cosa-puo-fare-foto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T16:21:38+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "GPT-6 Astra, OpenAI vede l’AGI più vicina. E sfida Anthropic sugli agenti",
