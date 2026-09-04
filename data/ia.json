@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-09-04T04:37:55.669904+00:00",
+  "last_updated": "2026-09-04T11:21:53.874258+00:00",
   "items": [
     {
-      "titolo": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "descrizione": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "fonte": "WIRED",
-      "data": "2026-09-03T21:56:21+00:00",
+      "titolo": "WhatsApp apre agli agenti esterni: come funzionano le nuove chat",
+      "descrizione": "WhatsApp testa chat dedicate agli agenti esterni, con API key e gestione separata.",
+      "link": "https://www.hdblog.it/android/articoli/n669346/whatsapp-chat-agenti-terze-parti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T09:20:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Flash continua a evolvere rapidamente: ecco la versione 3.8",
-      "descrizione": "Il terzo modello in appena sei settimane. Anche in versione Cyber, dedicato a trovare vulnerabilità e sviluppare correzioni.",
-      "link": "https://www.hdblog.it/google/articoli/n669309/google-gemini-flash-3-8-cyber-novita-rilascio/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T17:55:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "descrizione": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "fonte": "WIRED",
-      "data": "2026-09-03T21:56:21+00:00",
+      "titolo": "GPT-6 Astra, OpenAI vede l’AGI più vicina. E sfida Anthropic sugli agenti",
+      "descrizione": "OpenAI ha rilasciato il modello GPT_6 Astra. Il presidente Greg Brockman lo ha definito un “«salto generazionale» parlando esplicitamente di ingresso nell’era dell’intelligenza artificiale generale. L’AGI, l’intelligenza",
+      "link": "https://www.ilsole24ore.com/art/gpt-6-astra-openai-vede-l-agi-piu-vicina-e-sfida-anthropic-agenti-AJn6QG3",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-04T06:28:00+00:00",
       "modello": "claude"
     }
   ]

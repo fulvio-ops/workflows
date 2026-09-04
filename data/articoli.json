@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-09-04T04:37:50.253927+00:00",
+  "last_updated": "2026-09-04T11:21:49.366404+00:00",
   "items": [
     {
-      "titolo": "Wikipedia Workers Unionize for the First Time",
-      "descrizione": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
-      "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+      "titolo": "Plex invita ad aggiornare subito Media Server e Desktop per motivi di sicurezza",
+      "descrizione": "L’aggiornamento di Plex può richiedere qualche passaggio aggiuntivo sui NAS Synology, QNAP e di altri produttori, dove i nuovi pacchetti potrebbero arrivare più tardi e rendere necessaria...",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n669368/plex-server-vulnerabilita-aggiornare/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T11:15:00+00:00"
+    },
+    {
+      "titolo": "Lenovo porta l’AI nei nuovi PC, ma non sempre come Microsoft si aspettava",
+      "descrizione": "BERLINO - Il personal computer continua a cambiare forma sotto la spinta dell’intelligenza artificiale e sembra diventare sempre più specializzato. Una volta, il PC era una macchina “tuttofare” di cui...",
+      "link": "https://www.ilsole24ore.com/art/lenovo-porta-l-ai-nuovi-pc-ma-non-sempre-come-microsoft-si-aspettava-AJ77zT3",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-04T11:08:38+00:00"
+    },
+    {
+      "titolo": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
+      "descrizione": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
+      "link": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/",
       "fonte": "WIRED",
-      "data": "2026-09-04T00:40:06+00:00"
+      "data": "2026-09-04T11:00:00+00:00"
     },
     {
-      "titolo": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
-      "descrizione": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-03T19:05:37+00:00"
+      "titolo": "Microsoft porta la verifica dell’età su Windows 11: come funziona",
+      "descrizione": "Windows 11 potrà comunicare alle applicazioni solo la fascia d'età e lo stato di verifica dell'utente, senza rivelare i dati personali. The post Microsoft porta la verifica dell’età su Windows 11: come funziona appeared",
+      "link": "https://www.punto-informatico.it/microsoft-porta-verifica-eta-windows-11-come-funziona/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-04T10:56:28+00:00"
     },
     {
-      "titolo": "Recensione POCO F9 Ultra: il top di gamma a metà prezzo imbattibile | Video",
-      "descrizione": "Abbiamo provato il nuovo top di gamma del sottobrand Xiaomi che costa la metà degli altri (in offerta). E' imbattibile?",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n668860/recensione-poco-f9-ultra-test-prova-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "titolo": "Chrome, individuate 19 estensioni che rubavano credenziali crypto",
-      "descrizione": "Una campagna \"paziente\": le estensioni funzionavano bene e senza sospetti finché non si raggiungeva una massa critica di installazioni, poi sferravano l'attacco.",
-      "link": "https://www.hdblog.it/windows/articoli/n669314/google-chrome-estensioni-malware-chromium/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T18:05:00+00:00"
-    },
-    {
-      "titolo": "IFA 2026, dall’AI ai robot: ecco cosa vedere a Berlino",
-      "descrizione": "BERLINO – La grande rassegna berlinese della tecnologia apre i battenti al pubblico oggi 4 settembre mettendo al centro della scena, come già l’anno passato, intelligenza artificiale e robotica in...",
-      "link": "https://www.ilsole24ore.com/art/ifa-2026-dall-ai-robot-ecco-cosa-vedere-berlino-AJUohr2",
+      "titolo": "Dyson mette occhi, sensori e algoritmi nelle macchine di casa. Le novità a IFA 2026",
+      "descrizione": "Dai robot Nurovi, capaci di riconoscere sporco e superfici, ai purificatori HushJet, progettati per spostare più aria facendo meno rumore. Ecco le principali novità presentate a Berlino.",
+      "link": "https://www.ilsole24ore.com/art/dyson-mette-occhi-sensori-e-algoritmi-macchine-casa-novita-ifa-2026-AJqdxZ2",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-03T17:59:34+00:00"
+      "data": "2026-09-04T10:48:01+00:00"
     },
     {
-      "titolo": "GTA 6 arriverà a 60 FPS su PS5 Pro?",
-      "descrizione": "In molti ritengono che sia parecchio difficile: il collo di bottiglia potrebbe essere la CPU, più che la GPU.",
-      "link": "https://www.hdblog.it/games/articoli/n669307/gta-6-60-fps-playstation-5-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T17:45:00+00:00"
-    },
-    {
-      "titolo": "Il nuovo CEO di Apple è un pilota Porsche: piede pesante e tanto cervello",
-      "descrizione": "Si chiama John Ternus e ha chiuso un giro veloce sulla pista di Laguna Seca sotto il minuto e quarta secondi al volante di una super sportiva",
-      "link": "https://www.hdmotori.it/nuovo-ceo-apple-pilota-porsche/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T17:30:22+00:00"
-    },
-    {
-      "titolo": "NASA e Axiom Space cambiano la tuta lunare di Artemis, perché?",
-      "descrizione": "I ritardi di Artemis spingono la NASA a rivedere la tuta lunare di Axiom Space: nasce la Sortie Suit, pensata per ridurre peso e tempi di sviluppo. The post NASA e Axiom Space cambiano la tuta lunare di Artemis, perché?",
-      "link": "https://www.punto-informatico.it/nasa-axiom-space-cambiano-tuta-lunare-artemis-perche/",
+      "titolo": "IFA 2026: ASUS ProArt P16 e P14 con NVIDIA RTX Spark",
+      "descrizione": "ProArt P16 e P14 sono i primi notebook di ASUS con il superchip NVIDIA RTX Spark N1X (CPU a 20 core, GPU a 6.144 CUDA core e fino a 128 GB di RAM). The post IFA 2026: ASUS ProArt P16 e P14 con NVIDIA RTX Spark appeared f",
+      "link": "https://www.punto-informatico.it/ifa-2026-asus-proart-p16-p14-nvidia-rtx-spark/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-03T17:27:24+00:00"
+      "data": "2026-09-04T10:42:56+00:00"
     },
     {
-      "titolo": "GTA 6, Sony svela i controller DualSense in edizione limitata: prezzi e data di lancio",
-      "descrizione": "In arrivo anche in Italia: ecco come preordinarli.",
-      "link": "https://www.hdblog.it/hardware/articoli/n669303/gta-6-vi-dualsense-prezzo-italia-preordini-data/",
+      "titolo": "Mova vuole dare il tatto ai robot: ecco le tecnologie di IFA 2026",
+      "descrizione": "Mova porta a IFA 2026 22 prodotti e 15 tecnologie, tra cui TactiPercept per dare una sorta di tatto ai robot aspirapolvere, tagliaerba con bracci multifunzione e sistemi robotici capaci di manipolare...",
+      "link": "https://www.hdblog.it/home/articoli/n669365/mova-a-ifa-2026-novita-tagliaerba/",
       "fonte": "HDblog.it",
-      "data": "2026-09-03T17:25:00+00:00"
+      "data": "2026-09-04T10:40:00+00:00"
     },
     {
-      "titolo": "La LEGO PlayStation è ufficiale! Quasi 2.000 pezzi, in vendita da ottobre",
-      "descrizione": "179,99 euro di listino... forse si fa prima a prenderne una vera usata ai mercatini?",
-      "link": "https://www.hdblog.it/sony/articoli/n669300/lego-playstation-ufficiale-prezzi-pezzi-immagini/",
+      "titolo": "Iveco può diventare indiana: via libera all'OPA di Tata dopo il sì di BCE e Consob",
+      "descrizione": "Completato il percorso delle autorizzazioni internazionali, l'offerta pubblica da 3,8 miliardi di euro partirà il 7 settembre, completando la cessione da parte di Exor.",
+      "link": "https://www.hdmotori.it/iveco-via-libera-tata-bce-consob/",
       "fonte": "HDblog.it",
-      "data": "2026-09-03T17:15:00+00:00"
+      "data": "2026-09-04T10:30:26+00:00"
     },
     {
-      "titolo": "iPhone pieghevole: potrebbe superare i 3.000 dollari col massimo della memoria",
-      "descrizione": "E partire da oltre 2.000 dollari per la configurazione base.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669293/iphone-ultra-pieghevole-prezzo-2000-3000-dollari/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T17:05:00+00:00"
-    },
-    {
-      "titolo": "Toyota vende biscotti gelato da 86 dollari: la strana trovata pubblicitaria",
-      "descrizione": "Per lanciare il minivan Sienna Platinum con frigo di bordo, Toyota si allea con Graeter's Ice Cream: arrivano i biscotti gelato al caramello salato da 86 dollari a confezione",
-      "link": "https://www.hdmotori.it/toyota-sienna-gelato-86-dollari/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T17:00:31+00:00"
-    },
-    {
-      "titolo": "DJI Romo P2 e A2 ufficiali in Italia: ecco i robot aspirapolvere attenti alla privacy",
-      "descrizione": "Una risposta al caso sorto negli Stati Uniti",
-      "link": "https://www.hdblog.it/home/articoli/n669270/dji-romo-p2-a2-prezzo-disponibilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:45:00+00:00"
-    },
-    {
-      "titolo": "Monza, la monoposto dei sogni finisce sul carro attrezzi della Polizia di Stato",
-      "descrizione": "La monoposto dei sogni è stata trasferita a Monza, in piazza Duomo, per la cerimonia di presentazione ufficiale in vista dell’evento nel Tempio della velocità",
-      "link": "https://www.hdmotori.it/monza-monoposto-carro-attrezzi-polizia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:30:02+00:00"
-    },
-    {
-      "titolo": "Google Vids trasforma PDF, Word e Google Docs in riassunti video",
-      "descrizione": "Google Vids ora permette di convertire documenti PDF, Word e Google Docs in sintesi video automatiche. Ecco come funziona. The post Google Vids trasforma PDF, Word e Google Docs in riassunti video appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-vids-trasforma-pdf-word-google-docs-riassunti-video/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-03T16:20:12+00:00"
-    },
-    {
-      "titolo": "Motorola Edge 70 Plus e RAZR 70 Swarovski ufficiali a IFA",
-      "descrizione": "C'è anche un caricatore wireless Qi2 magnetico.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669292/motorola-edge-70-plus-specifiche-immagini-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:05:00+00:00"
-    },
-    {
-      "titolo": "Lenovo a IFA vuole reinventare il notebook: ecco due concept molto particolari",
-      "descrizione": "Uno ha una sottigliezza \"impossibile\" e ha un potenzialmente rivoluzionario sistema di dissipazione attivo senza ventole, a stato solido; l'altro un display OLED che si estende lateralmente.",
-      "link": "https://www.hdblog.it/portatili/articoli/n669236/lenovo-ifa-2026-laptop-concept-aeroblade-swan/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:04:00+00:00"
-    },
-    {
-      "titolo": "IFA 2026 coloratissima per Lenovo: ecco gli IdeaPad Vibe e gli IdeaCentre AiO",
-      "descrizione": "La nuova famiglia di laptop sembra nata per contrastare i MacBook Neo... con tantissime opzioni hardware in più.",
-      "link": "https://www.hdblog.it/portatili/articoli/n669214/lenovo-ifa-2026-ideapad-vibe-ideacentre-aio-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-03T16:02:00+00:00"
-    },
-    {
-      "titolo": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
-      "descrizione": "Systems with Nvidia's RTX Spark N1X chips will launch in October in mini PCs and laptops, with the chips coming in two configurations.",
-      "link": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
+      "titolo": "Chinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share",
+      "descrizione": "CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-cmxt-had-an-actual-roadmap-for-its-alleged-industrial-espionage-from-samsung-south-korean-court-says-project-hefei-was-responsible-for-cxmts-current-position-as-major-dram-maker",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-03T16:00:00+00:00"
+      "data": "2026-09-04T10:30:00+00:00"
     },
     {
-      "titolo": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks — tool uses spare cycles to keep agent swarms from hammering one GPU",
-      "descrizione": "Nvidia's Personal AI Router (PAIR) clustering utility lets agentic AI workloads take advantage of every spare GPU cycle on a home network, potentially making for faster execution and more private inference.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-03T16:00:00+00:00"
+      "titolo": "ICE Wants to Know Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+      "descrizione": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
+      "link": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+      "fonte": "WIRED",
+      "data": "2026-09-04T10:30:00+00:00"
     },
     {
-      "titolo": "7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e Claude",
-      "descrizione": "I consigli di produttività più interessanti non sono quelli ovvi. ChatGPT, Gemini, Claude e Perplexity suggeriscono 7 tecniche non convenzionali. The post 7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e",
-      "link": "https://www.punto-informatico.it/7-trucchi-produttivita-insoliti-chatgpt-gemini-claude/",
+      "titolo": "LG mostra a IFA 2026 la sua AI Home tra TV ed elettrodomestici",
+      "descrizione": "La strategia LG per la casa intelligente passa anche da CLOiD e ThinQ Claw: l’AI può apprendere le abitudini dell’utente, coordinare i dispositivi connessi e intervenire in modo più proattivo nelle...",
+      "link": "https://www.hdblog.it/lg/articoli/n669360/lg-mostra-a-ifa-2026-la-sua-ai-home-tra-tv-ed-elettrodomestici/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T10:10:00+00:00"
+    },
+    {
+      "titolo": "Ryanair taglia 10000 collegamenti: rincari e rotte a rischio anche in Italia",
+      "descrizione": "Stime al ribasso nonostante i record di agosto.",
+      "link": "https://www.hdblog.it/business/articoli/n669344/ryanair-prezzi-carburante-taglio-voli-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T09:55:00+00:00"
+    },
+    {
+      "titolo": "Svelato ad Austin il Cybercab, la vera scommessa di Tesla",
+      "descrizione": "Niente volante né pedali per la due posti di Tesla presentata ad Austin. La sfida dell'intelligenza artificiale tra burocrazia e rivalità con Waymo.",
+      "link": "https://www.hdmotori.it/svelato-cybercab-tesla/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T09:30:14+00:00"
+    },
+    {
+      "titolo": "Cosori e Levoit a IFA 2026 con una nuova friggitrice dual zone e purificatore smart",
+      "descrizione": "A IFA 2026 VeSync presenta Cosori Iconic Dual, friggitrice ad aria da 8,6 litri con due zone indipendenti, e Levoit Eleva 300X, purificatore smart progettato per la camera da letto",
+      "link": "https://www.hdblog.it/home/articoli/n669355/cosori-ifa-2026-friggitrice-purificatore-prezzi-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T09:10:00+00:00"
+    },
+    {
+      "titolo": "Mammotion porta a IFA 2026 il robot tagliaerba con LiDAR e quattro telecamere",
+      "descrizione": "Mammotion anticipa a IFA 2026 Luba 4 AWD, robot tagliaerba della gamma 2027 con quattro telecamere, LiDAR a 360 gradi e NetRTK per migliorare navigazione e precisione anche nei prati più complessi",
+      "link": "https://www.hdblog.it/home/articoli/n669347/robot-rasaerba-mammotion-4wd-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:50:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA RTX Spark N1X per laptop e desktop da ottobre",
+      "descrizione": "NVIDIA ha comunicato che i primi dispositivi (laptop e desktop compatti) con chip RTX Stark N1X arriveranno sul mercato nel mese di ottobre. The post NVIDIA RTX Spark N1X per laptop e desktop da ottobre appeared first on",
+      "link": "https://www.punto-informatico.it/nvidia-rtx-spark-n1x-laptop-desktop-ottobre/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-03T15:30:52+00:00"
+      "data": "2026-09-04T08:40:57+00:00"
     },
     {
-      "titolo": "NVIDIA acquisisce Hugging Face per 12,9 miliardi di dollari",
-      "descrizione": "NVIDIA ha confermato l'acquisizione di Hugging Face per 12,93 miliardi di dollari, promettendo che la piattaforma rimarrà accessibile senza vincoli. The post NVIDIA acquisisce Hugging Face per 12,9 miliardi di dollari ap",
-      "link": "https://www.punto-informatico.it/nvidia-acquisisce-hugging-face-129-miliardi-dollari/",
+      "titolo": "Samsung Connect, la casa che cambia: ne parlano Daniele Grassi ed Ettore Jovane",
+      "descrizione": "A IFA 2026, Samsung ha scelto di raccontare le proprie novità in modo diverso rispetto agli ultimi anni.",
+      "link": "https://www.hdblog.it/samsung/articoli/n669225/samsung-connect-casa-cambia-grassi-jovane/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:40:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 11 arriva in Cina: 21 giorni di autonomia e display da 2000 nits",
+      "descrizione": "Tutti i dettagli sulla nuova Smart Band 11 di Xiaomi",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669339/xiaomi-smart-band-11-specifiche-lancio-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:35:00+00:00"
+    },
+    {
+      "titolo": "Toyota Yaris Cross cambia volto: gamma Full Hybrid e prezzo di 24.950 euro (in promo)",
+      "descrizione": "Toyota rinnova la Yaris Cross con un nuovo frontale, gamma esclusivamente Full Hybrid da 130 CV e prezzi in Italia da 29.600 euro",
+      "link": "https://www.hdmotori.it/toyota-yaris-cross-restyling-motori-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:30:11+00:00"
+    },
+    {
+      "titolo": "ECOVACS conquista IFA 2026: tutta la casa si pulisce da sola",
+      "descrizione": "Al debutto i nuovi robot per pulire pavimenti, finestre, piscine e per la cura del giardino.",
+      "link": "https://www.hdblog.it/home/articoli/n669101/ecovacs-robot-casa-ifa-novita-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:26:00+00:00"
+    },
+    {
+      "titolo": "L’iPhone Fold potrebbe costare fino a 3.500 euro",
+      "descrizione": "L'iPhone Fold potrebbe costare fino a 3.500 euro in Italia. RAM e memoria pesano sulle stime di prezzo del nuovo Apple. The post L’iPhone Fold potrebbe costare fino a 3.500 euro appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/iphone-fold-potrebbe-costare-fino-3-500-euro/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-03T14:58:56+00:00"
+      "data": "2026-09-04T08:20:40+00:00"
     },
     {
-      "titolo": "Un suono incredibile e luci LED con i Samsung Galaxy Buds3 Pro",
-      "descrizione": "Goditi un suono meraviglioso in qualsiasi ambiente con molte personalizzazioni grazie agli auricolari wireless Samsung Galaxy Buds3 Pro. The post Un suono incredibile e luci LED con i Samsung Galaxy Buds3 Pro appeared fi",
-      "link": "https://www.punto-informatico.it/suono-incredibile-luci-led-con-samsung-galaxy-buds3-pro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-03T14:33:20+00:00"
+      "titolo": "Per salvare l’Amazonia si inizia dalle città: ora entra in gioco l’AI",
+      "descrizione": "L’AI aiuta le città amazzoniche a scegliere dove intervenire contro rischi ed emissioni.",
+      "link": "https://www.hdblog.it/green/articoli/n669337/amazonia-ai-citta-cambiamento-climatico/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:20:00+00:00"
     },
     {
-      "titolo": "Data center, la controversa frontiera sotto i mari",
-      "descrizione": "Palloni galleggianti alimentati dall’energia delle onde, cilindri sottomarini o piattaforme offshore caricate dal vento, tra Stati Uniti e mare del Nord. Sono alcune delle soluzioni alternative che celano le macchine...",
-      "link": "https://www.ilsole24ore.com/art/data-center-controversa-frontiera-sotto-mari-AJ0kXLw",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-03T14:21:26+00:00"
+      "titolo": "Reolink a IFA 2026: nuova OMVI e AI ReoNeura in primo piano",
+      "descrizione": "Reolink porta a IFA 2026 una nuova OMVI e le evoluzioni della piattaforma AI ReoNeura.",
+      "link": "https://www.hdblog.it/home/articoli/n669271/reolink-ifa-2026-omvi-reoneura-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:01:00+00:00"
+    },
+    {
+      "titolo": "Carburanti, taglio accise: il Governo pensa a una nuova proroga di 5 giorni",
+      "descrizione": "Matteo Salvini ha annunciato la protrazione del taglio delle accise sul diesel fino al 10 settembre. Al vaglio diverse soluzioni.",
+      "link": "https://www.hdmotori.it/carburanti-taglio-accise-proroga/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-04T08:00:26+00:00"
     }
   ]
 }
