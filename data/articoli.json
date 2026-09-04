@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-09-03T21:04:22.297730+00:00",
+  "last_updated": "2026-09-04T04:37:50.253927+00:00",
   "items": [
+    {
+      "titolo": "Wikipedia Workers Unionize for the First Time",
+      "descrizione": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
+      "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+      "fonte": "WIRED",
+      "data": "2026-09-04T00:40:06+00:00"
+    },
     {
       "titolo": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
       "descrizione": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms.",
@@ -161,13 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/data-center-controversa-frontiera-sotto-mari-AJ0kXLw",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-03T14:21:26+00:00"
-    },
-    {
-      "titolo": "Solare, crescita record grazie a tecnologie e ricerca",
-      "descrizione": "Il solare continua a battere record su record, ma nessuno se ne accorge. Dopo aver superato la soglia dei 100 gigawatt nel 2012, il mondo ha impiegato 10 anni per...",
-      "link": "https://www.ilsole24ore.com/art/solare-crescita-record-grazie-tecnologie-e-ricerca-AJOU5b0",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-03T14:19:02+00:00"
     }
   ]
 }

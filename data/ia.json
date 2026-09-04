@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-03T21:04:25.704673+00:00",
+  "last_updated": "2026-09-04T04:37:55.669904+00:00",
   "items": [
     {
-      "titolo": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "descrizione": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "titolo": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "descrizione": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
       "fonte": "WIRED",
-      "data": "2026-09-03T18:06:24+00:00",
+      "data": "2026-09-03T21:56:21+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e Claude",
-      "descrizione": "I consigli di produttività più interessanti non sono quelli ovvi. ChatGPT, Gemini, Claude e Perplexity suggeriscono 7 tecniche non convenzionali. The post 7 trucchi di produttività insoliti suggeriti da ChatGPT, Gemini e",
-      "link": "https://www.punto-informatico.it/7-trucchi-produttivita-insoliti-chatgpt-gemini-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-03T15:30:52+00:00",
+      "titolo": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "descrizione": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "fonte": "WIRED",
+      "data": "2026-09-03T21:56:21+00:00",
       "modello": "claude"
     }
   ]
