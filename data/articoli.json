@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-09-05T04:33:44.332820+00:00",
+  "last_updated": "2026-09-05T10:38:54.733070+00:00",
   "items": [
+    {
+      "titolo": "OpenAI Agents Hacked Another Website",
+      "descrizione": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "fonte": "WIRED",
+      "data": "2026-09-05T10:30:00+00:00"
+    },
+    {
+      "titolo": "Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of U.S. drone market, citing national security — products from allied nation face 10-15% rates",
+      "descrizione": "The Trump administration has imposed tariffs of up to 100% on imported drones and key components, as Washington intensifies its push to reduce reliance on Chinese drone technology and rebuild a domestic supply chain.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-05T10:20:00+00:00"
+    },
+    {
+      "titolo": "Prova del Narwal V50 Cube: Modalità AI, stazione automatica e doppia batteria",
+      "descrizione": "Test completo del nuovo Narwal V50 Cube, aspirapolvere wireless molto potente e dotato di una stazione di auto-svuotamento molto efficace.",
+      "link": "https://www.hdblog.it/home/recensioni/n668057/prova-narwal-v50-cube-ai-stazione-doppia-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T10:01:00+00:00"
+    },
+    {
+      "titolo": "Agenti di OpenAI usano un sito per pianificare attacchi",
+      "descrizione": "Circa 3.700 agenti di OpenAI hanno usato un sito tedesco come forum di discussione per lo scambio di informazioni su come aggirare le restrizioni. The post Agenti di OpenAI usano un sito per pianificare attacchi appeared",
+      "link": "https://www.punto-informatico.it/agenti-openai-usano-sito-pianificare-attacchi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-05T09:56:20+00:00"
+    },
+    {
+      "titolo": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
+      "descrizione": "The main action took place at Geneva Watch Days, but others dialed in remotely to make sure it wasn't just a Swiss party.",
+      "link": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
+      "fonte": "WIRED",
+      "data": "2026-09-05T09:45:00+00:00"
+    },
+    {
+      "titolo": "Dai baci alle mutande sepolte: gli Ig Nobel premiano la scienza più eccentrica",
+      "descrizione": "Perché la scienza non dovrebbe prendersi troppo sul serio.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n669392/ignobel-premi-scienza-assurda/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T09:31:00+00:00"
+    },
+    {
+      "titolo": "Memoria cache: eliminare i dati non rende i dispositivi più veloci",
+      "descrizione": "Quando è utile agire sulla cache di smartphone e PC.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669145/memoria-cache-quando-eliminarla-cosa-serve/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T09:01:00+00:00"
+    },
+    {
+      "titolo": "Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’",
+      "descrizione": "The studio released an official catch-up list ahead of December’s release. We have easy links to watch every one of the movies so you can get up to speed.",
+      "link": "https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/",
+      "fonte": "WIRED",
+      "data": "2026-09-05T09:00:00+00:00"
+    },
+    {
+      "titolo": "I CD tornano a crescere: vendite in aumento del 46%",
+      "descrizione": "Negli USA tornano a crescere CD e vinili, spinti dalla riscoperta della tecnologia retrò.",
+      "link": "https://www.hdblog.it/tv/articoli/n669422/cd-vendite-crescita-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T08:45:00+00:00"
+    },
+    {
+      "titolo": "VGA: perché il vecchio connettore continua ad essere utilizzato dopo 40 anni",
+      "descrizione": "La porta VGA è ancora presente su migliaia di dispositivi.",
+      "link": "https://www.hdblog.it/portatili/articoli/n669121/vga-diffusione-utilizzo-perche/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T08:01:00+00:00"
+    },
+    {
+      "titolo": "Carte contactless e tecnologia RFID, cosa c’è davvero da temere",
+      "descrizione": "Quali sono i rischi reali nell’impiego della tecnologia RFID.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n669367/tecnologia-rfid-rischi-reali/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T07:35:00+00:00"
+    },
+    {
+      "titolo": "Circular Ring 3: l'anello smart che porta vibrazione e pagamenti NFC al dito",
+      "descrizione": "Circular Ring 3 arriva con NFC, vibrazioni, due modelli e autonomia fino a 12 giorni",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669420/circular-ring-3-nfc-vibrazioni-pagamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T06:55:00+00:00"
+    },
+    {
+      "titolo": "La Lamborghini Temerario veste la divisa della Polizia",
+      "descrizione": "Si rinnova la collaborazione tra la Casa di Sant’Agata Bolognese e la Polizia, che utilizzerà la supercar per il trasporto di organi e la sicurezza stradale.",
+      "link": "https://www.hdmotori.it/lamborghini-temerario-polizia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-05T06:30:29+00:00"
+    },
+    {
+      "titolo": "Concreto, sottile e con un prezzo imbattibile: Motorola edge 70",
+      "descrizione": "Il Motorola edge 70 da 256 GB è uno degli smartphone più a fuoco in questa fascia di prezzo e oggi lo potrai avere con un ulteriore sconto. The post Concreto, sottile e con un prezzo imbattibile: Motorola edge 70 appeare",
+      "link": "https://www.punto-informatico.it/concreto-sottile-con-prezzo-imbattibile-motorola-edge-70/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-05T05:57:23+00:00"
+    },
     {
       "titolo": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
       "descrizione": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing",
@@ -51,20 +149,6 @@
       "data": "2026-09-04T16:00:12+00:00"
     },
     {
-      "titolo": "Nintendo annuncia due Direct per la prossima settimana: data e ora",
-      "descrizione": "Ecco come e quando seguirli.",
-      "link": "https://www.hdblog.it/nintendo/articoli/n669401/nintendo-direct-settembre-zelda-data-ora-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T15:55:00+00:00"
-    },
-    {
-      "titolo": "Moto Guzzi 105 Anniversary, 5 modelli con livree speciali in arrivo",
-      "descrizione": "Il restyling dello stabilimento di Mandello ispira la serie speciale 105 Anniversary: stile e dettagli inediti per Stelvio, V100, V85 Strada e V7 Stone",
-      "link": "https://www.hdmotori.it/moto-guzzi-105-anniversary-modelli-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T15:30:39+00:00"
-    },
-    {
       "titolo": "GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero",
       "descrizione": "Un prompt mette alla prova ChatGPT-6 Astra sulle attività complesse. Il modello pianifica, corregge gli errori e consegna il risultato. The post GPT-6 Astra è qui: un prompt mostra cosa sa fare davvero appeared first on",
       "link": "https://www.punto-informatico.it/gpt-6-astra-prompt-mostra-cosa-sa-fare-davvero/",
@@ -79,95 +163,11 @@
       "data": "2026-09-04T15:17:12+00:00"
     },
     {
-      "titolo": "BMW porta a Torino la nuova X5: debutto italiano insieme a iX3 e i3",
-      "descrizione": "BMW sarà al Salone Auto Torino 2026 con iX3, nuova i3 e nuova X5. Per il grande SUV si tratta della prima apparizione ufficiale in Italia",
-      "link": "https://www.hdmotori.it/bmw-x5-salone-auto-torino/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T15:00:20+00:00"
-    },
-    {
       "titolo": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
       "descrizione": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new RTX 50 \"Blackwell\" GP",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-04T14:56:38+00:00"
-    },
-    {
-      "titolo": "Microsoft prepara un Windows senza distrazioni: ecco Project Zenith",
-      "descrizione": "Project Zenith porta Windows 11, AI locale e strumenti di sviluppo sui nuovi PC.",
-      "link": "https://www.hdblog.it/windows/articoli/n669388/microsoft-project-zenith-windows-11-sviluppatori/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T14:55:00+00:00"
-    },
-    {
-      "titolo": "Su Pixel Watch il meteo si arricchisce con nuove informazioni",
-      "descrizione": "Aria fresca.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669381/pixel-watch-meteo-qualita-aria-uv-complicazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T14:35:00+00:00"
-    },
-    {
-      "titolo": "Microsoft Project Zenith: Windows 11 per gli sviluppatori",
-      "descrizione": "Project Zenith è una versione ottimizzata di Windows 11, installata sul mini PC AMD Ryzen AI Halo, con tutti gli strumenti utili agli sviluppatori. The post Microsoft Project Zenith: Windows 11 per gli sviluppatori appea",
-      "link": "https://www.punto-informatico.it/microsoft-project-zenith-windows-11-sviluppatori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T14:32:04+00:00"
-    },
-    {
-      "titolo": "Smart glasses vietati in Norvegia? Timori per privacy e riconoscimento facciale",
-      "descrizione": "La Norvegia valuta un divieto sugli smart glasses e dispositivi indossabili con videocamera.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669369/occhiali-smart-glasses-vietati-norvegia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T14:20:00+00:00"
-    },
-    {
-      "titolo": "AI, energia smart e domotica: ecco tutte le novità SBS a IFA 2026",
-      "descrizione": "Caricatori intelligenti, cover PURO e la novità Vivanco HΩME.",
-      "link": "https://www.hdblog.it/domotica/articoli/n669377/sbs-caricatori-ai-smart-home-novita-ifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T14:10:00+00:00"
-    },
-    {
-      "titolo": "Ducati fa sul serio tra i pedali: 4 nuove bici, corsa, gravel ed e-MTB",
-      "descrizione": "Ducati svela quattro nuove bici per il 2027: dalla Monoscocca da corsa alla gravel GraviaX, fino alle e-MTB da 130 Nm. Sviluppate con Nibali e il Gruppo Zecchetto.",
-      "link": "https://www.hdmotori.it/ducati-nuove-bici-2027-modelli-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T14:00:38+00:00"
-    },
-    {
-      "titolo": "Tineco a IFA 2026: vapore e pulizia smart per una casa senza sforzi",
-      "descrizione": "A Berlino arrivano FLOOR ONE S11 Artist Fusion Steam, FLOOR ONE S9 Artist Boost Steam e PURE ONE STATION 7 ZeroTouch.",
-      "link": "https://www.hdblog.it/home/articoli/n668451/tineco-novita-pulizia-casa-smart-ifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-04T13:55:00+00:00"
-    },
-    {
-      "titolo": "IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark",
-      "descrizione": "I nuovi Lenovo Yoga Pro 9n e Yoga 9n 2-1in-1, mostrati all'IFA 2026, integrano processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. The post IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark appe",
-      "link": "https://www.punto-informatico.it/ifa-2026-lenovo-yoga-pro-9n-chip-nvidia-rtx-spark/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T13:38:13+00:00"
-    },
-    {
-      "titolo": "Discrete graphics card sales hit four-year record despite soaring memory prices — AMD gains market share as notebook graphics carry the market",
-      "descrizione": "Shipments of standalone graphics processors for PCs grow sequentially and year-over-year amid shortage of components and increased prices.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/discrete-graphics-card-sales-hit-four-year-record-despite-high-prices-shipments-reach-13-24-million-units-as-market-defies-pc-slump",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-04T12:45:23+00:00"
-    },
-    {
-      "titolo": "Audio di Raoul Bova: sanzione irrisoria per Fabrizio Corona",
-      "descrizione": "Nonostante la grave violazione della privacy di Raoul Bova, Fabrizio Corona dovrà pagare solo 4.950 euro perché non aveva nessun reddito nel 2025. The post Audio di Raoul Bova: sanzione irrisoria per Fabrizio Corona appe",
-      "link": "https://www.punto-informatico.it/audio-raoul-bova-sanzione-irrisoria-fabrizio-corona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T12:37:25+00:00"
-    },
-    {
-      "titolo": "Ecco Qira, l’evoluzione dell’assistente personale di Lenovo che tiene alla tua privacy",
-      "descrizione": "BERLINO - L’IFA è sicuramente un’ottima vetrina per i prodotti ad alta tecnologica, ma al giorno d’oggi non basta mettere potenza e memoria a disposizione degli utenti, servono servizi che...",
-      "link": "https://www.ilsole24ore.com/art/ecco-quira-l-evoluzione-dell-assistente-personale-lenovo-che-tiene-tua-privacy-AJRHaO3",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-04T12:29:00+00:00"
     }
   ]
 }
