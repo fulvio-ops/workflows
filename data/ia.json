@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T15:17:01.984932+00:00",
+  "last_updated": "2026-09-05T20:24:43.514409+00:00",
   "items": [
     {
       "titolo": "OpenAI Agents Hacked Another Website",
@@ -8,6 +8,14 @@
       "fonte": "WIRED",
       "data": "2026-09-05T10:30:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+      "descrizione": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes",
+      "link": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-05T17:18:57+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Gemini legge le email di Gmail? Ecco come impedirlo",
