@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-09-04T20:47:34.024269+00:00",
+  "last_updated": "2026-09-05T04:33:44.332820+00:00",
   "items": [
+    {
+      "titolo": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
+      "descrizione": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing",
+      "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-04T23:09:31+00:00"
+    },
     {
       "titolo": "Microcar, stop al paradosso: obbligo cinture anche sui quadricicli pesanti",
       "descrizione": "Il nuovo Codice della Strada corregge un baco di 16 anni: scatta l'obbligo di allacciare le cinture di sicurezza e installare i seggiolini anche sui quadricicli pesanti L7e",
@@ -161,13 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/ecco-quira-l-evoluzione-dell-assistente-personale-lenovo-che-tiene-tua-privacy-AJRHaO3",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-04T12:29:00+00:00"
-    },
-    {
-      "titolo": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
-      "descrizione": "The mission to Phobos, Japan’s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
-      "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
-      "fonte": "WIRED",
-      "data": "2026-09-04T12:00:00+00:00"
     }
   ]
 }
