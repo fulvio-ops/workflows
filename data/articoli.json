@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-09-06T04:43:14.695948+00:00",
+  "last_updated": "2026-09-06T11:01:04.706556+00:00",
   "items": [
+    {
+      "titolo": "Acer rispolvera Packard Bell, ma il computer diventa solo un pretesto",
+      "descrizione": "BERLINO - Subito prima dell’inizio dell’IFA di Berlino, Acer ha annunciato che il centenario della nascita del marchio Packard Bell sarà l’occasione per rinfrescare la presenza sul mercato di questo...",
+      "link": "https://www.ilsole24ore.com/art/acer-rispolvera-packard-bell-ma-computer-diventa-solo-pretesto-AJyvYV1",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-06T10:54:34+00:00"
+    },
+    {
+      "titolo": "My Brief Summer Fling With Siri AI",
+      "descrizione": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "fonte": "WIRED",
+      "data": "2026-09-06T10:30:00+00:00"
+    },
+    {
+      "titolo": "These Cyborg Cockroaches Could Save Your Life",
+      "descrizione": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "link": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "fonte": "WIRED",
+      "data": "2026-09-06T10:30:00+00:00"
+    },
+    {
+      "titolo": "This 246TB SSD media server is built for millionaire cinephiles —Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
+      "descrizione": "Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\"",
+      "link": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-06T10:00:00+00:00"
+    },
+    {
+      "titolo": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "descrizione": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "fonte": "WIRED",
+      "data": "2026-09-06T10:00:00+00:00"
+    },
+    {
+      "titolo": "Vittoria parziale per Elon Musk: Twitter.now diventa Tweet.app",
+      "descrizione": "X conserva ancora i diritti d'uso del marchio Twitter, ma Operation Bluebird può usare il termine tweet e il logo originario del social network. The post Vittoria parziale per Elon Musk: Twitter.now diventa Tweet.app app",
+      "link": "https://www.punto-informatico.it/vittoria-parziale-elon-musk-twitter-now-diventa-tweet-app/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-06T09:06:23+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy, la ricerca offline incide poco sull’autonomia dello smartphone",
+      "descrizione": "Perché conviene lasciare attiva la funzione.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669261/samsung-galaxy-ricerca-offline-non-erode-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-06T09:01:00+00:00"
+    },
+    {
+      "titolo": "Roborock a IFA: le novità per la pulizia, c'è anche il rivoluzionario Saros Rover",
+      "descrizione": "Soluzioni smart per la casa e il giardino.",
+      "link": "https://www.hdblog.it/home/articoli/n668876/roborock-novita-ifa-2026-pulizia-casa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-06T08:31:00+00:00"
+    },
+    {
+      "titolo": "IFA 2026: Motorola annuncia edge 70 plus e watch ultra",
+      "descrizione": "Motorola ha svelato lo smartphone edge 70 plus con schermo AMOLED da 6,78 pollici e lo smartwatch moto watch ultra con Wear OS 6 e connettività LTE. The post IFA 2026: Motorola annuncia edge 70 plus e watch ultra appeare",
+      "link": "https://www.punto-informatico.it/ifa-2026-motorola-annuncia-edge-70-plus-watch-ultra/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-06T07:56:10+00:00"
+    },
+    {
+      "titolo": "Apple-1 firmato da Wozniak all’asta: può valere 683.000 euro",
+      "descrizione": "Un Apple-1 funzionante e firmato da Wozniak torna all’asta dopo 50 anni.",
+      "link": "https://www.hdblog.it/apple/articoli/n669446/apple-1-firmato-wozniak-asta/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-06T07:35:00+00:00"
+    },
+    {
+      "titolo": "La monoposto a guida autonoma di Unimore Racing trionfa a Laguna Seca",
+      "descrizione": "Il team dell’Università di Modena e Reggio Emilia vince l'Indy Autonomous Challenge in California con tre epici sorpassi nella leggendaria curva del Cavatappi.",
+      "link": "https://www.hdmotori.it/monoposto-guida-autonoma-unimore-laguna-seca/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-06T06:30:51+00:00"
+    },
+    {
+      "titolo": "Oltre 100 milioni di brani senza pubblicità e fino a 3 mesi gratis con Apple Music",
+      "descrizione": "Con oltre 100 milioni di brani senza pubblicità, audio spaziale e fino a 3 mesi gratis, Apple Music rimane l'offerta musicale imbattibile. The post Oltre 100 milioni di brani senza pubblicità e fino a 3 mesi gratis con A",
+      "link": "https://www.punto-informatico.it/oltre-100-milioni-di-brani-senza-pubblicita-e-fino-a-3-mesi-gratis-con-apple-music/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-06T06:00:54+00:00"
+    },
+    {
+      "titolo": "VPN in sconto del 73% e Giga eSIM gratuiti: promo estiva NordVPN in scadenza",
+      "descrizione": "Pacchetto con connessione VPN veloce, piano eSIM con Giga per l'estero affidabile e antivirus di nuova generazione. The post VPN in sconto del 73% e Giga eSIM gratuiti: promo estiva NordVPN in scadenza appeared first on",
+      "link": "https://www.punto-informatico.it/vpn-in-sconto-del-73-e-giga-esim-gratuiti-promo-estiva-nordvpn-in-scadenza/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-06T05:02:24+00:00"
+    },
     {
       "titolo": "Save nearly 50% on this awesome 16-inch OLED laptop with a Ryzen AI 5 430 CPU & 16GB RAM — HP's MacBook Neo-beating OmniBook X Flip is down to just $699",
       "descrizione": "If you're looking for a capable machine for everyday tasks and media consumption without breaking the bank, there isn't a better deal out there than this one.",
@@ -77,97 +168,6 @@
       "link": "https://www.hdmotori.it/michael-schumacher-netflix/",
       "fonte": "HDblog.it",
       "data": "2026-09-05T11:00:01+00:00"
-    },
-    {
-      "titolo": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
-      "descrizione": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-05T11:00:00+00:00"
-    },
-    {
-      "titolo": "Insta360 Luna Ultra premiata a IFA 2026, conquista il Best of Tech",
-      "descrizione": "Luna Ultra e Mic Pro premiati a IFA 2026 per tecnologia e design.",
-      "link": "https://www.hdblog.it/mercato/articoli/n669423/insta360-luna-ultra-ifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T10:35:00+00:00"
-    },
-    {
-      "titolo": "OpenAI Agents Hacked Another Website",
-      "descrizione": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "fonte": "WIRED",
-      "data": "2026-09-05T10:30:00+00:00"
-    },
-    {
-      "titolo": "Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of U.S. drone market, citing national security — products from allied nation face 10-15% rates",
-      "descrizione": "The Trump administration has imposed tariffs of up to 100% on imported drones and key components, as Washington intensifies its push to reduce reliance on Chinese drone technology and rebuild a domestic supply chain.",
-      "link": "https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-05T10:20:00+00:00"
-    },
-    {
-      "titolo": "Prova del Narwal V50 Cube: Modalità AI, stazione automatica e doppia batteria",
-      "descrizione": "Test completo del nuovo Narwal V50 Cube, aspirapolvere wireless molto potente e dotato di una stazione di auto-svuotamento molto efficace.",
-      "link": "https://www.hdblog.it/home/recensioni/n668057/prova-narwal-v50-cube-ai-stazione-doppia-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T10:01:00+00:00"
-    },
-    {
-      "titolo": "Agenti di OpenAI usano un sito per pianificare attacchi",
-      "descrizione": "Circa 3.700 agenti di OpenAI hanno usato un sito tedesco come forum di discussione per lo scambio di informazioni su come aggirare le restrizioni. The post Agenti di OpenAI usano un sito per pianificare attacchi appeared",
-      "link": "https://www.punto-informatico.it/agenti-openai-usano-sito-pianificare-attacchi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-05T09:56:20+00:00"
-    },
-    {
-      "titolo": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
-      "descrizione": "The main action took place at Geneva Watch Days, but others dialed in remotely to make sure it wasn't just a Swiss party.",
-      "link": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
-      "fonte": "WIRED",
-      "data": "2026-09-05T09:45:00+00:00"
-    },
-    {
-      "titolo": "Dai baci alle mutande sepolte: gli Ig Nobel premiano la scienza più eccentrica",
-      "descrizione": "Perché la scienza non dovrebbe prendersi troppo sul serio.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n669392/ignobel-premi-scienza-assurda/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T09:31:00+00:00"
-    },
-    {
-      "titolo": "Memoria cache: eliminare i dati non rende i dispositivi più veloci",
-      "descrizione": "Quando è utile agire sulla cache di smartphone e PC.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n669145/memoria-cache-quando-eliminarla-cosa-serve/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T09:01:00+00:00"
-    },
-    {
-      "titolo": "Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’",
-      "descrizione": "The studio released an official catch-up list ahead of December’s release. We have easy links to watch every one of the movies so you can get up to speed.",
-      "link": "https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/",
-      "fonte": "WIRED",
-      "data": "2026-09-05T09:00:00+00:00"
-    },
-    {
-      "titolo": "I CD tornano a crescere: vendite in aumento del 46%",
-      "descrizione": "Negli USA tornano a crescere CD e vinili, spinti dalla riscoperta della tecnologia retrò.",
-      "link": "https://www.hdblog.it/tv/articoli/n669422/cd-vendite-crescita-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T08:45:00+00:00"
-    },
-    {
-      "titolo": "VGA: perché il vecchio connettore continua ad essere utilizzato dopo 40 anni",
-      "descrizione": "La porta VGA è ancora presente su migliaia di dispositivi.",
-      "link": "https://www.hdblog.it/portatili/articoli/n669121/vga-diffusione-utilizzo-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T08:01:00+00:00"
-    },
-    {
-      "titolo": "Carte contactless e tecnologia RFID, cosa c’è davvero da temere",
-      "descrizione": "Quali sono i rischi reali nell’impiego della tecnologia RFID.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669367/tecnologia-rfid-rischi-reali/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T07:35:00+00:00"
     }
   ]
 }
