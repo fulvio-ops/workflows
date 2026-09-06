@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-06T11:01:04.706556+00:00",
+  "last_updated": "2026-09-06T15:30:07.634839+00:00",
   "items": [
+    {
+      "titolo": "Schermi giganti, AI e la carica cinese: così cambia il televisore",
+      "descrizione": "TCL e Hisense guadagnano terreno sui produttori coreani in un mercato stabile nei volumi e in crescita nei grandi formati. La sfida si sposta dalla guerra dei prezzi a quella sulle tecnologie dei pannelli e la corsa all’",
+      "link": "https://www.ilsole24ore.com/art/schermi-giganti-e-carica-cinese-cosi-cambia-televisore-AJyB6dz",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-06T14:57:14+00:00"
+    },
+    {
+      "titolo": "Sales of CD and vinyl music sees strong resurgence amid physical media backlash — US sales of ‘retro media’ were up 59% and 18%, respectively, in H1 2026",
+      "descrizione": "Music industry physical revenues jumped by 25.9% in H1 2026, 'powered by 17.7% vinyl growth and a 58.6% increase in CDs,' reported the RIAA.",
+      "link": "https://www.tomshardware.com/service-providers/streaming/sales-of-cd-and-vinyl-music-sees-strong-resurgence-amid-physical-media-backlash-us-sales-of-retro-media-were-up-59-percent-and-18-percent-respectively-in-h1-2026",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-06T12:16:13+00:00"
+    },
     {
       "titolo": "Acer rispolvera Packard Bell, ma il computer diventa solo un pretesto",
       "descrizione": "BERLINO - Subito prima dell’inizio dell’IFA di Berlino, Acer ha annunciato che il centenario della nascita del marchio Packard Bell sarà l’occasione per rinfrescare la presenza sul mercato di questo...",
@@ -9,16 +23,23 @@
       "data": "2026-09-06T10:54:34+00:00"
     },
     {
-      "titolo": "My Brief Summer Fling With Siri AI",
-      "descrizione": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "fonte": "WIRED",
+      "titolo": "iPhone 17 Pro e Pro Max al minimo su Amazon: l'occasione giusta per acquistare un nuovo iPhone?",
+      "descrizione": "iPhone 17 Pro e Pro Max tornano al minimo storico su Amazon in vista della fine della commercializzazione con il lancio dei nuovi iPhone 18 Pro e Pro Max.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n669451/iphone-17-pro-17-pro-max-offerta-amazon-sett26/",
+      "fonte": "HDblog.it",
       "data": "2026-09-06T10:30:00+00:00"
     },
     {
       "titolo": "These Cyborg Cockroaches Could Save Your Life",
       "descrizione": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
       "link": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "fonte": "WIRED",
+      "data": "2026-09-06T10:30:00+00:00"
+    },
+    {
+      "titolo": "My Brief Summer Fling With Siri AI",
+      "descrizione": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
       "fonte": "WIRED",
       "data": "2026-09-06T10:30:00+00:00"
     },
@@ -147,27 +168,6 @@
       "link": "https://www.hdblog.it/smartphone/offerte/n669436/samsung-galaxy-s26-ultra-offerta-settembre-2026/",
       "fonte": "HDblog.it",
       "data": "2026-09-05T14:10:00+00:00"
-    },
-    {
-      "titolo": "iPhone Ultra, il pieghevole rischia di essere quasi introvabile al lancio",
-      "descrizione": "Apple starebbe producendo solo poche centinaia di unità al giorno.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669406/iphone-ultra-pieghevole-produzione-lenta-apple/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T12:45:00+00:00"
-    },
-    {
-      "titolo": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
-      "descrizione": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-05T12:00:00+00:00"
-    },
-    {
-      "titolo": "Michael Schumacher, Netflix racconta il '94: il nuovo film ripercorre l'inizio del mito",
-      "descrizione": "Netflix prepara “Schumacher 94 - La nascita di una leggenda”, il film dedicato alla stagione del primo titolo mondiale di Michael Schumacher",
-      "link": "https://www.hdmotori.it/michael-schumacher-netflix/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-05T11:00:01+00:00"
     }
   ]
 }
