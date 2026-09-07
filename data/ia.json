@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-07T12:38:50.369923+00:00",
+  "last_updated": "2026-09-07T21:32:51.231535+00:00",
   "items": [
     {
-      "titolo": "Violazione di copyright: altre denunce per OpenAI e Microsoft",
-      "descrizione": "Seattle Times e Newsday hanno denunciato OpenAI e Microsoft per aver addestrato ChatGPT e Copilot con gli articoli dei quotidiani senza compenso. The post Violazione di copyright: altre denunce per OpenAI e Microsoft app",
-      "link": "https://www.punto-informatico.it/violazione-copyright-altre-denunce-openai-microsoft/",
+      "titolo": "Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI",
+      "descrizione": "Sono state presentate altre 30 denunce contro OpenAI, in quanto accusata di negligenza e aver favorito la sparatoria di massa in una scuola canadese. The post Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI appe",
+      "link": "https://www.punto-informatico.it/sparatoria-tumbler-ridge-altre-30-denunce-openai/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T10:12:06+00:00",
+      "data": "2026-09-07T16:35:25+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Samsung porta Gemini e nuove funzioni AI sui frigoriferi Family Hub meno recenti",
-      "descrizione": "Alcuni frigoriferi Samsung Bespoke AI Family Hub venduti tra il 2021 e il 2025 riceveranno AI Vision aggiornata con Google Gemini, capace di riconoscere una gamma più ampia di alimenti e prodotti",
-      "link": "https://www.hdblog.it/samsung/articoli/n669507/samsung-frigo-lavatrici-aggiornamento-gemini-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T09:10:00+00:00",
+      "titolo": "Tre escursionisti si affidano a Gemini e rischiano grosso",
+      "descrizione": "Hanno usato Gemini per pianificare la salita al monte Shasta, ma sono rimasti bloccati dopo aver continuato oltre l'orario consigliato. The post Tre escursionisti si affidano a Gemini e rischiano grosso appeared first on",
+      "link": "https://www.punto-informatico.it/tre-escursionisti-affidano-gemini-rischiano-grosso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-07T13:54:50+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude arriva su CarPlay: ora puoi parlare con l’AI in auto",
-      "descrizione": "Anthropic porta l'AI di Claude su CarPlay: il chatbot può rispondere alle domande in auto, ma non controlla ancora veicolo e iPhone. The post Claude arriva su CarPlay: ora puoi parlare con l’AI in auto appeared first on",
-      "link": "https://www.punto-informatico.it/claude-carplay-parlare-con-ai-auto/",
+      "titolo": "Claude Fable 5.1: un prompt per capire cosa lo rende diverso",
+      "descrizione": "Claude Fable 5.1 di Anthropic non è un chatbot più veloce, è un sistema progettato per lavorare in autonomia su compiti lunghi e complessi. The post Claude Fable 5.1: un prompt per capire cosa lo rende diverso appeared f",
+      "link": "https://www.punto-informatico.it/claude-fable-5-1-prompt-capire-cosa-lo-rende-diverso/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T06:37:09+00:00",
+      "data": "2026-09-07T15:30:31+00:00",
       "modello": "claude"
     }
   ]
