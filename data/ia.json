@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-09-07T04:46:30.354715+00:00",
+  "last_updated": "2026-09-07T12:38:50.369923+00:00",
   "items": [
     {
-      "titolo": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments",
-      "descrizione": "OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-06T14:31:54+00:00",
+      "titolo": "Violazione di copyright: altre denunce per OpenAI e Microsoft",
+      "descrizione": "Seattle Times e Newsday hanno denunciato OpenAI e Microsoft per aver addestrato ChatGPT e Copilot con gli articoli dei quotidiani senza compenso. The post Violazione di copyright: altre denunce per OpenAI e Microsoft app",
+      "link": "https://www.punto-informatico.it/violazione-copyright-altre-denunce-openai-microsoft/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-07T10:12:06+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
-      "descrizione": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes",
-      "link": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-05T17:18:57+00:00",
+      "titolo": "Violazione di copyright: altre denunce per OpenAI e Microsoft",
+      "descrizione": "Seattle Times e Newsday hanno denunciato OpenAI e Microsoft per aver addestrato ChatGPT e Copilot con gli articoli dei quotidiani senza compenso. The post Violazione di copyright: altre denunce per OpenAI e Microsoft app",
+      "link": "https://www.punto-informatico.it/violazione-copyright-altre-denunce-openai-microsoft/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-07T10:12:06+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini legge le email di Gmail? Ecco come impedirlo",
-      "descrizione": "Google può usare i dati di Gmail per le funzionalità di Gemini. Ecco tutte le impostazioni da disattivare per proteggere le email. The post Gemini legge le email di Gmail? Ecco come impedirlo appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/gemini-legge-email-gmail-come-impedirlo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-04T17:33:49+00:00",
+      "titolo": "Samsung porta Gemini e nuove funzioni AI sui frigoriferi Family Hub meno recenti",
+      "descrizione": "Alcuni frigoriferi Samsung Bespoke AI Family Hub venduti tra il 2021 e il 2025 riceveranno AI Vision aggiornata con Google Gemini, capace di riconoscere una gamma più ampia di alimenti e prodotti",
+      "link": "https://www.hdblog.it/samsung/articoli/n669507/samsung-frigo-lavatrici-aggiornamento-gemini-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-07T09:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "GPT-6 Astra, OpenAI vede l’AGI più vicina. E sfida Anthropic sugli agenti",
-      "descrizione": "OpenAI ha rilasciato il modello GPT_6 Astra. Il presidente Greg Brockman lo ha definito un “«salto generazionale» parlando esplicitamente di ingresso nell’era dell’intelligenza artificiale generale. L’AGI, l’intelligenza",
-      "link": "https://www.ilsole24ore.com/art/gpt-6-astra-openai-vede-l-agi-piu-vicina-e-sfida-anthropic-agenti-AJn6QG3",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-04T06:28:00+00:00",
+      "titolo": "Claude arriva su CarPlay: ora puoi parlare con l’AI in auto",
+      "descrizione": "Anthropic porta l'AI di Claude su CarPlay: il chatbot può rispondere alle domande in auto, ma non controlla ancora veicolo e iPhone. The post Claude arriva su CarPlay: ora puoi parlare con l’AI in auto appeared first on",
+      "link": "https://www.punto-informatico.it/claude-carplay-parlare-con-ai-auto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-07T06:37:09+00:00",
       "modello": "claude"
     }
   ]
