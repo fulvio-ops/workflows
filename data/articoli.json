@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-09-08T16:40:35.942480+00:00",
+  "last_updated": "2026-09-08T21:11:57.248453+00:00",
   "items": [
+    {
+      "titolo": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+      "descrizione": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
+      "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+      "fonte": "WIRED",
+      "data": "2026-09-08T18:13:26+00:00"
+    },
+    {
+      "titolo": "Doom gira anche sul... modello completo del cervello di un moscerino?!",
+      "descrizione": "Google annuncia una scoperta scientifica potenzialmente rivoluzionaria... e questa è la priorità della community!",
+      "link": "https://www.hdblog.it/games/articoli/n669753/doom-cervello-moscerino-connettoma-mappa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T18:05:00+00:00"
+    },
+    {
+      "titolo": "Oppo A7 Pro è ufficiale in Cina con una super batteria",
+      "descrizione": "Non come quella del Pro Max, ma comunque impressionante.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669746/oppo-a7-pro-8000-mah-specifiche-prezzo-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:55:00+00:00"
+    },
+    {
+      "titolo": "Schede video gaming, ottimo periodo per AMD ai danni di NVIDIA, ma durerà?",
+      "descrizione": "Nelle ultime settimane la casa di Sunnyvale sembra battere l'eterna rivale, ma resta da capire se riuscirà a mantenere il ritmo o se si è trattato solo di un excursus.",
+      "link": "https://www.hdblog.it/hardware/articoli/n669747/mercato-schede-video-gaming-amd-recupero-nvidia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:35:00+00:00"
+    },
+    {
+      "titolo": "Mazda MX-5, il mito non tramonta: nuova serie speciale Yakudo",
+      "descrizione": "Mazda MX-5 si aggiorna per il 2027 con motore 1.5 da 136 CV, nuova serie speciale Yakudo e colore Zinc Green. Debutto italiano al Salone Auto Torino",
+      "link": "https://www.hdmotori.it/mazda-mx-5-serie-speciale-yakudo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:30:36+00:00"
+    },
+    {
+      "titolo": "Niente DLSS 5 ufficiale sulle RTX più vecchie? Ci pensa la community",
+      "descrizione": "Multi Frame Gen per tutti... con l'aiuto degli algoritmi di AMD.",
+      "link": "https://www.hdblog.it/hardware/articoli/n669744/dlss-5-mod-ufficiosa-rtx-20-30-40-mfg/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:25:00+00:00"
+    },
+    {
+      "titolo": "Apple, senti CXMT: \"Sulle RAM siamo pronti a collaborazioni di primo piano\"",
+      "descrizione": "CXMT potrebbe entrare nella supply chain Apple grazie ai progressi nelle memorie LPDDR5X e LPDDR6, offrendo al gruppo di Cupertino un’ulteriore alternativa a Samsung, SK Hynix e Micron",
+      "link": "https://www.hdblog.it/apple/articoli/n669741/apple-ram-cinesi-iphone-cxmt-interesse-va-avanti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:15:00+00:00"
+    },
+    {
+      "titolo": "MediaTek Dimensity 9600 e 9600 Pro, ecco la data di presentazione",
+      "descrizione": "Appuntamento il 15 settembre!",
+      "link": "https://www.hdblog.it/hardware/articoli/n669739/mediatek-dimensity-9600-presentazione-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:05:00+00:00"
+    },
+    {
+      "titolo": "Nuova Citroen 2CV, in arrivo l'elettrica da città economica e \"italiana\"",
+      "descrizione": "Al Salone di Parigi 2026 sarà svelato il concept dell'iconica utilitaria: sarà elettrica, essenziale, prodotta a Pomigliano e con un prezzo di listino attorno ai 15.000 euro",
+      "link": "https://www.hdmotori.it/nuova-citroen-2cv-salone-parigi-2026-prezzo-uscita/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T17:00:03+00:00"
+    },
+    {
+      "titolo": "Amazon acquisterà chip di Qualcomm per 60 miliardi di dollari",
+      "descrizione": "Amazon acquisterà i chip di Qualcomm, tra cui le CPU Dragonfly C1000 per l'inferenza, nei prossimi 20 anni per potenziare l'infrastruttura AI. The post Amazon acquisterà chip di Qualcomm per 60 miliardi di dollari appear",
+      "link": "https://www.punto-informatico.it/amazon-acquistera-chip-qualcomm-60-miliardi-dollari/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T16:57:25+00:00"
+    },
+    {
+      "titolo": "Google Chrome aumenta il ritmo: update ogni due settimane per sicurezza e AI",
+      "descrizione": "Il cambiamento inizia con Chrome 153.",
+      "link": "https://www.hdblog.it/google/articoli/n669731/google-chrome-aggiornamenti-due-settimane/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T16:55:00+00:00"
+    },
+    {
+      "titolo": "Apple compra Sonera: in arrivo dispositivi che si controllano con il pensiero?",
+      "descrizione": "Apple ha acquisito una startup specializzata in sensori magnetici non invasivi capaci di rilevare l'attività cerebrale e muscolare, aprendo la strada a nuove funzioni di salute su Apple Watch e a un...",
+      "link": "https://www.hdblog.it/apple/articoli/n669737/apple-acquisizione-sonera-controllo-mente/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T16:50:00+00:00"
+    },
     {
       "titolo": "Google crea l’atlante delle mutazioni del DNA umano",
       "descrizione": "Google usa l’AI per prevedere gli effetti di 9 miliardi di possibili mutazioni del DNA.",
@@ -37,41 +121,6 @@
       "data": "2026-09-08T15:47:39+00:00"
     },
     {
-      "titolo": "Quattro reattori SMR rilanciano il nucleare in Svezia",
-      "descrizione": "Quattro reattori BWRX-300 potrebbero portare 1,2 GW di nuovo nucleare in Svezia.",
-      "link": "https://www.hdblog.it/green/articoli/n669624/svezia-bwrx-300-quattro-reattori-smr/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T15:45:00+00:00"
-    },
-    {
-      "titolo": "Tineco a IFA 2026: vapore e pulizia smart per una casa senza sforzi",
-      "descrizione": "A Berlino arrivano FLOOR ONE S11 Artist Fusion Steam, FLOOR ONE S9 Artist Boost Steam e PURE ONE STATION 7 ZeroTouch.",
-      "link": "https://www.hdblog.it/home/articoli/n668451/tineco-novita-pulizia-casa-smart-ifa-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T15:34:00+00:00"
-    },
-    {
-      "titolo": "Aston Martin nei guai, cosa accadrà dopo la perdita del 99% del suo valore?",
-      "descrizione": "La Casa automobilistica di lusso Aston Martin ha subito un preoccupante declassamento sui mercati finanziari",
-      "link": "https://www.hdmotori.it/aston-martin-perdita-99-valore/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T15:30:01+00:00"
-    },
-    {
-      "titolo": "CO2 negli abissi dei fiordi norvegesi: al via il mega impianto per la cattura del carbonio",
-      "descrizione": "Meno anidride carbonica e più ammoniaca a basso impatto da utilizzare per i trasporti.",
-      "link": "https://www.hdblog.it/green/articoli/n669716/co2-cattura-stoccaggio-mega-impianto-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T15:15:00+00:00"
-    },
-    {
-      "titolo": "Volkswagen ID. Polo: ordinabile in Italia la gamma completa da 24.900 euro",
-      "descrizione": "Al via le vendite della Volkswagen ID. Polo. Motori da 37 e 52 kWh, allestimenti Trend, Life e Style, dotazioni di serie e listino prezzi",
-      "link": "https://www.hdmotori.it/volkswagen-id-polo-prezzi-allestimenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T15:00:40+00:00"
-    },
-    {
       "titolo": "iPhone pieghevole: sviluppo durato quasi 10 anni",
       "descrizione": "Lo sviluppo dell'iPhone pieghevole è iniziato quando Tim Cook ha suggerito il design e gli ingegneri hanno trovato le soluzioni alle sfide tecnologiche. The post iPhone pieghevole: sviluppo durato quasi 10 anni appeared",
       "link": "https://www.punto-informatico.it/iphone-pieghevole-sviluppo-durato-quasi-10-anni/",
@@ -79,39 +128,11 @@
       "data": "2026-09-08T14:55:34+00:00"
     },
     {
-      "titolo": "Webb osserva una rarità: un Centauro sta diventando una cometa",
-      "descrizione": "Webb osserva 450P/LONEOS mentre passa da corpo ghiacciato inattivo a cometa.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n669655/450p-loneos-nascita-cometa-james-webb/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T14:50:00+00:00"
-    },
-    {
-      "titolo": "Oltre 90 sport e autonomia fino a 16 giorni: sconto del 37% sul Garmin fenix E",
-      "descrizione": "Lo sportwatch Garmin fenix E con 16 giorni di autonomia e oltre 90 app per lo sport è scontato di oltre 200€ su Amazon.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n669718/smartwatch-garmin-fenix-e-sconto-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T14:44:00+00:00"
-    },
-    {
       "titolo": "Tec raccoglie 450 milioni di dollari nel finanziamento record per una società spaziale europea",
       "descrizione": "450 milioni di dollari in un solo round: è la cifra che The Exploration Company (Tec), società spaziale europea fondata nel 2021 da Hélène Huby, ha annunciato oggi, martedì 8...",
       "link": "https://www.ilsole24ore.com/art/tec-raccoglie-450-milioni-dollari-finanziamento-record-una-societa-spaziale-europea-AJLgad6",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-08T14:10:09+00:00"
-    },
-    {
-      "titolo": "iPhone Ultra può cambiare il mercato dei pieghevoli: Apple punta al 25% già nel 2026",
-      "descrizione": "Per gli analisti Apple entrerà dalla porta principale.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669710/iphone-ultra-mercato-pieghevoli-previsioni-apple/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T14:05:00+00:00"
-    },
-    {
-      "titolo": "Limitazioni alle targhe polacche, la nuova misura rischia di essere un flop",
-      "descrizione": "Dopo il boom delle targhe polacche si sta cercando di trovare una soluzione. L’ammissione di un broker assicurativo non lascia molto speranze",
-      "link": "https://www.hdmotori.it/limitazioni-targhe-polacche-nuova-misura-flop/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T14:00:27+00:00"
     },
     {
       "titolo": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
@@ -147,27 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-azienda-l-italia-resta-indietro-solo-12percento-manager-si-dice-pronto-AJ31af6",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-08T12:07:00+00:00"
-    },
-    {
-      "titolo": "NEC has quietly quit quantum computing hardware development, report claims — company says it will continue to evaluate practical applications and industrialization of quantum technologies",
-      "descrizione": "NEC reportedly quits development of quantum computers, but plans to explore practical applications for such systems.",
-      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T11:45:00+00:00"
-    },
-    {
-      "titolo": "Spectrum è il primo razzo commerciale europeo in orbita",
-      "descrizione": "Isar Aerospace ha effettuato con successo il lancio di Spectrum, primo razzo commerciale europeo a raggiungere l'orbita terrestre bassa. The post Spectrum è il primo razzo commerciale europeo in orbita appeared first on",
-      "link": "https://www.punto-informatico.it/spectrum-primo-razzo-commerciale-europeo-orbita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-08T11:17:10+00:00"
-    },
-    {
-      "titolo": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
-      "descrizione": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64.",
-      "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T11:06:26+00:00"
     }
   ]
 }
