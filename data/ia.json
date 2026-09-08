@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-08T11:23:05.343286+00:00",
+  "last_updated": "2026-09-08T16:40:45.672157+00:00",
   "items": [
     {
-      "titolo": "GPT-6 Astra arriva su ChatGPT Plus, cosa può fare il modello",
-      "descrizione": "GPT-6 Astra debutta per alcuni abbonati ChatGPT Plus, ma resta escluso dalla chat classica. Ecco dove usarlo e cosa può fare. The post GPT-6 Astra arriva su ChatGPT Plus, cosa può fare il modello appeared first on Punto",
-      "link": "https://www.punto-informatico.it/gpt-6-astra-arriva-chatgpt-plus-cosa-puo-fare-modello/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-08T10:26:59+00:00",
+      "titolo": "Nuova Dacia Spring, la piccola elettrica si rinnova: 250 km di autonomia a 17.900 euro",
+      "descrizione": "Nuova Dacia Spring cambia piattaforma e cresce: motore da 80 CV, 250 km WLTP, ricarica rapida in 28 minuti e prezzi da 17.900 euro",
+      "link": "https://www.hdmotori.it/nuova-dacia-spring-autonomia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T16:00:36+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,28 @@
       "modello": "copilot"
     },
     {
-      "titolo": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-      "descrizione": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
-      "link": "https://www.wired.com/story/best-smart-speakers/",
-      "fonte": "WIRED",
-      "data": "2026-09-08T10:35:00+00:00",
+      "titolo": "I 10 lavori più a rischio secondo ChatGPT, Gemini e Claude",
+      "descrizione": "I principali chatbot AI hanno classificato i dieci lavori più vulnerabili, e concordano su uno in modo unanime. The post I 10 lavori più a rischio secondo ChatGPT, Gemini e Claude appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/10-lavori-piu-rischio-secondo-chatgpt-gemini-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T15:30:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Logitech MX Keypad porta i comandi AI sulla scrivania",
-      "descrizione": "Il nuovo Logitech MX Keypad nasce per i programmatori: tasti personalizzabili, plugin AI e integrazioni con GitHub Copilot e Claude Code. The post Logitech MX Keypad porta i comandi AI sulla scrivania appeared first on P",
-      "link": "https://www.punto-informatico.it/logitech-mx-keypad/",
+      "titolo": "I 10 lavori più a rischio secondo ChatGPT, Gemini e Claude",
+      "descrizione": "I principali chatbot AI hanno classificato i dieci lavori più vulnerabili, e concordano su uno in modo unanime. The post I 10 lavori più a rischio secondo ChatGPT, Gemini e Claude appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/10-lavori-piu-rischio-secondo-chatgpt-gemini-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-08T10:02:20+00:00",
+      "data": "2026-09-08T15:30:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+      "descrizione": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T13:30:02+00:00",
+      "modello": "altri"
     }
   ]
 }

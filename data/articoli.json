@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-08T11:23:00.973189+00:00",
+  "last_updated": "2026-09-08T16:40:35.942480+00:00",
   "items": [
+    {
+      "titolo": "Google crea l’atlante delle mutazioni del DNA umano",
+      "descrizione": "Google usa l’AI per prevedere gli effetti di 9 miliardi di possibili mutazioni del DNA.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669723/google-alphagenome-atlas-mutazioni-dna/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T16:40:00+00:00"
+    },
+    {
+      "titolo": "Google Messaggi, il bug dei vecchi SMS non è ancora risolto",
+      "descrizione": "Il bug di Google Messaggi continua a colpire alcuni utenti. Vecchi SMS si inseriscono nelle chat e possono partire verso destinatari sbagliati. The post Google Messaggi, il bug dei vecchi SMS non è ancora risolto appeare",
+      "link": "https://www.punto-informatico.it/google-messaggi-bug-vecchi-sms-non-e-ancora-risolto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T16:39:30+00:00"
+    },
+    {
+      "titolo": "Nuova Dacia Spring, la piccola elettrica si rinnova: 250 km di autonomia a 17.900 euro",
+      "descrizione": "Nuova Dacia Spring cambia piattaforma e cresce: motore da 80 CV, 250 km WLTP, ricarica rapida in 28 minuti e prezzi da 17.900 euro",
+      "link": "https://www.hdmotori.it/nuova-dacia-spring-autonomia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T16:00:36+00:00"
+    },
+    {
+      "titolo": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "descrizione": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
+      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "fonte": "WIRED",
+      "data": "2026-09-08T16:00:00+00:00"
+    },
+    {
+      "titolo": "HUAWEI WATCH GT 7 e GT 7 Pro disponibili in Italia",
+      "descrizione": "HUAWEI ha portato in Italia i nuovi WATCH GT 7 e WATCH GT 7 Pro con schermo AMOLED e specifiche funzionalità per sci, ciclismo, immersioni e golf. The post HUAWEI WATCH GT 7 e GT 7 Pro disponibili in Italia appeared firs",
+      "link": "https://www.punto-informatico.it/huawei-watch-gt-7-gt-7-pro-disponibili-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T15:47:39+00:00"
+    },
+    {
+      "titolo": "Quattro reattori SMR rilanciano il nucleare in Svezia",
+      "descrizione": "Quattro reattori BWRX-300 potrebbero portare 1,2 GW di nuovo nucleare in Svezia.",
+      "link": "https://www.hdblog.it/green/articoli/n669624/svezia-bwrx-300-quattro-reattori-smr/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T15:45:00+00:00"
+    },
+    {
+      "titolo": "Tineco a IFA 2026: vapore e pulizia smart per una casa senza sforzi",
+      "descrizione": "A Berlino arrivano FLOOR ONE S11 Artist Fusion Steam, FLOOR ONE S9 Artist Boost Steam e PURE ONE STATION 7 ZeroTouch.",
+      "link": "https://www.hdblog.it/home/articoli/n668451/tineco-novita-pulizia-casa-smart-ifa-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T15:34:00+00:00"
+    },
+    {
+      "titolo": "Aston Martin nei guai, cosa accadrà dopo la perdita del 99% del suo valore?",
+      "descrizione": "La Casa automobilistica di lusso Aston Martin ha subito un preoccupante declassamento sui mercati finanziari",
+      "link": "https://www.hdmotori.it/aston-martin-perdita-99-valore/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T15:30:01+00:00"
+    },
+    {
+      "titolo": "CO2 negli abissi dei fiordi norvegesi: al via il mega impianto per la cattura del carbonio",
+      "descrizione": "Meno anidride carbonica e più ammoniaca a basso impatto da utilizzare per i trasporti.",
+      "link": "https://www.hdblog.it/green/articoli/n669716/co2-cattura-stoccaggio-mega-impianto-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T15:15:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID. Polo: ordinabile in Italia la gamma completa da 24.900 euro",
+      "descrizione": "Al via le vendite della Volkswagen ID. Polo. Motori da 37 e 52 kWh, allestimenti Trend, Life e Style, dotazioni di serie e listino prezzi",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-prezzi-allestimenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T15:00:40+00:00"
+    },
+    {
+      "titolo": "iPhone pieghevole: sviluppo durato quasi 10 anni",
+      "descrizione": "Lo sviluppo dell'iPhone pieghevole è iniziato quando Tim Cook ha suggerito il design e gli ingegneri hanno trovato le soluzioni alle sfide tecnologiche. The post iPhone pieghevole: sviluppo durato quasi 10 anni appeared",
+      "link": "https://www.punto-informatico.it/iphone-pieghevole-sviluppo-durato-quasi-10-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T14:55:34+00:00"
+    },
+    {
+      "titolo": "Webb osserva una rarità: un Centauro sta diventando una cometa",
+      "descrizione": "Webb osserva 450P/LONEOS mentre passa da corpo ghiacciato inattivo a cometa.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n669655/450p-loneos-nascita-cometa-james-webb/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T14:50:00+00:00"
+    },
+    {
+      "titolo": "Oltre 90 sport e autonomia fino a 16 giorni: sconto del 37% sul Garmin fenix E",
+      "descrizione": "Lo sportwatch Garmin fenix E con 16 giorni di autonomia e oltre 90 app per lo sport è scontato di oltre 200€ su Amazon.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n669718/smartwatch-garmin-fenix-e-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T14:44:00+00:00"
+    },
+    {
+      "titolo": "Tec raccoglie 450 milioni di dollari nel finanziamento record per una società spaziale europea",
+      "descrizione": "450 milioni di dollari in un solo round: è la cifra che The Exploration Company (Tec), società spaziale europea fondata nel 2021 da Hélène Huby, ha annunciato oggi, martedì 8...",
+      "link": "https://www.ilsole24ore.com/art/tec-raccoglie-450-milioni-dollari-finanziamento-record-una-societa-spaziale-europea-AJLgad6",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-08T14:10:09+00:00"
+    },
+    {
+      "titolo": "iPhone Ultra può cambiare il mercato dei pieghevoli: Apple punta al 25% già nel 2026",
+      "descrizione": "Per gli analisti Apple entrerà dalla porta principale.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669710/iphone-ultra-mercato-pieghevoli-previsioni-apple/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T14:05:00+00:00"
+    },
+    {
+      "titolo": "Limitazioni alle targhe polacche, la nuova misura rischia di essere un flop",
+      "descrizione": "Dopo il boom delle targhe polacche si sta cercando di trovare una soluzione. L’ammissione di un broker assicurativo non lascia molto speranze",
+      "link": "https://www.hdmotori.it/limitazioni-targhe-polacche-nuova-misura-flop/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T14:00:27+00:00"
+    },
+    {
+      "titolo": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+      "descrizione": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
+      "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+      "fonte": "WIRED",
+      "data": "2026-09-08T14:00:00+00:00"
+    },
+    {
+      "titolo": "Smartwatch elegante e pronto a tutto: HUAWEI WATCH GT 7 è in offerta",
+      "descrizione": "Il HUAWEI WATCH GT 7 è uno smartwatch elegantissimo, con 21 giorni di autonomia e applicazioni per lo sport professionali. The post Smartwatch elegante e pronto a tutto: HUAWEI WATCH GT 7 è in offerta appeared first on P",
+      "link": "https://www.punto-informatico.it/smartwatch-elegante-pronto-tutto-huawei-watch-gt-7-offerta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T13:28:50+00:00"
+    },
+    {
+      "titolo": "Estensioni per Chrome rubano dati e criptovalute",
+      "descrizione": "Sul Chrome Web Store erano presenti estensioni che, dopo il primo aggiornamento, iniziavano a rubare dati dal browser e criptovalute dai wallet. The post Estensioni per Chrome rubano dati e criptovalute appeared first on",
+      "link": "https://www.punto-informatico.it/estensioni-chrome-rubano-dati-criptovalute/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T12:49:38+00:00"
+    },
+    {
+      "titolo": "Google dice di aver peggiorato il motore di ricerca in Europa",
+      "descrizione": "Il DMA impone nuove modifiche alla ricerca su Google in Europa: l'azienda californiana conferma il peggioramento del proprio servizio. The post Google dice di aver peggiorato il motore di ricerca in Europa appeared first",
+      "link": "https://www.punto-informatico.it/google-peggiorato-motore-ricerca-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-08T12:27:00+00:00"
+    },
+    {
+      "titolo": "Intelligenza artificiale in azienda, l’Italia resta indietro: solo il 12% dei manager si dice pronto",
+      "descrizione": "Un’indagine di The Adecco Group su 2.000 dirigenti in 13 Paesi colloca l’Italia all’ultimo posto per fiducia nelle proprie competenze di adattamento all’Ai contro il 79% dei lavoratori italiani che si dichiara pronto al",
+      "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-azienda-l-italia-resta-indietro-solo-12percento-manager-si-dice-pronto-AJ31af6",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-08T12:07:00+00:00"
+    },
+    {
+      "titolo": "NEC has quietly quit quantum computing hardware development, report claims — company says it will continue to evaluate practical applications and industrialization of quantum technologies",
+      "descrizione": "NEC reportedly quits development of quantum computers, but plans to explore practical applications for such systems.",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T11:45:00+00:00"
+    },
     {
       "titolo": "Spectrum è il primo razzo commerciale europeo in orbita",
       "descrizione": "Isar Aerospace ha effettuato con successo il lancio di Spectrum, primo razzo commerciale europeo a raggiungere l'orbita terrestre bassa. The post Spectrum è il primo razzo commerciale europeo in orbita appeared first on",
@@ -9,165 +163,11 @@
       "data": "2026-09-08T11:17:10+00:00"
     },
     {
-      "titolo": "La Svizzera vuole liberarsi di Microsoft 365? Parte un test su 3mila dipendenti",
-      "descrizione": "La Svizzera avvia un test su circa 3mila dipendenti federali con openDesk, una suite open source che affiancherà Microsoft 365 per valutare sovranità digitale, affidabilità e sostenibilità",
-      "link": "https://www.hdblog.it/microsoft/articoli/n669683/svizzera-test-addio-microsoft-software-open-source/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T11:15:00+00:00"
-    },
-    {
-      "titolo": "Apple, una società del gruppo BASF fa causa per brevetti su Face ID",
-      "descrizione": "I brevetti riguardano una tecnologia che permette di distinguere la pelle umana dai materiali usati per riprodurre un volto",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669685/apple-gruppo-basf-causa-face-id/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T11:10:00+00:00"
-    },
-    {
       "titolo": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
       "descrizione": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64.",
       "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-08T11:06:26+00:00"
-    },
-    {
-      "titolo": "One UI 9 ha una funzione molto utile per chi fa chiamate internazionali",
-      "descrizione": "Un widget indica l'ora locale del destinatario.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669681/one-ui-9-fuso-orario-telefonata-destinatario/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T11:05:00+00:00"
-    },
-    {
-      "titolo": "Stop ai diesel Euro 5 nel Nord Italia: chi rischia di fermarsi dal 1° ottobre",
-      "descrizione": "Dal 1° ottobre 2026 tornano i divieti per i diesel Euro 5 nel Bacino Padano. Guida a regole, deroghe e misure alternative in Lombardia, Piemonte, Veneto ed Emilia",
-      "link": "https://www.hdmotori.it/blocco-diesel-euro-5-2026-regioni-nord-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T11:00:09+00:00"
-    },
-    {
-      "titolo": "Nebulosa Pellicano, la fabbrica di stelle che cambia forma",
-      "descrizione": "Gas, polveri e giovani stelle stanno lentamente ridisegnando la Nebulosa Pellicano.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n669651/nebulosa-pellicano-formazione-stelle/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:55:00+00:00"
-    },
-    {
-      "titolo": "Tutti vogliono Xiaomi 18 Fold: prevendite alle stelle e successo assicurato",
-      "descrizione": "Boom di preordini per il nuovo Xiaomi 18 Fold: un pieghevole che sta già conquistando il pubblico cinese.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669653/xiaomi-18-fold-molto-richiesto/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:45:00+00:00"
-    },
-    {
-      "titolo": "Un orologio da nerd con ESP32: mostra ora, giochi retro e statistiche del PC",
-      "descrizione": "Il progetto include anche un visualizzatore musicale a 32 bande: il software analizza l’audio riprodotto dal computer e invia lo spettro all’ESP32 per mostrarlo in tempo reale sui pannelli LED",
-      "link": "https://www.hdblog.it/home/articoli/n669678/orologio-pixel-open-source-esp32-cosa-fa/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:40:00+00:00"
-    },
-    {
-      "titolo": "Truffe nella telefonia, oltre 3 milioni di italiani coinvolti: pochi denunciano",
-      "descrizione": "I finti call center sono stati il canale più utilizzato",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669679/truffe-nella-telefonia-3-milioni-italiani/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:25:00+00:00"
-    },
-    {
-      "titolo": "OpenAI consiglia di rallentare lo sviluppo dei modelli AI",
-      "descrizione": "Dato che i modelli AI diventano sempre più potenti e aumentano le difficoltà di controllo, OpenAI suggerisce un rallentamento del loro sviluppo. The post OpenAI consiglia di rallentare lo sviluppo dei modelli AI appeared",
-      "link": "https://www.punto-informatico.it/openai-consiglia-rallentare-sviluppo-modelli-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-08T10:21:14+00:00"
-    },
-    {
-      "titolo": "Cellularline, dai caricabatterie universali agli occhiali smart: tutte le novità di IFA",
-      "descrizione": "Soluzioni per viaggiare e tenere in ordine la scrivania.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669666/cellularline-novita-ifa-2026-ricarica-custodie/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:15:00+00:00"
-    },
-    {
-      "titolo": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
-      "descrizione": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
-      "link": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T10:15:00+00:00"
-    },
-    {
-      "titolo": "Due effetti luminosi nello stesso punto: Govee rinnova le sue luci permanenti",
-      "descrizione": "Govee Permanent Outdoor Lights 2 Pro è disponibile negli Stati Uniti nelle versioni da 30 e 60 metri a 499,99 e 799,99 dollari. Per il momento non è stata annunciata la disponibilità in Italia",
-      "link": "https://www.hdblog.it/home/articoli/n669672/govee-luci-esterne-casa-permanenti-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:10:00+00:00"
-    },
-    {
-      "titolo": "Realme 16 Pro, edizione speciale dedicata a Harry Potter in arrivo",
-      "descrizione": "Probabilmente si tratterà di una personalizzazione estetica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669485/realme-16-pro-harry-potter-edizione-limitata/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:05:00+00:00"
-    },
-    {
-      "titolo": "Logitech MX Keypad porta i comandi AI sulla scrivania",
-      "descrizione": "Il nuovo Logitech MX Keypad nasce per i programmatori: tasti personalizzabili, plugin AI e integrazioni con GitHub Copilot e Claude Code. The post Logitech MX Keypad porta i comandi AI sulla scrivania appeared first on P",
-      "link": "https://www.punto-informatico.it/logitech-mx-keypad/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-08T10:02:20+00:00"
-    },
-    {
-      "titolo": "L'Audi da 1.001 CV svelata in Italia: è l'auto più potente nella storia del marchio",
-      "descrizione": "L'Audi Nuvolari ufficialmente ha mostrato i muscoli in un luogo di culto, a Mantova nella terra natia di Tazio Nuvolari",
-      "link": "https://www.hdmotori.it/audi-nuvolari-storia-tecnologia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T10:00:51+00:00"
-    },
-    {
-      "titolo": "Tech enthusiast finds $12,000 stack of RAM in their garage — work let them keep an old server stuffed with 1,920GB of DDR4",
-      "descrizione": "A computing enthusiast found a fat stack of DDR4 RAM sticks that might be worth $10,000 in their garage.",
-      "link": "https://www.tomshardware.com/pc-components/ddr4/tech-enthusiast-finds-usd12-000-stack-of-ram-in-their-garage-work-let-them-keep-an-old-server-stuffed-with-1-920gb-of-ddr4",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T10:00:00+00:00"
-    },
-    {
-      "titolo": "Sony precisa un grosso malinteso sulla questione dei dischi fisici",
-      "descrizione": "Un dirigente della divisione che si occupa della produzione fisica dei dischi aveva detto che entro il 2028 ci sarebbe stato un calo \"al\" 10% rispetto a oggi, ma ha sbagliato preposizione: voleva...",
-      "link": "https://www.hdblog.it/sony/articoli/n669674/sony-playstation-dischi-dadc-equivoco-proiezioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T09:55:00+00:00"
-    },
-    {
-      "titolo": "Cambia il cestino di Google Foto, hai solo 30 giorni per recuperare immagini e video",
-      "descrizione": "Il cestino di Google Foto elimina definitivamente foto e video dopo 30 giorni, senza distinguere tra contenuti sottoposti a backup e non.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n669659/cambia-cestino-google-foto-30-giorni-recuperare/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T09:50:00+00:00"
-    },
-    {
-      "titolo": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
-      "descrizione": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chip",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T09:50:00+00:00"
-    },
-    {
-      "titolo": "MediaTek Helio G99+ ufficiale: un refresh pensato per smartphone economici",
-      "descrizione": "MediaTek cerca di proporre nuove soluzioni per la fascia bassa",
-      "link": "https://www.hdblog.it/hardware/articoli/n669637/mediatek-helio-g99-plus-specifiche-dettagli/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T09:40:00+00:00"
-    },
-    {
-      "titolo": "Ottocast OttoSafe Cam CA560, la dashcam che uso: perché la consiglio",
-      "descrizione": "Quella con Ottocast OttoSafe Cam CA560 è stata, per me, un'esperienza un po' diversa dal solito. Non perché si tratti della prima dashcam che abbia mai catturato la mia...",
-      "link": "https://www.hdblog.it/indossabili/consigli/n669379/ottocast-ottosafe-cam-ca560-prova/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-08T09:35:00+00:00"
-    },
-    {
-      "titolo": "Arm Mali G2 Ultra-NX: GPU mobile con grafica AI",
-      "descrizione": "Arm ha svelato la piattaforma CSS for Mobile 2 con la nuova GPU Mali G2-Ultra NX che integra un acceleratore AI per le tecnologie neurali. The post Arm Mali G2 Ultra-NX: GPU mobile con grafica AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/arm-mali-g2-ultra-nx-gpu-mobile-grafica-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-08T09:28:32+00:00"
     }
   ]
 }
