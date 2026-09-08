@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-09-08T04:41:32.585766+00:00",
+  "last_updated": "2026-09-08T11:23:05.343286+00:00",
   "items": [
     {
-      "titolo": "Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI",
-      "descrizione": "Sono state presentate altre 30 denunce contro OpenAI, in quanto accusata di negligenza e aver favorito la sparatoria di massa in una scuola canadese. The post Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI appe",
-      "link": "https://www.punto-informatico.it/sparatoria-tumbler-ridge-altre-30-denunce-openai/",
+      "titolo": "GPT-6 Astra arriva su ChatGPT Plus, cosa può fare il modello",
+      "descrizione": "GPT-6 Astra debutta per alcuni abbonati ChatGPT Plus, ma resta escluso dalla chat classica. Ecco dove usarlo e cosa può fare. The post GPT-6 Astra arriva su ChatGPT Plus, cosa può fare il modello appeared first on Punto",
+      "link": "https://www.punto-informatico.it/gpt-6-astra-arriva-chatgpt-plus-cosa-puo-fare-modello/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T16:35:25+00:00",
+      "data": "2026-09-08T10:26:59+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Violazione di copyright: altre denunce per OpenAI e Microsoft",
-      "descrizione": "Seattle Times e Newsday hanno denunciato OpenAI e Microsoft per aver addestrato ChatGPT e Copilot con gli articoli dei quotidiani senza compenso. The post Violazione di copyright: altre denunce per OpenAI e Microsoft app",
-      "link": "https://www.punto-informatico.it/violazione-copyright-altre-denunce-openai-microsoft/",
+      "titolo": "Logitech MX Keypad porta i comandi AI sulla scrivania",
+      "descrizione": "Il nuovo Logitech MX Keypad nasce per i programmatori: tasti personalizzabili, plugin AI e integrazioni con GitHub Copilot e Claude Code. The post Logitech MX Keypad porta i comandi AI sulla scrivania appeared first on P",
+      "link": "https://www.punto-informatico.it/logitech-mx-keypad/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T10:12:06+00:00",
+      "data": "2026-09-08T10:02:20+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Tre escursionisti si affidano a Gemini e rischiano grosso",
-      "descrizione": "Hanno usato Gemini per pianificare la salita al monte Shasta, ma sono rimasti bloccati dopo aver continuato oltre l'orario consigliato. The post Tre escursionisti si affidano a Gemini e rischiano grosso appeared first on",
-      "link": "https://www.punto-informatico.it/tre-escursionisti-affidano-gemini-rischiano-grosso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-07T13:54:50+00:00",
+      "titolo": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "descrizione": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "link": "https://www.wired.com/story/best-smart-speakers/",
+      "fonte": "WIRED",
+      "data": "2026-09-08T10:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Fable 5.1: un prompt per capire cosa lo rende diverso",
-      "descrizione": "Claude Fable 5.1 di Anthropic non è un chatbot più veloce, è un sistema progettato per lavorare in autonomia su compiti lunghi e complessi. The post Claude Fable 5.1: un prompt per capire cosa lo rende diverso appeared f",
-      "link": "https://www.punto-informatico.it/claude-fable-5-1-prompt-capire-cosa-lo-rende-diverso/",
+      "titolo": "Logitech MX Keypad porta i comandi AI sulla scrivania",
+      "descrizione": "Il nuovo Logitech MX Keypad nasce per i programmatori: tasti personalizzabili, plugin AI e integrazioni con GitHub Copilot e Claude Code. The post Logitech MX Keypad porta i comandi AI sulla scrivania appeared first on P",
+      "link": "https://www.punto-informatico.it/logitech-mx-keypad/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T15:30:31+00:00",
+      "data": "2026-09-08T10:02:20+00:00",
       "modello": "claude"
     }
   ]

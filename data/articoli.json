@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-09-08T04:41:27.775620+00:00",
+  "last_updated": "2026-09-08T11:23:00.973189+00:00",
   "items": [
     {
-      "titolo": "Xiaomi 18 Fold ufficiale: il pieghevole wide sfida Samsung e Apple | Prezzo",
-      "descrizione": "É il primo con RAM LPDDR6.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669555/xiaomi-18-fold-ufficiale-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T18:40:00+00:00"
-    },
-    {
-      "titolo": "ByteDance prepara AI che genera mondi virtuali in tempo reale",
-      "descrizione": "ByteDance starebbe sviluppando un'AI capace di generare video spaziali interattivi in tempo reale, con applicazioni per visori, videogiochi e live streaming. The post ByteDance prepara AI che genera mondi virtuali in tem",
-      "link": "https://www.punto-informatico.it/bytedance-prepara-ai-genera-mondi-virtuali-tempo-reale/",
+      "titolo": "Spectrum è il primo razzo commerciale europeo in orbita",
+      "descrizione": "Isar Aerospace ha effettuato con successo il lancio di Spectrum, primo razzo commerciale europeo a raggiungere l'orbita terrestre bassa. The post Spectrum è il primo razzo commerciale europeo in orbita appeared first on",
+      "link": "https://www.punto-informatico.it/spectrum-primo-razzo-commerciale-europeo-orbita/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T18:21:05+00:00"
+      "data": "2026-09-08T11:17:10+00:00"
     },
     {
-      "titolo": "Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3",
-      "descrizione": "Il nuovo Xiaomi Pad 9 Pro Max è un tablet con schermo da 13,3 pollici, processore XRING O3, 8/12/16 GB di RAM, fino a 1 TB di storage e HyperOS 4.0. The post Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3 appeared",
-      "link": "https://www.punto-informatico.it/xiaomi-pad-9-pro-max-primo-tablet-chip-xring-o3/",
+      "titolo": "La Svizzera vuole liberarsi di Microsoft 365? Parte un test su 3mila dipendenti",
+      "descrizione": "La Svizzera avvia un test su circa 3mila dipendenti federali con openDesk, una suite open source che affiancherà Microsoft 365 per valutare sovranità digitale, affidabilità e sostenibilità",
+      "link": "https://www.hdblog.it/microsoft/articoli/n669683/svizzera-test-addio-microsoft-software-open-source/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T11:15:00+00:00"
+    },
+    {
+      "titolo": "Apple, una società del gruppo BASF fa causa per brevetti su Face ID",
+      "descrizione": "I brevetti riguardano una tecnologia che permette di distinguere la pelle umana dai materiali usati per riprodurre un volto",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669685/apple-gruppo-basf-causa-face-id/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T11:10:00+00:00"
+    },
+    {
+      "titolo": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
+      "descrizione": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64.",
+      "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T11:06:26+00:00"
+    },
+    {
+      "titolo": "One UI 9 ha una funzione molto utile per chi fa chiamate internazionali",
+      "descrizione": "Un widget indica l'ora locale del destinatario.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669681/one-ui-9-fuso-orario-telefonata-destinatario/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T11:05:00+00:00"
+    },
+    {
+      "titolo": "Stop ai diesel Euro 5 nel Nord Italia: chi rischia di fermarsi dal 1° ottobre",
+      "descrizione": "Dal 1° ottobre 2026 tornano i divieti per i diesel Euro 5 nel Bacino Padano. Guida a regole, deroghe e misure alternative in Lombardia, Piemonte, Veneto ed Emilia",
+      "link": "https://www.hdmotori.it/blocco-diesel-euro-5-2026-regioni-nord-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T11:00:09+00:00"
+    },
+    {
+      "titolo": "Nebulosa Pellicano, la fabbrica di stelle che cambia forma",
+      "descrizione": "Gas, polveri e giovani stelle stanno lentamente ridisegnando la Nebulosa Pellicano.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n669651/nebulosa-pellicano-formazione-stelle/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T10:55:00+00:00"
+    },
+    {
+      "titolo": "Tutti vogliono Xiaomi 18 Fold: prevendite alle stelle e successo assicurato",
+      "descrizione": "Boom di preordini per il nuovo Xiaomi 18 Fold: un pieghevole che sta già conquistando il pubblico cinese.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669653/xiaomi-18-fold-molto-richiesto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T10:45:00+00:00"
+    },
+    {
+      "titolo": "Un orologio da nerd con ESP32: mostra ora, giochi retro e statistiche del PC",
+      "descrizione": "Il progetto include anche un visualizzatore musicale a 32 bande: il software analizza l’audio riprodotto dal computer e invia lo spettro all’ESP32 per mostrarlo in tempo reale sui pannelli LED",
+      "link": "https://www.hdblog.it/home/articoli/n669678/orologio-pixel-open-source-esp32-cosa-fa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T10:40:00+00:00"
+    },
+    {
+      "titolo": "Truffe nella telefonia, oltre 3 milioni di italiani coinvolti: pochi denunciano",
+      "descrizione": "I finti call center sono stati il canale più utilizzato",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n669679/truffe-nella-telefonia-3-milioni-italiani/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T10:25:00+00:00"
+    },
+    {
+      "titolo": "OpenAI consiglia di rallentare lo sviluppo dei modelli AI",
+      "descrizione": "Dato che i modelli AI diventano sempre più potenti e aumentano le difficoltà di controllo, OpenAI suggerisce un rallentamento del loro sviluppo. The post OpenAI consiglia di rallentare lo sviluppo dei modelli AI appeared",
+      "link": "https://www.punto-informatico.it/openai-consiglia-rallentare-sviluppo-modelli-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T18:04:28+00:00"
+      "data": "2026-09-08T10:21:14+00:00"
     },
     {
-      "titolo": "La Ferrari della moglie di Leclerc è un gioiello: 1000 CV e numero 16 sulla carrozzeria",
-      "descrizione": "Se in pista per Leclerc non è un periodo esaltante, nella vita privata il monegasco può dirsi molto soddisfatto. Ora anche sua moglie Alexandra ha una Ferrari",
-      "link": "https://www.hdmotori.it/ferrari-moglie-charles-leclerc/",
+      "titolo": "Cellularline, dai caricabatterie universali agli occhiali smart: tutte le novità di IFA",
+      "descrizione": "Soluzioni per viaggiare e tenere in ordine la scrivania.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669666/cellularline-novita-ifa-2026-ricarica-custodie/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T18:00:05+00:00"
+      "data": "2026-09-08T10:15:00+00:00"
     },
     {
-      "titolo": "iPhone 18 Pro, addirittura cinque nuove funzioni in arrivo per l'app fotocamera?",
-      "descrizione": "Sono pensate per gli utenti più esperti che non vogliono rinunciare all'app predefinita.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669596/apple-iphone-18-pro-max-fotocamere-novita-software/",
+      "titolo": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "descrizione": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "link": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T10:15:00+00:00"
+    },
+    {
+      "titolo": "Due effetti luminosi nello stesso punto: Govee rinnova le sue luci permanenti",
+      "descrizione": "Govee Permanent Outdoor Lights 2 Pro è disponibile negli Stati Uniti nelle versioni da 30 e 60 metri a 499,99 e 799,99 dollari. Per il momento non è stata annunciata la disponibilità in Italia",
+      "link": "https://www.hdblog.it/home/articoli/n669672/govee-luci-esterne-casa-permanenti-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T17:35:00+00:00"
+      "data": "2026-09-08T10:10:00+00:00"
     },
     {
-      "titolo": "Huawei Mate XT 2 ufficiale: nuovo design, Privacy Display... prezzi impossibili",
-      "descrizione": "Il colosso cinese ha rivisitato profondamente il suo \"Trifold\" prendendo più di un'ispirazione da Samsung. I prezzi... diciamo solo che si arriva molto, troppo vicini ai 4.000 euro.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669592/huawei-mate-xt-2-novita-specifiche-prezzi/",
+      "titolo": "Realme 16 Pro, edizione speciale dedicata a Harry Potter in arrivo",
+      "descrizione": "Probabilmente si tratterà di una personalizzazione estetica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669485/realme-16-pro-harry-potter-edizione-limitata/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T17:25:00+00:00"
+      "data": "2026-09-08T10:05:00+00:00"
     },
     {
-      "titolo": "Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3",
-      "descrizione": "Il nuovo Xiaomi 18 Fold ha schermi da 7,58 e 5,38 pollici, processore XRING O3, 12/16 GB di RAM, fino a 1 TB di storage e cinque fotocamere. The post Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3 appeared first",
-      "link": "https://www.punto-informatico.it/xiaomi-18-fold-smartphone-pieghevole-chip-xring-o3/",
+      "titolo": "Logitech MX Keypad porta i comandi AI sulla scrivania",
+      "descrizione": "Il nuovo Logitech MX Keypad nasce per i programmatori: tasti personalizzabili, plugin AI e integrazioni con GitHub Copilot e Claude Code. The post Logitech MX Keypad porta i comandi AI sulla scrivania appeared first on P",
+      "link": "https://www.punto-informatico.it/logitech-mx-keypad/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T17:23:13+00:00"
+      "data": "2026-09-08T10:02:20+00:00"
     },
     {
-      "titolo": "Il robot che imita i cani: decide da solo quando correre e saltare",
-      "descrizione": "Un robot quadrupede combina visione e AI per superare ostacoli stretti in autonomia",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n669557/robot-quadrupede-ai-salto-ostacoli/",
+      "titolo": "L'Audi da 1.001 CV svelata in Italia: è l'auto più potente nella storia del marchio",
+      "descrizione": "L'Audi Nuvolari ufficialmente ha mostrato i muscoli in un luogo di culto, a Mantova nella terra natia di Tazio Nuvolari",
+      "link": "https://www.hdmotori.it/audi-nuvolari-storia-tecnologia/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T17:15:00+00:00"
+      "data": "2026-09-08T10:00:51+00:00"
     },
     {
-      "titolo": "Samsung Galaxy S26 FE nasconde 3 modalità fotocamera che puoi abilitare così",
-      "descrizione": "Tutorial",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669549/samsung-galaxy-s26-fe-modalita-fotocamera/",
+      "titolo": "Tech enthusiast finds $12,000 stack of RAM in their garage — work let them keep an old server stuffed with 1,920GB of DDR4",
+      "descrizione": "A computing enthusiast found a fat stack of DDR4 RAM sticks that might be worth $10,000 in their garage.",
+      "link": "https://www.tomshardware.com/pc-components/ddr4/tech-enthusiast-finds-usd12-000-stack-of-ram-in-their-garage-work-let-them-keep-an-old-server-stuffed-with-1-920gb-of-ddr4",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T10:00:00+00:00"
+    },
+    {
+      "titolo": "Sony precisa un grosso malinteso sulla questione dei dischi fisici",
+      "descrizione": "Un dirigente della divisione che si occupa della produzione fisica dei dischi aveva detto che entro il 2028 ci sarebbe stato un calo \"al\" 10% rispetto a oggi, ma ha sbagliato preposizione: voleva...",
+      "link": "https://www.hdblog.it/sony/articoli/n669674/sony-playstation-dischi-dadc-equivoco-proiezioni/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T17:05:00+00:00"
+      "data": "2026-09-08T09:55:00+00:00"
     },
     {
-      "titolo": "Dacia Duster perde colpi, un 2026 difficile e un restyling in arrivo nel 2028",
-      "descrizione": "Flessione nelle vendite per Dacia Duster nel 2026: la pressione della Bigster e dei brand emergenti spinge il marchio verso un restyling strategico per il 2028",
-      "link": "https://www.hdmotori.it/dacia-duster-calo-vendite-2026-restyling-2028/",
+      "titolo": "Cambia il cestino di Google Foto, hai solo 30 giorni per recuperare immagini e video",
+      "descrizione": "Il cestino di Google Foto elimina definitivamente foto e video dopo 30 giorni, senza distinguere tra contenuti sottoposti a backup e non.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n669659/cambia-cestino-google-foto-30-giorni-recuperare/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T17:00:02+00:00"
+      "data": "2026-09-08T09:50:00+00:00"
     },
     {
-      "titolo": "Materia oscura: una simulazione cambia il modo di cercarla",
-      "descrizione": "a gravità della Via Lattea può imitare alcuni segnali attribuiti alla materia oscura",
-      "link": "https://www.hdblog.it/curiosita/articoli/n669554/materia-oscura-flussi-stellari-via-lattea/",
+      "titolo": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
+      "descrizione": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chip",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T09:50:00+00:00"
+    },
+    {
+      "titolo": "MediaTek Helio G99+ ufficiale: un refresh pensato per smartphone economici",
+      "descrizione": "MediaTek cerca di proporre nuove soluzioni per la fascia bassa",
+      "link": "https://www.hdblog.it/hardware/articoli/n669637/mediatek-helio-g99-plus-specifiche-dettagli/",
       "fonte": "HDblog.it",
-      "data": "2026-09-07T16:55:00+00:00"
+      "data": "2026-09-08T09:40:00+00:00"
     },
     {
-      "titolo": "Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI",
-      "descrizione": "Sono state presentate altre 30 denunce contro OpenAI, in quanto accusata di negligenza e aver favorito la sparatoria di massa in una scuola canadese. The post Sparatoria di Tumbler Ridge: altre 30 denunce per OpenAI appe",
-      "link": "https://www.punto-informatico.it/sparatoria-tumbler-ridge-altre-30-denunce-openai/",
+      "titolo": "Ottocast OttoSafe Cam CA560, la dashcam che uso: perché la consiglio",
+      "descrizione": "Quella con Ottocast OttoSafe Cam CA560 è stata, per me, un'esperienza un po' diversa dal solito. Non perché si tratti della prima dashcam che abbia mai catturato la mia...",
+      "link": "https://www.hdblog.it/indossabili/consigli/n669379/ottocast-ottosafe-cam-ca560-prova/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-08T09:35:00+00:00"
+    },
+    {
+      "titolo": "Arm Mali G2 Ultra-NX: GPU mobile con grafica AI",
+      "descrizione": "Arm ha svelato la piattaforma CSS for Mobile 2 con la nuova GPU Mali G2-Ultra NX che integra un acceleratore AI per le tecnologie neurali. The post Arm Mali G2 Ultra-NX: GPU mobile con grafica AI appeared first on Punto",
+      "link": "https://www.punto-informatico.it/arm-mali-g2-ultra-nx-gpu-mobile-grafica-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-07T16:35:25+00:00"
-    },
-    {
-      "titolo": "Fitbit, l’AI di Google Health sbaglia le calorie: utenti infuriati",
-      "descrizione": "La scorsa primavera, Google ha presentato Fitbit Air, il suo braccialetto smart più compatto. Nello stesso periodo, l’azienda ha riunito i propri strumenti dedicati alla salute all’interno di Google Health, prendendo il",
-      "link": "https://www.punto-informatico.it/fitbit-lai-di-google-health-sbaglia-le-calorie-utenti-infuriati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-07T16:35:21+00:00"
-    },
-    {
-      "titolo": "Sony, tornano le mitiche WH-1000XM4: più economiche, più colorate",
-      "descrizione": "Peggiora solo l'autonomia, ma di poco poco.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669589/sony-wh-1000xm4c-ritorno-ifa-specifiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T16:35:00+00:00"
-    },
-    {
-      "titolo": "Denza cala l'asso elettrico: il 14 settembre debutta il nuovo N8L",
-      "descrizione": "Denza lancia il SUV elettrico N8L il 14 settembre: batteria da 130 kWh, 960 km di autonomia, frunk lavabile da 208 litri e ruote posteriori sterzanti",
-      "link": "https://www.hdmotori.it/denza-n8l-ev-caratteristiche-autonomia-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T16:30:51+00:00"
-    },
-    {
-      "titolo": "In Tennessee sorgerà un impianto a fusione da 400 MW basato su tecnologia stellarator",
-      "descrizione": "Il Tennessee apre la strada alla prima centrale commerciale a fusione con stellarator",
-      "link": "https://www.hdblog.it/green/articoli/n669558/fusione-nucleare-tennessee-centrale-400-mw/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T16:15:00+00:00"
-    },
-    {
-      "titolo": "Google Messaggi, bug molto pericoloso: invia vecchi messaggi ad altri contatti",
-      "descrizione": "Diversi utenti segnalano che l'app manda intere conversazioni private a destinatari completamente estranei. Immaginate il potenziale di incidenti diplomatici!",
-      "link": "https://www.hdblog.it/google/articoli/n669578/google-messaggi-bug-vecchi-messaggi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T16:05:00+00:00"
-    },
-    {
-      "titolo": "Promozione Fiat Topolino, a settembre si paga 2.940 euro in meno",
-      "descrizione": "Offerte di settembre per la Fiat Topolino: sconti sul listino, rate da 39 euro e oltre metà del mercato conquistato in Italia",
-      "link": "https://www.hdmotori.it/fiat-topolino-offerte-settembre-2026-prezzi-rate/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T16:00:09+00:00"
-    },
-    {
-      "titolo": "La Casa Bianca lancia il suo Tetris sul muro con il Messico",
-      "descrizione": "Build the Wall imita Tetris e trasforma il confine USA-Messico in un gioco.",
-      "link": "https://www.hdblog.it/games/articoli/n669522/casa-bianca-tetris-build-the-wall/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T15:55:00+00:00"
-    },
-    {
-      "titolo": "GTA 6, la mappa dei fan è quasi completa grazie all'anteprima e ai leak",
-      "descrizione": "Possiamo già dare un'occhiata da lontano al mondo di GTA 6.",
-      "link": "https://www.hdblog.it/games/articoli/n669568/gta-6-vi-mappa-leonida-completa-dimensioni-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-07T15:45:00+00:00"
-    },
-    {
-      "titolo": "Claude Fable 5.1: un prompt per capire cosa lo rende diverso",
-      "descrizione": "Claude Fable 5.1 di Anthropic non è un chatbot più veloce, è un sistema progettato per lavorare in autonomia su compiti lunghi e complessi. The post Claude Fable 5.1: un prompt per capire cosa lo rende diverso appeared f",
-      "link": "https://www.punto-informatico.it/claude-fable-5-1-prompt-capire-cosa-lo-rende-diverso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-07T15:30:31+00:00"
-    },
-    {
-      "titolo": "Autistici/Inventati chiude dopo le accuse degli Stati Uniti",
-      "descrizione": "Il collettivo italiano Autistici/Inventati annuncia l'addio dopo le sanzioni USA e accusa il provvedimento di mettere a rischio la comunità. The post Autistici/Inventati chiude dopo le accuse degli Stati Uniti appeared f",
-      "link": "https://www.punto-informatico.it/autistici-inventati-chiude-dopo-accuse-stati-uniti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-07T14:42:08+00:00"
-    },
-    {
-      "titolo": "Tre escursionisti si affidano a Gemini e rischiano grosso",
-      "descrizione": "Hanno usato Gemini per pianificare la salita al monte Shasta, ma sono rimasti bloccati dopo aver continuato oltre l'orario consigliato. The post Tre escursionisti si affidano a Gemini e rischiano grosso appeared first on",
-      "link": "https://www.punto-informatico.it/tre-escursionisti-affidano-gemini-rischiano-grosso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-07T13:54:50+00:00"
-    },
-    {
-      "titolo": "TCL: device mobili, indossabili e TV Mini Led pensando all’AI",
-      "descrizione": "BERLINO –TCL è atterrata a IFA per raccontare una strategia che va oltre il televisore e mette l’intelligenza artificiale al centro di un ecosistema di prodotti che vuole essere sempre...",
-      "link": "https://www.ilsole24ore.com/art/tcl-device-mobili-indossabili-e-tv-mini-led-pensando-all-ai-AJ6CbF5",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-07T13:52:16+00:00"
+      "data": "2026-09-08T09:28:32+00:00"
     }
   ]
 }
