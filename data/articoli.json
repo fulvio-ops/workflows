@@ -1,19 +1,166 @@
 {
-  "last_updated": "2026-09-09T11:27:26.341832+00:00",
+  "last_updated": "2026-09-09T16:40:55.484325+00:00",
   "items": [
     {
-      "titolo": "Xring O100, l'acceleratore AI può elaborare fino a 330 token al secondo",
-      "descrizione": "Il tutto grazie a una memoria superveloce, dovuta a un sistema di packaging 3D avanzato.",
-      "link": "https://www.hdblog.it/hardware/articoli/n669831/xiaomi-xring-o100-chip-ai-cube-memoria-token/",
+      "titolo": "Sonos 27, al via la distribuzione della nuova versione dell'OS",
+      "descrizione": "L'aggiornamento del riscatto definitivo... si spera!",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n669886/sonos-27-os-distribuzione-avvio-novita/",
       "fonte": "HDblog.it",
-      "data": "2026-09-09T11:15:00+00:00"
+      "data": "2026-09-09T16:35:00+00:00"
     },
     {
-      "titolo": "Mistral raccoglie 3 miliardi in un round di finanziamenti guidato da Samsung",
-      "descrizione": "Samsung guida il nuovo finanziamento da 3 miliardi di euro in Mistral, affiancata da EQT e PSG Equity. I capitali serviranno soprattutto per calcolo, ricerca, infrastrutture e crescita internazionale",
-      "link": "https://www.hdblog.it/samsung/articoli/n669829/mistral-ai-round-finanziamenti-samsung/",
+      "titolo": "L’AI potrebbe uccidere tutti gli umani entro il 2030",
+      "descrizione": "Un ricercatore ha lasciato Anthropic perché continua a sviluppare modelli AI sempre più potente che potrebbe sterminare l'umanità entro il 2030. The post L’AI potrebbe uccidere tutti gli umani entro il 2030 appeared firs",
+      "link": "https://www.punto-informatico.it/ai-potrebbe-uccidere-tutti-umani-entro-2030/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T16:12:47+00:00"
+    },
+    {
+      "titolo": "Quel battito nascosto nei materiali quantistici ora ha una spiegazione",
+      "descrizione": "Scoperta l’origine di un segnale che confondeva lo studio degli isolanti topologici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669852/isolanti-topologici-segnale-quantistico/",
       "fonte": "HDblog.it",
-      "data": "2026-09-09T11:10:00+00:00"
+      "data": "2026-09-09T16:10:00+00:00"
+    },
+    {
+      "titolo": "La truffa delle \"Phantom GPU\": 2.000 euro per una RTX 5090 senza VRAM e GPU",
+      "descrizione": "Due casi segnalati in Germania.",
+      "link": "https://www.hdblog.it/hardware/articoli/n669880/nvidia-geforce-rtx-5090-truffa-phantom-gpu-vuota/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T16:05:00+00:00"
+    },
+    {
+      "titolo": "Il mistero della Renault di Brigitte Bardot, finisce all’asta a un prezzo alla portata",
+      "descrizione": "Se avete amato alla follia l’attrice francese, scomparsa nel 2025, è in vendita la sua mitica Renault 4L del 1976",
+      "link": "https://www.hdmotori.it/asta-renault-brigitte-bardot-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T16:00:27+00:00"
+    },
+    {
+      "titolo": "Casio Frogman e Mudmaster, due G-Shock per condizioni estreme",
+      "descrizione": "Frogman e Mudmaster puntano su sensori, resistenza estrema e autonomia solare.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669845/casio-frogman-mudmaster-g-shock-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T15:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova offerta da NordVPN: il piano da 28 mesi è in sconto",
+      "descrizione": "NordVPN lancia una nuova offerta con 28 mesi a prezzo scontato: si tratta della soluzione giusta per una VPN illimitata e ricca di vantaggi. The post Nuova offerta da NordVPN: il piano da 28 mesi è in sconto appeared fir",
+      "link": "https://www.punto-informatico.it/nuova-offerta-da-nordvpn-il-piano-da-28-mesi-e-in-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T15:42:55+00:00"
+    },
+    {
+      "titolo": "Dexter Resurrection S2: Paramount condivide il teaser trailer",
+      "descrizione": "Iniziate a New York le riprese di Dexter Resurrection 2 con Michael C. Hall e Desmond Harrington.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n656024/dexter-resurrection-stagione-2-riprese/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T15:35:00+00:00"
+    },
+    {
+      "titolo": "Stellantis si prende il Salone Auto di Torino: dieci marchi e quattro novità in anteprima",
+      "descrizione": "Stellantis schiera dieci marchi al Salone Auto Torino 2026, con una gamma che spazia dalle elettriche alle ibride fino alle sportive ad alte prestazioni",
+      "link": "https://www.hdmotori.it/stellantis-salone-auto-torino-marchi-anteprime/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T15:30:30+00:00"
+    },
+    {
+      "titolo": "LG respinge le accuse: le Smart TV non registrano le conversazioni",
+      "descrizione": "LG respinge le accuse di tracciamento e registrazione audio delle sue Smart TV.",
+      "link": "https://www.hdblog.it/lg/articoli/n669870/smart-tv-lg-spiano-utenti-privacy/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T15:20:00+00:00"
+    },
+    {
+      "titolo": "Suzuki Vitara in offerta a settembre: lo sconto arriva a 4.500 euro",
+      "descrizione": "Suzuki Vitara in offerta a settembre 2026: sconto di 4.500 euro con permuta o rottamazione, e rate da 199€ al mese con finanziamento",
+      "link": "https://www.hdmotori.it/suzuki-vitara-offerta-settembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T15:00:59+00:00"
+    },
+    {
+      "titolo": "Ricercatore lascia Anthropic: l’AI potrebbe sterminare l’umanità",
+      "descrizione": "Un ricercatore lascia Anthropic e denuncia i rischi della corsa alla superintelligenza.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669862/icercatore-anthropic-rischio-ai-estinzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T14:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung Bespoke AI Laundry: la nuova era del bucato intelligente arriva in Italia",
+      "descrizione": "Riducono le bollette e riconoscono i tessuti.",
+      "link": "https://www.hdblog.it/samsung/articoli/n669847/samsung-bespoke-ai-laundry-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T14:45:00+00:00"
+    },
+    {
+      "titolo": "Ferrari, ci risiamo: Vasseur sotto accusa dopo il GP di Monza",
+      "descrizione": "L’incidente alla Parabolica nelle prime battute della sfida di Monza di Charles Leclerc ha contribuito a rimettere Frederic Vasseur sulla graticola",
+      "link": "https://www.hdmotori.it/ferrari-vasseur-gp-monza/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T14:30:38+00:00"
+    },
+    {
+      "titolo": "Nuovo brevetto Mercedes, divertimento assicurato anche nell’acqua",
+      "descrizione": "Mercedes ha depositato un brevetto per un veicolo in grado di affrontare qualsiasi ostacolo, acqua compresa",
+      "link": "https://www.hdmotori.it/nuovo-brevetto-mercedes-acqua/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T14:00:55+00:00"
+    },
+    {
+      "titolo": "Windows 11: verifica dell’età senza data di nascita",
+      "descrizione": "La verifica dell'età in Windows 11 consente agli utenti di accedere ai contenuti più appropriati, senza svelare la data di nascita. The post Windows 11: verifica dell’età senza data di nascita appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/windows-11-verifica-eta-senza-data-nascita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T13:42:59+00:00"
+    },
+    {
+      "titolo": "Save 40% on Autodesk’s Media and Entertainment Collection — thousands of dollars worth of software in a single bundle",
+      "descrizione": "Autodesk is offering a 40% discount on its Media and Entertainment Collection for a limited time.",
+      "link": "https://www.tomshardware.com/pc-components/save-40-percent-on-autodesks-media-and-entertainment-collection-thousands-of-dollars-worth-of-software-in-a-single-bundle",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-09T13:33:15+00:00"
+    },
+    {
+      "titolo": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "descrizione": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "fonte": "WIRED",
+      "data": "2026-09-09T13:00:00+00:00"
+    },
+    {
+      "titolo": "TV LG, l’azienda replica: Non registriamo le conversazioni",
+      "descrizione": "Dopo l'inchiesta di Gamers Nexus, LG chiarisce come funzionano acquisizione audio, scansione dei dispositivi e tecnologia ACR sulle sue TV. The post TV LG, l’azienda replica: Non registriamo le conversazioni appeared fir",
+      "link": "https://www.punto-informatico.it/tv-lg-azienda-replica-non-registriamo-conversazioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T12:47:41+00:00"
+    },
+    {
+      "titolo": "OpenAI's breakthrough solution for the elusive Navier-Stokes problem overshadowed by plagiarism controversy — researcher says OpenAI scraped Codex session and issued career threats",
+      "descrizione": "OpenAI announced that a team using one of its internal frontier models has solved the Navier-Stokes problem. However, the announcement has been mired in controversy.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-09T12:30:00+00:00"
+    },
+    {
+      "titolo": "Suno v6, la guerra è finita: la musica AI si fa con le major",
+      "descrizione": "I nuovi modelli v6 di Suno permettono di modificare parti delle canzoni, creare mashup, estrarre clip e cambiare parole con semplici prompt. The post Suno v6, la guerra è finita: la musica AI si fa con le major appeared",
+      "link": "https://www.punto-informatico.it/suno-v6-musica-ai-major/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T12:24:18+00:00"
+    },
+    {
+      "titolo": "Disney+ a settembre costa meno: fino al 25% in meno sui piani di 6 mesi",
+      "descrizione": "I prezzi dei piani della durata di sei mesi della piattaforma streaming Disney+ partono da 5,99 euro al mese. The post Disney+ a settembre costa meno: fino al 25% in meno sui piani di 6 mesi appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/disney-a-settembre-costa-meno-fino-al-25-in-meno-sui-piani-di-6-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T12:23:32+00:00"
+    },
+    {
+      "titolo": "Nintendo unveils The Legend of Zelda 40th Anniversary Switch 2 for $520 — First-ever special-edition Switch 2 drops October 19, alongside $100 Pro Controller, pre-orders live",
+      "descrizione": "Nintendo is releasing its first-ever limited-edition Switch 2 to commemorate Zelda's 40th anniversary and it will cost $520. It does not come with Ocarina of Time, but you can purchase a similarly-themed Pro Controller f",
+      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unveils-the-legend-of-zelda-40th-anniversary-switch-2-for-usd520-first-ever-special-edition-switch-2-drops-october-19-alongside-usd100-pro-controller-pre-orders-live",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-09T11:40:00+00:00"
     },
     {
       "titolo": "This $502 4TB Crucial T705 is the cheapest Gen 5 SSD you can buy right now for just 12.5 cents per GB — ultra-fast storage upgrade with unreal 14,500 MB/s speeds is $181 less than a month ago, hitting its lowest price si",
@@ -21,153 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/ssds/this-usd502-4tb-crucial-t705-is-the-cheapest-gen-5-ssd-you-can-buy-right-now-for-just-12-5-cents-per-gb-ultra-fast-storage-upgrade-with-unreal-14-500-mb-s-speeds-is-usd181-less-than-a-month-ago-hitting-its-lowest-price-since-february",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-09T11:05:46+00:00"
-    },
-    {
-      "titolo": "Gilera B 457, un designer stravolge la tradizione...con un motore Aprilia",
-      "descrizione": "Dalla B300 del 1953 al twin 457 Aprilia: il designer Obiboi firma un concept innovativo per il rilancio di Gilera, ripartendo da un modello storico essenziale",
-      "link": "https://www.hdmotori.it/nuova-gilera-b457-b300-oberdan-bezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T11:00:10+00:00"
-    },
-    {
-      "titolo": "Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap — Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU",
-      "descrizione": "A modder has recreated the never-released RTX 3070 Ti with 16GB of VRAM using GDDR6 chips instead of the GDDR6X the retail 3070 Ti actually shipped with.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-09T11:00:00+00:00"
-    },
-    {
-      "titolo": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
-      "descrizione": "Get all the news when it happens, as our reporters bring you live updates from Apple Park, the company’s headquarters in Cupertino, California.",
-      "link": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
-      "fonte": "WIRED",
-      "data": "2026-09-09T11:00:00+00:00"
-    },
-    {
-      "titolo": "Privacy Display non solo su Galaxy S27 Ultra: in arrivo anche su S27 Pro e laptop?",
-      "descrizione": "I futuri Galaxy S27 Pro ed S27 Ultra di Samsung dovrebbero condividere il Privacy Display e la tecnologia COE.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669801/privacy-display-samsung-galaxy-s27-ultra-pro/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:50:00+00:00"
-    },
-    {
-      "titolo": "Honor Magic 9 Pro Max, tante anticipazioni ufficiali e non, incluso il design",
-      "descrizione": "C'è addirittura un video hands-on, a distanza di un paio di settimane dal lancio.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669826/honor-magic-9-pro-max-design-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:45:00+00:00"
-    },
-    {
-      "titolo": "Altroconsumo, nuova classifica della qualità della rete mobile: Vodafone prima",
-      "descrizione": "Cambia la terza posizione: WindTre ha superato TIM",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669825/altroconsumo-nuova-classifica-qualita-rete/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:40:00+00:00"
-    },
-    {
-      "titolo": "Google Chrome: aggiornamento ogni due settimane",
-      "descrizione": "A partire da Chrome 153 (rilasciato ieri sera), Google distribuirà aggiornamenti ogni due settimane per risolvere velocemente le vulnerabilità. The post Google Chrome: aggiornamento ogni due settimane appeared first on P",
-      "link": "https://www.punto-informatico.it/google-chrome-aggiornamento-ogni-due-settimane/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T10:36:33+00:00"
-    },
-    {
-      "titolo": "Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage",
-      "descrizione": "An anonymous security researcher has reconstructed the source code of the infamous Stuxnet worm, which was built to subtly interfere with Iranian uranium enrichment during the Bush and Obama administrations.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-09T10:30:00+00:00"
-    },
-    {
-      "titolo": "Nothing Phone (2) non riceverà Android 17 e Carl Pei spiega il motivo",
-      "descrizione": "Il supporto è anche andato oltre le promesse iniziali",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669816/nothing-phone-2-stop-update-motivo-no-android-17/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:25:00+00:00"
-    },
-    {
-      "titolo": "Apple rilascia iOS e iPadOS 26.6.2: corretto un problema in vista di iOS 27",
-      "descrizione": "Risolto un problema con il download degli aggiornamenti software",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669818/apple-rilascia-ios-correzione-download/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:05:00+00:00"
-    },
-    {
-      "titolo": "FIAT corre ai ripari, richiamo per 500e e Grande Panda",
-      "descrizione": "La Casa torinese, appartenente al Gruppo Stellantis, deve affrontare un nuovo richiamo. Arriverà puntuale in autunno",
-      "link": "https://www.hdmotori.it/fiat-richiamo-500e-grande-panda/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T10:00:52+00:00"
-    },
-    {
-      "titolo": "Big Tech eyes glacier-strewn Patagonia for building mega AI data centers — region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce",
-      "descrizione": "Patagonia, a region of Argentina with 17,300 glaciers has the potential to turn into a data center hotspot.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-09T10:00:00+00:00"
-    },
-    {
-      "titolo": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
-      "descrizione": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
-      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
-      "fonte": "WIRED",
-      "data": "2026-09-09T10:00:00+00:00"
-    },
-    {
-      "titolo": "Meta Muse, l’AI che può gestire acquisti, email e viaggi",
-      "descrizione": "Muse può acquistare prodotti, inviare email e organizzare viaggi per conto dell’utente.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n669810/meta-muse-agente-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T09:50:00+00:00"
-    },
-    {
-      "titolo": "Pressione record e zero sprechi: lo scaldabagno Xiaomi è super efficiente",
-      "descrizione": "Con efficienza termica superiore al 100%.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n669804/xiaomi-mijia-smart-gas-water-heater-2-scaldabagno/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T09:35:00+00:00"
-    },
-    {
-      "titolo": "AI, l’allarme dell’ONU: servono regole globali subito",
-      "descrizione": "L'ONU lancia l'allarme sui rischi dell'AI avanzata, servono linee rosse comuni e controlli indipendenti prima che sia troppo tardi. The post AI, l’allarme dell’ONU: servono regole globali subito appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/ai-allarme-onu-servono-regole-globali-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T09:26:56+00:00"
-    },
-    {
-      "titolo": "OnePlus 16 avrà addirittura tre chip custom per ottimizzare l'esperienza gaming",
-      "descrizione": "La società cinese è pronta a varare la tecnologia \"e-sports triple-core\", ecco come funzionerà.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669808/oneplus-16-chip-gaming-custom-ausiliari/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T09:15:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT addestrato con migliaia di libri scaricati illegalmente?",
-      "descrizione": "Libri scaricati da Library Genesis, dataset rinominati e file poi cancellati. Gli autori accusano OpenAI e mettono in discussione il fair use. The post ChatGPT addestrato con migliaia di libri scaricati illegalmente? app",
-      "link": "https://www.punto-informatico.it/chatgpt-addestrato-migliaia-libri-scaricati-illegalmente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T08:39:19+00:00"
-    },
-    {
-      "titolo": "Windows 11, stop agli aggiornamenti forzati quando si spegne il PC",
-      "descrizione": "Ora Arresta e Riavvia su Windows 11 dovrebbero rispettare la scelta dell'utente senza installare gli aggiornamenti in sospeso. The post Windows 11, stop agli aggiornamenti forzati quando si spegne il PC appeared first on",
-      "link": "https://www.punto-informatico.it/windows-11-stop-aggiornamenti-forzati-quando-si-spegne-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T08:10:00+00:00"
-    },
-    {
-      "titolo": "Sam Altman ha un bunker pieno di armi nel primo trailer di Artificial",
-      "descrizione": "Il nuovo film di Luca Guadagnino racconta il licenziamento e reintegro di Sam Altman come CEO di OpenAI: nei cinema il giorno di Natale. The post Sam Altman ha un bunker pieno di armi nel primo trailer di Artificial appe",
-      "link": "https://www.punto-informatico.it/sam-altman-bunker-armi-primo-trailer-artificial/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T07:51:40+00:00"
-    },
-    {
-      "titolo": "Microsoft rilascia oltre 600 patch per Windows 11",
-      "descrizione": "Microsoft ha rilasciato ieri sera 974 patch, 611 delle quali sono per Windows 11 25H2/24H2, un record ottenuto con l'uso dei modelli AI. The post Microsoft rilascia oltre 600 patch per Windows 11 appeared first on Punto",
-      "link": "https://www.punto-informatico.it/microsoft-rilascia-oltre-600-patch-windows-11/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-09T07:43:50+00:00"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-09-09T11:27:31.368502+00:00",
+  "last_updated": "2026-09-09T16:41:00.471240+00:00",
   "items": [
     {
-      "titolo": "OpenAI risponde a Microsoft con ChatGPT Images 2.5",
-      "descrizione": "GPT Images 2.5, disponibile in ChatGPT, permette di generare immagini con una maggiore qualità e velocità rispetto alla precedente versione 2.0. The post OpenAI risponde a Microsoft con ChatGPT Images 2.5 appeared first",
-      "link": "https://www.punto-informatico.it/openai-risponde-microsoft-gpt-images-2-5/",
+      "titolo": "Gemini 3.8 Flash batte Astra e Fable 5.1 sui video: ecco perché",
+      "descrizione": "Gemini 3.8 Flash di Google può ricevere video come input e ragionare su ciò che accade nel filmato. ChatGPT-6 Astra e Claude Fable 5.1, no. The post Gemini 3.8 Flash batte Astra e Fable 5.1 sui video: ecco perché appeare",
+      "link": "https://www.punto-informatico.it/gemini-3-8-flash-batte-astra-fable-5-1-video-ecco-perche/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-09T11:26:15+00:00",
+      "data": "2026-09-09T15:30:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-      "descrizione": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
-      "link": "https://www.wired.com/story/best-smart-speakers/",
-      "fonte": "WIRED",
-      "data": "2026-09-08T10:35:00+00:00",
+      "titolo": "Gemini 3.8 Flash batte Astra e Fable 5.1 sui video: ecco perché",
+      "descrizione": "Gemini 3.8 Flash di Google può ricevere video come input e ragionare su ciò che accade nel filmato. ChatGPT-6 Astra e Claude Fable 5.1, no. The post Gemini 3.8 Flash batte Astra e Fable 5.1 sui video: ecco perché appeare",
+      "link": "https://www.punto-informatico.it/gemini-3-8-flash-batte-astra-fable-5-1-video-ecco-perche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-09T15:30:05+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says — departing employee says AI companies are 'gambling with our lives'",
-      "descrizione": "Anthropic AI safety researcher has warned there's a more than 10% chance AI could kill all humans.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-10-percent-chance-ai-could-kill-all-humans-in-the-next-10-years-anthropic-safety-researcher-says-departing-employee-says-ai-companies-are-gambling-with-our-lives",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-09T09:26:28+00:00",
+      "titolo": "Claude sotto attacco: così i malware consumano i token degli utenti",
+      "descrizione": "Hacker rubano sessioni Claude e consumano di nascosto i token degli abbonati.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n669850/claude-hacker-rubano-token-abbonati/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-09T16:20:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Mistral raccoglie 3 miliardi in un round di finanziamenti guidato da Samsung",
-      "descrizione": "Samsung guida il nuovo finanziamento da 3 miliardi di euro in Mistral, affiancata da EQT e PSG Equity. I capitali serviranno soprattutto per calcolo, ricerca, infrastrutture e crescita internazionale",
-      "link": "https://www.hdblog.it/samsung/articoli/n669829/mistral-ai-round-finanziamenti-samsung/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T11:10:00+00:00",
+      "titolo": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+      "descrizione": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-08T13:30:02+00:00",
       "modello": "altri"
     }
   ]
