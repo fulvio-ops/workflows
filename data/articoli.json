@@ -1,19 +1,152 @@
 {
-  "last_updated": "2026-09-10T11:23:53.576173+00:00",
+  "last_updated": "2026-09-10T16:26:57.969220+00:00",
   "items": [
     {
-      "titolo": "iPhone Duo è il primo iPhone senza Tasto Azione",
-      "descrizione": "Il pieghevole di Apple porta con sé qualche cambiamento hardware",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669952/iphone-duo-no-action-button-conferma/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T11:15:00+00:00"
+      "titolo": "Zuckoff rileva gli occhiali di Meta nelle vicinanze",
+      "descrizione": "Zuckoff è un'app per iOS che rileva gli smart glass di Meta nelle vicinanze mostrando il nome e la forza del segnale Bluetooth sullo schermo. The post Zuckoff rileva gli occhiali di Meta nelle vicinanze appeared first on",
+      "link": "https://www.punto-informatico.it/zuckoff-rileva-occhiali-meta-vicinanze/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-10T16:07:08+00:00"
     },
     {
-      "titolo": "Dongfeng porta al Salone Auto di Torino l'intera gamma: elettrico, ibrido e benzina",
-      "descrizione": "Dongfeng sarà uno dei marchi protagonisti del Salone Auto di Torino. All'esposizione in Piazza Castello ci sarà tutta la gamma italiana",
-      "link": "https://www.hdmotori.it/dongfeng-salone-auto-torino/",
+      "titolo": "Dopo aver battuto Usain Bolt, il robot umanoide cerca un lavoro…",
+      "descrizione": "Dopo aver superato Usain Bolt, il robot umanoide Ultra punta a nuovi record e a trovare applicazioni concrete nell'industria e nei servizi. The post Dopo aver battuto Usain Bolt, il robot umanoide cerca un lavoro… appear",
+      "link": "https://www.punto-informatico.it/dopo-aver-battuto-usain-bolt-robot-umanoide-cerca-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-10T16:04:22+00:00"
+    },
+    {
+      "titolo": "Truffa dei km scalati, in Italia cancellati fino a 70mila per auto",
+      "descrizione": "In Italia i casi di manomissione sono pochi, ma con una media di 70.000 km scalati a vettura. Un mercato opaco favorito anche dalla mancanza di database europei unici",
+      "link": "https://www.hdmotori.it/truffa-chilometri-scalati-auto-usate/",
       "fonte": "HDblog.it",
-      "data": "2026-09-10T11:00:55+00:00"
+      "data": "2026-09-10T16:00:48+00:00"
+    },
+    {
+      "titolo": "L’Esercito USA testa un lanciatore autonomo modulare",
+      "descrizione": "CAML separa veicolo e armi per creare lanciatori autonomi più facili da aggiornare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670007/caml-lanciatore-autonomo-modulare/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T15:45:00+00:00"
+    },
+    {
+      "titolo": "iPhone Duo, l'animazione di apertura / chiusura è già arrivata su Galaxy Z Fold 8",
+      "descrizione": "Per ora è poco più di un concept, ma lascia pensare che tra qualche mese sarà presente un po' in qualsiasi device.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670010/iphone-duo-animazione-apertura-galaxy-z-fold-8/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T15:15:00+00:00"
+    },
+    {
+      "titolo": "Miro è la nuova acquisizione di Bending Spoons",
+      "descrizione": "La società milanese annuncia la sua nuova acquisizione: è Miro, che passa sotto il controllo d Bending Spoons per 1,355 miliardi di dollari. The post Miro è la nuova acquisizione di Bending Spoons appeared first on Punto",
+      "link": "https://www.punto-informatico.it/miro-nuova-acquisizione-bending-spoons/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-10T15:07:10+00:00"
+    },
+    {
+      "titolo": "Marvel’s Wolverine, recensione: Insomniac libera finalmente la bestia",
+      "descrizione": "Recensione completa di Marvel's Wolverine: ecco cosa ci ha convinto e cosa poteva essere fatto meglio.",
+      "link": "https://www.hdblog.it/games/recensioni/n669246/marvels-wolverine-recensione-insomniac/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T15:01:00+00:00"
+    },
+    {
+      "titolo": "Mercedes-AMG GT XX, i 25 record mondiali a Nardò di cui \"nessuno parla\"",
+      "descrizione": "Tre motori a flusso assiale, 1.360 CV e ricarica F1 a 850 kW. Mercedes-AMG GT XX sfidava il futuro dell'elettrico ad alte prestazioni sull'asfalto di Nardò",
+      "link": "https://www.hdmotori.it/mercedes-amg-gt-xx-25-record-nardo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T15:00:50+00:00"
+    },
+    {
+      "titolo": "Matt Mullenweg è stato sfiduciato dal CdA di Automattic?",
+      "descrizione": "Matt Mullenweg, co-fondatore di Automattic, è stato messo un congedo retribuito dal consiglio di amministrazione per motivi al momento ignoti. The post Matt Mullenweg è stato sfiduciato dal CdA di Automattic? appeared fi",
+      "link": "https://www.punto-informatico.it/matt-mullenweg-sfiduciato-cda-automattic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-10T14:58:43+00:00"
+    },
+    {
+      "titolo": "La marcia dei robot che protestano contro loro stessi e l'AI, è successo in Polonia",
+      "descrizione": "A Varsavia, decine di robot hanno marciato davanti al Ministero degli Affari Digitali contro l'AI e il rischio di una crisi occupazionale.",
+      "link": "https://www.hdblog.it/robotica/articoli/n669987/marcia-robot-protestano-contro-se-stessi-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:55:00+00:00"
+    },
+    {
+      "titolo": "Plastica monouso addio: McDonald's costretta a passare ai bicchieri riutilizzabili",
+      "descrizione": "I Paesi Bassi multano la catena di fast food e la obbligano a cambiare.",
+      "link": "https://www.hdblog.it/green/articoli/n669999/mcdonalds-divieto-bicchieri-plastica-monouso/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:40:00+00:00"
+    },
+    {
+      "titolo": "Midea a IFA con il nuovo forno al grafene che si riscalda in 0,2 secondi",
+      "descrizione": "Il nuovo forno da incasso della serie SpaceMaster presentato in anteprima a IFA 2026 è il primo al mondo di Midea dotato di tecnologia al grafene capace di raggiungere 350°C. Grazie agli...",
+      "link": "https://www.hdblog.it/home/articoli/n668418/midea-forno-grafene-350-gradi-cottura-pizza-ifa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:31:00+00:00"
+    },
+    {
+      "titolo": "La Testarossa che Ferrari non ha avuto il coraggio di produrre: un render la esalta",
+      "descrizione": "Uno specialista CGI ha preparato una versione della nuova Ferrari Testarossa, realizzandola nel modo in cui probabilmente avrebbe dovuto essere",
+      "link": "https://www.hdmotori.it/ferrari-testarossa-849-render/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:30:37+00:00"
+    },
+    {
+      "titolo": "Shelly a IFA con la sua prima videocamera di sorveglianza e molto altro",
+      "descrizione": "Ecco una rapida carrellata. Alcuni prodotti sono già disponibili.",
+      "link": "https://www.hdblog.it/domotica/articoli/n670000/shelly-ifa-novita-camera-sorveglianza-gen4/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:10:00+00:00"
+    },
+    {
+      "titolo": "Migliori eSIM per la Tunisia 2026: guida completa",
+      "descrizione": "Cerchi la eSIM migliore per la Tunisia? Scopri le offerte per viaggiare sempre connesso, in modo economico e sicuro, con la nostra guida completa.",
+      "link": "https://www.hdblog.it/tariffe/guide/n669157/migliori-esim-tunisia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:05:00+00:00"
+    },
+    {
+      "titolo": "Con soli 50€ velocizzi il tuo PC Windows grazie a CCleaner",
+      "descrizione": "Non spendere più di 1000€ per cambiare computer, ma velocizzalo con soli 50€ grazie a CCleaner, la soluzione ideale per dargli nuova vita. The post Con soli 50€ velocizzi il tuo PC Windows grazie a CCleaner appeared firs",
+      "link": "https://www.punto-informatico.it/con-soli-50-euro-velocizzi-il-tuo-pc-windows-grazie-a-ccleaner/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-10T14:04:35+00:00"
+    },
+    {
+      "titolo": "Starlink? Ora potete usare la connessione satellitare se viaggiate sui treni Italo",
+      "descrizione": "Italo ha acceso i riflettori sul suo nuovo Wi‑Fi a bordo treno: grazie a una partnership con Starlink di SpaceX, il vettore ferroviario italiano sta equipaggiando i propri convogli con...",
+      "link": "https://www.hdblog.it/mobile/articoli/n669991/italo-connessione-starlink-wifi-192mbps/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T14:01:00+00:00"
+    },
+    {
+      "titolo": "iPhone 16 è in offerta su Amazon: 180 euro di sconto immediato per uno smartphone sempre al top",
+      "descrizione": "Torna in offerta su Amazon l'iPhone 16 da 128GB nella finitura Bianco.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n669998/iphone-16-offerta-amazon-180-euro-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-10T13:51:00+00:00"
+    },
+    {
+      "titolo": "OpenAI's rogue AI agents accessed more websites to communicate than originally believed — defiant LLMs accessed old wikis and abandoned websites to co-ordinate in a bid to dupe assessors",
+      "descrizione": "Rogue OpenAI agents used dozens of website to exchange information, new investigations have found. However, the real impact is yet to be determined.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-rogue-ai-agents-accessed-more-websites-to-communicate-than-originally-believed-defiant-llms-accessed-old-wikis-and-abandoned-websites-to-co-ordinate-in-a-bid-to-dupe-assessors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-10T13:20:00+00:00"
+    },
+    {
+      "titolo": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth — US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "descrizione": "Biren Technology shows unprecedented shipments growth in 1H 2026 as competition from AMD and Nvidia vanishes (at least officially).",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-10T12:40:00+00:00"
+    },
+    {
+      "titolo": "The state of ABF substrates in data center silicon in 2026 — solving the supply crunch and material wall beneath every AI accelerator",
+      "descrizione": "ABF substrates underpin today’s most advanced AI chips, but soaring demand and expanding accelerator packages are creating new supply and technical bottlenecks that the industry is currently racing to resolve",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-abf-substrates-in-data-center-silicon-in-2026-solving-the-supply-crunch-and-material-wall-beneath-every-ai-accelerator",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-10T12:00:00+00:00"
     },
     {
       "titolo": "Prime Video usa l’AI per modificare le labbra degli attori nei doppiaggi",
@@ -23,20 +156,6 @@
       "data": "2026-09-10T10:53:19+00:00"
     },
     {
-      "titolo": "Playstation scarica PHYSINT, il gioco di Hideo Kojima passa sotto l'ala di XBOX",
-      "descrizione": "XBOX pubblicherà PHYSINT, il gioco di spionaggio sviluppato da Kojima Productions e inizialmente annunciato come progetto PlayStation.",
-      "link": "https://www.hdblog.it/games/articoli/n669946/playstation-scarica-physint-gioco-kojima-xbox/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:50:00+00:00"
-    },
-    {
-      "titolo": "Apple Intelligence, nuove regole su soglie, limiti e piani in abbonamento",
-      "descrizione": "La società si prepara a rendere sostenibile il servizio. Gradualmente, certo.",
-      "link": "https://www.hdblog.it/apple/articoli/n669965/apple-intelligence-ai-uso-limiti-regole-piani/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:45:00+00:00"
-    },
-    {
       "titolo": "Il cemento prodotto con escrementi umani è più resistente",
       "descrizione": "Gli scienziati stanno realizzando un cemento prodotto con escrementi umani ottenendo con sorpresa un materiale più resistente del 42%. The post Il cemento prodotto con escrementi umani è più resistente appeared first on",
       "link": "https://www.punto-informatico.it/cemento-prodotto-con-escrementi-umani-piu-resistente/",
@@ -44,130 +163,11 @@
       "data": "2026-09-10T10:43:50+00:00"
     },
     {
-      "titolo": "iPhone 18 Pro riporta l’apertura variabile sulla fotocamera: perché è utile",
-      "descrizione": "iPhone 18 Pro e 18 Pro Max introducono l’apertura variabile sulla fotocamera principale da 48 megapixel, con valori f/1,48, f/1,8, f/2,8 e f/4 selezionabili automaticamente o tramite controlli Pro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669967/iphone-18-pro-max-apertura-variabile-a-cosa-serve/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:40:00+00:00"
-    },
-    {
       "titolo": "Steam enforces Australian age verification via credit cards — debit card glitches and low credit adoption alienate core gamers, privacy-first mindset leads to dearth of options that may hinder consumers",
       "descrizione": "Valve starts enforcing Australian age verification law, but its privacy-minded choice of bank card as the only verification method is causing issues with many consumers.",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-enforces-australian-age-verification-via-credit-cards-debit-card-glitches-and-low-credit-adoption-alienate-core-gamers-privacy-first-mindset-leads-to-dearth-of-options-that-may-hinder-consumers",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-10T10:30:00+00:00"
-    },
-    {
-      "titolo": "Quanto inquinano i nuovi iPhone? Apple svela i numeri di Duo e 18 Pro",
-      "descrizione": "I dati su materiali riciclati, CO2 equivalente ed energia rinnovabile.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669942/apple-iphone-18-pro-max-duo-impronta-ambientale/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Mijia Robot Vacuum 6 Max, primi avvistamenti in Europa",
-      "descrizione": "Un dispositivo di fascia altissima.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n669963/xiaomi-robot-vacuum-6-max-europa-avvistato-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:20:00+00:00"
-    },
-    {
-      "titolo": "Il nuovo power bank Anker raffredda l’iPhone mentre lo ricarica in wireless",
-      "descrizione": "Anker porta in Italia MagGo Power Bank 2 Pro (110R), nuovo power bank magnetico da 10.000 mAh pensato soprattutto per la ricarica wireless ad alta potenza. La novità principale è...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669959/anker-powerbank-2-pro-magnetico-specifiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T10:10:00+00:00"
-    },
-    {
-      "titolo": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "descrizione": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-      "fonte": "WIRED",
-      "data": "2026-09-10T10:00:00+00:00"
-    },
-    {
-      "titolo": "Sony Xperia 1 IX, grandi novità in arrivo per la fotocamera | Rumor",
-      "descrizione": "Non si sa ancora quanto, ma si prevede un nuovo design.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669958/sony-xperia-1-ix-sensore-imaging-piu-grande/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T09:45:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia un piano cottura smart che spegne il gas se qualcosa non va",
-      "descrizione": "Xiaomi Mijia Smart Gas Stove 3 Max è un nuovo piano cottura smart che utilizza sensori e algoritmi per rilevare una pentola lasciata a secco e interrompere automaticamente l’erogazione del gas",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n669957/xiaomi-piano-cottura-smart-gas-prezzo-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T09:40:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo, le prime impressioni di chi ha provato il nuovo pieghevole Apple",
-      "descrizione": "Abbiamo raccolto le prime impressioni di media e creator",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669950/iphone-duo-prime-impressioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T09:35:00+00:00"
-    },
-    {
-      "titolo": "Chip AI, OpenAI sceglie Samsung: al via la collaborazione",
-      "descrizione": "OpenAI e Samsung annunciano una nuova partnership per ricerca, progettazione e produzione di chip AI di nuova generazione. The post Chip AI, OpenAI sceglie Samsung: al via la collaborazione appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/chip-ai-openai-sceglie-samsung-al-via-collaborazione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T09:33:40+00:00"
-    },
-    {
-      "titolo": "Vivo X500, ecco le immagini ufficiali di tutta la gamma: colori e design",
-      "descrizione": "la società cinese continua a centellinare anticipazioni.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669955/vivo-x500-pro-max-design-immagini-render-colori/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T09:25:00+00:00"
-    },
-    {
-      "titolo": "Skyrim, arriva la mod ufficiale IKEA con lo scaffale Kallax",
-      "descrizione": "IKEA porta il Kallax in Skyrim con un mod gratuito dedicato all'inventario.",
-      "link": "https://www.hdblog.it/games/articoli/n669949/skyrim-mod-ikea-kallax/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-10T09:20:00+00:00"
-    },
-    {
-      "titolo": "Su Prime Video la migliore partita del mercoledì di Champions League in esclusiva",
-      "descrizione": "Telecronaca affidata alla storica voce della Champions Sandro Piccinini, affiancato in cabina di commento da Massimo Ambrosini. The post Su Prime Video la migliore partita del mercoledì di Champions League in esclusiva a",
-      "link": "https://www.punto-informatico.it/su-prime-video-la-migliore-partita-del-mercoledi-di-champions-league-in-esclusiva/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T09:19:59+00:00"
-    },
-    {
-      "titolo": "Audio Intelligence: Siri AI ascolta tutto su Apple Watch",
-      "descrizione": "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente. The post Audio Intelligence: Siri AI ascolta tutto su Apple Watch appeared f",
-      "link": "https://www.punto-informatico.it/audio-intelligence-siri-ai-ascolta-tutto-apple-watch/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T09:03:14+00:00"
-    },
-    {
-      "titolo": "Solo 154€ per il ZTE Nubia Air da 256GB: potenza e stile per tutti",
-      "descrizione": "Scopri come puoi portarti a casa un fantastico ZTE Nubia Air a soli 154€ da 256GB di ROM e così accedere a potenza e stile senza compromessi. The post Solo 154€ per il ZTE Nubia Air da 256GB: potenza e stile per tutti ap",
-      "link": "https://www.punto-informatico.it/solo-154-euro-zte-nubia-air-256gb-potenza-stile-per-tutti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T08:37:09+00:00"
-    },
-    {
-      "titolo": "Windows 11 ha una scorciatoia segreta che apre LinkedIn",
-      "descrizione": "Una combinazione complessa permette di aprire LinkedIn su Windows 11: la scorciatoia è legata alle vecchie tastiere con pulsante Office. The post Windows 11 ha una scorciatoia segreta che apre LinkedIn appeared first on",
-      "link": "https://www.punto-informatico.it/windows-11-scorciatoia-segreta-linkedin/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T08:28:51+00:00"
-    },
-    {
-      "titolo": "Smart TV 55″ 4K Philips a prezzo regalo su Amazon",
-      "descrizione": "Solo su Amazon trovi questa fantastica Smart TV 55\" 4K Philips con tecnologia QLED a un prezzo regalo in offerta a tempo da prendere al volo. The post Smart TV 55″ 4K Philips a prezzo regalo su Amazon appeared first on P",
-      "link": "https://www.punto-informatico.it/smart-tv-55-4k-philips-prezzo-regalo-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T08:23:17+00:00"
-    },
-    {
-      "titolo": "mandalo.it sfida WeTransfer, invia di file anche senza registrazione",
-      "descrizione": "Per chi cerca un'alternativa a WeTransfer, ce n'è una italiana e che permette di inviare file anche senza creare un account: mandalo.it The post mandalo.it sfida WeTransfer, invia di file anche senza registrazione appear",
-      "link": "https://www.punto-informatico.it/mandalo-it-sfida-wetransfer-invia-file-senza-registrazione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T07:55:02+00:00"
     }
   ]
 }
