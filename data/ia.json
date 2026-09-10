@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-10T16:27:02.964748+00:00",
+  "last_updated": "2026-09-10T20:54:03.165954+00:00",
   "items": [
     {
-      "titolo": "7 prompt per testare il nuovo generatore di immagini di ChatGPT",
-      "descrizione": "La versione 2.5 del generatore di immagini di ChatGPT non si limita a creare foto più belle. Ecco 7 prompt per scoprire cosa può fare. The post 7 prompt per testare il nuovo generatore di immagini di ChatGPT appeared fir",
-      "link": "https://www.punto-informatico.it/7-prompt-testare-nuovo-generatore-immagini-chatgpt/",
+      "titolo": "L’Europa mette alla prova Mythos 5 e GPT-6 Astra: cosa possono fare",
+      "descrizione": "L'agenzia europea per la cybersicurezza sta testando Mythos 5 e GPT-6 Astra, dopo gli avvertimenti sui rischi e le regole dell'AI Act europeo. The post L’Europa mette alla prova Mythos 5 e GPT-6 Astra: cosa possono fare",
+      "link": "https://www.punto-informatico.it/europa-mette-alla-prova-mythos-5-gpt-6-astra/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-10T15:30:20+00:00",
+      "data": "2026-09-10T16:46:58+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic conferma un quarto attacco effettuato da Claude",
-      "descrizione": "Anthropic ha descritto un quarto attacco effettuato contro un'azienda reale dal modello Claude Opus 4.7 durante un test di valutazione. The post Anthropic conferma un quarto attacco effettuato da Claude appeared first on",
-      "link": "https://www.punto-informatico.it/anthropic-conferma-quarto-attacco-effettuato-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-10T11:07:36+00:00",
+      "titolo": "Is AI Actually Going to Kill Us All?",
+      "descrizione": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "fonte": "WIRED",
+      "data": "2026-09-10T20:30:37+00:00",
       "modello": "claude"
     },
     {
