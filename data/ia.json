@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T20:58:10.777568+00:00",
+  "last_updated": "2026-09-10T04:47:04.768348+00:00",
   "items": [
     {
       "titolo": "Gemini 3.8 Flash batte Astra e Fable 5.1 sui video: ecco perché",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude sotto attacco: così i malware consumano i token degli utenti",
-      "descrizione": "Hacker rubano sessioni Claude e consumano di nascosto i token degli abbonati.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669850/claude-hacker-rubano-token-abbonati/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-09T16:20:00+00:00",
+      "titolo": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "descrizione": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "fonte": "WIRED",
+      "data": "2026-09-09T22:11:55+00:00",
       "modello": "claude"
     },
     {
