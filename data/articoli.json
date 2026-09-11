@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-09-11T16:30:53.911512+00:00",
+  "last_updated": "2026-09-11T21:00:10.810951+00:00",
   "items": [
+    {
+      "titolo": "The 9 Best TV Shows to Stream This Month (September 2026)",
+      "descrizione": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
+      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "fonte": "WIRED",
+      "data": "2026-09-11T19:36:43+00:00"
+    },
+    {
+      "titolo": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+      "descrizione": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
+      "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+      "fonte": "WIRED",
+      "data": "2026-09-11T19:21:34+00:00"
+    },
+    {
+      "titolo": "Phishing e smishing: ACN rileva nuove campagne",
+      "descrizione": "Il CSIRT dell'Agenzia per la Cybersicurezza Nazionale ha individuato campagne di phishing e smishing che prendono di mira aziende e utenti privati. The post Phishing e smishing: ACN rileva nuove campagne appeared first o",
+      "link": "https://www.punto-informatico.it/phishing-smishing-acn-rileva-nuove-campagne/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-11T17:41:57+00:00"
+    },
+    {
+      "titolo": "Ecco perché le piattaforme social non vogliono tornare al feed cronologico",
+      "descrizione": "Perché poi l'esperienza d'uso peggiora talmente tanto che gli utenti ci passano meno tempo.",
+      "link": "https://www.hdblog.it/android/articoli/n670165/social-instagram-feed-cronologico/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-11T17:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11, Cloud Rebuild reinstalla il sistema senza chiavetta",
+      "descrizione": "Microsoft testa Cloud Rebuild per Windows 11, una nuova funzione che permette di reinstallare completamente il sistema operativo da WinRE scaricando da Internet anche i driver necessari",
+      "link": "https://www.hdblog.it/microsoft/articoli/n670161/windows-11-reinstallazione-senza-chiavetta-usb/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-11T17:10:00+00:00"
+    },
+    {
+      "titolo": "WhatsApp, ci risiamo con le \"modalità\" bufala: questa volta tocca a Harry Potter",
+      "descrizione": "È sempre la solita storia: sono tutte personalizzazioni che si possono fare in autonomia senza particolare sforzo.",
+      "link": "https://www.hdblog.it/android/articoli/n670157/whatsapp-modalita-harry-potter-bufala-falsa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-11T16:35:00+00:00"
+    },
+    {
+      "titolo": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
+      "descrizione": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-11T16:32:36+00:00"
+    },
     {
       "titolo": "Può una scheggiatura così marginale invalidare la garanzia di un banco di RAM?",
       "descrizione": "Sembra che G.Skill abbia applicato il proprio regolamento in modo decisamente troppo rigido per uno sfortunato redditor.",
@@ -107,27 +156,6 @@
       "data": "2026-09-11T14:09:30+00:00"
     },
     {
-      "titolo": "Mercedes-AMG sa ancora emozionare i puristi: nasce un'edizione limitata da sogno",
-      "descrizione": "Per pronunciarla bisogna conoscere il tedesco, ma per guidare la Mercedes-AMG CLE 646 Spezialanfertigung serve ben altro",
-      "link": "https://www.hdmotori.it/mercedes-amg-cle-646-spezialanfertigung-edizione-limitata/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:00:03+00:00"
-    },
-    {
-      "titolo": "Volvo rinnova XC40, EX40 ed EC40: più tecnologia, sicurezza e autonomia",
-      "descrizione": "Volvo aggiorna XC40, EX40 ed EC40 con un nuovo design, tecnologie più avanzate e sistemi di sicurezza evoluti per la guida quotidiana",
-      "link": "https://www.hdmotori.it/volvo-rinnova-xc40-ex40-ec40/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T13:30:02+00:00"
-    },
-    {
-      "titolo": "Panasonic TV: pronti a ripartire con tutta la qualità del DNA giapponese",
-      "descrizione": "In occasione dell'IFA di Berlino abbiamo fatto quattro chiacchiere con i vertici della nuova divisione TV di Panasonic.",
-      "link": "https://www.hdblog.it/tv/interviste/n669704/panasonic-tv-qualita-dna-giappone-mercato-ifa/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T13:01:00+00:00"
-    },
-    {
       "titolo": "Windows 11, addio freccetta? Spunta il nuovo cursore del mouse",
       "descrizione": "Microsoft potrebbe cambiare il cursore del mouse di Windows 11: un'immagine mostra un nuovo design già presente nelle build di anteprima. The post Windows 11, addio freccetta? Spunta il nuovo cursore del mouse appeared f",
       "link": "https://www.punto-informatico.it/windows-11-addio-freccetta-spunta-nuovo-cursore-mouse/",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/dipendenza-social-chatbot-ai-nuove-leggi-california/",
       "fonte": "Punto Informatico",
       "data": "2026-09-11T11:02:29+00:00"
-    },
-    {
-      "titolo": "Desktop graphics card shipments hit four-year high of 12.5 million despite increasing prices — Nvidia takes 90% share as gamers rush to beat looming price spikes",
-      "descrizione": "Shipments of desktop add-in-boards in Q2 were the highest since Q1 2022 despite rising prices and dropping sales of desktop PCs, according to new numbers from Jon Peddie Research.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/desktop-graphics-card-shipments-hit-four-year-high-of-12-5-million-despite-increasing-prices-nvidia-takes-90-percent-share-as-gamers-rush-to-beat-looming-price-spikes",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-11T11:00:00+00:00"
-    },
-    {
-      "titolo": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "descrizione": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "fonte": "WIRED",
-      "data": "2026-09-11T11:00:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT progetta un farmaco contro la schizofrenia",
-      "descrizione": "Un bioinformatico ha progettato con ChatGPT il farmaco PAC-3310 contro la schizofrenia e lo ha sintetizzato nel suo laboratorio in garage. The post ChatGPT progetta un farmaco contro la schizofrenia appeared first on Pun",
-      "link": "https://www.punto-informatico.it/chatgpt-progetta-farmaco-contro-schizofrenia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-11T10:56:40+00:00"
-    },
-    {
-      "titolo": "Snag a huge $1,000 saving on this RTX 5090 OLED gaming laptop from HP, now $3,699 — 16-inch HyperX rig delivers 1600p gaming with ultra-fast 240Hz refresh rate, coupled with 32GB DDR5 RAM and a 2TB SSD",
-      "descrizione": "The HyperX Omen Max 16, featuring the powerful Nvidia GeForce RTX 5090 GPU, is down to $3,699.99 right now, saving you $1,000.",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/snag-a-huge-usd1-000-saving-on-this-rtx-5090-oled-gaming-laptop-from-hp-now-usd3-699-16-inch-hyperx-rig-delivers-1600p-gaming-with-ultra-fast-240hz-refresh-rate-coupled-with-32gb-ddr5-ram-and-a-2tb-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-11T10:50:59+00:00"
     }
   ]
 }
