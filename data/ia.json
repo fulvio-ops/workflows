@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T11:26:01.104178+00:00",
+  "last_updated": "2026-09-11T16:30:58.968803+00:00",
   "items": [
     {
       "titolo": "ChatGPT progetta un farmaco contro la schizofrenia",
@@ -10,27 +10,27 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini arriva su Windows 10 e 11: perché conviene installare l’app",
-      "descrizione": "Google Gemini arriva finalmente su Windows 10 e 11 con un'app nativa. Ecco cosa offre in più rispetto alla versione web e come funziona. The post Gemini arriva su Windows 10 e 11: perché conviene installare l’app appeare",
-      "link": "https://www.punto-informatico.it/gemini-windows-10-11-perche-conviene-installare-app/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-11T06:54:35+00:00",
+      "titolo": "Renault Niagara, il pick-up con Google Gemini e l'anima da SUV",
+      "descrizione": "Renault svela Niagara, il nuovo pick-up 4x4 per l'America Latina: design da C-SUV, motori turbo fino a 160 CV e il debutto dell'intelligenza artificiale Google Gemini",
+      "link": "https://www.hdmotori.it/renault-niagara-pickup-4x4-caratteristiche-google-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-11T14:45:14+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude e armi biologiche: Anthropic lancia l’allarme",
-      "descrizione": "Un rapporto di Anthropic documenta usi pericolosi di Claude, dalle ricerche su virus alle armi convenzionali e alla propaganda online. The post Claude e armi biologiche: Anthropic lancia l’allarme appeared first on Punto",
-      "link": "https://www.punto-informatico.it/claude-armi-biologiche-anthropic-lancia-allarme/",
+      "titolo": "Claude usato per sviluppare armi, sorveglianza e truffe",
+      "descrizione": "Anthropic ha descritto usi illeciti di Claude per attacchi informatici, sorveglianza, sviluppo di armi, operazioni di influenza, truffe e distillazione. The post Claude usato per sviluppare armi, sorveglianza e truffe ap",
+      "link": "https://www.punto-informatico.it/claude-usato-sviluppare-armi-sorveglianza-truffe/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-11T10:02:44+00:00",
+      "data": "2026-09-11T16:18:41+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
-      "descrizione": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-08T13:30:02+00:00",
+      "titolo": "DeepSeek V4.1 Flash: il nuovo modello AI è enorme, ma consuma meno",
+      "descrizione": "Con 763 miliardi di parametri e una gestione innovativa della memoria, DeepSeek V4.1 Flash vuole rendere i futuri modelli AI più efficienti. The post DeepSeek V4.1 Flash: il nuovo modello AI è enorme, ma consuma meno app",
+      "link": "https://www.punto-informatico.it/deepseek-v4-1-flash-nuovo-modello-ai-enorme-cosuma-meno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-11T15:20:08+00:00",
       "modello": "altri"
     }
   ]
