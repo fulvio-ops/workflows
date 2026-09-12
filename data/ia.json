@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T10:51:14.180565+00:00",
+  "last_updated": "2026-09-12T15:34:17.542848+00:00",
   "items": [
     {
       "titolo": "GPT-Live-1 arriva nelle API: l’AI ora conversa davvero",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Apple CarPlay, arriva anche Copilot (ma solo con abbonamento premium)",
-      "descrizione": "Prime segnalazioni dagli USA.",
-      "link": "https://www.hdblog.it/apple/articoli/n670170/apple-carplay-microsoft-copilot-assistente-ai/",
+      "titolo": "Volete rimuovere tutto il bloatware da Windows 11 senza fatica?",
+      "descrizione": "Dovete provare Winhance: va super in profondità e rimuove anche funzioni fastidiose come AI / Copilot e così via. È gratis e open-source!",
+      "link": "https://www.hdblog.it/microsoft/articoli/n670173/windows-11-rimuovere-bloatware-winhance/",
       "fonte": "HDblog.it",
-      "data": "2026-09-12T07:15:00+00:00",
+      "data": "2026-09-12T10:55:00+00:00",
       "modello": "copilot"
     },
     {
@@ -26,19 +26,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "descrizione": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "fonte": "WIRED",
-      "data": "2026-09-12T10:30:00+00:00",
+      "titolo": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
+      "descrizione": "'Great Satan's' AI comes in handy.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-12T15:03:10+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "DeepSeek V4.1 Flash: il nuovo modello AI è enorme, ma consuma meno",
-      "descrizione": "Con 763 miliardi di parametri e una gestione innovativa della memoria, DeepSeek V4.1 Flash vuole rendere i futuri modelli AI più efficienti. The post DeepSeek V4.1 Flash: il nuovo modello AI è enorme, ma consuma meno app",
-      "link": "https://www.punto-informatico.it/deepseek-v4-1-flash-nuovo-modello-ai-enorme-cosuma-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-11T15:20:08+00:00",
+      "titolo": "This week on Tom's Hardware Premium: September 12, 2026 — Benchmarking Qwen 3.8, the splintered compute economy and AI breakthroughs",
+      "descrizione": "This week on Tom's Hardware Premium, we benchmarked Qwen 3.8 on a slew of different hardware, ruminated on the state of modern computing after returning from IFA 2026, and broke down everything",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-12-2026-benchmarking-qwen-3-8-the-splintered-compute-economy-and-ai-breakthroughs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-12T12:00:00+00:00",
       "modello": "altri"
     }
   ]
