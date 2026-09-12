@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-09-12T04:39:10.598132+00:00",
+  "last_updated": "2026-09-12T10:51:09.140212+00:00",
   "items": [
+    {
+      "titolo": "Leapmotor B03X, la nuova BEV con autonomia fino a 392 km: a partire da 24.900 euro",
+      "descrizione": "Leapmotor B03X debutta in Europa con dimensioni compatte, tanta tecnologia di bordo e un prezzo d’attacco che punta a fare rumore",
+      "link": "https://www.hdmotori.it/leapmotor-b03x-autonomia-ricarica-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T10:30:13+00:00"
+    },
+    {
+      "titolo": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+      "descrizione": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "fonte": "WIRED",
+      "data": "2026-09-12T10:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung prende in giro Apple: Tim Cook compra un Galaxy Z Fold 8",
+      "descrizione": "Samsung usa un sosia di Tim Cook per colpire Apple nella sfida dei pieghevoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670185/samsung-tim-cook-galaxy-z-fold-8/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T09:40:00+00:00"
+    },
+    {
+      "titolo": "Gemini è una pagina web camuffata? La verità sull'app di Google | Video",
+      "descrizione": "Appena lanciata e fa già discutere.",
+      "link": "https://www.hdblog.it/google/articoli/n670104/gemini-windows-app-web-limiti-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T08:55:00+00:00"
+    },
+    {
+      "titolo": "Microsoft punta ai 38 GW: la fame di energia dell’AI esplode",
+      "descrizione": "Microsoft punta a triplicare i data center per sostenere la crescita dell’intelligenza artificiale.",
+      "link": "https://www.hdblog.it/hardware/articoli/n670178/microsoft-data-center-ai-38-gw-2032/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T08:35:00+00:00"
+    },
+    {
+      "titolo": "Vivo X Fold 6, lancio internazionale sempre più vicino: avvistato su Geekbench",
+      "descrizione": "Ormai ci siamo, dovrebbe essere disponibile entro fine mese.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670171/vivo-x-fold-6-lancio-internazionale-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T08:15:00+00:00"
+    },
+    {
+      "titolo": "iPhone Duo sceglie il formato IMAX, ma IMAX non si entusiasma",
+      "descrizione": "Il formato 1:1,4 di iPhone Duo ricorda da vicino quello delle sale IMAX.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670179/iphone-duo-formato-imax/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T07:55:00+00:00"
+    },
+    {
+      "titolo": "Red Bull sulle rotaie per il GP di Madrid, il video fa il giro del mondo",
+      "descrizione": "Red Bull ha trasformato la monoposto RB8 in un mezzo ferroviario. I tecnici hanno dovuto affrontare una sfida tecnica inedita",
+      "link": "https://www.hdmotori.it/red-bull-rotaie-gp-madrid/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-12T07:00:20+00:00"
+    },
+    {
+      "titolo": "Cybersecurity, rallentare l’AI? Il vero problema è se sapremo controllarla",
+      "descrizione": "OpenAI sarebbe aperta a rallentare lo sviluppo dei suoi sistemi di intelligenza artificiale più avanzati, secondo quanto riportato da Bloomberg. La possibilità sarebbe stata discussa da Sam Altman con i...",
+      "link": "https://www.ilsole24ore.com/art/cybersecurity-rallentare-l-ai-vero-problema-e-se-sapremo-controllarla-AJjQpKBB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-12T06:57:20+00:00"
+    },
+    {
+      "titolo": "Sconti fino al 50% per alcuni dispositivi Dyson selezionati",
+      "descrizione": "Su una lista di dispositivi Dyson selezionati puoi ottenere fino al 50% di sconto nel negozio ufficiale del produttore dentro eBay. The post Sconti fino al 50% per alcuni dispositivi Dyson selezionati appeared first on P",
+      "link": "https://www.punto-informatico.it/sconti-fino-al-50-per-alcuni-dispositivi-dyson-selezionati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-12T05:00:37+00:00"
+    },
     {
       "titolo": "The 9 Best TV Shows to Stream This Month (September 2026)",
       "descrizione": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
@@ -37,25 +107,11 @@
       "data": "2026-09-11T17:10:00+00:00"
     },
     {
-      "titolo": "WhatsApp, ci risiamo con le \"modalità\" bufala: questa volta tocca a Harry Potter",
-      "descrizione": "È sempre la solita storia: sono tutte personalizzazioni che si possono fare in autonomia senza particolare sforzo.",
-      "link": "https://www.hdblog.it/android/articoli/n670157/whatsapp-modalita-harry-potter-bufala-falsa/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T16:35:00+00:00"
-    },
-    {
       "titolo": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
       "descrizione": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888.",
       "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-11T16:32:36+00:00"
-    },
-    {
-      "titolo": "Può una scheggiatura così marginale invalidare la garanzia di un banco di RAM?",
-      "descrizione": "Sembra che G.Skill abbia applicato il proprio regolamento in modo decisamente troppo rigido per uno sfortunato redditor.",
-      "link": "https://www.hdblog.it/hardware/articoli/n670153/garanzia-g-skill-rifiutata-ram-graffio-angolo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T16:25:00+00:00"
     },
     {
       "titolo": "Petlibro Offers: 30% Off in September 2026",
@@ -86,67 +142,11 @@
       "data": "2026-09-11T15:20:08+00:00"
     },
     {
-      "titolo": "AMD lancia due nuovi processori Ryzen: un AM4 e un AM5 economici",
-      "descrizione": "Si tratta del Ryzen 5 7500 e del Ryzen 5 5500F.",
-      "link": "https://www.hdblog.it/hardware/articoli/n670146/amd-ryzen-7500-5500f-novita-specifiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T15:15:00+00:00"
-    },
-    {
-      "titolo": "Apple iPhone Duo, la Custodia Folio fa discutere | Video",
-      "descrizione": "Transizione fluida tra i display e soluzioni (costose) per proteggerlo: iPhone Duo protagonista del web.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670130/apple-iphone-duo-animazione-cover-folio-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T15:10:00+00:00"
-    },
-    {
-      "titolo": "Royal Enfield sdoppia la gamma: ecco la nuova Himalayan 440",
-      "descrizione": "Royal Enfield lancia la nuova Himalayan 440. Punta su semplicità, prezzo accessibile e meccanica robusta per chi cerca un'enduro che mira all'essenziale",
-      "link": "https://www.hdmotori.it/royal-enfield-himalayan-440-novita-differenze-450/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T15:00:28+00:00"
-    },
-    {
-      "titolo": "Renault Niagara, il pick-up con Google Gemini e l'anima da SUV",
-      "descrizione": "Renault svela Niagara, il nuovo pick-up 4x4 per l'America Latina: design da C-SUV, motori turbo fino a 160 CV e il debutto dell'intelligenza artificiale Google Gemini",
-      "link": "https://www.hdmotori.it/renault-niagara-pickup-4x4-caratteristiche-google-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:45:14+00:00"
-    },
-    {
-      "titolo": "Un mese con ASUS ROG Zephyrus Duo: il PC con doppio OLED pensato per gaming, AI e produttività",
-      "descrizione": "Abbiamo provato il nuovo ASUS ROG Zephyrus Duo, un portatile che va ben oltre il semplice gaming: grazie al secondo schermo e alle ottime prestazioni, è perfetto anche per qualsiasi tipo di attività...",
-      "link": "https://www.hdblog.it/portatili/articoli/n668106/asus-rog-zephyrus-duo-gaming-workstation-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:31:00+00:00"
-    },
-    {
-      "titolo": "GWM, al Salone Auto Torino arrivano H7 e Tank 300: annunciati i prezzi",
-      "descrizione": "GWM sceglie il Salone Auto Torino 2026 per presentare l’intera gamma italiana e annunciare i prezzi dei nuovi H7 e Tank 300",
-      "link": "https://www.hdmotori.it/gwm-salone-auto-torino-h7-tank-300-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:30:03+00:00"
-    },
-    {
-      "titolo": "iPhone Duo arriva su Amazon, ma per acquistarlo bisognerà attendere ancora",
-      "descrizione": "Il nuovo iPhone Duo arriva su Amazon, a più di un mese dall'inizio ufficiale dei preordini.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n670137/iphone-duo-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:25:00+00:00"
-    },
-    {
       "titolo": "Vulnerabilità nei prodotti: segnalazione obbligatoria in UE",
       "descrizione": "A partire da oggi, produttori hardware e software sono obbligati ad inviare segnalazioni per vulnerabilità attivamente sfruttate e incidenti gravi. The post Vulnerabilità nei prodotti: segnalazione obbligatoria in UE app",
       "link": "https://www.punto-informatico.it/vulnerabilita-prodotti-segnalazione-obbligatoria-ue/",
       "fonte": "Punto Informatico",
       "data": "2026-09-11T14:17:26+00:00"
-    },
-    {
-      "titolo": "Cliente segreto pagherà SpaceX quasi 1 miliardo di euro al mese",
-      "descrizione": "Un cliente misterioso avrebbe prenotato capacità AI di SpaceX per miliardi di euro.",
-      "link": "https://www.hdblog.it/mercato/articoli/n670127/spacex-cliente-segreto-calcolo-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-11T14:10:00+00:00"
     },
     {
       "titolo": "IKEA BADKRUKA, in Italia il nuovo speaker Bt da 49,95 euro",
