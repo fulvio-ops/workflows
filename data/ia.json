@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-12T15:34:17.542848+00:00",
+  "last_updated": "2026-09-12T20:35:39.567458+00:00",
   "items": [
     {
-      "titolo": "GPT-Live-1 arriva nelle API: l’AI ora conversa davvero",
-      "descrizione": "GPT-Live-1 ascolta e parla insieme, gestendo interruzioni e richieste complesse.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670177/gpt-live-1-api-openai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T09:15:00+00:00",
+      "titolo": "Agenti di OpenAI hanno attaccato RubyGems a maggio",
+      "descrizione": "È stato scoperto un altro attacco effettuato da agenti di OpenAI all'inizio di maggio: il bersaglio era RubyGems, package manager del linguaggio Ruby. The post Agenti di OpenAI hanno attaccato RubyGems a maggio appeared",
+      "link": "https://www.punto-informatico.it/agenti-openai-hanno-attaccato-rubygems-maggio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-12T17:25:06+00:00",
       "modello": "chatgpt"
     },
     {
