@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T04:52:39.928062+00:00",
+  "last_updated": "2026-09-13T11:56:36.301751+00:00",
   "items": [
     {
       "titolo": "Agenti di OpenAI hanno attaccato RubyGems a maggio",
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
-      "descrizione": "'Great Satan's' AI comes in handy.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-12T15:03:10+00:00",
+      "titolo": "Dario Amodei: gli agenti AI controlleranno Internet",
+      "descrizione": "Dario Amodei (CEO di Anthropic) suggerisce di rallentare lo sviluppo AI per evitare conseguenze disastrose, come un attacco globale di agenti AI. The post Dario Amodei: gli agenti AI controlleranno Internet appeared firs",
+      "link": "https://www.punto-informatico.it/dario-amodei-agenti-ai-controlleranno-internet/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-13T08:26:57+00:00",
       "modello": "claude"
     },
     {

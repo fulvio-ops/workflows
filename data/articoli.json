@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-09-13T04:52:33.598102+00:00",
+  "last_updated": "2026-09-13T11:56:31.079418+00:00",
   "items": [
+    {
+      "titolo": "Mexican cartel's crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
+      "descrizione": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/mexican-cartel-crypto-farm-seized-in-mountain-raid-300-gpus-satellite-links-and-industrial-transformers-tapped-hydroelectric-power",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T11:30:00+00:00"
+    },
+    {
+      "titolo": "Ukraine triumphs in 'first-ever' drone-vs-drone boat battle — video shows Russian MBeK destroyed by Sargan 3000's 12.7mm automatic turret",
+      "descrizione": "Ukraine’s Navy has claimed that it has won 'the first-ever battle of unmanned naval boats.'",
+      "link": "https://www.tomshardware.com/tech-industry/drones/ukraines-sargan-3000-triumphs-in-first-ever-drone-vs-drone-boat-battle-video-shows-russian-mbek-destroyed-by-its-foes-12-7mm-automatic-turret",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T10:30:00+00:00"
+    },
+    {
+      "titolo": "Transparent wall-mounted CD player raises over $540,000 on Kickstarter — $109 Syitren RM1's visible disc and mechanisms channel 90s B&O nostalgia with Bluetooth and battery power",
+      "descrizione": "Syitren RM1 transparent wall-mounted CD player harkens back to a more civilized era with visible disc and mechanisms.",
+      "link": "https://www.tomshardware.com/speakers/syitren-rm1-transparent-wall-mounted-cd-player-harkens-back-to-a-more-civilized-era-visible-disc-and-mechanisms-make-for-a-tangible-listening-experience",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T10:00:00+00:00"
+    },
+    {
+      "titolo": "Router Wi-Fi: un riavvio periodico può migliorare le performance",
+      "descrizione": "Quali sono i benefici nel riavviare il dispositivo.",
+      "link": "https://www.hdblog.it/hardware/articoli/n670106/router-riavvio-periodico-migliora-performance/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T09:55:00+00:00"
+    },
+    {
+      "titolo": "Il vibe coding sta cambiando il modo di programmare: quali sono i rischi",
+      "descrizione": "Le criticità sollevate dagli sviluppatori esperti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670066/vibe-coding-quali-sono-i-rischi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T08:55:00+00:00"
+    },
+    {
+      "titolo": "Apple TV porta sul K2 la sfida che ha cambiato l’alpinismo",
+      "descrizione": "Il K2 diventa il teatro di una storia di rischio, denaro e potere nell’alpinismo moderno",
+      "link": "https://www.hdblog.it/apple/articoli/n670208/apple-tv-the-last-first-winter-k2/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T07:35:00+00:00"
+    },
+    {
+      "titolo": "Tivùsat aggiorna di nuovo la sua lista canali: ecco la nuova numerazione",
+      "descrizione": "Tivùsat, la piattaforma di intrattenimento satellitare, ha di nuovo aggiornato la sua lista canali: ecco la nuova numerazione disponibile. The post Tivùsat aggiorna di nuovo la sua lista canali: ecco la nuova numerazione",
+      "link": "https://www.punto-informatico.it/tivusat-aggiorna-di-nuovo-la-sua-lista-canali-ecco-la-nuova-numerazione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-13T07:00:10+00:00"
+    },
+    {
+      "titolo": "L'AI va fermata prima che sia tropo tardi: il piano di Anthropic",
+      "descrizione": "Il CEO di Anthropic propone tre livelli di controllo per rallentare lo sviluppo dell’AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670209/rallentare-sviluppo-ai-piano-amodei/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T06:55:00+00:00"
+    },
+    {
+      "titolo": "Fino a 700€ di sconto con i piani cloud a vita di pCloud",
+      "descrizione": "Ottieni fino a 700€ di sconto grazie ai piani cloud a vita di pCloud, senza abbonamento, con funzionalità avanzate e sicurezza inclusa. The post Fino a 700€ di sconto con i piani cloud a vita di pCloud appeared first on",
+      "link": "https://www.punto-informatico.it/fino-700-euro-sconto-piani-cloud-vita-pcloud/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-13T06:00:46+00:00"
+    },
     {
       "titolo": "Samsung Galaxy S26 Ultra a meno di 900€: è lui il flagship da scegliere oggi?",
       "descrizione": "Il Samsung Galaxy S26 Ultra è in offerta ed è sempre uno dei best buy più interessanti nella fascia alta del mercato.",
@@ -32,7 +95,7 @@
     {
       "titolo": "iPhone 18 Pro Max, aperti i preordini su Amazon: prezzi e versioni disponibili",
       "descrizione": "iPhone 18 Pro Max arriva su Amazon, in attesa dell'apertura ufficiale dei preordini: ecco tutte le versioni disponibili e i prezzi.",
-      "link": "https://www.hdblog.it/portatili/offerte/n670098/iphone-18-pro-max-preordine-amazon/",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670098/iphone-18-pro-max-preordine-amazon/",
       "fonte": "HDblog.it",
       "data": "2026-09-12T12:00:00+00:00"
     },
@@ -105,69 +168,6 @@
       "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
       "fonte": "WIRED",
       "data": "2026-09-12T10:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung prende in giro Apple: Tim Cook compra un Galaxy Z Fold 8",
-      "descrizione": "Samsung usa un sosia di Tim Cook per colpire Apple nella sfida dei pieghevoli.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670185/samsung-tim-cook-galaxy-z-fold-8/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T09:40:00+00:00"
-    },
-    {
-      "titolo": "Gemini è una pagina web camuffata? La verità sull'app di Google | Video",
-      "descrizione": "Appena lanciata e fa già discutere.",
-      "link": "https://www.hdblog.it/google/articoli/n670104/gemini-windows-app-web-limiti-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T08:55:00+00:00"
-    },
-    {
-      "titolo": "Microsoft punta ai 38 GW: la fame di energia dell’AI esplode",
-      "descrizione": "Microsoft punta a triplicare i data center per sostenere la crescita dell’intelligenza artificiale.",
-      "link": "https://www.hdblog.it/hardware/articoli/n670178/microsoft-data-center-ai-38-gw-2032/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T08:35:00+00:00"
-    },
-    {
-      "titolo": "Vivo X Fold 6, lancio internazionale sempre più vicino: avvistato su Geekbench",
-      "descrizione": "Ormai ci siamo, dovrebbe essere disponibile entro fine mese.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670171/vivo-x-fold-6-lancio-internazionale-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T08:15:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo sceglie il formato IMAX, ma IMAX non si entusiasma",
-      "descrizione": "Il formato 1:1,4 di iPhone Duo ricorda da vicino quello delle sale IMAX.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670179/iphone-duo-formato-imax/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T07:55:00+00:00"
-    },
-    {
-      "titolo": "Cybersecurity, rallentare l’AI? Il vero problema è se sapremo controllarla",
-      "descrizione": "OpenAI sarebbe aperta a rallentare lo sviluppo dei suoi sistemi di intelligenza artificiale più avanzati, secondo quanto riportato da Bloomberg. La possibilità sarebbe stata discussa da Sam Altman con i...",
-      "link": "https://www.ilsole24ore.com/art/cybersecurity-rallentare-l-ai-vero-problema-e-se-sapremo-controllarla-AJjQpKBB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-12T06:57:20+00:00"
-    },
-    {
-      "titolo": "Sconti fino al 50% per alcuni dispositivi Dyson selezionati",
-      "descrizione": "Su una lista di dispositivi Dyson selezionati puoi ottenere fino al 50% di sconto nel negozio ufficiale del produttore dentro eBay. The post Sconti fino al 50% per alcuni dispositivi Dyson selezionati appeared first on P",
-      "link": "https://www.punto-informatico.it/sconti-fino-al-50-per-alcuni-dispositivi-dyson-selezionati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-12T05:00:37+00:00"
-    },
-    {
-      "titolo": "The 9 Best TV Shows to Stream This Month (September 2026)",
-      "descrizione": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
-      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "fonte": "WIRED",
-      "data": "2026-09-11T19:36:43+00:00"
-    },
-    {
-      "titolo": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
-      "descrizione": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
-      "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
-      "fonte": "WIRED",
-      "data": "2026-09-11T19:21:34+00:00"
     }
   ]
 }
