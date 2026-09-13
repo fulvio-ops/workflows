@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-09-13T11:56:31.079418+00:00",
+  "last_updated": "2026-09-13T16:20:43.746590+00:00",
   "items": [
+    {
+      "titolo": "Samsung Galaxy A27 5G è ancora un ottimo smartphone e costa pochissimo",
+      "descrizione": "Il Samsung Galaxy A27 5G nella versione da 6 GB di RAM e 128 GB di memoria interna è in offerta su eBay a meno di 210€ ed è un affare. The post Samsung Galaxy A27 5G è ancora un ottimo smartphone e costa pochissimo appea",
+      "link": "https://www.punto-informatico.it/samsung-galaxy-a27-5g-ancora-ottimo-smartphone-costa-pochissimo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-13T15:11:54+00:00"
+    },
+    {
+      "titolo": "Redmi Watch 6 in offerta su Amazon: tanta qualità a un prezzo accessibile",
+      "descrizione": "Lo Xiaomi Redmi Watch 6 è in offerta su Amazon e ora costa 85,99 euro: si tratta di un best buy tra gli smartwatch.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n670218/redmi-watch-6-offerta-amazon-sett26/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T14:30:00+00:00"
+    },
+    {
+      "titolo": "Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans — penalty on par with illegally developing rogue nuclear weapons",
+      "descrizione": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T14:10:00+00:00"
+    },
+    {
+      "titolo": "Solitario, tormentato e brutale: non è il Wolverine che ti aspetti",
+      "descrizione": "Mike Daly, Game Director del gioco spiega come è nato Marvel’s Wolverine l’esclusiva per Playstation 5 che uscirà il 15 settembre. Insomniac cambia decisamente registro rispetto a Spider-Man e opta per un supereroe decis",
+      "link": "https://www.ilsole24ore.com/art/solitario-tormentato-e-brutale-non-e-wolverine-che-ti-aspetti-AJabx97",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-13T13:03:55+00:00"
+    },
+    {
+      "titolo": "Chinese military researchers and tech giants caught using Claude — US frontier model coded 16 air-defense suppression tools targeting Taiwan, drafted anti-torpedo specs, and fed 151 million training queries to Alibaba",
+      "descrizione": "Anthropic accuses China-linked actors of using its Claude models of weapon development, intelligence activities, distilling AI models.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T12:00:00+00:00"
+    },
     {
       "titolo": "Mexican cartel's crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
       "descrizione": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
@@ -35,6 +70,13 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n670066/vibe-coding-quali-sono-i-rischi/",
       "fonte": "HDblog.it",
       "data": "2026-09-13T08:55:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17T Pro, veloce, completo e ora con un ottimo prezzo: è l'alternativa ai top di gamma",
+      "descrizione": "Lo Xiaomi 17T Pro è in offerta ed è ora disponibile in sconto con un prezzo ottimo, diventando l'alternativa giusta ai top di gamma.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670212/xiaomi-17t-pro-offerta-settembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-13T08:40:00+00:00"
     },
     {
       "titolo": "Apple TV porta sul K2 la sfida che ha cambiato l’alpinismo",
@@ -126,48 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/drones/iran-could-potentially-reverse-engineer-captured-u-s-underwater-drone-several-iranian-embassies-mock-us-over-capture-as-u-s-military-downplays-the-situation",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-12T11:30:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2: novità nella nuova build sperimentale",
-      "descrizione": "Microsoft ha rilasciato sei versioni preliminari di Windows 11 24H2, 25H2 e 26H2 per gli Insider che includono diverse novità e miglioramenti. The post Windows 11 26H2: novità nella nuova build sperimentale appeared firs",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-novita-nuova-build-sperimentale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-12T11:12:26+00:00"
-    },
-    {
-      "titolo": "Kioxia Exceria Pro G2 2TB SSD Review — Speed built to last",
-      "descrizione": "Kioxia’s Exceria Pro G2 pairs the SM2508 and BiCS8 TLC flash for fast, efficient PCIe 5.0 storage. It’s not the quickest PCIe 5.0 SSD, but it is a reliable Black SN8100 alternative.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-12T11:05:00+00:00"
-    },
-    {
-      "titolo": "Lucky PC scavenger discovers 12 RTX 3070 GPUs from the crypto mining era — cards survived years of basement storage with only minor signs of wear",
-      "descrizione": "What looked like a couple of forgotten mining rigs turned out to be a surprisingly valuable haul, with 12 RTX 3070 graphics cards potentially still ready for gaming duty.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-12T11:00:00+00:00"
-    },
-    {
-      "titolo": "Volete rimuovere tutto il bloatware da Windows 11 senza fatica?",
-      "descrizione": "Dovete provare Winhance: va super in profondità e rimuove anche funzioni fastidiose come AI / Copilot e così via. È gratis e open-source!",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670173/windows-11-rimuovere-bloatware-winhance/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T10:55:00+00:00"
-    },
-    {
-      "titolo": "Leapmotor B03X, la nuova BEV con autonomia fino a 392 km: a partire da 24.900 euro",
-      "descrizione": "Leapmotor B03X debutta in Europa con dimensioni compatte, tanta tecnologia di bordo e un prezzo d’attacco che punta a fare rumore",
-      "link": "https://www.hdmotori.it/leapmotor-b03x-autonomia-ricarica-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T10:30:13+00:00"
-    },
-    {
-      "titolo": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "descrizione": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
-      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "fonte": "WIRED",
-      "data": "2026-09-12T10:00:00+00:00"
     }
   ]
 }

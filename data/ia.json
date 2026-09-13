@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T11:56:36.301751+00:00",
+  "last_updated": "2026-09-13T16:20:48.798496+00:00",
   "items": [
     {
       "titolo": "Agenti di OpenAI hanno attaccato RubyGems a maggio",
@@ -18,19 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini è una pagina web camuffata? La verità sull'app di Google | Video",
-      "descrizione": "Appena lanciata e fa già discutere.",
-      "link": "https://www.hdblog.it/google/articoli/n670104/gemini-windows-app-web-limiti-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T08:55:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Dario Amodei: gli agenti AI controlleranno Internet",
-      "descrizione": "Dario Amodei (CEO di Anthropic) suggerisce di rallentare lo sviluppo AI per evitare conseguenze disastrose, come un attacco globale di agenti AI. The post Dario Amodei: gli agenti AI controlleranno Internet appeared firs",
-      "link": "https://www.punto-informatico.it/dario-amodei-agenti-ai-controlleranno-internet/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-13T08:26:57+00:00",
+      "titolo": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
+      "descrizione": "As an Ex-Anthropic warns AI will get self-sufficient and kill our posterity.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-13T13:36:35+00:00",
       "modello": "claude"
     },
     {
