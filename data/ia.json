@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-09-14T05:00:31.245751+00:00",
+  "last_updated": "2026-09-14T12:53:13.910159+00:00",
   "items": [
     {
-      "titolo": "Sam Altman: non è il momento per la quotazione di OpenAI",
-      "descrizione": "Sam Altman (CEO di OpenAI) ha confermato che la quotazione in Borsa avverrà nel 2027 perché è necessario prima risolvere i problemi di sicurezza. The post Sam Altman: non è il momento per la quotazione di OpenAI appeared",
-      "link": "https://www.punto-informatico.it/sam-altman-quotazione-openai-2027/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-13T17:29:31+00:00",
+      "titolo": "Xiaomi lancia una nuova lavatrice a tre cestelli da 14 kg con AI",
+      "descrizione": "Xiaomi presenta in Cina una nuova lavatrice Mijia da 14 kg con tre cestelli indipendenti, utilizzabili per separare i capi e avviare contemporaneamente programmi di lavaggio differenti",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n670308/xiaomi-lavatrice-lavasciuga-tre-cestelli-14-kg-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-14T12:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Volete rimuovere tutto il bloatware da Windows 11 senza fatica?",
-      "descrizione": "Dovete provare Winhance: va super in profondità e rimuove anche funzioni fastidiose come AI / Copilot e così via. È gratis e open-source!",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670173/windows-11-rimuovere-bloatware-winhance/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-12T10:55:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
-      "descrizione": "As an Ex-Anthropic warns AI will get self-sufficient and kill our posterity.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet",
+      "titolo": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
+      "descrizione": "Russia turned Claude into a tool for weapons development, espionage, and propaganda, Anthropic's new threat report claims.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-13T13:36:35+00:00",
+      "data": "2026-09-14T11:00:00+00:00",
       "modello": "claude"
     },
     {
