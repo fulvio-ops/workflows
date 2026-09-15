@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-09-15T17:02:31.721303+00:00",
+  "last_updated": "2026-09-15T21:23:44.244656+00:00",
   "items": [
+    {
+      "titolo": "Ho provato Honor Pad 20 Pro, tuttofare con display e audio ottimi",
+      "descrizione": "Abbiamo provato il nuovo HONOR Pad 20 Pro, ecco cosa ci è piaciuto del tablet android di fascia media.",
+      "link": "https://www.hdblog.it/android/recensioni/n667841/ho-provato-honor-pad-20-pro-tuttofare-con-display-e-audio-ottimi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-15T19:00:00+00:00"
+    },
+    {
+      "titolo": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
+      "descrizione": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
+      "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
+      "fonte": "WIRED",
+      "data": "2026-09-15T17:50:40+00:00"
+    },
+    {
+      "titolo": "Jeep Avenger, il SUV più venduto d’Italia si rinnova: porte aperte e offerta a tasso zero",
+      "descrizione": "Jeep Avenger, il SUV più venduto d’Italia si rinnova: porte aperte e offerta a tasso zero",
+      "link": "https://www.hdmotori.it/jeep-avenger-porte-aperte-offerta-tasso-zero/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-15T17:30:03+00:00"
+    },
+    {
+      "titolo": "5.000 test per fermare gli agenti AI prima che facciano danni",
+      "descrizione": "Un nuovo standard mette alla prova gli agenti AI prima del loro utilizzo in azienda.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670468/agenti-ai-sicurezza-test-aiuc/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-15T17:20:00+00:00"
+    },
+    {
+      "titolo": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 — OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'",
+      "descrizione": "The CEOs of OpenAI and Anthropic, as well as other industry leaders, are calling for a general slowdown in AI development over safety fears. On the flip side, Chinese authorities, the U.S. President, and CEO of Nvidia ha",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-15T17:19:36+00:00"
+    },
+    {
+      "titolo": "Fujifilm Instax Pal 2 ufficiale: la super compatta diventa ancora più analogica",
+      "descrizione": "Rimane compattissima come la Pal di prima generazione, ma include diverse novità ed è estremamente versatile.",
+      "link": "https://www.hdblog.it/fotografia/articoli/n670495/fujifilm-instax-pal-2-specifiche-novita-compatta/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-15T17:15:00+00:00"
+    },
+    {
+      "titolo": "Basta musica per bambini nelle tue playlist: Spotify permette di toglierla dal Wrapped",
+      "descrizione": "Spotify introduce un nuovo interruttore che esclude la musica per bambini e famiglia dal profilo gusti degli utenti, così Discover Weekly, Daily Mix e Wrapped non finiscono più invasi dalle sigle dei...",
+      "link": "https://www.hdblog.it/curiosita/articoli/n670487/spotify-interruttore-musica-bambini-off-correlati/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-15T17:10:00+00:00"
+    },
     {
       "titolo": "La Topolino mette la capote: nuova versione Dolcevita a 39 euro al mese",
       "descrizione": "La Fiat Topolino riceve la capote apribile nella nuova versione Dolcevita. Le caratteristiche, i prezzi e i dettagli dell'offerta finanziaria \"Back to School\"",
@@ -65,14 +114,7 @@
       "data": "2026-09-15T15:30:30+00:00"
     },
     {
-      "titolo": "Ikea fotografa il disordine degli italiani: 9 su 10 hanno una zona critica in casa",
-      "descrizione": "Il 59% degli italiani possiede un “cassetto del non so dove metterlo”, mentre quasi uno su due ammette di spostare il disordine da una stanza all’altra prima dell’arrivo degli ospiti",
-      "link": "https://www.hdblog.it/home/articoli/n670486/ikea-ricerca-case-italiani-disordine/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-15T15:25:00+00:00"
-    },
-    {
-      "titolo": "Asus' ludicrous 20th anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this $10,850 bundle with a 3000W PSU, X870E board, and open-frame case is actually cheap",
+      "titolo": "Asus' ludicrous $10,850 20th-anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this bundle with a 3000W PSU, X870E board, and open-frame case is actually cheap",
       "descrizione": "This ultra-premium Asus ROG Edition 20th Anniversary Combo set at Newegg is super expensive at $10,849.96, but ironically, it's the 'cheapest' way to pick up an RTX 5090 right now.",
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings",
       "fonte": "Latest from Tom's Hardware",
@@ -84,34 +126,6 @@
       "link": "https://www.punto-informatico.it/revolut-richieste-dati-sistemi-polizia-postale/",
       "fonte": "Punto Informatico",
       "data": "2026-09-15T15:09:31+00:00"
-    },
-    {
-      "titolo": "Il data breach di Revolut coinvolge anche le forze dell'ordine italiane",
-      "descrizione": "A quanto pare gli hacker sono riusciti a bucare una PEC ufficiale delle forze dell'ordine italiane... rubando nel frattempo gran quantità di dati riservati e personali di dversi agenti.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n670483/revolut-data-breach-violata-pec-fdo-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-15T15:05:00+00:00"
-    },
-    {
-      "titolo": "Toyota Professional: è boom di vendite, e nel 2028 arriva il primo idrogeno",
-      "descrizione": "In Italia Toyota domina la mobilità elettrica da lavoro: oltre 1.000 van a spina consegnati nei primi 8 mesi del 2026, con Proace City EV e Proace Max EV in cima ai listini.",
-      "link": "https://www.hdmotori.it/toyota-veicoli-commerciali-2026-elettrici-idrogeno-2028/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-15T15:00:50+00:00"
-    },
-    {
-      "titolo": "L'Italia ha un nuovo unicorno: chi è Exein, la startup di AI fisica che protegge i robot",
-      "descrizione": "Ha una valutazione di 1,7 miliardi di dollari: 2 anni fa valeva 55 milioni.",
-      "link": "https://www.hdblog.it/business/articoli/n670472/exein-unicorno-cybersecurity-italia-ai-fisica/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-15T14:50:00+00:00"
-    },
-    {
-      "titolo": "Ho provato Honor Pad 20 Pro, tuttofare con display e audio ottimi",
-      "descrizione": "Abbiamo provato il nuovo HONOR Pad 20 Pro, ecco cosa ci è piaciuto del tablet android di fascia media.",
-      "link": "https://www.hdblog.it/android/recensioni/n667841/ho-provato-honor-pad-20-pro-tuttofare-con-display-e-audio-ottimi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-15T14:31:00+00:00"
     },
     {
       "titolo": "Exein è il nuovo unicorno italiano: vale 1,7 miliardi di dollari",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-15T10:30:00+00:00"
-    },
-    {
-      "titolo": "Il motorola edge 70 fusion è in offerta con gli auricolari by Bose",
-      "descrizione": "Su eBay è disponibile un interessante bundle che vede il motorola edge 70 fusion in offerta speciale con gli auricolari moto buds by Bose. The post Il motorola edge 70 fusion è in offerta con gli auricolari by Bose appea",
-      "link": "https://www.punto-informatico.it/il-motorola-edge-70-fusion-e-in-offerta-con-gli-auricolari-by-bose/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-15T10:07:35+00:00"
-    },
-    {
-      "titolo": "If the US Collapses Soon, Don’t Blame Emily St. John Mandel",
-      "descrizione": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit Party, imagines two possible American futures—totalitarian state and post-civil-war chaos.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-emily-st-john-mandel-exit-party/",
-      "fonte": "WIRED",
-      "data": "2026-09-15T10:00:00+00:00"
     }
   ]
 }
