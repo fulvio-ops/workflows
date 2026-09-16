@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-09-15T21:23:44.244656+00:00",
+  "last_updated": "2026-09-16T04:53:00.640308+00:00",
   "items": [
+    {
+      "titolo": "Festa delle Offerte Prime in anticipo su Amazon",
+      "descrizione": "Per tutti gli abbonati, Amazon ha deciso di pubblicare la Festa delle Offerte Prime in anticipo per iniziare già adesso a risparmiare. The post Festa delle Offerte Prime in anticipo su Amazon appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/festa-delle-offerte-prime-in-anticipo-su-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-16T04:30:46+00:00"
+    },
     {
       "titolo": "Ho provato Honor Pad 20 Pro, tuttofare con display e audio ottimi",
       "descrizione": "Abbiamo provato il nuovo HONOR Pad 20 Pro, ecco cosa ci è piaciuto del tablet android di fascia media.",
@@ -161,13 +168,6 @@
       "link": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
       "fonte": "WIRED",
       "data": "2026-09-15T11:00:00+00:00"
-    },
-    {
-      "titolo": "Minecraft Legacy gets rewritten in C++ for PS2 and Wii ports — code is tuned so it works well even on the PS2’s meager 32MB of RAM",
-      "descrizione": "Games optimization specialist OptiProjects (AKA OptiJeugos) has released a new port of Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii consoles.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-15T10:30:00+00:00"
     }
   ]
 }
