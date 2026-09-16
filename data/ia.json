@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:01:00.905773+00:00",
+  "last_updated": "2026-09-16T21:20:45.037161+00:00",
   "items": [
     {
       "titolo": "GeForce RTX 5090 FE, il seriale si sbiadisce e l'assistenza in garanzia viene rifiutata",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot Cowork può sbagliare: Microsoft invita a controllare ogni azione",
-      "descrizione": "Copilot può commettere errori, interpretare male le istruzioni o essere ingannato",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670611/copilot-cowork-puo-sbagliare-microsoft/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T13:55:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Claude diventa uno solo: chat, documenti, slide e lavoro autonomo finiscono nella stessa finestra",
-      "descrizione": "Anthropic prova a eliminare una delle complicazioni create dalla corsa agli agenti: capire quale strumento usare.",
-      "link": "https://www.ilsole24ore.com/art/claude-diventa-solo-chat-documenti-slide-e-lavoro-autonomo-finiscono-stessa-finestra-AJbLruEB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-16T16:36:00+00:00",
+      "titolo": "Claude Cowork e Chat: unica interfaccia per la produttività",
+      "descrizione": "Anthropic ha unificato le interfacce di Claude Cowork e Claude Chat, integrando anche Claude Design, Claude Docs e Claude Slides. The post Claude Cowork e Chat: unica interfaccia per la produttività appeared first on Pun",
+      "link": "https://www.punto-informatico.it/claude-cowork-chat-unica-interfaccia-produttivita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-16T17:52:13+00:00",
       "modello": "claude"
     }
   ]

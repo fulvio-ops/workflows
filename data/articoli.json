@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-09-16T17:00:57.970089+00:00",
+  "last_updated": "2026-09-16T21:20:39.472384+00:00",
   "items": [
+    {
+      "titolo": "MacOS 27 Golden Gate: Top New Features",
+      "descrizione": "Siri’s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install.",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "fonte": "WIRED",
+      "data": "2026-09-16T19:29:15+00:00"
+    },
+    {
+      "titolo": "Altro che \"filtro sbobba AI\", il DLSS 5 ha un potenziale enorme | Focus di HDblog.it",
+      "descrizione": "I timori iniziali erano infondati, e NBA 2K27 lo dimostra molto bene. Certo, l'impatto sulle prestazioni è pesante... Ma tanto c'è la Frame Generation!",
+      "link": "https://www.hdblog.it/hardware/recensioni/n670513/dlss-5-nvidia-neural-rendering-test-nba2k27-mod/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T19:01:00+00:00"
+    },
+    {
+      "titolo": "Android 17 QPR1: tutte le novità in arrivo sui Google Pixel",
+      "descrizione": "Google rilascia Android 17 QPR1: nuova interfaccia, nuove funzioni di sicurezza, pause per il benessere digitale e miglioramenti per i Pixel. The post Android 17 QPR1: tutte le novità in arrivo sui Google Pixel appeared",
+      "link": "https://www.punto-informatico.it/android-17-qpr1-tutte-novita-in-arrivo-google-pixel/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-16T18:33:53+00:00"
+    },
+    {
+      "titolo": "Apple porta l'iPhone 18 Pro in mostra: scatti firmati da tre fotografi",
+      "descrizione": "Si comincia da New York il 18 settembre.",
+      "link": "https://www.hdblog.it/apple/articoli/n670655/apple-iphone-18-pro-mostra-foto-what-holds-us/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T18:25:00+00:00"
+    },
+    {
+      "titolo": "The Best Movies to Stream This Month (September 2026)",
+      "descrizione": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month.",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "fonte": "WIRED",
+      "data": "2026-09-16T18:23:37+00:00"
+    },
+    {
+      "titolo": "Claude Cowork e Chat: unica interfaccia per la produttività",
+      "descrizione": "Anthropic ha unificato le interfacce di Claude Cowork e Claude Chat, integrando anche Claude Design, Claude Docs e Claude Slides. The post Claude Cowork e Chat: unica interfaccia per la produttività appeared first on Pun",
+      "link": "https://www.punto-informatico.it/claude-cowork-chat-unica-interfaccia-produttivita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-16T17:52:13+00:00"
+    },
+    {
+      "titolo": "I recommend you don’t run these appliances on your power station – even if you can",
+      "descrizione": "Using a power station for backup is ideal, but not with these appliances.",
+      "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+      "fonte": "news – ZDNET",
+      "data": "2026-09-16T17:44:31+00:00"
+    },
+    {
+      "titolo": "Occhiali smart, Meta starebbe per lanciare un modello meno controverso",
+      "descrizione": "Così sfugge alle polemiche legate ai Ray-Ban e alla loro fotocamera",
+      "link": "https://www.hdblog.it/accessori/articoli/n670598/occhiali-smart-meta-modello-piu-sicuro/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T17:20:00+00:00"
+    },
+    {
+      "titolo": "Amazon aumenta la paga ai lavoratori USA e introduce nuovi benefit",
+      "descrizione": "Dal salario minimo iniziale di 20 dollari l’ora agli sconti fino al 20% da Whole Foods: Amazon annuncia aumenti e nuovi benefit destinati ai dipendenti statunitensi",
+      "link": "https://www.hdblog.it/amazon/articoli/n670639/amazon-aumento-stipendio-dipendenti-usa-1-dollaro/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T17:10:00+00:00"
+    },
     {
       "titolo": "Pentagono ordina i primi robot soldato per le missioni ad alto rischio",
       "descrizione": "Il Pentagono finanzia per 24 milioni di dollari la startup Foundation. Arrivano i robot Phantom MK-1 per le missioni di guerra ad alto rischio. The post Pentagono ordina i primi robot soldato per le missioni ad alto risc",
@@ -86,13 +149,6 @@
       "data": "2026-09-16T15:19:42+00:00"
     },
     {
-      "titolo": "Samsung dà ufficialmente il via al rollout di One UI 9: si parte dai Galaxy S26",
-      "descrizione": "Parte il rilascio dell'aggiornamento a One UI 9 per i Samsung Galaxy S26.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670599/samsung-one-ui-9-galaxy-s26/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T14:40:00+00:00"
-    },
-    {
       "titolo": "Bollo auto, addio: chi non lo pagherà più e da quando",
       "descrizione": "Annunciata l'abolizione del bollo auto per i veicoli piccolo e medi, oltre che per tutti i motocicli: interessati 14,5 milioni di veicoli. The post Bollo auto, addio: chi non lo pagherà più e da quando appeared first on",
       "link": "https://www.punto-informatico.it/bollo-auto-addio/",
@@ -107,67 +163,11 @@
       "data": "2026-09-16T14:36:48+00:00"
     },
     {
-      "titolo": "Fiat Panda e Pandina dal meccanico: i problemi più frequenti",
-      "descrizione": "L'analisi dei meccanici sulla Fiat Panda e Pandina: difetti ricorrenti, affidabilità dei motori e perché resta l'auto economica più facile da riparare",
-      "link": "https://www.hdmotori.it/fiat-panda-pandina-affidabilita-difetti-meccanici/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T14:30:24+00:00"
-    },
-    {
       "titolo": "Divieto di accesso ai social per minori di 13 anni in Europa",
       "descrizione": "La proposta di legge UE Kids Act vieterà l'accesso ai social media per i minori di 13 anni, mentre tra 13 e 15 anni servirà il consenso dei genitori. The post Divieto di accesso ai social per minori di 13 anni in Europa",
       "link": "https://www.punto-informatico.it/divieto-accesso-social-minori-13-anni-europa/",
       "fonte": "Punto Informatico",
       "data": "2026-09-16T14:25:34+00:00"
-    },
-    {
-      "titolo": "Bonus Vacanze, occhio al sito che ruba documenti e busta paga",
-      "descrizione": "Cybercriminali promettono un Bonus Vacanze inesistente tramite un falso sito dell'Agenzia delle Entrate: il rischio è il furto di identità. The post Bonus Vacanze, occhio al sito che ruba documenti e busta paga appeared",
-      "link": "https://www.punto-informatico.it/bonus-vacanze-sito-ruba-documenti-busta-paga/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-16T14:20:06+00:00"
-    },
-    {
-      "titolo": "Altro che \"filtro sbobba AI\", il DLSS 5 ha un potenziale enorme | Focus di HDblog.it",
-      "descrizione": "I timori iniziali erano infondati, e NBA 2K27 lo dimostra molto bene. Certo, l'impatto sulle prestazioni è pesante... Ma tanto c'è la Frame Generation!",
-      "link": "https://www.hdblog.it/hardware/recensioni/n670513/dlss-5-nvidia-neural-rendering-test-nba2k27-mod/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T14:01:00+00:00"
-    },
-    {
-      "titolo": "Copilot Cowork può sbagliare: Microsoft invita a controllare ogni azione",
-      "descrizione": "Copilot può commettere errori, interpretare male le istruzioni o essere ingannato",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670611/copilot-cowork-puo-sbagliare-microsoft/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T13:55:00+00:00"
-    },
-    {
-      "titolo": "Caso Revolut: cosa rischiano i clienti della banca",
-      "descrizione": "Dati personali, documenti e selfie dei clienti di Revolut nelle mani dei cybercriminali: quali sono i rischi, tra phishing e truffe. The post Caso Revolut: cosa rischiano i clienti della banca appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/fintech/conti/caso-revolut-cosa-rischiano-clienti-banca/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-16T13:48:37+00:00"
-    },
-    {
-      "titolo": "Googlebook, ci siamo: spuntano immagini col design dei modelli Acer, ASUS e Lenovo",
-      "descrizione": "Mancano pochi giorni ai preordini dei Googlebook: sono spuntate le immagini dei modelli che saranno proposti da Acer, ASUS e Lenovo.",
-      "link": "https://www.hdblog.it/portatili/articoli/n670595/googlebook-immagini-design-acer-asus-lenovo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T13:45:00+00:00"
-    },
-    {
-      "titolo": "Gli USA hanno armi nello spazio, avvertimento di Cina e Russia",
-      "descrizione": "Gli Stati Uniti hanno ammesso per la prima volta di avere armi nello spazio, ma senza specificare il tipo e quando sono state lanciate. The post Gli USA hanno armi nello spazio, avvertimento di Cina e Russia appeared fir",
-      "link": "https://www.punto-informatico.it/usa-armi-spazio-avvertimento-cina-russia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-16T13:27:04+00:00"
-    },
-    {
-      "titolo": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips",
-      "descrizione": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies.",
-      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-16T12:15:42+00:00"
     }
   ]
 }
