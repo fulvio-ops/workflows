@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-16T11:40:00.270457+00:00",
+  "last_updated": "2026-09-16T17:01:00.905773+00:00",
   "items": [
     {
-      "titolo": "'Defeated' GPT-6 Astra model spent several hours just farming potatoes after being blown up by a Creeper in Minecraft — OpenAI offering gets further than any other AI system in 141-hour test",
-      "descrizione": "OpenAI's GPT-6 Astra spent hours just farming potatoes after dying and losing all of its gear during a Minecraft test.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-16T11:15:00+00:00",
+      "titolo": "GeForce RTX 5090 FE, il seriale si sbiadisce e l'assistenza in garanzia viene rifiutata",
+      "descrizione": "A quanto pare capita piuttosto spesso nelle GeForce RTX Founders di ultima generazione.",
+      "link": "https://www.hdblog.it/hardware/articoli/n670640/nvidia-geforce-rtx-5090-seriale-sbiadito/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T16:55:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3.8 Live, l’AI di Google ragiona mentre parli",
-      "descrizione": "Google lancia due nuovi modelli Gemini per l'interazione vocale: Extended Thinking gestisce attività complesse con ragionamento avanzato. The post Gemini 3.8 Live, l’AI di Google ragiona mentre parli appeared first on Pu",
-      "link": "https://www.punto-informatico.it/gemini-3-8-live-ai-google-ragiona-mentre-parli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-16T07:13:11+00:00",
-      "modello": "gemini"
+      "titolo": "Copilot Cowork può sbagliare: Microsoft invita a controllare ogni azione",
+      "descrizione": "Copilot può commettere errori, interpretare male le istruzioni o essere ingannato",
+      "link": "https://www.hdblog.it/microsoft/articoli/n670611/copilot-cowork-puo-sbagliare-microsoft/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-16T13:55:00+00:00",
+      "modello": "copilot"
     },
     {
-      "titolo": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 — OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'",
-      "descrizione": "The CEOs of OpenAI and Anthropic, as well as other industry leaders, are calling for a general slowdown in AI development over safety fears. On the flip side, Chinese authorities, the U.S. President, and CEO of Nvidia ha",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-15T17:19:36+00:00",
+      "titolo": "Claude diventa uno solo: chat, documenti, slide e lavoro autonomo finiscono nella stessa finestra",
+      "descrizione": "Anthropic prova a eliminare una delle complicazioni create dalla corsa agli agenti: capire quale strumento usare.",
+      "link": "https://www.ilsole24ore.com/art/claude-diventa-solo-chat-documenti-slide-e-lavoro-autonomo-finiscono-stessa-finestra-AJbLruEB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-16T16:36:00+00:00",
       "modello": "claude"
     }
   ]
