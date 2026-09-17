@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-16T21:20:45.037161+00:00",
+  "last_updated": "2026-09-17T04:56:33.033867+00:00",
   "items": [
     {
-      "titolo": "GeForce RTX 5090 FE, il seriale si sbiadisce e l'assistenza in garanzia viene rifiutata",
-      "descrizione": "A quanto pare capita piuttosto spesso nelle GeForce RTX Founders di ultima generazione.",
-      "link": "https://www.hdblog.it/hardware/articoli/n670640/nvidia-geforce-rtx-5090-seriale-sbiadito/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-16T16:55:00+00:00",
+      "titolo": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "descrizione": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "fonte": "WIRED",
+      "data": "2026-09-16T22:07:24+00:00",
       "modello": "chatgpt"
     },
     {
