@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-09-17T17:02:23.506124+00:00",
+  "last_updated": "2026-09-17T21:25:06.063620+00:00",
   "items": [
+    {
+      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "fonte": "WIRED",
+      "data": "2026-09-17T18:42:25+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID.3 GTI: con 326 CV è la più potente di sempre",
+      "descrizione": "La Casa di Wolfsburg presenta il modello GTI più potente di sempre, realizzato su base ID.3 Neo: trazione posteriore, oltre 600 km di autonomia e soluzioni per ottimizzare le prestazioni.",
+      "link": "https://www.hdmotori.it/volkswagen-id-3-gti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T18:30:43+00:00"
+    },
+    {
+      "titolo": "Rolls-Royce Phantom Hummingbird: l'iridescenza dell'abalone conquista Goodwood",
+      "descrizione": "Rolls-Royce presenta la Phantom Hummingbird: un’opera d'arte su misura che introduce per la prima volta l'abalone negli intarsi, combinando alta sartoria e natura",
+      "link": "https://www.hdmotori.it/rolls-royce-phantom-hummingbird-abalone/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T18:00:16+00:00"
+    },
+    {
+      "titolo": "Celle a idrogeno, dalla Cina una tecnologia 4 volte più potente",
+      "descrizione": "Nuova cella PEM aumenta potenza e trasporto dei protoni usando meno platino",
+      "link": "https://www.hdblog.it/green/articoli/n670750/cella-idrogeno-quattro-volte-potenza/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T17:30:00+00:00"
+    },
+    {
+      "titolo": "Dimensity 9600 Pro: primo chip a 2 nanometri di MediaTek",
+      "descrizione": "Dimensity 9600 Pro è il primo chip di MediaTek realizzato con tecnologia di processo a 2 nanometri, la stessa dello Snapdragon 8 Elite Gen 6. The post Dimensity 9600 Pro: primo chip a 2 nanometri di MediaTek appeared fir",
+      "link": "https://www.punto-informatico.it/dimensity-9600-pro-primo-chip-2-nanometri-mediatek/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T17:16:07+00:00"
+    },
+    {
+      "titolo": "Apple Store, confermato lo sciopero: domani stop nel giorno dei nuovi iPhone",
+      "descrizione": "Domani i dipendenti di Apple Retail Italia incroceranno le braccia.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670787/apple-store-confermato-sciopero-domani/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T17:03:00+00:00"
+    },
     {
       "titolo": "Lancia Gamma, il grande ritorno: fino a 1.000 km e 375 CV",
       "descrizione": "Presentata a Roma la nuova Lancia Gamma: il crossover fastback da 4,67 metri sarà prodotto a Melfi in versione ibrida ed elettrica con autonomia fino a 1.000 km",
@@ -30,8 +72,8 @@
       "data": "2026-09-17T16:35:00+00:00"
     },
     {
-      "titolo": "Agility svela Digit 5: il robot da 2,5 miliardi di euro arriva in Europa",
-      "descrizione": "Agility Robotics ha svelato Digit 5, il nuovo robot umanoide destinato al lavoro industriale su larga scala. The post Agility svela Digit 5: il robot da 2,5 miliardi di euro arriva in Europa appeared first on Punto Infor",
+      "titolo": "Agility svela Digit 5: il robot per l’industria arriva in Europa",
+      "descrizione": "Agility Robotics ha svelato Digit 5, il nuovo robot umanoide destinato al lavoro industriale su larga scala. The post Agility svela Digit 5: il robot per l’industria arriva in Europa appeared first on Punto Informatico .",
       "link": "https://www.punto-informatico.it/agility-svela-digit-5-robot-25-miliardi-euro-arriva-europa/",
       "fonte": "Punto Informatico",
       "data": "2026-09-17T16:33:56+00:00"
@@ -114,13 +156,6 @@
       "data": "2026-09-17T14:45:00+00:00"
     },
     {
-      "titolo": "GTA 6 The Album, ufficiale la colonna sonora: anche in formato fisico (CD e vinile)",
-      "descrizione": "Ecco quando esce e quanto costa. Preordini aperti da subito.",
-      "link": "https://www.hdblog.it/games/articoli/n670763/gta-6-colonna-sonora-the-album-quando-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T14:15:00+00:00"
-    },
-    {
       "titolo": "Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta)",
       "descrizione": "Firefox integra il modello Small 4 di Mistral in Smart Window: la funzione arriva in Europa, ma per l'Italia bisognerà aspettare ancora. The post Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta) appe",
       "link": "https://www.punto-informatico.it/firefox-ai-mistral-smart-window/",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/revolut-riscatto-3-milioni-pubblicare-dati/",
       "fonte": "Punto Informatico",
       "data": "2026-09-17T14:12:38+00:00"
-    },
-    {
-      "titolo": "Digitale terrestre in tilt con canali doppi o spariti? Ecco come risintonizzare la TV",
-      "descrizione": "L'aggiornamento del Digitale Terrestre in Italia sta modificando le numerazioni dei canali.",
-      "link": "https://www.hdblog.it/tv/articoli/n670749/digitale-terrestre-risintonizzare-canali-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T14:05:00+00:00"
-    },
-    {
-      "titolo": "Iliad, arriva il nuovo prefisso 3523",
-      "descrizione": "La società francese continua a espandersi sul territorio.",
-      "link": "https://www.hdblog.it/mobile/articoli/n670755/iliad-nuovo-prefisso-3523-mimit/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T13:35:00+00:00"
-    },
-    {
-      "titolo": "Cometa di Halley, allo studio una nuova missione",
-      "descrizione": "La cometa di Halley sta tornando verso il Sole, l’anno del rendez vous è il 2061. Come sempre sarà visibile e richiamerà l’attenzione del pubblico. Ritorna quindi e i suoi...",
-      "link": "https://www.ilsole24ore.com/art/cometa-halley-studio-nuova-missione-AJCdWmDB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-17T13:28:23+00:00"
-    },
-    {
-      "titolo": "Phishing via email, attenzione alle false trascrizioni dei vocali",
-      "descrizione": "Una massiccia campagna di phishing usa finte notifiche di trascrizioni dei vocale: decine di migliaia di email inviate alle aziende. The post Phishing via email, attenzione alle false trascrizioni dei vocali appeared fir",
-      "link": "https://www.punto-informatico.it/phishing-via-email-attenzione-false-trascrizioni-vocali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-17T12:10:26+00:00"
-    },
-    {
-      "titolo": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-      "descrizione": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T12:00:00+00:00"
     }
   ]
 }

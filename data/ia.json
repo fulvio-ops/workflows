@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-17T17:02:26.637159+00:00",
+  "last_updated": "2026-09-17T21:25:09.875381+00:00",
   "items": [
     {
-      "titolo": "7 prompt di ChatGPT per scoprire film, musica, giochi e altro",
-      "descrizione": "Come usare ChatGPT per analizzare i propri gusti e trovare film, canzoni, libri e videogiochi senza affidarsi solo ai generi. The post 7 prompt di ChatGPT per scoprire film, musica, giochi e altro appeared first on Punto",
-      "link": "https://www.punto-informatico.it/7-prompt-chatgpt-scoprire-film-musica-giochi-altro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-17T15:31:16+00:00",
+      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "fonte": "WIRED",
+      "data": "2026-09-17T18:42:25+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
-      "descrizione": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-      "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-      "fonte": "news – ZDNET",
-      "data": "2026-09-17T17:00:00+00:00",
+      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "fonte": "WIRED",
+      "data": "2026-09-17T18:42:25+00:00",
       "modello": "claude"
     },
     {
