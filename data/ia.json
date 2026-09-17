@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-17T04:56:33.033867+00:00",
+  "last_updated": "2026-09-17T11:45:49.772040+00:00",
   "items": [
     {
-      "titolo": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-      "descrizione": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "fonte": "WIRED",
-      "data": "2026-09-16T22:07:24+00:00",
+      "titolo": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
+      "descrizione": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft.",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-17T11:17:02+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude Cowork e Chat: unica interfaccia per la produttività",
-      "descrizione": "Anthropic ha unificato le interfacce di Claude Cowork e Claude Chat, integrando anche Claude Design, Claude Docs e Claude Slides. The post Claude Cowork e Chat: unica interfaccia per la produttività appeared first on Pun",
-      "link": "https://www.punto-informatico.it/claude-cowork-chat-unica-interfaccia-produttivita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-16T17:52:13+00:00",
+      "titolo": "Cercavi l'amore, hai trovato Claude: la truffa delle app di incontri con finte persone AI",
+      "descrizione": "Un report di threat intelligence di Anthropic svela una rete di oltre 20 app di dating gestite in gran parte da persone AI, capaci di generare 2,36 milioni di messaggi in due settimane dialogando con...",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670685/claude-truffa-app-incontri-finte-persone-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T10:05:00+00:00",
       "modello": "claude"
     }
   ]
