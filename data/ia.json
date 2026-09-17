@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-09-17T11:45:49.772040+00:00",
+  "last_updated": "2026-09-17T17:02:26.637159+00:00",
   "items": [
     {
-      "titolo": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
-      "descrizione": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T11:17:02+00:00",
+      "titolo": "7 prompt di ChatGPT per scoprire film, musica, giochi e altro",
+      "descrizione": "Come usare ChatGPT per analizzare i propri gusti e trovare film, canzoni, libri e videogiochi senza affidarsi solo ai generi. The post 7 prompt di ChatGPT per scoprire film, musica, giochi e altro appeared first on Punto",
+      "link": "https://www.punto-informatico.it/7-prompt-chatgpt-scoprire-film-musica-giochi-altro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T15:31:16+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Cercavi l'amore, hai trovato Claude: la truffa delle app di incontri con finte persone AI",
-      "descrizione": "Un report di threat intelligence di Anthropic svela una rete di oltre 20 app di dating gestite in gran parte da persone AI, capaci di generare 2,36 milioni di messaggi in due settimane dialogando con...",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670685/claude-truffa-app-incontri-finte-persone-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T10:05:00+00:00",
+      "titolo": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+      "descrizione": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+      "fonte": "news – ZDNET",
+      "data": "2026-09-17T17:00:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta)",
+      "descrizione": "Firefox integra il modello Small 4 di Mistral in Smart Window: la funzione arriva in Europa, ma per l'Italia bisognerà aspettare ancora. The post Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta) appe",
+      "link": "https://www.punto-informatico.it/firefox-ai-mistral-smart-window/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T14:14:09+00:00",
+      "modello": "altri"
     }
   ]
 }

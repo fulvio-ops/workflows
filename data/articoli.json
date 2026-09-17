@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-09-17T11:45:45.581263+00:00",
+  "last_updated": "2026-09-17T17:02:23.506124+00:00",
   "items": [
     {
-      "titolo": "Più Giga spendendo meno: come sono cambiate le offerte mobile per studenti",
-      "descrizione": "Per messaggistica, social e piattaforme didattiche possono bastare 100-150 GB, mentre hotspot e streaming richiedono di più: ecco prezzi e caratteristiche delle SIM per studenti",
-      "link": "https://www.hdblog.it/virtuali/articoli/n670735/offerte-telefonia-studenti-prezzi-andamento-2026/",
+      "titolo": "Lancia Gamma, il grande ritorno: fino a 1.000 km e 375 CV",
+      "descrizione": "Presentata a Roma la nuova Lancia Gamma: il crossover fastback da 4,67 metri sarà prodotto a Melfi in versione ibrida ed elettrica con autonomia fino a 1.000 km",
+      "link": "https://www.hdmotori.it/nuova-lancia-gamma-motori-autonomia-melfi/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:45:00+00:00"
+      "data": "2026-09-17T17:00:14+00:00"
     },
     {
-      "titolo": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
-      "descrizione": "The Community Investment Framework puts forward recommendations that towns and municipalities could follow when negotiating with data center developers. This includes charging $1 million per megawatt of demand, among oth",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-york-state-recommends-demanding-ai-data-centers-pay-usd1-million-in-community-investment-per-megawatt-framework-advises-towns-to-plan-for-maintenance-costs-site-abandonment-and-other-contingencies",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T11:44:19+00:00"
+      "titolo": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+      "descrizione": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+      "fonte": "news – ZDNET",
+      "data": "2026-09-17T17:00:00+00:00"
     },
     {
-      "titolo": "REDMI Note 17 Series debutta in Italia: offerte fino a 200€, anche su Amazon",
-      "descrizione": "REDMI Note 17 Series debutta in Italia con quattro modelli e diverse promo: sconti fino a 200€, coupon MAXPOWER, bundle con REDMI Watch 6 e 50€ di Amazon Credit sul Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n670721/redmi-note-17-series-offerte-lancio-amazon-coupon/",
+      "titolo": "Gli USA vogliono riportare un reattore nucleare in orbita",
+      "descrizione": "Un microreattore potrebbe riportare l’energia nucleare nelle orbite americane.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670744/reattore-nucleare-spazio-antares/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:35:00+00:00"
+      "data": "2026-09-17T16:55:00+00:00"
     },
     {
-      "titolo": "Volvo XC60 e XC90 PHEV 2027: l'ibrido plug-in con autonomia fino a 200 km",
-      "descrizione": "Con una percorrenza in elettrico fino a 200 km, le Volvo XC60 e XC90 restyling ridefiniscono gli standard di autonomia per l’ibrido plug-in. Tra le novità anche l'integrazione di...",
-      "link": "https://www.hdmotori.it/volvo-xc60-xc90-2027-ibrido-plug-in-autonomia/",
+      "titolo": "Chip fotonici, un laser taglia del 95% la luce riflessa",
+      "descrizione": "Un laser permette di integrare isolatori ottici nei chip riducendo del 95% i riflessi.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670743/laser-chip-fotonici-isolatore-ottico/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:30:05+00:00"
+      "data": "2026-09-17T16:35:00+00:00"
     },
     {
-      "titolo": "Hackers find encryption keys stored on stolen Flock camera despite company's denials — group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
-      "descrizione": "Hacking group stegan0gram got its hands on a Flock camera and broke into its systems to see how it worked. It turns out that these devices store thousands of clips and captures millions of images, and could also detect p",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T11:30:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi 18 Pro è un gran bel vedere in queste nuove foto dal vivo",
-      "descrizione": "Il nuovo Xiaomi 18 Pro non si nasconde più e si fa ammirare nelle ultime foto leak.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670715/xiaomi-18-pro-foto-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T11:25:00+00:00"
-    },
-    {
-      "titolo": "Google Home ora consuma meno batteria dello smartphone, e non solo",
-      "descrizione": "Quando lo smartphone è in standby, bloccato o con lo schermo spento i widget smettono di aggiornarsi.",
-      "link": "https://www.hdblog.it/google/articoli/n670730/google-home-novita-firmware-widget-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T11:20:00+00:00"
-    },
-    {
-      "titolo": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
-      "descrizione": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T11:17:02+00:00"
-    },
-    {
-      "titolo": "Impianto cerebrale wireless ridà la parola a paziente paralizzata",
-      "descrizione": "Un impianto cerebrale completamente wireless ha permesso a una paziente paralizzata di comunicare attraverso testo e voce sintetica. The post Impianto cerebrale wireless ridà la parola a paziente paralizzata appeared fir",
-      "link": "https://www.punto-informatico.it/impianto-cerebrale-wireless-rida-parola-paziente-paralizzata/",
+      "titolo": "Agility svela Digit 5: il robot da 2,5 miliardi di euro arriva in Europa",
+      "descrizione": "Agility Robotics ha svelato Digit 5, il nuovo robot umanoide destinato al lavoro industriale su larga scala. The post Agility svela Digit 5: il robot da 2,5 miliardi di euro arriva in Europa appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/agility-svela-digit-5-robot-25-miliardi-euro-arriva-europa/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T11:16:35+00:00"
+      "data": "2026-09-17T16:33:56+00:00"
     },
     {
-      "titolo": "Tre account WhatsApp indipendenti sullo stesso iPhone, Meta ci sta lavorando",
-      "descrizione": "Il team di Meta al lavoro su WhatsApp ha dato il via alla fase di test per il supporto alla gestione di tre account su un unico dispositivo.",
-      "link": "https://www.hdblog.it/apple/articoli/n670707/tre-account-whatsapp-stesso-iphone-meta-quando/",
+      "titolo": "La Abarth 695 più folle di sempre: un mostro da 600 CV sulle ruote anteriori",
+      "descrizione": "Cesare Bassanini e Old School Garage trasformano la Abarth 695 Biposto in un mostro da Time Attack con 600 CV a trazione anteriore e cambio sequenziale",
+      "link": "https://www.hdmotori.it/abarth-695-biposto-600-cv-time-attack/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:15:00+00:00"
+      "data": "2026-09-17T16:30:41+00:00"
     },
     {
-      "titolo": "Snap lancia Specs Intelligence, il nuovo assistente AI arriva su iPhone e Mac",
-      "descrizione": "Specs Intelligence può collegarsi alle app e ai servizi scelti dall'utente",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670734/snap-lancia-specs-intelligence-assistente-ai/",
+      "titolo": "EU KIDS Act, proposte nuove regole per i minori online: social vietati sotto i 13 anni",
+      "descrizione": "Cosa dice la proposta della Commissione europea, tra sicurezza e privacy.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n670777/ue-kids-act-social-minori-limiti-eta-privacy/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:10:00+00:00"
+      "data": "2026-09-17T16:25:00+00:00"
     },
     {
-      "titolo": "Huawei MatePad Air arriva in Italia: display OLED PaperMatte per studio e creativi",
-      "descrizione": "Prezzo, promo e caratteristiche.",
-      "link": "https://www.hdblog.it/tablet/articoli/n670714/huawei-matepad-air-12-papermatte-prezzo-italia/",
+      "titolo": "Honor MagicOS 11 è ufficiale: sì, con quegli effetti Liquid Glass somiglia tanto a iOS",
+      "descrizione": "A dettare la linea estetica di un sistema aperto all'interpretazione dei vari produttori come Android non è tanto Google, quanto Apple, specie per quanto riguarda i marchi cinesi. A...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670771/honor-magicos-11-liquid-glass-novita-modelli-quali/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:05:00+00:00"
+      "data": "2026-09-17T16:20:00+00:00"
     },
     {
-      "titolo": "Bollo auto 2027, quali sono i modelli che non lo pagheranno",
-      "descrizione": "Il decreto cancella la tassa dal 2027 per il 70% dei veicoli entro gli 80 kW. Sconto su utilitarie e citycar, ma per i motori con più di 110 CV l'imposta resta obbligatoria",
-      "link": "https://www.hdmotori.it/abolizione-bollo-auto-2027-modelli-esenti/",
+      "titolo": "Nancy Grace Roman Space Telescope funzionerà per 22 anni",
+      "descrizione": "Grazie alla precisione del lancio, all'aggiunta di propellente iniziale e ai consumi ridotti, la missione dovrebbe durare almeno 22 anni. The post Nancy Grace Roman Space Telescope funzionerà per 22 anni appeared first o",
+      "link": "https://www.punto-informatico.it/nancy-grace-roman-space-telescope-funzionera-22-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T16:12:46+00:00"
+    },
+    {
+      "titolo": "Il drone stealth WZ-X della Cina torna in volo: cosa sappiamo",
+      "descrizione": "Il misterioso WZ-X mostra caratteristiche pensate per ridurre la visibilità ai radar",
+      "link": "https://www.hdblog.it/droni/articoli/n670742/drone-stealth-cina-wz-x/",
       "fonte": "HDblog.it",
-      "data": "2026-09-17T11:00:00+00:00"
+      "data": "2026-09-17T15:55:00+00:00"
     },
     {
-      "titolo": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
-      "descrizione": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
+      "titolo": "Spotify porta in Italia la monetizzazione dei podcast",
+      "descrizione": "Spotify estende a 35 mercati il programma che remunera podcast audio e video",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670766/spotify-monetizzazione-podcast-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T15:40:00+00:00"
+    },
+    {
+      "titolo": "Il camion a guida autonoma senza cabina, la proposta di Einride e Lidl",
+      "descrizione": "In Germania si è ritornati a parlare del camion full electric a guida autonoma di Einride, battezzato Einride Pod",
+      "link": "https://www.hdmotori.it/camion-guida-autonoma-senza-cabina-einride-lidl/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T15:30:18+00:00"
+    },
+    {
+      "titolo": "Parlamento UE chiede misure per la sicurezza online dei minori",
+      "descrizione": "Il Parlamento europeo ha adottato tre proposte per garantire una maggiore sicurezza online che riguardano social media, video sharing e influencer. The post Parlamento UE chiede misure per la sicurezza online dei minori",
+      "link": "https://www.punto-informatico.it/parlamento-ue-chiede-misure-per-la-sicurezza-online-dei-minori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T15:21:23+00:00"
+    },
+    {
+      "titolo": "Xiaomi, ecco la prima videocamera di sorveglianza a colori anche di notte",
+      "descrizione": "Prezzi accessibili, per ora solo in Cina.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n670767/xiaomi-mijia-videocamera-notte-colori/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T15:05:00+00:00"
+    },
+    {
+      "titolo": "TP-Link Tapo C200, due falle permettono di spiare in casa",
+      "descrizione": "TP-Link ha già corretto le due vulnerabilità della Tapo C200: perché è importante aggiornare subito il firmware della videocamera. The post TP-Link Tapo C200, due falle permettono di spiare in casa appeared first on Punt",
+      "link": "https://www.punto-informatico.it/tplink-tapo-c200-due-falle-permettono-spiare-casa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T14:59:45+00:00"
+    },
+    {
+      "titolo": "Bose rinnova gli auricolari open-ear: ecco i nuovi Sport Open e Ultra Open",
+      "descrizione": "Bose presenta Sport Open Earbuds e Ultra Open Earbuds di seconda generazione, due nuovi auricolari open-ear con tecnologia OpenAudio, Bluetooth 5.4 e chiamate migliorate tramite AI",
+      "link": "https://www.hdblog.it/indossabili/articoli/n670765/bose-ultra-sport-open-earbuds-novita-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T14:45:00+00:00"
+    },
+    {
+      "titolo": "GTA 6 The Album, ufficiale la colonna sonora: anche in formato fisico (CD e vinile)",
+      "descrizione": "Ecco quando esce e quanto costa. Preordini aperti da subito.",
+      "link": "https://www.hdblog.it/games/articoli/n670763/gta-6-colonna-sonora-the-album-quando-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T14:15:00+00:00"
+    },
+    {
+      "titolo": "Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta)",
+      "descrizione": "Firefox integra il modello Small 4 di Mistral in Smart Window: la funzione arriva in Europa, ma per l'Italia bisognerà aspettare ancora. The post Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta) appe",
+      "link": "https://www.punto-informatico.it/firefox-ai-mistral-smart-window/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T14:14:09+00:00"
+    },
+    {
+      "titolo": "Revolut: riscatto di 3 milioni per non pubblicare i dati",
+      "descrizione": "I cybercriminali del gruppo IAmNotAVillain hanno chiesto a Revolut di pagare 3 milioni dollari per evitare la vendita o divulgazione dei dati dei clienti. The post Revolut: riscatto di 3 milioni per non pubblicare i dati",
+      "link": "https://www.punto-informatico.it/revolut-riscatto-3-milioni-pubblicare-dati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T14:12:38+00:00"
+    },
+    {
+      "titolo": "Digitale terrestre in tilt con canali doppi o spariti? Ecco come risintonizzare la TV",
+      "descrizione": "L'aggiornamento del Digitale Terrestre in Italia sta modificando le numerazioni dei canali.",
+      "link": "https://www.hdblog.it/tv/articoli/n670749/digitale-terrestre-risintonizzare-canali-tv/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T14:05:00+00:00"
+    },
+    {
+      "titolo": "Iliad, arriva il nuovo prefisso 3523",
+      "descrizione": "La società francese continua a espandersi sul territorio.",
+      "link": "https://www.hdblog.it/mobile/articoli/n670755/iliad-nuovo-prefisso-3523-mimit/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-17T13:35:00+00:00"
+    },
+    {
+      "titolo": "Cometa di Halley, allo studio una nuova missione",
+      "descrizione": "La cometa di Halley sta tornando verso il Sole, l’anno del rendez vous è il 2061. Come sempre sarà visibile e richiamerà l’attenzione del pubblico. Ritorna quindi e i suoi...",
+      "link": "https://www.ilsole24ore.com/art/cometa-halley-studio-nuova-missione-AJCdWmDB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-17T13:28:23+00:00"
+    },
+    {
+      "titolo": "Phishing via email, attenzione alle false trascrizioni dei vocali",
+      "descrizione": "Una massiccia campagna di phishing usa finte notifiche di trascrizioni dei vocale: decine di migliaia di email inviate alle aziende. The post Phishing via email, attenzione alle false trascrizioni dei vocali appeared fir",
+      "link": "https://www.punto-informatico.it/phishing-via-email-attenzione-false-trascrizioni-vocali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-17T12:10:26+00:00"
+    },
+    {
+      "titolo": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
+      "descrizione": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-17T11:00:00+00:00"
-    },
-    {
-      "titolo": "Campi elettromagnetici vicino casa? C’è una nuova mappa che mostra le stime",
-      "descrizione": "Con Cartoradio è possibile cercare un indirizzo e visualizzare l’intensità stimata dei campi elettromagnetici generati da impianti di telefonia mobile, radio e televisione",
-      "link": "https://www.hdblog.it/mobile/articoli/n670729/campi-elettromagnetici-mappa-italia-via/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T10:55:00+00:00"
-    },
-    {
-      "titolo": "Un display Home Assistant economico e facile da realizzare, con ESP32",
-      "descrizione": "Altro che tablet e hub commerciali, con pochi spiccioli e un po' di manualità si può fare tutto in autonomia.",
-      "link": "https://www.hdblog.it/domotica/articoli/n670724/esp32-display-touch-smart-casa-home-assistant/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T10:45:00+00:00"
-    },
-    {
-      "titolo": "EU KIDS Act: social media vietati ai minori di 13 anni",
-      "descrizione": "La Commissione europea ha presentato il KIDS Act, una proposta di legge che introduce il divieto di accesso ai social media per i minori di 13 anni. The post EU KIDS Act: social media vietati ai minori di 13 anni appeare",
-      "link": "https://www.punto-informatico.it/eu-kids-act-social-media-vietati-minori-13-anni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-17T10:38:47+00:00"
-    },
-    {
-      "titolo": "Maxi piano energetico da 5 GW tra gas e nucleare, la risposta ai data center",
-      "descrizione": "Gas, batterie e piccoli reattori per alimentare data center e industrie in Louisiana.",
-      "link": "https://www.hdblog.it/hardware/articoli/n670678/louisiana-5-gw-gas-batterie-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T10:35:00+00:00"
-    },
-    {
-      "titolo": "Cercavi l'amore, hai trovato Claude: la truffa delle app di incontri con finte persone AI",
-      "descrizione": "Un report di threat intelligence di Anthropic svela una rete di oltre 20 app di dating gestite in gran parte da persone AI, capaci di generare 2,36 milioni di messaggi in due settimane dialogando con...",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670685/claude-truffa-app-incontri-finte-persone-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T10:05:00+00:00"
-    },
-    {
-      "titolo": "Hundreds of Election Deniers Will Be on the Ballot This November",
-      "descrizione": "197 election deniers are running for Congress or statewide office in 43 states. Many of them are seeking roles that would put them in charge of voting for the 2028 presidential election.",
-      "link": "https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/",
-      "fonte": "WIRED",
-      "data": "2026-09-17T10:00:00+00:00"
-    },
-    {
-      "titolo": "Perché nessuno compra più smartphone economici?",
-      "descrizione": "Il mercato degli smartphone è destinato a ridursi nel 2026, mentre i consumatori cambiano abitudini e puntano sempre più sui modelli costosi. The post Perché nessuno compra più smartphone economici? appeared first on Pun",
-      "link": "https://www.punto-informatico.it/perche-nessuno-compra-smartphone-economici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-17T09:58:26+00:00"
-    },
-    {
-      "titolo": "Snap Specs, nuovi dettagli e le prime impressioni d’uso sugli occhiali da 2mila $",
-      "descrizione": "Gli Snap Specs permettono di guardare video, tradurre fino a 60 lingue, navigare e utilizzare monitor virtuali in realtà aumentata, con tutta l’elaborazione eseguita direttamente negli occhiali",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670720/snap-specs-occhiali-smart-dettagli-impressioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T09:55:00+00:00"
-    },
-    {
-      "titolo": "Denuvo denuncia Voices38, il cracker che ha bucato il suo Anti-Tamper",
-      "descrizione": "Il celebre cracker ostenta sicurezza: \"tutto procede normalmente\".",
-      "link": "https://www.hdblog.it/games/articoli/n670719/denuvo-denuncia-vocies38-crack-giochi-pirata/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T09:45:00+00:00"
-    },
-    {
-      "titolo": "Snap SPECS: occhiali per la realtà aumentata da 2.200 dollari",
-      "descrizione": "Gli SPECS sono occhiali per la realtà aumentata con funzionalità avanzate, tra cui SPECS Intelligence, un assistente AI che anticipa le esigenze dell'utente. The post Snap SPECS: occhiali per la realtà aumentata da 2.200",
-      "link": "https://www.punto-informatico.it/snap-specs-occhiali-realta-aumentata-2200-dollari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-17T09:37:35+00:00"
+      "data": "2026-09-17T12:00:00+00:00"
     }
   ]
 }
