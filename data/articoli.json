@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-09-18T04:47:42.638561+00:00",
+  "last_updated": "2026-09-18T11:19:49.697989+00:00",
   "items": [
     {
-      "titolo": "Here’s What the AI Apocalypse Could Look Like",
-      "descrizione": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "titolo": "Il segreto nascosto delle Dacia, la funzione più utilizzata risiede in un pulsante magico",
+      "descrizione": "Le auto moderne sono ricche di tecnologie, spesso e volentieri, fastidiose, ma in Dacia hanno pensato a una funzione segreta",
+      "link": "https://www.hdmotori.it/dacia-segreto-funzione-pulsante-magico/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T11:00:12+00:00"
+    },
+    {
+      "titolo": "Huawei costruisce un SuperPoD da 4.096 NPU per i modelli AI più grandi",
+      "descrizione": "Huawei porta la tecnologia Near-Packaged Optics nei suoi nuovi sistemi AI con Atlas 960E, progettato per collegare migliaia di NPU aumentando la banda e riducendo consumi e complessità",
+      "link": "https://www.hdblog.it/huawei/articoli/n670871/huawei-atlas-960e-miliardi-parametri-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T10:55:00+00:00"
+    },
+    {
+      "titolo": "Galleria Samsung “sposa” Google Foto dopo l'addio a OneDrive",
+      "descrizione": "Google Foto può ora essere utilizzato per il backup direttamente dalla Galleria Samsung. Il rollout è graduale e presenta una limitazione importante nell'accesso alla libreria cloud",
+      "link": "https://www.hdblog.it/samsung/articoli/n670865/galleria-samsung-integrazione-google-foto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T10:40:00+00:00"
+    },
+    {
+      "titolo": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations",
+      "descrizione": "Huawei's mimics Nvidia's approach to AI factories, unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-18T10:30:00+00:00"
+    },
+    {
+      "titolo": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
+      "descrizione": "David Baker spoke with WIRED en Español about where biological design is headed next and the great potential and risks of taking biology outside the bounds of the natural world.",
+      "link": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/",
       "fonte": "WIRED",
-      "data": "2026-09-17T22:20:21+00:00"
+      "data": "2026-09-18T10:30:00+00:00"
     },
     {
-      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "titolo": "Google Keep, nuova grafica per il widget: più spazio alle note",
+      "descrizione": "Possiamo dire che la società ha reso l'UI meno ingombrante, in un certo senso.",
+      "link": "https://www.hdblog.it/google/articoli/n670864/google-keep-android-widget-note-grafica-ui/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T10:25:00+00:00"
+    },
+    {
+      "titolo": "Apple cambia il consenso al tracciamento in Italia",
+      "descrizione": "Gli utenti in Italia e altri quattro paesi europei vedranno nuove schermate di richiesta al tracciamento da parte delle app a partire da iOS/iPadOS 27.2. The post Apple cambia il consenso al tracciamento in Italia appear",
+      "link": "https://www.punto-informatico.it/apple-cambia-consenso-tracciamento-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-18T10:19:38+00:00"
+    },
+    {
+      "titolo": "Mediterraneo sempre più bollente e salato: l'allarme per la rapidità del fenomeno",
+      "descrizione": "Le conseguenze dei cambiamenti climatici.",
+      "link": "https://www.hdblog.it/green/articoli/n670852/mediterraneo-mare-caldo-salato-studio/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T10:10:00+00:00"
+    },
+    {
+      "titolo": "Android 17 arriva su Motorola Edge 70: novità e… funzioni mancanti",
+      "descrizione": "Motorola Edge 70 inizia a ricevere Android 17 stabile con un aggiornamento da circa 4,3 GB. Arrivano widget impilabili, Live Updates, icone a tema e altre novità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670857/motorola-edge-70-android-17-novita-rollout/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T09:55:00+00:00"
+    },
+    {
+      "titolo": "Steam Machine, Valve pubblica le guide di riparazione ufficiali su iFixit",
+      "descrizione": "Ben 18 guide, inclusa una per costruirsi il pannello frontale E-Ink.",
+      "link": "https://www.hdblog.it/games/articoli/n670858/valve-steam-machine-guide-riparazione-ifixit/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T09:45:00+00:00"
+    },
+    {
+      "titolo": "iOS 27.2, Apple modifica la richiesta di consenso al tracciamento in Europa",
+      "descrizione": "Un nuovo avviso e consenso riproposto dopo un anno",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670855/ios-272-apple-modifica-richiesta-consenso/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T09:40:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro e Max: riparazioni fino a 1.059 euro senza AppleCare+",
+      "descrizione": "La batteria di iPhone 18 Pro e Pro Max costa 149 euro da sostituire, contro i 135 euro della generazione precedente. Invariati invece gli altri principali prezzi di riparazione",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670853/iphone-18-pro-max-costo-riparazioni-batteria-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T09:15:00+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo anticipa il nuovo concept: a Parigi il futuro del Biscione",
+      "descrizione": "La Casa del Biscione porta al Salone di Parigi la propria visione per le auto del prossimo futuro, pensate l'emozione pura al volante.",
+      "link": "https://www.hdmotori.it/alfa-romeo-nuovo-concept-parigi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T09:00:54+00:00"
+    },
+    {
+      "titolo": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "descrizione": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
       "fonte": "WIRED",
-      "data": "2026-09-17T18:42:25+00:00"
+      "data": "2026-09-18T09:00:00+00:00"
     },
     {
-      "titolo": "Volkswagen ID.3 GTI: con 326 CV è la più potente di sempre",
-      "descrizione": "La Casa di Wolfsburg presenta il modello GTI più potente di sempre, realizzato su base ID.3 Neo: trazione posteriore, oltre 600 km di autonomia e soluzioni per ottimizzare le prestazioni.",
-      "link": "https://www.hdmotori.it/volkswagen-id-3-gti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T18:30:43+00:00"
-    },
-    {
-      "titolo": "Rolls-Royce Phantom Hummingbird: l'iridescenza dell'abalone conquista Goodwood",
-      "descrizione": "Rolls-Royce presenta la Phantom Hummingbird: un’opera d'arte su misura che introduce per la prima volta l'abalone negli intarsi, combinando alta sartoria e natura",
-      "link": "https://www.hdmotori.it/rolls-royce-phantom-hummingbird-abalone/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T18:00:16+00:00"
-    },
-    {
-      "titolo": "Celle a idrogeno, dalla Cina una tecnologia 4 volte più potente",
-      "descrizione": "Nuova cella PEM aumenta potenza e trasporto dei protoni usando meno platino",
-      "link": "https://www.hdblog.it/green/articoli/n670750/cella-idrogeno-quattro-volte-potenza/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T17:30:00+00:00"
-    },
-    {
-      "titolo": "Dimensity 9600 Pro: primo chip a 2 nanometri di MediaTek",
-      "descrizione": "Dimensity 9600 Pro è il primo chip di MediaTek realizzato con tecnologia di processo a 2 nanometri, la stessa dello Snapdragon 8 Elite Gen 6. The post Dimensity 9600 Pro: primo chip a 2 nanometri di MediaTek appeared fir",
-      "link": "https://www.punto-informatico.it/dimensity-9600-pro-primo-chip-2-nanometri-mediatek/",
+      "titolo": "Apple, sciopero nei negozi italiani nel giorno degli iPhone 18 Pro",
+      "descrizione": "Sciopero nazionale per i dipendenti Apple Retail in Italia: i lavoratori chiedono assunzioni, stabilizzazioni e condizioni migliori. The post Apple, sciopero nei negozi italiani nel giorno degli iPhone 18 Pro appeared fi",
+      "link": "https://www.punto-informatico.it/apple-sciopero-negozi-italiani-giorno-iphone-18-pro/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T17:16:07+00:00"
+      "data": "2026-09-18T07:58:26+00:00"
     },
     {
-      "titolo": "Apple Store, confermato lo sciopero: domani stop nel giorno dei nuovi iPhone",
-      "descrizione": "Domani i dipendenti di Apple Retail Italia incroceranno le braccia.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670787/apple-store-confermato-sciopero-domani/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T17:03:00+00:00"
-    },
-    {
-      "titolo": "Lancia Gamma, il grande ritorno: fino a 1.000 km e 375 CV",
-      "descrizione": "Presentata a Roma la nuova Lancia Gamma: il crossover fastback da 4,67 metri sarà prodotto a Melfi in versione ibrida ed elettrica con autonomia fino a 1.000 km",
-      "link": "https://www.hdmotori.it/nuova-lancia-gamma-motori-autonomia-melfi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T17:00:14+00:00"
-    },
-    {
-      "titolo": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
-      "descrizione": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-      "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-      "fonte": "news – ZDNET",
-      "data": "2026-09-17T17:00:00+00:00"
-    },
-    {
-      "titolo": "Gli USA vogliono riportare un reattore nucleare in orbita",
-      "descrizione": "Un microreattore potrebbe riportare l’energia nucleare nelle orbite americane.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670744/reattore-nucleare-spazio-antares/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T16:55:00+00:00"
-    },
-    {
-      "titolo": "Chip fotonici, un laser taglia del 95% la luce riflessa",
-      "descrizione": "Un laser permette di integrare isolatori ottici nei chip riducendo del 95% i riflessi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670743/laser-chip-fotonici-isolatore-ottico/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T16:35:00+00:00"
-    },
-    {
-      "titolo": "Agility svela Digit 5: il robot per l’industria arriva in Europa",
-      "descrizione": "Agility Robotics ha svelato Digit 5, il nuovo robot umanoide destinato al lavoro industriale su larga scala. The post Agility svela Digit 5: il robot per l’industria arriva in Europa appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/agility-svela-digit-5-robot-25-miliardi-euro-arriva-europa/",
+      "titolo": "RatHat: il malware Android con AI che ruba le credenziali bancarie",
+      "descrizione": "RatHat è un nuovo trojan Android che usa l'AI generativa per muoversi nelle app bancarie. Intercetta i codici 2FA e svuota i conti correnti. The post RatHat: il malware Android con AI che ruba le credenziali bancarie app",
+      "link": "https://www.punto-informatico.it/rathat-malware-android-ai-ruba-credenziali-bancarie/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T16:33:56+00:00"
+      "data": "2026-09-18T07:47:33+00:00"
     },
     {
-      "titolo": "La Abarth 695 più folle di sempre: un mostro da 600 CV sulle ruote anteriori",
-      "descrizione": "Cesare Bassanini e Old School Garage trasformano la Abarth 695 Biposto in un mostro da Time Attack con 600 CV a trazione anteriore e cambio sequenziale",
-      "link": "https://www.hdmotori.it/abarth-695-biposto-600-cv-time-attack/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T16:30:41+00:00"
-    },
-    {
-      "titolo": "EU KIDS Act, proposte nuove regole per i minori online: social vietati sotto i 13 anni",
-      "descrizione": "Cosa dice la proposta della Commissione europea, tra sicurezza e privacy.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n670777/ue-kids-act-social-minori-limiti-eta-privacy/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T16:25:00+00:00"
-    },
-    {
-      "titolo": "Honor MagicOS 11 è ufficiale: sì, con quegli effetti Liquid Glass somiglia tanto a iOS",
-      "descrizione": "A dettare la linea estetica di un sistema aperto all'interpretazione dei vari produttori come Android non è tanto Google, quanto Apple, specie per quanto riguarda i marchi cinesi. A...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670771/honor-magicos-11-liquid-glass-novita-modelli-quali/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T16:20:00+00:00"
-    },
-    {
-      "titolo": "Nancy Grace Roman Space Telescope funzionerà per 22 anni",
-      "descrizione": "Grazie alla precisione del lancio, all'aggiunta di propellente iniziale e ai consumi ridotti, la missione dovrebbe durare almeno 22 anni. The post Nancy Grace Roman Space Telescope funzionerà per 22 anni appeared first o",
-      "link": "https://www.punto-informatico.it/nancy-grace-roman-space-telescope-funzionera-22-anni/",
+      "titolo": "Lucid e Bolt insieme per la mobilità autonoma in Europa",
+      "descrizione": "Lucid e Bolt uniscono le forze per la mobilità autonoma europea: il progetto punta su veicoli SAE 4 con tecnologia NVIDIA Hyperion. The post Lucid e Bolt insieme per la mobilità autonoma in Europa appeared first on Punto",
+      "link": "https://www.punto-informatico.it/lucid-bolt-mobilita-autonoma-europa/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T16:12:46+00:00"
+      "data": "2026-09-18T07:12:32+00:00"
     },
     {
-      "titolo": "Il drone stealth WZ-X della Cina torna in volo: cosa sappiamo",
-      "descrizione": "Il misterioso WZ-X mostra caratteristiche pensate per ridurre la visibilità ai radar",
-      "link": "https://www.hdblog.it/droni/articoli/n670742/drone-stealth-cina-wz-x/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T15:55:00+00:00"
-    },
-    {
-      "titolo": "Spotify porta in Italia la monetizzazione dei podcast",
-      "descrizione": "Spotify estende a 35 mercati il programma che remunera podcast audio e video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670766/spotify-monetizzazione-podcast-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T15:40:00+00:00"
-    },
-    {
-      "titolo": "Il camion a guida autonoma senza cabina, la proposta di Einride e Lidl",
-      "descrizione": "In Germania si è ritornati a parlare del camion full electric a guida autonoma di Einride, battezzato Einride Pod",
-      "link": "https://www.hdmotori.it/camion-guida-autonoma-senza-cabina-einride-lidl/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T15:30:18+00:00"
-    },
-    {
-      "titolo": "Parlamento UE chiede misure per la sicurezza online dei minori",
-      "descrizione": "Il Parlamento europeo ha adottato tre proposte per garantire una maggiore sicurezza online che riguardano social media, video sharing e influencer. The post Parlamento UE chiede misure per la sicurezza online dei minori",
-      "link": "https://www.punto-informatico.it/parlamento-ue-chiede-misure-per-la-sicurezza-online-dei-minori/",
+      "titolo": "OpenAI lancia Astra for Law: l’AI per avvocati supera GPT-6",
+      "descrizione": "Astra for Law è il nuovo modello AI di OpenAI ottimizzato per il settore legale: ricerca, argomentazioni, contratti e analisi delle cause. The post OpenAI lancia Astra for Law: l’AI per avvocati supera GPT-6 appeared fir",
+      "link": "https://www.punto-informatico.it/openai-astra-for-law-ai-avvocati-supera-gpt-6/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T15:21:23+00:00"
+      "data": "2026-09-18T06:48:54+00:00"
     },
     {
-      "titolo": "Xiaomi, ecco la prima videocamera di sorveglianza a colori anche di notte",
-      "descrizione": "Prezzi accessibili, per ora solo in Cina.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n670767/xiaomi-mijia-videocamera-notte-colori/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T15:05:00+00:00"
-    },
-    {
-      "titolo": "TP-Link Tapo C200, due falle permettono di spiare in casa",
-      "descrizione": "TP-Link ha già corretto le due vulnerabilità della Tapo C200: perché è importante aggiornare subito il firmware della videocamera. The post TP-Link Tapo C200, due falle permettono di spiare in casa appeared first on Punt",
-      "link": "https://www.punto-informatico.it/tplink-tapo-c200-due-falle-permettono-spiare-casa/",
+      "titolo": "Monitor da gaming Philips Evnia da 27″ con risposta di 1ms a soli 129€",
+      "descrizione": "Appena 129€ su amazon e puoi avere il fantastico monitor da gaming Philips Evnia da 27\" con risposta di 1 ms e refresh rate da 260 Hz. The post Monitor da gaming Philips Evnia da 27″ con risposta di 1ms a soli 129€ appea",
+      "link": "https://www.punto-informatico.it/monitor-gaming-philips-evnia-27-con-risposta-1ms-soli-129e/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T14:59:45+00:00"
+      "data": "2026-09-18T06:39:02+00:00"
     },
     {
-      "titolo": "Bose rinnova gli auricolari open-ear: ecco i nuovi Sport Open e Ultra Open",
-      "descrizione": "Bose presenta Sport Open Earbuds e Ultra Open Earbuds di seconda generazione, due nuovi auricolari open-ear con tecnologia OpenAudio, Bluetooth 5.4 e chiamate migliorate tramite AI",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670765/bose-ultra-sport-open-earbuds-novita-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-17T14:45:00+00:00"
-    },
-    {
-      "titolo": "Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta)",
-      "descrizione": "Firefox integra il modello Small 4 di Mistral in Smart Window: la funzione arriva in Europa, ma per l'Italia bisognerà aspettare ancora. The post Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta) appe",
-      "link": "https://www.punto-informatico.it/firefox-ai-mistral-smart-window/",
+      "titolo": "Quali piante resisteranno alla fine del mondo? Identificati i semi capaci di vivere più a lungo",
+      "descrizione": "Scienziati e ricercatori hanno identificato i semi \"dell'apocalisse\" ovvero quelli delle piante che potrebbero resistere alla fine del mondo. The post Quali piante resisteranno alla fine del mondo? Identificati i semi ca",
+      "link": "https://www.punto-informatico.it/quali-piante-resisteranno-alla-fine-del-mondo-identificati-i-semi-capaci-di-vivere-piu-a-lungo/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T14:14:09+00:00"
+      "data": "2026-09-18T06:00:00+00:00"
+    },
+    {
+      "titolo": "4 articoli Dyson ricondizionati con garanzia del produttore su eBay",
+      "descrizione": "Abbiamo scelto 4 articoli Dyson ricondizionati, con garanzia ufficiale dallo store del produttore su eBay: consegna gratis e tasso zero. The post 4 articoli Dyson ricondizionati con garanzia del produttore su eBay appear",
+      "link": "https://www.punto-informatico.it/4-articoli-dyson-ricondizionati-con-garanzia-del-produttore-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-18T05:30:25+00:00"
+    },
+    {
+      "titolo": "L’AI fa paura soprattutto per il lavoro: per un italiano su due distruggerà occupazione",
+      "descrizione": "Secondo una nuova indagine del Pew Research Center condotta in 37 Paesi, prevale nettamente l’idea che l’intelligenza artificiale ridurrà l’occupazione e allargherà le disuguaglianze.",
+      "link": "https://www.ilsole24ore.com/art/l-ai-fa-paura-soprattutto-il-lavoro-un-italiano-due-distruggera-occupazione-AJqcEOGB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-18T05:26:08+00:00"
+    },
+    {
+      "titolo": "Zoro Coupon Codes: 20% Off September 2026",
+      "descrizione": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in September 2026.",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-18T05:00:00+00:00"
+    },
+    {
+      "titolo": "Design Within Reach Promo Codes: 30% Off | September 2026",
+      "descrizione": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-18T05:00:00+00:00"
     }
   ]
 }

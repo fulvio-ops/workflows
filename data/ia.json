@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-09-18T04:47:45.763168+00:00",
+  "last_updated": "2026-09-18T11:19:54.078099+00:00",
   "items": [
     {
-      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "fonte": "WIRED",
-      "data": "2026-09-17T18:42:25+00:00",
+      "titolo": "Mediterraneo sempre più bollente e salato: l'allarme per la rapidità del fenomeno",
+      "descrizione": "Le conseguenze dei cambiamenti climatici.",
+      "link": "https://www.hdblog.it/green/articoli/n670852/mediterraneo-mare-caldo-salato-studio/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T10:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "descrizione": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "fonte": "WIRED",
-      "data": "2026-09-17T18:42:25+00:00",
-      "modello": "claude"
-    },
-    {
-      "titolo": "Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta)",
-      "descrizione": "Firefox integra il modello Small 4 di Mistral in Smart Window: la funzione arriva in Europa, ma per l'Italia bisognerà aspettare ancora. The post Firefox, l’AI di Mistral arriva in Smart Window (ma l’Italia aspetta) appe",
-      "link": "https://www.punto-informatico.it/firefox-ai-mistral-smart-window/",
+      "titolo": "Anthropic aggiorna Projects: agenti multipli in Claude Code",
+      "descrizione": "I nuovi Progetti, disponibili in Claude Code, permettono di eseguiti lavori lunghi e complessi sfruttando più subagenti e un agente coordinatore. The post Anthropic aggiorna Projects: agenti multipli in Claude Code appea",
+      "link": "https://www.punto-informatico.it/anthropic-aggiorna-projects-agenti-multipli-claude-code/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-17T14:14:09+00:00",
-      "modello": "altri"
+      "data": "2026-09-18T09:20:49+00:00",
+      "modello": "claude"
     }
   ]
 }
