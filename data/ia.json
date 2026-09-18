@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-18T16:26:56.404050+00:00",
+  "last_updated": "2026-09-18T20:56:15.754773+00:00",
   "items": [
     {
-      "titolo": "Stanchi di cercare film per genere? L’AI crea maratone perfette",
-      "descrizione": "Come usare ChatGPT e Gemini per creare maratone di film basate su temi narrativi unici anziché sui soliti generi. The post Stanchi di cercare film per genere? L’AI crea maratone perfette appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/stanchi-cercare-film-genere-ai-crea-maratone-perfette/",
+      "titolo": "HUAWEI MatePad Air: nuovo tablet con schermo OLED",
+      "descrizione": "HUAWEI MatePad Air ha uno schermo OLED da 12 pollici, 8 GB di RAM, 256 GB di storage, Wi-Fi 7, sei altoparlanti e fotocamere da 50/12 megapixel. The post HUAWEI MatePad Air: nuovo tablet con schermo OLED appeared first o",
+      "link": "https://www.punto-informatico.it/huawei-matepad-air-nuovo-tablet-schermo-oled/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-18T15:30:47+00:00",
+      "data": "2026-09-18T16:54:57+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Stanchi di cercare film per genere? L’AI crea maratone perfette",
-      "descrizione": "Come usare ChatGPT e Gemini per creare maratone di film basate su temi narrativi unici anziché sui soliti generi. The post Stanchi di cercare film per genere? L’AI crea maratone perfette appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/stanchi-cercare-film-genere-ai-crea-maratone-perfette/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T15:30:47+00:00",
+      "titolo": "Google ha iniziato a pagare i giornali che Gemini usa come fonti",
+      "descrizione": "Il widget dei compensi è già visibile da molti gestori in Search Console",
+      "link": "https://www.hdblog.it/google/articoli/n670896/google-paga-giornali-gemini-fonti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T16:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "descrizione": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "fonte": "WIRED",
-      "data": "2026-09-18T15:00:00+00:00",
+      "titolo": "Anthropic testa Claude nei laboratori di biologia reali",
+      "descrizione": "Con il nuovo laboratorio reale e lo standard di automazione, Anthropic vuole affidare a Claude la gestione di esperimenti biologici. The post Anthropic testa Claude nei laboratori di biologia reali appeared first on Punt",
+      "link": "https://www.punto-informatico.it/anthropic-testa-claude-laboratori-biologia-reali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-18T16:29:57+00:00",
       "modello": "claude"
     }
   ]

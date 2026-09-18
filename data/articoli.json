@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-09-18T16:26:50.504819+00:00",
+  "last_updated": "2026-09-18T20:56:11.498701+00:00",
   "items": [
+    {
+      "titolo": "iPhone Duo è ispirato a uno dei princìpi più famosi di Steve Jobs",
+      "descrizione": "\"La vera magia avviene all'intersezione tra tecnologia e arte\", diceva: e per John Ternus è dove si trova iPhone Duo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670926/iphone-duo-steve-jobs-intersezione-tecnologia-arte/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T17:25:00+00:00"
+    },
+    {
+      "titolo": "Vivo X500 Pro Max, ecco la scheda tecnica (quasi) completa",
+      "descrizione": "Ormai sappiamo quasi tutto.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670922/vivo-x500-pro-max-scheda-tecnica-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T17:15:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen taglia il prezzo dei ricambi per le auto più vecchie: fino al 30% in meno",
+      "descrizione": "Volkswagen porta in Germania la linea Horum dedicata alle auto con almeno 4-5 anni: ricambi per manutenzione e usura costeranno molto meno degli originali",
+      "link": "https://www.hdmotori.it/volkswagen-prezzo-ricambi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T17:00:35+00:00"
+    },
+    {
+      "titolo": "La Cina prepara un blindato laser contro gli sciami di droni",
+      "descrizione": "Un Type 19 cinese con laser potrebbe proteggere i reparti dagli attacchi dei droni.",
+      "link": "https://www.hdblog.it/droni/articoli/n670676/cina-type-19-laser-anti-drone/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T16:55:00+00:00"
+    },
+    {
+      "titolo": "Hai una cover per iPhone 17 Pro? Potrebbe andare perfettamente sul 18 Pro",
+      "descrizione": "Apple dichiara incompatibili le cover di iPhone 17 Pro e 17 Pro Max con i nuovi iPhone 18 Pro, ma una prova diretta mostra che nella pratica possono calzare correttamente",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670916/cover-iphone-18-pro-max-17-compatibili/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T16:45:00+00:00"
+    },
+    {
+      "titolo": "Google ha iniziato a pagare i giornali che Gemini usa come fonti",
+      "descrizione": "Il widget dei compensi è già visibile da molti gestori in Search Console",
+      "link": "https://www.hdblog.it/google/articoli/n670896/google-paga-giornali-gemini-fonti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-18T16:35:00+00:00"
+    },
+    {
+      "titolo": "Anthropic testa Claude nei laboratori di biologia reali",
+      "descrizione": "Con il nuovo laboratorio reale e lo standard di automazione, Anthropic vuole affidare a Claude la gestione di esperimenti biologici. The post Anthropic testa Claude nei laboratori di biologia reali appeared first on Punt",
+      "link": "https://www.punto-informatico.it/anthropic-testa-claude-laboratori-biologia-reali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-18T16:29:57+00:00"
+    },
     {
       "titolo": "L'intelligenza artificiale va nazionalizzata?",
       "descrizione": "Le \"big AI\" parlano di preoccupazione per la sicurezza e la necessità di ripensare limitazioni e blocchi, ma secondo il CEO di Palantir hanno paura di una massiccia ondata di denunce per violazione...",
@@ -72,27 +121,6 @@
       "data": "2026-09-18T14:42:27+00:00"
     },
     {
-      "titolo": "DJI Osmo 360 II: finalmente riparabile ma non perfetta | Video",
-      "descrizione": "Abbiamo provato la nuova DJI OSMO 360 II, uno dei prodotti più attesi del settore. Finalmente è riparabile e migliora nelle prestazioni. Come si sarà comportata nei nostri test? Ve lo raccontiamo in...",
-      "link": "https://www.hdblog.it/fotografia/recensioni/n669824/dji-osmo-360-ii-test-prova-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T14:31:00+00:00"
-    },
-    {
-      "titolo": "Nucleare, il progetto del mini reattore riunisce Italia e Francia",
-      "descrizione": "Primo impianto in Italia entro il 2035.",
-      "link": "https://www.hdblog.it/green/articoli/n670879/nucleare-progetto-mini-reattore-italia-francia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T14:25:00+00:00"
-    },
-    {
-      "titolo": "OnePlus 16, un leak anticipa quasi tutto: batteria enorme da 9.000 mAh",
-      "descrizione": "Scheda tecnica davvero interessante: peccato che non arriverà da noi.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670889/oneplus-16-leak-specifiche-batteria-9000-mah-chip/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T13:55:00+00:00"
-    },
-    {
       "titolo": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack",
       "descrizione": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
@@ -112,13 +140,6 @@
       "link": "https://www.tomshardware.com/video-games/pc-gaming/control-resonant-pc-performance-tested-28-gpus-take-us-back-to-the-oldest-house-and-a-warped-manhattan-cityscape",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-18T13:01:36+00:00"
-    },
-    {
-      "titolo": "Suzuki eVitara protagonista di un ‘porte aperte’ nel weekend del 19-20 settembre",
-      "descrizione": "Sabato 19 e domenica 20 settembre le concessionarie Suzuki di tutta Italia accolgono gli appassionati per scoprire e testare su strada le novità a zero ed a basse emissioni.",
-      "link": "https://www.hdmotori.it/suzuki-evitara-porte-aperte-19-20-settembre/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T13:00:54+00:00"
     },
     {
       "titolo": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
@@ -147,27 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/gamberoni-anthropic-l-italia-non-e-ritardo-sull-ai-ora-serve-un-adozione-ben-governata-AJfwhdCB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-18T12:10:56+00:00"
-    },
-    {
-      "titolo": "Opel al Salone di Parigi 2026 con la Astra GSE Line e una nuova concept",
-      "descrizione": "Il marchio del Fulmine presenterà a Parigi la nuova Astra GSE Line e un inedito concept chiamato ad anticipare i modelli del futuro.",
-      "link": "https://www.hdmotori.it/opel-parigi-2026-astra-gse-line-concept/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T12:00:21+00:00"
-    },
-    {
-      "titolo": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU — 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
-      "descrizione": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T12:00:00+00:00"
-    },
-    {
-      "titolo": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
-      "descrizione": "As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicians that the U.S. will be hard-pressed to fill.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T11:30:00+00:00"
     }
   ]
 }
