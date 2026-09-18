@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-09-18T11:19:54.078099+00:00",
+  "last_updated": "2026-09-18T16:26:56.404050+00:00",
   "items": [
     {
-      "titolo": "Mediterraneo sempre più bollente e salato: l'allarme per la rapidità del fenomeno",
-      "descrizione": "Le conseguenze dei cambiamenti climatici.",
-      "link": "https://www.hdblog.it/green/articoli/n670852/mediterraneo-mare-caldo-salato-studio/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T10:10:00+00:00",
+      "titolo": "Stanchi di cercare film per genere? L’AI crea maratone perfette",
+      "descrizione": "Come usare ChatGPT e Gemini per creare maratone di film basate su temi narrativi unici anziché sui soliti generi. The post Stanchi di cercare film per genere? L’AI crea maratone perfette appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/stanchi-cercare-film-genere-ai-crea-maratone-perfette/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-18T15:30:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic aggiorna Projects: agenti multipli in Claude Code",
-      "descrizione": "I nuovi Progetti, disponibili in Claude Code, permettono di eseguiti lavori lunghi e complessi sfruttando più subagenti e un agente coordinatore. The post Anthropic aggiorna Projects: agenti multipli in Claude Code appea",
-      "link": "https://www.punto-informatico.it/anthropic-aggiorna-projects-agenti-multipli-claude-code/",
+      "titolo": "Stanchi di cercare film per genere? L’AI crea maratone perfette",
+      "descrizione": "Come usare ChatGPT e Gemini per creare maratone di film basate su temi narrativi unici anziché sui soliti generi. The post Stanchi di cercare film per genere? L’AI crea maratone perfette appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/stanchi-cercare-film-genere-ai-crea-maratone-perfette/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-18T09:20:49+00:00",
+      "data": "2026-09-18T15:30:47+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "descrizione": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "fonte": "WIRED",
+      "data": "2026-09-18T15:00:00+00:00",
       "modello": "claude"
     }
   ]
