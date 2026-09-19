@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-18T20:56:11.498701+00:00",
+  "last_updated": "2026-09-19T04:41:03.501239+00:00",
   "items": [
+    {
+      "titolo": "Flock Offers Employees Buyouts as Customers Flee",
+      "descrizione": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+      "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T02:22:54+00:00"
+    },
+    {
+      "titolo": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+      "descrizione": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-18T21:51:29+00:00"
+    },
     {
       "titolo": "iPhone Duo è ispirato a uno dei princìpi più famosi di Steve Jobs",
       "descrizione": "\"La vera magia avviene all'intersezione tra tecnologia e arte\", diceva: e per John Ternus è dove si trova iPhone Duo.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/fintech/conti/revolut-iamnotvillain-nessuna-prova-furto-dati-viminale/",
       "fonte": "Punto Informatico",
       "data": "2026-09-18T12:55:22+00:00"
-    },
-    {
-      "titolo": "Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit",
-      "descrizione": "The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two companies. The publication is now seeking a summary jud",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T12:49:14+00:00"
-    },
-    {
-      "titolo": "Gamberoni (Anthropic): «L’Italia non è in ritardo sull’AI, ora serve un’adozione ben governata»",
-      "descrizione": "Parla Mattia Gamberoni il nuovo Country Manager per l’Italia di Anthropic",
-      "link": "https://www.ilsole24ore.com/art/gamberoni-anthropic-l-italia-non-e-ritardo-sull-ai-ora-serve-un-adozione-ben-governata-AJfwhdCB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-18T12:10:56+00:00"
     }
   ]
 }
