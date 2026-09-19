@@ -1,8 +1,15 @@
 {
-  "last_updated": "2026-09-19T11:03:47.782462+00:00",
+  "last_updated": "2026-09-19T15:54:54.016170+00:00",
   "items": [
     {
-      "titolo": "Enthusiast digs into CPU substrate to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
+      "titolo": "Scoperto il pianeta più giovane del cosmo: così Elias 2-24 b sta nascendo sotto i nostri occhi",
+      "descrizione": "Ha meno di un milione di anni, è grande quanto Giove e sta ancora crescendo, immerso nel disco di gas e polveri da cui è nato. Elias 2-24 b è...",
+      "link": "https://www.ilsole24ore.com/art/scoperto-pianeta-piu-giovane-cosmo-cosi-elias-2-24-b-sta-nascendo-sotto-nostri-occhi-AJhs3OIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-19T13:13:12+00:00"
+    },
+    {
+      "titolo": "Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
       "descrizione": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced.",
       "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
       "fonte": "Latest from Tom's Hardware",
@@ -135,7 +142,7 @@
       "data": "2026-09-19T02:22:54+00:00"
     },
     {
-      "titolo": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+      "titolo": "AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
       "descrizione": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
       "fonte": "Latest from Tom's Hardware",
@@ -161,13 +168,6 @@
       "link": "https://www.hdmotori.it/volkswagen-prezzo-ricambi/",
       "fonte": "HDblog.it",
       "data": "2026-09-18T17:00:35+00:00"
-    },
-    {
-      "titolo": "La Cina prepara un blindato laser contro gli sciami di droni",
-      "descrizione": "Un Type 19 cinese con laser potrebbe proteggere i reparti dagli attacchi dei droni.",
-      "link": "https://www.hdblog.it/droni/articoli/n670676/cina-type-19-laser-anti-drone/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:55:00+00:00"
     }
   ]
 }
