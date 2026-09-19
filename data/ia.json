@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T04:41:07.065860+00:00",
+  "last_updated": "2026-09-19T11:03:52.587228+00:00",
   "items": [
     {
       "titolo": "HUAWEI MatePad Air: nuovo tablet con schermo OLED",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google ha iniziato a pagare i giornali che Gemini usa come fonti",
-      "descrizione": "Il widget dei compensi è già visibile da molti gestori in Search Console",
-      "link": "https://www.hdblog.it/google/articoli/n670896/google-paga-giornali-gemini-fonti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:35:00+00:00",
+      "titolo": "Google Gemini ha attaccato tre aziende a maggio",
+      "descrizione": "Gli agenti AI basati su Google Gemini hanno attaccato tre aziende reali durante la valutazione delle capacità cyber, ma senza causare danni. The post Google Gemini ha attaccato tre aziende a maggio appeared first on Punt",
+      "link": "https://www.punto-informatico.it/google-gemini-attaccato-tre-aziende-maggio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-19T10:10:42+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic testa Claude nei laboratori di biologia reali",
-      "descrizione": "Con il nuovo laboratorio reale e lo standard di automazione, Anthropic vuole affidare a Claude la gestione di esperimenti biologici. The post Anthropic testa Claude nei laboratori di biologia reali appeared first on Punt",
-      "link": "https://www.punto-informatico.it/anthropic-testa-claude-laboratori-biologia-reali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T16:29:57+00:00",
+      "titolo": "Esperimenti biologici con Claude, l'AI entra in laboratorio",
+      "descrizione": "Anthropic porta Claude nel mondo reale con un laboratorio dedicato alla biologia",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670938/anthropic-claude-laboratorio-biologia-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T05:55:00+00:00",
       "modello": "claude"
     }
   ]

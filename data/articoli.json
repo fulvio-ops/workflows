@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-09-19T04:41:03.501239+00:00",
+  "last_updated": "2026-09-19T11:03:47.782462+00:00",
   "items": [
+    {
+      "titolo": "Enthusiast digs into CPU substrate to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
+      "descrizione": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "titolo": "Mathematicians Hate AI. They Can’t Quit It",
+      "descrizione": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "titolo": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "descrizione": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T09:39:00+00:00"
+    },
+    {
+      "titolo": "Casio Edifice EFS-S660: zaffiro e ricarica solare a meno di 200 euro",
+      "descrizione": "Due cronografi compatti con vetro zaffiro, ricarica solare e autonomia di cinque mesi.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n670944/casio-edifice-efs-s660-vetro-zaffiro-solare/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T09:35:00+00:00"
+    },
+    {
+      "titolo": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "descrizione": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
+      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T09:30:00+00:00"
+    },
+    {
+      "titolo": "Join the WIRED World Fair in Miami on November 4",
+      "descrizione": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T09:00:00+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: miliardi investiti, ma le centrali restano lontane",
+      "descrizione": "La fusione funziona nei test, trasformarla in una centrale è un altro problema.",
+      "link": "https://www.hdblog.it/green/articoli/n670942/fusione-nucleare-centrali-restano-lontane/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T08:35:00+00:00"
+    },
+    {
+      "titolo": "Trackpad che sporge dal notebook? Attenzione alla batteria",
+      "descrizione": "Quali sono i segnali da non sottovalutare.",
+      "link": "https://www.hdblog.it/portatili/articoli/n670768/trackpad-sporgente-attenzione-batteria/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T08:05:00+00:00"
+    },
+    {
+      "titolo": "Samsung One UI 9.5: ecco su quali smartphone e tablet potrebbe arrivare",
+      "descrizione": "Comincia a prendere forma l'ipotetica lista dei tablet e smartphone Samsung che si aggiorneranno a One UI 9.5.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670571/samsung-aggiornamento-one-ui-9-5-smartphone-tablet/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T06:55:00+00:00"
+    },
+    {
+      "titolo": "Il J-50 potrebbe continuare a combattere se il pilota sviene",
+      "descrizione": "La Cina studia caccia autonomi capaci di volare senza GPS e assistere il pilota.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670940/j-50-caccia-cinese-volo-autonomo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T06:40:00+00:00"
+    },
+    {
+      "titolo": "Una grande selezione di cialde e capsule ti aspetta su eBay",
+      "descrizione": "Su eBay è possibile trovare una grande selezione di cialde e capsule tutte a prezzi incredibilmente convenienti, con consegna gratuita. The post Una grande selezione di cialde e capsule ti aspetta su eBay appeared first",
+      "link": "https://www.punto-informatico.it/una-grande-selezione-di-cialde-e-capsule-ti-aspetta-su-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-19T06:00:32+00:00"
+    },
+    {
+      "titolo": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+      "descrizione": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
+      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T06:00:00+00:00"
+    },
+    {
+      "titolo": "Esperimenti biologici con Claude, l'AI entra in laboratorio",
+      "descrizione": "Anthropic porta Claude nel mondo reale con un laboratorio dedicato alla biologia",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670938/anthropic-claude-laboratorio-biologia-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-19T05:55:00+00:00"
+    },
+    {
+      "titolo": "Paramount+ Coupon Codes and Deals for September 2026",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T05:00:00+00:00"
+    },
+    {
+      "titolo": "B&H Photo Promo Codes and Deals This September 2026",
+      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T05:00:00+00:00"
+    },
+    {
+      "titolo": "KitchenAid Promo Codes: Save Up to 20%",
+      "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T05:00:00+00:00"
+    },
+    {
+      "titolo": "Whoop Promo Codes: 20% Off This September 2026",
+      "descrizione": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T05:00:00+00:00"
+    },
+    {
+      "titolo": "20% Off Samsung Promo Code | September 2026",
+      "descrizione": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "fonte": "WIRED",
+      "data": "2026-09-19T05:00:00+00:00"
+    },
     {
       "titolo": "Flock Offers Employees Buyouts as Customers Flee",
       "descrizione": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
@@ -42,132 +168,6 @@
       "link": "https://www.hdblog.it/droni/articoli/n670676/cina-type-19-laser-anti-drone/",
       "fonte": "HDblog.it",
       "data": "2026-09-18T16:55:00+00:00"
-    },
-    {
-      "titolo": "Hai una cover per iPhone 17 Pro? Potrebbe andare perfettamente sul 18 Pro",
-      "descrizione": "Apple dichiara incompatibili le cover di iPhone 17 Pro e 17 Pro Max con i nuovi iPhone 18 Pro, ma una prova diretta mostra che nella pratica possono calzare correttamente",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670916/cover-iphone-18-pro-max-17-compatibili/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:45:00+00:00"
-    },
-    {
-      "titolo": "Google ha iniziato a pagare i giornali che Gemini usa come fonti",
-      "descrizione": "Il widget dei compensi è già visibile da molti gestori in Search Console",
-      "link": "https://www.hdblog.it/google/articoli/n670896/google-paga-giornali-gemini-fonti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:35:00+00:00"
-    },
-    {
-      "titolo": "Anthropic testa Claude nei laboratori di biologia reali",
-      "descrizione": "Con il nuovo laboratorio reale e lo standard di automazione, Anthropic vuole affidare a Claude la gestione di esperimenti biologici. The post Anthropic testa Claude nei laboratori di biologia reali appeared first on Punt",
-      "link": "https://www.punto-informatico.it/anthropic-testa-claude-laboratori-biologia-reali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T16:29:57+00:00"
-    },
-    {
-      "titolo": "L'intelligenza artificiale va nazionalizzata?",
-      "descrizione": "Le \"big AI\" parlano di preoccupazione per la sicurezza e la necessità di ripensare limitazioni e blocchi, ma secondo il CEO di Palantir hanno paura di una massiccia ondata di denunce per violazione...",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n670911/ai-intelligenza-artificiale-nazionalizzate-rischi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:25:00+00:00"
-    },
-    {
-      "titolo": "Crisi RAM? Non per Clicks: il Communicator ne avrà di più (allo stesso prezzo)",
-      "descrizione": "Clicks Communicator riceve due importanti upgrade prima del debutto: 4 GB di RAM aggiuntivi e una batteria più \"sicura\". Il prezzo per chi ha già effettuato il preordine non cambia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670910/clicks-communicator-piu-ram-batteria-stesso-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:10:00+00:00"
-    },
-    {
-      "titolo": "Škoda Epiq, arrivano le nuove versioni 40: in promozione si parte da 23.900 euro",
-      "descrizione": "Škoda Epiq amplia la gamma italiana con le versioni 40, 40 Plus e 40 Selection: batteria da 37 kWh, fino a 135 CV e prezzo promozionale da 23.900 euro",
-      "link": "https://www.hdmotori.it/skoda-epiq-gamma-40-autonomia-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T16:00:47+00:00"
-    },
-    {
-      "titolo": "Dentro iPhone 18 Pro: il teardown mostra come Apple ha ridotto la Dynamic Island",
-      "descrizione": "Scopriamo com'è fatto dentro.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670900/iphone-18-pro-max-teardown-dynamic-island-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T15:55:00+00:00"
-    },
-    {
-      "titolo": "La crisi di Hormuz sta facendo calare la CO2? I numeri che spiegano il paradosso",
-      "descrizione": "La crisi nello Stretto di Hormuz sta modificando la domanda globale di energia: secondo un'analisi di Carbon Brief sui dati IEA, nel 2026 le emissioni da combustibili fossili potrebbero calare",
-      "link": "https://www.hdblog.it/green/articoli/n670903/emissioni-petrolio-gas-carbone-2026-calo-hormuz/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T15:35:00+00:00"
-    },
-    {
-      "titolo": "Galaxy S27 Ultra e Pro, che batterie avranno? Ce lo dice la certificazione 3C",
-      "descrizione": "Finalmente sull'Ultra ci sarà un upgrade: ecco cosa cosa sappiamo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670897/samsung-galaxy-s27-ultra-pro-batteria-ricarica-60w/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T15:05:00+00:00"
-    },
-    {
-      "titolo": "Hyundai Inster diventa Van: due posti, 370 km di autonomia e kit da 1.495 euro",
-      "descrizione": "Hyundai Inster è ora disponibile anche in versione Van: due posti, vano per merci leggere e fino a 370 km WLTP. Il kit costa 1.495 euro",
-      "link": "https://www.hdmotori.it/hyundai-inster-van-autonomia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T15:00:57+00:00"
-    },
-    {
-      "titolo": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "descrizione": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "fonte": "WIRED",
-      "data": "2026-09-18T15:00:08+00:00"
-    },
-    {
-      "titolo": "Klarna cambia il nome del saldo: ora è Conto bancario",
-      "descrizione": "Saldo Klarna cambia denominazione e diventa Conto bancario Klarna. Per gli utenti non cambia il funzionamento: denaro depositato, credenziali e modalità di accesso restano gli stessi",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n670898/klarna-saldo-conto-bancario-cosa-cambia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T14:50:00+00:00"
-    },
-    {
-      "titolo": "Nucleare in Italia, il primo reattore attivo entro il 2035",
-      "descrizione": "EdF prepara 10 piccoli reattori nucleari per l'Europa: uno è previsto in Italia, con la volontà di renderlo operativo entro il 2035. The post Nucleare in Italia, il primo reattore attivo entro il 2035 appeared first on P",
-      "link": "https://www.punto-informatico.it/nucleare-italia-primo-reattore-attivo-entro-2035/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T14:42:27+00:00"
-    },
-    {
-      "titolo": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack",
-      "descrizione": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T13:45:00+00:00"
-    },
-    {
-      "titolo": "Videosorveglianza potenziata sul territorio con nuovi finanziamenti",
-      "descrizione": "Stanziati nuovi fondi da destinare agli impianti di videosorveglianza sul territorio, con l'obiettivo di rafforzare controllo e sicurezza. The post Videosorveglianza potenziata sul territorio con nuovi finanziamenti appe",
-      "link": "https://www.punto-informatico.it/videosorveglianza-potenziata-territorio-nuovi-finanziamenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T13:19:38+00:00"
-    },
-    {
-      "titolo": "Control Resonant PC performance tested: 28 GPUs take us back to the Oldest House and a warped Manhattan cityscape",
-      "descrizione": "Control Resonant's warped Manhattan cityscape pushes graphics cards to the max thanks to path-traced lighting effects and full support for Nvidia's DLSS 4.5 technologies. We put it to the test to see how it performs on 2",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/control-resonant-pc-performance-tested-28-gpus-take-us-back-to-the-oldest-house-and-a-warped-manhattan-cityscape",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T13:01:36+00:00"
-    },
-    {
-      "titolo": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "descrizione": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
-      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "fonte": "WIRED",
-      "data": "2026-09-18T13:00:00+00:00"
-    },
-    {
-      "titolo": "Revolut e IAmNotVillain, nessuna prova del furto di dati al Viminale",
-      "descrizione": "Le indagini legate all'attacco a Revolut non confermano il furto di dati al Ministero dell'Interno: il gruppo IAmNotVillain sembra sparito. The post Revolut e IAmNotVillain, nessuna prova del furto di dati al Viminale ap",
-      "link": "https://www.punto-informatico.it/fintech/conti/revolut-iamnotvillain-nessuna-prova-furto-dati-viminale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-18T12:55:22+00:00"
     }
   ]
 }
