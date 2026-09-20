@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-09-20T04:56:58.110535+00:00",
+  "last_updated": "2026-09-20T11:28:37.098240+00:00",
   "items": [
+    {
+      "titolo": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+      "descrizione": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T11:20:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+      "descrizione": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T10:55:00+00:00"
+    },
+    {
+      "titolo": "Disney prima accusa Character.AI, poi ne assume il CEO",
+      "descrizione": "Disney affida tecnologia e AI all’ex CEO di Character.AI, Karandeep Anand.",
+      "link": "https://www.hdblog.it/mercato/articoli/n670962/disney-karandeep-anand-primo-cto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T10:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Mazda MX-5 2027: tra i cordoli di Imola la magia si rinnova",
+      "descrizione": "Esordio dinamico a Imola per la Mazda MX-5 2027: arrivano la funzione DSC-Track per la pista e nuove finiture d'ispirazione artigianale con dettagli in Alcantara.",
+      "link": "https://www.hdmotori.it/mazda-mx-5-2027-minardi-day-imola/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T10:30:50+00:00"
+    },
+    {
+      "titolo": "Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate",
+      "descrizione": "An official Russian media clip shows Putin voting on a Dell PC with an unlicensed copy of Windows.",
+      "link": "https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T10:30:00+00:00"
+    },
+    {
+      "titolo": "iOS 27 è più veloce: Apple ha ottimizzato oltre 30 operazioni su iPhone e iPad",
+      "descrizione": "Con iOS 27, Apple ha notevolmente migliorato le prestazioni del sistema, lavorando su una lunga serie di operazioni che fanno parte dell'uso quotidiano di iPhone. L'azienda ne aveva parlato...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670974/ios-27-rende-iphone-piu-veloci/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T09:55:00+00:00"
+    },
+    {
+      "titolo": "WindRunner, l’aereo gigantepotrebbe cambiare il modo in cui costruiamo i satelliti",
+      "descrizione": "WindRunner punta a trasportare razzi e satelliti giganti senza smontarli.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670963/windrunner-aereo-gigante-logistica-spaziale/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T09:35:00+00:00"
+    },
+    {
+      "titolo": "La tecnologia costa troppo? Così la Gen Z riscopre il fascino dell’analogico",
+      "descrizione": "L’elettronica di consumo rischia di diventa un lusso e allora i più giovani riscoprono telefoni «stupidi», fotocamere, lettori musicali e retrogaming. Si chiama anemoia: nostalgia per un’epoca che non si è mai vissuta.",
+      "link": "https://www.ilsole24ore.com/art/la-tecnologia-costa-troppo-cosi-gen-z-riscopre-fascino-dell-analogico-AJvnz88",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-20T09:29:00+00:00"
+    },
+    {
+      "titolo": "Streaming video, set top box e chiavette possono limitare la qualità",
+      "descrizione": "La qualità video non dipende solo dalla connessione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670840/streaming-box-puo-limitare-la-qualita-4k/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T08:55:00+00:00"
+    },
+    {
+      "titolo": "Nucleare in Italia: a quali reattori stiamo guardando?",
+      "descrizione": "Un reattore SMR da 400 MW potrebbe riportare il nucleare in Italia entro il 2035.",
+      "link": "https://www.hdblog.it/green/articoli/n670965/nucleare-italia-reattore-smr-2035/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T08:35:00+00:00"
+    },
+    {
+      "titolo": "Garmin vivoactive 6 in offerta su Amazon: lo smartwatch per correre, dormire meglio e pagare dal polso",
+      "descrizione": "Prezzo ridotto su Amazon per il Garmin Vivoactive 6, smartwatch con un luminoso display AMOLED, 11 giorni di autonomia e funzioni per sport e salute.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n670969/smartwatch-garmin-vivoactive-6-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T07:45:00+00:00"
+    },
+    {
+      "titolo": "Google Contatti, ci sono novità in arrivo per le Card di chiamata",
+      "descrizione": "La condivisione sta per diventare più semplice.",
+      "link": "https://www.hdblog.it/google/articoli/n670960/google-contatti-come-condividere-card-chiamata/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T07:35:00+00:00"
+    },
+    {
+      "titolo": "Uno smartphone diverso da tutti gli altri al giusto prezzo: Nothing Phone (3)",
+      "descrizione": "Il Nothing Phone (3) è indubbiamente uno smartphone unico nel suo design e ora la versione da 256 GB e in offerta su Amazon a 519€. The post Uno smartphone diverso da tutti gli altri al giusto prezzo: Nothing Phone (3) a",
+      "link": "https://www.punto-informatico.it/uno-smartphone-diverso-tutti-gli-altri-giusto-prezzo-nothing-phone-3/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-20T07:15:49+00:00"
+    },
+    {
+      "titolo": "Le frequenze TivùSat si aggiornano: perché dovrebbe interessarti",
+      "descrizione": "Le frequenze TivùSat, la piattaforma di intrattenimento satellitare, si sono aggiornate. Scopri perché questo dovrebbe interessarti. The post Le frequenze TivùSat si aggiornano: perché dovrebbe interessarti appeared firs",
+      "link": "https://www.punto-informatico.it/le-frequenze-tivusat-si-aggiornano-perche-dovrebbe-interessarti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-20T07:00:27+00:00"
+    },
+    {
+      "titolo": "Trump vuole ribattezzare l’AI e prepara una nuova forza americana",
+      "descrizione": "Trump prepara una AI Force mentre Washington accelera sull’intelligenza artificiale.",
+      "link": "https://www.hdblog.it/mercato/articoli/n670964/trump-ai-force-intelligenza-artificiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T06:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Book6, sconto di 150€: lunga autonomia e chip Intel Core Ultra 5",
+      "descrizione": "Al minimo storico il Samsung Galaxy Book6 da 16'' con Intel Core Ultra 5 e funzioni AI.",
+      "link": "https://www.hdblog.it/portatili/offerte/n670966/samsung-galaxy-book6-16-core-ultra-5-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T06:31:00+00:00"
+    },
+    {
+      "titolo": "Mercedes-AMG GT SUV: debutterà in occasione dell’evento per i 140 anni",
+      "descrizione": "La Casa di Stoccarda si prepara a svelare il suo primo SUV sportivo ad alte prestazioni sviluppato interamente ad Affalterbach sulla piattaforma elettrica AMG.EA.",
+      "link": "https://www.hdmotori.it/mercedes-amg-gt-suv-debutto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-20T06:30:05+00:00"
+    },
+    {
+      "titolo": "BBVA: Conto Corrente Zero Spese per Sempre e 4% di Interessi ogni Mese",
+      "descrizione": "Cambia modo di pensare la banca con BBVA che offre un Conto Corrente Zero Spese per Sempre e il 4% di Interessi ogni Mese sul tuo saldo. The post BBVA: Conto Corrente Zero Spese per Sempre e 4% di Interessi ogni Mese app",
+      "link": "https://www.punto-informatico.it/fintech/conti/bbva-conto-corrente-zero-spese-per-sempre-4-percento-interessi-ogni-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-20T06:00:43+00:00"
+    },
     {
       "titolo": "Samsung rilascia la One UI 9 per i Galaxy S26",
       "descrizione": "Samsung ha avviato la distribuzione della nuova One UI 9 (versione personalizzata di Android 17) per Galaxy S26, S26+ e S26 Ultra. The post Samsung rilascia la One UI 9 per i Galaxy S26 appeared first on Punto Informatic",
@@ -42,132 +168,6 @@
       "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
       "fonte": "WIRED",
       "data": "2026-09-19T09:39:00+00:00"
-    },
-    {
-      "titolo": "Casio Edifice EFS-S660: zaffiro e ricarica solare a meno di 200 euro",
-      "descrizione": "Due cronografi compatti con vetro zaffiro, ricarica solare e autonomia di cinque mesi.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670944/casio-edifice-efs-s660-vetro-zaffiro-solare/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T09:35:00+00:00"
-    },
-    {
-      "titolo": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "descrizione": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T09:30:00+00:00"
-    },
-    {
-      "titolo": "Join the WIRED World Fair in Miami on November 4",
-      "descrizione": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T09:00:00+00:00"
-    },
-    {
-      "titolo": "Fusione nucleare: miliardi investiti, ma le centrali restano lontane",
-      "descrizione": "La fusione funziona nei test, trasformarla in una centrale è un altro problema.",
-      "link": "https://www.hdblog.it/green/articoli/n670942/fusione-nucleare-centrali-restano-lontane/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T08:35:00+00:00"
-    },
-    {
-      "titolo": "Trackpad che sporge dal notebook? Attenzione alla batteria",
-      "descrizione": "Quali sono i segnali da non sottovalutare.",
-      "link": "https://www.hdblog.it/portatili/articoli/n670768/trackpad-sporgente-attenzione-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T08:05:00+00:00"
-    },
-    {
-      "titolo": "Samsung One UI 9.5: ecco su quali smartphone e tablet potrebbe arrivare",
-      "descrizione": "Comincia a prendere forma l'ipotetica lista dei tablet e smartphone Samsung che si aggiorneranno a One UI 9.5.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670571/samsung-aggiornamento-one-ui-9-5-smartphone-tablet/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T06:55:00+00:00"
-    },
-    {
-      "titolo": "Il J-50 potrebbe continuare a combattere se il pilota sviene",
-      "descrizione": "La Cina studia caccia autonomi capaci di volare senza GPS e assistere il pilota.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670940/j-50-caccia-cinese-volo-autonomo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T06:40:00+00:00"
-    },
-    {
-      "titolo": "Una grande selezione di cialde e capsule ti aspetta su eBay",
-      "descrizione": "Su eBay è possibile trovare una grande selezione di cialde e capsule tutte a prezzi incredibilmente convenienti, con consegna gratuita. The post Una grande selezione di cialde e capsule ti aspetta su eBay appeared first",
-      "link": "https://www.punto-informatico.it/una-grande-selezione-di-cialde-e-capsule-ti-aspetta-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-19T06:00:32+00:00"
-    },
-    {
-      "titolo": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-      "descrizione": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T06:00:00+00:00"
-    },
-    {
-      "titolo": "Esperimenti biologici con Claude, l'AI entra in laboratorio",
-      "descrizione": "Anthropic porta Claude nel mondo reale con un laboratorio dedicato alla biologia",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670938/anthropic-claude-laboratorio-biologia-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T05:55:00+00:00"
-    },
-    {
-      "titolo": "Paramount+ Coupon Codes and Deals for September 2026",
-      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "B&H Photo Promo Codes and Deals This September 2026",
-      "descrizione": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "KitchenAid Promo Codes: Save Up to 20%",
-      "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "Whoop Promo Codes: 20% Off This September 2026",
-      "descrizione": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "link": "https://www.wired.com/story/whoop-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "20% Off Samsung Promo Code | September 2026",
-      "descrizione": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "link": "https://www.wired.com/story/samsung-promo-codes/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T05:00:00+00:00"
-    },
-    {
-      "titolo": "Flock Offers Employees Buyouts as Customers Flee",
-      "descrizione": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
-      "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T02:22:54+00:00"
-    },
-    {
-      "titolo": "AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
-      "descrizione": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-18T21:51:29+00:00"
-    },
-    {
-      "titolo": "iPhone Duo è ispirato a uno dei princìpi più famosi di Steve Jobs",
-      "descrizione": "\"La vera magia avviene all'intersezione tra tecnologia e arte\", diceva: e per John Ternus è dove si trova iPhone Duo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670926/iphone-duo-steve-jobs-intersezione-tecnologia-arte/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-18T17:25:00+00:00"
     }
   ]
 }
