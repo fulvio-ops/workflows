@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-09-20T11:28:37.098240+00:00",
+  "last_updated": "2026-09-20T16:10:30.616022+00:00",
   "items": [
     {
-      "titolo": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+      "titolo": "La California vuole un kill switch per fermare i modelli AI",
+      "descrizione": "Il Governatore della California ha proposto un kill switch per disattivare i modelli fuori controllo, ma una simile soluzione è quasi impraticabile. The post La California vuole un kill switch per fermare i modelli AI ap",
+      "link": "https://www.punto-informatico.it/california-kill-switch-fermare-modelli-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-20T15:38:53+00:00"
+    },
+    {
+      "titolo": "Pixel Watch 5 Google cambia poco, ma questa volta quasi tutto funziona",
+      "descrizione": "Google non rivoluziona il suo smartwatch, ma interviene sui punti che contano:",
+      "link": "https://www.ilsole24ore.com/art/pixel-watch-5-google-cambia-poco-ma-questa-volta-quasi-tutto-funziona-AJBGFrEB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-20T14:31:29+00:00"
+    },
+    {
+      "titolo": "Trump vuole creare una AI Force e cambiare il nome dell’AI",
+      "descrizione": "Donald Trump vuole creare una AI Force per incentivare l'uso dell'intelligenza artificiale, per la quale ha scelto anche tre nomi alternativi. The post Trump vuole creare una AI Force e cambiare il nome dell’AI appeared",
+      "link": "https://www.punto-informatico.it/trump-vuole-creare-ai-force-cambiare-nome-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-20T14:16:19+00:00"
+    },
+    {
+      "titolo": "The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground",
+      "descrizione": "Nvidia’s Turing GPU became available to enthusiasts for the first time on this day eight years ago.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T14:05:31+00:00"
+    },
+    {
+      "titolo": "Microsoft patents system to freeze games and inject ads during downtimes — watching commercials earns ad-free playtime credits",
+      "descrizione": "This patent uses the game engine and machine learning to determine the best time to serve an ad.",
+      "link": "https://www.tomshardware.com/video-games/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-watching-commercials-earns-ad-free-playtime-credits",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T13:00:00+00:00"
+    },
+    {
+      "titolo": "North Korea used job interviews to deploy malware on 30,000 devices during coding tests — WaterPlum group loots $10.7 million in crypto and plants persistent RATs",
+      "descrizione": "Multiple government agencies across the world released a warning that North Korean hackers are posting fake jobs to install malware on unsuspecting applicants' computers. They then steal credentials and cryptocurrency fr",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-20T12:10:00+00:00"
+    },
+    {
+      "titolo": "Autonomous NATO strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
       "descrizione": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
       "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
       "fonte": "Latest from Tom's Hardware",
@@ -44,7 +86,7 @@
       "data": "2026-09-20T09:55:00+00:00"
     },
     {
-      "titolo": "WindRunner, l’aereo gigantepotrebbe cambiare il modo in cui costruiamo i satelliti",
+      "titolo": "WindRunner, l’aereo gigante potrebbe cambiare il modo in cui costruiamo i satelliti",
       "descrizione": "WindRunner punta a trasportare razzi e satelliti giganti senza smontarli.",
       "link": "https://www.hdblog.it/tecnologia/articoli/n670963/windrunner-aereo-gigante-logistica-spaziale/",
       "fonte": "HDblog.it",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/fintech/conti/bbva-conto-corrente-zero-spese-per-sempre-4-percento-interessi-ogni-mese/",
       "fonte": "Punto Informatico",
       "data": "2026-09-20T06:00:43+00:00"
-    },
-    {
-      "titolo": "Samsung rilascia la One UI 9 per i Galaxy S26",
-      "descrizione": "Samsung ha avviato la distribuzione della nuova One UI 9 (versione personalizzata di Android 17) per Galaxy S26, S26+ e S26 Ultra. The post Samsung rilascia la One UI 9 per i Galaxy S26 appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/samsung-rilascia-one-ui-9-galaxy-s26/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-19T17:31:29+00:00"
-    },
-    {
-      "titolo": "Allucinazioni AI: rischiato attacco militare degli USA alla Cina",
-      "descrizione": "A causa di un falso report di intelligence generato da un chatbot AI, i militari statunitensi avevano pianificato di attaccare una nave cinese. The post Allucinazioni AI: rischiato attacco militare degli USA alla Cina ap",
-      "link": "https://www.punto-informatico.it/allucinazioni-ai-rischiato-attacco-militare-usa-cina/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-19T16:08:00+00:00"
-    },
-    {
-      "titolo": "Scoperto il pianeta più giovane del cosmo: così Elias 2-24 b sta nascendo sotto i nostri occhi",
-      "descrizione": "Ha meno di un milione di anni, è grande quanto Giove e sta ancora crescendo, immerso nel disco di gas e polveri da cui è nato. Elias 2-24 b è...",
-      "link": "https://www.ilsole24ore.com/art/scoperto-pianeta-piu-giovane-cosmo-cosi-elias-2-24-b-sta-nascendo-sotto-nostri-occhi-AJhs3OIB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-19T13:13:12+00:00"
-    },
-    {
-      "titolo": "Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
-      "descrizione": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-19T10:00:00+00:00"
-    },
-    {
-      "titolo": "Mathematicians Hate AI. They Can’t Quit It",
-      "descrizione": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T10:00:00+00:00"
-    },
-    {
-      "titolo": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "descrizione": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
-      "fonte": "WIRED",
-      "data": "2026-09-19T09:39:00+00:00"
     }
   ]
 }
