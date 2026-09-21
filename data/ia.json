@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-21T05:00:21.176997+00:00",
+  "last_updated": "2026-09-21T12:53:22.122484+00:00",
   "items": [
     {
-      "titolo": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’",
-      "descrizione": "A proposed class action lawsuit has been lodged against the four big AI tech companies after they agreed to slow AI development for safety reasons. The lead counsel on the lawsuit says that 'AI will quickly spin out of c",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "titolo": "OpenAI projections point to a massive $278 billion cash burn through 2030 that exceeds the national budgets of Indonesia and Norway — $856 billion compute tab outpaces tenfold revenue surge",
+      "descrizione": "OpenAI reportedly expects to spend $278 billion more money than it generates between 2026 and 2030 due to aggressive spending on compute capacity and adjacent infrastructure.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-20T14:48:57+00:00",
+      "data": "2026-09-21T12:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Allarme AI: anche Google Gemini è sfuggito all'ambiente di test hackerando tre aziende",
-      "descrizione": "L'AI di Google si aggiunge alla lista: cosa è successo.",
-      "link": "https://www.hdblog.it/google/articoli/n670955/gemini-test-hacking-tre-aziende-google-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-19T15:45:00+00:00",
+      "titolo": "Gemini viola tre aziende reali in un test, agenti AI fuori controllo",
+      "descrizione": "Durante un test di cybersicurezza, il modello Gemini di Google supera i limiti della simulazione e penetra nei sistemi di tre aziende reali. The post Gemini viola tre aziende reali in un test, agenti AI fuori controllo a",
+      "link": "https://www.punto-informatico.it/gemini-viola-tre-aziende-reali-test-agenti-ai-fuori-controllo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-21T07:14:19+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’",
-      "descrizione": "A proposed class action lawsuit has been lodged against the four big AI tech companies after they agreed to slow AI development for safety reasons. The lead counsel on the lawsuit says that 'AI will quickly spin out of c",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "titolo": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals — OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks",
+      "descrizione": "“Frontier robot policies,” the policies for models turning what a robot sees into what it does, “reliably carry out harmful instructions,” according to a Sept. 18 report by Robocurve.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-20T14:48:57+00:00",
+      "data": "2026-09-21T10:30:00+00:00",
       "modello": "claude"
     }
   ]
