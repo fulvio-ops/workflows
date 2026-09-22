@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-22T16:59:43.541542+00:00",
+  "last_updated": "2026-09-22T21:21:53.407611+00:00",
   "items": [
+    {
+      "titolo": "Pixel VIP cambia volto con l'aggiornamento di settembre 2026: le novità",
+      "descrizione": "Qualche ritocco pratico ed estetico.",
+      "link": "https://www.hdblog.it/google/articoli/n671239/google-pixel-vip-widget-novita-settembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-22T18:31:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tutte le rivali in Germania",
+      "descrizione": "Volkswagen ID. Polo conquista la categoria Budget del German Car of the Year: l’elettrica compatta supera Renault Twingo e Clio e parte da 24.995 euro",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-elettrica-anno-germania/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-22T17:00:37+00:00"
+    },
     {
       "titolo": "La CO2 potrebbe alimentare gli aerei: il segreto è un plasma elettrico",
       "descrizione": "Plasma ed elettricità trasformano la CO₂ in molecole utili per carburanti e industria.",
@@ -121,34 +135,6 @@
       "data": "2026-09-22T14:25:44+00:00"
     },
     {
-      "titolo": "OPPO Find X10 Pro Max ufficiale: è il primo smartphone al mondo con 3 cam da 200MP",
-      "descrizione": "Arrivano anche Find X10 e Find X10e.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671193/oppo-find-x10-pro-max-10e-caratteristiche-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T14:25:00+00:00"
-    },
-    {
-      "titolo": "Dark web: sarebbero ben 2,5 miliardi i dati sensibili rubati nel primo semestre del 2026",
-      "descrizione": "Nel primo semestre del 2026, sul dark web sono stati esposti 2,5 miliardi di dati: Italia bersaglio degli infostealer.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n671179/dark-web-dati-sensibili-rubati-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T14:20:00+00:00"
-    },
-    {
-      "titolo": "Nuova Suzuki Across: l’evoluzione plug-in tra tecnologia e spirito off-road | Video",
-      "descrizione": "Design più marcato, comandi fisici al loro posto e trazione integrale pronta a cavarsela fuori dall'asfalto",
-      "link": "https://www.hdmotori.it/prove/nuova-suzuki-across-levoluzione-plug-in-tra-tecnologia-e-spirito-off-road-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T14:00:43+00:00"
-    },
-    {
-      "titolo": "L'addio (senza fretta) alla modalità IE del browser Edge, un promemoria da Microsoft",
-      "descrizione": "Internet Explorer è ancora vivo nella modalità IE di Edge, supportata almeno fino al 2029, ma Microsoft invita a prepararsi all'addio.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n671190/addio-modalita-ie-edge-promemoria-microsoft/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T13:55:00+00:00"
-    },
-    {
       "titolo": "OPPO Find X10 Pro Max, il primo con tre sensori da 200 MP",
       "descrizione": "Tre fotocamere posteriori da 200 megapixel, batteria molto capiente e chipset da 2 nm: le specifiche del nuovo OPPO Find X10 Pro Max. The post OPPO Find X10 Pro Max, il primo con tre sensori da 200 MP appeared first on P",
       "link": "https://www.punto-informatico.it/oppo-find-x10-pro-max-tre-sensori-200-mp/",
@@ -156,18 +142,32 @@
       "data": "2026-09-22T13:47:33+00:00"
     },
     {
-      "titolo": "Bonus colonnine 2026: al via le domande, fino a 1.500 euro per i privati",
-      "descrizione": "Fino al 22 settembre è possibile richiedere il contributo per l’acquisto e l’installazione di infrastrutture di ricarica domestiche. Per i condomìni il rimborso può...",
-      "link": "https://www.hdmotori.it/bonus-colonnine-2026-al-via-le-domande-fino-a-1-500-euro-per-i-privati/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T13:45:00+00:00"
-    },
-    {
       "titolo": "iPhone 18 Pro: ecco la fotocamera ad apertura variabile",
       "descrizione": "Gli esperti di iFixit hanno smontato il nuovo iPhone 18 Pro e mostrato il funzionamento dell'apertura variabile della fotocamera posteriore. The post iPhone 18 Pro: ecco la fotocamera ad apertura variabile appeared first",
       "link": "https://www.punto-informatico.it/iphone-18-pro-fotocamera-apertura-variabile/",
       "fonte": "Punto Informatico",
       "data": "2026-09-22T13:38:47+00:00"
+    },
+    {
+      "titolo": "‘We’ll be the first to mine Bitcoin in space’ says Nvidia-backed startup",
+      "descrizione": "An Nvidia-backed startup plans to establish a Bitcoin mining operation in space before the year is out.",
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/well-be-the-first-to-mine-bitcoin-in-space-says-nvidia-backed-startup-starcloud-will-fire-up-its-asics-after-its-second-spacecraft-reaches-orbit-later-this-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-22T12:59:50+00:00"
+    },
+    {
+      "titolo": "Apple apre la Music Hall nella copertina pinkfloydiana di Animals",
+      "descrizione": "Apple inaugura a Londra la Music Hall, uno spazio da 600 posti con 48 altoparlanti, audio spaziale e pensato per le riprese video. The post Apple apre la Music Hall nella copertina pinkfloydiana di Animals appeared first",
+      "link": "https://www.punto-informatico.it/apple-music-hall/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-22T12:01:54+00:00"
+    },
+    {
+      "titolo": "iPhone Duo non è ancora uscito in Italia ma è già un meme sui social",
+      "descrizione": "Dall’apertura a libro alle nuove funzionalità: così i creator stanno ironizzando sul primo iPhone pieghevole",
+      "link": "https://www.ilsole24ore.com/art/iphone-duo-non-e-ancora-uscito-italia-ma-e-gia-meme-social-AJmOcgEB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-22T11:57:00+00:00"
     }
   ]
 }
