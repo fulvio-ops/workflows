@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-22T05:01:00.972390+00:00",
+  "last_updated": "2026-09-22T11:43:17.505437+00:00",
   "items": [
     {
-      "titolo": "Il figlio di Arnault entra nel mondo delle hypercar: investe in un marchio storico",
-      "descrizione": "Antoine Arnault, figlio del miliardario Bernard Arnault, investe attraverso Marbeuf Capital in Delage, marchio francese rinato con la D12 da oltre 1.000 CV e 2 milioni di euro",
-      "link": "https://www.hdmotori.it/delage-hypercar-arnault/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-21T16:30:13+00:00",
+      "titolo": "OpenAI propone uno standard globale per lo sviluppo AI",
+      "descrizione": "OpenAI ha consigliato l'adozione di uno standard internazionale per lo sviluppo sicuro dei modelli AI con la supervisione degli Stati Uniti. The post OpenAI propone uno standard globale per lo sviluppo AI appeared first",
+      "link": "https://www.punto-informatico.it/openai-propone-standard-globale-sviluppo-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-22T11:18:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Googlebook: ecco i primi cinque notebook con Android e Gemini",
-      "descrizione": "Ecco i primi cinque Googlebook di Acer, ASUS, Dell, HP e Lenovo con processori Intel e Qualcomm, schermo touch e sistema operativo basato su Android. The post Googlebook: ecco i primi cinque notebook con Android e Gemini",
-      "link": "https://www.punto-informatico.it/googlebook-primi-cinque-notebook-android-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-21T14:03:00+00:00",
+      "titolo": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
+      "descrizione": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS to make a Mac-like experience for Android users, with a ton of Gemini tacked on.",
+      "link": "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-21T13:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals — OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks",
-      "descrizione": "“Frontier robot policies,” the policies for models turning what a robot sees into what it does, “reliably carry out harmful instructions,” according to a Sept. 18 report by Robocurve.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
+      "titolo": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag — 20-30 MW facilities to provide capacity as mega structures undergo construction",
+      "descrizione": "OpenAI and Anthropic are seeking to secure immediate capacity, through smaller data center deals, to meet current demand, despite spending billions on massive deals elsewhere.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-21T10:30:00+00:00",
+      "data": "2026-09-22T09:30:00+00:00",
       "modello": "claude"
     }
   ]
