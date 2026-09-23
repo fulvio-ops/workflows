@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-09-23T17:05:21.379315+00:00",
+  "last_updated": "2026-09-23T21:32:03.591785+00:00",
   "items": [
+    {
+      "titolo": "Surface Pro e Laptop con Snapdragon X2: anteprima dall'evento Qualcomm",
+      "descrizione": "L'evento di presentazione ufficiale si terrà il 7 ottobre.",
+      "link": "https://www.hdblog.it/portatili/articoli/n671272/microsoft-nuovi-surface-immagini-qualcomm/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T20:30:00+00:00"
+    },
+    {
+      "titolo": "Qualcomm, arriva Snapdragon Sound Elite Gen 2: AI anche sui wearable audio",
+      "descrizione": "Raddoppia la potenza AI in locale, calano i consumi e gli ingombri, debutta il Wi-Fi 6E integrato.",
+      "link": "https://www.hdblog.it/hardware/articoli/n671388/qualcomm-snapdragon-sound-elite-gen-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T19:31:00+00:00"
+    },
+    {
+      "titolo": "Redmi Buds 8 in offerta su Amazon: auricolari di qualità a 41,60€",
+      "descrizione": "Gli auricolari Xiaomi Redmi Buds 8 sono in offerta e costano ora 41,60 euro: si tratta di un vero e proprio affare tra i modelli low cost.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n671390/redmi-buds-8-offerta-amazon-settembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T18:55:00+00:00"
+    },
+    {
+      "titolo": "Disney+, ci risiamo: quarto aumento in quattro anni | anche Hulu",
+      "descrizione": "I piani premium senza pubblicità aumentano di ben due dollari.",
+      "link": "https://www.hdblog.it/android/articoli/n671386/disney-plus-aumenti-usa-quanto-hulu/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T18:09:00+00:00"
+    },
+    {
+      "titolo": "iPhone 20 con schermo curvo su tutti i lati e senza cornici (o quasi): i rumor insistono",
+      "descrizione": "Ma ci sarebbe qualche rinuncia rispetto ai piani iniziali.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671380/iphone-20-pro-ventennale-schermo-curvo-ltpo-coe/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T18:05:00+00:00"
+    },
+    {
+      "titolo": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "descrizione": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+      "fonte": "WIRED",
+      "data": "2026-09-23T18:03:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Pad 9 e Pad 9 Pro ufficiali: tanta potenza a prezzi abbordabili",
+      "descrizione": "Prezzi che partono da poco meno di 400 euro.",
+      "link": "https://www.hdblog.it/tablet/articoli/n671384/xiaomi-pad-9-pro-specifiche-prezzi-tablet/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T17:55:00+00:00"
+    },
+    {
+      "titolo": "Artemis, la NASA guarda all’Italia e snobba l’ESA",
+      "descrizione": "La NASA avverte l'Europa. Nella corsa al polo Sud lunare servono accordi più rapidi. L'Italia emerge come partner strategico di Artemis. The post Artemis, la NASA guarda all’Italia e snobba l’ESA appeared first on Punto",
+      "link": "https://www.punto-informatico.it/artemis-nasa-guarda-italia-snobba-esa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-23T17:26:19+00:00"
+    },
+    {
+      "titolo": "Lo sapevate che Windows 11 tiene traccia dei file che scaricate da internet?",
+      "descrizione": "Si chiama Mark of the Web, ed è una funzionalità di sicurezza.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671375/windows-11-mark-web-motw-come-controllare/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T17:10:00+00:00"
+    },
+    {
+      "titolo": "UNRAE amplia il proprio ruolo: dati e servizi a disposizione di tutti gli automobilisti",
+      "descrizione": "L'Associazione rinnova la propria identità e offre nuovi servizi anche ai non addetti ai lavori, consentendo a tutti gli italiani di accedere a 75 anni di competenze automobilistiche.",
+      "link": "https://www.hdmotori.it/unrae-dati-servizi-automobilisti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T17:00:33+00:00"
+    },
     {
       "titolo": "AirTag e stalking, nuova causa contro Apple per il mancato avviso su iPhone",
       "descrizione": "Apple affronta una nuova causa sugli AirTag: una donna dell’Oregon afferma che il sistema di sicurezza non l’abbia avvisata mentre un tracker nascosto sotto la sua automobile veniva utilizzato per...",
@@ -58,25 +128,11 @@
       "data": "2026-09-23T15:23:18+00:00"
     },
     {
-      "titolo": "Problemi alla rete Vodafone il 23 settembre: gli aggiornamenti",
-      "descrizione": "Ci sono feedback relativi a malfunzionamenti della rete Vodafone, nel pomeriggio del 23 settembre: seguiamo la situazione con aggiornamenti. The post Problemi alla rete Vodafone il 23 settembre: gli aggiornamenti appeare",
+      "titolo": "Problemi alla rete Vodafone il 23 settembre | Aggiornato",
+      "descrizione": "Ci sono feedback relativi a malfunzionamenti della rete Vodafone, nel pomeriggio del 23 settembre: seguiamo la situazione con aggiornamenti. The post Problemi alla rete Vodafone il 23 settembre | Aggiornato appeared firs",
       "link": "https://www.punto-informatico.it/problemi-rete-vodafone-23092026/",
       "fonte": "Punto Informatico",
       "data": "2026-09-23T15:04:15+00:00"
-    },
-    {
-      "titolo": "Jeremy Clarkson vende le sue storiche Alfa Romeo e Lancia: motivo oscuro",
-      "descrizione": "Si teme che il giornalista e appassionato di automotive, Jeremy Clarkson, sia arrivato a dare dei modelli pregiati all’asta per ragioni legate al suo stato di salute",
-      "link": "https://www.hdmotori.it/jeremy-clarkson-asta-alfa-romeo-lancia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T15:00:25+00:00"
-    },
-    {
-      "titolo": "Sfida tra pieghevoli: Motorola Razr Fold vs Honor Magic V6 | Video",
-      "descrizione": "iPhone Duo ha portato gli smartphone pieghevoli al centro dell’attenzione mediatica e finalmente sempre più persone stanno scoprendo questi smartphone “2 in 1”.",
-      "link": "https://www.hdblog.it/smartphone/comparazioni/n670604/razr-fold-vs-honor-v6-test-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T14:31:00+00:00"
     },
     {
       "titolo": "La discussione sull’AI sta per diventare un altro derby tutto italiano",
@@ -86,39 +142,11 @@
       "data": "2026-09-23T14:30:20+00:00"
     },
     {
-      "titolo": "Citroen OUTDOOR, il nuovo allestimento top di gamma: la parola d’ordine è avventura",
-      "descrizione": "Citroen ha svelato OUTDOOR, una inedita linea che amplia le gamme C3, SUV C3 Aircross e Ami con un tocco di esclusività in più.",
-      "link": "https://www.hdmotori.it/citroen-outdoor-nuovo-allestimento/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T14:30:13+00:00"
-    },
-    {
       "titolo": "LiveNetTV addio: chiusa la popolare IPTV odiata da Amazon",
       "descrizione": "La popolare app di IPTV LiveNetTV è stata chiusa dai due gestori turchi, dopo il sequestro da parte della polizia e l'accordo sottoscritto con ACE. The post LiveNetTV addio: chiusa la popolare IPTV odiata da Amazon appea",
       "link": "https://www.punto-informatico.it/livenettv-addio-chiusa-popolare-iptv-odiata-amazon/",
       "fonte": "Punto Informatico",
       "data": "2026-09-23T14:11:39+00:00"
-    },
-    {
-      "titolo": "Cinghia di distribuzione, l'errore che ti fa pagare la manodopera 2 volte",
-      "descrizione": "Perché conviene sostituire il paraolio dell'albero motore insieme alla cinghia di distribuzione? Il consiglio del meccanico per non pagare due volte i lavori",
-      "link": "https://www.hdmotori.it/cambio-distribuzione-paraolio-albero-motore/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T14:00:34+00:00"
-    },
-    {
-      "titolo": "Detriti spaziali, l’ESA avverte: alcune orbite potrebbero diventare inutilizzabili",
-      "descrizione": "Più satelliti e detriti aumentano il rischio di collisioni nelle orbite terrestri.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671342/detriti-spaziali-esa-rischio-collisioni-orbita/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T13:55:00+00:00"
-    },
-    {
-      "titolo": "Streaming musica, in arrivo le esclusive temporanee per gli utenti Premium",
-      "descrizione": "Spotify, Apple Music e le altre piattaforme potranno rendere disponibili agli utenti gratuiti le uscite degli artisti Universal 72 ore dopo averle sbloccate per quelli Premium.",
-      "link": "https://www.hdblog.it/android/articoli/n671343/steaming-musica-universal-esclusiva-temporanea/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T13:35:00+00:00"
     },
     {
       "titolo": "Apple sviluppa un fitness tracker senza schermo",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/meta-phoenix-occhiali-smart-senza-fotocamera/",
       "fonte": "Punto Informatico",
       "data": "2026-09-23T11:58:41+00:00"
-    },
-    {
-      "titolo": "Deezer premiata per la lotta alla musica AI: come protegge gli artisti",
-      "descrizione": "Deezer identifica il 99,8% dei brani generati dall'AI. Ecco perché la piattaforma è stata premiata per la tutela della musica umana. The post Deezer premiata per la lotta alla musica AI: come protegge gli artisti appeare",
-      "link": "https://www.punto-informatico.it/deezer-premiata-lotta-musica-ai-come-protegge-artisti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-23T10:18:31+00:00"
-    },
-    {
-      "titolo": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "descrizione": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
-      "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "fonte": "WIRED",
-      "data": "2026-09-23T10:15:00+00:00"
-    },
-    {
-      "titolo": "Octopus taglia i prezzi di luce e gas con la nuova promo anti-rincari",
-      "descrizione": "Con Octopus è possibile accedere a una tariffa luce e gas a prezzo fisso molto vantaggiosa: ecco la promo da attivare oggi per risparmiare. The post Octopus taglia i prezzi di luce e gas con la nuova promo anti-rincari a",
-      "link": "https://www.punto-informatico.it/octopus-taglia-i-prezzi-di-luce-e-gas-con-la-nuova-promo-anti-rincari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-23T09:55:56+00:00"
-    },
-    {
-      "titolo": "Trump all’ONU: Non chiamatela più AI, ma Super Intelligence",
-      "descrizione": "Per il presidente USA la parola artificiale suona falsa. Ecco perché Donald Trump ha deciso di ribattezzare l'AI in Super Intelligence. The post Trump all’ONU: Non chiamatela più AI, ma Super Intelligence appeared first",
-      "link": "https://www.punto-informatico.it/trump-onu-non-chiamatela-piu-ai-super-intelligence/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-23T08:53:14+00:00"
     }
   ]
 }
