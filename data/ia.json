@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-09-23T04:48:28.281303+00:00",
+  "last_updated": "2026-09-23T11:42:04.833543+00:00",
   "items": [
     {
-      "titolo": "Xbox, nuovi tagli ufficiali e profonda riorganizzazione degli studios",
-      "descrizione": "Colpo particolarmente grave per Halo Studios, a cui è stato anche tolto l'incarico di sviluppare il prossimo capitolo della saga.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671220/xbox-licenziamenti-halo-studios-riorganizzazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-22T16:05:00+00:00",
+      "titolo": "ChatGPT ha problemi: tutti gli aggiornamenti sul down (risolto)",
+      "descrizione": "Down in corso per ChatGPT: OpenAI conferma i problemi al servizio, in questo articolo tutti gli aggiornamenti in tempo reale. The post ChatGPT ha problemi: tutti gli aggiornamenti sul down (risolto) appeared first on Pun",
+      "link": "https://www.punto-informatico.it/chatgpt-down-23092026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-23T09:33:25+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
-      "descrizione": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS to make a Mac-like experience for Android users, with a ton of Gemini tacked on.",
-      "link": "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-21T13:00:00+00:00",
+      "titolo": "Samsung aggiorna anche frigoriferi del 2021: Gemini e le novità in arrivo ovunque",
+      "descrizione": "Samsung estende le funzioni AI del 2026 ad alcuni elettrodomestici meno recenti. Il rollout coinvolgerà frigoriferi Family Hub dal 2021 e modelli Bespoke AI Laundry Combo del 2024 e 2025",
+      "link": "https://www.hdblog.it/samsung/articoli/n671316/samsung-aggiornamento-elettrodomestici-tizen-10/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T10:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic lancia Claude Opus 5.5: più veloce e meno costoso ma con qualche limite",
-      "descrizione": "Il nuovo modello eguaglia le prestazioni del più grande Fable 5.1, riduce del 30% i tempi di esecuzione e costa il 20% in meno rispetto al predecessore",
-      "link": "https://www.ilsole24ore.com/art/anthropic-lancia-claude-opus-55-piu-veloce-e-meno-costoso-ma-qualche-limite-AJsJvOLB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-22T16:34:00+00:00",
+      "titolo": "Claude Opus 5.5 non attaccherà nessuna azienda",
+      "descrizione": "Anthropic afferma che Claude Opus 5.5 non attaccherà aziende reali, in quanto sono state implementate diverse restrizioni per evitare azioni vietate. The post Claude Opus 5.5 non attaccherà nessuna azienda appeared first",
+      "link": "https://www.punto-informatico.it/claude-opus-5-5-non-attacchera-nessuna-azienda/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-23T10:59:46+00:00",
       "modello": "claude"
     }
   ]
