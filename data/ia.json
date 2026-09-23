@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-09-23T11:42:04.833543+00:00",
+  "last_updated": "2026-09-23T17:05:24.597177+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ha problemi: tutti gli aggiornamenti sul down (risolto)",
-      "descrizione": "Down in corso per ChatGPT: OpenAI conferma i problemi al servizio, in questo articolo tutti gli aggiornamenti in tempo reale. The post ChatGPT ha problemi: tutti gli aggiornamenti sul down (risolto) appeared first on Pun",
-      "link": "https://www.punto-informatico.it/chatgpt-down-23092026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-23T09:33:25+00:00",
+      "titolo": "L’AI di OpenAI avrebbe risolto 100 problemi matematici: chi li verifica?",
+      "descrizione": "OpenAI rivendica oltre 100 risultati matematici. Un gruppo indipendente ne seguirà la diffusione.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671266/openai-ai-100-problemi-matematici-gruppo-indipende/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-23T16:55:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Samsung aggiorna anche frigoriferi del 2021: Gemini e le novità in arrivo ovunque",
-      "descrizione": "Samsung estende le funzioni AI del 2026 ad alcuni elettrodomestici meno recenti. Il rollout coinvolgerà frigoriferi Family Hub dal 2021 e modelli Bespoke AI Laundry Combo del 2024 e 2025",
-      "link": "https://www.hdblog.it/samsung/articoli/n671316/samsung-aggiornamento-elettrodomestici-tizen-10/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-23T10:35:00+00:00",
+      "titolo": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
+      "descrizione": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS to make a Mac-like experience for Android users, with a ton of Gemini tacked on.",
+      "link": "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-21T13:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Opus 5.5 non attaccherà nessuna azienda",
-      "descrizione": "Anthropic afferma che Claude Opus 5.5 non attaccherà aziende reali, in quanto sono state implementate diverse restrizioni per evitare azioni vietate. The post Claude Opus 5.5 non attaccherà nessuna azienda appeared first",
-      "link": "https://www.punto-informatico.it/claude-opus-5-5-non-attacchera-nessuna-azienda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-23T10:59:46+00:00",
+      "titolo": "Dopo Claude Opus 5.5 ecco Gpt 6 Sol e Luna. Ma i Big dell’Ai non dovevano rallentare?",
+      "descrizione": "I due modelli di OpenAi costano molto meno ma il cambio di passo non è nei benchmark ma nell’efficienza",
+      "link": "https://www.ilsole24ore.com/art/dopo-claude-opus-55-ecco-gpt-6-sol-e-luna-ma-big-dell-ai-non-dovevano-rallentare-AJLIPPMB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-23T13:41:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+      "descrizione": "Alibaba Group's AI division has released Qwen 2.1 Image, an ultra-lightweight image generation model with just 7B parameters, able to run on local hardware like the RTX 3090.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-23T15:34:36+00:00",
+      "modello": "altri"
     }
   ]
 }
