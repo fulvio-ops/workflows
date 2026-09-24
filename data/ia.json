@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-24T04:56:09.980688+00:00",
+  "last_updated": "2026-09-24T11:50:24.288564+00:00",
   "items": [
     {
-      "titolo": "Artemis, la NASA guarda all’Italia e snobba l’ESA",
-      "descrizione": "La NASA avverte l'Europa. Nella corsa al polo Sud lunare servono accordi più rapidi. L'Italia emerge come partner strategico di Artemis. The post Artemis, la NASA guarda all’Italia e snobba l’ESA appeared first on Punto",
-      "link": "https://www.punto-informatico.it/artemis-nasa-guarda-italia-snobba-esa/",
+      "titolo": "Agente di OpenAI ha attaccato un sito del governo australiano",
+      "descrizione": "Un agente di OpenAI ha effettuato un'intrusione non autorizzata al portale di Australian Medicare, ma non risulta l'accesso a dati medici dei cittadini. The post Agente di OpenAI ha attaccato un sito del governo australi",
+      "link": "https://www.punto-informatico.it/agente-openai-attaccato-sito-governo-australiano/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-23T17:26:19+00:00",
+      "data": "2026-09-24T11:43:31+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Dopo Claude Opus 5.5 ecco Gpt 6 Sol e Luna. Ma i Big dell’Ai non dovevano rallentare?",
-      "descrizione": "I due modelli di OpenAi costano molto meno ma il cambio di passo non è nei benchmark ma nell’efficienza",
-      "link": "https://www.ilsole24ore.com/art/dopo-claude-opus-55-ecco-gpt-6-sol-e-luna-ma-big-dell-ai-non-dovevano-rallentare-AJLIPPMB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-23T13:41:00+00:00",
+      "titolo": "Anthropic, Claude scopre un nuovo enzima",
+      "descrizione": "950 agenti Claude hanno analizzato sequenze DNA e individuato un sistema enzimatico finora sconosciuto. Anthropic lo paragona a CRISPR. The post Anthropic, Claude scopre un nuovo enzima appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/anthropic-claude-scopre-nuovo-enzima/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-24T10:56:16+00:00",
       "modello": "claude"
     },
     {
