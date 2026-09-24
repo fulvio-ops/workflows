@@ -1,8 +1,43 @@
 {
-  "last_updated": "2026-09-24T17:14:24.903437+00:00",
+  "last_updated": "2026-09-24T21:33:04.183424+00:00",
   "items": [
     {
-      "titolo": "Sony patent could turn PlayStation controllers into tap-to-pay credit card terminals — NFC and Bluetooth also support phones and gift cards for instant purchases",
+      "titolo": "OpenAI agent got into Australia's Medicare stats portal with 84-day notification delay",
+      "descrizione": "Australia says an OpenAI agent got past blocks on a Medicare statistics portal in June. OpenAI's notification arrived in September.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-24T20:34:31+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A27 5G in offerta a prezzo da outlet su eBay (-46%)",
+      "descrizione": "Display generoso, processore giusto per la fascia di prezzo, risultati della fotocamera posteriore apprezzabili.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n671528/samsung-galaxy-a27-5g-in-offerta-a-prezzo-da-outlet-su-ebay--46/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-24T19:25:00+00:00"
+    },
+    {
+      "titolo": "Google pronta a lanciare il primo test di data center spaziale",
+      "descrizione": "Giovedì 1° ottobre il lancio del satellite sperimentale di Big G che per un anno dovrà rispondere alle domande di intelligenza artificiale dalla Terra",
+      "link": "https://www.ilsole24ore.com/art/google-pronta-lanciare-primo-test-data-center-spaziale-AJgsUDOB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-24T18:36:31+00:00"
+    },
+    {
+      "titolo": "BYD lancia il modello con l'autonomia migliore al mondo: dati impressionanti",
+      "descrizione": "Lo sviluppo del colosso cinese BYD non si arresta e l’ultima novità si chiama Denza Z9S con un’autonomia pari a 1.100 km, a partire da una cifra ragionevole",
+      "link": "https://www.hdmotori.it/byd-modello-autonomia-migliore-al-mondo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-24T17:30:31+00:00"
+    },
+    {
+      "titolo": "PRIMA, il nuovo telescopio NASA guarderà dove Webb non arriva",
+      "descrizione": "PRIMA studierà stelle, galassie e pianeti attraverso la luce infrarossa lontana.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671496/nasa-prima-telescopio-infrarosso-lontano/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-24T17:30:00+00:00"
+    },
+    {
+      "titolo": "Sony patent could turn PlayStation controllers into tap-to-pay credit card terminals",
       "descrizione": "A new patent application details the potential for a future PlayStation controller to accept payments via credit cards and gift cards.",
       "link": "https://www.tomshardware.com/video-games/console-gaming/sony-patent-could-turn-playstation-controllers-into-tap-to-pay-credit-card-terminals-nfc-and-bluetooth-also-support-phones-and-gift-cards-for-instant-purchases",
       "fonte": "Latest from Tom's Hardware",
@@ -100,25 +135,11 @@
       "data": "2026-09-24T14:26:00+00:00"
     },
     {
-      "titolo": "Googlebook, app ufficiale GeForce Now in arrivo entro fine anno",
-      "descrizione": "Arriverà entro fine anno. Promesso!",
-      "link": "https://www.hdblog.it/google/articoli/n671489/googlebook-nvidia-geforce-now-app-ufficiale-quando/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-24T14:15:00+00:00"
-    },
-    {
       "titolo": "LOL Halloween arriva su Prime Video: cast, trailer e data",
       "descrizione": "Maccio Capatonda, Katia Follesa e altri quattro comici sono confermati nel cast di LOL Halloween, lo speciale in streaming dal 23 ottobre. The post LOL Halloween arriva su Prime Video: cast, trailer e data appeared first",
       "link": "https://www.punto-informatico.it/lol-halloween-cast-trailer-data/",
       "fonte": "Punto Informatico",
       "data": "2026-09-24T14:11:16+00:00"
-    },
-    {
-      "titolo": "Caso Revolut, ora l'hacker minaccia gli utenti: almeno 15 italiani nel database",
-      "descrizione": "La vicenda legata alla violazione dei dati di alcuni clienti Revolut entra in una nuova fase",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n671481/caso-revolut-hacker-minaccia-utenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-24T14:10:00+00:00"
     },
     {
       "titolo": "Microsoft fa marcia indietro e toglie il ban sul termine Microslop",
@@ -147,27 +168,6 @@
       "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "fonte": "WIRED",
       "data": "2026-09-24T10:46:56+00:00"
-    },
-    {
-      "titolo": "British Columbia sues OpenAI and Sam Altman for 'aiding and abetting' school shooter",
-      "descrizione": "B.C. is demanding compensation after it says OpenAI's reviewers wanted to call police about the Tumbler Ridge shooter before the attack.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-24T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta Muse: video chat, computer use e smart glass",
-      "descrizione": "Meta ha annunciato diverse novità per l'agente AI Muse, tra cui il supporto per gli smart glass, gli avatar per le video chat e l'uso autonomo del Mac. The post Meta Muse: video chat, computer use e smart glass appeared",
-      "link": "https://www.punto-informatico.it/meta-muse-video-chat-computer-use-smart-glass/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-24T10:11:36+00:00"
-    },
-    {
-      "titolo": "Garmin Forerunner 265S, lo smartwatch per la corsa, in offerta: risparmia 70€ su Amazon",
-      "descrizione": "Garmin Forerunner 265S, lo smartwatch dedicato allo sport per chi ama la corsa, è in offerta su Amazon con un risparmio interessante di 70€. The post Garmin Forerunner 265S, lo smartwatch per la corsa, in offerta: rispar",
-      "link": "https://www.punto-informatico.it/garmin-forerunner-265s-lo-smartwatch-per-la-corsa-in-offerta-risparmia-70e-su-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-24T09:13:21+00:00"
     }
   ]
 }
