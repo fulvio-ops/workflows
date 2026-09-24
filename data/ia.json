@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-09-24T11:50:24.288564+00:00",
+  "last_updated": "2026-09-24T17:14:27.996081+00:00",
   "items": [
     {
-      "titolo": "Agente di OpenAI ha attaccato un sito del governo australiano",
-      "descrizione": "Un agente di OpenAI ha effettuato un'intrusione non autorizzata al portale di Australian Medicare, ma non risulta l'accesso a dati medici dei cittadini. The post Agente di OpenAI ha attaccato un sito del governo australi",
-      "link": "https://www.punto-informatico.it/agente-openai-attaccato-sito-governo-australiano/",
+      "titolo": "Gemini 4 è quasi pronto al lancio, cosa sappiamo",
+      "descrizione": "Gemini 4 è quasi pronto. Google vuole rilasciarlo il prima possibile per rispondere a GPT-6 di OpenAI e Mythos Anthropic. The post Gemini 4 è quasi pronto al lancio, cosa sappiamo appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/gemini-4-quasi-pronto-lancio-cosa-sappiamo/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-24T11:43:31+00:00",
+      "data": "2026-09-24T16:26:49+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
-      "descrizione": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS to make a Mac-like experience for Android users, with a ton of Gemini tacked on.",
-      "link": "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-21T13:00:00+00:00",
+      "titolo": "Microsoft fa marcia indietro e toglie il ban sul termine Microslop",
+      "descrizione": "Il termine Microslop torna utilizzabile sul Discord di Copilot: Microsoft ha rimosso il filtro e spiegato perché era stato introdotto. The post Microsoft fa marcia indietro e toglie il ban sul termine Microslop appeared",
+      "link": "https://www.punto-informatico.it/microsoft-marcia-indietro-toglie-ban-termine-microslop/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-24T12:34:07+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Gemini 4 è quasi pronto al lancio, cosa sappiamo",
+      "descrizione": "Gemini 4 è quasi pronto. Google vuole rilasciarlo il prima possibile per rispondere a GPT-6 di OpenAI e Mythos Anthropic. The post Gemini 4 è quasi pronto al lancio, cosa sappiamo appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/gemini-4-quasi-pronto-lancio-cosa-sappiamo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-24T16:26:49+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic, Claude scopre un nuovo enzima",
-      "descrizione": "950 agenti Claude hanno analizzato sequenze DNA e individuato un sistema enzimatico finora sconosciuto. Anthropic lo paragona a CRISPR. The post Anthropic, Claude scopre un nuovo enzima appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/anthropic-claude-scopre-nuovo-enzima/",
+      "titolo": "Gemini 4 è quasi pronto al lancio, cosa sappiamo",
+      "descrizione": "Gemini 4 è quasi pronto. Google vuole rilasciarlo il prima possibile per rispondere a GPT-6 di OpenAI e Mythos Anthropic. The post Gemini 4 è quasi pronto al lancio, cosa sappiamo appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/gemini-4-quasi-pronto-lancio-cosa-sappiamo/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-24T10:56:16+00:00",
+      "data": "2026-09-24T16:26:49+00:00",
       "modello": "claude"
     },
     {
