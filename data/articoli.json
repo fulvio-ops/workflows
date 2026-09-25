@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-09-25T17:14:57.063180+00:00",
+  "last_updated": "2026-09-25T21:37:09.862134+00:00",
   "items": [
+    {
+      "titolo": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "descrizione": "They wanted the silicon. They got the sand.",
+      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "fonte": "WIRED",
+      "data": "2026-09-25T20:30:40+00:00"
+    },
+    {
+      "titolo": "iPhone 18 Pro / Max, volete più controllo sulla fotocamera ad apertura variabile?",
+      "descrizione": "Ci sono già due app nel Play Store che offrono 10 f-stop invece dei soli 4 dell'app standard.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671678/iphone-18-pro-max-apertura-variabile-app-controllo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-25T18:05:00+00:00"
+    },
+    {
+      "titolo": "Caso Revolut: online i documenti del Ministero dell’Interno",
+      "descrizione": "Alcuni documenti riservati del Ministero dell'Interno pubblicati online confermerebbero il furto di 147 GB di dati da parte di da IAmNotAVillain. The post Caso Revolut: online i documenti del Ministero dell’Interno appea",
+      "link": "https://www.punto-informatico.it/caso-revolut-online-documenti-ministero-interno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-25T18:01:01+00:00"
+    },
+    {
+      "titolo": "Google Foto, Redact per nascondere dati sensibili nelle immagini",
+      "descrizione": "Google Foto lancia Redact, lo strumento che nasconda targhe, indirizzi e informazioni sensibili. In arrivo su Android in tutto il mondo. The post Google Foto, Redact per nascondere dati sensibili nelle immagini appeared",
+      "link": "https://www.punto-informatico.it/google-foto-redact-nascondere-dati-sensibili-immagini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-25T17:27:28+00:00"
+    },
+    {
+      "titolo": "Un'altra RTX 5090 fusa, PNY rifiuta RMA perché il cavo non era quello originale",
+      "descrizione": "Non c'è traccia da nessuna parte di questa regola, però.",
+      "link": "https://www.hdblog.it/hardware/articoli/n671675/nvidia-geforce-rtx-5090-fusa-pny-garanzia-rifiuto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-25T17:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11, c'è un trucco per rendere Esplora File molto più reattivo",
+      "descrizione": "Ha senso solo se siete sicuri che non installerete mai vecchie applicazioni o giochi, e se lavorate spesso con cartelle contenenti migliaia e migliaia di file.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671670/windows-11-trucco-esplora-file-dos-sfn/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-25T17:15:00+00:00"
+    },
     {
       "titolo": "F1, Horner si propone alla Ferrari: Vasseur sotto pressione",
       "descrizione": "Christian Horner, ex numero 1 della Red Bull Racing, avrebbe la seria intenzione di rilanciarsi in Ferrari anche senza quote azionarie",
@@ -114,27 +156,6 @@
       "data": "2026-09-25T14:42:58+00:00"
     },
     {
-      "titolo": "Diesel e accise, da domani cambia tutto: un pieno costerà 3 euro in più",
-      "descrizione": "L'ultimo decreto del Governo toglie le ultime speranze ai proprietari di auto diesel. Secondo il Codacons un pieno arriverà a costare 3 euro in più",
-      "link": "https://www.hdmotori.it/prezzi-diesel-stangata-accise/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T14:30:47+00:00"
-    },
-    {
-      "titolo": "ASUS Googlebook 14 è ufficiale: meno di 1kg, display OLED touch e AI integrata",
-      "descrizione": "Con Googlebook OS.",
-      "link": "https://www.hdblog.it/portatili/articoli/n671643/googlebook-14-asus-laptop-caratteristiche-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T14:15:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Tab S12 Ultra e Plus in tante nuove immagini: ecco le differenze",
-      "descrizione": "Molto simili, ma non identici: cosa cambia.",
-      "link": "https://www.hdblog.it/tablet/articoli/n671644/samsung-galaxy-tab-s12-ultra-plus-differenze-foto/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T14:05:00+00:00"
-    },
-    {
       "titolo": "F-Droid 2.0: nuova interfaccia e aggiornamenti automatici",
       "descrizione": "F-Droid 2.0, noto store di terze parti per Android, ha una nuova interfaccia, semplifica la ricerca delle app e può aggiornare automaticamente le app. The post F-Droid 2.0: nuova interfaccia e aggiornamenti automatici ap",
       "link": "https://www.punto-informatico.it/f-droid-2-nuova-interfaccia-aggiornamenti-automatici/",
@@ -142,32 +163,11 @@
       "data": "2026-09-25T14:03:26+00:00"
     },
     {
-      "titolo": "Nissan Z Kaze Concept: omaggio all’iconica 300ZX",
-      "descrizione": "Con una operazione nostalgia che farà salire le palpitazioni agli amanti del gusto retrò, Nissan ha svelato la Z Kaze Concept.",
-      "link": "https://www.hdmotori.it/nissan-z-kaze-concept-omaggio-300zx/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T14:00:12+00:00"
-    },
-    {
       "titolo": "Falsi solleciti di pagamento, quando la truffa arriva via PEC",
       "descrizione": "CERT-AGID lancia l'allarme su MintsLoader: attenzione alle false fatture via PEC, usate per installare malware sui computer aziendali. The post Falsi solleciti di pagamento, quando la truffa arriva via PEC appeared first",
       "link": "https://www.punto-informatico.it/falsi-solleciti-pagamento-truffa-pec/",
       "fonte": "Punto Informatico",
       "data": "2026-09-25T13:04:07+00:00"
-    },
-    {
-      "titolo": "Ricorso per multa DSA: intervento del governo USA a favore di X",
-      "descrizione": "Il Dipartimento di Giustizia ha presentato una mozione a favore di X presso il Tribunale Generale UE, chiedendo l'annullamento della sanzione. The post Ricorso per multa DSA: intervento del governo USA a favore di X appe",
-      "link": "https://www.punto-informatico.it/ricorso-multa-dsa-intervento-governo-usa-favore-x/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-25T12:33:05+00:00"
-    },
-    {
-      "titolo": "Gmail dice addio alla stella gialla: ora è blu e gli utenti protestano",
-      "descrizione": "Google ha cambiato i colori di Gmail: la stellina e l'etichetta dei messaggi importanti diventano blu, per migliorare l'accessibilità. The post Gmail dice addio alla stella gialla: ora è blu e gli utenti protestano appea",
-      "link": "https://www.punto-informatico.it/gmail-addio-stella-gialla-blu-utenti-protestano/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-25T12:31:36+00:00"
     }
   ]
 }
