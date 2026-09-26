@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:28:54.396505+00:00",
+  "last_updated": "2026-09-26T16:26:29.116557+00:00",
   "items": [
     {
       "titolo": "ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days",
@@ -10,27 +10,27 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft riunisce Copilot in un’unica super-app: arrivano Code e Autopilot",
-      "descrizione": "Copilot smette di essere solo un assistente che risponde e prova a diventare una fabbrica di software. L’app unificata si chiama semplicemente Copilot. In pratica, l’utente non si ferma al...",
-      "link": "https://www.ilsole24ore.com/art/microsoft-riunisce-copilot-un-unica-super-app-arrivano-code-e-autopilot-AJf3uNNB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-25T12:16:36+00:00",
+      "titolo": "Microsoft quietly drops Copilot+ branding from new laptops",
+      "descrizione": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing t",
+      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-26T14:00:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Chrome ora ricorda dove si era rimasti e Gemini crea quiz",
-      "descrizione": "Chrome ricorda dove si e arrivati, recupera i moduli lasciati a metà e Gemini può creare quiz dalla pagina aperta. Tutte le novità. The post Chrome ora ricorda dove si era rimasti e Gemini crea quiz appeared first on Pun",
-      "link": "https://www.punto-informatico.it/chrome-ricorda-dove-si-era-rimasti-gemini-crea-quiz/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-25T11:26:20+00:00",
+      "titolo": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "descrizione": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "fonte": "WIRED",
+      "data": "2026-09-24T16:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "L'AI supera un altro test di Turing: decifrati due messaggi Enigma",
-      "descrizione": "Astra e Claude Opus hanno decifrato due messaggi Enigma rimasti irrisolti per decenni.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671639/ai-decifra-messaggi-enigma-turing/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T08:55:00+00:00",
+      "titolo": "Anthropic perde appello e rimane nella blacklist del Pentagono",
+      "descrizione": "Il tribunale di appello del District of Columbia ha confermato la designazione, quindi Anthropic rimane nella blacklist del Pentagono. The post Anthropic perde appello e rimane nella blacklist del Pentagono appeared firs",
+      "link": "https://www.punto-informatico.it/anthropic-perde-appello-rimane-blacklist-pentagono/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-26T11:30:32+00:00",
       "modello": "claude"
     },
     {
