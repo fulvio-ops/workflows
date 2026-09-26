@@ -1,19 +1,117 @@
 {
-  "last_updated": "2026-09-26T05:03:10.094572+00:00",
+  "last_updated": "2026-09-26T11:28:50.422386+00:00",
   "items": [
+    {
+      "titolo": "Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance",
+      "descrizione": "Matt Birchler put a cold drink can on the back of an iPhone 18 Pro to see how much performance uplift it would get in a prolonged benchmarking session. The results showed up to 25% higher sustained performance from the c",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-26T11:00:00+00:00"
+    },
+    {
+      "titolo": "AirPods, l'ultimo aggiornamento porta finalmente una funzione attesa a lungo",
+      "descrizione": "Ecco cosa cambia e per quali modelli.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n671696/airpods-equalizzatore-aggiornamento-ios-27/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T10:55:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel, problemi di funzionamento del Lock Screen dopo le patch di settembre",
+      "descrizione": "Il sistema dice \"PIN sbagliato\" ancora prima che l'utente abbia finito di inserirlo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671680/google-pixel-drop-settembre-bug-lock-screen/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T09:20:00+00:00"
+    },
+    {
+      "titolo": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "descrizione": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
+      "fonte": "WIRED",
+      "data": "2026-09-26T09:05:00+00:00"
+    },
+    {
+      "titolo": "Stellantis, boom in Brasile: nuovo primato di auto esportate nel mondo",
+      "descrizione": "Crescita record per il Gruppo Stellantis che, in Brasile, ha celebrato un nuovo record. Da Goiana sono già state vendute all’estero 300.000 unità",
+      "link": "https://www.hdmotori.it/stellantis-brasile-primato-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T09:00:21+00:00"
+    },
+    {
+      "titolo": "Smartphone top gamma con Snapdragon 8 Elite Extreme Gen 6: ecco i modelli in arrivo",
+      "descrizione": "Si parte con Xiaomi 18 Pro Max.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671574/snapdragon-8-elite-extreme-gen-6-quali-smartphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T08:40:00+00:00"
+    },
+    {
+      "titolo": "Targhe polacche: il “rientro” in Italia costa caro",
+      "descrizione": "Dopo il fenomeno delle targhe estere fittizie per risparmiare, si sta assistendo al fenomeno inverso, cioè il “rientro” delle auto in Italia. I costi per la reimmatricolazione...",
+      "link": "https://www.hdmotori.it/focus/mercato/normative/targhe-polacche-rientro-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T08:30:45+00:00"
+    },
+    {
+      "titolo": "4 telefoni imperdibili con le Offerte Prime Amazon Limitate",
+      "descrizione": "Grazie alle Offerte Prime Amazon Limitate abbiamo trovato 4 telefoni dalle caratteristiche molto interessanti a un prezzo imperdibile. The post 4 telefoni imperdibili con le Offerte Prime Amazon Limitate appeared first o",
+      "link": "https://www.punto-informatico.it/4-telefoni-imperdibili-con-le-offerte-prime-amazon-limitate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-26T08:18:45+00:00"
+    },
+    {
+      "titolo": "Gli americani hanno paura dell’AI, ma la usano: e gli italiani?",
+      "descrizione": "La Cina è ottimista, l'America è in ansia, l'Italia divisa quasi a metà. Cosa dicono Gallup, SWG e Pew sulla fiducia nell'AI. The post Gli americani hanno paura dell’AI, ma la usano: e gli italiani? appeared first on Pun",
+      "link": "https://www.punto-informatico.it/americani-hanno-paura-ai-la-usano-italiani/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-26T08:12:45+00:00"
+    },
+    {
+      "titolo": "Ferrari-F1, l’autunno “del nostro scontento”: adesso non bastano più nemmeno le curve",
+      "descrizione": "La Rossa fatica a compensare i limiti del motore, mentre gli avversari crescono anche nei tratti guidati. Il Mondiale di F1 è andato",
+      "link": "https://www.hdmotori.it/ferrari-f1-lautunno-del-nostro-scontento-adesso-non-bastano-piu-nemmeno-le-curve/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T08:00:05+00:00"
+    },
+    {
+      "titolo": "Google Messaggi cambia gli swipe, e per qualche giorno potresti sbagliare gesto",
+      "descrizione": "Nuove gesture in distribuzione su Google Messaggi: lo swipe a sinistra mostra gli orari di tutti i messaggi visibili, mentre quello verso destra serve ora per inviare una risposta diretta",
+      "link": "https://www.hdblog.it/google/articoli/n671671/google-messaggi-swipe-nuovi/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T07:40:00+00:00"
+    },
+    {
+      "titolo": "MapQuest viaggia su Android Auto: ecco cosa offre e dove è disponibile",
+      "descrizione": "Lo storico servizio debutta sul sistema di infotainment.",
+      "link": "https://www.hdblog.it/android/articoli/n671490/mapquest-arriva-su-android-auto-negli-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T07:20:00+00:00"
+    },
+    {
+      "titolo": "Da Lenovo inizia il secondo weekend consecutivo con sconti fino al 58%",
+      "descrizione": "Proseguono le offerte sui migliori laptop della casa asiatica.",
+      "link": "https://www.hdblog.it/portatili/offerte/n671682/lenovo-secondo-weekend-sconti-58-per-cento/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T07:03:00+00:00"
+    },
+    {
+      "titolo": "Apocalypse Speedster, il mostro 4x4 da 750 CV che non teme le supercar",
+      "descrizione": "Negli Stati Uniti hanno creato una vettura irrefrenabile che può affrontare l’offroad con una potenza straordinaria.",
+      "link": "https://www.hdmotori.it/apocalypse-speedster-4x4-750-cv/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T07:00:09+00:00"
+    },
+    {
+      "titolo": "Edizione Luna Rossa: Alfa Romeo associa tutta la gamma all'orgoglio italiano",
+      "descrizione": "Alfa Romeo Edizione Luna Rossa è un allestimento top di gamma di pregio per tutti i modelli Alfa. Il connubio tra modernità e prestazione",
+      "link": "https://www.hdmotori.it/edizione-luna-rossa-alfa-romeo-associa-tutta-la-gamma-allorgoglio-italiano/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T06:00:43+00:00"
+    },
     {
       "titolo": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
       "descrizione": "They wanted the silicon. They got the sand.",
       "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
       "fonte": "WIRED",
       "data": "2026-09-25T20:30:40+00:00"
-    },
-    {
-      "titolo": "iPhone 18 Pro / Max, volete più controllo sulla fotocamera ad apertura variabile?",
-      "descrizione": "Ci sono già due app nel Play Store che offrono 10 f-stop invece dei soli 4 dell'app standard.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671678/iphone-18-pro-max-apertura-variabile-app-controllo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T18:05:00+00:00"
     },
     {
       "titolo": "Caso Revolut: online i documenti del Ministero dell’Interno",
@@ -30,95 +128,11 @@
       "data": "2026-09-25T17:27:28+00:00"
     },
     {
-      "titolo": "Un'altra RTX 5090 fusa, PNY rifiuta RMA perché il cavo non era quello originale",
-      "descrizione": "Non c'è traccia da nessuna parte di questa regola, però.",
-      "link": "https://www.hdblog.it/hardware/articoli/n671675/nvidia-geforce-rtx-5090-fusa-pny-garanzia-rifiuto/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T17:25:00+00:00"
-    },
-    {
-      "titolo": "Windows 11, c'è un trucco per rendere Esplora File molto più reattivo",
-      "descrizione": "Ha senso solo se siete sicuri che non installerete mai vecchie applicazioni o giochi, e se lavorate spesso con cartelle contenenti migliaia e migliaia di file.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671670/windows-11-trucco-esplora-file-dos-sfn/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T17:15:00+00:00"
-    },
-    {
-      "titolo": "F1, Horner si propone alla Ferrari: Vasseur sotto pressione",
-      "descrizione": "Christian Horner, ex numero 1 della Red Bull Racing, avrebbe la seria intenzione di rilanciarsi in Ferrari anche senza quote azionarie",
-      "link": "https://www.hdmotori.it/f1-horner-ferrari-vasseur/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T17:00:58+00:00"
-    },
-    {
-      "titolo": "Armi americane già in orbita: cosa sappiamo e cosa resta segreto",
-      "descrizione": "Gli USA confermano armi in orbita. La Cina avverte del rischio di una corsa agli armamenti.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671547/usa-armi-orbita-cina-corsa-armamenti-spazio/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:55:00+00:00"
-    },
-    {
-      "titolo": "Insta360 ha conquistato il mercato delle fotocamere (e ora guarda agli occhiali)",
-      "descrizione": "Si parla anche di un \"robot cameraman\"",
-      "link": "https://www.hdblog.it/fotografia/articoli/n671627/insta360-fotocamere-occhiali-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:45:00+00:00"
-    },
-    {
-      "titolo": "HMD Aura 2 Pro, trapela la scheda tecnica: non sembra molto... \"Pro\"",
-      "descrizione": "Dobbiamo dire, non sembra chissà che \"Pro\".",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671666/hmd-aura-2-pro-specifiche-immagini-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:35:00+00:00"
-    },
-    {
-      "titolo": "Spotify arriva su Meta Muse: l’AI sceglie cosa ascoltare",
-      "descrizione": "Muse può avviare l’ascolto, creare playlist e salvare contenuti su Spotify.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671642/meta-muse-spotify-playlist-podcast/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:25:00+00:00"
-    },
-    {
       "titolo": "Qualcomm annuncia il supporto Linux per Snapdragon X2",
       "descrizione": "Qualcomm ha annunciato il supporto preliminare per Linux, quindi gli sviluppatori possono installare Debian sui notebook con processori Snapdragon X2. The post Qualcomm annuncia il supporto Linux per Snapdragon X2 appear",
       "link": "https://www.punto-informatico.it/qualcomm-supporto-linux-snapdragon-x2/",
       "fonte": "Punto Informatico",
       "data": "2026-09-25T16:15:03+00:00"
-    },
-    {
-      "titolo": "Dagli iPhone l’idea per portare i top di gamma Android fino a 10.000 mAh",
-      "descrizione": "Batterie molto più grandi senza trasformare i flagship in smartphone eccessivamente spessi: i produttori Android studiano celle impilate e involucri metallici già adottati, in parte, da Apple",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671664/batterie-android-10000-mah-idea-iphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:15:00+00:00"
-    },
-    {
-      "titolo": "iPad Mini, Apple TV 4K, HomePod Mini in dirittura d'arrivo: nuovi dettagli",
-      "descrizione": "Potrebbero essere lanciati tutti nel corso del prossimo mese.",
-      "link": "https://www.hdblog.it/tablet/articoli/n671663/ipad-homepod-mini-apple-tv-4kl-immagini-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:05:00+00:00"
-    },
-    {
-      "titolo": "Chery Tiggo 9 CSH, la batteria resiste 24 ore nell'acqua salata e a un violento impatto",
-      "descrizione": "La batteria Chery CSH resiste a 24 ore in acqua di mare e a un crash d'impatto sul sottoscocca. L'esito delle verifiche condotte dagli ingegneri FEV a Costanza",
-      "link": "https://www.hdmotori.it/chery-tiggo-9-test-batteria-acqua-salata/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T16:00:38+00:00"
-    },
-    {
-      "titolo": "Cibo su Marte, la NASA premia un sistema per produrlo sul posto",
-      "descrizione": "La NASA premia un progetto per produrre metà del cibo necessario agli astronauti su Marte.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671545/nasa-cibo-marte-progetto-ani/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T15:55:00+00:00"
-    },
-    {
-      "titolo": "Stanley Tucci in Masterplan, arriva il trailer ufficiale e la data",
-      "descrizione": "Il nuovo film di Prime Video unisce Italia e Francia con Stanley Tucci e Simona Tabasco protagonisti.",
-      "link": "https://www.hdblog.it/amazon/articoli/n634644/masterplan-prime-video-film-tucci-tabasco/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T15:35:00+00:00"
     },
     {
       "titolo": "Come usare Claude per riassumere le newsletter ogni mattina",
@@ -142,13 +156,6 @@
       "data": "2026-09-25T15:03:39+00:00"
     },
     {
-      "titolo": "Ducati Multistrada V4 Pikes Peak 2027: tecnologia e livrea da MotoGP",
-      "descrizione": "",
-      "link": "https://www.hdmotori.it/ducati-multistrada-v4-pikes-peak-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-25T15:00:06+00:00"
-    },
-    {
       "titolo": "Noctua explores 2,000W micro-channel air cooling",
       "descrizione": "Noctua and Forced Physics are exploring whether densely packed micro-channels can provide extreme cooling performance without the noise associated with high-pressure airflow",
       "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/f-droid-2-nuova-interfaccia-aggiornamenti-automatici/",
       "fonte": "Punto Informatico",
       "data": "2026-09-25T14:03:26+00:00"
-    },
-    {
-      "titolo": "Falsi solleciti di pagamento, quando la truffa arriva via PEC",
-      "descrizione": "CERT-AGID lancia l'allarme su MintsLoader: attenzione alle false fatture via PEC, usate per installare malware sui computer aziendali. The post Falsi solleciti di pagamento, quando la truffa arriva via PEC appeared first",
-      "link": "https://www.punto-informatico.it/falsi-solleciti-pagamento-truffa-pec/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-25T13:04:07+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-26T05:03:13.605907+00:00",
+  "last_updated": "2026-09-26T11:28:54.396505+00:00",
   "items": [
     {
-      "titolo": "Come si comporta iPhone Duo nelle mani di un mancino?",
-      "descrizione": "iPhone Duo arriverà tra meno di un mese: un primo test cerca di capire se per un mancino sarà comodo utilizzare il display esterno. The post Come si comporta iPhone Duo nelle mani di un mancino? appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/iphone-duo-mancino/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-25T14:21:56+00:00",
+      "titolo": "ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days",
+      "descrizione": "A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in just two days.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-26T10:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "descrizione": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "fonte": "WIRED",
-      "data": "2026-09-25T16:58:20+00:00",
+      "titolo": "L'AI supera un altro test di Turing: decifrati due messaggi Enigma",
+      "descrizione": "Astra e Claude Opus hanno decifrato due messaggi Enigma rimasti irrisolti per decenni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671639/ai-decifra-messaggi-enigma-turing/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-26T08:55:00+00:00",
       "modello": "claude"
     },
     {
