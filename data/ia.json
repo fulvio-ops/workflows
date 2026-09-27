@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T12:06:42.071382+00:00",
+  "last_updated": "2026-09-27T17:00:19.082360+00:00",
   "items": [
     {
       "titolo": "OpenAI, sospeso addestramento modelli dopo incidenti con agenti AI. Nonostante i dubbi sbarco in Borsa confermato",
@@ -26,12 +26,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Code: guida alle 9 funzioni più utili",
-      "descrizione": "Ecco le 9 funzioni di Claude Code da conoscere per sfruttarne tutto il potenziale. Dalla memoria permanente ai sotto-agenti, alle automazioni. The post Claude Code: guida alle 9 funzioni più utili appeared first on Punto",
-      "link": "https://www.punto-informatico.it/claude-code-guida-9-funzioni-piu-utili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-27T07:30:45+00:00",
+      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
+      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
+      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T14:23:55+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
+      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
+      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T14:23:55+00:00",
+      "modello": "altri"
     }
   ]
 }

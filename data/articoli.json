@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-09-27T12:06:37.536101+00:00",
+  "last_updated": "2026-09-27T17:00:14.980423+00:00",
   "items": [
+    {
+      "titolo": "Apple nei guai per il Taptic Engine: maxi-condanna da 5,7 miliardi di dollari",
+      "descrizione": "Una disputa legale iniziata nel 2021.",
+      "link": "https://www.hdblog.it/apple/articoli/n671737/apple-taptic-engine-5-miliardi-dollari-brevetti/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T16:25:00+00:00"
+    },
+    {
+      "titolo": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
+      "descrizione": "The gaming laptop pairs Intel’s Core Ultra 9 285H with Nvidia’s RTX 5070 Laptop GPU and a 3K 120Hz OLED display, giving buyers a powerful compact machine at a reduced price.",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-27T15:21:30+00:00"
+    },
+    {
+      "titolo": "Nucleare in Italia nel 2033-34, ma la tecnologia non è pronta",
+      "descrizione": "Le prime centrali nucleari di nuova generazione dovrebbero essere attivate nel 2033-34, ma la tecnologia non è ancora disponibile su larga scala. The post Nucleare in Italia nel 2033-34, ma la tecnologia non è pronta app",
+      "link": "https://www.punto-informatico.it/nucleare-sostenibile-italia-tecnologia-non-pronta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-27T15:10:32+00:00"
+    },
+    {
+      "titolo": "Vivo X Fold 6 sta per debuttare anche da noi: spunta la data del lancio globale",
+      "descrizione": "Ci siamo quasi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671729/vivo-x-fold-6-data-lancio-globale-italia-ottobre/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T15:10:00+00:00"
+    },
+    {
+      "titolo": "Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer",
+      "descrizione": "A chrysophile has ordered a special edition mini PC with a pure 24-carat gold passive chassis which will cost around $1.7 million.",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-27T14:40:00+00:00"
+    },
+    {
+      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
+      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
+      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T14:23:55+00:00"
+    },
+    {
+      "titolo": "EA Sports FC 27 cambia la difesa: ora l’intelligenza artificiale aiuta meno",
+      "descrizione": "Abbiamo provato il simulatore del gioco del pallone più popolare. FC 27 prova insomma a migliorare il calcio giocato, ma continua a trascinarsi dietro difetti storici della serie.",
+      "link": "https://www.ilsole24ore.com/art/ea-sports-fc-27-cambia-difesa-ora-l-intelligenza-artificiale-aiuta-meno-AJae8vJB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T14:19:09+00:00"
+    },
+    {
+      "titolo": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead",
+      "descrizione": "The two PlusAI trailers with Nvidia-partner markings were apparently left outside the startup's warehouse, making it a juicy target for criminals looking to make easy money on AI GPUs. However, they were deliberately lef",
+      "link": "https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-27T14:14:40+00:00"
+    },
+    {
+      "titolo": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
+      "descrizione": "It won’t be long until Linux enthusiasts will be able to complete a clean kernel build in under 10 seconds thanks to advances in PC hardware and the AI-assisted optimization of compilers.",
+      "link": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-27T12:20:00+00:00"
+    },
     {
       "titolo": "Il Bimby guadagna l’AI: Cookidoo è l’assistente chef integrato",
       "descrizione": "L’intelligenza artificiale entra nel robot da cucina di Vorwerk. Il nuovo Cookidoo Assistant aiuta a cercare e adattare le ricette, ma le funzioni più evolute arriveranno con successive release",
@@ -105,69 +168,6 @@
       "link": "https://www.hdmotori.it/1000-miglia-2027-percorso/",
       "fonte": "HDblog.it",
       "data": "2026-09-27T07:30:05+00:00"
-    },
-    {
-      "titolo": "Affida i tuoi file a un vero cloud privato: NordLocker Premium è al 53% di sconto",
-      "descrizione": "Affida i tuoi file a un vero e proprio cloud privato ora in offerta speciale al 53% di sconto: scegli adesso la tranquillità con NordLocker Premium. The post Affida i tuoi file a un vero cloud privato: NordLocker Premium",
-      "link": "https://www.punto-informatico.it/affida-i-tuoi-file-a-un-vero-cloud-privato-nordlocker-premium-e-al-53-di-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-27T07:00:50+00:00"
-    },
-    {
-      "titolo": "Auto elettriche, 530 km sulle Dolomiti: torna l'ECOdolomitesGT",
-      "descrizione": "ECOdolomitesGT torna dal 16 al 18 ottobre 2026: 530 km sulle Dolomiti per auto elettriche, tra regolarità, consumi e autonomia",
-      "link": "https://www.hdmotori.it/auto-elettriche-ecodolomitesgt/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-27T07:00:34+00:00"
-    },
-    {
-      "titolo": "Dyson fino al 50% di sconto? Solo nel negozio ufficiale su eBay",
-      "descrizione": "Acquista Dyson fino al 50% di sconto nel suo store ufficiale disponibile su eBay: consegna e reso gratuiti con possibilità di tasso zero. The post Dyson fino al 50% di sconto? Solo nel negozio ufficiale su eBay appeared",
-      "link": "https://www.punto-informatico.it/dyson-fino-al-50-percento-di-sconto-solo-nel-negozio-ufficiale-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-27T05:00:35+00:00"
-    },
-    {
-      "titolo": "Google Pixel 10a, la versione da 256 GB è in sconto del 26% su eBay",
-      "descrizione": "Smartphone compatto, con un comparto fotografico superiore rispetto alla fascia di prezzo e un'ottima autonomia.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n671709/google-pixel-10a-256-gb-offerta-sett26-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T17:39:00+00:00"
-    },
-    {
-      "titolo": "La migliore VPN ora costa meno: -70% per NordVPN con il piano di 28 mesi",
-      "descrizione": "Con la nuova offerta di oggi, NordVPN è ora disponibile in sconto e si conferma la migliore VPN da attivare in questo momento, ecco la promo. The post La migliore VPN ora costa meno: -70% per NordVPN con il piano di 28 m",
-      "link": "https://www.punto-informatico.it/la-migliore-vpn-ora-costa-meno-70-per-nordvpn-con-il-piano-di-28-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T16:00:47+00:00"
-    },
-    {
-      "titolo": "27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix",
-      "descrizione": "Modder releases GTA2 RTX Remix, a mod that adds path tracing and a dynamic time of day to the 27-year-old Grand Theft Auto 2.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T15:10:00+00:00"
-    },
-    {
-      "titolo": "Russia bombs Ukrainian data centers in latest escalation",
-      "descrizione": "Russia has begun targeting data centers and internet infrastructure in its latest attacks, disrupting critical services for Ukrainian civilians. The attacks have left 100,000 households in the area without an internet co",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T14:30:59+00:00"
-    },
-    {
-      "titolo": "Microsoft quietly drops Copilot+ branding from new laptops",
-      "descrizione": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing t",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T14:00:00+00:00"
-    },
-    {
-      "titolo": "Asus NUC 16 Pro, un mini-PC Panther Lake super versatile",
-      "descrizione": "Prova del nuovo ASUS NUC 16 Pro, mini PC con hardware di fascia alta e AI ready.",
-      "link": "https://www.hdblog.it/hardware/recensioni/n671277/asus-nuc-16-pro-mini-pc-super-versatile/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T13:01:00+00:00"
     }
   ]
 }
