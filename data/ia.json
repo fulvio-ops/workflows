@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-27T05:22:01.771310+00:00",
+  "last_updated": "2026-09-27T12:06:42.071382+00:00",
   "items": [
     {
-      "titolo": "Agenti di OpenAI hanno attaccato siti del governo USA",
-      "descrizione": "Gli agenti di OpenAI hanno attaccato due siti del governo statunitense (senza conseguenze) e caricato 53 immagini degli utenti su alcuni siti di hosting. The post Agenti di OpenAI hanno attaccato siti del governo USA app",
-      "link": "https://www.punto-informatico.it/agenti-openai-attaccato-siti-governo-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T16:34:06+00:00",
+      "titolo": "OpenAI, sospeso addestramento modelli dopo incidenti con agenti AI. Nonostante i dubbi sbarco in Borsa confermato",
+      "descrizione": "L’azienda tech ha dichiarato in un comunicato che riprenderà l’addestramento “solo quando saremo certi di disporre di ulteriori misure di sicurezza”, aggiungendo che prevede di dover “mettere in pausa” nuovamente il proc",
+      "link": "https://www.ilsole24ore.com/art/indagine-openai-e-anthropic-decine-migliaia-incidenti-sicurezza-AJeVGgQB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T07:49:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft quietly drops Copilot+ branding from new laptops",
-      "descrizione": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing t",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T14:00:00+00:00",
+      "titolo": "Microsoft conferma l’addio ai Copilot+ PC",
+      "descrizione": "Microsoft ha confermato che il brand Copilot+ PC non verrà più usato per indicare i dispositivi in grado di eseguire le funzionalità AI di Windows 11. The post Microsoft conferma l’addio ai Copilot+ PC appeared first on",
+      "link": "https://www.punto-informatico.it/microsoft-conferma-addio-copilot-plus-pc/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-27T09:10:29+00:00",
       "modello": "copilot"
     },
     {
@@ -26,20 +26,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic perde appello e rimane nella blacklist del Pentagono",
-      "descrizione": "Il tribunale di appello del District of Columbia ha confermato la designazione, quindi Anthropic rimane nella blacklist del Pentagono. The post Anthropic perde appello e rimane nella blacklist del Pentagono appeared firs",
-      "link": "https://www.punto-informatico.it/anthropic-perde-appello-rimane-blacklist-pentagono/",
+      "titolo": "Claude Code: guida alle 9 funzioni più utili",
+      "descrizione": "Ecco le 9 funzioni di Claude Code da conoscere per sfruttarne tutto il potenziale. Dalla memoria permanente ai sotto-agenti, alle automazioni. The post Claude Code: guida alle 9 funzioni più utili appeared first on Punto",
+      "link": "https://www.punto-informatico.it/claude-code-guida-9-funzioni-piu-utili/",
       "fonte": "Punto Informatico",
-      "data": "2026-09-26T11:30:32+00:00",
+      "data": "2026-09-27T07:30:45+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
-      "descrizione": "Alibaba Group's AI division has released Qwen 2.1 Image, an ultra-lightweight image generation model with just 7B parameters, able to run on local hardware like the RTX 3090.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-23T15:34:36+00:00",
-      "modello": "altri"
     }
   ]
 }

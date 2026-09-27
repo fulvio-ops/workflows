@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-09-27T05:21:57.984412+00:00",
+  "last_updated": "2026-09-27T12:06:37.536101+00:00",
   "items": [
+    {
+      "titolo": "Il Bimby guadagna l’AI: Cookidoo è l’assistente chef integrato",
+      "descrizione": "L’intelligenza artificiale entra nel robot da cucina di Vorwerk. Il nuovo Cookidoo Assistant aiuta a cercare e adattare le ricette, ma le funzioni più evolute arriveranno con successive release",
+      "link": "https://www.ilsole24ore.com/art/il-bimby-guadagna-l-ai-cookidoo-e-l-assistente-chef-integrato-AJz2e8IB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T11:56:50+00:00"
+    },
+    {
+      "titolo": "Castle Tour 2026: un viaggio nella storia con Automobile Club Roma",
+      "descrizione": "Ventotto equipaggi a bordo di vetture d’epoca hanno attraversato la Tuscia nel primo itinerario organizzato dall’Automobile Club Roma. Un viaggio tra collezionismo, cultura e...",
+      "link": "https://www.hdmotori.it/castle-tour-2026-un-viaggio-nella-storia-con-automobile-club-roma/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T10:30:15+00:00"
+    },
+    {
+      "titolo": "Blocco diesel Euro 5 rinviato al 2027: anche in Lombardia si potrà circolare",
+      "descrizione": "Il Consiglio dei ministri ha approvato il rinvio di un anno delle limitazioni permanenti alla circolazione per oltre un milione e mezzo di veicoli a gasolio Euro 5 nel Bacino Padano.",
+      "link": "https://www.hdmotori.it/focus/mercato/normative/blocco-diesel-euro-5-rinviato-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T10:00:33+00:00"
+    },
+    {
+      "titolo": "Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million",
+      "descrizione": "Authorities seized thousands of counterfeit records and specialist manufacturing equipment after a BPI test purchase helped expose the long-running operation.",
+      "link": "https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-27T10:00:00+00:00"
+    },
+    {
+      "titolo": "Bollette addio: la storia della famiglia che vive in una casa off-grid alimentata dal sole",
+      "descrizione": "Il caso è diventato virale su TikTok.",
+      "link": "https://www.hdblog.it/home/articoli/n671607/casa-off-grid-fotovoltaico-esempio-reale/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T09:55:00+00:00"
+    },
+    {
+      "titolo": "Come è cambiato stare allo specchio: ora è smart e ti monitora la salute",
+      "descrizione": "Come cambia uno degli accessori fondamentali della casa.",
+      "link": "https://www.hdblog.it/home/articoli/n671564/specchio-smart-con-speaker-bluetooth/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T09:20:00+00:00"
+    },
+    {
+      "titolo": "Dacia Hipster verso la produzione: elettrica da 11.000 euro e quattro posti",
+      "descrizione": "Dacia Hipster potrebbe arrivare nel 2027 a circa 11.000 euro: microcar elettrica da tre metri, quattro posti e velocità massima di 90 km/h",
+      "link": "https://www.hdmotori.it/dacia-hipster-prezzo-debutto/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T09:00:20+00:00"
+    },
+    {
+      "titolo": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+      "descrizione": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+      "link": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
+      "fonte": "WIRED",
+      "data": "2026-09-27T09:00:00+00:00"
+    },
+    {
+      "titolo": "Laser contro i satelliti spia: la nuova difesa britannica",
+      "descrizione": "Londra crea uno squadrone spaziale, mentre emergono indiscrezioni sui laser antisatellite.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671714/regno-unito-laser-satelliti-spia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T08:55:00+00:00"
+    },
+    {
+      "titolo": "Tetto ai prezzi dei carburanti: la mossa di ENI divide il mercato",
+      "descrizione": "Da domani 28 settembre benzina a 1,990 euro e diesel a 2,190 euro al litro nella rete retail Eni. L’iniziativa potrebbe proseguire fino a fine anno, ma solleva interrogativi sulla concorrenza,...",
+      "link": "https://www.hdmotori.it/tetto-ai-prezzi-dei-carburanti-la-mossa-di-eni-divide-il-mercato/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T08:41:07+00:00"
+    },
+    {
+      "titolo": "60 anni di ASI in mostra a Misano Adriatico",
+      "descrizione": "La nostra intervista esclusiva ad Alberto Scuro, Presidente dell'Automotoclub Storico Italiano: \"Il motorismo storico non è nostalgia. È futuro!\"",
+      "link": "https://www.hdmotori.it/60-anni-di-asi-in-mostra-a-misano-adriatico/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T08:00:44+00:00"
+    },
+    {
+      "titolo": "Robot umanoidi e droni: il piano ucraino è sempre più automatizzato",
+      "descrizione": "L’Ucraina progetta robot e droni capaci di collaborare nelle missioni più rischiose.",
+      "link": "https://www.hdblog.it/droni/articoli/n671713/ucraina-esercito-robot-umanoidi-droni/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T07:55:00+00:00"
+    },
+    {
+      "titolo": "OpenAI, sospeso addestramento modelli dopo incidenti con agenti AI. Nonostante i dubbi sbarco in Borsa confermato",
+      "descrizione": "L’azienda tech ha dichiarato in un comunicato che riprenderà l’addestramento “solo quando saremo certi di disporre di ulteriori misure di sicurezza”, aggiungendo che prevede di dover “mettere in pausa” nuovamente il proc",
+      "link": "https://www.ilsole24ore.com/art/indagine-openai-e-anthropic-decine-migliaia-incidenti-sicurezza-AJeVGgQB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-27T07:49:00+00:00"
+    },
+    {
+      "titolo": "Claude Code: guida alle 9 funzioni più utili",
+      "descrizione": "Ecco le 9 funzioni di Claude Code da conoscere per sfruttarne tutto il potenziale. Dalla memoria permanente ai sotto-agenti, alle automazioni. The post Claude Code: guida alle 9 funzioni più utili appeared first on Punto",
+      "link": "https://www.punto-informatico.it/claude-code-guida-9-funzioni-piu-utili/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-27T07:30:45+00:00"
+    },
+    {
+      "titolo": "1000 Miglia 2027: svelato il percorso dell’edizione del centenario",
+      "descrizione": "Presentata storica ed attesissima edizione della Freccia Rossa che celebrerà i cento anni dalla prima corsa del 1927 con sei giornate di gara e il ritorno al percorso in senso antiorario.",
+      "link": "https://www.hdmotori.it/1000-miglia-2027-percorso/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T07:30:05+00:00"
+    },
+    {
+      "titolo": "Affida i tuoi file a un vero cloud privato: NordLocker Premium è al 53% di sconto",
+      "descrizione": "Affida i tuoi file a un vero e proprio cloud privato ora in offerta speciale al 53% di sconto: scegli adesso la tranquillità con NordLocker Premium. The post Affida i tuoi file a un vero cloud privato: NordLocker Premium",
+      "link": "https://www.punto-informatico.it/affida-i-tuoi-file-a-un-vero-cloud-privato-nordlocker-premium-e-al-53-di-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-27T07:00:50+00:00"
+    },
+    {
+      "titolo": "Auto elettriche, 530 km sulle Dolomiti: torna l'ECOdolomitesGT",
+      "descrizione": "ECOdolomitesGT torna dal 16 al 18 ottobre 2026: 530 km sulle Dolomiti per auto elettriche, tra regolarità, consumi e autonomia",
+      "link": "https://www.hdmotori.it/auto-elettriche-ecodolomitesgt/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-27T07:00:34+00:00"
+    },
     {
       "titolo": "Dyson fino al 50% di sconto? Solo nel negozio ufficiale su eBay",
       "descrizione": "Acquista Dyson fino al 50% di sconto nel suo store ufficiale disponibile su eBay: consegna e reso gratuiti con possibilità di tasso zero. The post Dyson fino al 50% di sconto? Solo nel negozio ufficiale su eBay appeared",
@@ -49,125 +168,6 @@
       "link": "https://www.hdblog.it/hardware/recensioni/n671277/asus-nuc-16-pro-mini-pc-super-versatile/",
       "fonte": "HDblog.it",
       "data": "2026-09-26T13:01:00+00:00"
-    },
-    {
-      "titolo": "Nvidia patents AI chatbot to streamline PC game optimization",
-      "descrizione": "An Nvidia patent suggests the company could push developers to use a new chatbot as a way to get guidance on how to optimize their new games before release.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T13:00:00+00:00"
-    },
-    {
-      "titolo": "Amazfit Balance: 14 giorni di autonomia e sconto di oltre il 40% su Amazon",
-      "descrizione": "Disponibile su Amazon ad un prezzo particolarmente competitivo l'Amazfit Balance, smartwatch con 14 giorni di autonomia, 150 modalità sportive e compatibilità con iOS e Android.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n671699/amazfit-balance-14-giorni-autonomia-doppio-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T12:36:00+00:00"
-    },
-    {
-      "titolo": "Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand",
-      "descrizione": "Nvidia’s RTX Mega Geometry 2.0 SDK arrives alongside RTX Kit 2026.3 with on-demand ray-tracing geometry streaming.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T12:30:00+00:00"
-    },
-    {
-      "titolo": "Piatti buonissimi e senza grassi con la friggitrice ad aria Russell Hobbs da 8L",
-      "descrizione": "Cucina tutto quello che vuoi in modo semplice, veloce e soprattutto sano con la friggitrice ad aria Russell Hobbs da 8 litri e 7 funzioni. The post Piatti buonissimi e senza grassi con la friggitrice ad aria Russell Hobb",
-      "link": "https://www.punto-informatico.it/piatti-buonissimi-senza-grassi-con-friggitrice-ad-aria-russell-hobbs-8l/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T11:45:51+00:00"
-    },
-    {
-      "titolo": "Anthropic perde appello e rimane nella blacklist del Pentagono",
-      "descrizione": "Il tribunale di appello del District of Columbia ha confermato la designazione, quindi Anthropic rimane nella blacklist del Pentagono. The post Anthropic perde appello e rimane nella blacklist del Pentagono appeared firs",
-      "link": "https://www.punto-informatico.it/anthropic-perde-appello-rimane-blacklist-pentagono/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T11:30:32+00:00"
-    },
-    {
-      "titolo": "Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance",
-      "descrizione": "Matt Birchler put a cold drink can on the back of an iPhone 18 Pro to see how much performance uplift it would get in a prolonged benchmarking session. The results showed up to 25% higher sustained performance from the c",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T11:00:00+00:00"
-    },
-    {
-      "titolo": "AirPods, l'ultimo aggiornamento porta finalmente una funzione attesa a lungo",
-      "descrizione": "Ecco cosa cambia e per quali modelli.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n671696/airpods-equalizzatore-aggiornamento-ios-27/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T10:55:00+00:00"
-    },
-    {
-      "titolo": "Google Pixel, problemi di funzionamento del Lock Screen dopo le patch di settembre",
-      "descrizione": "Il sistema dice \"PIN sbagliato\" ancora prima che l'utente abbia finito di inserirlo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671680/google-pixel-drop-settembre-bug-lock-screen/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T09:20:00+00:00"
-    },
-    {
-      "titolo": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "descrizione": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
-      "fonte": "WIRED",
-      "data": "2026-09-26T09:05:00+00:00"
-    },
-    {
-      "titolo": "Stellantis, boom in Brasile: nuovo primato di auto esportate nel mondo",
-      "descrizione": "Crescita record per il Gruppo Stellantis che, in Brasile, ha celebrato un nuovo record. Da Goiana sono già state vendute all’estero 300.000 unità",
-      "link": "https://www.hdmotori.it/stellantis-brasile-primato-auto/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T09:00:21+00:00"
-    },
-    {
-      "titolo": "Smartphone top gamma con Snapdragon 8 Elite Extreme Gen 6: ecco i modelli in arrivo",
-      "descrizione": "Si parte con Xiaomi 18 Pro Max.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671574/snapdragon-8-elite-extreme-gen-6-quali-smartphone/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T08:40:00+00:00"
-    },
-    {
-      "titolo": "Targhe polacche: il “rientro” in Italia costa caro",
-      "descrizione": "Dopo il fenomeno delle targhe estere fittizie per risparmiare, si sta assistendo al fenomeno inverso, cioè il “rientro” delle auto in Italia. I costi per la reimmatricolazione...",
-      "link": "https://www.hdmotori.it/focus/mercato/normative/targhe-polacche-rientro-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T08:30:45+00:00"
-    },
-    {
-      "titolo": "4 telefoni imperdibili con le Offerte Prime Amazon Limitate",
-      "descrizione": "Grazie alle Offerte Prime Amazon Limitate abbiamo trovato 4 telefoni dalle caratteristiche molto interessanti a un prezzo imperdibile. The post 4 telefoni imperdibili con le Offerte Prime Amazon Limitate appeared first o",
-      "link": "https://www.punto-informatico.it/4-telefoni-imperdibili-con-le-offerte-prime-amazon-limitate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T08:18:45+00:00"
-    },
-    {
-      "titolo": "Gli americani hanno paura dell’AI, ma la usano: e gli italiani?",
-      "descrizione": "La Cina è ottimista, l'America è in ansia, l'Italia divisa quasi a metà. Cosa dicono Gallup, SWG e Pew sulla fiducia nell'AI. The post Gli americani hanno paura dell’AI, ma la usano: e gli italiani? appeared first on Pun",
-      "link": "https://www.punto-informatico.it/americani-hanno-paura-ai-la-usano-italiani/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-26T08:12:45+00:00"
-    },
-    {
-      "titolo": "Ferrari-F1, l’autunno “del nostro scontento”: adesso non bastano più nemmeno le curve",
-      "descrizione": "La Rossa fatica a compensare i limiti del motore, mentre gli avversari crescono anche nei tratti guidati. Il Mondiale di F1 è andato",
-      "link": "https://www.hdmotori.it/ferrari-f1-lautunno-del-nostro-scontento-adesso-non-bastano-piu-nemmeno-le-curve/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T08:00:05+00:00"
-    },
-    {
-      "titolo": "Google Messaggi cambia gli swipe, e per qualche giorno potresti sbagliare gesto",
-      "descrizione": "Nuove gesture in distribuzione su Google Messaggi: lo swipe a sinistra mostra gli orari di tutti i messaggi visibili, mentre quello verso destra serve ora per inviare una risposta diretta",
-      "link": "https://www.hdblog.it/google/articoli/n671671/google-messaggi-swipe-nuovi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-26T07:40:00+00:00"
-    },
-    {
-      "titolo": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "descrizione": "They wanted the silicon. They got the sand.",
-      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-      "fonte": "WIRED",
-      "data": "2026-09-25T20:30:40+00:00"
     }
   ]
 }
