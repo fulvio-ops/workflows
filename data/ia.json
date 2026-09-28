@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T14:00:49.914121+00:00",
+  "last_updated": "2026-09-28T23:18:43.684588+00:00",
   "items": [
     {
-      "titolo": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
-      "descrizione": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+      "titolo": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout",
+      "descrizione": "OpenAI has danced with the idea of a broader rollout of its Jalapeño ASIC, but hardware VP Richard Ho tells us the chip is for internal use “first and foremost.”",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-28T13:30:00+00:00",
+      "data": "2026-09-28T15:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,6 +16,14 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-26T14:00:00+00:00",
       "modello": "copilot"
+    },
+    {
+      "titolo": "Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche",
+      "descrizione": "Un nuovo laptop con Gemini, schermo OLED touch e un anno di Google AI Pro incluso: tutte le caratteristiche del Lenovo Googlebook 15. The post Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche appeared firs",
+      "link": "https://www.punto-informatico.it/lenovo-googlebook-15-italia-prezzo-caratteristiche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-28T14:02:08+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
