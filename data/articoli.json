@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-27T21:23:17.596691+00:00",
+  "last_updated": "2026-09-28T05:28:05.115563+00:00",
   "items": [
+    {
+      "titolo": "Wikipedia, Jimmy Wales: «L’intelligenza artificiale può aiutare, ma la decisione finale deve rimanere umana»",
+      "descrizione": "Il cofondatore dell’enciclopedia libera racconta il difficile rapporto con l’IA: i modelli si nutrono della conoscenza prodotta dai volontari, ma continuano a commettere errori. E mentre i colossi tecnologici costruiscon",
+      "link": "https://www.ilsole24ore.com/art/wikipedia-jimmy-wales-l-intelligenza-artificiale-puo-aiutare-ma-decisione-finale-deve-rimanere-umana-AJovakIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-28T05:17:20+00:00"
+    },
+    {
+      "titolo": "NordVPN, al via una nuova offerta speciale con sconti fino al 75%",
+      "descrizione": "I piani della durata di due anni di NordVPN partono da 3,49 euro al mese nell'ambito della nuova promozione. The post NordVPN, al via una nuova offerta speciale con sconti fino al 75% appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/nordvpn-offerta-speciale-sconto-75-percento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-28T04:03:28+00:00"
+    },
     {
       "titolo": "Oppo Find X10 scalda i motori su Geekbench prima del lancio globale",
       "descrizione": "Arriverà in Italia assieme agli altri modelli dal 21 ottobre.",
@@ -154,20 +168,6 @@
       "link": "https://www.hdblog.it/droni/articoli/n671713/ucraina-esercito-robot-umanoidi-droni/",
       "fonte": "HDblog.it",
       "data": "2026-09-27T07:55:00+00:00"
-    },
-    {
-      "titolo": "OpenAI, sospeso addestramento modelli dopo incidenti con agenti AI. Nonostante i dubbi sbarco in Borsa confermato",
-      "descrizione": "L’azienda tech ha dichiarato in un comunicato che riprenderà l’addestramento “solo quando saremo certi di disporre di ulteriori misure di sicurezza”, aggiungendo che prevede di dover “mettere in pausa” nuovamente il proc",
-      "link": "https://www.ilsole24ore.com/art/indagine-openai-e-anthropic-decine-migliaia-incidenti-sicurezza-AJeVGgQB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-27T07:49:00+00:00"
-    },
-    {
-      "titolo": "Claude Code: guida alle 9 funzioni più utili",
-      "descrizione": "Ecco le 9 funzioni di Claude Code da conoscere per sfruttarne tutto il potenziale. Dalla memoria permanente ai sotto-agenti, alle automazioni. The post Claude Code: guida alle 9 funzioni più utili appeared first on Punto",
-      "link": "https://www.punto-informatico.it/claude-code-guida-9-funzioni-piu-utili/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-27T07:30:45+00:00"
     }
   ]
 }
