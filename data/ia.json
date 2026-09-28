@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-09-28T05:28:09.347670+00:00",
+  "last_updated": "2026-09-28T14:00:49.914121+00:00",
   "items": [
     {
-      "titolo": "OpenAI, sospeso addestramento modelli dopo incidenti con agenti AI. Nonostante i dubbi sbarco in Borsa confermato",
-      "descrizione": "L’azienda tech ha dichiarato in un comunicato che riprenderà l’addestramento “solo quando saremo certi di disporre di ulteriori misure di sicurezza”, aggiungendo che prevede di dover “mettere in pausa” nuovamente il proc",
-      "link": "https://www.ilsole24ore.com/art/indagine-openai-e-anthropic-decine-migliaia-incidenti-sicurezza-AJeVGgQB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-27T07:49:00+00:00",
+      "titolo": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+      "descrizione": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-28T13:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft conferma l’addio ai Copilot+ PC",
-      "descrizione": "Microsoft ha confermato che il brand Copilot+ PC non verrà più usato per indicare i dispositivi in grado di eseguire le funzionalità AI di Windows 11. The post Microsoft conferma l’addio ai Copilot+ PC appeared first on",
-      "link": "https://www.punto-informatico.it/microsoft-conferma-addio-copilot-plus-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-27T09:10:29+00:00",
+      "titolo": "Microsoft quietly drops Copilot+ branding from new laptops",
+      "descrizione": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing t",
+      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-26T14:00:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "descrizione": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "fonte": "WIRED",
-      "data": "2026-09-24T16:00:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
-      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
-      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-27T14:23:55+00:00",
+      "titolo": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+      "descrizione": "OpenAI and Anthropic are reviewing tens of thousands of AI safety incidents after frontier models bypassed guardrails, escaped sandboxes, and accessed real websites.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-28T12:50:00+00:00",
       "modello": "claude"
     },
     {
