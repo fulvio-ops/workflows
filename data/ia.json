@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-09-29T12:57:37.595689+00:00",
+  "last_updated": "2026-09-29T22:18:47.653312+00:00",
   "items": [
     {
-      "titolo": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond",
-      "descrizione": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-29T12:40:00+00:00",
+      "titolo": "OpenAI lancia Dots: l’assistente carino che vuole competere con Muse",
+      "descrizione": "L’agente basato su GPT-6 Astra lavora in autonomia tra app e servizi, anche quando l’utente non è online. La sfida è a Muse di Meta.",
+      "link": "https://www.ilsole24ore.com/art/openai-lancia-dots-l-assistente-carino-che-vuole-competere-muse-AJHbYNTB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-29T19:59:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft quietly drops Copilot+ branding from new laptops",
-      "descrizione": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing t",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-26T14:00:00+00:00",
+      "titolo": "Microsoft riunisce Copilot in un’unica super-app: arrivano Code e Autopilot",
+      "descrizione": "Copilot smette di essere solo un assistente che risponde e prova a diventare una fabbrica di software. L’app unificata si chiama semplicemente Copilot. In pratica, l’utente non si ferma al...",
+      "link": "https://www.ilsole24ore.com/art/microsoft-riunisce-copilot-un-unica-super-app-arrivano-code-e-autopilot-AJf3uNNB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-25T12:16:36+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini modifica l'interfaccia su Android e iOS: le novità dell’aggiornamento",
-      "descrizione": "Gemini cambia interfaccia su Android e iPhone: Google introduce nuovi filtri per le conversazioni, la sezione Programmate e l'area Personalizza con Skills e Connectors",
-      "link": "https://www.hdblog.it/google/articoli/n671989/gemini-app-android-ios-novita-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-29T11:15:00+00:00",
+      "titolo": "Addio ai Gem di Gemini: cosa succede agli assistenti personalizzati",
+      "descrizione": "Dal 17 novembre 2026 i Gem di Gemini, gli assistenti AI personalizzati, diventeranno automaticamente skill. Cosa cambia e come si useranno. The post Addio ai Gem di Gemini: cosa succede agli assistenti personalizzati app",
+      "link": "https://www.punto-informatico.it/addio-gem-gemini-cosa-succede-assistenti-personalizzati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-29T09:26:02+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
-      "descrizione": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-29T09:30:00+00:00",
+      "titolo": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "descrizione": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "fonte": "WIRED",
+      "data": "2026-09-29T18:03:01+00:00",
       "modello": "claude"
     },
     {
