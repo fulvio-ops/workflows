@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-09-28T23:18:40.484526+00:00",
+  "last_updated": "2026-09-29T05:47:13.342742+00:00",
   "items": [
+    {
+      "titolo": "Xiaomi lancia la sua prima lavasciuga a pompa di calore",
+      "descrizione": "Prezzo decisamente alto conoscendo il brand.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n671902/xiaomi-lavasciuga-pompa-calore-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T05:35:00+00:00"
+    },
+    {
+      "titolo": "OpenAi rinuncia al lancio dell’ultimo modello AI per timori sicurezza. E Anthropic nel prospetto Ipo avverte sui rischi",
+      "descrizione": "La startup guidata da Sam Altman avrebbe voluto lanciare Gpt-6.1 Astra nel giro di settimane ma il modello non è risultato abbastanza affidabile",
+      "link": "https://www.ilsole24ore.com/art/openai-rinuncia-lancio-dell-ultimo-modello-per-timori-sicurezza-e-anthropic-prospetto-ipo-avverte-rischi-AJqT6PSB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-09-29T05:21:37+00:00"
+    },
+    {
+      "titolo": "Home Depot Promo Codes: 30% Off in October 2026",
+      "descrizione": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-09-29T05:00:00+00:00"
+    },
     {
       "titolo": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
       "descrizione": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.",
@@ -100,25 +121,11 @@
       "data": "2026-09-28T15:15:00+00:00"
     },
     {
-      "titolo": "One UI 9 stabile in rollout: Samsung aggiorna i Galaxy S25 e i pieghevoli",
-      "descrizione": "Samsung avvia in Corea del Sud il rollout stabile di One UI 9 basata su Android 17. L'aggiornamento coinvolge Galaxy S25, S25 Edge, S25 FE e i pieghevoli",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671864/one-ui-9-galaxy-s25-pieghevoli-android-17-rollout/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T15:05:00+00:00"
-    },
-    {
       "titolo": "Luce e gas, il piano Ue: luci spente e meno riscaldamento",
       "descrizione": "L'Europa studia come ridurre i consumi energetici: tra le proposte anche illuminazione spenta nelle ore notturne e meno riscaldamento. The post Luce e gas, il piano Ue: luci spente e meno riscaldamento appeared first on",
       "link": "https://www.punto-informatico.it/luce-gas-piano-ue-luci-spente-meno-riscaldamento/",
       "fonte": "Punto Informatico",
       "data": "2026-09-28T15:02:48+00:00"
-    },
-    {
-      "titolo": "Smart #2 verso il debutto a Parigi: completati i test",
-      "descrizione": "La vettura due posti più famosa al mondo esordirà in anteprima mondiale alla kermesse francese dopo delle prove impegnative.",
-      "link": "https://www.hdmotori.it/smart-2-debutto-parigi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T15:00:02+00:00"
     },
     {
       "titolo": "Virginia Tech lab 3D prints a liquid metal composite to guide heat, boost thermal conductivity 40x",
@@ -161,13 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-09-28T13:30:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2 è vicino: quando potrebbe arrivare",
-      "descrizione": "Microsoft si prepara a dare il via alla distribuzione di Windows 11 26H2: le date previste per il rollout e quali PC lo riceveranno subito. The post Windows 11 26H2 è vicino: quando potrebbe arrivare appeared first on Pu",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-vicino-quando-potrebbe-arrivare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T12:34:31+00:00"
     }
   ]
 }
