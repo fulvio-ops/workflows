@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-29T05:47:17.947901+00:00",
+  "last_updated": "2026-09-29T12:57:37.595689+00:00",
   "items": [
     {
-      "titolo": "Claude Sonnet 5.5 alza la posta: Anthropic punta su velocità e costi",
-      "descrizione": "Claude Sonnet 5.5 arriva con prestazioni migliori e un prezzo API pari a GPT-6 Sol.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671907/claude-sonnet-5-5-prezzo-gpt-6-sol/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-29T05:45:00+00:00",
+      "titolo": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond",
+      "descrizione": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T12:40:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche",
-      "descrizione": "Un nuovo laptop con Gemini, schermo OLED touch e un anno di Google AI Pro incluso: tutte le caratteristiche del Lenovo Googlebook 15. The post Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche appeared firs",
-      "link": "https://www.punto-informatico.it/lenovo-googlebook-15-italia-prezzo-caratteristiche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T14:02:08+00:00",
+      "titolo": "Gemini modifica l'interfaccia su Android e iOS: le novità dell’aggiornamento",
+      "descrizione": "Gemini cambia interfaccia su Android e iPhone: Google introduce nuovi filtri per le conversazioni, la sezione Programmate e l'area Personalizza con Skills e Connectors",
+      "link": "https://www.hdblog.it/google/articoli/n671989/gemini-app-android-ios-novita-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Sonnet 5.5 alza la posta: Anthropic punta su velocità e costi",
-      "descrizione": "Claude Sonnet 5.5 arriva con prestazioni migliori e un prezzo API pari a GPT-6 Sol.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671907/claude-sonnet-5-5-prezzo-gpt-6-sol/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-29T05:45:00+00:00",
+      "titolo": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
+      "descrizione": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
+      "link": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T09:30:00+00:00",
       "modello": "claude"
     },
     {

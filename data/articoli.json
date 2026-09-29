@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-09-29T05:47:13.342742+00:00",
+  "last_updated": "2026-09-29T12:57:34.594097+00:00",
   "items": [
     {
-      "titolo": "Xiaomi lancia la sua prima lavasciuga a pompa di calore",
-      "descrizione": "Prezzo decisamente alto conoscendo il brand.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n671902/xiaomi-lavasciuga-pompa-calore-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-29T05:35:00+00:00"
+      "titolo": "Windows 11 26H2 sempre più vicino, trovati i file di installazione",
+      "descrizione": "Il lancio di Windows 11 26H2 sembra ormai imminente: i file ESD relativi alla nuova versione sono stati individuati sui server ufficiali. The post Windows 11 26H2 sempre più vicino, trovati i file di installazione appear",
+      "link": "https://www.punto-informatico.it/windows-11-26h2-vicino-trovati-file-installazione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-29T12:40:06+00:00"
     },
     {
-      "titolo": "OpenAi rinuncia al lancio dell’ultimo modello AI per timori sicurezza. E Anthropic nel prospetto Ipo avverte sui rischi",
-      "descrizione": "La startup guidata da Sam Altman avrebbe voluto lanciare Gpt-6.1 Astra nel giro di settimane ma il modello non è risultato abbastanza affidabile",
-      "link": "https://www.ilsole24ore.com/art/openai-rinuncia-lancio-dell-ultimo-modello-per-timori-sicurezza-e-anthropic-prospetto-ipo-avverte-rischi-AJqT6PSB",
+      "titolo": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond",
+      "descrizione": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T12:40:00+00:00"
+    },
+    {
+      "titolo": "Nissan ADventure: la guida autonoma scende in strada per la mobilità del futuro",
+      "descrizione": "Un progetto di ricerca da 3 milioni di sterline guidato da Nissan studia la guida autonoma in contesti urbani reali per favorire connettività e inclusione.",
+      "link": "https://www.hdmotori.it/nissan-adventure-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T12:00:48+00:00"
+    },
+    {
+      "titolo": "Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms",
+      "descrizione": "Intel is prepping Core Ultra 400-series 'Nova Lake' platform launches as CPUs and chipsets pass interoperability and compliance tests with PCI-SIG and USB-IF.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "titolo": "Q8, tetto ai prezzi di benzina e diesel: da quando e per quanto",
+      "descrizione": "A partire dall'1 ottobre, Q8 applicherà un limite ai prezzi dei carburanti per 30 giorni: la soglia potrà cambiare nel corso del mese. The post Q8, tetto ai prezzi di benzina e diesel: da quando e per quanto appeared fir",
+      "link": "https://www.punto-informatico.it/q8-tetto-prezzi-benzina-diesel/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-29T11:54:41+00:00"
+    },
+    {
+      "titolo": "Sconfiggere il caldo spendendo poco: l'invenzione italiana che taglia la bolletta",
+      "descrizione": "Il rifugio climatico ha superato i test dimostrando la sua efficacia.",
+      "link": "https://www.hdblog.it/home/articoli/n671986/rifugio-climatico-raffrescatore-risparmio-bolletta/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:50:00+00:00"
+    },
+    {
+      "titolo": "Honor lancia anche due nuovi tablet: ecco X10 Pro Max e MagicPad 4 (12.1)",
+      "descrizione": "Gran batterie: 10.100 mAh per entrambi.",
+      "link": "https://www.hdblog.it/tablet/articoli/n671991/honor-x10-pro-max-magicpad-4-12-1-tablet/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:35:00+00:00"
+    },
+    {
+      "titolo": "La Honda Prelude Limited Edition arriva anche in Italia",
+      "descrizione": "La casa giapponese conferma il debutto della serie limitata a partire da febbraio 2027. Sarà spinta dall’ibrida e:HEV e avrà interni bordeaux rifiniti a mano.",
+      "link": "https://www.hdmotori.it/honda-prelude-limited-edition-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:30:01+00:00"
+    },
+    {
+      "titolo": "Gemini modifica l'interfaccia su Android e iOS: le novità dell’aggiornamento",
+      "descrizione": "Gemini cambia interfaccia su Android e iPhone: Google introduce nuovi filtri per le conversazioni, la sezione Programmate e l'area Personalizza con Skills e Connectors",
+      "link": "https://www.hdblog.it/google/articoli/n671989/gemini-app-android-ios-novita-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:15:00+00:00"
+    },
+    {
+      "titolo": "Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170",
+      "descrizione": "This powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, unlocks 4K gameplay for $1,999.99.",
+      "link": "https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T11:10:00+00:00"
+    },
+    {
+      "titolo": "Mozilla Firefox 157, grandi cambiamenti all'interfaccia | Download",
+      "descrizione": "La distribuzione ufficiale partirà tra qualche ora, ma si può scaricare già adesso dal sito di Mozilla.",
+      "link": "https://www.hdblog.it/windows/articoli/n671985/mozilla-firefox-157-novita-interfaccia-nova-ui/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T11:05:00+00:00"
+    },
+    {
+      "titolo": "Sky Mobile permette di scoprire chi chiama con il numero nascosto",
+      "descrizione": "Chi riceve chiamate anonime o moleste può richiedere a Sky Mobile di rendere visibile il numero del chiamante per 15 giorni. Il servizio costa 30 euro e viene addebitato sul credito della SIM",
+      "link": "https://www.hdblog.it/virtuali/articoli/n671984/sky-mobile-mostra-numero-nascosto-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T10:55:00+00:00"
+    },
+    {
+      "titolo": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'",
+      "descrizione": "A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T10:50:00+00:00"
+    },
+    {
+      "titolo": "La durata dei giorni cambia: la causa è nel cuore della Terra",
+      "descrizione": "Il nucleo terrestre influenza la rotazione del pianeta e la durata dei nostri giorni.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n671959/durata-giorno-terra-nucleo-mantello/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T10:45:00+00:00"
+    },
+    {
+      "titolo": "7 Best Smartwatch Models: Apple, Google, Garmin (2026)",
+      "descrizione": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected.",
+      "link": "https://www.wired.com/story/best-smartwatch/",
+      "fonte": "WIRED",
+      "data": "2026-09-29T10:39:00+00:00"
+    },
+    {
+      "titolo": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "descrizione": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "fonte": "WIRED",
+      "data": "2026-09-29T10:36:22+00:00"
+    },
+    {
+      "titolo": "Huawei Watch D3 arriva in Italia: il cinturino si gonfia per misurare la pressione",
+      "descrizione": "Misura la pressione direttamente al polso",
+      "link": "https://www.hdblog.it/indossabili/articoli/n671980/huawei-watch-d3-arriva-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T10:35:00+00:00"
+    },
+    {
+      "titolo": "Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs",
+      "descrizione": "Intel has showcased a patent it filed in 2022 to embed MicroLEDs inside chip packaging. The company suggests this could be used for diagnostic testing, customized lighting on chip surfaces, but perhaps more importantly,",
+      "link": "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-09-29T10:30:00+00:00"
+    },
+    {
+      "titolo": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "descrizione": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "fonte": "WIRED",
+      "data": "2026-09-29T10:30:00+00:00"
+    },
+    {
+      "titolo": "OpenAI chiede scusa al governo australiano",
+      "descrizione": "OpenAI ha chiesto scusa al governo australiano per l'accesso non autorizzato ad alcuni siti, spiegando cosa è accaduto e fornendo supporto tecnico. The post OpenAI chiede scusa al governo australiano appeared first on Pu",
+      "link": "https://www.punto-informatico.it/openai-chiede-scusa-governo-australiano/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-29T10:29:45+00:00"
+    },
+    {
+      "titolo": "TCL porta Samsung in tribunale: accusa pesante sui TV Mini LED economici",
+      "descrizione": "TCL porta Samsung davanti a un tribunale federale della California: secondo l'azienda, alcuni TV Samsung venduti come Mini LED non avrebbero le caratteristiche tecniche necessarie per essere definiti...",
+      "link": "https://www.hdblog.it/tv/articoli/n671979/tv-samsung-mini-led-accusa-tcl/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-29T10:25:00+00:00"
+    },
+    {
+      "titolo": "Huawei Watch D3, la pressione si misura al polso. E lo smartwatch entra in farmacia",
+      "descrizione": "Il nuovo modello costa 449 euro, usa sempre un cinturino gonfiabile per monitorare la pressione e punta a raggiungere centinaia i farmacie",
+      "link": "https://www.ilsole24ore.com/art/huawei-watch-d3-pressione-si-misura-polso-e-smartwatch-entra-farmacia-AJWv7HQB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-29T05:21:37+00:00"
+      "data": "2026-09-29T10:11:43+00:00"
     },
     {
-      "titolo": "Home Depot Promo Codes: 30% Off in October 2026",
-      "descrizione": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-09-29T05:00:00+00:00"
-    },
-    {
-      "titolo": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
-      "descrizione": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.",
-      "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
-      "fonte": "WIRED",
-      "data": "2026-09-28T18:47:54+00:00"
-    },
-    {
-      "titolo": "Il più radicale aggiornamento di Excel nei suoi oltre quarant'anni di storia",
-      "descrizione": "Il colosso di Redmond testa la possibilità di inserire più valori in una cella.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671892/microsoft-excel-piu-valori-una-cella/",
+      "titolo": "World Labs è la nuova acquisizione di AMD: 8,6 miliardi per chip AI e spatial intelligence",
+      "descrizione": "Con l'acquisizione di World Labs, AMD punta sulla spatial intelligence e rafforza la propria strategia AI; ruolo di vertice per Fei-Fei Li.",
+      "link": "https://www.hdblog.it/business/articoli/n671958/world-labs-acquisizione-amd-chip-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-09-28T17:50:00+00:00"
+      "data": "2026-09-29T10:05:00+00:00"
     },
     {
-      "titolo": "Bose cavalca l'onda del revival degli auricolari col filo, senza rinunciare all'ANC",
-      "descrizione": "Consegne da metà ottobre negli USA, preordini già aperti. E da noi?",
-      "link": "https://www.hdblog.it/indossabili/articoli/n671889/bose-auricolari-filo-usb-c-anc-prezzo-quando/",
+      "titolo": "Perdere la patente senza aver mai guidato: il caso che fa discutere in Francia",
+      "descrizione": "La sicurezza stradale in Francia arriva al punto tale che si potrà confiscare la patente di guida a coloro che ancora devono mettere in moto un’auto.",
+      "link": "https://www.hdmotori.it/perdere-patente-senza-aver-mai-guidato/",
       "fonte": "HDblog.it",
-      "data": "2026-09-28T17:35:00+00:00"
-    },
-    {
-      "titolo": "LG StanbyMe 2 Max arriva finalmente in Italia, prezzo tutt'altro che popolare",
-      "descrizione": "Autonomia e risoluzione notevoli, però.",
-      "link": "https://www.hdblog.it/tv/articoli/n671884/lg-stanbyme-2-max-32-4k-prezzo-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T17:05:00+00:00"
-    },
-    {
-      "titolo": "Starship in orbita per la prima volta, con un motore in meno",
-      "descrizione": "Starship di SpaceX ha raggiunto per la prima volta l'orbita terrestre e ha rilasciato 26 Starlink V3, nonostante lo spegnimento di un motore Raptor. The post Starship in orbita per la prima volta, con un motore in meno a",
-      "link": "https://www.punto-informatico.it/starship-orbita-prima-volta-un-motore-in-meno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T16:39:28+00:00"
-    },
-    {
-      "titolo": "Rubano due camion NVIDIA sperando nel colpaccio, portano a casa solo tanta sabbia",
-      "descrizione": "Gli aspiranti Toretto sono rimasti fregati.",
-      "link": "https://www.hdblog.it/hardware/articoli/n671882/furto-camion-nvidia-gpu-sabbia-test-guida-autonoma/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T16:35:00+00:00"
-    },
-    {
-      "titolo": "Edifier M230 II, lo speaker rétro ha 26 W e Bluetooth 6.0",
-      "descrizione": "Design rétro, 26 W, Bluetooth 6.0 e fino a 30 ore di autonomia.",
-      "link": "https://www.hdblog.it/tv/articoli/n671873/edifier-m230-ii-speaker-retro-bluetooth-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T16:25:00+00:00"
-    },
-    {
-      "titolo": "Totem GT Desideria, un gioiello artigianale da 640 CV con il cambio in vetro e oro",
-      "descrizione": "Fondata nel 2018 dal designer Riccardo Quaggio, l’azienda specializzata in restomod di lusso ha partorito una GT sulla base della leggendaria Alfa Romeo Giulia.",
-      "link": "https://www.hdmotori.it/totem-gt-desideria/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T16:00:02+00:00"
-    },
-    {
-      "titolo": "Starship si spinge dove non era mai giunta prima: conquista l'orbita e l'operatività!",
-      "descrizione": "Primo volo orbitale per Starship: rilasciati anche 26 satelliti Starlink V3.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671867/starship-primo-volo-orbitale-flight-14/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T15:55:00+00:00"
-    },
-    {
-      "titolo": "Grok entra nei conti bancari per gestire spese e investimenti",
-      "descrizione": "SpaceXAI lancia l'integrazione Finance per Grok Bot. Gli utenti possono collegare i propri conti bancari e gestire spese, investimenti e fatture. The post Grok entra nei conti bancari per gestire spese e investimenti app",
-      "link": "https://www.punto-informatico.it/grok-entra-conti-bancari-gestire-spese-investimenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T15:53:36+00:00"
-    },
-    {
-      "titolo": "7 prompt di ChatGPT per costruire abitudini migliori",
-      "descrizione": "Costruire abitudini sane è facile in teoria. 7 prompt trasformano ChatGPT in un coach personale che propone cambiamenti e realistici. The post 7 prompt di ChatGPT per costruire abitudini migliori appeared first on Punto",
-      "link": "https://www.punto-informatico.it/7-prompt-chatgpt-costruire-abitudini-migliori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T15:30:44+00:00"
-    },
-    {
-      "titolo": "Get free access to AI Chip Design week on Tom's Hardware Premium — sign up for an account to read all the in-depth reports",
-      "descrizione": "From September 28 to October 2, you can access Tom's Hardware Premium's AI Chip Week special features for free, no payment required.",
-      "link": "https://www.tomshardware.com/tech-industry/get-free-access-to-ai-chip-design-week-on-toms-hardware-premium-sign-up-for-an-account-to-read-all-the-in-depth-reports",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-28T15:30:00+00:00"
-    },
-    {
-      "titolo": "Nvidia, riacquisto di azioni da record: altri 150 miliardi",
-      "descrizione": "Nvidia amplia di 150 miliardi di dollari il buyback, spinta dalla domanda di AI.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n671861/nvidia-buyback-record-150-miliardi/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T15:25:00+00:00"
-    },
-    {
-      "titolo": "Telemarketing, le nuove regole non piacciono: chiesta revisione",
-      "descrizione": "Potrebbe cambiare tutto (di nuovo)",
-      "link": "https://www.hdblog.it/mercato/articoli/n671842/telemarketing-nuove-regole-aziende-revisione/",
-      "fonte": "HDblog.it",
-      "data": "2026-09-28T15:15:00+00:00"
-    },
-    {
-      "titolo": "Luce e gas, il piano Ue: luci spente e meno riscaldamento",
-      "descrizione": "L'Europa studia come ridurre i consumi energetici: tra le proposte anche illuminazione spenta nelle ore notturne e meno riscaldamento. The post Luce e gas, il piano Ue: luci spente e meno riscaldamento appeared first on",
-      "link": "https://www.punto-informatico.it/luce-gas-piano-ue-luci-spente-meno-riscaldamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T15:02:48+00:00"
-    },
-    {
-      "titolo": "Virginia Tech lab 3D prints a liquid metal composite to guide heat, boost thermal conductivity 40x",
-      "descrizione": "Virginia Tech lab prints gallium-indium liquid metal droplets in silicone that guide heat.",
-      "link": "https://www.tomshardware.com/3d-printing/virginia-tech-lab-3d-prints-a-liquid-metal-composite-to-guide-heat-boost-thermal-conductivity-40x-the-nozzle-stretches-gallium-indium-droplets-inside-soft-silicone-can-also-create-self-healing-traces",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-28T14:45:00+00:00"
-    },
-    {
-      "titolo": "These Extremists Are Running for Election in November",
-      "descrizione": "With the threat of political violence at unprecedented levels, state and federal GOP candidates are openly sharing racist, pro-militia, anti-vaccine, sexist, antisemitic, and secessionist views.",
-      "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
-      "fonte": "WIRED",
-      "data": "2026-09-28T14:41:08+00:00"
-    },
-    {
-      "titolo": "Firefox 157 è in download con la nuova interfaccia Nova",
-      "descrizione": "La nuova interfaccia Nova debutta con Firefox 157, insieme alla modalità Compatta e a miglioramenti per video HDR, AV1 e schede verticali. The post Firefox 157 è in download con la nuova interfaccia Nova appeared first o",
-      "link": "https://www.punto-informatico.it/firefox-157-download-nuova-interfaccia-nova/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T14:31:20+00:00"
-    },
-    {
-      "titolo": "Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche",
-      "descrizione": "Un nuovo laptop con Gemini, schermo OLED touch e un anno di Google AI Pro incluso: tutte le caratteristiche del Lenovo Googlebook 15. The post Lenovo Googlebook 15 arriva in Italia: prezzo e caratteristiche appeared firs",
-      "link": "https://www.punto-informatico.it/lenovo-googlebook-15-italia-prezzo-caratteristiche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T14:02:08+00:00"
-    },
-    {
-      "titolo": "Non dire grazie all’AI, lo chiede anche il Governo UK",
-      "descrizione": "Con le sue nuove linee guida sull'AI, il Governo UK suggerisce di ridurre i prompt e di non perdere tempo a ringraziare i chatbot. The post Non dire grazie all’AI, lo chiede anche il Governo UK appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/non-dire-grazie-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-28T13:35:44+00:00"
-    },
-    {
-      "titolo": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
-      "descrizione": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-28T13:30:00+00:00"
+      "data": "2026-09-29T10:00:19+00:00"
     }
   ]
 }
