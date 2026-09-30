@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-09-30T05:36:44.765368+00:00",
+  "last_updated": "2026-09-30T12:39:08.959552+00:00",
   "items": [
     {
-      "titolo": "OpenAI lancia Dots: l’assistente carino che vuole competere con Muse",
-      "descrizione": "L’agente basato su GPT-6 Astra lavora in autonomia tra app e servizi, anche quando l’utente non è online. La sfida è a Muse di Meta.",
-      "link": "https://www.ilsole24ore.com/art/openai-lancia-dots-l-assistente-carino-che-vuole-competere-muse-AJHbYNTB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-29T19:59:00+00:00",
+      "titolo": "ChatGPT Pro 500 è il nuovo piano per professionisti da 6mila dollari l'anno",
+      "descrizione": "OpenAI amplia gli abbonamenti ChatGPT con Pro 500, pensato soprattutto per sviluppatori e professionisti che utilizzano intensivamente Codex e Work e hanno bisogno della modalità Astra Ultrafast",
+      "link": "https://www.hdblog.it/mercato/articoli/n672147/chatgpt-pro-500-dollari-mese-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-09-30T11:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft riunisce Copilot in un’unica super-app: arrivano Code e Autopilot",
-      "descrizione": "Copilot smette di essere solo un assistente che risponde e prova a diventare una fabbrica di software. L’app unificata si chiama semplicemente Copilot. In pratica, l’utente non si ferma al...",
-      "link": "https://www.ilsole24ore.com/art/microsoft-riunisce-copilot-un-unica-super-app-arrivano-code-e-autopilot-AJf3uNNB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-25T12:16:36+00:00",
+      "titolo": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
+      "descrizione": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
+      "link": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+      "fonte": "news – ZDNET",
+      "data": "2026-09-25T12:00:14+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "descrizione": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-      "fonte": "WIRED",
-      "data": "2026-09-29T18:03:01+00:00",
+      "titolo": "Anthropic: GLM-5.3 può scrivere il codice degli exploit",
+      "descrizione": "Anthropic ha eseguito vari test per dimostrare la pericolosità di GLM-5,3 e la facilità con cui si possono aggirare le protezioni implementate da Z.ai. The post Anthropic: GLM-5.3 può scrivere il codice degli exploit app",
+      "link": "https://www.punto-informatico.it/anthropic-glm-5-3-scrive-codice-exploit/",
+      "fonte": "Punto Informatico",
+      "data": "2026-09-30T11:28:32+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
-      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
-      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-27T14:23:55+00:00",
-      "modello": "altri"
     }
   ]
 }
