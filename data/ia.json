@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T22:18:47.653312+00:00",
+  "last_updated": "2026-09-30T05:36:44.765368+00:00",
   "items": [
     {
       "titolo": "OpenAI lancia Dots: l’assistente carino che vuole competere con Muse",
@@ -16,14 +16,6 @@
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-09-25T12:16:36+00:00",
       "modello": "copilot"
-    },
-    {
-      "titolo": "Addio ai Gem di Gemini: cosa succede agli assistenti personalizzati",
-      "descrizione": "Dal 17 novembre 2026 i Gem di Gemini, gli assistenti AI personalizzati, diventeranno automaticamente skill. Cosa cambia e come si useranno. The post Addio ai Gem di Gemini: cosa succede agli assistenti personalizzati app",
-      "link": "https://www.punto-informatico.it/addio-gem-gemini-cosa-succede-assistenti-personalizzati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-29T09:26:02+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
