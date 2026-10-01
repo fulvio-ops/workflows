@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-30T22:18:34.968795+00:00",
+  "last_updated": "2026-10-01T06:00:10.822879+00:00",
   "items": [
     {
-      "titolo": "The Battle to Be Your Personal AI Agent Is Here",
-      "descrizione": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "fonte": "WIRED",
-      "data": "2026-09-30T19:30:00+00:00",
+      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
+      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
+      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-01T05:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google paga gli editori per i risultati di ricerca generati dall’AI?",
-      "descrizione": "Google avrebbe lanciato un programma pilota per pagare circa 100 editori i cui contenuti alimentano AI Overview, AI Mode e Gemini. The post Google paga gli editori per i risultati di ricerca generati dall’AI? appeared fi",
-      "link": "https://www.punto-informatico.it/google-paga-editori-risultati-ricerca-generati-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-09-30T15:54:37+00:00",
+      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
+      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
+      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-01T05:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Top AI tech executives promise to ‘self-police’ AI development",
-      "descrizione": "The heads of the biggest AI labs — Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia — went to Washington and signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely.",
-      "link": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-09-30T17:27:37+00:00",
+      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
+      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
+      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-01T05:35:00+00:00",
       "modello": "claude"
     },
     {
