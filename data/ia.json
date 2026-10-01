@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-01T06:00:10.822879+00:00",
+  "last_updated": "2026-10-01T13:21:55.067276+00:00",
   "items": [
     {
-      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
-      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
-      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-01T05:35:00+00:00",
+      "titolo": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning",
+      "descrizione": "OpenAI says operators copied its models’ encrypted reasoning and asked a model in a separate conversation to decrypt it.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-actors-linked-to-moonshot-ai-spearheaded-a-campaign-to-extract-its-models-hidden-reasoning-logged-attempts-peaked-at-16-000-users-over-two-days",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-01T12:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,27 +18,27 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
-      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
-      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-01T05:35:00+00:00",
+      "titolo": "Google annuncia Gemini 4 Argon: la sfida a OpenAI e Anthropic resta a porte chiuse",
+      "descrizione": "Il nuovo modello punta su software, finanza e sicurezza informatica, ma l’accesso è riservato a esperti selezionati. Per utenti e imprese manca ancora una data: Google vuole rafforzare le protezioni prima del debutto pub",
+      "link": "https://www.ilsole24ore.com/art/google-annuncia-gemini-4-argon-sfida-openai-e-anthropic-resta-porte-chiuse-AJumDzUB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-01T06:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Google rilancia sull’AI con il rilascio di Gemini 4 Argon | Tutte le novità",
-      "descrizione": "Gemini 4 Argon punta su coding, autonomia e prezzi aggressivi per sfidare GPT-6 e Claude.",
-      "link": "https://www.hdblog.it/google/articoli/n672231/gemini-4-argon-gpt-6-astra-prezzi-benchmark/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-01T05:35:00+00:00",
+      "titolo": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
+      "descrizione": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-01T10:30:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "L’AI riscrive le regole dei test: Astra aggancia Claude in vetta all’Index",
-      "descrizione": "La revisione dei parametri di Artificial Analysis premia automazione agentica e gestione dei documenti complessi. Il podio resta saldamente americano, ma la francese Mistral (18ª) punta su costi ridotti e pesi aperti per",
-      "link": "https://www.ilsole24ore.com/art/l-ai-riscrive-regole-test-astra-aggancia-claude-vetta-all-index-AJPfsQIB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-09-27T14:23:55+00:00",
+      "titolo": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
+      "descrizione": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-01T10:30:00+00:00",
       "modello": "altri"
     }
   ]
