@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-10-02T12:40:40.400879+00:00",
+  "last_updated": "2026-10-02T22:16:44.845140+00:00",
   "items": [
     {
-      "titolo": "Il Googlebook di Samsung si affaccia su Geekbench col chip Snapdragon X Elite",
-      "descrizione": "Anche Samsung si prepara ad entrare nel panorama Googlebook.",
-      "link": "https://www.hdblog.it/portatili/articoli/n672449/amsung-googlebook-geekbench-snapdragon-x-elite-ram/",
+      "titolo": "iPhone 18 Pro Max stuck in SOS mode? Try AT&T’s urgent fix ASAP",
+      "descrizione": "Some iPhone 18 Pro Max users can’t call or text. AT&T is telling them to update immediately.",
+      "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-call-text-sos-issue-update-fix/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-02T19:40:38+00:00"
+    },
+    {
+      "titolo": "Crisi dei chip, capitola anche Google Pixel 10a: 100€ in più in Italia",
+      "descrizione": "Da 549-649€ si passa a 649-749€. Proprio come è successo nel passaggio tra Pixel 10 e Pixel 11.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672498/google-pixel-10a-aumenti-prezzo-listino/",
       "fonte": "HDblog.it",
+      "data": "2026-10-02T17:50:00+00:00"
+    },
+    {
+      "titolo": "Caso Revolut: Piantedosi evidenzia la negligenza della fintech",
+      "descrizione": "Il Ministro dell'Interno ha evidenziato la negligenza di Revolut, in quanto ha inviato i dati dei clienti tramite PEC senza prima verificare la fonte. The post Caso Revolut: Piantedosi evidenzia la negligenza della finte",
+      "link": "https://www.punto-informatico.it/caso-revolut-piantedosi-evidenzia-negligenza-fintech/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T16:57:53+00:00"
+    },
+    {
+      "titolo": "Google cambia strategia: pagherà gli editori chi alimentano le sue risposte AI",
+      "descrizione": "Google testa compensi agli editori per i contenuti utilizzati da Gemini e dalla ricerca AI",
+      "link": "https://www.hdblog.it/google/articoli/n672274/google-paga-editori-contenuti-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T16:55:00+00:00"
+    },
+    {
+      "titolo": "L'emulatore di PS3 per Android ora risparmia un sacco di spazio di storage",
+      "descrizione": "Il supporto al formato CHD promette immagini disco anche dimezzate rispetto alle tradizionali ISO.",
+      "link": "https://www.hdblog.it/android/articoli/n672484/ps3-emulatore-armsx3-supporto-file-chd-spazio-iso/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T16:15:00+00:00"
+    },
+    {
+      "titolo": "Shopify Canvas: come creare un negozio online parlando con l’AI",
+      "descrizione": "Shopify lancia Canvas, lo strumento che permette di costruire il proprio negozio online chattando con l'AI Sidekick. The post Shopify Canvas: come creare un negozio online parlando con l’AI appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/shopify-canvas-come-creare-negozio-online-parlando-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T16:13:00+00:00"
+    },
+    {
+      "titolo": "Paramount cambia guida: Ynon Kreiz sarà co-CEO con David Ellison",
+      "descrizione": "Ynon Kreiz affiancherà David Ellison alla guida della nuova Paramount dopo la fusione con Warner.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n672371/paramount-ynon-kreiz-nuovo-co-ceo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T16:05:00+00:00"
+    },
+    {
+      "titolo": "BMW cambia marcia con la X3 M50 xDrive, la nuova M Performance sale a 443 cavalli",
+      "descrizione": "Con un design ancor più seducente, la nuova BMW X3 M50 xDrive vanta ancora più potenza grazie a un sei cilindri in linea erogante ora 326 kW",
+      "link": "https://www.hdmotori.it/bmw-x3-m50-xdrive-m-performance/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T16:00:08+00:00"
+    },
+    {
+      "titolo": "Come riconoscere un testo scritto dall’AI, lo studio di Graphite",
+      "descrizione": "Uno studio di Graphite ha individuato 13.000 tic linguistici dell'intelligenza artificiale. Ecco come riconoscere i testi generati. The post Come riconoscere un testo scritto dall’AI, lo studio di Graphite appeared first",
+      "link": "https://www.punto-informatico.it/come-riconoscere-testo-scritto-ai-studio-graphite/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T15:35:43+00:00"
+    },
+    {
+      "titolo": "Samsung, prezzi aumentati in Italia anche per gli smartphone della serie Galaxy A",
+      "descrizione": "Il nuovo listino.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672475/samsung-galaxy-aumento-prezzi-listino-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T15:35:00+00:00"
+    },
+    {
+      "titolo": "9 comandi con la barra per farsi capire al volo da ChatGPT",
+      "descrizione": "Nove scorciatoie che funzionano con ChatGPT, Gemini e Claude per ottenere risposte più concise, più critiche, più strutturate o più umane. The post 9 comandi con la barra per farsi capire al volo da ChatGPT appeared firs",
+      "link": "https://www.punto-informatico.it/9-comandi-barra-per-farsi-capire-al-volo-da-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T15:30:44+00:00"
+    },
+    {
+      "titolo": "MINI Countryman SE, c'è una nuova serie speciale: trazione integrale e 458 km di autonomia",
+      "descrizione": "MINI presenta la Countryman SE Midnight Edition, nuova serie speciale elettrica con trazione integrale, ricca dotazione e autonomia fino a 458 km",
+      "link": "https://www.hdmotori.it/mini-countryman-se-midnight-edition/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T15:00:35+00:00"
+    },
+    {
+      "titolo": "Home Assistant, il piano \"Cloud\" cambia nome in \"Link\" per protesta",
+      "descrizione": "A livello funzionale non cambia niente, ma le Big Tech hanno rovinato il concetto di cloud, dicono i fondatori, e quindi meglio dissociarsi.",
+      "link": "https://www.hdblog.it/domotica/articoli/n672474/home-assistant-cloud-link-piano-abbonamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T14:55:00+00:00"
+    },
+    {
+      "titolo": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
+      "descrizione": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to co",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-02T14:53:41+00:00"
+    },
+    {
+      "titolo": "ADAS: auto sempre più intelligenti, manutenzione sempre più tecnologica",
+      "descrizione": "Manutenzione, calibrazione, diagnosi e controlli periodici diventano sempre più centrali per garantire l’efficienza dei sistemi di assistenza alla guida. È il tema al centro...",
+      "link": "https://www.hdmotori.it/ada-auto-sempre-piu-intelligenti-manutenzione-sempre-piu-tecnologica/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T14:30:17+00:00"
+    },
+    {
+      "titolo": "La crisi dei chip colpisce anche NVIDIA: aumento cospicuo per SHIELD TV Pro",
+      "descrizione": "Da 220 euro si passa a 300... A patto di trovarla.",
+      "link": "https://www.hdblog.it/tv/articoli/n672471/nvidia-shield-tv-pro-aumento-prezzi-crisi-chip/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T14:25:00+00:00"
+    },
+    {
+      "titolo": "Unicredit down il 2 ottobre: tutti gli aggiornamenti (risolto)",
+      "descrizione": "Ci sono centinaia di segnalazioni su malfunzionamenti dei servizi online di Unicredit: seguiamo la vicenda con gli aggiornamenti del caso. The post Unicredit down il 2 ottobre: tutti gli aggiornamenti (risolto) appeared",
+      "link": "https://www.punto-informatico.it/unicredit-down-02102026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T14:23:03+00:00"
+    },
+    {
+      "titolo": "Suno Speech è l’AI giusta per creare le voci fuori campo",
+      "descrizione": "Il nuovo modello Speech di Suno combina voce parlata e musica in un'unica traccia coerente: come funziona e quali opzioni offre agli utenti. The post Suno Speech è l’AI giusta per creare le voci fuori campo appeared firs",
+      "link": "https://www.punto-informatico.it/suno-speech-ai-creare-le-voci-fuori-campo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T14:09:22+00:00"
+    },
+    {
+      "titolo": "BMW F 450 R: la naked da 48 CV che punta al vertice delle A2",
+      "descrizione": "Debutta la nuova BMW F 450 R: la naked da 48 CV pensata per la patente A2. Motore bicilindrico, tanta coppia ai bassi e tecnologia da categoria superiore.",
+      "link": "https://www.hdmotori.it/bmw-f-450-r-naked-patente-a2/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T14:00:27+00:00"
+    },
+    {
+      "titolo": "Umanoidi, ingorghi e triscaidecafobie: cinque serie tv da non perdere",
+      "descrizione": "Sfogliando nell’offerta globale di streaming, satellite e digitale terrestre, ecco una selezione dei titoli da non farsi scappare",
+      "link": "https://www.ilsole24ore.com/art/umanoidi-ingorghi-e-triscaidecafobie-cinque-serie-tv-non-perdere-AJZ9EQWB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-02T13:57:37+00:00"
+    },
+    {
+      "titolo": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+      "descrizione": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is othe",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-02T13:00:00+00:00"
+    },
+    {
+      "titolo": "La corsa che la nostra nazione non può permettersi di perdere",
+      "descrizione": "Amazon considera l'opposizione ai data center un rischio per la leadership degli Stati Uniti nel settore dell'intelligenza artificiale. The post La corsa che la nostra nazione non può permettersi di perdere appeared firs",
+      "link": "https://www.punto-informatico.it/la-corsa-che-la-nostra-nazione-non-puo-permettersi-di-perdere/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T12:48:37+00:00"
+    },
+    {
+      "titolo": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
+      "descrizione": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
+      "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-02T12:40:00+00:00"
     },
     {
-      "titolo": "Microsoft 365 cambia su Mac: Mail può avere problemi con gli account aziendali",
-      "descrizione": "Microsoft ha avviato la disattivazione progressiva di Exchange Web Services",
-      "link": "https://www.hdblog.it/apple/articoli/n672451/microsoft-365-mail-mac-sincronizzare/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T12:20:00+00:00"
-    },
-    {
-      "titolo": "Amazon Says It's No Longer Using NDAs for Data Centers",
-      "descrizione": "The company announced it has stopped using secret agreements with county officials and acknowledges community backlash is leading to data center moratoriums across the country.",
+      "titolo": "Amazon Says It’s No Longer Using NDAs for Data Centers",
+      "descrizione": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
       "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
       "fonte": "WIRED",
       "data": "2026-10-02T11:47:58+00:00"
-    },
-    {
-      "titolo": "Attenzione al falso ChatGPT \"Plus 5.6\", è una truffa che installa malware",
-      "descrizione": "Un custom GPT sul sito ufficiale del servizio induceva gli utenti a lanciare comandi PowerShell che installavano virus.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n672446/truffa-chatgpt-malware-trojan-plus-5-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:45:00+00:00"
-    },
-    {
-      "titolo": "Micron now has an 88% margin on consumer memory as price hikes drive profits",
-      "descrizione": "Micron's consumer business is its most profitable by margin according to the company's fiscal Q4 2026 financial report, despite shipping less memory in the quarter.",
-      "link": "https://www.tomshardware.com/pc-components/dram/micron-now-has-an-88-percent-margin-on-consumer-memory-price-hikes-drive-revenue-client-business-is-microns-only-unit-that-shipped-less-memory-this-quarter",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T11:40:00+00:00"
-    },
-    {
-      "titolo": "Festa delle offerte Prime: Roborock taglia i prezzi dei robot per la pulizia fino a 550 €",
-      "descrizione": "Roborock alla Festa delle offerte Prime: Saros 20 Set, Qrevo e F25 Steam in offerta su Amazon fino al 7 ottobre, con sconti e codici promozionali",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n671983/festa-delle-offerte-prime-roborock-taglia-i-prezzi-dei-robot-per-la-pulizia-fino-a-550-/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:31:00+00:00"
-    },
-    {
-      "titolo": "Suno non crea più solo canzoni: con Speech l’AI racconta storie",
-      "descrizione": "Suno presenta Speech, un nuovo modello di intelligenza artificiale capace di generare contemporaneamente voce parlata e musica, trasformando testi e idee in un’unica traccia audio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672444/suno-racconti-ai-musica-speech/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:20:00+00:00"
-    },
-    {
-      "titolo": "James Webb analizza i dischi di detriti delle collisioni planetarie",
-      "descrizione": "Webb studia 21 sistemi giovani e ricostruisce la violenta nascita dei pianeti rocciosi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672379/james-webb-collisioni-pianeti-formazione-luna/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:10:00+00:00"
-    },
-    {
-      "titolo": "Che emozioni trasmette la Ferrari 12Cilindri Manuale? Il test al limite di Hamilton e Leclerc",
-      "descrizione": "Con un filmato spettacolare la Casa modenese ha mostrato la reazione alla guida dei piloti ufficiali della Scuderia Ferrari, Leclerc e Hamilton.",
-      "link": "https://www.hdmotori.it/ferrari-12cilindri-manuale-test-al-limite-hamilton-leclerc/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:00:17+00:00"
-    },
-    {
-      "titolo": "Sir Robotics, asse tra Italia e Cina anche per gestire i carichi dell’ecommerce",
-      "descrizione": "I cinesi sanno costruire umanoidi che corrono, ballano e fanno tai chi. Come farli lavorare in una fabbrica europea, invece, lo chiedono a Modena. La Sir, integratore fondato nel 1984...",
-      "link": "https://www.ilsole24ore.com/art/sir-robotics-asse-italia-e-cina-anche-gestire-carichi-dell-ecommerce-AJstffWB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-02T10:47:00+00:00"
-    },
-    {
-      "titolo": "Amazon prova a ricucire con i no-data-center investendo 1 miliardo di dollari",
-      "descrizione": "Amazon non intende rallentare la costruzione di data center negli Stati Uniti e annuncia Built Together: oltre 1 miliardo di dollari per sostenere le comunità che ospitano le infrastrutture AWS",
-      "link": "https://www.hdblog.it/business/articoli/n672441/amazon-investimenti-data-center-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T10:45:00+00:00"
-    },
-    {
-      "titolo": "Nuova Hyundai Tucson, il SUV cresce in tutto: più spazio, tecnologia e motori fino a 292 CV",
-      "descrizione": "Nuova Hyundai Tucson cresce nelle dimensioni e nello spazio, cambia design e abitacolo e offre motori benzina e ibridi fino a 292 CV",
-      "link": "https://www.hdmotori.it/nuova-hyundai-tucson-dimensioni-motori/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T10:30:08+00:00"
-    },
-    {
-      "titolo": "Grok avrebbe incoraggiato Trump alla cattura di Maduro",
-      "descrizione": "Trump avrebbe consultato Grok prima dell’operazione che portò alla cattura di Maduro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672375/trump-grok-venezuela-maduro/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T10:25:00+00:00"
-    },
-    {
-      "titolo": "Google migliora la protezione avanzata di Android",
-      "descrizione": "Google ha annunciato miglioramenti per Advanced Protection (alcune solo su Android 17), le funzionalità che offrono una maggiore sicurezza agli utenti. The post Google migliora la protezione avanzata di Android appeared",
-      "link": "https://www.punto-informatico.it/google-migliora-protezione-avanzata-android/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T10:24:21+00:00"
-    },
-    {
-      "titolo": "Dati sanitari anonimi? Non proprio: maxi multa a IQVIA dal Garante privacy",
-      "descrizione": "Nel database di IQVIA erano presenti diagnosi, prescrizioni, esami e altre informazioni sanitarie. Per il Garante, la quantità di dati poteva consentire la potenziale reidentificazione dei pazienti",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n672437/iqvia-sanzione-dati-medici-sanitari-personali/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T10:15:00+00:00"
-    },
-    {
-      "titolo": "Ford torna nel Mondiale Rally, l’impatto sulla gamma stradale europea",
-      "descrizione": "In un mare di notizie poco felici per gli amanti del WRC, a sorpresa è stato annunciato il rilancio del programma rallystico di Ford.",
-      "link": "https://www.hdmotori.it/ford-torna-mondiale-rally/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T10:00:57+00:00"
-    },
-    {
-      "titolo": "California bill requiring 3D printers to block firearm printing becomes law",
-      "descrizione": "California will require 3D printer manufacturers to include firearm blocking technology once ASTM International publishes a standard for it. However, the California DOJ is only mandated to check for one until July 1, 202",
-      "link": "https://www.tomshardware.com/3d-printing/california-bill-requiring-3d-printers-to-block-firearm-printing-becomes-law-rule-to-require-manufacturers-to-include-blocking-technology-once-an-industry-standard-is-published",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T10:00:00+00:00"
-    },
-    {
-      "titolo": "E se potessi parlare con i personaggi dei libri? Audible annuncia tre novità",
-      "descrizione": "Audible presenta Character Guide, Interactive Story e Visual Explorer, tre nuove funzioni che sfruttano anche l’intelligenza artificiale per rendere gli audiolibri più interattivi e facili da seguire",
-      "link": "https://www.hdblog.it/amazon/articoli/n672429/audible-nuove-funzioni-interattive-quali-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T09:55:00+00:00"
-    },
-    {
-      "titolo": "Trump impone il nome Super Intelligence: boom di domini .si",
-      "descrizione": "L'ordine esecutivo di Trump sull'intelligenza artificiale ha prodotto un effetto curioso sul web: boom di richieste per i domini sloveni. The post Trump impone il nome Super Intelligence: boom di domini .si appeared firs",
-      "link": "https://www.punto-informatico.it/super-intelligence-boom-domini-si/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T09:52:21+00:00"
-    },
-    {
-      "titolo": "Gruppi, privacy e intelligenza artificiale: come cambia WhatsApp per teenager e genitori",
-      "descrizione": "Dagli avvisi quando i figli interagiscono con i gruppi e un’opzione “Contenuti limitati” per l’AI, WhatsApp punta alla protezione degli adolescenti ma senza invadere la loro privacy",
-      "link": "https://www.ilsole24ore.com/art/gruppi-privacy-e-intelligenza-artificiale-come-cambia-whatsapp-teenager-e-genitori-AJUHKWVB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-02T09:41:09+00:00"
-    },
-    {
-      "titolo": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
-      "descrizione": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
-      "fonte": "WIRED",
-      "data": "2026-10-02T09:30:00+00:00"
-    },
-    {
-      "titolo": "Crisi della RAM fino al 2028 e prezzi più alti per i clienti",
-      "descrizione": "Il CEO di Micron ha dichiarato che l'attuale crisi della RAM continuerà almeno fino al 2028 e i prezzi per i clienti saranno ancora più alti. The post Crisi della RAM fino al 2028 e prezzi più alti per i clienti appeared",
-      "link": "https://www.punto-informatico.it/crisi-ram-fino-2028-prezzi-piu-alti-clienti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T08:38:24+00:00"
-    },
-    {
-      "titolo": "WhatsApp, arrivano le chat con limitazioni: come funzionano",
-      "descrizione": "Le nuove restricted chat di WhatsApp impediscono l'esportazione delle conversazioni e il salvataggio automatico dei contenuti multimediali. The post WhatsApp, arrivano le chat con limitazioni: come funzionano appeared fi",
-      "link": "https://www.punto-informatico.it/whatsapp-chat-con-limitazioni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T08:37:59+00:00"
-    },
-    {
-      "titolo": "Tutte le novità di ottobre 2026 su Apple TV",
-      "descrizione": "Apple TV ha imbastito un mese di ottobre 2026 davvero interessante, con tantissime novità in arrivo per tutti gli abbonati alla piattaforma. The post Tutte le novità di ottobre 2026 su Apple TV appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/tutte-le-novita-di-ottobre-2026-su-apple-tv/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T08:05:53+00:00"
     }
   ]
 }

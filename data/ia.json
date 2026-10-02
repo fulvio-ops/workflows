@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-02T12:40:44.171235+00:00",
+  "last_updated": "2026-10-02T22:16:49.642876+00:00",
   "items": [
     {
-      "titolo": "Attenzione al falso ChatGPT \"Plus 5.6\", è una truffa che installa malware",
-      "descrizione": "Un custom GPT sul sito ufficiale del servizio induceva gli utenti a lanciare comandi PowerShell che installavano virus.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n672446/truffa-chatgpt-malware-trojan-plus-5-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T11:45:00+00:00",
+      "titolo": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
+      "descrizione": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
+      "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-02T18:18:57+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini legge le scritte piccole grazie a Guided Vision, cos’è",
-      "descrizione": "Guided Vision porta su Gemini Live le descrizioni audio in tempo reale. Legge testi piccoli, riconosce oggetti e risponde alle domande. The post Gemini legge le scritte piccole grazie a Guided Vision, cos’è appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-legge-scritte-piccole-guided-vision-cose/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T07:32:55+00:00",
+      "titolo": "Google cambia strategia: pagherà gli editori chi alimentano le sue risposte AI",
+      "descrizione": "Google testa compensi agli editori per i contenuti utilizzati da Gemini e dalla ricerca AI",
+      "link": "https://www.hdblog.it/google/articoli/n672274/google-paga-editori-contenuti-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-02T16:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
-      "descrizione": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-01T10:30:00+00:00",
+      "titolo": "9 comandi con la barra per farsi capire al volo da ChatGPT",
+      "descrizione": "Nove scorciatoie che funzionano con ChatGPT, Gemini e Claude per ottenere risposte più concise, più critiche, più strutturate o più umane. The post 9 comandi con la barra per farsi capire al volo da ChatGPT appeared firs",
+      "link": "https://www.punto-informatico.it/9-comandi-barra-per-farsi-capire-al-volo-da-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-02T15:30:44+00:00",
       "modello": "claude"
     },
     {
