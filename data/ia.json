@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-03T05:22:13.732543+00:00",
+  "last_updated": "2026-10-03T11:43:06.362723+00:00",
   "items": [
     {
-      "titolo": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
-      "descrizione": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
-      "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-02T18:18:57+00:00",
+      "titolo": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
+      "descrizione": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-03T11:15:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google cambia strategia: pagherà gli editori chi alimentano le sue risposte AI",
-      "descrizione": "Google testa compensi agli editori per i contenuti utilizzati da Gemini e dalla ricerca AI",
-      "link": "https://www.hdblog.it/google/articoli/n672274/google-paga-editori-contenuti-ai/",
+      "titolo": "Gemini su Android Auto ha un nuovo problema: smette di rispondere",
+      "descrizione": "Gemini su Android Auto ha un nuovo problema: smette di rispondere",
+      "link": "https://www.hdblog.it/google/articoli/n672507/gemini-android-auto-problema-risposte/",
       "fonte": "HDblog.it",
-      "data": "2026-10-02T16:55:00+00:00",
+      "data": "2026-10-03T07:40:00+00:00",
       "modello": "gemini"
     },
     {

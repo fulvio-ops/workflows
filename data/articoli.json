@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-10-03T05:22:09.404938+00:00",
+  "last_updated": "2026-10-03T11:43:02.932406+00:00",
   "items": [
+    {
+      "titolo": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
+      "descrizione": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-03T11:15:00+00:00"
+    },
+    {
+      "titolo": "Se i data center fossero immersi nella natura, sarebbero più accettabili?",
+      "descrizione": "Alberi, giardini e habitat locali per rendere i data center meno invasivi.",
+      "link": "https://www.hdblog.it/mercato/articoli/n672505/microsoft-data-center-biomimetica-natura/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T10:55:00+00:00"
+    },
+    {
+      "titolo": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
+      "descrizione": "A user from the Chinese Chiphell forums shows off AMD's unreleased Ryzen 9 5900X3D, the X3D variant of the Ryzen 9 5900X.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-03T10:30:00+00:00"
+    },
+    {
+      "titolo": "Meta vuole mettere la sua AI dentro qualsiasi gadget abbiate in casa",
+      "descrizione": "Muse Gadgets permette di integrare l’AI di Meta in dispositivi e progetti hardware.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672506/meta-muse-gadgets-hardware-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T10:25:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy pieno? Così puoi recuperare diversi GB in pochi minuti",
+      "descrizione": "Come liberare spazio su un Samsung Galaxy usando principalmente gli strumenti già presenti in One UI.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672418/liberare-spazio-samsung-galaxy-come-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T09:55:00+00:00"
+    },
+    {
+      "titolo": "Affitti brevi, nella primavera 2026 sono cresciute le prenotazioni online",
+      "descrizione": "In particolare verso la Spagna; ma due città italiane non sono state da meno",
+      "link": "https://www.hdblog.it/mercato/articoli/n672453/affitti-brevi-primavera-2026-prenotazioni-online/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T09:20:00+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo porta Luna Rossa al Salone Nautico: quattro modelli speciali in mostra",
+      "descrizione": "Alfa Romeo è Official Car del Salone Nautico di Genova 2026 e porta la gamma Luna Rossa, compresa la Giulia Quadrifoglio prodotta in 10 esemplari",
+      "link": "https://www.hdmotori.it/alfa-romeo-luna-rossa-salone-nautico/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T08:00:11+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A57 in offerta su Amazon: prezzo scontato, 3 anni di garanzia e acquisto in 5 rate",
+      "descrizione": "Il Samsung Galaxy A57 è in offerta su Amazon ed è ora disponibile in sconto, con 3 anni di garanzia e possibilità di acquisto a rate.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n672512/samsung-galaxy-a57-offerta-amazon-ott26/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T07:30:00+00:00"
+    },
+    {
+      "titolo": "Le auto più vendute in Italia a settembre 2026",
+      "descrizione": "Come sempre Pandina guida la classifica mensile delle auto più vendute, davanti alla Jeep Avenger. La vera sorpresa è la Peugeot 3008, che balza in terza posizione. Ecco la classifica...",
+      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-settembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T06:30:18+00:00"
+    },
     {
       "titolo": "3 prodotti Dyson ricondizionati da acquistare adesso su eBay",
       "descrizione": "Solo su eBay, attraverso la vetrina dello store ufficiale del produttore, trovi 3 prodotti Dyson ricondizionati da acquistare adesso. The post 3 prodotti Dyson ricondizionati da acquistare adesso su eBay appeared first o",
@@ -30,32 +93,11 @@
       "data": "2026-10-02T16:55:00+00:00"
     },
     {
-      "titolo": "L'emulatore di PS3 per Android ora risparmia un sacco di spazio di storage",
-      "descrizione": "Il supporto al formato CHD promette immagini disco anche dimezzate rispetto alle tradizionali ISO.",
-      "link": "https://www.hdblog.it/android/articoli/n672484/ps3-emulatore-armsx3-supporto-file-chd-spazio-iso/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T16:15:00+00:00"
-    },
-    {
       "titolo": "Shopify Canvas: come creare un negozio online parlando con l’AI",
       "descrizione": "Shopify lancia Canvas, lo strumento che permette di costruire il proprio negozio online chattando con l'AI Sidekick. The post Shopify Canvas: come creare un negozio online parlando con l’AI appeared first on Punto Inform",
       "link": "https://www.punto-informatico.it/shopify-canvas-come-creare-negozio-online-parlando-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-10-02T16:13:00+00:00"
-    },
-    {
-      "titolo": "Paramount cambia guida: Ynon Kreiz sarà co-CEO con David Ellison",
-      "descrizione": "Ynon Kreiz affiancherà David Ellison alla guida della nuova Paramount dopo la fusione con Warner.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n672371/paramount-ynon-kreiz-nuovo-co-ceo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T16:05:00+00:00"
-    },
-    {
-      "titolo": "BMW cambia marcia con la X3 M50 xDrive, la nuova M Performance sale a 443 cavalli",
-      "descrizione": "Con un design ancor più seducente, la nuova BMW X3 M50 xDrive vanta ancora più potenza grazie a un sei cilindri in linea erogante ora 326 kW",
-      "link": "https://www.hdmotori.it/bmw-x3-m50-xdrive-m-performance/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T16:00:08+00:00"
     },
     {
       "titolo": "Come riconoscere un testo scritto dall’AI, lo studio di Graphite",
@@ -65,13 +107,6 @@
       "data": "2026-10-02T15:35:43+00:00"
     },
     {
-      "titolo": "Samsung, prezzi aumentati in Italia anche per gli smartphone della serie Galaxy A",
-      "descrizione": "Il nuovo listino.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n672475/samsung-galaxy-aumento-prezzi-listino-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T15:35:00+00:00"
-    },
-    {
       "titolo": "9 comandi con la barra per farsi capire al volo da ChatGPT",
       "descrizione": "Nove scorciatoie che funzionano con ChatGPT, Gemini e Claude per ottenere risposte più concise, più critiche, più strutturate o più umane. The post 9 comandi con la barra per farsi capire al volo da ChatGPT appeared firs",
       "link": "https://www.punto-informatico.it/9-comandi-barra-per-farsi-capire-al-volo-da-chatgpt/",
@@ -79,39 +114,11 @@
       "data": "2026-10-02T15:30:44+00:00"
     },
     {
-      "titolo": "MINI Countryman SE, c'è una nuova serie speciale: trazione integrale e 458 km di autonomia",
-      "descrizione": "MINI presenta la Countryman SE Midnight Edition, nuova serie speciale elettrica con trazione integrale, ricca dotazione e autonomia fino a 458 km",
-      "link": "https://www.hdmotori.it/mini-countryman-se-midnight-edition/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T15:00:35+00:00"
-    },
-    {
-      "titolo": "Home Assistant, il piano \"Cloud\" cambia nome in \"Link\" per protesta",
-      "descrizione": "A livello funzionale non cambia niente, ma le Big Tech hanno rovinato il concetto di cloud, dicono i fondatori, e quindi meglio dissociarsi.",
-      "link": "https://www.hdblog.it/domotica/articoli/n672474/home-assistant-cloud-link-piano-abbonamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T14:55:00+00:00"
-    },
-    {
       "titolo": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
       "descrizione": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to co",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-02T14:53:41+00:00"
-    },
-    {
-      "titolo": "ADAS: auto sempre più intelligenti, manutenzione sempre più tecnologica",
-      "descrizione": "Manutenzione, calibrazione, diagnosi e controlli periodici diventano sempre più centrali per garantire l’efficienza dei sistemi di assistenza alla guida. È il tema al centro...",
-      "link": "https://www.hdmotori.it/ada-auto-sempre-piu-intelligenti-manutenzione-sempre-piu-tecnologica/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T14:30:17+00:00"
-    },
-    {
-      "titolo": "La crisi dei chip colpisce anche NVIDIA: aumento cospicuo per SHIELD TV Pro",
-      "descrizione": "Da 220 euro si passa a 300... A patto di trovarla.",
-      "link": "https://www.hdblog.it/tv/articoli/n672471/nvidia-shield-tv-pro-aumento-prezzi-crisi-chip/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T14:25:00+00:00"
     },
     {
       "titolo": "Unicredit down il 2 ottobre: tutti gli aggiornamenti (risolto)",
@@ -126,13 +133,6 @@
       "link": "https://www.punto-informatico.it/suno-speech-ai-creare-le-voci-fuori-campo/",
       "fonte": "Punto Informatico",
       "data": "2026-10-02T14:09:22+00:00"
-    },
-    {
-      "titolo": "BMW F 450 R: la naked da 48 CV che punta al vertice delle A2",
-      "descrizione": "Debutta la nuova BMW F 450 R: la naked da 48 CV pensata per la patente A2. Motore bicilindrico, tanta coppia ai bassi e tecnologia da categoria superiore.",
-      "link": "https://www.hdmotori.it/bmw-f-450-r-naked-patente-a2/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T14:00:27+00:00"
     },
     {
       "titolo": "Umanoidi, ingorghi e triscaidecafobie: cinque serie tv da non perdere",
