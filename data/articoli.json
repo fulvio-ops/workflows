@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-10-03T11:43:02.932406+00:00",
+  "last_updated": "2026-10-03T16:20:16.433267+00:00",
   "items": [
+    {
+      "titolo": "Ex dipendente di OpenAI: «L’IA? Va trattata come una centrale nucleare»",
+      "descrizione": "«Quello che sto per raccontarvi è diventato, me ne rendo conto, quasi un cliché: questa settimana mi sono dimesso da OpenAI . Ho guidato la stesura dei rapporti sulla sicurezza che...",
+      "link": "https://www.ilsole24ore.com/art/l-ex-dipendente-openai-l-ia-va-trattata-come-centrale-nucleare-AJH8s3XB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-03T15:19:00+00:00"
+    },
+    {
+      "titolo": "Sport, benessere, GPS e chiamate: Xiaomi Redmi Watch 6 Lite è in offerta",
+      "descrizione": "Lo Xiaomi Redmi Watch 6 Lite possiede tutte le funzioni che desideri, ha una batteria enorme, è resistente all'acqua e ora è in offerta. The post Sport, benessere, GPS e chiamate: Xiaomi Redmi Watch 6 Lite è in offerta a",
+      "link": "https://www.punto-informatico.it/sport-benessere-gps-chiamate-xiaomi-redmi-watch-6-lite-offerta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-03T13:17:35+00:00"
+    },
+    {
+      "titolo": "Agenti AI pericolosi: Apple cambia l’accesso al disco",
+      "descrizione": "In seguito all'accesso non autorizzato all'app Messaggi su macOS da parte di Meta Muse, Apple ha comunicato che introdurrà maggiori controlli. The post Agenti AI pericolosi: Apple cambia l’accesso al disco appeared first",
+      "link": "https://www.punto-informatico.it/agenti-ai-pericolosi-apple-cambia-accesso-disco/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-03T13:14:21+00:00"
+    },
+    {
+      "titolo": "In assoluto il migliore medio gamma a questo prezzo: Samsung Galaxy A57 5G",
+      "descrizione": "Se parliamo di smartphone medio gamma allora il Samsung Galaxy A57 5G da 256 GB ha un rapporto qualità prezzo imbattibile. The post In assoluto il migliore medio gamma a questo prezzo: Samsung Galaxy A57 5G appeared firs",
+      "link": "https://www.punto-informatico.it/in-assoluto-migliore-medio-gamma-questo-prezzo-samsung-galaxy-a57-5g/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-03T12:57:49+00:00"
+    },
     {
       "titolo": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
       "descrizione": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet",
@@ -140,34 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/umanoidi-ingorghi-e-triscaidecafobie-cinque-serie-tv-non-perdere-AJZ9EQWB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-10-02T13:57:37+00:00"
-    },
-    {
-      "titolo": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
-      "descrizione": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is othe",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T13:00:00+00:00"
-    },
-    {
-      "titolo": "La corsa che la nostra nazione non può permettersi di perdere",
-      "descrizione": "Amazon considera l'opposizione ai data center un rischio per la leadership degli Stati Uniti nel settore dell'intelligenza artificiale. The post La corsa che la nostra nazione non può permettersi di perdere appeared firs",
-      "link": "https://www.punto-informatico.it/la-corsa-che-la-nostra-nazione-non-puo-permettersi-di-perdere/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T12:48:37+00:00"
-    },
-    {
-      "titolo": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
-      "descrizione": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T12:40:00+00:00"
-    },
-    {
-      "titolo": "Amazon Says It’s No Longer Using NDAs for Data Centers",
-      "descrizione": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
-      "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
-      "fonte": "WIRED",
-      "data": "2026-10-02T11:47:58+00:00"
     }
   ]
 }
