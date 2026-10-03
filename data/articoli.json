@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-03T16:20:16.433267+00:00",
+  "last_updated": "2026-10-03T21:20:30.910767+00:00",
   "items": [
+    {
+      "titolo": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "descrizione": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "fonte": "WIRED",
+      "data": "2026-10-03T18:00:00+00:00"
+    },
+    {
+      "titolo": "Huawei Watch Fit 4 Pro in offerta su Amazon: è lo smartwatch da prendere oggi",
+      "descrizione": "Il Huawei Watch Fit 4 Pro è in offerta e si conferma la scelta gusta per un nuovo smartwatch da affianca",
+      "link": "https://www.hdblog.it/indossabili/offerte/n672524/huawei-watch-fit-4-pro-offerta-amazon-ottobre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T17:00:00+00:00"
+    },
+    {
+      "titolo": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
+      "descrizione": "The Shield TV Pro remains one of Nvidia’s longest-running consumer devices, but its $299.99 price tag now makes the streaming box considerably more expensive than when it launched.",
+      "link": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-03T16:59:51+00:00"
+    },
+    {
+      "titolo": "Redmi Note 17 Pro (12/256 GB) in sconto su Amazon: un battery phone per la fascia media",
+      "descrizione": "Lo Xiaomi Redmi Note 17 Pro 5G è in offerta su Amazon con la versione 12/256 GB: è il battery phone da scegliere.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n672523/xiaomi-redmi-note-17-pro-offerta-amazon-ott26/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T16:40:00+00:00"
+    },
+    {
+      "titolo": "Wi-Fi 7 in tutta la casa con l'extender FRITZ!: sconto del 38% per i clienti Prime",
+      "descrizione": "I clienti Prime possono risparmiare il 38% sull'acquisto dell'extender Wi-Fi 7 di FRITZ!.",
+      "link": "https://www.hdblog.it/hardware/offerte/n672521/extender-wi-fi-7-fritz-offerta-prime-anticipata/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-03T16:21:00+00:00"
+    },
     {
       "titolo": "Ex dipendente di OpenAI: «L’IA? Va trattata come una centrale nucleare»",
       "descrizione": "«Quello che sto per raccontarvi è diventato, me ne rendo conto, quasi un cliché: questa settimana mi sono dimesso da OpenAI . Ho guidato la stesura dei rapporti sulla sicurezza che...",
@@ -100,25 +135,11 @@
       "data": "2026-10-03T05:00:51+00:00"
     },
     {
-      "titolo": "Crisi dei chip, capitola anche Google Pixel 10a: 100€ in più in Italia",
-      "descrizione": "Da 549-649€ si passa a 649-749€. Proprio come è successo nel passaggio tra Pixel 10 e Pixel 11.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n672498/google-pixel-10a-aumenti-prezzo-listino/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T17:50:00+00:00"
-    },
-    {
       "titolo": "Caso Revolut: Piantedosi evidenzia la negligenza della fintech",
       "descrizione": "Il Ministro dell'Interno ha evidenziato la negligenza di Revolut, in quanto ha inviato i dati dei clienti tramite PEC senza prima verificare la fonte. The post Caso Revolut: Piantedosi evidenzia la negligenza della finte",
       "link": "https://www.punto-informatico.it/caso-revolut-piantedosi-evidenzia-negligenza-fintech/",
       "fonte": "Punto Informatico",
       "data": "2026-10-02T16:57:53+00:00"
-    },
-    {
-      "titolo": "Google cambia strategia: pagherà gli editori chi alimentano le sue risposte AI",
-      "descrizione": "Google testa compensi agli editori per i contenuti utilizzati da Gemini e dalla ricerca AI",
-      "link": "https://www.hdblog.it/google/articoli/n672274/google-paga-editori-contenuti-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-02T16:55:00+00:00"
     },
     {
       "titolo": "Shopify Canvas: come creare un negozio online parlando con l’AI",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-02T14:53:41+00:00"
-    },
-    {
-      "titolo": "Unicredit down il 2 ottobre: tutti gli aggiornamenti (risolto)",
-      "descrizione": "Ci sono centinaia di segnalazioni su malfunzionamenti dei servizi online di Unicredit: seguiamo la vicenda con gli aggiornamenti del caso. The post Unicredit down il 2 ottobre: tutti gli aggiornamenti (risolto) appeared",
-      "link": "https://www.punto-informatico.it/unicredit-down-02102026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T14:23:03+00:00"
-    },
-    {
-      "titolo": "Suno Speech è l’AI giusta per creare le voci fuori campo",
-      "descrizione": "Il nuovo modello Speech di Suno combina voce parlata e musica in un'unica traccia coerente: come funziona e quali opzioni offre agli utenti. The post Suno Speech è l’AI giusta per creare le voci fuori campo appeared firs",
-      "link": "https://www.punto-informatico.it/suno-speech-ai-creare-le-voci-fuori-campo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T14:09:22+00:00"
-    },
-    {
-      "titolo": "Umanoidi, ingorghi e triscaidecafobie: cinque serie tv da non perdere",
-      "descrizione": "Sfogliando nell’offerta globale di streaming, satellite e digitale terrestre, ecco una selezione dei titoli da non farsi scappare",
-      "link": "https://www.ilsole24ore.com/art/umanoidi-ingorghi-e-triscaidecafobie-cinque-serie-tv-non-perdere-AJZ9EQWB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-02T13:57:37+00:00"
     }
   ]
 }
