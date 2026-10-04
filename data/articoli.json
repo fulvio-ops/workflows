@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-04T05:58:15.517872+00:00",
+  "last_updated": "2026-10-04T12:25:44.336019+00:00",
   "items": [
+    {
+      "titolo": "Google introduce nuovi limiti per l’uso gratuito di Gemini",
+      "descrizione": "Gli utenti senza abbonamento potranno usare solo Gemini 3.5 Flash-Lite, mentre quelli con il piano AI Plus non potranno più accedere ai modelli Pro. The post Google introduce nuovi limiti per l’uso gratuito di Gemini app",
+      "link": "https://www.punto-informatico.it/google-introduce-nuovi-limiti-uso-gratuito-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-04T10:25:51+00:00"
+    },
+    {
+      "titolo": "Google Maps su CarPlay, le impostazioni per usarlo al meglio",
+      "descrizione": "Come sfruttare la piattaforma Google sul sistema di infotainment.",
+      "link": "https://www.hdblog.it/apple/articoli/n672447/google-maps-predefinito-su-carplay/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T09:55:00+00:00"
+    },
+    {
+      "titolo": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+      "descrizione": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+      "link": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "fonte": "WIRED",
+      "data": "2026-10-04T09:00:00+00:00"
+    },
+    {
+      "titolo": "Pokémon Mania: per i Millenial non è solo collezionismo",
+      "descrizione": "Dalle bustine agli asset alternativi: il mercato delle carte Pokémon supera i confini del collezionismo puro, come spiega il CEO di Collecto",
+      "link": "https://www.ilsole24ore.com/art/pokemon-mania-i-millenial-non-e-solo-collezionismo-AJiSxIRB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-04T08:11:52+00:00"
+    },
+    {
+      "titolo": "Come trasformare un MacBook inutilizzato in un NAS domestico",
+      "descrizione": "L’unità può essere utilizzata per archiviazione e backup.",
+      "link": "https://www.hdblog.it/portatili/articoli/n672361/macbook-inutilizzato-nas-domestico-passaggi/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T07:55:00+00:00"
+    },
+    {
+      "titolo": "Benzina dall'aria? Il sistema di questa startup ne produce 3,8 litri al giorno",
+      "descrizione": "Una startup newyorkese ha presentato un dispositivo in grado di trasformare anidride carbonica e acqua in carburante sintetico per i motori tradizionali.",
+      "link": "https://www.hdmotori.it/benzina-aria-startup/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T07:30:54+00:00"
+    },
+    {
+      "titolo": "Trump cambia AI in SI e la Slovenia si ritrova con un tesoro digitale",
+      "descrizione": "L’ordine di Trump sulla Super Intelligence scatena la corsa ai domini sloveni .si",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672528/trump-super-intelligence-domini-si-slovenia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T06:55:00+00:00"
+    },
+    {
+      "titolo": "Price cap carburanti in oltre 10.000 distributori, Urso: «Un esempio in Europa»",
+      "descrizione": "Oltre la metà della rete carburanti italiana aderisce al calmiere dei prezzi dei carburanti. Per il ministro Adolfo Urso il risultato dell’iniziativa è superiore alle aspettative.",
+      "link": "https://www.hdmotori.it/price-cap-carburantie-10000-distributori-urso/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T06:30:40+00:00"
+    },
     {
       "titolo": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "descrizione": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
@@ -38,7 +94,7 @@
     },
     {
       "titolo": "Ex dipendente di OpenAI: «L’IA? Va trattata come una centrale nucleare»",
-      "descrizione": "«Quello che sto per raccontarvi è diventato, me ne rendo conto, quasi un cliché: questa settimana mi sono dimesso da OpenAI . Ho guidato la stesura dei rapporti sulla sicurezza che...",
+      "descrizione": "La denuncia (e la proposta) di un responsabile alla sicurezza dell’intelligenza artificiale, dopo aver consegnato le dimissioni a Sam Altman",
       "link": "https://www.ilsole24ore.com/art/l-ex-dipendente-openai-l-ia-va-trattata-come-centrale-nucleare-AJH8s3XB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-10-03T15:19:00+00:00"
@@ -112,62 +168,6 @@
       "link": "https://www.hdmotori.it/alfa-romeo-luna-rossa-salone-nautico/",
       "fonte": "HDblog.it",
       "data": "2026-10-03T08:00:11+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A57 in offerta su Amazon: prezzo scontato, 3 anni di garanzia e acquisto in 5 rate",
-      "descrizione": "Il Samsung Galaxy A57 è in offerta su Amazon ed è ora disponibile in sconto, con 3 anni di garanzia e possibilità di acquisto a rate.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n672512/samsung-galaxy-a57-offerta-amazon-ott26/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T07:30:00+00:00"
-    },
-    {
-      "titolo": "Le auto più vendute in Italia a settembre 2026",
-      "descrizione": "Come sempre Pandina guida la classifica mensile delle auto più vendute, davanti alla Jeep Avenger. La vera sorpresa è la Peugeot 3008, che balza in terza posizione. Ecco la classifica...",
-      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-settembre-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T06:30:18+00:00"
-    },
-    {
-      "titolo": "3 prodotti Dyson ricondizionati da acquistare adesso su eBay",
-      "descrizione": "Solo su eBay, attraverso la vetrina dello store ufficiale del produttore, trovi 3 prodotti Dyson ricondizionati da acquistare adesso. The post 3 prodotti Dyson ricondizionati da acquistare adesso su eBay appeared first o",
-      "link": "https://www.punto-informatico.it/3-prodotti-dyson-ricondizionati-da-acquistare-adesso-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-03T05:00:51+00:00"
-    },
-    {
-      "titolo": "Caso Revolut: Piantedosi evidenzia la negligenza della fintech",
-      "descrizione": "Il Ministro dell'Interno ha evidenziato la negligenza di Revolut, in quanto ha inviato i dati dei clienti tramite PEC senza prima verificare la fonte. The post Caso Revolut: Piantedosi evidenzia la negligenza della finte",
-      "link": "https://www.punto-informatico.it/caso-revolut-piantedosi-evidenzia-negligenza-fintech/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T16:57:53+00:00"
-    },
-    {
-      "titolo": "Shopify Canvas: come creare un negozio online parlando con l’AI",
-      "descrizione": "Shopify lancia Canvas, lo strumento che permette di costruire il proprio negozio online chattando con l'AI Sidekick. The post Shopify Canvas: come creare un negozio online parlando con l’AI appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/shopify-canvas-come-creare-negozio-online-parlando-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T16:13:00+00:00"
-    },
-    {
-      "titolo": "Come riconoscere un testo scritto dall’AI, lo studio di Graphite",
-      "descrizione": "Uno studio di Graphite ha individuato 13.000 tic linguistici dell'intelligenza artificiale. Ecco come riconoscere i testi generati. The post Come riconoscere un testo scritto dall’AI, lo studio di Graphite appeared first",
-      "link": "https://www.punto-informatico.it/come-riconoscere-testo-scritto-ai-studio-graphite/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T15:35:43+00:00"
-    },
-    {
-      "titolo": "9 comandi con la barra per farsi capire al volo da ChatGPT",
-      "descrizione": "Nove scorciatoie che funzionano con ChatGPT, Gemini e Claude per ottenere risposte più concise, più critiche, più strutturate o più umane. The post 9 comandi con la barra per farsi capire al volo da ChatGPT appeared firs",
-      "link": "https://www.punto-informatico.it/9-comandi-barra-per-farsi-capire-al-volo-da-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T15:30:44+00:00"
-    },
-    {
-      "titolo": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
-      "descrizione": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to co",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T14:53:41+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T05:58:18.887748+00:00",
+  "last_updated": "2026-10-04T12:25:48.747511+00:00",
   "items": [
     {
-      "titolo": "Ex dipendente di OpenAI: «L’IA? Va trattata come una centrale nucleare»",
-      "descrizione": "«Quello che sto per raccontarvi è diventato, me ne rendo conto, quasi un cliché: questa settimana mi sono dimesso da OpenAI . Ho guidato la stesura dei rapporti sulla sicurezza che...",
-      "link": "https://www.ilsole24ore.com/art/l-ex-dipendente-openai-l-ia-va-trattata-come-centrale-nucleare-AJH8s3XB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-03T15:19:00+00:00",
+      "titolo": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
+      "descrizione": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T10:50:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini su Android Auto ha un nuovo problema: smette di rispondere",
-      "descrizione": "Gemini su Android Auto ha un nuovo problema: smette di rispondere",
-      "link": "https://www.hdblog.it/google/articoli/n672507/gemini-android-auto-problema-risposte/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T07:40:00+00:00",
+      "titolo": "Google introduce nuovi limiti per l’uso gratuito di Gemini",
+      "descrizione": "Gli utenti senza abbonamento potranno usare solo Gemini 3.5 Flash-Lite, mentre quelli con il piano AI Plus non potranno più accedere ai modelli Pro. The post Google introduce nuovi limiti per l’uso gratuito di Gemini app",
+      "link": "https://www.punto-informatico.it/google-introduce-nuovi-limiti-uso-gratuito-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-04T10:25:51+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "9 comandi con la barra per farsi capire al volo da ChatGPT",
-      "descrizione": "Nove scorciatoie che funzionano con ChatGPT, Gemini e Claude per ottenere risposte più concise, più critiche, più strutturate o più umane. The post 9 comandi con la barra per farsi capire al volo da ChatGPT appeared firs",
-      "link": "https://www.punto-informatico.it/9-comandi-barra-per-farsi-capire-al-volo-da-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-02T15:30:44+00:00",
+      "titolo": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
+      "descrizione": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T10:50:00+00:00",
       "modello": "claude"
     },
     {
