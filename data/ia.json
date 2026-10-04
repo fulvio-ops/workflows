@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T12:25:48.747511+00:00",
+  "last_updated": "2026-10-04T21:31:05.158250+00:00",
   "items": [
     {
-      "titolo": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
-      "descrizione": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+      "titolo": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+      "descrizione": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn’t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-04T10:50:00+00:00",
+      "data": "2026-10-04T13:08:46+00:00",
       "modello": "chatgpt"
     },
     {

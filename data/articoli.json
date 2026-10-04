@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-10-04T12:25:44.336019+00:00",
+  "last_updated": "2026-10-04T21:31:00.256665+00:00",
   "items": [
+    {
+      "titolo": "Le relazioni non sono una perdita di tempo: rendono possibile la performance",
+      "descrizione": "«Oggi le organizzazioni tendono a considerare erroneamente le relazioni come soft stuff, ossia qualcosa di avulso dalla performance e legato al mero piacere che viene dopo il vero lavoro. La...",
+      "link": "https://www.ilsole24ore.com/art/le-relazioni-non-sono-perdita-tempo-rendono-possibile-performance-AJlsIIRB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-04T18:28:45+00:00"
+    },
+    {
+      "titolo": "L’IA è comoda da indossare, ma la moneta di scambio è la privacy",
+      "descrizione": "Occhiali, spille, anelli e altri piccoli dispositivi indossabili portano l’AI nei gesti quotidiani. È tutto molto più comodo, ma come si fa con chi non vuole esser ripreso o studiato?",
+      "link": "https://www.ilsole24ore.com/art/l-ia-e-comoda-indossare-ma-moneta-scambio-e-privacy-AJ5d4YSB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-04T16:26:29+00:00"
+    },
+    {
+      "titolo": "Pixel 10a, Google aumenta il prezzo ma Amazon lo taglia: la versione da 256 GB è in sconto",
+      "descrizione": "Il Google Pixel 10a è in offerta su Amazon, nonostante il recente incremento del prezzo di listino del mid-range.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n672538/google-pixel-10a-offerta-amazon-ottobre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T16:15:00+00:00"
+    },
+    {
+      "titolo": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order",
+      "descrizione": "The California State Athletic Commission intervened when it saw a human facing off with a humanoid robot inside the fighting ring.",
+      "link": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T14:36:25+00:00"
+    },
+    {
+      "titolo": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
+      "descrizione": "Retro techie retrofits Nvidia Windows XP 32-bit drivers with Pascal card support and improved DisplayPort and HDMI support for contemporary displays",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T14:25:00+00:00"
+    },
+    {
+      "titolo": "Meta rilascia il codice per progettare gadget con Muse",
+      "descrizione": "Muse Gadgets permette di progettare dispositivi con l'agente AI, utilizzando schede ESP32 o Raspberry Pi e il codice open source presente su GitHub. The post Meta rilascia il codice per progettare gadget con Muse appeare",
+      "link": "https://www.punto-informatico.it/meta-rilascia-codice-progettare-gadget-muse/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-04T13:47:08+00:00"
+    },
+    {
+      "titolo": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+      "descrizione": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn’t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T13:08:46+00:00"
+    },
+    {
+      "titolo": "Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement",
+      "descrizione": "An Iranian-Turkish man has been extradited from Montenegro to the U.S. over his alleged role in a hacking campaign that targeted hundreds of universities, companies, and government agencies and stole more than 31 TB of a",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-04T12:55:00+00:00"
+    },
+    {
+      "titolo": "La metà degli smartphone più venduti a settembre sono iPhone | VIDEO",
+      "descrizione": "Abbiamo analizzato gli smartphone più acquistati a Settembre 2026 da chi ci legge: il 50% sono iPhone di generazioni passate.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n672395/la-meta-degli-smartphone-piu-venduti-di-settembre-sono-iphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T12:30:00+00:00"
+    },
     {
       "titolo": "Google introduce nuovi limiti per l’uso gratuito di Gemini",
       "descrizione": "Gli utenti senza abbonamento potranno usare solo Gemini 3.5 Flash-Lite, mentre quelli con il piano AI Plus non potranno più accedere ai modelli Pro. The post Google introduce nuovi limiti per l’uso gratuito di Gemini app",
@@ -14,6 +77,13 @@
       "link": "https://www.hdblog.it/apple/articoli/n672447/google-maps-predefinito-su-carplay/",
       "fonte": "HDblog.it",
       "data": "2026-10-04T09:55:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17T Pro al minimo su Amazon: a 649€ è un flagship killer",
+      "descrizione": "Lo Xiaomi 17T Pro è in offerta su Amazon e tocca oggi il suo prezzo minimo storico sullo store.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n672337/xiaomi-17t-pro-offerta-amazon-ottobre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-04T09:40:00+00:00"
     },
     {
       "titolo": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
@@ -98,76 +168,6 @@
       "link": "https://www.ilsole24ore.com/art/l-ex-dipendente-openai-l-ia-va-trattata-come-centrale-nucleare-AJH8s3XB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-10-03T15:19:00+00:00"
-    },
-    {
-      "titolo": "Sport, benessere, GPS e chiamate: Xiaomi Redmi Watch 6 Lite è in offerta",
-      "descrizione": "Lo Xiaomi Redmi Watch 6 Lite possiede tutte le funzioni che desideri, ha una batteria enorme, è resistente all'acqua e ora è in offerta. The post Sport, benessere, GPS e chiamate: Xiaomi Redmi Watch 6 Lite è in offerta a",
-      "link": "https://www.punto-informatico.it/sport-benessere-gps-chiamate-xiaomi-redmi-watch-6-lite-offerta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-03T13:17:35+00:00"
-    },
-    {
-      "titolo": "Agenti AI pericolosi: Apple cambia l’accesso al disco",
-      "descrizione": "In seguito all'accesso non autorizzato all'app Messaggi su macOS da parte di Meta Muse, Apple ha comunicato che introdurrà maggiori controlli. The post Agenti AI pericolosi: Apple cambia l’accesso al disco appeared first",
-      "link": "https://www.punto-informatico.it/agenti-ai-pericolosi-apple-cambia-accesso-disco/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-03T13:14:21+00:00"
-    },
-    {
-      "titolo": "In assoluto il migliore medio gamma a questo prezzo: Samsung Galaxy A57 5G",
-      "descrizione": "Se parliamo di smartphone medio gamma allora il Samsung Galaxy A57 5G da 256 GB ha un rapporto qualità prezzo imbattibile. The post In assoluto il migliore medio gamma a questo prezzo: Samsung Galaxy A57 5G appeared firs",
-      "link": "https://www.punto-informatico.it/in-assoluto-migliore-medio-gamma-questo-prezzo-samsung-galaxy-a57-5g/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-03T12:57:49+00:00"
-    },
-    {
-      "titolo": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
-      "descrizione": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "Se i data center fossero immersi nella natura, sarebbero più accettabili?",
-      "descrizione": "Alberi, giardini e habitat locali per rendere i data center meno invasivi.",
-      "link": "https://www.hdblog.it/mercato/articoli/n672505/microsoft-data-center-biomimetica-natura/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T10:55:00+00:00"
-    },
-    {
-      "titolo": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
-      "descrizione": "A user from the Chinese Chiphell forums shows off AMD's unreleased Ryzen 9 5900X3D, the X3D variant of the Ryzen 9 5900X.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-03T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta vuole mettere la sua AI dentro qualsiasi gadget abbiate in casa",
-      "descrizione": "Muse Gadgets permette di integrare l’AI di Meta in dispositivi e progetti hardware.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672506/meta-muse-gadgets-hardware-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T10:25:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy pieno? Così puoi recuperare diversi GB in pochi minuti",
-      "descrizione": "Come liberare spazio su un Samsung Galaxy usando principalmente gli strumenti già presenti in One UI.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n672418/liberare-spazio-samsung-galaxy-come-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T09:55:00+00:00"
-    },
-    {
-      "titolo": "Affitti brevi, nella primavera 2026 sono cresciute le prenotazioni online",
-      "descrizione": "In particolare verso la Spagna; ma due città italiane non sono state da meno",
-      "link": "https://www.hdblog.it/mercato/articoli/n672453/affitti-brevi-primavera-2026-prenotazioni-online/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T09:20:00+00:00"
-    },
-    {
-      "titolo": "Alfa Romeo porta Luna Rossa al Salone Nautico: quattro modelli speciali in mostra",
-      "descrizione": "Alfa Romeo è Official Car del Salone Nautico di Genova 2026 e porta la gamma Luna Rossa, compresa la Giulia Quadrifoglio prodotta in 10 esemplari",
-      "link": "https://www.hdmotori.it/alfa-romeo-luna-rossa-salone-nautico/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-03T08:00:11+00:00"
     }
   ]
 }
