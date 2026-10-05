@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-05T05:46:10.020355+00:00",
+  "last_updated": "2026-10-05T14:46:07.476420+00:00",
   "items": [
     {
-      "titolo": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
-      "descrizione": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn’t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+      "titolo": "Former OpenAI safety employee says company’s safety culture is broken",
+      "descrizione": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-04T13:08:46+00:00",
+      "data": "2026-10-05T11:50:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,28 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google introduce nuovi limiti per l’uso gratuito di Gemini",
-      "descrizione": "Gli utenti senza abbonamento potranno usare solo Gemini 3.5 Flash-Lite, mentre quelli con il piano AI Plus non potranno più accedere ai modelli Pro. The post Google introduce nuovi limiti per l’uso gratuito di Gemini app",
-      "link": "https://www.punto-informatico.it/google-introduce-nuovi-limiti-uso-gratuito-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-04T10:25:51+00:00",
+      "titolo": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+      "descrizione": "Google’s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-05T12:15:37+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
-      "descrizione": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-04T10:50:00+00:00",
+      "titolo": "How I made a paid Mac app in 11 days with Caude – without writing a single line of code",
+      "descrizione": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
+      "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-05T12:03:03+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "PewDiePie unveils ‘uncensored’ Ajax AI model for home PCs",
-      "descrizione": "PewDiePie says OpenAI banned him twice while he made Ajax, a fine-tuned Qwen3.5-9B agent.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-02T10:30:00+00:00",
-      "modello": "altri"
     }
   ]
 }
