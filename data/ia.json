@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-06T06:25:32.592983+00:00",
+  "last_updated": "2026-10-06T18:25:20.990536+00:00",
   "items": [
     {
-      "titolo": "L’Europa cambia ChatGPT: i testi AI saranno riconoscibili",
-      "descrizione": "ChatGPT inserirà nei testi europei un watermark invisibile rilevabile da sistemi dedicati.",
-      "link": "https://www.hdblog.it/mercato/articoli/n672708/openai-watermark-invisibile-chatgpt-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-06T05:35:00+00:00",
+      "titolo": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "descrizione": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "fonte": "WIRED",
+      "data": "2026-10-06T17:28:33+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,28 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
-      "descrizione": "Google’s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-05T12:15:37+00:00",
+      "titolo": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+      "descrizione": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+      "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-06T18:00:57+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
-      "descrizione": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-      "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-05T12:03:03+00:00",
+      "titolo": "Usava Claude come diario segreto, l’AI la denuncia alla polizia",
+      "descrizione": "Claude ha segnalato alla polizia le minacce di una donna che progettava una sparatoria. Anthropic ha attivato i suoi sistemi di sicurezza. The post Usava Claude come diario segreto, l’AI la denuncia alla polizia appeared",
+      "link": "https://www.punto-informatico.it/usava-claude-diario-segreto-ai-denuncia-polizia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-06T16:33:23+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "descrizione": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "fonte": "WIRED",
+      "data": "2026-10-06T13:15:23+00:00",
+      "modello": "altri"
     }
   ]
 }
