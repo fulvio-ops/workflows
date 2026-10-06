@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-05T14:46:07.476420+00:00",
+  "last_updated": "2026-10-06T00:05:29.483947+00:00",
   "items": [
     {
-      "titolo": "Former OpenAI safety employee says company’s safety culture is broken",
-      "descrizione": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-05T11:50:00+00:00",
+      "titolo": "ChatGPT mostrerà la pubblicità quando genera le immagini",
+      "descrizione": "OpenAI avvierà i test (solo negli Stati Uniti) per un nuovo formato di pubblicità mostrato durante la generazione delle immagini con ChatGPT. The post ChatGPT mostrerà la pubblicità quando genera le immagini appeared fir",
+      "link": "https://www.punto-informatico.it/chatgpt-pubblicita-generazione-immagini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-05T16:02:58+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,7 +26,7 @@
       "modello": "gemini"
     },
     {
-      "titolo": "How I made a paid Mac app in 11 days with Caude – without writing a single line of code",
+      "titolo": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
       "descrizione": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
       "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
       "fonte": "news – ZDNET",
