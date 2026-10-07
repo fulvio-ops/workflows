@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-07T13:29:18.555585+00:00",
+  "last_updated": "2026-10-07T23:07:31.806168+00:00",
   "items": [
     {
-      "titolo": "ChatGPT accetta i file audio: come funziona",
-      "descrizione": "ChatGPT ora permette di caricare file audio per trascriverli, riassumerli e analizzarne il contenuto. Quali sono i limiti. The post ChatGPT accetta i file audio: come funziona appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatgpt-accetta-file-audio-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-07T13:20:37+00:00",
+      "titolo": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "descrizione": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "fonte": "WIRED",
+      "data": "2026-10-07T18:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
-      "descrizione": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
-      "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-06T18:00:57+00:00",
+      "titolo": "Gemini diventa a pagamento, 7 chatbot gratuiti da provare",
+      "descrizione": "Google riduce i modelli disponibili per gli utenti gratuiti di Gemini, lasciando solo la versione più leggera. Ecco 7 alternative gratis. The post Gemini diventa a pagamento, 7 chatbot gratuiti da provare appeared first",
+      "link": "https://www.punto-informatico.it/gemini-pagamento-7-chatbot-gratuiti-da-provare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-07T15:30:59+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
-      "descrizione": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-      "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-05T12:03:03+00:00",
+      "titolo": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "descrizione": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "fonte": "WIRED",
+      "data": "2026-10-07T18:45:00+00:00",
       "modello": "claude"
     },
     {
