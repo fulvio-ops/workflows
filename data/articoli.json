@@ -1,8 +1,43 @@
 {
-  "last_updated": "2026-10-07T23:07:28.145868+00:00",
+  "last_updated": "2026-10-08T06:09:35.425093+00:00",
   "items": [
     {
-      "titolo": "Pre-orders are live on Nvidia RTX Spark devices — secure the Surface Laptop Ultra or other RTX Spark laptop, starting at $2,599",
+      "titolo": "Cybersecurity, imprese più preparate ma ancora fragili nella gestione delle crisi",
+      "descrizione": "Il report EY Cyber Barometer 2025, su oltre 300 società italiane, rileva difese più strutturate e un divario ridotto tra PMI e grandi aziende. Solo il 6,7% raggiunge però il livello massimo nella formalizzazione dei pian",
+      "link": "https://www.ilsole24ore.com/art/cybersecurity-imprese-piu-preparate-ma-ancora-fragili-gestione-crisi-AJ9NgXZB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-08T06:08:00+00:00"
+    },
+    {
+      "titolo": "Gli astronauti rischiano la scossa sulla Luna: la NASA cerca il nostro aiuto",
+      "descrizione": "NASA cerca un sistema per scaricare in sicurezza le tute degli astronauti sulla Luna.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672859/nasa-scariche-elettriche-astronauti-luna/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-08T06:05:00+00:00"
+    },
+    {
+      "titolo": "Anthropic lancia Claude Haiku 5.5: prezzi, novità e benchmark",
+      "descrizione": "Claude Haiku 5.5 supera GPT-6 Luna in diversi test, ma consuma molti più token.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673009/claude-haiku-5-5-token-costi-prestazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-08T05:55:00+00:00"
+    },
+    {
+      "titolo": "GPT-6 con Intelligent UI arriva in ChatGPT: tutte le novità",
+      "descrizione": "GPT-6 porta su ChatGPT risposte interattive, grafici, strumenti personalizzati e maggiore velocità.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673006/chatgpt-gpt-6-intelligent-ui-risposte-interattive/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-08T05:35:00+00:00"
+    },
+    {
+      "titolo": "La prova di iPhone 18 Pro Max: evoluzione di sostanza",
+      "descrizione": "Apple sta ampliando la propria offerta di iPhone per diverse tipologie di consumatori e sotto la guida di John Ternus dovremo abituarci, stando alle indiscrezioni, a una accelerata nel rilascio...",
+      "link": "https://www.ilsole24ore.com/art/la-prova-iphone-18-pro-max-evoluzione-sostanza-AJ3LDJbB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-08T04:45:01+00:00"
+    },
+    {
+      "titolo": "Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599",
       "descrizione": "Pre-orders are live on Nvidia RTX Spark laptops, including the Microsoft Surface Laptop Ultra and devices from HP, Lenovo, Asus, and Dell.",
       "link": "https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models",
       "fonte": "Latest from Tom's Hardware",
@@ -133,41 +168,6 @@
       "link": "https://www.hdblog.it/amazon/articoli/n672977/amazon-ring-nuove-videocamere-4k-retinal/",
       "fonte": "HDblog.it",
       "data": "2026-10-07T16:55:00+00:00"
-    },
-    {
-      "titolo": "YFQ-48A Talon Blue vola da solo: nasce un nuovo caccia autonomo",
-      "descrizione": "Il Talon Blue completa il primo volo autonomo e punta ai futuri combattimenti aerei.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672891/northrop-yfq-48a-talon-blue-caccia-autonomo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-07T16:50:00+00:00"
-    },
-    {
-      "titolo": "Instagram pensa alla modalità stalker: guardi tutto senza lasciare tracce",
-      "descrizione": "Instagram studia una modalità read-only per navigare senza like, commenti o messaggi.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n672866/instagram-modalita-read-only-plus/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-07T16:35:00+00:00"
-    },
-    {
-      "titolo": "Batterie, il Made in EU un autogol a favore della Cina? L'ACEA chiede più tempo",
-      "descrizione": "L’associazione dei costruttori europei sollecita una proroga delle tempistiche per i requisiti dell'Industrial Accelerator Act, avvertendo sui rischi di rincari e ritardi lungo la filiera.",
-      "link": "https://www.hdmotori.it/batterie-made-in-eu-autogol-acea/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-07T16:30:10+00:00"
-    },
-    {
-      "titolo": "Claude arriva in Google Docs, Sheets e Slides nella barra laterale (in beta)",
-      "descrizione": "Anthropic lancia in beta Claude for Google Workspace, un'estensione che aggiunge una barra laterale di Claude a Documenti, Fogli e Presentazioni Google. Disponibile per i piani Pro, Max, Team ed...",
-      "link": "https://www.hdblog.it/google/articoli/n672962/claude-google-docs-sheets-slides-barra-laterale/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-07T16:25:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT for Teens è un rischio inaccettabile per i minori",
-      "descrizione": "Secondo Common Sense Media, ChatGPT for Teens rappresenta un rischio inaccettabile per i minori perché molte protezioni non funzionano come promesso. The post ChatGPT for Teens è un rischio inaccettabile per i minori app",
-      "link": "https://www.punto-informatico.it/chatgpt-for-teens-rischio-inaccettabile-minori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-07T16:16:32+00:00"
     }
   ]
 }
