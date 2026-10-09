@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-09T06:13:24.222005+00:00",
+  "last_updated": "2026-10-09T13:23:32.095690+00:00",
   "items": [
     {
-      "titolo": "OpenAI sceglie la trasparenza e condivide oltre 700 paper di matematica",
-      "descrizione": "Online un repository GitHub sul quale pubblicare tutti i risultati che i propri modelli ottengono nell’ambito della risoluzione di problemi matematici.",
-      "link": "https://www.ilsole24ore.com/art/openai-sceglie-trasparenza-e-condivide-oltre-700-paper-matematica-AJdbyIeB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-09T05:41:08+00:00",
+      "titolo": "OpenAI nega ritorsioni verso i tre ricercatori critici sulla sicurezza dell’AI",
+      "descrizione": "I licenziamenti di tre ricercatori sulla sicurezza AI aprono nuove tensioni in OpenAI. Al centro della controversia ci sono informazioni riservate, libertà di esprimere dubbi e monitoraggio dei...",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673207/openai-motivo-licenziamento-ricercatori-sicurezza-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T11:25:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11: agenti e Copilot con intelligenza ibrida",
-      "descrizione": "Hybrid Intelligence in Windows 11, che permette di unire esecuzione locale e cloud, verrà sfruttata dagli agenti AI e dalla nuova versione di Copilot. The post Windows 11: agenti e Copilot con intelligenza ibrida appeare",
-      "link": "https://www.punto-informatico.it/windows-11-agenti-copilot-intelligenza-ibrida/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-08T09:39:42+00:00",
+      "titolo": "Microsoft 365 lascerà condividere Copilot tra i familiari",
+      "descrizione": "Novità per Microsoft 365 Family: Copilot diventerà accessibile a tutti i membri, mentre lo spazio OneDrive passerà da quote individuali a 2 TB complessivi per l'intero gruppo familiare",
+      "link": "https://www.hdblog.it/microsoft/articoli/n673211/microsoft-365-family-premium-copilot-condiviso/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T13:15:00+00:00",
       "modello": "copilot"
     },
     {
@@ -26,19 +26,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Solo developer rebuilds Adobe Creative Suite in Rust using Claude, releases it free to all",
-      "descrizione": "Multiple Adobe creative tools were recreated using Claude and made open-source by one person.",
-      "link": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-08T10:00:00+00:00",
+      "titolo": "Anthropic OSS Scanner cerca i bug nel codice open source",
+      "descrizione": "OSS Scanner è un tool gratuito di Anthropic che cerca vulnerabilità nel codice sorgente dei progetti open source e suggerisce eventuali patch. The post Anthropic OSS Scanner cerca i bug nel codice open source appeared fi",
+      "link": "https://www.punto-informatico.it/anthropic-oss-scanner-cerca-bug-codice-open-source/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T08:49:47+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Mistral Large 4, che cosa offre il gigante europeo dell’intelligenza artificiale?",
-      "descrizione": "Il modello francese da mille miliardi di parametri promette prestazioni competitive nel software, nella finanza e nella cybersicurezza.",
-      "link": "https://www.ilsole24ore.com/art/mistral-large-4-che-cosa-offre-gigante-europeo-dell-intelligenza-artificiale-AJrdtmbB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-07T07:33:00+00:00",
+      "titolo": "Mistral’s new Large 4 trails some Chinese open models in independent tests",
+      "descrizione": "Artificial Analysis scores Mistral’s new Large 4 at 38, behind open models from Xiaomi, Z.ai, Moonshot, and DeepSeek.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-09T11:00:00+00:00",
       "modello": "altri"
     }
   ]
