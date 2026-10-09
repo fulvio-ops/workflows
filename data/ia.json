@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-09T13:23:32.095690+00:00",
+  "last_updated": "2026-10-09T22:41:14.282853+00:00",
   "items": [
     {
-      "titolo": "OpenAI nega ritorsioni verso i tre ricercatori critici sulla sicurezza dell’AI",
-      "descrizione": "I licenziamenti di tre ricercatori sulla sicurezza AI aprono nuove tensioni in OpenAI. Al centro della controversia ci sono informazioni riservate, libertà di esprimere dubbi e monitoraggio dei...",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n673207/openai-motivo-licenziamento-ricercatori-sicurezza-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:25:00+00:00",
+      "titolo": "OpenAI pubblica oltre 700 paper matematici su GitHub con formalizzazioni Lean",
+      "descrizione": "Online un repository GitHub sul quale pubblicare tutti i risultati che i propri modelli ottengono nell’ambito della risoluzione di problemi matematici.",
+      "link": "https://www.ilsole24ore.com/art/openai-sceglie-trasparenza-e-condivide-oltre-700-paper-matematica-AJdbyIeB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-09T05:41:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft 365 lascerà condividere Copilot tra i familiari",
-      "descrizione": "Novità per Microsoft 365 Family: Copilot diventerà accessibile a tutti i membri, mentre lo spazio OneDrive passerà da quote individuali a 2 TB complessivi per l'intero gruppo familiare",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673211/microsoft-365-family-premium-copilot-condiviso/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T13:15:00+00:00",
+      "titolo": "Microsoft 365 Family/Premium: Copilot per tutti, ma solo 2 TB",
+      "descrizione": "Le funzionalità AI di Copilot possono essere condivise con Microsoft 365 Family e Premium, ma lo spazio di storage su OneDrive è diminuito da 6 a 2 TB. The post Microsoft 365 Family/Premium: Copilot per tutti, ma solo 2",
+      "link": "https://www.punto-informatico.it/microsoft-365-family-premium-copilot-tutti-solo-2-tb/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T13:42:24+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
-      "descrizione": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
-      "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-06T18:00:57+00:00",
+      "titolo": "Gemini Agent di Google: l’AI autonoma con email e agenda",
+      "descrizione": "Google lancia Gemini Agent, un'intelligenza artificiale con Gmail, Drive e agenda propria, capace di lavorare in autonomia. The post Gemini Agent di Google: l’AI autonoma con email e agenda appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/gemini-agent-google-ai-autonoma-email-agenda/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T16:15:14+00:00",
       "modello": "gemini"
     },
     {

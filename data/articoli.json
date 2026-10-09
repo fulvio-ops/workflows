@@ -1,12 +1,152 @@
 {
-  "last_updated": "2026-10-09T13:23:28.111075+00:00",
+  "last_updated": "2026-10-09T22:41:10.362879+00:00",
   "items": [
     {
-      "titolo": "Microsoft 365 lascerà condividere Copilot tra i familiari",
-      "descrizione": "Novità per Microsoft 365 Family: Copilot diventerà accessibile a tutti i membri, mentre lo spazio OneDrive passerà da quote individuali a 2 TB complessivi per l'intero gruppo familiare",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673211/microsoft-365-family-premium-copilot-condiviso/",
+      "titolo": "Ecco come potrebbe essere Apple HomePod: primi render \"concept\"",
+      "descrizione": "Sono immagini basate esclusivamente sulle indiscrezioni, nulla di ufficiale. Quanto ci sarà andato vicino il leaker?",
+      "link": "https://www.hdblog.it/apple/articoli/n673268/apple-homepad-hub-smart-home-render-concept/",
       "fonte": "HDblog.it",
-      "data": "2026-10-09T13:15:00+00:00"
+      "data": "2026-10-09T18:05:00+00:00"
+    },
+    {
+      "titolo": "Reattore nucleare sulla Luna entro il 2030: accordo NASA-DoE",
+      "descrizione": "La NASA e il Dipartimento dell'Energia hanno sottoscritto un accordo per lo sviluppo di tecnologie nucleari che serviranno per un reattore sulla Luna. The post Reattore nucleare sulla Luna entro il 2030: accordo NASA-DoE",
+      "link": "https://www.punto-informatico.it/reattore-nucleare-luna-entro-2030-accordo-nasa-doe/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T17:31:37+00:00"
+    },
+    {
+      "titolo": "Fiat Scudo MY27, il furgone cambia strategia: diesel fino a 180 CV ed elettrico",
+      "descrizione": "Fiat Scudo MY27 è ordinabile in Italia con motori diesel ed elettrici, tre livelli di equipaggiamento e nuove possibilità di personalizzazione",
+      "link": "https://www.hdmotori.it/fiat-scudo-my27-ordini-motori/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T17:30:18+00:00"
+    },
+    {
+      "titolo": "Bitdefender lancia AI Guardian, un \"supervisore\" per gli agenti AI",
+      "descrizione": "L'applicazione esamina ogni azione che vogliono compiere gli agenti e valuta se è sicura, sospetta o del tutto pericolosa.",
+      "link": "https://www.hdblog.it/apple/articoli/n673260/bitdefender-ai-guardian-protezione-agenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T17:15:00+00:00"
+    },
+    {
+      "titolo": "Il mistero della Williams scomparsa nel nulla, sottratta un'iconica monoposto di F1",
+      "descrizione": "La Williams avrebbe citato in giudizio Peter Thorpe, ex amministratore delegato di Autotech Performance, per oltre un milione di sterline.",
+      "link": "https://www.hdmotori.it/mistero-williams-f1-scomparsa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T17:00:47+00:00"
+    },
+    {
+      "titolo": "Nuove scuole per piloti droni e AI: la guerra robotica è centrale in Cina",
+      "descrizione": "La Cina apre nuove accademie militari per formare esperti di droni, robotica e intelligenza artificiale.",
+      "link": "https://www.hdblog.it/droni/articoli/n673143/cina-esercito-droni-intelligenza-artificiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T16:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova Lancia Gamma 2026: tanto tuonò che piovve! - Video",
+      "descrizione": "Con l'arrivo e la prova di Lancia Gamma si è aperto un nuovo filone per la firma italiana, che torna alla ribalta in un segmento affollato",
+      "link": "https://www.hdmotori.it/prove/nuova-lancia-gamma-2026-tanto-tuono-che-piovve-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T16:30:48+00:00"
+    },
+    {
+      "titolo": "The Witcher 3 Remastered, ora ci siamo: patch 5.01 migliora radicalmente la qualità",
+      "descrizione": "Sistemato in tempo record il contrasto, i colori sbiaditi e l'effetto bloom troppo invasivo (soprattutto su console).",
+      "link": "https://www.hdblog.it/windows/articoli/n673252/the-witcher-3-remastered-patch-novita-grafica/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T16:25:00+00:00"
+    },
+    {
+      "titolo": "Windows 11, widget per monitorare la batteria di tutti i dispositivi",
+      "descrizione": "Microsoft testa su Windows 11 il widget Battery Status, un unico hub per controllare la carica di PC, mouse, cuffie e accessori wireless. The post Windows 11, widget per monitorare la batteria di tutti i dispositivi appe",
+      "link": "https://www.punto-informatico.it/windows-11-widget-monitorare-batteria-tutti-dispositivi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T16:22:24+00:00"
+    },
+    {
+      "titolo": "Gemini Agent di Google: l’AI autonoma con email e agenda",
+      "descrizione": "Google lancia Gemini Agent, un'intelligenza artificiale con Gmail, Drive e agenda propria, capace di lavorare in autonomia. The post Gemini Agent di Google: l’AI autonoma con email e agenda appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/gemini-agent-google-ai-autonoma-email-agenda/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T16:15:14+00:00"
+    },
+    {
+      "titolo": "Volkswagen si arrende all’ennesimo richiamo, problemi per diversi modelli",
+      "descrizione": "Il Gruppo Volkswagen sta correndo ai ripari per un’avaria che sta colpendo svariati modelli, tra cui uno nuovissimo",
+      "link": "https://www.hdmotori.it/volkswagen-richiamo-problemi-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T16:00:11+00:00"
+    },
+    {
+      "titolo": "365 metri d'altezza: è in Europa la turbina eolica più alta del mondo",
+      "descrizione": "Più vento per una maggiore produzione di energia.",
+      "link": "https://www.hdblog.it/green/articoli/n673226/turbina-eolica-record-alta-mondo-365-metri/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T15:40:00+00:00"
+    },
+    {
+      "titolo": "Meta blocca le inserzioni di TikTok in sette paesi",
+      "descrizione": "Meta ha bloccato tutte le inserzioni di TikTok sulle sue piattaforme in sette paesi, come risposta ad un simile ban effettuato dall'azienda cinese. The post Meta blocca le inserzioni di TikTok in sette paesi appeared fir",
+      "link": "https://www.punto-informatico.it/meta-blocca-inserzioni-tiktok-sette-paesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T15:37:21+00:00"
+    },
+    {
+      "titolo": "Meta blocca le pubblicità di TikTok su Facebook e Instagram per evitare l'esodo",
+      "descrizione": "Meta blocca le pubblicità di TikTok su Facebook e Instagram, in sette Paesi: l'obiettivo dichiarato è evitare l'esodo degli utenti.",
+      "link": "https://www.hdblog.it/social/articoli/n673228/meta-blocca-pubblicita-tiktok-facebook-instagram/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T15:35:00+00:00"
+    },
+    {
+      "titolo": "7 Skill di Gemini per non riscrivere lo stesso prompt",
+      "descrizione": "Le competenze di Gemini trasformano i prompt ripetitivi in comandi facili da richiamare con una barra e un nome. Sette da creare subito. The post 7 Skill di Gemini per non riscrivere lo stesso prompt appeared first on Pu",
+      "link": "https://www.punto-informatico.it/7-skill-gemini-non-riscrivere-stesso-prompt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T15:30:58+00:00"
+    },
+    {
+      "titolo": "Amazon Leo festeggia il millesimo satellite costruito e promette velocità super",
+      "descrizione": "Rispetto a StarLink promette fino a 3x in download e addirittura 10x in upload.",
+      "link": "https://www.hdblog.it/amazon/articoli/n673241/amazon-leo-millesimo-satellite-velocita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T15:05:00+00:00"
+    },
+    {
+      "titolo": "Mazda BT-50, confermata la nuova generazione: addio al diesel?",
+      "descrizione": "Mazda conferma la nuova generazione del pick-up BT-50. Incertezza sulla piattaforma: si rinnova la partnership con Isuzu o spunta l'ipotesi cinese con Changan?",
+      "link": "https://www.hdmotori.it/mazda-bt-50-nuova-generazione-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "titolo": "Oakley Meta HSTN in doppia offerta: gli smart glasses con Meta AI partono da 299€",
+      "descrizione": "Due Oakley Meta HSTN raggiungono il prezzo più basso in 90 giorni: 299€ per la versione con lenti Clear e 362,49€ per quella con Prizm Black Polarized.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n673233/oakley-meta-hstn-clear-prizm-polarized-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T14:55:00+00:00"
+    },
+    {
+      "titolo": "Perché non possiamo offendere l’intelligenza artificiale?",
+      "descrizione": "C'è una differenza non da poco: insultare e offendere l'AI dev'essere considerato illegittimo oppure un comportamento da maleducati. The post Perché non possiamo offendere l’intelligenza artificiale? appeared first on Pu",
+      "link": "https://www.punto-informatico.it/offendere-intelligenza-artificiale/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T14:50:02+00:00"
+    },
+    {
+      "titolo": "NVIDIA Halos: cos'ha in serbo Jensen Huang per la robotica?",
+      "descrizione": "NVIDIA porta Halos nei robot umanoidi per renderli più sicuri quando lavorano accanto alle persone.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n673141/nvidia-halos-robot-umanoidi-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-09T14:35:00+00:00"
+    },
+    {
+      "titolo": "Pony Island gratis su Steam per poco tempo: come riscattarlo",
+      "descrizione": "Per celebrare il via al playtest del seguito, Daniel Mullins ha deciso di regalare il primo Pony Island su Steam: un download obbligatorio. The post Pony Island gratis su Steam per poco tempo: come riscattarlo appeared f",
+      "link": "https://www.punto-informatico.it/pony-island-gratis-steam/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-09T13:24:49+00:00"
     },
     {
       "titolo": "Satispay lancia la carta di debito a canone zero: costi e condizioni",
@@ -16,20 +156,6 @@
       "data": "2026-10-09T13:03:57+00:00"
     },
     {
-      "titolo": "L'AI aumenta le aspettative nelle aziende, ma il carico di lavoro non diminuisce",
-      "descrizione": "I dati arrivano dal Factorial Business Facts Index 2026",
-      "link": "https://www.hdblog.it/business/articoli/n673156/ai-aumenta-aspettative-aziende-carico-lavoro/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T13:01:00+00:00"
-    },
-    {
-      "titolo": "Stellantis, Mirafiori festeggia un milione di cambi eDCT prodotti in due anni",
-      "descrizione": "Traguardo storico per il polo torinese di Stellantis: a due anni dall'avvio parte la svolta ibrida con un milione di trasmissioni eDCT pronte per la linea",
-      "link": "https://www.hdmotori.it/mirafiori-stellantis-milione-cambi-edct/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T13:00:53+00:00"
-    },
-    {
       "titolo": "Kids+ di Amazon in Italia dal 19 ottobre: prezzi e contenuti",
       "descrizione": "Amazon porta Kids+ in Italia (19 ottobre) con un catalogo di contenuti per bambini e strumenti per gestire il tempo davanti allo schermo. The post Kids+ di Amazon in Italia dal 19 ottobre: prezzi e contenuti appeared fir",
       "link": "https://www.punto-informatico.it/kids-plus-amazon-italia-19-ottobre-prezzi-contenuti/",
@@ -37,137 +163,11 @@
       "data": "2026-10-09T12:35:12+00:00"
     },
     {
-      "titolo": "Epic Games anticipa i prossimi giochi gratis: una spia e un topo da incubo",
-      "descrizione": "Sarà possibile riscattarli dal 15 al 22 ottobre.",
-      "link": "https://www.hdblog.it/games/articoli/n673209/epic-games-store-giochi-gratis-agent-a-bad-cheese/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T12:35:00+00:00"
-    },
-    {
-      "titolo": "Cloudflare vince in Francia: il DNS 1.1.1.1 resta fuori dai blocchi antipirateria",
-      "descrizione": "Il Tribunale di Parigi ha respinto la richiesta di Canal+",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n673212/cloudflare-vince-francia-niente-multe/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T12:15:00+00:00"
-    },
-    {
-      "titolo": "Il riscatto di FIAT in Europa, passa da Grande Panda e 500: numeri in crescita",
-      "descrizione": "Nonostante gli italiani preferiscano ancora la vecchia Panda, la nuova FIAT Grande Panda e la 500 stanno macinando ottimi numeri",
-      "link": "https://www.hdmotori.it/fiat-europa-numeri-crescita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T12:00:38+00:00"
-    },
-    {
-      "titolo": "iOS 27, Apple Casa cambia: arrivano nuove funzioni AI per videocamere e notifiche",
-      "descrizione": "Con iOS 27, Apple ha introdotto alcune novità anche nell'app Casa",
-      "link": "https://www.hdblog.it/apple/articoli/n673210/ios-27-app-casa-cambia-nuove-funzioni-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:45:00+00:00"
-    },
-    {
-      "titolo": "Altro che e-waste, un Galaxy S23 danneggiato rinasce come miniPC gaming",
-      "descrizione": "Non è ancora giunto il tempo per la discarica!",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673208/samsung-galaxy-s23-guasto-modding-minipc-gaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:35:00+00:00"
-    },
-    {
-      "titolo": "OpenAI nega ritorsioni verso i tre ricercatori critici sulla sicurezza dell’AI",
-      "descrizione": "I licenziamenti di tre ricercatori sulla sicurezza AI aprono nuove tensioni in OpenAI. Al centro della controversia ci sono informazioni riservate, libertà di esprimere dubbi e monitoraggio dei...",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n673207/openai-motivo-licenziamento-ricercatori-sicurezza-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:25:00+00:00"
-    },
-    {
-      "titolo": "Un satellite che anticipa gli attacchi aerei? Il progetto dell'italiana Argotec con Rheinmetall",
-      "descrizione": "Un satellite sviluppato con l'italiana Argotec punta a individuare in anticipo le minacce aeree.",
-      "link": "https://www.hdblog.it/mercato/articoli/n673144/rheinmetall-argotec-satellite-difesa-aerea/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:10:00+00:00"
-    },
-    {
-      "titolo": "Renault 4 E-Tech si aggiorna: arrivano le versioni Jogging e Roland-Garros",
-      "descrizione": "Renault aggiorna la gamma 4 E-Tech Electric: arriva la versione d'accesso Jogging, debuttano la serie Roland-Garros e la modalità Smart. Autonomia fino a 415 km",
-      "link": "https://www.hdmotori.it/renault-4-e-tech-electric-novita-gamma-jogging-roland-garros/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T11:00:38+00:00"
-    },
-    {
       "titolo": "Mistral’s new Large 4 trails some Chinese open models in independent tests",
       "descrizione": "Artificial Analysis scores Mistral’s new Large 4 at 38, behind open models from Xiaomi, Z.ai, Moonshot, and DeepSeek.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-09T11:00:00+00:00"
-    },
-    {
-      "titolo": "Troppi lavoratori stranieri: blocco dei visti per Microsoft",
-      "descrizione": "L'amministrazione Trump ha bloccato le richieste per i visti H-1B di Microsoft, in quanto ha assunto lavoratori stranieri e licenziato quelli statunitensi. The post Troppi lavoratori stranieri: blocco dei visti per Micro",
-      "link": "https://www.punto-informatico.it/troppi-lavoratori-stranieri-blocco-visti-microsoft/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T10:59:43+00:00"
-    },
-    {
-      "titolo": "OpenAI, i problemi risolti dall'AI accendono la polemica nella comunità scientifica",
-      "descrizione": "Le dimostrazioni matematiche generate dall'intelligenza artificiale dividono i ricercatori. L'Association for Human Mathematics invita a interrompere le collaborazioni con OpenAI",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n673202/ai-risolve-problemi-matematica-polemiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T10:55:00+00:00"
-    },
-    {
-      "titolo": "L'AI cambia le regole della moderazione sul web: decide in 35 millisecondi",
-      "descrizione": "Un nuovo modello AI analizza i contenuti in tempo reale e si adatta alle regole delle piattaforme.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n673146/policylm-1-7b-ai-moderazione-contenuti/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T10:40:00+00:00"
-    },
-    {
-      "titolo": "La decisione di McLaren sulla 750S che spiazza tutti: addio definitivo",
-      "descrizione": "I vertici di McLaren hanno annunciato che la 750S uscirà di produzione nel 2027. Per ora non è prevista una erede nella gamma",
-      "link": "https://www.hdmotori.it/mclaren-750s-addio-definitivo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T10:30:29+00:00"
-    },
-    {
-      "titolo": "Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity",
-      "descrizione": "Kioxia's LD4-series SSDs can store up to 122.88TB of data in a compact form-factor, but its performance remains a mystery.",
-      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-09T10:30:00+00:00"
-    },
-    {
-      "titolo": "OnePlus 16, l'elenco ufficiale dei giochi che gireranno a 185 FPS",
-      "descrizione": "Il brand cinese sta diventando sempre più \"gaming\".",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673201/oneplus-16-185-fps-giochi-elenco/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T10:25:00+00:00"
-    },
-    {
-      "titolo": "Duck.ai lancia i link di condivisione privata delle chat",
-      "descrizione": "DuckDuckGo introduce i link di condivisione per Duck.ai, con crittografia sul dispositivo, chiave privata nel link, scadenza automatica. The post Duck.ai lancia i link di condivisione privata delle chat appeared first on",
-      "link": "https://www.punto-informatico.it/duck-ai-lancia-link-condivisione-privata-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T10:01:38+00:00"
-    },
-    {
-      "titolo": "Viaggi all’estero? Con Saily navighi su Internet senza spendere una fortuna in roaming",
-      "descrizione": "La soluzione perfetta se prepari un viaggio all'estero e vuoi rimanere connesso a casa senza spendere troppo. The post Viaggi all’estero? Con Saily navighi su Internet senza spendere una fortuna in roaming appeared first",
-      "link": "https://www.punto-informatico.it/viaggi-allestero-con-saily-navighi-su-internet-senza-spendere-una-fortuna-in-roaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T09:01:31+00:00"
-    },
-    {
-      "titolo": "La Ricerca di Windows diventa più veloce, con anteprime dei file",
-      "descrizione": "Microsoft rifà da zero la Ricerca di Windows che diventa più veloce, con anteprime dei file, risultati online e comandi rapidi. Ecco cosa cambia. The post La Ricerca di Windows diventa più veloce, con anteprime dei file",
-      "link": "https://www.punto-informatico.it/ricerca-windows-diventa-piu-veolce-anteprime-file/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T08:10:09+00:00"
-    },
-    {
-      "titolo": "Foresight di Google, l’app AI che trascrive riunioni e file audio offline",
-      "descrizione": "Foresight di Google trascrive riunioni e file audio completamente offline, direttamente sul Mac. È gratuita. Ecco come funziona e cosa può fare. The post Foresight di Google, l’app AI che trascrive riunioni e file audio",
-      "link": "https://www.punto-informatico.it/foresight-google-app-ai-trascrive-riunioni-file-audio-offline/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T07:24:04+00:00"
     }
   ]
 }
