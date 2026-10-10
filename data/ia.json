@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T05:56:46.567052+00:00",
+  "last_updated": "2026-10-10T12:36:35.555367+00:00",
   "items": [
     {
       "titolo": "OpenAI pubblica oltre 700 paper matematici su GitHub con formalizzazioni Lean",
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini Agent di Google: l’AI autonoma con email e agenda",
-      "descrizione": "Google lancia Gemini Agent, un'intelligenza artificiale con Gmail, Drive e agenda propria, capace di lavorare in autonomia. The post Gemini Agent di Google: l’AI autonoma con email e agenda appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/gemini-agent-google-ai-autonoma-email-agenda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T16:15:14+00:00",
+      "titolo": "Google Maps con Gemini: ecco come potremo sfruttarlo al massimo",
+      "descrizione": "Ask Maps consentirà di usare Gemini in google Maps, ecco che potremo fare.",
+      "link": "https://www.hdblog.it/google/articoli/n673232/google-maps-gemini-5-consigli-guida/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T08:55:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic OSS Scanner cerca i bug nel codice open source",
-      "descrizione": "OSS Scanner è un tool gratuito di Anthropic che cerca vulnerabilità nel codice sorgente dei progetti open source e suggerisce eventuali patch. The post Anthropic OSS Scanner cerca i bug nel codice open source appeared fi",
-      "link": "https://www.punto-informatico.it/anthropic-oss-scanner-cerca-bug-codice-open-source/",
+      "titolo": "Agenti AI fuori controllo: Anthropic blocca l’accesso a Internet",
+      "descrizione": "Anthropic ha bloccato l'accesso ad Internet durante i test interni, dopo aver scoperto diversi comportamenti inattesi da parte degli agenti AI. The post Agenti AI fuori controllo: Anthropic blocca l’accesso a Internet ap",
+      "link": "https://www.punto-informatico.it/agenti-ai-fuori-controllo-anthropic-blocca-accesso-internet/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-09T08:49:47+00:00",
+      "data": "2026-10-10T11:23:13+00:00",
       "modello": "claude"
     },
     {

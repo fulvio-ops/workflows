@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-10-10T05:56:42.091208+00:00",
+  "last_updated": "2026-10-10T12:36:31.254412+00:00",
   "items": [
+    {
+      "titolo": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
+      "descrizione": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T12:20:00+00:00"
+    },
+    {
+      "titolo": "Un lotteria per gli incentivi auto: il singolare metodo è stato prorogato in Cina",
+      "descrizione": "Prorogato fino alla fine dell’anno l'insolito meccanismo ad estrazione giornaliera che lascia al cittadino completa libertà di scelta tra permuta e rottamazione.",
+      "link": "https://www.hdmotori.it/lotteria-incentivi-auto-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T12:00:53+00:00"
+    },
+    {
+      "titolo": "Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
+      "descrizione": "Russian YouTube channel dedicated to DLSS 5 experiments tries Pac-Man, and it's genuinely cursed.",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T12:00:00+00:00"
+    },
+    {
+      "titolo": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "descrizione": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "fonte": "WIRED",
+      "data": "2026-10-10T12:00:00+00:00"
+    },
+    {
+      "titolo": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
+      "descrizione": "PC modder TrashBench attached a 360mm radiator and custom cooling to a laptop and gained up to 14% in performance at the cost of the definition of a laptop.",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T11:00:00+00:00"
+    },
+    {
+      "titolo": "La migliore app meteo su Android è gratuita | Come installarla",
+      "descrizione": "Un'app meteo gratuita, completa e personalizzabile, con oltre 50 fonti e un'interfaccia curata.",
+      "link": "https://www.hdblog.it/android/articoli/n673093/breezy-weather-app-meteo-android-gratis/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T10:55:00+00:00"
+    },
+    {
+      "titolo": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
+      "descrizione": "Following a Ukrainian drone strike on a D.C. in Sasovo, Russia, a Yandex facility in Kaluga has suffered a similar fate with multiple modules completely out of service.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T10:30:00+00:00"
+    },
+    {
+      "titolo": "Suono di qualità, IP54 e 10 ore di autonomia: JBL Wave Flex 2",
+      "descrizione": "Gli auricolari Bluetooth JBL Wave Flex 2 garantiscono un suono eccezionale sia per musica che per chiamate, 10 ore di autonomia e impermeabilità. The post Suono di qualità, IP54 e 10 ore di autonomia: JBL Wave Flex 2 app",
+      "link": "https://www.punto-informatico.it/suono-di-qualita-ip54-10-ore-autonomia-jbl-wave-flex-2/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-10T09:58:22+00:00"
+    },
+    {
+      "titolo": "James Webb individua il lampo radio più lontano mai osservato",
+      "descrizione": "Un lampo radio dall'universo primordiale offre nuovi indizi sulla sua misteriosa origine.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673273/james-webb-origine-lampo-radio-piu-lontano/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T09:25:00+00:00"
+    },
+    {
+      "titolo": "BMW M5 da 727 CV, con la divisa da Polizia è una vera \"minaccia\" su ruote",
+      "descrizione": "Sotto la livrea della Polizia c'è una BMW M5 Touring da 727 CV. Tra V8 biturbo e motore elettrico, la showcar bavarese fa sognare gli inseguimenti ad alta velocità",
+      "link": "https://www.hdmotori.it/bmw-m5-touring-polizia-727-cv/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T09:00:33+00:00"
+    },
+    {
+      "titolo": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
+      "descrizione": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
+      "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-10T08:15:00+00:00"
+    },
+    {
+      "titolo": "Mercato PC: calo record del 20% e prezzi destinati a salire",
+      "descrizione": "I dati IDC evidenziano un peggioramento della crisi che sta colpendo il settore.",
+      "link": "https://www.hdblog.it/portatili/articoli/n673150/mercato-pc-q3-2026-forte-calo-perche/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T07:55:00+00:00"
+    },
+    {
+      "titolo": "Il Gruppo Volkswagen blinda Ducati: per tre anni non si vende",
+      "descrizione": "Il colosso di Wolfsburg accantona definitivamente l'ipotesi di cessione del marchio bolognese, confermando l'autonomia finanziaria e il piano di sviluppo industriale ad alti investimenti.",
+      "link": "https://www.hdmotori.it/volkswagen-blinda-ducati-non-si-vende/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T07:30:18+00:00"
+    },
+    {
+      "titolo": "Pixel invisibili che controllano quando apriamo le email, la stretta è in arrivo",
+      "descrizione": "I tracking pixel permettono di sapere quando un destinatario apre un'email e possono raccogliere informazioni sul dispositivo utilizzato. Dal 29 ottobre diventano operative le nuove regole del Garante",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673248/controllo-email-privacy-nuove-regole-italia-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T07:25:00+00:00"
+    },
+    {
+      "titolo": "In vendita la storica e lussuosa auto di Noel Gallagher: prezzo (quasi) alla portata",
+      "descrizione": "La leggendaria Rolls-Royce del cantante degli Oasis, Noel Gallagher, sarà battuta all'asta con una stima ragionevole",
+      "link": "https://www.hdmotori.it/auto-storica-noel-gallagher-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T07:00:44+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy con memoria piena: come registrare video direttamente su chiavetta",
+      "descrizione": "Una soluzione pratica e veloce per recuperare spazio.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673086/samsung-galaxy-s26-come-registrare-video-chiavetta/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T06:55:00+00:00"
+    },
+    {
+      "titolo": "Esenzione bollo: 5,4 milioni di auto escluse perché senza assicurazione",
+      "descrizione": "L'agevolazione statale spetta solo alle vetture regolarmente assicurate, ma oltre il 20% dei veicoli circolanti in Italia ne resta fuori a causa della mancata copertura RC.",
+      "link": "https://www.hdmotori.it/esenzione-bollo-auto-escluse-senza-assicurazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-10T06:30:07+00:00"
+    },
     {
       "titolo": "Caffè Espresso come al bar grazie alle offerte su eBay",
       "descrizione": "Ritrova il piacere di un caffè espresso a casa tua o in ufficio buono come al bar grazie alle offerte su eBay disponibili in questi giorni. The post Caffè Espresso come al bar grazie alle offerte su eBay appeared first o",
@@ -37,48 +156,6 @@
       "data": "2026-10-09T17:31:37+00:00"
     },
     {
-      "titolo": "Fiat Scudo MY27, il furgone cambia strategia: diesel fino a 180 CV ed elettrico",
-      "descrizione": "Fiat Scudo MY27 è ordinabile in Italia con motori diesel ed elettrici, tre livelli di equipaggiamento e nuove possibilità di personalizzazione",
-      "link": "https://www.hdmotori.it/fiat-scudo-my27-ordini-motori/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T17:30:18+00:00"
-    },
-    {
-      "titolo": "Bitdefender lancia AI Guardian, un \"supervisore\" per gli agenti AI",
-      "descrizione": "L'applicazione esamina ogni azione che vogliono compiere gli agenti e valuta se è sicura, sospetta o del tutto pericolosa.",
-      "link": "https://www.hdblog.it/apple/articoli/n673260/bitdefender-ai-guardian-protezione-agenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T17:15:00+00:00"
-    },
-    {
-      "titolo": "Il mistero della Williams scomparsa nel nulla, sottratta un'iconica monoposto di F1",
-      "descrizione": "La Williams avrebbe citato in giudizio Peter Thorpe, ex amministratore delegato di Autotech Performance, per oltre un milione di sterline.",
-      "link": "https://www.hdmotori.it/mistero-williams-f1-scomparsa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T17:00:47+00:00"
-    },
-    {
-      "titolo": "Nuove scuole per piloti droni e AI: la guerra robotica è centrale in Cina",
-      "descrizione": "La Cina apre nuove accademie militari per formare esperti di droni, robotica e intelligenza artificiale.",
-      "link": "https://www.hdblog.it/droni/articoli/n673143/cina-esercito-droni-intelligenza-artificiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T16:55:00+00:00"
-    },
-    {
-      "titolo": "Nuova Lancia Gamma 2026: tanto tuonò che piovve! - Video",
-      "descrizione": "Con l'arrivo e la prova di Lancia Gamma si è aperto un nuovo filone per la firma italiana, che torna alla ribalta in un segmento affollato",
-      "link": "https://www.hdmotori.it/prove/nuova-lancia-gamma-2026-tanto-tuono-che-piovve-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T16:30:48+00:00"
-    },
-    {
-      "titolo": "The Witcher 3 Remastered, ora ci siamo: patch 5.01 migliora radicalmente la qualità",
-      "descrizione": "Sistemato in tempo record il contrasto, i colori sbiaditi e l'effetto bloom troppo invasivo (soprattutto su console).",
-      "link": "https://www.hdblog.it/windows/articoli/n673252/the-witcher-3-remastered-patch-novita-grafica/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T16:25:00+00:00"
-    },
-    {
       "titolo": "Windows 11, widget per monitorare la batteria di tutti i dispositivi",
       "descrizione": "Microsoft testa su Windows 11 il widget Battery Status, un unico hub per controllare la carica di PC, mouse, cuffie e accessori wireless. The post Windows 11, widget per monitorare la batteria di tutti i dispositivi appe",
       "link": "https://www.punto-informatico.it/windows-11-widget-monitorare-batteria-tutti-dispositivi/",
@@ -91,83 +168,6 @@
       "link": "https://www.punto-informatico.it/gemini-agent-google-ai-autonoma-email-agenda/",
       "fonte": "Punto Informatico",
       "data": "2026-10-09T16:15:14+00:00"
-    },
-    {
-      "titolo": "Volkswagen si arrende all’ennesimo richiamo, problemi per diversi modelli",
-      "descrizione": "Il Gruppo Volkswagen sta correndo ai ripari per un’avaria che sta colpendo svariati modelli, tra cui uno nuovissimo",
-      "link": "https://www.hdmotori.it/volkswagen-richiamo-problemi-modelli/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T16:00:11+00:00"
-    },
-    {
-      "titolo": "365 metri d'altezza: è in Europa la turbina eolica più alta del mondo",
-      "descrizione": "Più vento per una maggiore produzione di energia.",
-      "link": "https://www.hdblog.it/green/articoli/n673226/turbina-eolica-record-alta-mondo-365-metri/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T15:40:00+00:00"
-    },
-    {
-      "titolo": "Meta blocca le inserzioni di TikTok in sette paesi",
-      "descrizione": "Meta ha bloccato tutte le inserzioni di TikTok sulle sue piattaforme in sette paesi, come risposta ad un simile ban effettuato dall'azienda cinese. The post Meta blocca le inserzioni di TikTok in sette paesi appeared fir",
-      "link": "https://www.punto-informatico.it/meta-blocca-inserzioni-tiktok-sette-paesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T15:37:21+00:00"
-    },
-    {
-      "titolo": "Meta blocca le pubblicità di TikTok su Facebook e Instagram per evitare l'esodo",
-      "descrizione": "Meta blocca le pubblicità di TikTok su Facebook e Instagram, in sette Paesi: l'obiettivo dichiarato è evitare l'esodo degli utenti.",
-      "link": "https://www.hdblog.it/social/articoli/n673228/meta-blocca-pubblicita-tiktok-facebook-instagram/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T15:35:00+00:00"
-    },
-    {
-      "titolo": "7 Skill di Gemini per non riscrivere lo stesso prompt",
-      "descrizione": "Le competenze di Gemini trasformano i prompt ripetitivi in comandi facili da richiamare con una barra e un nome. Sette da creare subito. The post 7 Skill di Gemini per non riscrivere lo stesso prompt appeared first on Pu",
-      "link": "https://www.punto-informatico.it/7-skill-gemini-non-riscrivere-stesso-prompt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T15:30:58+00:00"
-    },
-    {
-      "titolo": "Amazon Leo festeggia il millesimo satellite costruito e promette velocità super",
-      "descrizione": "Rispetto a StarLink promette fino a 3x in download e addirittura 10x in upload.",
-      "link": "https://www.hdblog.it/amazon/articoli/n673241/amazon-leo-millesimo-satellite-velocita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T15:05:00+00:00"
-    },
-    {
-      "titolo": "Mazda BT-50, confermata la nuova generazione: addio al diesel?",
-      "descrizione": "Mazda conferma la nuova generazione del pick-up BT-50. Incertezza sulla piattaforma: si rinnova la partnership con Isuzu o spunta l'ipotesi cinese con Changan?",
-      "link": "https://www.hdmotori.it/mazda-bt-50-nuova-generazione-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T15:00:00+00:00"
-    },
-    {
-      "titolo": "Oakley Meta HSTN in doppia offerta: gli smart glasses con Meta AI partono da 299€",
-      "descrizione": "Due Oakley Meta HSTN raggiungono il prezzo più basso in 90 giorni: 299€ per la versione con lenti Clear e 362,49€ per quella con Prizm Black Polarized.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n673233/oakley-meta-hstn-clear-prizm-polarized-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T14:55:00+00:00"
-    },
-    {
-      "titolo": "Perché non possiamo offendere l’intelligenza artificiale?",
-      "descrizione": "C'è una differenza non da poco: insultare e offendere l'AI dev'essere considerato illegittimo oppure un comportamento da maleducati. The post Perché non possiamo offendere l’intelligenza artificiale? appeared first on Pu",
-      "link": "https://www.punto-informatico.it/offendere-intelligenza-artificiale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T14:50:02+00:00"
-    },
-    {
-      "titolo": "NVIDIA Halos: cos'ha in serbo Jensen Huang per la robotica?",
-      "descrizione": "NVIDIA porta Halos nei robot umanoidi per renderli più sicuri quando lavorano accanto alle persone.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n673141/nvidia-halos-robot-umanoidi-sicurezza/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T14:35:00+00:00"
-    },
-    {
-      "titolo": "Pony Island gratis su Steam per poco tempo: come riscattarlo",
-      "descrizione": "Per celebrare il via al playtest del seguito, Daniel Mullins ha deciso di regalare il primo Pony Island su Steam: un download obbligatorio. The post Pony Island gratis su Steam per poco tempo: come riscattarlo appeared f",
-      "link": "https://www.punto-informatico.it/pony-island-gratis-steam/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T13:24:49+00:00"
     }
   ]
 }
