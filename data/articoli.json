@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-10T12:36:31.254412+00:00",
+  "last_updated": "2026-10-10T21:47:09.822649+00:00",
   "items": [
+    {
+      "titolo": "Esecuzione in streaming vietata dalle regole delle piattaforme",
+      "descrizione": "Le piattaforme più note vietano lo streaming di video con morti o armi da fuoco, quindi non è chiaro chi dovrebbe trasmettere l'esecuzione di Nidal Hasan. The post Esecuzione in streaming vietata dalle regole delle piatt",
+      "link": "https://www.punto-informatico.it/esecuzione-streaming-vietata-regole-piattaforme/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-10T17:16:45+00:00"
+    },
+    {
+      "titolo": "Ugreen’s 100W 4-port GaN charger drops 27% today",
+      "descrizione": "Whether you need to charge a laptop before work, top up your smartphone, or keep your tablet ready for travel, this four-port Ugreen GaN charger delivers up to 100W via USB Type-C and is currently $15 cheaper on Amazon.",
+      "link": "https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T16:20:56+00:00"
+    },
+    {
+      "titolo": "Router poco sicuri: nuove denunce per TP-Link",
+      "descrizione": "Florida, Montana, Iowa e Nebraska anno denunciato TP-Link per aver ingannato i consumatori sulla sicurezza dei router e i legami con il governo cinese. The post Router poco sicuri: nuove denunce per TP-Link appeared firs",
+      "link": "https://www.punto-informatico.it/router-poco-sicuri-nuove-denunce-tp-link/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-10T16:01:28+00:00"
+    },
+    {
+      "titolo": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
+      "descrizione": "Ting-Wei \"Willy\" Sun, one of the three people charged of smuggling Super Micro servers with advanced Nvidia AI chips to China, has pleaded guilty, with sentencing set for September of next year.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-10T15:35:00+00:00"
+    },
+    {
+      "titolo": "OpenAI risponde alle accuse dei tre dipendenti licenziati",
+      "descrizione": "OpenAI afferma che i tre ricercatori sono stati licenziati per la divulgazione di informazioni sensibili, non per aver segnalato problemi di sicurezza. The post OpenAI risponde alle accuse dei tre dipendenti licenziati a",
+      "link": "https://www.punto-informatico.it/openai-risponde-accuse-tre-dipendenti-licenziati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-10T15:08:52+00:00"
+    },
     {
       "titolo": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
       "descrizione": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
@@ -128,46 +163,11 @@
       "data": "2026-10-10T05:00:54+00:00"
     },
     {
-      "titolo": "LG Promo Codes and Coupons for October 2026",
-      "descrizione": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-10-10T05:00:00+00:00"
-    },
-    {
       "titolo": "Home Depot Promo Codes: 30% Off in October 2026",
       "descrizione": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
       "link": "https://www.wired.com/story/home-depot-promo-code/",
       "fonte": "WIRED",
       "data": "2026-10-10T05:00:00+00:00"
-    },
-    {
-      "titolo": "Ecco come potrebbe essere Apple HomePod: primi render \"concept\"",
-      "descrizione": "Sono immagini basate esclusivamente sulle indiscrezioni, nulla di ufficiale. Quanto ci sarà andato vicino il leaker?",
-      "link": "https://www.hdblog.it/apple/articoli/n673268/apple-homepad-hub-smart-home-render-concept/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-09T18:05:00+00:00"
-    },
-    {
-      "titolo": "Reattore nucleare sulla Luna entro il 2030: accordo NASA-DoE",
-      "descrizione": "La NASA e il Dipartimento dell'Energia hanno sottoscritto un accordo per lo sviluppo di tecnologie nucleari che serviranno per un reattore sulla Luna. The post Reattore nucleare sulla Luna entro il 2030: accordo NASA-DoE",
-      "link": "https://www.punto-informatico.it/reattore-nucleare-luna-entro-2030-accordo-nasa-doe/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T17:31:37+00:00"
-    },
-    {
-      "titolo": "Windows 11, widget per monitorare la batteria di tutti i dispositivi",
-      "descrizione": "Microsoft testa su Windows 11 il widget Battery Status, un unico hub per controllare la carica di PC, mouse, cuffie e accessori wireless. The post Windows 11, widget per monitorare la batteria di tutti i dispositivi appe",
-      "link": "https://www.punto-informatico.it/windows-11-widget-monitorare-batteria-tutti-dispositivi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T16:22:24+00:00"
-    },
-    {
-      "titolo": "Gemini Agent di Google: l’AI autonoma con email e agenda",
-      "descrizione": "Google lancia Gemini Agent, un'intelligenza artificiale con Gmail, Drive e agenda propria, capace di lavorare in autonomia. The post Gemini Agent di Google: l’AI autonoma con email e agenda appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/gemini-agent-google-ai-autonoma-email-agenda/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T16:15:14+00:00"
     }
   ]
 }
