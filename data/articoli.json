@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-11T12:55:15.865239+00:00",
+  "last_updated": "2026-10-11T22:00:42.889691+00:00",
   "items": [
+    {
+      "titolo": "IONOS festeggia 6,5 milioni di clienti con un hosting per WordPress a 0€ per il primo anno",
+      "descrizione": "L’azienda di web hosting tedesca IONOS ha tagliato il traguardo dei 6,5 milioni di clienti. Per festeggiare, ha lanciato una nuova offerta speciale che consente di ottenere un [affiliate_link link_id=”4416″]hosting per W",
+      "link": "https://www.punto-informatico.it/ionos-festeggia-6-milioni-di-clienti-con-hosting-wordpress-a-0-euro-primo-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-11T19:04:17+00:00"
+    },
+    {
+      "titolo": "HomeView sarà il primo smart display di Apple",
+      "descrizione": "HomeView sarà il primo smart display di Apple e verrà annunciato il 13 ottobre, insieme a nuovi HomePod mini (smart speaker) e Apple TV (set-top box). The post HomeView sarà il primo smart display di Apple appeared first",
+      "link": "https://www.punto-informatico.it/homeview-primo-smart-display-apple/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-11T15:36:18+00:00"
+    },
+    {
+      "titolo": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles",
+      "descrizione": "Canadian YouTuber Anthony Sistilli says police questioned him after he built an ALPR camera designed to track police vehicles, leading to an ironic discussion over the privacy risks of mass license-plate surveillance.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-11T15:11:18+00:00"
+    },
+    {
+      "titolo": "Amazfit T-Rex 3 Pro al minimo storico: fino a 25 giorni di autonomia",
+      "descrizione": "Sconto del 28% e nuovo minimo storico per l'Amazfit T-Rex 3 Pro, smartwatch super resistente con 25 giorni di autonomia e oltre 180 sport.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n673301/smartwatch-amazfit-t-rex-3-pro-sconto-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-11T14:03:00+00:00"
+    },
+    {
+      "titolo": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+      "descrizione": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-11T13:15:09+00:00"
+    },
     {
       "titolo": "Programmer ports Super Mario 64 to Microsoft’s Zune HD media player",
       "descrizione": "A fan port of Nintendo’s Super Mario 64 runs natively on Microsoft’s 2009 Zune HD media player, with touch controls and saves.",
@@ -133,41 +168,6 @@
       "link": "https://www.hdmotori.it/lotteria-incentivi-auto-cina/",
       "fonte": "HDblog.it",
       "data": "2026-10-10T12:00:53+00:00"
-    },
-    {
-      "titolo": "Ukranian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
-      "descrizione": "Russian YouTube channel dedicated to DLSS 5 experiments tries Pac-Man, and it's genuinely cursed.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-10T12:00:00+00:00"
-    },
-    {
-      "titolo": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "descrizione": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "fonte": "WIRED",
-      "data": "2026-10-10T12:00:00+00:00"
-    },
-    {
-      "titolo": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
-      "descrizione": "PC modder TrashBench attached a 360mm radiator and custom cooling to a laptop and gained up to 14% in performance at the cost of the definition of a laptop.",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-10T11:00:00+00:00"
-    },
-    {
-      "titolo": "La migliore app meteo su Android è gratuita | Come installarla",
-      "descrizione": "Un'app meteo gratuita, completa e personalizzabile, con oltre 50 fonti e un'interfaccia curata.",
-      "link": "https://www.hdblog.it/android/articoli/n673093/breezy-weather-app-meteo-android-gratis/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-10T10:55:00+00:00"
-    },
-    {
-      "titolo": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
-      "descrizione": "Following a Ukrainian drone strike on a D.C. in Sasovo, Russia, a Yandex facility in Kaluga has suffered a similar fate with multiple modules completely out of service.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-10T10:30:00+00:00"
     }
   ]
 }
