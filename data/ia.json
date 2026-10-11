@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T05:51:50.863138+00:00",
+  "last_updated": "2026-10-11T12:55:19.858858+00:00",
   "items": [
     {
       "titolo": "OpenAI risponde alle accuse dei tre dipendenti licenziati",
@@ -8,14 +8,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-10-10T15:08:52+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Microsoft 365 Family/Premium: Copilot per tutti, ma solo 2 TB",
-      "descrizione": "Le funzionalità AI di Copilot possono essere condivise con Microsoft 365 Family e Premium, ma lo spazio di storage su OneDrive è diminuito da 6 a 2 TB. The post Microsoft 365 Family/Premium: Copilot per tutti, ma solo 2",
-      "link": "https://www.punto-informatico.it/microsoft-365-family-premium-copilot-tutti-solo-2-tb/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-09T13:42:24+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Google Maps con Gemini: ecco come potremo sfruttarlo al massimo",
@@ -34,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "Mistral’s new Large 4 trails some Chinese open models in independent tests",
-      "descrizione": "Artificial Analysis scores Mistral’s new Large 4 at 38, behind open models from Xiaomi, Z.ai, Moonshot, and DeepSeek.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts",
+      "titolo": "Cryptomining malware used poetry to infect more than 3,400 servers, researchers say",
+      "descrizione": "Lumen's Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-09T11:00:00+00:00",
+      "data": "2026-10-11T11:45:00+00:00",
       "modello": "altri"
     }
   ]
