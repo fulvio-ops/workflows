@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-10-11T22:00:42.889691+00:00",
+  "last_updated": "2026-10-12T06:03:05.528523+00:00",
   "items": [
+    {
+      "titolo": "Alfa Romeo Cuorerosso: il futuro del Biscione tra design italiano e sportività",
+      "descrizione": "Al Salone dell’Auto di Parigi 2026 debutta in anteprima mondiale la concept car che interpreta la visione futura del Marchio. Una coupé 2+2 da 4,7 metri che mette al centro la...",
+      "link": "https://www.hdmotori.it/alfa-romeo-cuorerosso-il-futuro-del-biscione-tra-design-italiano-e-sportivita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-12T06:00:16+00:00"
+    },
+    {
+      "titolo": "L'allarme di Microsoft: tutte le AI vanno considerate compromesse",
+      "descrizione": "Nadella propone controlli, verifiche e sistemi di arresto per le intelligenze artificiali.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n673314/satya-nadella-microsoft-ai-compromesse-sicurezza/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-12T05:45:00+00:00"
+    },
+    {
+      "titolo": "Copernicus: nel 2026 il secondo settembre più caldo di sempre",
+      "descrizione": "Secondo mese consecutivo in cui le temperature globali superano di 1,5 gradi quelle dei livelli pre-industriali",
+      "link": "https://www.ilsole24ore.com/art/copernicus-2026-secondo-settembre-piu-caldo-sempre-AJber4gB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-12T05:19:17+00:00"
+    },
+    {
+      "titolo": "Prime Video questo mercoledì trasmetterà Roma-Real Madrid di Champions League",
+      "descrizione": "Mercoledì 14 ottobre Prime Video trasmetterà in esclusiva Roma-Real Madrid, incontro valido per la seconda giornata della fase campionato della Champions League 2026/2027. Allo Stadio Olimpico Giulia Mizzoni, insieme a C",
+      "link": "https://www.punto-informatico.it/prime-video-questo-mercoledi-trasmettera-roma-real-madrid-di-champions-league/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-12T04:49:34+00:00"
+    },
     {
       "titolo": "IONOS festeggia 6,5 milioni di clienti con un hosting per WordPress a 0€ per il primo anno",
       "descrizione": "L’azienda di web hosting tedesca IONOS ha tagliato il traguardo dei 6,5 milioni di clienti. Per festeggiare, ha lanciato una nuova offerta speciale che consente di ottenere un [affiliate_link link_id=”4416″]hosting per W",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/router-poco-sicuri-nuove-denunce-tp-link/",
       "fonte": "Punto Informatico",
       "data": "2026-10-10T16:01:28+00:00"
-    },
-    {
-      "titolo": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
-      "descrizione": "Ting-Wei \"Willy\" Sun, one of the three people charged of smuggling Super Micro servers with advanced Nvidia AI chips to China, has pleaded guilty, with sentencing set for September of next year.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-10T15:35:00+00:00"
-    },
-    {
-      "titolo": "OpenAI risponde alle accuse dei tre dipendenti licenziati",
-      "descrizione": "OpenAI afferma che i tre ricercatori sono stati licenziati per la divulgazione di informazioni sensibili, non per aver segnalato problemi di sicurezza. The post OpenAI risponde alle accuse dei tre dipendenti licenziati a",
-      "link": "https://www.punto-informatico.it/openai-risponde-accuse-tre-dipendenti-licenziati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-10T15:08:52+00:00"
-    },
-    {
-      "titolo": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
-      "descrizione": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-10T12:20:00+00:00"
-    },
-    {
-      "titolo": "Un lotteria per gli incentivi auto: il singolare metodo è stato prorogato in Cina",
-      "descrizione": "Prorogato fino alla fine dell’anno l'insolito meccanismo ad estrazione giornaliera che lascia al cittadino completa libertà di scelta tra permuta e rottamazione.",
-      "link": "https://www.hdmotori.it/lotteria-incentivi-auto-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-10T12:00:53+00:00"
     }
   ]
 }

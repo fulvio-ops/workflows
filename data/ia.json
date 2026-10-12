@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T22:00:50.527793+00:00",
+  "last_updated": "2026-10-12T06:03:08.773306+00:00",
   "items": [
     {
       "titolo": "OpenAI risponde alle accuse dei tre dipendenti licenziati",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Maps con Gemini: ecco come potremo sfruttarlo al massimo",
-      "descrizione": "Ask Maps consentirà di usare Gemini in google Maps, ecco che potremo fare.",
-      "link": "https://www.hdblog.it/google/articoli/n673232/google-maps-gemini-5-consigli-guida/",
+      "titolo": "Google Gemini: nuovi limiti per gli utenti gratuiti | Ecco le novità",
+      "descrizione": "Gemini introduce la selezione automatica dei modelli e tre nuovi livelli di ragionamento.",
+      "link": "https://www.hdblog.it/google/articoli/n673315/google-gemini-gratis-modalita-auto-modelli/",
       "fonte": "HDblog.it",
-      "data": "2026-10-10T08:55:00+00:00",
+      "data": "2026-10-12T05:35:00+00:00",
       "modello": "gemini"
     },
     {
