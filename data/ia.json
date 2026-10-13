@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-12T15:32:34.200412+00:00",
+  "last_updated": "2026-10-13T00:44:24.859249+00:00",
   "items": [
     {
-      "titolo": "Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX",
-      "descrizione": "Intel set to discontinue SGX after Xeon 'Diamond Rapids' and focus on expanding TDX capabilities to meet emerging security requirements of cloud computing, enterprise workloads, and agentic AI.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-12T14:00:00+00:00",
+      "titolo": "DS Automobiles, ritorno al passato: il concept DS F3VER mette muscoli",
+      "descrizione": "Il prototipo che apre un nuovo capitolo nella storia di design di DS Automobiles enfatizza i concetti di eleganza e compattezza delle sorelle maggiori.",
+      "link": "https://www.hdmotori.it/ds-automobiles-concept-ds-f3ver/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-12T18:30:32+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "7 modi di usare Claude su Documenti, Fogli e Slide di Google",
-      "descrizione": "Claude di Anthropic è ora disponibile come assistente laterale all'interno di Documenti, Fogli e Presentazioni di Google. Come funziona. The post 7 modi di usare Claude su Documenti, Fogli e Slide di Google appeared firs",
-      "link": "https://www.punto-informatico.it/7-modi-usare-claude-documenti-fogli-slide-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-12T15:30:54+00:00",
+      "titolo": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+      "descrizione": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+      "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-12T17:45:44+00:00",
       "modello": "claude"
     },
     {
