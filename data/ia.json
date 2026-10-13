@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-13T14:16:08.440366+00:00",
+  "last_updated": "2026-10-13T22:47:50.847903+00:00",
   "items": [
     {
-      "titolo": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
-      "descrizione": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the AI-driven work",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-13T12:30:00+00:00",
+      "titolo": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "descrizione": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "fonte": "WIRED",
+      "data": "2026-10-13T19:35:29+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
-      "descrizione": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
-      "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-06T18:00:57+00:00",
+      "titolo": "Gemini 4 Argon disponibile al pubblico: la risposta di Google a ChatGPT-6 e Fable 5",
+      "descrizione": "Dopo l’anteprima per i partner di Fairwind, Google apre l’accesso a sviluppatori e utenti Pro del suo nuovo modello di frontiera. Primo nel Vals Index per finanza, coding e sicurezza, debutta con prezzi promozionali fino",
+      "link": "https://www.ilsole24ore.com/art/gemini-4-argon-disponibile-pubblico-risposta-google-chatgpt-6-e-fable-5-AJTVLkiB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-13T16:06:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
-      "descrizione": "Anthropic’s paper establishes conceptual model capabilities, but doesn’t quite demonstrate a real threat until models improve further.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-13T14:00:00+00:00",
+      "titolo": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "descrizione": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "fonte": "WIRED",
+      "data": "2026-10-13T19:35:29+00:00",
       "modello": "claude"
     },
     {

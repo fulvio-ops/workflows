@@ -1,26 +1,152 @@
 {
-  "last_updated": "2026-10-13T14:16:04.283372+00:00",
+  "last_updated": "2026-10-13T22:47:47.328571+00:00",
   "items": [
+    {
+      "titolo": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "descrizione": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "fonte": "WIRED",
+      "data": "2026-10-13T19:35:29+00:00"
+    },
+    {
+      "titolo": "The 9 Best Movies to Stream This Month (October 2026)",
+      "descrizione": "Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "fonte": "WIRED",
+      "data": "2026-10-13T18:49:55+00:00"
+    },
+    {
+      "titolo": "Creato un materiale quasi vivente: cambia forma per settimane",
+      "descrizione": "Un idrogel cambia forma per quattro settimane dopo un impulso luminoso grazie a particelle di gallio.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673496/idrogel-intelligente-cambia-forma-luce/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T17:55:00+00:00"
+    },
+    {
+      "titolo": "Mazda CX-30 e CX-5, offerte fino a dicembre: tasso al 2,99%",
+      "descrizione": "Mazda lancia nuove offerte su CX-30 e CX-5 fino al 31 dicembre 2026: prezzi da 23.950 euro, rate da 159 euro al mese e finanziamento al 2,99%",
+      "link": "https://www.hdmotori.it/mazda-cx-30-cx-5-offerte/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T17:30:47+00:00"
+    },
+    {
+      "titolo": "Dalla spazzatura spaziale agli scudi termici per Marte: cos'ha in serbo la NASA",
+      "descrizione": "La NASA sfrutta 12 capsule e una navetta carica di rifiuti per testare nuovi scudi termici.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673498/nasa-rifiuti-spaziali-test-scudi-termici/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T17:20:00+00:00"
+    },
+    {
+      "titolo": "In vendita una vecchia Mercedes di Niki Lauda, prevista un’asta rovente",
+      "descrizione": "Una Mercedes C 230 Kompressor, appartenuta al pilota austriaco Niki Lauda, potrebbe diventare un affare per un fan",
+      "link": "https://www.hdmotori.it/vendita-vecchia-mercedes-niki-lauda/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T17:00:26+00:00"
+    },
+    {
+      "titolo": "Bug, Y2K e Bill Gates: tre falsi miti della storia dei PC",
+      "descrizione": "Dal primo bug informatico al Millennium Bug: tre storie famose che abbiamo capito male.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673532/falsi-miti-storia-informatica-bug-y2k-bill-gates/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T16:55:00+00:00"
+    },
+    {
+      "titolo": "Smartphone e dipendenza: ormai è quasi la normalità possederne uno già ad 11 anni",
+      "descrizione": "I dati rivelano un uso massiccio dello smartphone tra gli adolescenti, che si affidano all'IA quasi quanto ai genitori.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673568/smartphone-11-anni-dipendenza/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T16:45:00+00:00"
+    },
+    {
+      "titolo": "OMODA 4 e OMODA 5 NEXT, doppia novità a Parigi: tecnologia, IA e motori ibridi",
+      "descrizione": "OMODA presenta al Salone di Parigi 2026 le nuove OMODA 4 e OMODA 5 NEXT: assistente AI, parcheggio da remoto, sedili massaggianti e tecnologia full hybrid",
+      "link": "https://www.hdmotori.it/omoda-4-omoda-5-next-salone-parigi/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T16:30:34+00:00"
+    },
+    {
+      "titolo": "Data center sotto attacco: come evitare che i propri dati vadano in fumo",
+      "descrizione": "La situazione russa è il pretesto per pensare a quanto (e se) ci prendiamo cura dei nostri dati",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673570/data-center-attacco-evitare-perdita-dati/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T16:20:00+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: svelato il nuovo progetto del reattore STEP",
+      "descrizione": "Il Regno Unito presenta STEP SPP3, un reattore a fusione pensato per produrre energia continua.",
+      "link": "https://www.hdblog.it/green/articoli/n673525/fusione-nucleare-regno-unito-reattore-step-spp3/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T16:10:00+00:00"
+    },
+    {
+      "titolo": "Perseverance: record di distanza percorsa su Marte",
+      "descrizione": "Perseverance ha percorso 45,22 Km sulla superficie marziana in circa 5,5 anni, battendo il record detenuto da Opportunity (45,16 Km percorsi in 15 anni). The post Perseverance: record di distanza percorsa su Marte appear",
+      "link": "https://www.punto-informatico.it/perseverance-record-distanza-percorsa-marte/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-13T16:09:24+00:00"
+    },
+    {
+      "titolo": "Data center AI consumano miliardi di litri d’acqua",
+      "descrizione": "I data center AI consumano enormi quantità d'acqua, anche per produrre l'elettricità necessaria al loro funzionamento. Ecco i dati e i rischi. The post Data center AI consumano miliardi di litri d’acqua appeared first on",
+      "link": "https://www.punto-informatico.it/data-center-ai-consumano-miliardi-litri-acqua/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-13T15:47:29+00:00"
+    },
+    {
+      "titolo": "Discovery+, aumenti fino al 20% negli USA: i prezzi italiani, per ora, resistono",
+      "descrizione": "Discovery+ diventa più costoso negli Stati Uniti dopo la riorganizzazione che ha portato alla nascita della nuova Skydance. Nessun aumento annunciato in Italia, dove i piani partono (ancora per...",
+      "link": "https://www.hdblog.it/mercato/articoli/n673595/discovery-plus-rincari-aumenti-prezzo-quanto-costa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T15:40:00+00:00"
+    },
+    {
+      "titolo": "Nuova Apple TV 4K: prezzo quasi raddoppiato, vale davvero così tanto?",
+      "descrizione": "Un confronto tra le due generazioni.",
+      "link": "https://www.hdblog.it/tv/articoli/n673585/apple-tv-4k-3a-4a-gen-confronto-specifiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T15:25:00+00:00"
+    },
+    {
+      "titolo": "Getty Images lascia la Borsa: salvataggio da 460 milioni",
+      "descrizione": "Getty Images prepara il Chapter 11 e torna privata dopo la fusione fallita con Shutterstock, sullo sfondo della crescita dell'AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n673592/getty-images-bancarotta-ai-shutterstock/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T15:20:00+00:00"
+    },
+    {
+      "titolo": "Sensing Art, gli occhiali AI di Meta raccontano i capolavori di Brera",
+      "descrizione": "Da Caravaggio al Bacio di Hayez, gli occhiali AI di Meta attivano audiodescrizioni automatiche per scoprire otto capolavori a Brera. The post Sensing Art, gli occhiali AI di Meta raccontano i capolavori di Brera appeared",
+      "link": "https://www.punto-informatico.it/sensing-art-occhiali-ai-meta-raccontano-capolavori-brera/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-13T15:06:52+00:00"
+    },
+    {
+      "titolo": "Amazon ha un milione di robot: il lavoro umano è a rischio?",
+      "descrizione": "Amazon supera un milione di robot nei magazzini tra intelligenza artificiale, sicurezza e dubbi sul futuro del lavoro.",
+      "link": "https://www.hdblog.it/amazon/articoli/n673493/amazon-un-milione-robot-futuro-lavoro/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-13T14:45:00+00:00"
+    },
+    {
+      "titolo": "Apple lancia HomeView, ma in Europa arrivano solo HomePod Mini 2 e Apple TV",
+      "descrizione": "Apple lancia una serie di prodotti per la casa intelligente ed entra così nel vivo la strategia hardware di John Ternus. Gran parte di questi, che entrano in...",
+      "link": "https://www.ilsole24ore.com/art/apple-lancia-homeview-ma-europa-arrivano-solo-homepod-mini-2-e-apple-tv-AJsIZciB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-13T14:36:00+00:00"
+    },
+    {
+      "titolo": "Chinese AI companies buy 1 million Nvidia GPUs in a single year, report claims",
+      "descrizione": "A new report has revealed China may have bought up 1 million Nvidia GPUs for AI this year.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/chinese-ai-companies-buy-1-million-nvidia-gpus-in-a-single-year-report-claims-export-control-compliant-chips-flood-the-market-to-bridge-gap-in-compute-demand",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-13T14:32:20+00:00"
+    },
     {
       "titolo": "La nuova Apple TV 4K con chip A19: anche da noi, ma senza Siri AI",
       "descrizione": "Presentata la nuova Apple TV 4K con chip A19, audio surround e funzioni per la smart home: arriverà a novembre, anche in Italia a 349 euro. The post La nuova Apple TV 4K con chip A19: anche da noi, ma senza Siri AI appea",
       "link": "https://www.punto-informatico.it/nuova-apple-tv-4k/",
       "fonte": "Punto Informatico",
       "data": "2026-10-13T14:13:46+00:00"
-    },
-    {
-      "titolo": "Apple HomePod mini 2 è ufficiale e arriva anche in Italia | Prezzo",
-      "descrizione": "Ecco cosa cambia e quanto costa.",
-      "link": "https://www.hdblog.it/apple/articoli/n673579/apple-homepod-mini-2-italia-prezzo-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T14:02:00+00:00"
-    },
-    {
-      "titolo": "Lancia Ypsilon e Gamma non bastano: il CEO Belloni \"rispolvera\" il segmento A",
-      "descrizione": "Arnaud Belloni fa il punto sul futuro di Lancia al Salone di Parigi 2026: il ruolo di sub-brand Fiat, l'espansione all'estero e i piani per le nuove vetture",
-      "link": "https://www.hdmotori.it/lancia-nuovi-modelli-segmento-a-belloni/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T14:00:24+00:00"
     },
     {
       "titolo": "Apple HomePod mini 2: nuovo smart speaker con Siri AI",
@@ -42,132 +168,6 @@
       "link": "https://www.punto-informatico.it/windows-11-24h2-termina-supporto/",
       "fonte": "Punto Informatico",
       "data": "2026-10-13T13:07:12+00:00"
-    },
-    {
-      "titolo": "Apple presenta HomeView: display da 7 pollici, Siri AI e tante funzioni per la casa",
-      "descrizione": "Apple ha presentato HomeView, un nuovo dispositivo con display da 7 pollici per controllare la casa connessa, effettuare videochiamate e accedere ai servizi di intrattenimento. Integra Siri AI, la...",
-      "link": "https://www.hdblog.it/apple/articoli/n673577/apple-presenta-homeview/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T13:06:00+00:00"
-    },
-    {
-      "titolo": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
-      "descrizione": "With customizable “faces,” this 7-inch smart display is a unique hybrid between an iPhone and an Apple Watch.",
-      "link": "https://www.wired.com/story/apple-homeview-smart-display/",
-      "fonte": "WIRED",
-      "data": "2026-10-13T13:00:00+00:00"
-    },
-    {
-      "titolo": "Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model",
-      "descrizione": "Nvidia has announced that DLSS 5 is now two times faster while using less VRAM.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-dlss-5-performance-reduces-4k-vram-usage-by-20-percent-with-latest-model-october-update-cuts-footprint-by-24-percent-to-roughly-118-million-parameters",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-13T12:47:41+00:00"
-    },
-    {
-      "titolo": "Bancarotta per character.ai: la piattaforma è in vendita, la prima offerta da Disney",
-      "descrizione": "O si trova un acquirente interessato oppure la chiusura sarà inevitabile: futuro più che mai incerto per la piattaforma character.ai.",
-      "link": "https://www.hdblog.it/business/articoli/n673563/bancarotta-characterai-piattaforma-vendita-disney/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T12:25:00+00:00"
-    },
-    {
-      "titolo": "Harley-Davidson travolta da un'auto: motociclista invalido, risarcimento da 500.000 euro",
-      "descrizione": "Un operaio specializzato ha subito una invalidità permanente del 48% dopo lo schianto in sella a una Harley Davidson con un automobilista colpevole",
-      "link": "https://www.hdmotori.it/incidente-harley-davidson-maxi-risarcimento/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T12:00:19+00:00"
-    },
-    {
-      "titolo": "All'Isola del Giglio il pontile diventa una “centrale” a energia rinnovabile",
-      "descrizione": "All'Isola del Giglio Seares e New Time sperimentano un pontile capace di produrre energia dal sole e dal moto ondoso. Il sistema integra una pavimentazione fotovoltaica calpestabile e quattro...",
-      "link": "https://www.hdblog.it/green/articoli/n673562/pontile-fotovoltaico-onde-isola-del-giglio/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T11:40:00+00:00"
-    },
-    {
-      "titolo": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
-      "descrizione": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
-      "fonte": "WIRED",
-      "data": "2026-10-13T11:30:00+00:00"
-    },
-    {
-      "titolo": "Epic Games reportedly delays Disney shooter title so it can pivot to AI coding",
-      "descrizione": "Developers working on an unnamed Disney shooter title for Epic Games were surprised when they were ordered to use as much AI as possible in their workflows.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-13T11:22:26+00:00"
-    },
-    {
-      "titolo": "Hisense Speed Oven: microonde, friggitrice ad aria e forno in un solo elettrodomestico",
-      "descrizione": "Hisense presenta Speed Oven, un forno all-in-one che unisce microonde, friggitrice ad aria, grill e forno.",
-      "link": "https://www.hdblog.it/hisense/articoli/n673554/hisense-speed-oven-microonde-friggitrice-aria/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T11:20:00+00:00"
-    },
-    {
-      "titolo": "Le truffe sulle GPU sono sempre più insidiose, pure per chi ha l’occhio",
-      "descrizione": "Una GeForce RTX 4090 acquistata per circa 320 euro si è rivelata una contraffazione sofisticata. Il tecnico Vik-On ha scoperto una GPU fasulla e chip di memoria falsificati nei dettagli",
-      "link": "https://www.hdblog.it/hardware/articoli/n673560/rtx-4090-fake-falsa-come-riconoscerla-truffa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T11:05:00+00:00"
-    },
-    {
-      "titolo": "Brera più accessibile: arrivano i Meta AI Glasses per ciechi e ipovedenti",
-      "descrizione": "Microfoni, auricolari, fotocamere e AI integrate negli occhiali possono potenziare i nostri sensi. Per le persone con disabilità fanno la differenza. L’arte della Pinacoteca di Brera...",
-      "link": "https://www.ilsole24ore.com/art/brera-piu-accessibile-arrivano-meta-glasses-ciechi-e-ipovedenti-AJp9DjhB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-13T11:02:00+00:00"
-    },
-    {
-      "titolo": "SpaceXSI annuncia abbonamento unico per X, Grok e Cursor",
-      "descrizione": "X Subscription è l'abbonamento, suddiviso in quattro opzioni, che permette di accedere a tutti i servizi di SpaceXSI: X, Grok, Grok Bot e Cursor. The post SpaceXSI annuncia abbonamento unico per X, Grok e Cursor appeared",
-      "link": "https://www.punto-informatico.it/spacexsi-abbonamento-unico-x-grok-cursor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-13T11:01:33+00:00"
-    },
-    {
-      "titolo": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "descrizione": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "fonte": "WIRED",
-      "data": "2026-10-13T11:00:00+00:00"
-    },
-    {
-      "titolo": "ColorOS 17: OPPO rinnova l'interfaccia e porta gli agenti AI sugli smartphone",
-      "descrizione": "Una delle novità principali è la nuova Agent Mode di AI Mind Pilot",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673557/coloros-17-oppo-rinnova-interfaccia/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T10:55:00+00:00"
-    },
-    {
-      "titolo": "AI, le big tech temono un grave attacco informatico entro il 2027",
-      "descrizione": "OpenAI, Anthropic e altre aziende di intelligenza artificiale starebbero valutando scenari di crisi legati a gravi incidenti AI, dai cyberattacchi alle interruzioni di servizi essenziali",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n673558/ai-pericoli-rischi-attacco-informatico-timori/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T10:45:00+00:00"
-    },
-    {
-      "titolo": "Huawei MatePad Pro 12\" e serie Watch 6 ufficiali in Italia: prezzi e promo",
-      "descrizione": "Design elegante e prestazioni elevate: ecco la nuova offerta Huawei.",
-      "link": "https://www.hdblog.it/tablet/articoli/n673537/huawei-matepad-pro-12-watch-6-prezzi-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-13T10:40:00+00:00"
-    },
-    {
-      "titolo": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
-      "descrizione": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack — $71 million and counting thanks to implanted eSIM and LTE modules",
-      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-13T10:30:00+00:00"
-    },
-    {
-      "titolo": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
-      "descrizione": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
-      "fonte": "WIRED",
-      "data": "2026-10-13T10:30:00+00:00"
     }
   ]
 }
