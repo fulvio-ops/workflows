@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-10-14T11:57:41.184780+00:00",
+  "last_updated": "2026-10-14T17:14:32.205516+00:00",
   "items": [
     {
-      "titolo": "Saudi OpenAI engineer arrested for allegedly planting $14 recording device in company office",
-      "descrizione": "An OpenAI engineer has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications and is facing up to five years in prison plus a $250,000 fine.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-engineer-arrested-for-allegedly-planting-usd14-recording-device-in-company-office-cheap-microcontroller-was-meant-to-secretly-capture-sensitive-communications-about-the-companys-super-intelligence-technology",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-14T11:48:41+00:00",
+      "titolo": "Microsoft spinge gli utenti a usare Edge: le accuse di Mozilla",
+      "descrizione": "Microsoft continua a promuovere Edge a discapito dei browser concorrenti. Mozilla denuncia pratiche scorrette anche nell'Unione europea. The post Microsoft spinge gli utenti a usare Edge: le accuse di Mozilla appeared fi",
+      "link": "https://www.punto-informatico.it/microsoft-spinge-utenti-usare-edge-accuse-mozilla/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-14T13:14:35+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11 KB5127648: novità per Esplora file e tasto Copilot",
-      "descrizione": "Al via la distribuzione dell'aggiornamento KB5127648 per le versioni 26H2, 25H2 e 24H2 di Windows 11: è il Patch Tuesday di ottobre. The post Windows 11 KB5127648: novità per Esplora file e tasto Copilot appeared first o",
-      "link": "https://www.punto-informatico.it/windows-11-kb5127648/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-14T06:10:57+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini 4 Argon: protezioni contro usi illeciti del modello",
-      "descrizione": "Google ha illustrato le protezioni implementate per boccate eventuali usi illeciti di Gemini 4 Argon, ad esempio per scrivere il codice degli exploit. The post Gemini 4 Argon: protezioni contro usi illeciti del modello a",
-      "link": "https://www.punto-informatico.it/gemini-4-argon-protezioni-contro-usi-illeciti-modello/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-14T08:26:11+00:00",
+      "titolo": "Gemini 4 Argon disponibile al pubblico: la risposta di Google a ChatGPT-6 e Fable 5",
+      "descrizione": "Dopo l’anteprima per i partner di Fairwind, Google apre l’accesso a sviluppatori e utenti Pro del suo nuovo modello di frontiera. Primo nel Vals Index per finanza, coding e sicurezza, debutta con prezzi promozionali fino",
+      "link": "https://www.ilsole24ore.com/art/gemini-4-argon-disponibile-pubblico-risposta-google-chatgpt-6-e-fable-5-AJTVLkiB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-13T16:06:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Gemini 4 Argon, cosa sa fare davvero il nuovo modello di Google",
-      "descrizione": "Google lancia il suo nuovo modello Gemini 4 Argon. Disponibilità per Pro e Ultra e come se la cava contro GPT-6 Astra e Claude. The post Gemini 4 Argon, cosa sa fare davvero il nuovo modello di Google appeared first on P",
-      "link": "https://www.punto-informatico.it/gemini-4-argon-cosa-sa-fare-davvero-nuovo-modello-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-14T07:18:50+00:00",
+      "titolo": "Se l’AI impara a replicarsi: codici malevoli autonomi potrebbero invadere elettrodomestici e Tv",
+      "descrizione": "Il lavoro di Anthropic sull’autoreplicazione dei modelli AI affronta una questione concreta: in quali condizioni un sistema potrebbe sfruttare le risorse informatiche disponibili per creare copie di sé stesso,",
+      "link": "https://www.ilsole24ore.com/art/se-l-ai-impara-replicarsi-codici-malevoli-autonomi-potrebbero-invadere-elettrodomestici-e-tv-AJVB5ZjB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-14T12:28:00+00:00",
       "modello": "claude"
     },
     {
