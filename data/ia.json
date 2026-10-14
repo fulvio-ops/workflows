@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-10-13T22:47:50.847903+00:00",
+  "last_updated": "2026-10-14T04:57:49.306728+00:00",
   "items": [
     {
-      "titolo": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "descrizione": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "titolo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "descrizione": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
       "fonte": "WIRED",
-      "data": "2026-10-13T19:35:29+00:00",
+      "data": "2026-10-13T23:17:59+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Excel con Copilot crea report interattivi che si aggiornano da soli",
-      "descrizione": "Microsoft potenzia Excel con Copilot. Report interattivi, automazione delle attività ripetitive e strumenti AI per importare e ripulire i dati. The post Excel con Copilot crea report interattivi che si aggiornano da soli",
-      "link": "https://www.punto-informatico.it/excel-copilot-crea-report-interattivi-si-aggiornano-da-soli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-13T08:46:09+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Gemini 4 Argon disponibile al pubblico: la risposta di Google a ChatGPT-6 e Fable 5",
