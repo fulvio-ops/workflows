@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-14T17:14:28.141689+00:00",
+  "last_updated": "2026-10-14T21:43:31.511585+00:00",
   "items": [
+    {
+      "titolo": "Dipendente OpenAI colto a spiare le riunioni dei dirigenti, arrestato dall'FBI",
+      "descrizione": "Il dipendente è accusato di aver installato una cimice nella sala riunioni dei dirigenti. È stato colto in flagrante da una videocamera opportunamente posizionata.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673755/openai-dipendente-spionaggio-cimice-riunioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-14T18:15:00+00:00"
+    },
+    {
+      "titolo": "Google Messaggi: protezione antitruffa con Gemini su Android",
+      "descrizione": "Google ha annunciato nuove protezioni contro le truffe per l'app Messaggi su Android, alcune delle quali sfruttano i modelli Gemini (cloud e locali). The post Google Messaggi: protezione antitruffa con Gemini su Android",
+      "link": "https://www.punto-informatico.it/google-messaggi-protezione-antitruffa-gemini-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-14T18:08:36+00:00"
+    },
+    {
+      "titolo": "F1, annuncio assurdo: perché il Circus ha scelto il Ruanda per il ritorno in Africa",
+      "descrizione": "Liberty Media ha preferito il Ruanda al Sudafrica o ad altri Stati del Continente Nero. Vi spieghiamo tutti i motivi",
+      "link": "https://www.hdmotori.it/f1-ruanda-ritorno-gp-africa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-14T18:00:48+00:00"
+    },
+    {
+      "titolo": "Bologna, commessa di telefonia sfrutta la carta di un anziano per 10 mila euro di acquisti",
+      "descrizione": "L'uomo si era rivolto al negozio per ricevere aiuto durante una transazione online",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673706/bologna-negozio-telefonia-anziano-truffato/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-14T17:35:00+00:00"
+    },
+    {
+      "titolo": "Alfa Romeo, bastano quattro parole di Jeremy Clarkson per accendere l'entusiasmo",
+      "descrizione": "È diventato virale il breve commento di apprezzamento di Jeremy Clarkson all’innovativa concept car di Alfa Romeo",
+      "link": "https://www.hdmotori.it/jeremy-clarkson-nuova-alfa-romeo-cuorerosso/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-14T17:30:28+00:00"
+    },
     {
       "titolo": "Siri AI arriverà anche sugli Apple HomePod di seconda generazione?",
       "descrizione": "Alcuni indizi sulla pagina prodotto del sito ufficiale sembrano suggerirlo, ma Apple per ora non si sbottona.",
@@ -79,46 +114,11 @@
       "data": "2026-10-14T15:30:29+00:00"
     },
     {
-      "titolo": "Xiaomi 17T, dopo 4 mesi dal lancio è in sconto di quasi 300€ su eBay",
-      "descrizione": "Sono trascorsi quattro mesi e mezzo dal lancio di Xiaomi 17T, a distanza dei quali il prezzo è sceso fino al di sotto dell’importo di 500 euro. Nel taglio di memoria da 256 GB, con 12 GB...",
-      "link": "https://www.hdblog.it/smartphone/offerte/n673727/xiaomi-17t-256gb-sconto-36-percento-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T15:15:00+00:00"
-    },
-    {
-      "titolo": "Bollette più leggere e massimo comfort: ecco le nuove pompe di calore Panasonic",
-      "descrizione": "Aquarea High Performance M ed N si adattano a qualsiasi spazio grazie alle dimensioni compatte.",
-      "link": "https://www.hdblog.it/panasonic/articoli/n673716/panasonic-aquarea-pompa-calore-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T15:05:00+00:00"
-    },
-    {
-      "titolo": "La Mercedes speciale di Toto Wolff, la rara hypercar vale diversi milioni",
-      "descrizione": "Il CEO del team F1 della Stella a tre punte, Toto Wolff, è stato avvistato nel Principato di Monaco al volante di una delle Mercedes più iconiche di sempre",
-      "link": "https://www.hdmotori.it/mercedes-clk-gtr-toto-wolff-monaco/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T15:00:26+00:00"
-    },
-    {
-      "titolo": "WhatsApp introduce le chiamate per ospiti: ecco come funzionano",
-      "descrizione": "WhatsApp introduce le chiamate per ospiti senza account e prepara l'integrazione con i calendari.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n673722/whatsapp-chiamate-senza-account-ospiti/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T14:55:00+00:00"
-    },
-    {
       "titolo": "Possiamo invitare ospiti senza account alle chiamate su WhatsApp",
       "descrizione": "WhatsApp apre chiamate e videochiamate agli ospiti senza account, con crittografia end-to-end, sala d'attesa e condivisione dello schermo. The post Possiamo invitare ospiti senza account alle chiamate su WhatsApp appeare",
       "link": "https://www.punto-informatico.it/invitare-ospiti-senza-account-chiamate-whatsapp/",
       "fonte": "Punto Informatico",
       "data": "2026-10-14T14:50:59+00:00"
-    },
-    {
-      "titolo": "Upgrade hardware per il mitico Nokia 3310 grazie a Raspberry Pi Pico",
-      "descrizione": "Ora sì che ha potenza da vendere!",
-      "link": "https://www.hdblog.it/nokia/articoli/n673721/nokia-3310-piattaforma-hardware-raspberry-pi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T14:25:00+00:00"
     },
     {
       "titolo": "LibreOffice Draw arriva in soccorso degli orfani di Publisher",
@@ -142,13 +142,6 @@
       "data": "2026-10-14T13:59:59+00:00"
     },
     {
-      "titolo": "Migliori Robot Aspirapolvere e Lavapavimenti Economici (2026)",
-      "descrizione": "Cerchi un robot aspirapolvere e lavapavimenti economico sotto 300 euro o sotto 200 euro? Scopri le caratteristiche irrinunciabili in questa guida.",
-      "link": "https://www.hdblog.it/home/guide/n666320/robot-aspirapolvere-lavapavimenti-economici/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-14T13:47:00+00:00"
-    },
-    {
       "titolo": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
       "descrizione": "Brian K. Vaughan claims he’s seen Dune: Part Three and it’s “a fucking beautiful movie.”",
       "link": "https://www.wired.com/story/new-york-comic-con-interview/",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/nuovo-logo-apple-music/",
       "fonte": "Punto Informatico",
       "data": "2026-10-14T13:09:55+00:00"
+    },
+    {
+      "titolo": "SpaceX limits Starlink service for Ukraine’s high-speed military drones without prior warning",
+      "descrizione": "Ukrainian officials say SpaceX imposed new speed restrictions on military-grade Starlink terminals without warning, disrupting drone and logistics missions and forcing some operations to be canceled",
+      "link": "https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-14T13:04:33+00:00"
     }
   ]
 }

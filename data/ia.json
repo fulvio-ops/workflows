@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-14T17:14:32.205516+00:00",
+  "last_updated": "2026-10-14T21:43:35.102867+00:00",
   "items": [
     {
-      "titolo": "Microsoft spinge gli utenti a usare Edge: le accuse di Mozilla",
-      "descrizione": "Microsoft continua a promuovere Edge a discapito dei browser concorrenti. Mozilla denuncia pratiche scorrette anche nell'Unione europea. The post Microsoft spinge gli utenti a usare Edge: le accuse di Mozilla appeared fi",
-      "link": "https://www.punto-informatico.it/microsoft-spinge-utenti-usare-edge-accuse-mozilla/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-14T13:14:35+00:00",
+      "titolo": "Dipendente OpenAI colto a spiare le riunioni dei dirigenti, arrestato dall'FBI",
+      "descrizione": "Il dipendente è accusato di aver installato una cimice nella sala riunioni dei dirigenti. È stato colto in flagrante da una videocamera opportunamente posizionata.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673755/openai-dipendente-spionaggio-cimice-riunioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-14T18:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 4 Argon disponibile al pubblico: la risposta di Google a ChatGPT-6 e Fable 5",
-      "descrizione": "Dopo l’anteprima per i partner di Fairwind, Google apre l’accesso a sviluppatori e utenti Pro del suo nuovo modello di frontiera. Primo nel Vals Index per finanza, coding e sicurezza, debutta con prezzi promozionali fino",
-      "link": "https://www.ilsole24ore.com/art/gemini-4-argon-disponibile-pubblico-risposta-google-chatgpt-6-e-fable-5-AJTVLkiB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-13T16:06:00+00:00",
+      "titolo": "Google Messaggi: protezione antitruffa con Gemini su Android",
+      "descrizione": "Google ha annunciato nuove protezioni contro le truffe per l'app Messaggi su Android, alcune delle quali sfruttano i modelli Gemini (cloud e locali). The post Google Messaggi: protezione antitruffa con Gemini su Android",
+      "link": "https://www.punto-informatico.it/google-messaggi-protezione-antitruffa-gemini-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-14T18:08:36+00:00",
       "modello": "gemini"
     },
     {
