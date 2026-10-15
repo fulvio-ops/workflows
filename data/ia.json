@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-15T11:34:01.261831+00:00",
+  "last_updated": "2026-10-15T17:04:14.816465+00:00",
   "items": [
     {
-      "titolo": "Ci risiamo: anche iPhone 18 Pro Burgundy cambia colore, come il 17 Pro arancione",
-      "descrizione": "Alcuni utenti segnalano che la finitura Burgundy dell'iPhone 18 Pro sbiadisce rapidamente, diventando più chiara.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673808/iphone-18-pro-bordeaux-cambia-colore/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-15T10:45:00+00:00",
+      "titolo": "Come usare ChatGPT per trasformare i documenti in audiolibri",
+      "descrizione": "Un servizio che collega ChatGPT alla sintesi vocale trasforma i documenti in audio da ascoltare in macchina, camminando o facendo altro. The post Come usare ChatGPT per trasformare i documenti in audiolibri appeared firs",
+      "link": "https://www.punto-informatico.it/come-usare-chatgpt-trasformare-documenti-audiolibri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-15T15:30:12+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Commissione europea avvia indagine su Anthropic e OpenAI",
-      "descrizione": "La Commissione europea ha chiesto informazioni ad Anthropic e OpenAI sugli incidenti causati dagli agenti per verificare il rispetto dell'AI Act. The post Commissione europea avvia indagine su Anthropic e OpenAI appeared",
-      "link": "https://www.punto-informatico.it/commissione-europea-avvia-indagine-anthropic-openai/",
+      "titolo": "Hacker usa l’AI per attaccare le banche, ma Claude lo tradisce",
+      "descrizione": "Un hacker avrebbe usato diversi modelli AI per attaccare le banche. A tradirlo sono state le conversazioni con Claude Code. The post Hacker usa l’AI per attaccare le banche, ma Claude lo tradisce appeared first on Punto",
+      "link": "https://www.punto-informatico.it/hacker-usa-ai-attaccare-banche-claude-lo-tradisce/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-15T08:33:14+00:00",
+      "data": "2026-10-15T16:41:44+00:00",
       "modello": "claude"
     },
     {
