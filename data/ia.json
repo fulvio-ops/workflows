@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T21:26:01.383837+00:00",
+  "last_updated": "2026-10-16T04:35:54.213253+00:00",
   "items": [
     {
       "titolo": "Come usare ChatGPT per trasformare i documenti in audiolibri",
@@ -26,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "AI in locale, disponibile Llama Windows: cos’è e come funziona",
-      "descrizione": "Diamo uno sguardo a Llama Windows: l'utility permette di scaricare ed eseguire modelli AI in locale, in modo semplice e accessibile a tutti. The post AI in locale, disponibile Llama Windows: cos’è e come funziona appeare",
-      "link": "https://www.punto-informatico.it/ai-locale-llama-windows-come-funziona/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-15T08:01:22+00:00",
+      "titolo": "La via francese all’Intelligenza Artificiale: così Parigi blinda la sua sovranità tecnologica sull’asse Nvidia-Mistral",
+      "descrizione": "Dai server “Made in Europe” di Angers all’AI autonoma per l’aerospazio e la cosmetica: l’ecosistema integrato punta all’infrastruttura completa.",
+      "link": "https://www.ilsole24ore.com/art/la-via-francese-all-intelligenza-artificiale-cosi-parigi-blinda-sua-sovranita-tecnologica-sull-asse-nvidia-mistral-AJd8F4iB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-14T05:18:21+00:00",
       "modello": "altri"
     }
   ]

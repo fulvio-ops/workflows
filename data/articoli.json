@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-10-15T21:25:56.600751+00:00",
+  "last_updated": "2026-10-16T04:35:50.708758+00:00",
   "items": [
+    {
+      "titolo": "Conto corrente remunerato al 4% con la banca online BBVA",
+      "descrizione": "BBVA è la banca online che offre un conto corrente remunerato al [affiliate_link link_id=”4812″]4% ogni mese per sei mesi[/affiliate_link], poi la remunerazione è garantita a lungo termine. Inoltre, sia il conto che la c",
+      "link": "https://www.punto-informatico.it/fintech/conti/conto-corrente-remunerato-al-4-percento-con-banca-online-bbva/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-16T03:56:43+00:00"
+    },
+    {
+      "titolo": "A Tesla Flying Car? I Don’t Know, Man",
+      "descrizione": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.",
+      "link": "https://www.wired.com/story/tesla-flying-car-faa/",
+      "fonte": "WIRED",
+      "data": "2026-10-16T03:18:30+00:00"
+    },
     {
       "titolo": "Apple e Nvidia donano 25 milioni di dollari per la sala da ballo di Trump",
       "descrizione": "Anche Google e Microsoft si sono unite alle danze.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/windows-11-migliorato-8-gb-ram/",
       "fonte": "Punto Informatico",
       "data": "2026-10-15T15:00:11+00:00"
-    },
-    {
-      "titolo": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
-      "descrizione": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
-      "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "titolo": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
-      "descrizione": "Sipeed’s MaixStation pairs Axera’s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia’s DGX Spark and AMD’s Ryzen AI Halo.",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-15T14:30:00+00:00"
     }
   ]
 }
