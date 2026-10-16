@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-10-16T16:42:04.774620+00:00",
+  "last_updated": "2026-10-16T21:13:19.916611+00:00",
   "items": [
+    {
+      "titolo": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "descrizione": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "fonte": "WIRED",
+      "data": "2026-10-16T20:05:08+00:00"
+    },
+    {
+      "titolo": "Perché sono tornato ad usare un computer con Windows On Arm e Snapdragon | VIDEO",
+      "descrizione": "Abbiamo usato per due anni i nuovi computer con Snapdragon e Windows On Arm. Ora con l'AI hanno tantissimo senso, ma non sono per tutti.",
+      "link": "https://www.hdblog.it/portatili/speciali/n673230/windows-on-arm-snapdragon-due-anni-dopo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T19:00:00+00:00"
+    },
+    {
+      "titolo": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "descrizione": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-16T17:10:27+00:00"
+    },
+    {
+      "titolo": "Meta e Apple tornano a lavorare assieme: merito dell'AI",
+      "descrizione": "Il nuovo modello open multimodale Muse Spark da ben 816 miliardi di parametri può essere eseguito completamente in locale, con due Mac Studio basati su M5 Ultra.",
+      "link": "https://www.hdblog.it/apple/articoli/n674007/meta-apple-collaborazione-muse-mac-studio/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T17:10:00+00:00"
+    },
+    {
+      "titolo": "This could be your last chance to grab an RTX 5090",
+      "descrizione": "With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming.",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-16T17:04:44+00:00"
+    },
+    {
+      "titolo": "Edge, arrivano gli aggiornamenti senza riavvio?",
+      "descrizione": "Microsoft sta sviluppando aggiornamenti di Edge senza riavvio, che mantengono schede e lavoro in corso. Ecco come funziona il prototipo. The post Edge, arrivano gli aggiornamenti senza riavvio? appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/edge-arrivano-aggiornamenti-senza-riavvio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-16T17:00:13+00:00"
+    },
+    {
+      "titolo": "Hyundai IONIQ 3 punta al titolo di Auto Europa 2027: è tra le sette finaliste",
+      "descrizione": "Hyundai IONIQ 3 è tra le sette finaliste di Auto Europa 2027. La compatta elettrica offre fino a 497 km WLTP, 441 litri di bagagliaio e PLEOS Connect",
+      "link": "https://www.hdmotori.it/hyundai-ioniq-3-punta-al-titolo-di-auto-europa-2027-e-tra-le-sette-finaliste/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T17:00:02+00:00"
+    },
+    {
+      "titolo": "Deputato legge il discorso dagli occhiali smart: scoppia il caso",
+      "descrizione": "Un deputato gallese usa gli occhiali smart come gobbo e scatena una polemica sulla privacy.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n673985/occhiali-smart-deputato-gobbo-parlamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T16:55:00+00:00"
+    },
+    {
+      "titolo": "Anna's Archive, la shadow library segnalata dalla RIAA al governo USA",
+      "descrizione": "La shadow library che copiò il database di Spotify è stata aggiunta alla \"entity list\" di pirateria e contraffazione.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n674004/riaa-annas-archive-pirateria-lista-entita-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T16:45:00+00:00"
+    },
     {
       "titolo": "Walkman a 5.000 euro: Sony scommette sul lusso",
       "descrizione": "Il Walkman non è morto. Sony annuncia i nuovi lettori MP3 NW-WM1ZM3 e NW-WM1AM3 a prezzi da prodotto di lusso. The post Walkman a 5.000 euro: Sony scommette sul lusso appeared first on Punto Informatico .",
@@ -37,7 +100,7 @@
       "data": "2026-10-16T15:59:49+00:00"
     },
     {
-      "titolo": "Orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599",
+      "titolo": "Nvidia RTX Spark devices are now officially on sale, secure the Surface Laptop Ultra or other RTX Spark laptops here",
       "descrizione": "Orders are live on Nvidia RTX Spark laptops, including the Microsoft Surface Laptop Ultra and devices from HP, Lenovo, Asus, and Dell.",
       "link": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models",
       "fonte": "Latest from Tom's Hardware",
@@ -56,13 +119,6 @@
       "link": "https://www.hdblog.it/smartphone/articoli/n673973/allerta-terremoti-google-novita/",
       "fonte": "HDblog.it",
       "data": "2026-10-16T15:20:00+00:00"
-    },
-    {
-      "titolo": "Perché sono tornato ad usare un computer con Windows On Arm e Snapdragon | VIDEO",
-      "descrizione": "Abbiamo usato per due anni i nuovi computer con Snapdragon e Windows On Arm. Ora con l'AI hanno tantissimo senso, ma non sono per tutti.",
-      "link": "https://www.hdblog.it/portatili/speciali/n673230/windows-on-arm-snapdragon-due-anni-dopo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T15:15:00+00:00"
     },
     {
       "titolo": "Addio al secondo intercalare: il mondo cambia il modo di misurare il tempo",
@@ -107,67 +163,11 @@
       "data": "2026-10-16T13:30:44+00:00"
     },
     {
-      "titolo": "Call of Duty, Activision conferma una nuova saga: lo sviluppo è già iniziato",
-      "descrizione": "Il prossimo capitolo non sarà un Modern Warfare né un Black OPS.",
-      "link": "https://www.hdblog.it/games/articoli/n673968/call-of-duty-nuova-sottoserie-activision-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T13:25:00+00:00"
-    },
-    {
       "titolo": "Giocare per imparare: perché simulazioni e AI stanno cambiando la formazione manageriale",
       "descrizione": "Nel volume Gaming and Learning: Play, Game and Knowledge, Andrea Pontiggia e Tiziano Vescovi spiegano perché videogiochi e simulazioni possono diventare laboratori per allenare decisioni, errori e gestione dell’incertezz",
       "link": "https://www.ilsole24ore.com/art/giocare-imparare-perche-simulazioni-e-stanno-cambiando-formazione-manageriale-AJ8OPx7",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-10-16T13:20:52+00:00"
-    },
-    {
-      "titolo": "6G, Ericsson e Verizon completano la prima chiamata outdoor",
-      "descrizione": "La sperimentazione del 6G in California: il test di Ericsson e Verizon valuta anche la penetrazione del segnale attraverso vetri e pareti. The post 6G, Ericsson e Verizon completano la prima chiamata outdoor appeared fir",
-      "link": "https://www.punto-informatico.it/6g-ericsson-verizon-completano-prima-chiamata-outdoor/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T13:12:02+00:00"
-    },
-    {
-      "titolo": "L'app Foto di Windows 11 cambia pelle: tutte le novità annunciate da Microsoft",
-      "descrizione": "Microsoft rinnova l'app Foto di Windows 11 con una galleria unificata, Moments, strumenti avanzati per l'editing e l'immancabile AI.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673964/app-foto-windows-11-cambia-pelle-tutte-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T13:10:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo, preordini appena iniziati e consegne già slittate al prossimo anno",
-      "descrizione": "I tempi di consegna si sono allungati fino al prossimo anno",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673974/iphone-duo-preordini-consegne-prossimo-anno/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T13:05:00+00:00"
-    },
-    {
-      "titolo": "FIAT Grizzly, la robustezza formato SUV parte da 20.000 euro: stesso prezzo per la Fastback",
-      "descrizione": "Il marchio torinese ha ufficializzato i prezzi del SUV che rimpolperà una gamma che per molti anni non ha avuto un’auto come la Grizzly",
-      "link": "https://www.hdmotori.it/nuova-fiat-grizzly-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T13:00:36+00:00"
-    },
-    {
-      "titolo": "Lamborghini Temerario al servizio della Polizia di Dubai: la supercar entra in pattuglia",
-      "descrizione": "La Polizia di Dubai amplia la propria flotta di vetture con la Lamborghini Temerario, una ibrida da 920 CV in grado di toccare i 340 km/h",
-      "link": "https://www.hdmotori.it/polizia-dubai-lamborghini-supercar/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T12:30:00+00:00"
-    },
-    {
-      "titolo": "Piano B per il Galaxy S27 Ultra: Exynos al posto dello Snapdragon, che si surriscalda",
-      "descrizione": "Samsung Galaxy S27 Ultra potrebbe montare il chip Exynos 2700 al posto dello Snapdragon 8 Elite Extreme Gen 6.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673937/samsung-galaxy-s27-ultra-snapdragon-exynos/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T12:20:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo è arrivato su Amazon: prenotalo al minimo garantito",
-      "descrizione": "Al via su Amazon il preordine di iPhone Duo, con la possibilità di prenotare lo smartphone pieghevole di Apple al prezzo minimo garantito. The post iPhone Duo è arrivato su Amazon: prenotalo al minimo garantito appeared",
-      "link": "https://www.punto-informatico.it/iphone-duo-amazon-prenotalo-minimo-garantito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T12:09:02+00:00"
     }
   ]
 }

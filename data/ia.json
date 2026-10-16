@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-16T16:42:08.687675+00:00",
+  "last_updated": "2026-10-16T21:13:24.015090+00:00",
   "items": [
     {
-      "titolo": "Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm — .22 caliber handgun created by an 'AI that can generate guns' called GatGPT",
-      "descrizione": "A gun rights activist has unveiled the world's first AI-made 3D printed firearm.",
-      "link": "https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-16T16:20:41+00:00",
+      "titolo": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
+      "descrizione": "And there’s no opt-out available.",
+      "link": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-16T19:36:02+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic sceglie METR per la valutazione dei modelli Claude",
-      "descrizione": "Sei dipendenti di METR avranno accesso ai modelli Claude di Anthropic e pubblicheranno la valutazione dei rischi (con alcune limitazioni). The post Anthropic sceglie METR per la valutazione dei modelli Claude appeared fi",
-      "link": "https://www.punto-informatico.it/anthropic-sceglie-metr-valutazione-modelli-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T08:49:55+00:00",
+      "titolo": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "descrizione": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-16T17:10:27+00:00",
       "modello": "claude"
     },
     {
