@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-10-16T04:35:54.213253+00:00",
+  "last_updated": "2026-10-16T11:28:44.107911+00:00",
   "items": [
     {
-      "titolo": "Come usare ChatGPT per trasformare i documenti in audiolibri",
-      "descrizione": "Un servizio che collega ChatGPT alla sintesi vocale trasforma i documenti in audio da ascoltare in macchina, camminando o facendo altro. The post Come usare ChatGPT per trasformare i documenti in audiolibri appeared firs",
-      "link": "https://www.punto-informatico.it/come-usare-chatgpt-trasformare-documenti-audiolibri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-15T15:30:12+00:00",
+      "titolo": "ChatGPT si integra con Chrome: legge le schede e compila moduli",
+      "descrizione": "ChatGPT accede alle schede aperte in Chrome, confronta informazioni ed esegue operazioni.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673914/chatgpt-chrome-schede-aperte-nuove-funzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-16T08:20:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 4 Argon disponibile al pubblico: la risposta di Google a ChatGPT-6 e Fable 5",
-      "descrizione": "Dopo l’anteprima per i partner di Fairwind, Google apre l’accesso a sviluppatori e utenti Pro del suo nuovo modello di frontiera. Primo nel Vals Index per finanza, coding e sicurezza, debutta con prezzi promozionali fino",
-      "link": "https://www.ilsole24ore.com/art/gemini-4-argon-disponibile-pubblico-risposta-google-chatgpt-6-e-fable-5-AJTVLkiB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-13T16:06:00+00:00",
+      "titolo": "Google Home si aggiorna: Gemini più naturale e affidabile in casa",
+      "descrizione": "Google Home si aggiorna. Gemini ora si interrompe con un semplice stop e saluta quando la conversazione finisce. Tutte le novità e i bug corretti. The post Google Home si aggiorna: Gemini più naturale e affidabile in cas",
+      "link": "https://www.punto-informatico.it/google-home-si-aggiorna-gemini-piu-naturale-affidabile-casa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-16T08:20:32+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Hacker usa l’AI per attaccare le banche, ma Claude lo tradisce",
-      "descrizione": "Un hacker avrebbe usato diversi modelli AI per attaccare le banche. A tradirlo sono state le conversazioni con Claude Code. The post Hacker usa l’AI per attaccare le banche, ma Claude lo tradisce appeared first on Punto",
-      "link": "https://www.punto-informatico.it/hacker-usa-ai-attaccare-banche-claude-lo-tradisce/",
+      "titolo": "Anthropic sceglie METR per la valutazione dei modelli Claude",
+      "descrizione": "Sei dipendenti di METR avranno accesso ai modelli Claude di Anthropic e pubblicheranno la valutazione dei rischi (con alcune limitazioni). The post Anthropic sceglie METR per la valutazione dei modelli Claude appeared fi",
+      "link": "https://www.punto-informatico.it/anthropic-sceglie-metr-valutazione-modelli-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-15T16:41:44+00:00",
+      "data": "2026-10-16T08:49:55+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "La via francese all’Intelligenza Artificiale: così Parigi blinda la sua sovranità tecnologica sull’asse Nvidia-Mistral",
-      "descrizione": "Dai server “Made in Europe” di Angers all’AI autonoma per l’aerospazio e la cosmetica: l’ecosistema integrato punta all’infrastruttura completa.",
-      "link": "https://www.ilsole24ore.com/art/la-via-francese-all-intelligenza-artificiale-cosi-parigi-blinda-sua-sovranita-tecnologica-sull-asse-nvidia-mistral-AJd8F4iB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-14T05:18:21+00:00",
+      "titolo": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
+      "descrizione": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
+      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-16T10:00:00+00:00",
       "modello": "altri"
     }
   ]
