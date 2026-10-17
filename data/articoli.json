@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-10-17T10:48:43.243174+00:00",
+  "last_updated": "2026-10-17T15:38:25.045516+00:00",
   "items": [
+    {
+      "titolo": "Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting",
+      "descrizione": "Redditor showcases a new quad 8-pin power-conversion kit for the 16-pin power connector on Nvidia GeForce RTX graphics cards.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T15:20:00+00:00"
+    },
+    {
+      "titolo": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
+      "descrizione": "Nvidia states that RTX 5090 isn't discontinued, only that supply is constrained — and yet the card is effectively gone from storefronts",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T14:38:18+00:00"
+    },
+    {
+      "titolo": "Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale",
+      "descrizione": "Nintendo Switch 2 owners looking to download more games can take advantage of this deal on SanDisk’s officially licensed microSD Express card, which supports read speeds of up to 880 MB/s and offers 512GB of capacity.",
+      "link": "https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T13:39:06+00:00"
+    },
+    {
+      "titolo": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "descrizione": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T13:21:20+00:00"
+    },
+    {
+      "titolo": "iPhone Duo, Apple conferma: c'è una domanda \"a dir poco straordinaria\"",
+      "descrizione": "Le prime disponibilità per il 23 ottobre sono terminate quasi subito",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674032/iphone-duo-apple-conferma-domanda-straordinaria/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T13:11:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA RTX Spark alla prova: finalmente anche Windows ha il suo laptop definitivo | VIDEO",
+      "descrizione": "Abbiamo provato in anteprima i nuovi super notebook con chipset NVIDIA e sistema operativo Windows On Arm. Il risultato finale è incredibile.",
+      "link": "https://www.hdblog.it/portatili/recensioni/n673845/rtx-spark-notebook-recensione-prezzo-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "titolo": "Auricolari wireless da 55 ore, con 6 microfoni e IP55: CMF Buds 2 in offerta",
+      "descrizione": "Gli auricolari wireless CMF Buds 2 offrono 55 ore complessive di autonomia, sono impermeabili e garantiscono un audio premium. The post Auricolari wireless da 55 ore, con 6 microfoni e IP55: CMF Buds 2 in offerta appeare",
+      "link": "https://www.punto-informatico.it/auricolari-wireless-55-ore-6-microfoni-ip55-cmf-buds-2-offerta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-17T11:41:59+00:00"
+    },
+    {
+      "titolo": "Apple aggiorna le linee guida per le app di nudificazione",
+      "descrizione": "Apple ha aggiornato le linee guida dello store per chiarire che le app AI di nudificazione sono vietate, quindi verranno rimosse. The post Apple aggiorna le linee guida per le app di nudificazione appeared first on Punto",
+      "link": "https://www.punto-informatico.it/apple-aggiorna-linee-guida-app-nudificazione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-17T11:15:10+00:00"
+    },
+    {
+      "titolo": "Google Foto riempie la memoria? 4 impostazioni utili per liberarla",
+      "descrizione": "Quattro impostazioni per evitare backup inutili e gestire meglio lo spazio su Google Foto.",
+      "link": "https://www.hdblog.it/google/articoli/n674020/google-foto-impostazioni-liberare-spazio/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T10:55:00+00:00"
+    },
     {
       "titolo": "HTC Made Smart Glasses That Are Way More Private",
       "descrizione": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
@@ -9,18 +72,18 @@
       "data": "2026-10-17T10:30:00+00:00"
     },
     {
+      "titolo": "Xiaomi Smart Band 10, lo sconto è del 35%: 21 giorni di autonomia e oltre 150 sport",
+      "descrizione": "Lo Xiaomi Smart Band 10 con 21 giorni di autonomia, oltre 150 sport, monitoraggio della salute e display AMOLED è scontato del 35% su Amazon.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n674033/xiaomi-smart-band-10-21-giorni-autonomia-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T10:05:00+00:00"
+    },
+    {
       "titolo": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
       "descrizione": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
       "link": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-17T10:00:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo, Apple conferma: c'è una domanda \"a dir poco straordinaria\"",
-      "descrizione": "Le prime disponibilità per il 23 ottobre sono terminate quasi subito",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674032/iphone-duo-apple-conferma-domanda-straordinaria/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-17T09:11:00+00:00"
     },
     {
       "titolo": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
@@ -100,74 +163,11 @@
       "data": "2026-10-16T17:10:27+00:00"
     },
     {
-      "titolo": "Meta e Apple tornano a lavorare assieme: merito dell'AI",
-      "descrizione": "Il nuovo modello open multimodale Muse Spark da ben 816 miliardi di parametri può essere eseguito completamente in locale, con due Mac Studio basati su M5 Ultra.",
-      "link": "https://www.hdblog.it/apple/articoli/n674007/meta-apple-collaborazione-muse-mac-studio/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T17:10:00+00:00"
-    },
-    {
       "titolo": "This could be your last chance to grab an RTX 5090",
       "descrizione": "With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming.",
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-16T17:04:44+00:00"
-    },
-    {
-      "titolo": "Edge, arrivano gli aggiornamenti senza riavvio?",
-      "descrizione": "Microsoft sta sviluppando aggiornamenti di Edge senza riavvio, che mantengono schede e lavoro in corso. Ecco come funziona il prototipo. The post Edge, arrivano gli aggiornamenti senza riavvio? appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/edge-arrivano-aggiornamenti-senza-riavvio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T17:00:13+00:00"
-    },
-    {
-      "titolo": "Hyundai IONIQ 3 punta al titolo di Auto Europa 2027: è tra le sette finaliste",
-      "descrizione": "Hyundai IONIQ 3 è tra le sette finaliste di Auto Europa 2027. La compatta elettrica offre fino a 497 km WLTP, 441 litri di bagagliaio e PLEOS Connect",
-      "link": "https://www.hdmotori.it/hyundai-ioniq-3-punta-al-titolo-di-auto-europa-2027-e-tra-le-sette-finaliste/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T17:00:02+00:00"
-    },
-    {
-      "titolo": "Deputato legge il discorso dagli occhiali smart: scoppia il caso",
-      "descrizione": "Un deputato gallese usa gli occhiali smart come gobbo e scatena una polemica sulla privacy.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n673985/occhiali-smart-deputato-gobbo-parlamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T16:55:00+00:00"
-    },
-    {
-      "titolo": "Anna's Archive, la shadow library segnalata dalla RIAA al governo USA",
-      "descrizione": "La shadow library che copiò il database di Spotify è stata aggiunta alla \"entity list\" di pirateria e contraffazione.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674004/riaa-annas-archive-pirateria-lista-entita-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T16:45:00+00:00"
-    },
-    {
-      "titolo": "Walkman a 5.000 euro: Sony scommette sul lusso",
-      "descrizione": "Il Walkman non è morto. Sony annuncia i nuovi lettori MP3 NW-WM1ZM3 e NW-WM1AM3 a prezzi da prodotto di lusso. The post Walkman a 5.000 euro: Sony scommette sul lusso appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/walkman-5-mila-euro-sony-scommette-lusso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T16:38:31+00:00"
-    },
-    {
-      "titolo": "Thank Gen Z for the ‘Girls’ Revival",
-      "descrizione": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
-      "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
-      "fonte": "WIRED",
-      "data": "2026-10-16T16:21:38+00:00"
-    },
-    {
-      "titolo": "Edge sostituisce i Preferiti con i Segnalibri in stile Chrome, perché?",
-      "descrizione": "Microsoft Edge elimina i Preferiti e adotta il termine Bookmarks per attrarre gli utenti di Chrome. Ma in italiano la situazione è diversa. The post Edge sostituisce i Preferiti con i Segnalibri in stile Chrome, perché?",
-      "link": "https://www.punto-informatico.it/edge-sostituisce-preferiti-segnalibri-stile-chrome-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T15:59:49+00:00"
-    },
-    {
-      "titolo": "Nvidia RTX Spark devices are now officially on sale, secure the Surface Laptop Ultra or other RTX Spark laptops here",
-      "descrizione": "Orders are live on Nvidia RTX Spark laptops, including the Microsoft Surface Laptop Ultra and devices from HP, Lenovo, Asus, and Dell.",
-      "link": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-16T15:38:45+00:00"
     }
   ]
 }

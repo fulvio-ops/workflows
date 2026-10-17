@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-10-17T10:48:47.248970+00:00",
+  "last_updated": "2026-10-17T15:38:28.727659+00:00",
   "items": [
     {
-      "titolo": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-      "descrizione": "And there’s no opt-out available.",
-      "link": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-16T19:36:02+00:00",
+      "titolo": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+      "descrizione": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T12:00:00+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Google Home si aggiorna: Gemini più naturale e affidabile in casa",
-      "descrizione": "Google Home si aggiorna. Gemini ora si interrompe con un semplice stop e saluta quando la conversazione finisce. Tutte le novità e i bug corretti. The post Google Home si aggiorna: Gemini più naturale e affidabile in cas",
-      "link": "https://www.punto-informatico.it/google-home-si-aggiorna-gemini-piu-naturale-affidabile-casa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T08:20:32+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
