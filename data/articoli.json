@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-17T04:31:58.395174+00:00",
+  "last_updated": "2026-10-17T10:48:43.243174+00:00",
   "items": [
+    {
+      "titolo": "HTC Made Smart Glasses That Are Way More Private",
+      "descrizione": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "fonte": "WIRED",
+      "data": "2026-10-17T10:30:00+00:00"
+    },
+    {
+      "titolo": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+      "descrizione": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
+      "link": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-17T10:00:00+00:00"
+    },
+    {
+      "titolo": "iPhone Duo, Apple conferma: c'è una domanda \"a dir poco straordinaria\"",
+      "descrizione": "Le prime disponibilità per il 23 ottobre sono terminate quasi subito",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674032/iphone-duo-apple-conferma-domanda-straordinaria/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T09:11:00+00:00"
+    },
+    {
+      "titolo": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+      "descrizione": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+      "link": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+      "fonte": "WIRED",
+      "data": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "titolo": "Windows nasconde uno strumento per automatizzare le attività quotidiane",
+      "descrizione": "Come utilizzare l’utilità di pianificazione.",
+      "link": "https://www.hdblog.it/portatili/articoli/n673895/windows-utilita-pianificazione-come-usare/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T08:55:00+00:00"
+    },
+    {
+      "titolo": "Googlebook più economici già in cantiere?",
+      "descrizione": "Emergono nel Gerrit di Chrome riferimenti a \"Dougie\", probabilmente una piattaforma Googlebook basata su chip meno raffinati. Forse Snapdragon X2 Plus, o addirittura i super entry-level Snapdragon C.",
+      "link": "https://www.hdblog.it/portatili/articoli/n674015/googlebook-economici-dougie-gerrit-chromium/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T08:25:00+00:00"
+    },
+    {
+      "titolo": "Apple cambia le regole dell'App Store: stretta sui deepfake AI",
+      "descrizione": "Apple rafforza i controlli su deepfake intimi, app nudify e funzioni nascoste.",
+      "link": "https://www.hdblog.it/apple/articoli/n674022/apple-app-store-nuove-regole-deepfake-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T07:25:00+00:00"
+    },
+    {
+      "titolo": "Una rara Ferrari con soli 170 km percorsi finisce all'asta: vale più di 20 milioni",
+      "descrizione": "Poche vetture al mondo possono vantare la storia di una hypercar Ferrari. Un esemplare di F50 verrà messo all’incanto dagli specialisti di Broad Arrow",
+      "link": "https://www.hdmotori.it/ferrari-f50-170-km-asta-valore/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T07:00:08+00:00"
+    },
+    {
+      "titolo": "Google, come evitare le risposte dell'IA nei risultati di ricerca",
+      "descrizione": "Le impostazioni per limitare l’intervento dell’intelligenza artificiale.",
+      "link": "https://www.hdblog.it/google/articoli/n673853/google-evitare-ai-overview-ricerca/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T06:55:00+00:00"
+    },
+    {
+      "titolo": "No, la Tesla Roadster non è la prima auto a vincere la gravità",
+      "descrizione": "La tecnologia delle ventole per l'effetto suolo, pensate per sfidare la fisica, ha già un precedente firmato McMurtry Spéirling Pure.",
+      "link": "https://www.hdmotori.it/no-la-tesla-roadster-non-e-la-prima-auto-a-vincere-la-gravita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-17T06:30:39+00:00"
+    },
+    {
+      "titolo": "Le offerte Dyson sottocosto su eBay oggi",
+      "descrizione": "Approfitta subito delle offerte Dyson sottocosto nello store ufficiale del produttore disponibile su eBay oggi per veri e propri best buy. The post Le offerte Dyson sottocosto su eBay oggi appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/le-offerte-dyson-sottocosto-su-ebay-oggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-17T05:00:41+00:00"
+    },
     {
       "titolo": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "descrizione": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
@@ -72,25 +149,11 @@
       "data": "2026-10-16T16:38:31+00:00"
     },
     {
-      "titolo": "MSI, arriva la GeForce RTX 5080 dedicata a Call of Duty MW4",
-      "descrizione": "Solo una livrea speciale o c'è anche della sostanza?",
-      "link": "https://www.hdblog.it/hardware/articoli/n674000/msi-geforce-rtx-5080-call-duty-mw4/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T16:35:00+00:00"
-    },
-    {
       "titolo": "Thank Gen Z for the ‘Girls’ Revival",
       "descrizione": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
       "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
       "fonte": "WIRED",
       "data": "2026-10-16T16:21:38+00:00"
-    },
-    {
-      "titolo": "Carburanti, lo sconto non basta: solo 1 distributore su 4 tiene il diesel sotto 2,20 euro",
-      "descrizione": "Carburanti, solo il 26% dei distributori vende gasolio sotto 2,20 euro. Benzina sotto 2 euro nel 52% degli impianti: la mappa regionale",
-      "link": "https://www.hdmotori.it/carburanti-sconto-non-basta/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T16:00:30+00:00"
     },
     {
       "titolo": "Edge sostituisce i Preferiti con i Segnalibri in stile Chrome, perché?",
@@ -105,69 +168,6 @@
       "link": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-16T15:38:45+00:00"
-    },
-    {
-      "titolo": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "descrizione": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
-      "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-      "fonte": "WIRED",
-      "data": "2026-10-16T15:25:18+00:00"
-    },
-    {
-      "titolo": "Il sistema di allerta terremoti di Google si espande e diventa ancora più dettagliato",
-      "descrizione": "Il sistema di allerta terremoti per Android si espande a oltre 200 Paesi, introducendo nuove notifiche dettagliate con mappa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673973/allerta-terremoti-google-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T15:20:00+00:00"
-    },
-    {
-      "titolo": "Addio al secondo intercalare: il mondo cambia il modo di misurare il tempo",
-      "descrizione": "Una decisione internazionale elimina il secondo intercalare per evitare problemi informatici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n673904/abolizione-secondo-intercalare-ora-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T14:45:00+00:00"
-    },
-    {
-      "titolo": "Aspira, lava e si pulisce da solo: il Roomba Plus 575 Combo è in offerta fino a fine ottobre",
-      "descrizione": "Lava, aspira e si prende cura da solo dei suoi panni: il nuovo robot iRobot costa 100 € in meno sul sito ufficiale.",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n673555/aspira-lava-e-si-pulisce-da-solo-il-roomba-plus-575-combo-e-in-offerta-fino-a-fine-ottobre/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T14:31:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo a ruba: sold out, consegne nel 2027 e bagarini",
-      "descrizione": "Sembra essere partita forte la fase di preordine: sullo store ufficiale, acquistando iPhone Duo bisognerà aspettare fino al prossimo anno. The post iPhone Duo a ruba: sold out, consegne nel 2027 e bagarini appeared first",
-      "link": "https://www.punto-informatico.it/iphone-duo-sold-out-consegne-2027/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T14:11:01+00:00"
-    },
-    {
-      "titolo": "Secondo intercalare, addio entro il 2035: cosa cambia e perché",
-      "descrizione": "Dal 1972, il secondo intercalare è stato aggiunto 26 volte, l'ultima nel 2016: entro il 2035 la pratica sarà sospesa per almeno un secolo. The post Secondo intercalare, addio entro il 2035: cosa cambia e perché appeared",
-      "link": "https://www.punto-informatico.it/secondo-intercalare-addio-entro-2035-cosa-cambia-perche/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-16T13:51:35+00:00"
-    },
-    {
-      "titolo": "New York rep announces game ownership bill that would require consumer ownership rather than sale of licenses",
-      "descrizione": "New York joins Pennsylvania in protecting gamers' rights to own games, requiring publishers to provide an offline mode and the right to transfer games.",
-      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-16T13:51:32+00:00"
-    },
-    {
-      "titolo": "BMW i3, 1.213 km con una sola carica: la nuova berlina elettrica supera ogni aspettativa",
-      "descrizione": "La capacità della batteria della nuova i3 è frutto di un lungo lavoro dei tecnici BMW che, con la Neue Klasse, hanno innalzato l’asticella delle performance",
-      "link": "https://www.hdmotori.it/nuova-bmw-i3-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T13:30:44+00:00"
-    },
-    {
-      "titolo": "Giocare per imparare: perché simulazioni e AI stanno cambiando la formazione manageriale",
-      "descrizione": "Nel volume Gaming and Learning: Play, Game and Knowledge, Andrea Pontiggia e Tiziano Vescovi spiegano perché videogiochi e simulazioni possono diventare laboratori per allenare decisioni, errori e gestione dell’incertezz",
-      "link": "https://www.ilsole24ore.com/art/giocare-imparare-perche-simulazioni-e-stanno-cambiando-formazione-manageriale-AJ8OPx7",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-16T13:20:52+00:00"
     }
   ]
 }
