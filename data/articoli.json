@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:38:25.045516+00:00",
+  "last_updated": "2026-10-17T20:39:05.696749+00:00",
   "items": [
     {
       "titolo": "Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting",
@@ -149,13 +149,6 @@
       "data": "2026-10-16T20:05:08+00:00"
     },
     {
-      "titolo": "Perché sono tornato ad usare un computer con Windows On Arm e Snapdragon | VIDEO",
-      "descrizione": "Abbiamo usato per due anni i nuovi computer con Snapdragon e Windows On Arm. Ora con l'AI hanno tantissimo senso, ma non sono per tutti.",
-      "link": "https://www.hdblog.it/portatili/speciali/n673230/windows-on-arm-snapdragon-due-anni-dopo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-16T19:00:00+00:00"
-    },
-    {
       "titolo": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
       "descrizione": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
       "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
@@ -168,6 +161,13 @@
       "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-16T17:04:44+00:00"
+    },
+    {
+      "titolo": "Edge, arrivano gli aggiornamenti senza riavvio?",
+      "descrizione": "Microsoft sta sviluppando aggiornamenti di Edge senza riavvio, che mantengono schede e lavoro in corso. Ecco come funziona il prototipo. The post Edge, arrivano gli aggiornamenti senza riavvio? appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/edge-arrivano-aggiornamenti-senza-riavvio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-16T17:00:13+00:00"
     }
   ]
 }
