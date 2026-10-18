@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-18T04:38:26.871669+00:00",
+  "last_updated": "2026-10-18T11:11:58.897416+00:00",
   "items": [
     {
-      "titolo": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
-      "descrizione": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-17T12:00:00+00:00",
+      "titolo": "Quali lavori l’AI non può sostituire secondo ChatGPT e Claude",
+      "descrizione": "L'AI non può sostituire i lavori che richiedono destrezza fisica in ambienti imprevedibili, connessione emotiva profonda, responsabilità legale e presenza fisica. The post Quali lavori l’AI non può sostituire secondo Cha",
+      "link": "https://www.punto-informatico.it/quali-lavori-ai-non-puo-sostituire-secondo-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-18T07:30:20+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-      "descrizione": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-      "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-16T17:10:27+00:00",
+      "titolo": "Quali lavori l’AI non può sostituire secondo ChatGPT e Claude",
+      "descrizione": "L'AI non può sostituire i lavori che richiedono destrezza fisica in ambienti imprevedibili, connessione emotiva profonda, responsabilità legale e presenza fisica. The post Quali lavori l’AI non può sostituire secondo Cha",
+      "link": "https://www.punto-informatico.it/quali-lavori-ai-non-puo-sostituire-secondo-chatgpt-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-18T07:30:20+00:00",
       "modello": "claude"
     },
     {
