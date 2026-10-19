@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-10-19T04:45:40.643818+00:00",
+  "last_updated": "2026-10-19T13:23:14.828342+00:00",
   "items": [
     {
-      "titolo": "Quali lavori l’AI non può sostituire secondo ChatGPT e Claude",
-      "descrizione": "L'AI non può sostituire i lavori che richiedono destrezza fisica in ambienti imprevedibili, connessione emotiva profonda, responsabilità legale e presenza fisica. The post Quali lavori l’AI non può sostituire secondo Cha",
-      "link": "https://www.punto-informatico.it/quali-lavori-ai-non-puo-sostituire-secondo-chatgpt-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-18T07:30:20+00:00",
+      "titolo": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
+      "descrizione": "Arm claims its AGI CPU delivers nearly 2X the modeled rack performance of AMD’s EPYC 9755 across seven agentic AI workloads, using a new evaluation methodology developed with Fujitsu, Meta, and OpenAI",
+      "link": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-19T11:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft ostacola la concorrenza con i suoi software?",
-      "descrizione": "L'autorità antitrust del Regno Unito vuole verificare se Microsoft ostacola la concorrenza combinando i suoi software, tra cui Windows, Office e Copilot. The post Microsoft ostacola la concorrenza con i suoi software? ap",
-      "link": "https://www.punto-informatico.it/microsoft-ostacola-concorrenza-software/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-18T14:26:59+00:00",
-      "modello": "copilot"
+      "titolo": "Gemini 4 conquista Minecraft da solo: 605 morti e 27 ore di gioco",
+      "descrizione": "Quattro AI Gemini 4 sconfiggono il boss finale di Minecraft dopo 27 ore di collaborazione autonoma.",
+      "link": "https://www.hdblog.it/google/articoli/n674130/google-gemini-4-completa-minecraft-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-19T11:35:00+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
-      "descrizione": "Anthropic's proposal requires evaluators to report any imminent risk to the Department of Commerce within 72 hours, after which the Department must present the evidence to a federal judge and await an order.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "titolo": "Claude Code AI agent caught a crypto miner hiding on a developer’s overheating Mac",
+      "descrizione": "A developer using Claude Code to help build a temperature monitor app was warned by the coding agent about a hidden crypto miner running on their system.",
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-18T11:25:00+00:00",
+      "data": "2026-10-19T11:36:20+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
-      "descrizione": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
-      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-16T10:00:00+00:00",
+      "titolo": "La via francese all’Intelligenza Artificiale: così Parigi blinda la sua sovranità tecnologica sull’asse Nvidia-Mistral",
+      "descrizione": "Dai server “Made in Europe” di Angers all’AI autonoma per l’aerospazio e la cosmetica: l’ecosistema integrato punta all’infrastruttura completa.",
+      "link": "https://www.ilsole24ore.com/art/la-via-francese-all-intelligenza-artificiale-cosi-parigi-blinda-sua-sovranita-tecnologica-sull-asse-nvidia-mistral-AJd8F4iB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-14T05:18:21+00:00",
       "modello": "altri"
     }
   ]
