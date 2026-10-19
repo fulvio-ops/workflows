@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-10-19T13:23:14.828342+00:00",
+  "last_updated": "2026-10-19T22:23:17.853864+00:00",
   "items": [
     {
-      "titolo": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
-      "descrizione": "Arm claims its AGI CPU delivers nearly 2X the modeled rack performance of AMD’s EPYC 9755 across seven agentic AI workloads, using a new evaluation methodology developed with Fujitsu, Meta, and OpenAI",
-      "link": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-19T11:00:00+00:00",
+      "titolo": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "descrizione": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "fonte": "WIRED",
+      "data": "2026-10-19T19:49:17+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 4 conquista Minecraft da solo: 605 morti e 27 ore di gioco",
-      "descrizione": "Quattro AI Gemini 4 sconfiggono il boss finale di Minecraft dopo 27 ore di collaborazione autonoma.",
-      "link": "https://www.hdblog.it/google/articoli/n674130/google-gemini-4-completa-minecraft-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-19T11:35:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Claude Code AI agent caught a crypto miner hiding on a developer’s overheating Mac",
-      "descrizione": "A developer using Claude Code to help build a temperature monitor app was warned by the coding agent about a hidden crypto miner running on their system.",
-      "link": "https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-19T11:36:20+00:00",
+      "titolo": "Il Mac si surriscalda, Claude Code trova un malware nascosto",
+      "descrizione": "Uno sviluppatore usa Claude Code per creare un'app su Mac e l'AI scopre XMRig, un miner di criptovalute nascosto. The post Il Mac si surriscalda, Claude Code trova un malware nascosto appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/mac-si-surriscalda-claude-code-trova-malware-nascosto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-19T16:16:45+00:00",
       "modello": "claude"
     },
     {
