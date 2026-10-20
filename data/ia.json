@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T11:42:52.288589+00:00",
+  "last_updated": "2026-10-20T17:12:07.145643+00:00",
   "items": [
     {
       "titolo": "Chatbot AI cambiano personalità se si parla un’altra lingua?",
@@ -18,12 +18,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude rimuove le inserzioni e velocizza la smart TV",
-      "descrizione": "Alcuni sviluppatori hanno usato Claude Code per rimuovere le inserzioni e velocizzare l'avvio delle app sulle smart TV con Android TV o Google TV. The post Claude rimuove le inserzioni e velocizza la smart TV appeared fi",
-      "link": "https://www.punto-informatico.it/claude-rimuove-inserzioni-velocizza-smart-tv/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-20T10:05:28+00:00",
+      "titolo": "Anthropic e Nscale: in vista nuovo accordo AI da 40 miliardi",
+      "descrizione": "Anthropic e Nscale trattano un altro accordo da 40 miliardi per potenziare l'infrastruttura AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n674257/anthropic-nscale-nuovo-accordo-40-miliardi/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-20T16:35:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Ban di DeepSeek in tutti i sistemi federali negli USA",
+      "descrizione": "Il governo statunitense ha deciso che prodotti e servizi di DeepSeek non possono essere più utilizzati nei sistemi AI delle agenzie civili federali. The post Ban di DeepSeek in tutti i sistemi federali negli USA appeared",
+      "link": "https://www.punto-informatico.it/ban-deepseek-tutti-sistemi-federali-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-20T13:12:22+00:00",
+      "modello": "altri"
     }
   ]
 }
