@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-10-20T04:55:09.450097+00:00",
+  "last_updated": "2026-10-20T11:42:52.288589+00:00",
   "items": [
     {
-      "titolo": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "descrizione": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "fonte": "WIRED",
-      "data": "2026-10-19T19:49:17+00:00",
+      "titolo": "Chatbot AI cambiano personalità se si parla un’altra lingua?",
+      "descrizione": "Uno studio rivela che ChatGPT, Gemini e altri chatbot AI possono mostrare profili diversi a seconda della lingua utilizzata. The post Chatbot AI cambiano personalità se si parla un’altra lingua? appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/chatbot-ai-cambiano-personalita-se-si-parla-altra-lingua/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-20T10:51:22+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Il Mac si surriscalda, Claude Code trova un malware nascosto",
-      "descrizione": "Uno sviluppatore usa Claude Code per creare un'app su Mac e l'AI scopre XMRig, un miner di criptovalute nascosto. The post Il Mac si surriscalda, Claude Code trova un malware nascosto appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/mac-si-surriscalda-claude-code-trova-malware-nascosto/",
+      "titolo": "Chatbot AI cambiano personalità se si parla un’altra lingua?",
+      "descrizione": "Uno studio rivela che ChatGPT, Gemini e altri chatbot AI possono mostrare profili diversi a seconda della lingua utilizzata. The post Chatbot AI cambiano personalità se si parla un’altra lingua? appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/chatbot-ai-cambiano-personalita-se-si-parla-altra-lingua/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-19T16:16:45+00:00",
-      "modello": "claude"
+      "data": "2026-10-20T10:51:22+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "La via francese all’Intelligenza Artificiale: così Parigi blinda la sua sovranità tecnologica sull’asse Nvidia-Mistral",
-      "descrizione": "Dai server “Made in Europe” di Angers all’AI autonoma per l’aerospazio e la cosmetica: l’ecosistema integrato punta all’infrastruttura completa.",
-      "link": "https://www.ilsole24ore.com/art/la-via-francese-all-intelligenza-artificiale-cosi-parigi-blinda-sua-sovranita-tecnologica-sull-asse-nvidia-mistral-AJd8F4iB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-14T05:18:21+00:00",
-      "modello": "altri"
+      "titolo": "Claude rimuove le inserzioni e velocizza la smart TV",
+      "descrizione": "Alcuni sviluppatori hanno usato Claude Code per rimuovere le inserzioni e velocizzare l'avvio delle app sulle smart TV con Android TV o Google TV. The post Claude rimuove le inserzioni e velocizza la smart TV appeared fi",
+      "link": "https://www.punto-informatico.it/claude-rimuove-inserzioni-velocizza-smart-tv/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-20T10:05:28+00:00",
+      "modello": "claude"
     }
   ]
 }
