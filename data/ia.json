@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-21T17:15:21.802961+00:00",
+  "last_updated": "2026-10-21T21:45:28.011338+00:00",
   "items": [
     {
-      "titolo": "PHP rilascia patch per le vulnerabilità scoperte da GPT-5.6 Sol",
-      "descrizione": "PHP ha rilasciato le versioni aggiornate del linguaggio per correggere le due vulnerabilità scoperte con l'aiuto del modello GPT-5.6 Sol di OpenAI. The post PHP rilascia patch per le vulnerabilità scoperte da GPT-5.6 Sol",
-      "link": "https://www.punto-informatico.it/php-rilascia-patch-vulnerabilita-scoperte-gpt-5-6-sol/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-21T16:16:21+00:00",
+      "titolo": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
+      "descrizione": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+      "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-21T18:15:19+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude: raggiungere ChatGPT resta un’impresa, cosa dice lo studio",
-      "descrizione": "Secondo uno studio di OneLittleWeb, Claude ha solo il 7,8% di probabilità di superare ChatGPT per visite web entro il 2037. Ecco i dati, The post Claude: raggiungere ChatGPT resta un’impresa, cosa dice lo studio appeared",
-      "link": "https://www.punto-informatico.it/claud-raggiungere-chatgpt-resta-impresa-cosa-dice-studio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-21T14:22:56+00:00",
+      "titolo": "Anthropic ha davvero perso 80 miliardi di dollari in sei mesi?",
+      "descrizione": "Oggettivamente sì, ma c'è una ragione tecnica che fa sembrare la questione meno grave di quanto sembri.",
+      "link": "https://www.hdblog.it/mercato/articoli/n674489/anthropic-perdite-h1-2026-ricavi/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-21T17:35:00+00:00",
       "modello": "claude"
     },
     {
