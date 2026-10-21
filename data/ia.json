@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-10-21T04:53:44.202026+00:00",
+  "last_updated": "2026-10-21T11:54:44.824333+00:00",
   "items": [
     {
-      "titolo": "Chatbot AI cambiano personalità se si parla un’altra lingua?",
-      "descrizione": "Uno studio rivela che ChatGPT, Gemini e altri chatbot AI possono mostrare profili diversi a seconda della lingua utilizzata. The post Chatbot AI cambiano personalità se si parla un’altra lingua? appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/chatbot-ai-cambiano-personalita-se-si-parla-altra-lingua/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-20T10:51:22+00:00",
+      "titolo": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "descrizione": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "fonte": "WIRED",
+      "data": "2026-10-21T10:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-      "descrizione": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-20T20:00:00+00:00",
+      "titolo": "Google Chrome: protezione contro le truffe con Gemini",
+      "descrizione": "Google ha descritto la protezione contro le truffe che sfrutta un modello Gemini sul cloud (quella basata su Gemini Nano era per alcuni dispositivi). The post Google Chrome: protezione contro le truffe con Gemini appeare",
+      "link": "https://www.punto-informatico.it/google-chrome-protezione-truffe-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-21T10:21:32+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic e Nscale: in vista nuovo accordo AI da 40 miliardi",
-      "descrizione": "Anthropic e Nscale trattano un altro accordo da 40 miliardi per potenziare l'infrastruttura AI.",
-      "link": "https://www.hdblog.it/mercato/articoli/n674257/anthropic-nscale-nuovo-accordo-40-miliardi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-20T16:35:00+00:00",
+      "titolo": "Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%",
+      "descrizione": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/oblivion-gamer-uses-claude-ai-to-boost-average-fps-gains-up-to-48-percent-stutters-slashed-by-90-percent-performance-mod-doesnt-change-game-assets-or-alter-visuals",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-20T12:30:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Ban di DeepSeek in tutti i sistemi federali negli USA",
-      "descrizione": "Il governo statunitense ha deciso che prodotti e servizi di DeepSeek non possono essere più utilizzati nei sistemi AI delle agenzie civili federali. The post Ban di DeepSeek in tutti i sistemi federali negli USA appeared",
-      "link": "https://www.punto-informatico.it/ban-deepseek-tutti-sistemi-federali-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-20T13:12:22+00:00",
-      "modello": "altri"
     }
   ]
 }
