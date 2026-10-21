@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-10-21T11:54:44.824333+00:00",
+  "last_updated": "2026-10-21T17:15:21.802961+00:00",
   "items": [
     {
-      "titolo": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "descrizione": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "fonte": "WIRED",
-      "data": "2026-10-21T10:30:00+00:00",
+      "titolo": "PHP rilascia patch per le vulnerabilità scoperte da GPT-5.6 Sol",
+      "descrizione": "PHP ha rilasciato le versioni aggiornate del linguaggio per correggere le due vulnerabilità scoperte con l'aiuto del modello GPT-5.6 Sol di OpenAI. The post PHP rilascia patch per le vulnerabilità scoperte da GPT-5.6 Sol",
+      "link": "https://www.punto-informatico.it/php-rilascia-patch-vulnerabilita-scoperte-gpt-5-6-sol/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-21T16:16:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Chrome: protezione contro le truffe con Gemini",
-      "descrizione": "Google ha descritto la protezione contro le truffe che sfrutta un modello Gemini sul cloud (quella basata su Gemini Nano era per alcuni dispositivi). The post Google Chrome: protezione contro le truffe con Gemini appeare",
-      "link": "https://www.punto-informatico.it/google-chrome-protezione-truffe-gemini/",
+      "titolo": "Gemini su Android Auto con Personal Intelligence: quando arriva",
+      "descrizione": "Google lancia Personal Intelligence su Android Auto. Gemini attinge a Gmail, Agenda, Foto, Maps e YouTube per rispondere in modo personalizzato. The post Gemini su Android Auto con Personal Intelligence: quando arriva ap",
+      "link": "https://www.punto-informatico.it/gemini-android-auto-personal-intelligence-quando-arriva/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-21T10:21:32+00:00",
+      "data": "2026-10-21T13:18:36+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%",
-      "descrizione": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/oblivion-gamer-uses-claude-ai-to-boost-average-fps-gains-up-to-48-percent-stutters-slashed-by-90-percent-performance-mod-doesnt-change-game-assets-or-alter-visuals",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-20T12:30:00+00:00",
+      "titolo": "Claude: raggiungere ChatGPT resta un’impresa, cosa dice lo studio",
+      "descrizione": "Secondo uno studio di OneLittleWeb, Claude ha solo il 7,8% di probabilità di superare ChatGPT per visite web entro il 2037. Ecco i dati, The post Claude: raggiungere ChatGPT resta un’impresa, cosa dice lo studio appeared",
+      "link": "https://www.punto-informatico.it/claud-raggiungere-chatgpt-resta-impresa-cosa-dice-studio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-21T14:22:56+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "La Cina prepara controlli sull’export dell’Ai: cosa cambia per le imprese",
+      "descrizione": "Si apre un’incognita per le aziende che anche in Italia hanno installato un modello cinese come Qwen o DeepSeek. Il loro accesso a future tecnologie che arrivano dalla Cina non...",
+      "link": "https://www.ilsole24ore.com/art/la-cina-prepara-controlli-sull-export-dell-ai-cosa-cambia-le-imprese-AJjNTTpB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-21T12:00:00+00:00",
+      "modello": "altri"
     }
   ]
 }
