@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-22T04:53:39.943527+00:00",
+  "last_updated": "2026-10-22T11:57:40.034371+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
-      "descrizione": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
-      "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-21T18:15:19+00:00",
+      "titolo": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+      "descrizione": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-22T10:30:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini su Android Auto con Personal Intelligence: quando arriva",
-      "descrizione": "Google lancia Personal Intelligence su Android Auto. Gemini attinge a Gmail, Agenda, Foto, Maps e YouTube per rispondere in modo personalizzato. The post Gemini su Android Auto con Personal Intelligence: quando arriva ap",
-      "link": "https://www.punto-informatico.it/gemini-android-auto-personal-intelligence-quando-arriva/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-21T13:18:36+00:00",
+      "titolo": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+      "descrizione": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+      "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-20T20:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic ha davvero perso 80 miliardi di dollari in sei mesi?",
-      "descrizione": "Oggettivamente sì, ma c'è una ragione tecnica che fa sembrare la questione meno grave di quanto sembri.",
-      "link": "https://www.hdblog.it/mercato/articoli/n674489/anthropic-perdite-h1-2026-ricavi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-21T17:35:00+00:00",
+      "titolo": "Claude Duet: un altro agente AI che accede ai dati personali",
+      "descrizione": "Anthropic promette che Claude Duet chiederà sempre l'autorizzazione per eseguire azioni su dati sensibili, ma i precedenti sollevano qualche dubbio. The post Claude Duet: un altro agente AI che accede ai dati personali a",
+      "link": "https://www.punto-informatico.it/claude-duet-altro-agente-ai-accede-dati-personali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T08:30:28+00:00",
       "modello": "claude"
     },
     {
