@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-10-22T11:57:36.333065+00:00",
+  "last_updated": "2026-10-22T17:13:31.904700+00:00",
   "items": [
     {
-      "titolo": "Nostalgia di Windows Phone? Ecco ztOS, basato su Linux e sviluppato dall'AI",
-      "descrizione": "Per ora funziona solo su Samsung Galaxy S9 (e con diversi limiti grossi), ma l'interfaccia sembra più che azzeccata.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674584/ztos-linux-metro-ui-windows-phone-81-galaxy-s9/",
+      "titolo": "Scoperto l'enzima Pac-Man: mangia la plastica in 250 giorni",
+      "descrizione": "Un enzima batterico chiamato Pac-Man aiuta a degradare le bioplastiche nel terreno in meno di un anno.",
+      "link": "https://www.hdblog.it/green/articoli/n674536/enzima-pac-man-batteri-plastica-biodegradabile/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T11:55:00+00:00"
+      "data": "2026-10-22T16:55:00+00:00"
     },
     {
-      "titolo": "Spotify continua a crescere: 306 milioni di abbonati Premium e ricavi in aumento",
-      "descrizione": "I ricavi trimestrali hanno toccato i 5 miliardi di euro, il 16% in più rispetto a un anno fa",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674581/spotify-continua-a-crescere-abbonati-premium/",
+      "titolo": "Perplexity Computer ora funziona sul Mac senza cloud: ecco come",
+      "descrizione": "Perplexity Computer esegue l'AI direttamente sui Mac Apple Silicon, senza inviare dati al cloud.",
+      "link": "https://www.hdblog.it/apple/articoli/n674514/perplexity-computer-ai-locale-mac/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T11:50:00+00:00"
+      "data": "2026-10-22T16:40:00+00:00"
     },
     {
-      "titolo": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
-      "descrizione": "The modern Atari VCS is being officially retired with the firm’s decision to shut down the Linux-based AMD APU-powered machine's software store early next year.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-22T11:45:00+00:00"
-    },
-    {
-      "titolo": "Il segreto per creare batterie migliori era nascosto nel nostro intestino",
-      "descrizione": "I ricercatori della Binghamton University hanno sviluppato una biobatteria ispirata ai villi intestinali. La particolare struttura degli elettrodi offre più superficie ai batteri, favorendo la...",
-      "link": "https://www.hdblog.it/green/articoli/n674579/batterie-ispirate-allintestino-biobatterie/",
+      "titolo": "Peugeot 204 Coupé e Cabriolet, le regine degli anni '60 tornano a Bologna",
+      "descrizione": "Il Club Storico Peugeot Italia ha festeggiato i 60 anni della Peugeot 204 Coupé e Cabriolet con una presenza speciale",
+      "link": "https://www.hdmotori.it/peugeot-auto-moto-epoca-bologna/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T11:40:00+00:00"
+      "data": "2026-10-22T16:30:13+00:00"
     },
     {
-      "titolo": "Zuckerberg valutava di lasciare la California causa tasse, Meta l'ha convinto a restare",
-      "descrizione": "Con un bel pacchetto di azioni \"C-Class\", senza diritto di voto, che potranno essere vendute senza implicazioni sul controllo dell'azienda.",
-      "link": "https://www.hdblog.it/mercato/articoli/n674580/zuckerberg-meta-california-tasse-azioni-classe-c/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T11:35:00+00:00"
-    },
-    {
-      "titolo": "Cyberpunk 2077 versione 2.5: arrivano le mod su console e il dual wielding",
-      "descrizione": "Ci sono anche due nuove missioni secondarie, nuove skin per il cyberware e qualche equipaggiamento inedito. L'update più grosso dall'Ultimate Edition.",
-      "link": "https://www.hdblog.it/games/articoli/n674576/cyberpunk-2077-edgerunners-2-update-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T11:25:00+00:00"
-    },
-    {
-      "titolo": "iPhone Duo: Apple starebbe gia testando il Face ID per la prossima generazione",
-      "descrizione": "Apple starebbe già lavorando alla seconda generazione del suo pieghevole.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674575/iphone-duo-2-apple-face-id/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T11:15:00+00:00"
-    },
-    {
-      "titolo": "17 Russian trawlers logged mapping undersea cables connecting the US and Europe",
-      "descrizione": "An investigation claimed that Russian boats have been spending the past five years mapping and surveying undersea cables.",
-      "link": "https://www.tomshardware.com/tech-industry/17-russian-trawlers-logged-mapping-undersea-cables-connecting-the-us-and-europe-over-500-incidents-of-russian-vessels-loitering-over-critical-communications-cables-reported-in-under-5-years",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-22T11:15:00+00:00"
-    },
-    {
-      "titolo": "Utenti Poste italiane? Occhio alla nuova truffa che azzera la Postepay",
-      "descrizione": "Una nuova campagna di phishing minaccia il blocco della Postepay per rubare dati bancari e credenziali.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n674547/truffa-poste-italiane-email-phishing-postepay/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T11:10:00+00:00"
-    },
-    {
-      "titolo": "Sony Xperia 1 VII si aggiorna: finalmente arriva Android 17",
-      "descrizione": "Dopo Xperia 1 VIII, anche il modello di scorsa generazione sta ricevendo la versione più recente di Android",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674569/sony-xperia-1-vii-aggiornamento-android-17/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T11:05:00+00:00"
-    },
-    {
-      "titolo": "refurbed contro l’obsolescenza con la chiavetta di ChromeOS Flex",
-      "descrizione": "Abbiamo partecipato all'evento in cui refurbed e Google hanno annunciato l'arrivo di una chiavetta USB per l'installazione di ChromeOS Flex. The post refurbed contro l’obsolescenza con la chiavetta di ChromeOS Flex appea",
-      "link": "https://www.punto-informatico.it/chromeos-flex-chiavetta-usb-refurbed/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-22T11:00:25+00:00"
-    },
-    {
-      "titolo": "Epic Games vince anche in Australia: Fortnite torna su App Store",
-      "descrizione": "Apple deve consentire l'installazione di app store alternativi anche in Australia, quindi Epic Games può nuovamente distribuire il gioco Fortnite. The post Epic Games vince anche in Australia: Fortnite torna su App Store",
-      "link": "https://www.punto-informatico.it/epic-games-vince-anche-australia-fortnite-torna-app-store/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-22T10:56:55+00:00"
-    },
-    {
-      "titolo": "Samsung, su Amazon i ricondizionati ufficiali: arriveranno in Italia?",
-      "descrizione": "Samsung amplia il programma Re-Newed e porta i suoi smartphone Galaxy ricondizionati certificati su Amazon negli Stati Uniti. Disponibili alcuni modelli Galaxy S24 e S25 con batteria sostituita e...",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674574/galaxy-ricondizionati-da-samsung-su-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T10:55:00+00:00"
-    },
-    {
-      "titolo": "Fitbit Air: la qualità della respirazione nel sonno arriverà, ma non sappiamo quando",
-      "descrizione": "Google conferma che il monitoraggio della qualità della respirazione durante il sonno arriverà anche su Fitbit Air, ma non indica una data precisa. La funzione Health Guardian è già disponibile sui...",
-      "link": "https://www.hdblog.it/indossabili/articoli/n674570/fitbit-air-qualita-respiro-sonno-quando-arriva/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T10:40:00+00:00"
-    },
-    {
-      "titolo": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
-      "descrizione": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
-      "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
-      "fonte": "WIRED",
-      "data": "2026-10-22T10:30:00+00:00"
-    },
-    {
-      "titolo": "Meta, falla privacy su Muse: 6.800 chat AI accessibili online",
-      "descrizione": "Meta sospende la condivisione su Muse dopo la scoperta di 6.800 link a chat potenzialmente esposte.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n674509/meta-muse-chat-privacy-dati-esposti/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T10:25:00+00:00"
-    },
-    {
-      "titolo": "PHP2Shell, quando una vulnerabilità del software diventa un’emergenza mondiale",
-      "descrizione": "Sono state rivelate per errore due vulnerabilità presenti nel motore della maggior parte dei siti Internet del Pianeta e questo ha scatenato, letteralmente, il panico. Ecco cosa è accaduto",
-      "link": "https://www.ilsole24ore.com/art/php2shell-quando-vulnerabilita-software-diventa-un-emergenza-mondiale-AJIlhFrB",
+      "titolo": "L’attesa del pacco ti stressa? Da Amazon e Laserwall arriva la “bag” per consegne condominiali sicure",
+      "descrizione": "Un italiano su due fa regolarmente acquisti online, ma il 25% rinuncia per evitare intoppi alla consegna. Laserwell lancia un locker condominiale personale che assicura la ricezione del pacco e consente di ritirarlo quan",
+      "link": "https://www.ilsole24ore.com/art/l-attesa-pacco-ti-stressa-amazon-e-laserwall-arriva-bag-consegne-condominiali-sicure-AJREsXrB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-22T10:14:00+00:00"
+      "data": "2026-10-22T16:29:00+00:00"
     },
     {
-      "titolo": "YouTube, il pulsante “non mi piace non sparisce per gli spettatori",
-      "descrizione": "Il pulsante non mi piace di YouTube non sparisce per gli spettatori, ma i creator lo troveranno dietro il menu a tre puntini. The post YouTube, il pulsante “non mi piace non sparisce per gli spettatori appeared first on",
-      "link": "https://www.punto-informatico.it/youtube-pulsante-non-mi-piace-non-sparisce-spettatori/",
+      "titolo": "GPUs from Nvidia RTX 5090 stolen $470,000 shipment from Brazil airport appear for sale online, identified by serial numbers",
+      "descrizione": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-22T16:18:47+00:00"
+    },
+    {
+      "titolo": "Diritto alla riparazione: cosa cambia per gli utenti da oggi",
+      "descrizione": "Sono in vigore da oggi le nuove norme relative al diritto alla riparazione, tra cui l'obbligo di riparare i prodotti anche al termine della garanzia. The post Diritto alla riparazione: cosa cambia per gli utenti da oggi",
+      "link": "https://www.punto-informatico.it/diritto-riparazione-cosa-cambia/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-22T10:11:30+00:00"
+      "data": "2026-10-22T15:59:37+00:00"
     },
     {
-      "titolo": "AMD Ryzen, arriva il supporto ufficiale all'overclocking su Linux",
-      "descrizione": "Ma siamo ancora distanti dall'idea di avere una \"versione Linux\" di Ryzen Master, per esempio.",
-      "link": "https://www.hdblog.it/hardware/articoli/n674559/amd-overclock-ryzen-linux-kernel-patch/",
+      "titolo": "L’AI ridisegna i chip e l’architettura dei data center",
+      "descrizione": "La tecnologia si misura sempre più nelle infrastrutture fisiche che rendono possibile l’intelligenza artificiale: è questa la chiave di lettura proposta dal Technology Trends Outlook 2026...",
+      "link": "https://www.ilsole24ore.com/art/l-ai-ridisegna-chip-e-l-architettura-data-center-AJl6I3oB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-22T15:50:24+00:00"
+    },
+    {
+      "titolo": "Buco nero vagante distrugge una stella: si trovava a 3.500 anni luce dal centro galattico",
+      "descrizione": "Un buco nero nascosto si rivela distruggendo una stella, lontano dal centro della sua galassia.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n674531/buco-nero-vagante-divora-stella-scoperta/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T09:55:00+00:00"
+      "data": "2026-10-22T15:50:00+00:00"
     },
     {
-      "titolo": "Google Wallet supporta i passaporti digitali italiani",
-      "descrizione": "Google Wallet introduce il supporto ai passaporti italiani tramite la funzione ID pass, già comparsa per alcuni utenti. Il documento digitale può essere utilizzato per alcune verifiche d'identità, ma...",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674558/passaporto-google-wallet-italiano-a-cosa-serve/",
+      "titolo": "Pannelli solari a 39 euro al mese: la nuova offerta SunStep di Plenitude per la casa",
+      "descrizione": "Come funziona la nuova offerta Plenitude per le case unifamiliari.",
+      "link": "https://www.hdblog.it/green/articoli/n674614/plenitude-sunstep-fotovoltaico-come-funziona/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T09:45:00+00:00"
+      "data": "2026-10-22T15:40:00+00:00"
     },
     {
-      "titolo": "Social e web addio: ecco i nuovi telefoni per chi si vuole disconnettere",
-      "descrizione": "Sunbeam F1 Pro Poplar e Walnut: rugged e con messaggistica integrata.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674544/sunbeam-f1-pro-telefono-minimale-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T09:40:00+00:00"
-    },
-    {
-      "titolo": "Scandalo Cambridge Analytica: Meta deve pagare 25 miliardi",
-      "descrizione": "Il giudice del tribunale di Santa Fe ha stabilito una sanzione di 25 miliardi di dollari per Meta in relazione allo scandalo Cambridge Analytica del 2018. The post Scandalo Cambridge Analytica: Meta deve pagare 25 miliar",
-      "link": "https://www.punto-informatico.it/scandalo-cambridge-analytica-meta-deve-pagare-25-miliardi/",
+      "titolo": "Il Black Friday 2026 è già iniziato: -85% di sconto per Surfshark VPN",
+      "descrizione": "Con la promo Black Friday 2026 di Surfshark è possibile accedere a una VPN illimitata con un prezzo ridotto fino a 2,49 euro al mese. The post Il Black Friday 2026 è già iniziato: -85% di sconto per Surfshark VPN appeare",
+      "link": "https://www.punto-informatico.it/il-black-friday-2026-e-gia-iniziato-85-di-sconto-per-surfshark-vpn/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-22T09:39:55+00:00"
+      "data": "2026-10-22T15:36:22+00:00"
     },
     {
-      "titolo": "Trasferire dati wireless sfruttando solo il rumore termico è possibile",
-      "descrizione": "Una nuova tecnologia trasmette dati senza generare segnali radio, riducendo i consumi energetici.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674551/trasmissione-wireless-rumore-termico-stanford/",
+      "titolo": "Colossale violazione della rete TOR: 333 server hackerati in un colpo",
+      "descrizione": "Non si sa chi sia stato né come abbia fatto a far capitolare così tanti nodi in una volta sola. A quanto pare ha intercettato connessioni SSH e email non criptate.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n674619/attacco-hacer-tor-onion-ring-333-server-violati/",
       "fonte": "HDblog.it",
-      "data": "2026-10-22T09:35:00+00:00"
+      "data": "2026-10-22T15:35:00+00:00"
     },
     {
-      "titolo": "Microsoft Edge avrà strumenti per unire, ruotare e riordinare i PDF",
-      "descrizione": "Da gennaio 2027 il lettore PDF di Microsoft Edge potrebbe sostituire Acrobat Reader e molte estensioni per le operazioni più comuni. The post Microsoft Edge avrà strumenti per unire, ruotare e riordinare i PDF appeared f",
-      "link": "https://www.punto-informatico.it/microsoft-edge-strumenti-unire-ruotare-riordinare-pdf/",
+      "titolo": "La Papamobile di Leone XIV è un pick-up FIAT: debutto in Sud America",
+      "descrizione": "Per la sua prima visita in Uruguay FIAT sta preparando una Papamobile speciale. Scopriamo la Titanio di Leone XIV",
+      "link": "https://www.hdmotori.it/papamobile-leone-xiv-pick-up-fiat/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T15:30:48+00:00"
+    },
+    {
+      "titolo": "Spesa troppo cara? 5 consigli di ChatGPT per risparmiare davvero",
+      "descrizione": "Cinque strategie concrete per ridurre il conto del supermercato con l'aiuto di ChatGPT senza rinunciare alla quantità né alla qualità. The post Spesa troppo cara? 5 consigli di ChatGPT per risparmiare davvero appeared fi",
+      "link": "https://www.punto-informatico.it/spesa-troppo-cara-5-consigli-chatgpt-risparmiare-davvero/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-22T08:04:07+00:00"
+      "data": "2026-10-22T15:30:31+00:00"
+    },
+    {
+      "titolo": "iPhone Duo, la nostra anteprima: tra ambizione e qualche compromesso | VIDEO",
+      "descrizione": "Abbiamo provato per un paio d'ore in anteprima il nuovo iPhone Duo: ecco le nostre prime impressioni sul primo pieghevole di Apple",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n674583/iphone-duo-anteprima-video-prezzo-test-ita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T15:15:00+00:00"
+    },
+    {
+      "titolo": "Muse: Meta guadagnerà con AI, occhiali smart e shopping",
+      "descrizione": "Muse ha già superato i 10 milioni di utenti e Zuckerberg punta a farne il prodotto più redditizio di Meta. Ecco il suo piano. The post Muse: Meta guadagnerà con AI, occhiali smart e shopping appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/muse-meta-guadagnera-ai-occhiali-smart-shopping/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T15:08:44+00:00"
+    },
+    {
+      "titolo": "Camion EV, arriva la doppia batteria: una si sostituisce, l'altra fornisce energia di riserva",
+      "descrizione": "La tecnologia Range Extender a doppia alimentazione elettrica offre una visione innovativa per il mercato dei mezzi pesanti.",
+      "link": "https://www.hdmotori.it/cina-camion-dual-electric-range-extender-catl/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T15:00:43+00:00"
+    },
+    {
+      "titolo": "La PEC compie 20 anni e guarda all'Europa: cosa cambierà con la PEC qualificata",
+      "descrizione": "Oltre 20 milioni di caselle attive e 3,5 miliardi di messaggi previsti nel 2026. Al convegno organizzato da Aruba a Roma, istituzioni e operatori hanno discusso del futuro della posta certificata.",
+      "link": "https://www.hdblog.it/business/articoli/n674604/pec-20-anni-europa-posta-qualificata-cosa-cambia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T14:54:00+00:00"
+    },
+    {
+      "titolo": "Plastica e imballaggi: la classifica europea del riciclo (e l'Italia fa meglio della media)",
+      "descrizione": "I dati Eurostat sulla produzione e il riciclo dei rifiuti di imballaggi in plastica.",
+      "link": "https://www.hdblog.it/green/articoli/n674605/plastica-imballaggi-riciclo-europa-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T14:50:00+00:00"
+    },
+    {
+      "titolo": "iPhone Duo e app ottimizzate: il badge è una mossa furba",
+      "descrizione": "Da Netflix a Word e Instagram, molte app sono già state ottimizzate per il display pieghevole di iPhone Duo: Apple lancia un badge dedicato. The post iPhone Duo e app ottimizzate: il badge è una mossa furba appeared firs",
+      "link": "https://www.punto-informatico.it/iphone-duo-app-ottimizzate-badge-mossa-furba/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T14:47:16+00:00"
+    },
+    {
+      "titolo": "20 anni di PEC: oltre 20 milioni di caselle in Italia",
+      "descrizione": "In Italia ci sono oltre 20 milioni di caselle PEC (Posta Elettronica Certificata) usate da aziende, professionisti, pubbliche amministrazioni e cittadini. The post 20 anni di PEC: oltre 20 milioni di caselle in Italia ap",
+      "link": "https://www.punto-informatico.it/20-anni-pec-oltre-20-milioni-caselle-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T14:17:53+00:00"
+    },
+    {
+      "titolo": "Il postino che consegnava telegrammi a Senna e Prost: ora si emoziona con Hamilton",
+      "descrizione": "Si chiama Paolo e, nel corso della sua vita, si è tolto la soddisfazione di conoscere i piloti più forti della storia recente della F1",
+      "link": "https://www.hdmotori.it/portalettere-autodromo-monza-hamilton/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T14:00:31+00:00"
+    },
+    {
+      "titolo": "Kindle Unlimited diventa Kindle+: cosa cambia (e cosa no)",
+      "descrizione": "L'abbonamento per la lettura degli eBook senza limiti cambia il nome, ma non la sostanza: ora si chiama Kindle+. The post Kindle Unlimited diventa Kindle+: cosa cambia (e cosa no) appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/kindle-unlimited-diventa-kindle-plus/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T13:49:33+00:00"
+    },
+    {
+      "titolo": "20 anni di PEC: dalla firma di Ciampi all’interoperabilità europea",
+      "descrizione": "Un convegno per fare il punto sui decenni della posta elettronica certificata e su come si stia preparando per la nuova fase europea. The post 20 anni di PEC: dalla firma di Ciampi all’interoperabilità europea appeared f",
+      "link": "https://www.punto-informatico.it/20-anni-pec/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T13:22:21+00:00"
+    },
+    {
+      "titolo": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
+      "descrizione": "Leaked private keys for eight CA certificates let any attacker impersonate any domain — billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-22T13:14:20+00:00"
     }
   ]
 }

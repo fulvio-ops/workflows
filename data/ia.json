@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-22T11:57:40.034371+00:00",
+  "last_updated": "2026-10-22T17:13:35.385482+00:00",
   "items": [
     {
-      "titolo": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
-      "descrizione": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-22T10:30:00+00:00",
+      "titolo": "Colossale violazione della rete TOR: 333 server hackerati in un colpo",
+      "descrizione": "Non si sa chi sia stato né come abbia fatto a far capitolare così tanti nodi in una volta sola. A quanto pare ha intercettato connessioni SSH e email non criptate.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n674619/attacco-hacer-tor-onion-ring-333-server-violati/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T15:35:00+00:00",
       "modello": "chatgpt"
     },
     {
