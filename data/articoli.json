@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-22T17:13:31.904700+00:00",
+  "last_updated": "2026-10-22T21:39:09.184547+00:00",
   "items": [
+    {
+      "titolo": "The Social Society Helping Women Join the AI Boom",
+      "descrizione": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "fonte": "WIRED",
+      "data": "2026-10-22T19:56:32+00:00"
+    },
+    {
+      "titolo": "iPhone Duo, la nostra anteprima: tra ambizione e qualche compromesso | VIDEO",
+      "descrizione": "Abbiamo provato per un paio d'ore in anteprima il nuovo iPhone Duo: ecco le nostre prime impressioni sul primo pieghevole di Apple",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n674583/iphone-duo-anteprima-video-prezzo-test-ita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T19:00:00+00:00"
+    },
+    {
+      "titolo": "XBOX Cloud Playtime: streaming senza abbonamento",
+      "descrizione": "Microsoft ha annunciato il servizio Cloud Playtime (attualmente in test) che permette di eseguire i giochi in streaming senza abbonamento Game Pass. The post XBOX Cloud Playtime: streaming senza abbonamento appeared firs",
+      "link": "https://www.punto-informatico.it/xbox-cloud-playtime-streaming-senza-abbonamento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-22T17:40:33+00:00"
+    },
+    {
+      "titolo": "Samsung permette ora di acquistare online la riparazione degli elettrodomestici fuori garanzia",
+      "descrizione": "Samsung Smart Repair viene estesa dagli smartphone ai prodotti home",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674622/samsung-riparazione-elettrodomestici-garanzia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T17:30:00+00:00"
+    },
+    {
+      "titolo": "Un supervulcano devastò la popolazione di alcune aree: accadde 7.300 anni fa",
+      "descrizione": "Un'eruzione colossale provocò migrazioni e cambiamenti nelle comunità del Giappone preistorico.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n674527/supervulcano-giappone-eruzione-7300-anni-fa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-22T17:20:00+00:00"
+    },
     {
       "titolo": "Scoperto l'enzima Pac-Man: mangia la plastica in 250 giorni",
       "descrizione": "Un enzima batterico chiamato Pac-Man aiuta a degradare le bioplastiche nel terreno in meno di un anno.",
@@ -30,7 +65,7 @@
       "data": "2026-10-22T16:29:00+00:00"
     },
     {
-      "titolo": "GPUs from Nvidia RTX 5090 stolen $470,000 shipment from Brazil airport appear for sale online, identified by serial numbers",
+      "titolo": "GPUs from stolen $470,000 Nvidia RTX 5090 shipment at Brazil airport appear for sale online, identified by serial numbers",
       "descrizione": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
       "link": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
       "fonte": "Latest from Tom's Hardware",
@@ -93,13 +128,6 @@
       "data": "2026-10-22T15:30:31+00:00"
     },
     {
-      "titolo": "iPhone Duo, la nostra anteprima: tra ambizione e qualche compromesso | VIDEO",
-      "descrizione": "Abbiamo provato per un paio d'ore in anteprima il nuovo iPhone Duo: ecco le nostre prime impressioni sul primo pieghevole di Apple",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n674583/iphone-duo-anteprima-video-prezzo-test-ita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T15:15:00+00:00"
-    },
-    {
       "titolo": "Muse: Meta guadagnerà con AI, occhiali smart e shopping",
       "descrizione": "Muse ha già superato i 10 milioni di utenti e Zuckerberg punta a farne il prodotto più redditizio di Meta. Ecco il suo piano. The post Muse: Meta guadagnerà con AI, occhiali smart e shopping appeared first on Punto Infor",
       "link": "https://www.punto-informatico.it/muse-meta-guadagnera-ai-occhiali-smart-shopping/",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/20-anni-pec-oltre-20-milioni-caselle-italia/",
       "fonte": "Punto Informatico",
       "data": "2026-10-22T14:17:53+00:00"
-    },
-    {
-      "titolo": "Il postino che consegnava telegrammi a Senna e Prost: ora si emoziona con Hamilton",
-      "descrizione": "Si chiama Paolo e, nel corso della sua vita, si è tolto la soddisfazione di conoscere i piloti più forti della storia recente della F1",
-      "link": "https://www.hdmotori.it/portalettere-autodromo-monza-hamilton/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T14:00:31+00:00"
-    },
-    {
-      "titolo": "Kindle Unlimited diventa Kindle+: cosa cambia (e cosa no)",
-      "descrizione": "L'abbonamento per la lettura degli eBook senza limiti cambia il nome, ma non la sostanza: ora si chiama Kindle+. The post Kindle Unlimited diventa Kindle+: cosa cambia (e cosa no) appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/kindle-unlimited-diventa-kindle-plus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-22T13:49:33+00:00"
-    },
-    {
-      "titolo": "20 anni di PEC: dalla firma di Ciampi all’interoperabilità europea",
-      "descrizione": "Un convegno per fare il punto sui decenni della posta elettronica certificata e su come si stia preparando per la nuova fase europea. The post 20 anni di PEC: dalla firma di Ciampi all’interoperabilità europea appeared f",
-      "link": "https://www.punto-informatico.it/20-anni-pec/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-22T13:22:21+00:00"
-    },
-    {
-      "titolo": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
-      "descrizione": "Leaked private keys for eight CA certificates let any attacker impersonate any domain — billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-22T13:14:20+00:00"
     }
   ]
 }
