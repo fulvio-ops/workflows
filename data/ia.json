@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-23T04:56:06.498988+00:00",
+  "last_updated": "2026-10-23T11:43:23.727236+00:00",
   "items": [
     {
-      "titolo": "Colossale violazione della rete TOR: 333 server hackerati in un colpo",
-      "descrizione": "Non si sa chi sia stato né come abbia fatto a far capitolare così tanti nodi in una volta sola. A quanto pare ha intercettato connessioni SSH e email non criptate.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n674619/attacco-hacer-tor-onion-ring-333-server-violati/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-22T15:35:00+00:00",
+      "titolo": "OpenAI: vulnerabilità nel sistema di monitoraggio AI",
+      "descrizione": "Durante un test, gli esperti di METR e Redwood Research hanno scoperto diverse vulnerabilità nel sistema di monitoraggio degli agenti AI di OpenAI. The post OpenAI: vulnerabilità nel sistema di monitoraggio AI appeared f",
+      "link": "https://www.punto-informatico.it/openai-vulnerabilita-sistema-monitoraggio-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T11:16:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-      "descrizione": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-20T20:00:00+00:00",
+      "titolo": "Gemini diventa più personale con Google Maps: addio a Deep Think?",
+      "descrizione": "Gemini integra luoghi salvati e ricerche di Maps, mentre Argon si prepara a sostituire Deep Think.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n674691/gemini-google-maps-personal-intelligence-deep-thin/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T09:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Duet: un altro agente AI che accede ai dati personali",
-      "descrizione": "Anthropic promette che Claude Duet chiederà sempre l'autorizzazione per eseguire azioni su dati sensibili, ma i precedenti sollevano qualche dubbio. The post Claude Duet: un altro agente AI che accede ai dati personali a",
-      "link": "https://www.punto-informatico.it/claude-duet-altro-agente-ai-accede-dati-personali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-22T08:30:28+00:00",
+      "titolo": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
+      "descrizione": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T11:00:00+00:00",
       "modello": "claude"
     },
     {
