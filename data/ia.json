@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-10-23T11:43:23.727236+00:00",
+  "last_updated": "2026-10-23T17:11:45.220723+00:00",
   "items": [
     {
-      "titolo": "OpenAI: vulnerabilità nel sistema di monitoraggio AI",
-      "descrizione": "Durante un test, gli esperti di METR e Redwood Research hanno scoperto diverse vulnerabilità nel sistema di monitoraggio degli agenti AI di OpenAI. The post OpenAI: vulnerabilità nel sistema di monitoraggio AI appeared f",
-      "link": "https://www.punto-informatico.it/openai-vulnerabilita-sistema-monitoraggio-ai/",
+      "titolo": "Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora",
+      "descrizione": "7 plugin di ChatGPT che trasformano il chatbot in un assistente completo per chi gestisce un'attività secondaria, con prompt pronti all'uso. The post Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora app",
+      "link": "https://www.punto-informatico.it/lavoretto-extra-7-plugin-chatgpt-prompt-iniziare-ora/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-23T11:16:47+00:00",
+      "data": "2026-10-23T15:30:09+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini diventa più personale con Google Maps: addio a Deep Think?",
-      "descrizione": "Gemini integra luoghi salvati e ricerche di Maps, mentre Argon si prepara a sostituire Deep Think.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n674691/gemini-google-maps-personal-intelligence-deep-thin/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T09:35:00+00:00",
+      "titolo": "Microsoft elimina la funzione AI di Outlook che ordinava la posta",
+      "descrizione": "Microsoft ritira Copilot Prioritize da Outlook. La funzione AI che assegnava priorità alle email sparirà entro metà novembre 2026. The post Microsoft elimina la funzione AI di Outlook che ordinava la posta appeared first",
+      "link": "https://www.punto-informatico.it/microsoft-elimina-funzione-ai-outlook-ordinava-posta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T14:22:34+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+      "descrizione": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+      "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-20T20:00:00+00:00",
       "modello": "gemini"
     },
     {
@@ -26,11 +34,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "La Cina prepara controlli sull’export dell’Ai: cosa cambia per le imprese",
-      "descrizione": "Si apre un’incognita per le aziende che anche in Italia hanno installato un modello cinese come Qwen o DeepSeek. Il loro accesso a future tecnologie che arrivano dalla Cina non...",
-      "link": "https://www.ilsole24ore.com/art/la-cina-prepara-controlli-sull-export-dell-ai-cosa-cambia-le-imprese-AJjNTTpB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-21T12:00:00+00:00",
+      "titolo": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+      "descrizione": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still — open-weight model is fit for agentic workloads and exceedingly cheap to run",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T12:00:00+00:00",
       "modello": "altri"
     }
   ]

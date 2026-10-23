@@ -1,54 +1,152 @@
 {
-  "last_updated": "2026-10-23T11:43:17.557030+00:00",
+  "last_updated": "2026-10-23T17:11:41.271329+00:00",
   "items": [
     {
-      "titolo": "Rotatorie nel nuovo Codice della Strada: come cambieranno le regole su precedenza e corsie",
-      "descrizione": "Dalla scelta della corsia d'ingresso alla precedenza nell'anello: tutte le novità introdotte dallo schema del nuovo Codice della Strada per quanto riguarda le rotonde.",
-      "link": "https://www.hdmotori.it/focus/mercato/normative/rotatorie-nuovo-codice-strada-precedenza-corsie/",
+      "titolo": "Starlink vuole accedere alla metà dei ripetitori cellulari degli Stati Uniti",
+      "descrizione": "Secondo Bloomberg la società ha già avviato le trattative con Crown Castle, uno dei maggiori proprietari di infrastrutture di rete del Paese.",
+      "link": "https://www.hdblog.it/mobile/articoli/n674758/starlink-ripetitori-cellulari-accesso-trattative/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T11:30:01+00:00"
+      "data": "2026-10-23T17:10:00+00:00"
     },
     {
-      "titolo": "Torna l'ora solare, ma quanto ci ha fatto risparmiare l’ora legale?",
-      "descrizione": "Nei sette mesi di ora legale gli italiani hanno consumato meno elettricità, risparmiando oltre 90 milioni di euro. E dal 2004 il beneficio raggiunge i miliardi",
-      "link": "https://www.hdblog.it/green/articoli/n674714/ora-legale-risparmio-2026-consumi/",
+      "titolo": "IT-Wallet, ecco il regolamento ufficiale per accedere alla sperimentazione",
+      "descrizione": "Soggetti pubblici e privati potranno testare la piattaforma e nuove soluzioni basate su di essa.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n674755/it-wallet-regolamento-ufficiale-adesione/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T11:10:00+00:00"
+      "data": "2026-10-23T16:45:00+00:00"
     },
     {
-      "titolo": "Nio Firefly: arriva una nuova batteria CATL da 60 kWh",
-      "descrizione": "Nio Firefly introduce il nuovo pacco batterie CATL da 60 kWh: autonomia estesa a 454 km WLTP, peso invariato e aggiornamento disponibile anche tramite battery swap.",
-      "link": "https://www.hdmotori.it/nio-firefly-nuova-batteria-catl-60-kwh/",
+      "titolo": "OnePlus, addio a OxygenOS: ColorOS17 stabile arriva su OnePlus 15",
+      "descrizione": "La fine di un'era. Che però era già annunciata da tempo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674751/oneplus-15-addio-oxygenos-coloros-17-aggiornamento/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T11:00:17+00:00"
+      "data": "2026-10-23T16:35:00+00:00"
     },
     {
-      "titolo": "WhatsApp rende tutto più veloce: arriva la scorciatoia per condividere i Reel nelle chat",
-      "descrizione": "WhatsApp testa un nuovo pulsante per condividere i Reel di Instagram direttamente dalle chat.",
-      "link": "https://www.hdblog.it/android/articoli/n674693/whatsapp-novita-scorciatoia-reel/",
+      "titolo": "Volvo non frena i tagli: altri 2.500 licenziamenti per abbattere i costi",
+      "descrizione": "Volvo Cars riduce i costi e annuncia 2.500 esuberi, di cui 2.000 in Svezia. È la seconda ondata di uscite dopo i 3.000 posti di lavoro già tagliati nel 2025",
+      "link": "https://www.hdmotori.it/volvo-cars-licenziamenti-tagli-personale-svezia/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T10:45:00+00:00"
+      "data": "2026-10-23T16:00:23+00:00"
     },
     {
-      "titolo": "Se invii email a più persone, occhio a un errore che può costar caro",
-      "descrizione": "Il Garante Privacy ha sanzionato la Federazione Nazionale degli Ordini dei Biologi per due PEC inviate senza nascondere gli indirizzi dei destinatari. Un errore involontario, ma non per questo innocuo",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n674707/email-visibili-in-cc-errore-multa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T10:35:00+00:00"
+      "titolo": "Microsoft ha manipolato l’approvazione dello standard OOXML",
+      "descrizione": "The Document Foundation ha descritto la storia del formato OOXML e come Microsoft è riuscita ad ottenere la sua standardizzazione nel 2008. The post Microsoft ha manipolato l’approvazione dello standard OOXML appeared fi",
+      "link": "https://www.punto-informatico.it/microsoft-manipolato-approvazione-standard-ooxml/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T15:53:21+00:00"
     },
     {
-      "titolo": "Laserwall Bag ufficiale: consegne da Amazon più sicure in condominio",
-      "descrizione": "È un nuovo servizio che fa parte di Laserwall Check, sistema smart per i condomini.",
-      "link": "https://www.hdblog.it/amazon/articoli/n674706/amazon-laserwall-smart-bag-consegne-condominio/",
+      "titolo": "Brick Night, l'alto prezzo della battaglia contro il doomscrolling prima di dormire",
+      "descrizione": "150 euro per un dispositivo Bluetooth che blocca certe app quando lo smartphone è nelle sue vicinanze.",
+      "link": "https://www.hdblog.it/android/articoli/n674748/brick-night-doomscrolling-bluetooth-prezzo/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T10:25:00+00:00"
+      "data": "2026-10-23T15:45:00+00:00"
     },
     {
-      "titolo": "WhatsApp gli blocca l'account per sempre, ma non sa perché: il caso di un manager",
-      "descrizione": "Un manager italiano si ritrova senza accesso a WhatsApp dopo un viaggio negli USA. Nessun avvertimento, revisione respinta e anni di contatti professionali a rischio",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674703/whatsapp-banna-senza-motivo-manager/",
+      "titolo": "Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora",
+      "descrizione": "7 plugin di ChatGPT che trasformano il chatbot in un assistente completo per chi gestisce un'attività secondaria, con prompt pronti all'uso. The post Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora app",
+      "link": "https://www.punto-informatico.it/lavoretto-extra-7-plugin-chatgpt-prompt-iniziare-ora/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T15:30:09+00:00"
+    },
+    {
+      "titolo": "Apple Music, si sbaglia URL e appare un iPod del 2001",
+      "descrizione": "Su Apple Music le pagine inesistenti nascondono un iPod di prima generazione da usare nel browser. Ecco come trovare l'easter egg. The post Apple Music, si sbaglia URL e appare un iPod del 2001 appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/apple-music-si-sbaglia-url-appare-ipod-2001/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T14:50:25+00:00"
+    },
+    {
+      "titolo": "Come vedere in streaming lo speciale Halloween di LOL",
+      "descrizione": "Maccio Capatonda, Herbert Ballerina e Katia Follesa tornano in LOL per Halloween: il nuovo speciale è già in streaming su Prime Video. The post Come vedere in streaming lo speciale Halloween di LOL appeared first on Punt",
+      "link": "https://www.punto-informatico.it/come-vedere-streaming-speciale-halloween-lol/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T14:48:43+00:00"
+    },
+    {
+      "titolo": "Volkswagen T-Roc Full Hybrid, Porte Aperte il 24 e 25 ottobre: in offerta da 30.500 euro",
+      "descrizione": "Volkswagen T-Roc Hybrid protagonista del Porte Aperte del 24 e 25 ottobre: test drive nelle concessionarie italiane e offerta speciale di lancio",
+      "link": "https://www.hdmotori.it/volkswagen-t-roc-full-hybrid-porte-aperte/",
       "fonte": "HDblog.it",
-      "data": "2026-10-23T10:15:00+00:00"
+      "data": "2026-10-23T14:30:09+00:00"
+    },
+    {
+      "titolo": "La prossima era glaciale era già iniziata: il riscaldamento globale l'ha fermata",
+      "descrizione": "La scoperta della Columbia University.",
+      "link": "https://www.hdblog.it/green/articoli/n674730/era-glaciale-riscaldamento-clima-laurentide-barnes/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T14:15:00+00:00"
+    },
+    {
+      "titolo": "Social vietati ai minori di 15 anni, la Grecia approva la legge: cosa cambia e quando",
+      "descrizione": "Dal 1° gennaio 2027 i minori di 15 anni non potranno più utilizzare i social network in Grecia.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n674738/social-vietati-minori-15-anni-grecia-approva/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T14:05:00+00:00"
+    },
+    {
+      "titolo": "Batteria auto scarica? Hyundai KONA e TUCSON ibride ripartono premendo un pulsante",
+      "descrizione": "Hyundai Battery Reset permette di riavviare KONA e TUCSON ibride quando la batteria da 12 V si scollega. Come funziona e quando usare il pulsante",
+      "link": "https://www.hdmotori.it/batteria-auto-scarica-hyundai-kona-tucson-ibride/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T14:00:06+00:00"
+    },
+    {
+      "titolo": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
+      "descrizione": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and residential use.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T13:36:50+00:00"
+    },
+    {
+      "titolo": "Social media: divieto per i minori di 15 anni in Grecia",
+      "descrizione": "Il Parlamento ellenico ha approvato la legge che introduce il divieto di accesso per i minori di 15 anni e l'obbligo della verifica dell'età. The post Social media: divieto per i minori di 15 anni in Grecia appeared firs",
+      "link": "https://www.punto-informatico.it/social-media-divieto-minori-15-anni-grecia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T13:28:45+00:00"
+    },
+    {
+      "titolo": "Bluesky sbarca su iPad e consente di mettere i link nel profilo",
+      "descrizione": "Bluesky lancia in beta il supporto per iPad e permette di inserire nel profilo link a Patreon, siti e newsletter. Ecco come funziona. The post Bluesky sbarca su iPad e consente di mettere i link nel profilo appeared firs",
+      "link": "https://www.punto-informatico.it/bluesky-sbarca-ipad-consente-mettere-link-profilo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T13:18:25+00:00"
+    },
+    {
+      "titolo": "Yamaha MT-125 2027: affilata, connessa e sempre più Hyper Naked",
+      "descrizione": "Restyling profondo per la 125 di Yamaha, tra fari LED a lama, cruscotto smart da 5\" e la nuova livrea Redline White. Invariati motore VVA e ciclistica Deltabox.",
+      "link": "https://www.hdmotori.it/yamaha-mt-125-2027-novita-design-uscita/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T13:00:11+00:00"
+    },
+    {
+      "titolo": "Roblox è una VLOP, Altroconsumo lancia una petizione per forzare il rispetto del DSA",
+      "descrizione": "Chat pericolose, acquisti con denaro reale e meccanismi che favoriscono l'uso compulsivo: Altroconsumo chiede nuove tutele a Roblox.",
+      "link": "https://www.hdblog.it/giochi/articoli/n674721/roblox-vlop-altroconsumo-petizione-rispetto-dsa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-23T12:45:00+00:00"
+    },
+    {
+      "titolo": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+      "descrizione": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T12:26:23+00:00"
+    },
+    {
+      "titolo": "FCC issues first bans under new chip-level rule",
+      "descrizione": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T12:15:00+00:00"
+    },
+    {
+      "titolo": "UK proposes 14-year prison sentences for undersea cable saboteurs amid Russian trawler threats",
+      "descrizione": "The UK government has outlined plans for new powers and criminal offenses to help protect undersea cables in UK waters amid fears of Russian interference.",
+      "link": "https://www.tomshardware.com/tech-industry/uk-proposes-14-year-prison-sentences-for-undersea-cable-saboteurs-amid-russian-trawler-threats-government-responds-to-growing-threats-with-new-criminal-offences-and-emergency-powers-to-shut-down-services",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-23T11:45:00+00:00"
     },
     {
       "titolo": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
@@ -58,20 +156,6 @@
       "data": "2026-10-23T10:15:00+00:00"
     },
     {
-      "titolo": "Alfa Romeo, il capo del design: «Eliminiamo gli schermi»",
-      "descrizione": "La prossima generazione di Alfa Romeo potrebbe optare per l’eliminazione dei maxi-schermi che distraggono i guidatori.",
-      "link": "https://www.hdmotori.it/alfa-romeo-capo-design-schermi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T10:00:29+00:00"
-    },
-    {
-      "titolo": "Wyze rinnova la lampadina smart con videocamera a 360 gradi inclusa",
-      "descrizione": "Wyze presenta Bulb Cam Pan Color, una lampadina smart con videocamera di sicurezza QHD integrata. Si installa su un attacco E26, ruota di 360 gradi e permette di sorvegliare gli ambienti senza cavi...",
-      "link": "https://www.hdblog.it/home/articoli/n674698/wyze-lampadina-telecamera-integrata-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T09:55:00+00:00"
-    },
-    {
       "titolo": "Spotify Family, arriva il QR code per scovare chi non vive insieme",
       "descrizione": "Spotify verifica chi non convive davvero nel piano Family con un nuovo QR code da scansionare sul telefono del gestore. Cosa cambia. The post Spotify Family, arriva il QR code per scovare chi non vive insieme appeared fi",
       "link": "https://www.punto-informatico.it/spotify-family-qr-code-scovare-chi-non-vive-insieme/",
@@ -79,95 +163,11 @@
       "data": "2026-10-23T09:51:34+00:00"
     },
     {
-      "titolo": "Microsoft chiude Garage: come l'AI cambia le priorità e il modo di fare innovazione",
-      "descrizione": "La chiusura del longevo programma Garage dice molto su come è cambiato l'approccio di Microsoft (e della altre Big Tech) all'innovazione.",
-      "link": "https://www.hdblog.it/business/articoli/n674682/microsoft-chiude-garage-ai-priorita-innovazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T09:45:00+00:00"
-    },
-    {
       "titolo": "Etsy: i venditori devono dichiarare le immagini generate con l’AI",
       "descrizione": "Ricette, cartamodelli e istruzioni su Etsy devono essere originali e accompagnati da foto reali. L'arte AI è ammessa, ma va dichiarata. The post Etsy: i venditori devono dichiarare le immagini generate con l’AI appeared",
       "link": "https://www.punto-informatico.it/etsy-venditori-devono-dichiarare-immagini-generate-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-10-23T09:32:44+00:00"
-    },
-    {
-      "titolo": "Sihoo Doro C300 Pro V2, la sedia ergonomica che si regola mentre ci si muove",
-      "descrizione": "La nuova seduta di Sihoo coordina testa, schiena, zona lombare e braccia per seguire i cambi di posizione, invece di chiedere all’utente di rincorrerli. The post Sihoo Doro C300 Pro V2, la sedia ergonomica che si regola",
-      "link": "https://www.punto-informatico.it/sihoo-doro-c300-pro-v2-la-sedia-ergonomica-che-si-regola-mentre-ci-si-muove/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T09:31:05+00:00"
-    },
-    {
-      "titolo": "Half-Life 3 sta prendendo forma, finalmente?",
-      "descrizione": "Un sound designer un po' troppo chiacchierone sembra aver anticipato qualcosa di concreto. Ma quanto dovremo attendere ancora?",
-      "link": "https://www.hdblog.it/games/articoli/n674695/half-life-3-nuovi-indizi-hlx-spoiler-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T09:25:00+00:00"
-    },
-    {
-      "titolo": "Linux Day 2026 il 24 ottobre in oltre 50 città: dove partecipare",
-      "descrizione": "Sabato 24 ottobre, l'edizione 2026 del Linux Day porterà in tutta Italia eventi gratuiti dedicati all'open source: l'elenco delle città. The post Linux Day 2026 il 24 ottobre in oltre 50 città: dove partecipare appeared",
-      "link": "https://www.punto-informatico.it/linux-day-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T09:19:42+00:00"
-    },
-    {
-      "titolo": "Arriva il robot che sembra una lampada: ti riconosce, ti segue e cambia umore",
-      "descrizione": "La startup OKA ha presentato ieri Mori, un piccolo robot domestico dall'aspetto di un fungo, alto circa 30 centimetri. Non pulisce e non svolge faccende domestiche: è pensato come un oggetto d'arredo...",
-      "link": "https://www.hdblog.it/home/articoli/n674694/mori-robot-sembra-lampada-cosa-fa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T09:15:00+00:00"
-    },
-    {
-      "titolo": "Microsoft sviluppa una Superintelligenza medica: MAI-DxO",
-      "descrizione": "Mustafa Suleyman parla di superintelligenza medica. Microsoft presenta MAI-DxO, un team di agenti AI che dibatte le diagnosi. The post Microsoft sviluppa una Superintelligenza medica: MAI-DxO appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/microsoft-sviluppa-superintelligenza-medica-mai-dxo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T08:17:06+00:00"
-    },
-    {
-      "titolo": "Autonomia straordinaria e sensore Sony LYTIA: Motorola Edge 70 Fusion",
-      "descrizione": "Il Motorola Edge 70 Fusion, nella versione da 8 GB di RAM e 256 GB di memoria con batteria da 5200 mAh, è in offerta su eBay a un prezzaccio. The post Autonomia straordinaria e sensore Sony LYTIA: Motorola Edge 70 Fusion",
-      "link": "https://www.punto-informatico.it/autonomia-straordinaria-sensore-sony-lytia-motorola-edge-70-fusion/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T07:44:08+00:00"
-    },
-    {
-      "titolo": "Canva Craft, come funziona il nuovo generatore di immagini AI",
-      "descrizione": "Canva Craft è il primo modello di generazione di immagini sviluppato da Canva. Crea immagini fino a 2K, con testi leggibili e 30 proporzioni. The post Canva Craft, come funziona il nuovo generatore di immagini AI appeare",
-      "link": "https://www.punto-informatico.it/canva-craft-come-funziona-nuovo-generatore-immagini-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T07:22:13+00:00"
-    },
-    {
-      "titolo": "Auricolari wireless a clip Baseus Bowie MC1 per un comfort ineguagliabile",
-      "descrizione": "Con gli auricolari wireless a clip Baseus Bowie MC1 puoi ascoltare la musica per tutto il giorno senza nemmeno accorgerti di averli. The post Auricolari wireless a clip Baseus Bowie MC1 per un comfort ineguagliabile appe",
-      "link": "https://www.punto-informatico.it/auricolari-wireless-clip-baseus-bowie-mc1-per-comfort-ineguagliabile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T07:20:07+00:00"
-    },
-    {
-      "titolo": "PHP2Shell, Europa nel mirino: rischia il 10% delle realtà italiane",
-      "descrizione": "Telecomunicazioni e istruzione tra i settori più esposti a PHP2Shell: le patch sono state rilasciate, ma il rischio rimane concreto. The post PHP2Shell, Europa nel mirino: rischia il 10% delle realtà italiane appeared fi",
-      "link": "https://www.punto-informatico.it/php2shell-europa-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T07:12:58+00:00"
-    },
-    {
-      "titolo": "Il browser Arc chiude, cosa succede ai dati e come passare a Dia",
-      "descrizione": "Arc Browser chiude. The Browser Company punta su Dia, il browser AI. Cosa succede ai dati e quali funzioni passano nel nuovo browser. The post Il browser Arc chiude, cosa succede ai dati e come passare a Dia appeared fir",
-      "link": "https://www.punto-informatico.it/browser-arc-chiude-cosa-succede-dati-come-passare-dia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T06:58:14+00:00"
-    },
-    {
-      "titolo": "Amazon investe in 12 reattori nucleari per alimentare i suoi data center",
-      "descrizione": "Dodici piccoli reattori modulari, per una potenza complessiva di 960 megawatt, sorgeranno in Indiana sul sito di un’ex centrale a carbone",
-      "link": "https://www.ilsole24ore.com/art/amazon-investe-12-reattori-nucleari-alimentare-suoi-data-center-AJIfcOrB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-23T05:35:16+00:00"
     }
   ]
 }
