@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-10-24T04:41:02.131316+00:00",
+  "last_updated": "2026-10-24T11:06:33.951817+00:00",
   "items": [
+    {
+      "titolo": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+      "descrizione": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+      "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+      "fonte": "WIRED",
+      "data": "2026-10-24T10:30:00+00:00"
+    },
+    {
+      "titolo": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
+      "descrizione": "The Filin missile, which was deployed between late September and early October of this year, reportedly used 3D-printed and commercial parts to save on cost.",
+      "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-24T10:25:00+00:00"
+    },
+    {
+      "titolo": "YouTuber escapes the modern AI tech market by recreating his 1996 PC",
+      "descrizione": "Exhaustion with tech market prompt Youtuber to remake their first PC — 1996 build fueled by nostalgia and AI weariness",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "titolo": "Missioni Artemis: la NASA rivoluziona i piani di SpaceX e Blue Origin",
+      "descrizione": "La NASA cambia Artemis: nuova strategia per Orion, Starship e Blue Moon in vista del 2028.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n674776/nasa-artemis-nuovo-piano-luna-2028/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T09:40:00+00:00"
+    },
+    {
+      "titolo": "Peugeot E-T16, il concept da 816 CV pronto per la produzione in serie?",
+      "descrizione": "Dal Mondial de l'Auto la Peugeot E-T16 fa sognare: 816 CV, trazione integrale e sfida aperta alla Renault R5 Turbo 3E. Arriverà davvero in serie?",
+      "link": "https://www.hdmotori.it/peugeot-e-t16-concept-816-cv-rumors-produzion-serie/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T09:00:29+00:00"
+    },
+    {
+      "titolo": "I più venduti della settimana su HDshopping: è dominio Xiaomi",
+      "descrizione": "La Top 6 della settimana.",
+      "link": "https://www.hdblog.it/apple/articoli/n674679/hdshopping-top-acquisti-settimana-iphone-xiaomi/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T08:55:00+00:00"
+    },
+    {
+      "titolo": "Stanotte torna l'ora solare: salute e risparmio a confronto",
+      "descrizione": "Stanotte torna l'ora solare: gli scienziati la preferiscono, ma l'ora legale fa risparmiare.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n674778/ora-solare-2026-cambio-ora-salute-risparmio-energe/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T07:55:00+00:00"
+    },
+    {
+      "titolo": "Ci sono già i primi iPhone Duo rotti: casi isolati o problema sistemico?",
+      "descrizione": "Un utente australiano si è trovato il display interno KO appena sei ore dopo averlo ritirato in negozio. E a quanto pare casi analoghi sono stati segnalati sui social cinesi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674765/apple-iphone-duo-rotti-display-interno-difetto/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T07:40:00+00:00"
+    },
+    {
+      "titolo": "Google Gemini, l'interfaccia cambia ancora: ecco le novità",
+      "descrizione": "Un paio di interventi per rendere tutto più semplice e ordinato.",
+      "link": "https://www.hdblog.it/google/articoli/n674773/google-gemini-android-restyling-menu-impostazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T07:20:00+00:00"
+    },
+    {
+      "titolo": "IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID",
+      "descrizione": "Il portafoglio digitale italiano apre ai privati: pubblicate le regole per accedere alla sperimentazione di IT-Wallet e testare soluzioni. The post IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID app",
+      "link": "https://www.punto-informatico.it/it-wallet-fase-2-sperimentazione-regolamento-agid/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-24T07:05:54+00:00"
+    },
+    {
+      "titolo": "Nintendo lavora a una Switch 2 Lite? Filtrano indizi sul chip per contenere i costi",
+      "descrizione": "Non dovrebbe essere prodotto da Nvidia, ma da Samsung.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n674763/nintendo-switch-2-lite-chip-samsung-8-nm-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T06:55:00+00:00"
+    },
+    {
+      "titolo": "SelfyConto con interessi al 4%, ultimi giorni per la promo di Banca Mediolanum",
+      "descrizione": "Restano pochi giorni per aprire SelfyConto e beneficiare di interessi al 4% per i primi 6 mesi, ecco la promo di Banca Mediolanum. The post SelfyConto con interessi al 4%, ultimi giorni per la promo di Banca Mediolanum a",
+      "link": "https://www.punto-informatico.it/fintech/conti/selfyconto-con-interessi-al-4-ultimi-giorni-per-la-promo-di-banca-mediolanum/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-24T06:00:44+00:00"
+    },
+    {
+      "titolo": "Caffè buono come al bar con le offerte eBay del weekend",
+      "descrizione": "Assicurati un caffè buono come al bar grazie alle offerte eBay del weekend su capsule e cialde originali e compatibili a prezzi unici. The post Caffè buono come al bar con le offerte eBay del weekend appeared first on Pu",
+      "link": "https://www.punto-informatico.it/caffe-buono-come-al-bar-con-le-offerte-ebay-del-weekend/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-24T05:00:18+00:00"
+    },
     {
       "titolo": "Anche in Europa dovremmo seguire l'esempio degli USA su TikTok?",
       "descrizione": "Il proprietario e CEO dell'editore Axel Springer ne avrebbe parlato addirittura con l'ambasciatore francese degli USA, peraltro consuocero di Donald Trump.",
@@ -30,32 +121,11 @@
       "data": "2026-10-23T16:45:00+00:00"
     },
     {
-      "titolo": "OnePlus, addio a OxygenOS: ColorOS17 stabile arriva su OnePlus 15",
-      "descrizione": "La fine di un'era. Che però era già annunciata da tempo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674751/oneplus-15-addio-oxygenos-coloros-17-aggiornamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T16:35:00+00:00"
-    },
-    {
-      "titolo": "Volvo non frena i tagli: altri 2.500 licenziamenti per abbattere i costi",
-      "descrizione": "Volvo Cars riduce i costi e annuncia 2.500 esuberi, di cui 2.000 in Svezia. È la seconda ondata di uscite dopo i 3.000 posti di lavoro già tagliati nel 2025",
-      "link": "https://www.hdmotori.it/volvo-cars-licenziamenti-tagli-personale-svezia/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T16:00:23+00:00"
-    },
-    {
       "titolo": "Microsoft ha manipolato l’approvazione dello standard OOXML",
       "descrizione": "The Document Foundation ha descritto la storia del formato OOXML e come Microsoft è riuscita ad ottenere la sua standardizzazione nel 2008. The post Microsoft ha manipolato l’approvazione dello standard OOXML appeared fi",
       "link": "https://www.punto-informatico.it/microsoft-manipolato-approvazione-standard-ooxml/",
       "fonte": "Punto Informatico",
       "data": "2026-10-23T15:53:21+00:00"
-    },
-    {
-      "titolo": "Brick Night, l'alto prezzo della battaglia contro il doomscrolling prima di dormire",
-      "descrizione": "150 euro per un dispositivo Bluetooth che blocca certe app quando lo smartphone è nelle sue vicinanze.",
-      "link": "https://www.hdblog.it/android/articoli/n674748/brick-night-doomscrolling-bluetooth-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T15:45:00+00:00"
     },
     {
       "titolo": "Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora",
@@ -79,34 +149,6 @@
       "data": "2026-10-23T14:48:43+00:00"
     },
     {
-      "titolo": "Volkswagen T-Roc Full Hybrid, Porte Aperte il 24 e 25 ottobre: in offerta da 30.500 euro",
-      "descrizione": "Volkswagen T-Roc Hybrid protagonista del Porte Aperte del 24 e 25 ottobre: test drive nelle concessionarie italiane e offerta speciale di lancio",
-      "link": "https://www.hdmotori.it/volkswagen-t-roc-full-hybrid-porte-aperte/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T14:30:09+00:00"
-    },
-    {
-      "titolo": "La prossima era glaciale era già iniziata: il riscaldamento globale l'ha fermata",
-      "descrizione": "La scoperta della Columbia University.",
-      "link": "https://www.hdblog.it/green/articoli/n674730/era-glaciale-riscaldamento-clima-laurentide-barnes/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T14:15:00+00:00"
-    },
-    {
-      "titolo": "Social vietati ai minori di 15 anni, la Grecia approva la legge: cosa cambia e quando",
-      "descrizione": "Dal 1° gennaio 2027 i minori di 15 anni non potranno più utilizzare i social network in Grecia.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674738/social-vietati-minori-15-anni-grecia-approva/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T14:05:00+00:00"
-    },
-    {
-      "titolo": "Batteria auto scarica? Hyundai KONA e TUCSON ibride ripartono premendo un pulsante",
-      "descrizione": "Hyundai Battery Reset permette di riavviare KONA e TUCSON ibride quando la batteria da 12 V si scollega. Come funziona e quando usare il pulsante",
-      "link": "https://www.hdmotori.it/batteria-auto-scarica-hyundai-kona-tucson-ibride/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-23T14:00:06+00:00"
-    },
-    {
       "titolo": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
       "descrizione": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and residential use.",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/bluesky-sbarca-ipad-consente-mettere-link-profilo/",
       "fonte": "Punto Informatico",
       "data": "2026-10-23T13:18:25+00:00"
-    },
-    {
-      "titolo": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-      "descrizione": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-23T12:26:23+00:00"
-    },
-    {
-      "titolo": "FCC issues first bans under new chip-level rule",
-      "descrizione": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-23T12:15:00+00:00"
-    },
-    {
-      "titolo": "UK proposes 14-year prison sentences for undersea cable saboteurs amid Russian trawler threats",
-      "descrizione": "The UK government has outlined plans for new powers and criminal offenses to help protect undersea cables in UK waters amid fears of Russian interference.",
-      "link": "https://www.tomshardware.com/tech-industry/uk-proposes-14-year-prison-sentences-for-undersea-cable-saboteurs-amid-russian-trawler-threats-government-responds-to-growing-threats-with-new-criminal-offences-and-emergency-powers-to-shut-down-services",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-23T11:45:00+00:00"
-    },
-    {
-      "titolo": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
-      "descrizione": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
-      "link": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
-      "fonte": "WIRED",
-      "data": "2026-10-23T10:15:00+00:00"
-    },
-    {
-      "titolo": "Spotify Family, arriva il QR code per scovare chi non vive insieme",
-      "descrizione": "Spotify verifica chi non convive davvero nel piano Family con un nuovo QR code da scansionare sul telefono del gestore. Cosa cambia. The post Spotify Family, arriva il QR code per scovare chi non vive insieme appeared fi",
-      "link": "https://www.punto-informatico.it/spotify-family-qr-code-scovare-chi-non-vive-insieme/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T09:51:34+00:00"
-    },
-    {
-      "titolo": "Etsy: i venditori devono dichiarare le immagini generate con l’AI",
-      "descrizione": "Ricette, cartamodelli e istruzioni su Etsy devono essere originali e accompagnati da foto reali. L'arte AI è ammessa, ma va dichiarata. The post Etsy: i venditori devono dichiarare le immagini generate con l’AI appeared",
-      "link": "https://www.punto-informatico.it/etsy-venditori-devono-dichiarare-immagini-generate-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T09:32:44+00:00"
     }
   ]
 }
