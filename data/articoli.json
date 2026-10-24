@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-24T15:59:31.719947+00:00",
+  "last_updated": "2026-10-24T20:53:07.746181+00:00",
   "items": [
+    {
+      "titolo": "iPhone Duo, com'è fatto dentro: scopriamolo nei primi teardown",
+      "descrizione": "Sotto la scocca del primo pieghevole di Apple.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674799/iphone-duo-teardown-batterie-componenti-riparabili/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-24T16:31:00+00:00"
+    },
     {
       "titolo": "Julia 3.0, abbiamo provato l'IA di Roma Capitale: il certificato arriva in pochi secondi",
       "descrizione": "Julia 3.0 porta l'IA nei servizi di Roma Capitale: certificati, segnalazioni e assistenza in chat, con accesso semplice anche da smartphone.",
@@ -121,25 +128,11 @@
       "data": "2026-10-24T07:40:00+00:00"
     },
     {
-      "titolo": "Google Gemini, l'interfaccia cambia ancora: ecco le novità",
-      "descrizione": "Un paio di interventi per rendere tutto più semplice e ordinato.",
-      "link": "https://www.hdblog.it/google/articoli/n674773/google-gemini-android-restyling-menu-impostazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T07:20:00+00:00"
-    },
-    {
       "titolo": "IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID",
       "descrizione": "Il portafoglio digitale italiano apre ai privati: pubblicate le regole per accedere alla sperimentazione di IT-Wallet e testare soluzioni. The post IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID app",
       "link": "https://www.punto-informatico.it/it-wallet-fase-2-sperimentazione-regolamento-agid/",
       "fonte": "Punto Informatico",
       "data": "2026-10-24T07:05:54+00:00"
-    },
-    {
-      "titolo": "Nintendo lavora a una Switch 2 Lite? Filtrano indizi sul chip per contenere i costi",
-      "descrizione": "Non dovrebbe essere prodotto da Nvidia, ma da Samsung.",
-      "link": "https://www.hdblog.it/nintendo/articoli/n674763/nintendo-switch-2-lite-chip-samsung-8-nm-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T06:55:00+00:00"
     },
     {
       "titolo": "SelfyConto con interessi al 4%, ultimi giorni per la promo di Banca Mediolanum",
@@ -168,6 +161,13 @@
       "link": "https://www.punto-informatico.it/microsoft-manipolato-approvazione-standard-ooxml/",
       "fonte": "Punto Informatico",
       "data": "2026-10-23T15:53:21+00:00"
+    },
+    {
+      "titolo": "Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora",
+      "descrizione": "7 plugin di ChatGPT che trasformano il chatbot in un assistente completo per chi gestisce un'attività secondaria, con prompt pronti all'uso. The post Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora app",
+      "link": "https://www.punto-informatico.it/lavoretto-extra-7-plugin-chatgpt-prompt-iniziare-ora/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-23T15:30:09+00:00"
     }
   ]
 }
