@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-25T11:36:23.006899+00:00",
+  "last_updated": "2026-10-25T16:26:55.179263+00:00",
   "items": [
     {
-      "titolo": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
-      "descrizione": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-25T11:30:00+00:00",
+      "titolo": "OpenAI: ricercatori licenziati per aver usato Signal?",
+      "descrizione": "OpenAI avrebbe licenziato i ricercatori per aver condiviso informazioni sensibili sui modelli tramite i messaggi effimeri di Signal. The post OpenAI: ricercatori licenziati per aver usato Signal? appeared first on Punto",
+      "link": "https://www.punto-informatico.it/openai-ricercatori-licenziati-uso-signal/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T15:23:51+00:00",
       "modello": "chatgpt"
     },
     {

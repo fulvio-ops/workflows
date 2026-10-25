@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-10-25T11:36:20.012167+00:00",
+  "last_updated": "2026-10-25T16:26:51.174952+00:00",
   "items": [
+    {
+      "titolo": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+      "descrizione": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of the S&P 500.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-25T15:25:40+00:00"
+    },
+    {
+      "titolo": "OpenAI: ricercatori licenziati per aver usato Signal?",
+      "descrizione": "OpenAI avrebbe licenziato i ricercatori per aver condiviso informazioni sensibili sui modelli tramite i messaggi effimeri di Signal. The post OpenAI: ricercatori licenziati per aver usato Signal? appeared first on Punto",
+      "link": "https://www.punto-informatico.it/openai-ricercatori-licenziati-uso-signal/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T15:23:51+00:00"
+    },
+    {
+      "titolo": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+      "descrizione": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-25T14:05:00+00:00"
+    },
+    {
+      "titolo": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "descrizione": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch ti",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "titolo": "La Nasa punta a confermare il 2027 per Artemis III. I dettagli della missione",
+      "descrizione": "La seconda corsa alla Luna torna in primo piano con una lunga conferenza stampa della NASA, oltre due ore, tenutasi ieri con la partecipazione dell’amministratore delegato Iared Isaacman e dei...",
+      "link": "https://www.ilsole24ore.com/art/la-nasa-punta-confermare-2027-artemis-iii-dettagli-missione-AJdzWYtB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-25T12:43:36+00:00"
+    },
+    {
+      "titolo": "Siamo spiati e non si può fare nulla, falso: guida alla privacy per il cittadino digitale",
+      "descrizione": "Un click in più e un po' di attenzione possono bastare",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673441/guida-privacy-cittadino-digitale-cosa-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T10:55:00+00:00"
+    },
     {
       "titolo": "OpenAI ha mentito sulla sicurezza di ChatGPT: denuncia in Texas",
       "descrizione": "Il procuratore generale del Texas ha denunciato OpenAI per aver ingannato i consumatori sulla sicurezza di ChatGPT, dando priorità ai profitti. The post OpenAI ha mentito sulla sicurezza di ChatGPT: denuncia in Texas app",
@@ -126,48 +168,6 @@
       "link": "https://www.hdmotori.it/volvo-nuovo-modello-elettrico-compatto-2027/",
       "fonte": "HDblog.it",
       "data": "2026-10-24T12:00:23+00:00"
-    },
-    {
-      "titolo": "Hard disk esterno guasto, cosa non fare per non perdere i dati",
-      "descrizione": "Utilizzare un’unità danneggiata può compromettere i file.",
-      "link": "https://www.hdblog.it/hardware/articoli/n674464/hard-disk-esterno-guasto-cosa-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T11:55:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy S25 Ultra: top di gamma a prezzo shock su Amazon",
-      "descrizione": "Il Samsung Galaxy S25 Ultra da 12 GB di RAM e 256 GB di memoria interna è in sconto su Amazon al 41% con un risparmio di 620 euro. The post Samsung Galaxy S25 Ultra: top di gamma a prezzo shock su Amazon appeared first o",
-      "link": "https://www.punto-informatico.it/samsung-galaxy-s25-ultra-top-gamma-prezzo-shock-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-24T11:52:23+00:00"
-    },
-    {
-      "titolo": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
-      "descrizione": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
-      "link": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
-      "fonte": "WIRED",
-      "data": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "titolo": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
-      "descrizione": "Wondering why RTX 5090s are so hard to find? Leaked footage shows thousands of consumer GPUs, including Founders Editions, being torn apart for AI servers.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-24T11:15:00+00:00"
-    },
-    {
-      "titolo": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-      "descrizione": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-      "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-      "fonte": "WIRED",
-      "data": "2026-10-24T10:30:00+00:00"
-    },
-    {
-      "titolo": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
-      "descrizione": "The Filin missile, which was deployed between late September and early October of this year, reportedly used 3D-printed and commercial parts to save on cost.",
-      "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-24T10:25:00+00:00"
     }
   ]
 }
