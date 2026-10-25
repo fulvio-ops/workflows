@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-10-25T04:46:37.320174+00:00",
+  "last_updated": "2026-10-25T11:36:20.012167+00:00",
   "items": [
+    {
+      "titolo": "OpenAI ha mentito sulla sicurezza di ChatGPT: denuncia in Texas",
+      "descrizione": "Il procuratore generale del Texas ha denunciato OpenAI per aver ingannato i consumatori sulla sicurezza di ChatGPT, dando priorità ai profitti. The post OpenAI ha mentito sulla sicurezza di ChatGPT: denuncia in Texas app",
+      "link": "https://www.punto-informatico.it/openai-mentito-sicurezza-chatgpt-denuncia-texas/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T10:34:52+00:00"
+    },
+    {
+      "titolo": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "descrizione": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, a",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-25T10:30:00+00:00"
+    },
+    {
+      "titolo": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+      "descrizione": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out.",
+      "link": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+      "fonte": "WIRED",
+      "data": "2026-10-25T10:15:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 può pulire il disco da solo: basta attivare questa funzione",
+      "descrizione": "Come sfruttare al meglio lo strumento Sensore memoria.",
+      "link": "https://www.hdblog.it/portatili/articoli/n674565/windows-11-come-pulire-disco-sensore-memoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T09:55:00+00:00"
+    },
+    {
+      "titolo": "7 domande dell’AI per cambiare prospettiva",
+      "descrizione": "L'AI non può fare introspezione al posto nostro, ma può formulare le domande giuste per costringerci a essere onesti con noi stessi. The post 7 domande dell’AI per cambiare prospettiva appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/7-domande-ai-cambiare-prospettiva/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T08:30:33+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17T in offerta su Amazon: un'ottima scelta tra i mid-range (anche a rate)",
+      "descrizione": "Lo Xiaomi 17T è in offerta su Amazon e diventa un'ottima scelta tra i mmid-range: ecco la promo.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674813/xiaomi-17t-offerta-amazon-ottobre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T07:30:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel 11 in offerta su Amazon: nuovo minimo con lo sconto al check-out",
+      "descrizione": "Il Google Pixel 11 è in offerta con uno sconto al check-out che taglia il prezzo, ecco la promo.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674810/google-pixel-11-amazon-sconto-checkout-ott26/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T07:10:00+00:00"
+    },
+    {
+      "titolo": "Ultra sottile e leggerissimo Power Bank da 26800mAh: la batteria non muore mai",
+      "descrizione": "Con il Power Bank Charmast da 26800 mAh puoi continuare ad alimentare la batteria dei tuoi dispositivi ovunque e in qualsiasi momento. The post Ultra sottile e leggerissimo Power Bank da 26800mAh: la batteria non muore m",
+      "link": "https://www.punto-informatico.it/ultra-sottile-leggerissimo-power-bank-26800mah-batteria-non-muore-mai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T07:09:04+00:00"
+    },
+    {
+      "titolo": "Mazda, da Hiroshima ad Aielli: un murale per raccontare la pace attraverso l’arte",
+      "descrizione": "A Borgo Universo, in Abruzzo, l’artista Kotè firma un’opera ispirata a Sadako Sasaki. Un progetto di Mazda Italia che intreccia memoria storica, solidarietà e speranza in un...",
+      "link": "https://www.hdmotori.it/mazda-da-hiroshima-ad-aielli-un-murale-per-raccontare-la-pace-attraverso-larte/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T07:00:50+00:00"
+    },
+    {
+      "titolo": "Tutti i canali Rai e Mediaset si aggiornano sul digitale terrestre",
+      "descrizione": "Sulla piattaforma digitale terrestre, proprio in queste ultime ore, si sono aggiornati tutti i canali delle emittenti Rai e Mediaset. The post Tutti i canali Rai e Mediaset si aggiornano sul digitale terrestre appeared f",
+      "link": "https://www.punto-informatico.it/tutti-canali-rai-mediaset-aggiornati-digitale-terrestre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-25T07:00:29+00:00"
+    },
+    {
+      "titolo": "Sicurezza: la NHTSA propone luci ciano per le auto a guida autonoma",
+      "descrizione": "La nuova proposta di aggiornamento della norma FMVSS n. 108 introduce indicatori turchese opzionali per i veicoli senza conducente come il Cybercab.",
+      "link": "https://www.hdmotori.it/nhtsa-propone-luci-ciano-auto-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T06:30:17+00:00"
+    },
+    {
+      "titolo": "Eni proroga il price cap sui carburanti fino al 31 dicembre 2026",
+      "descrizione": "Confermato il tetto a 1,99 euro per la benzina e 2,25 euro per il diesel, il gruppo rivendica la responsabilità sociale d'impresa mentre i consumatori sollecitano il Governo.",
+      "link": "https://www.hdmotori.it/eni-price-cap-carburanti-31-dicembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-25T06:00:11+00:00"
+    },
     {
       "titolo": "iPhone Duo, com'è fatto dentro: scopriamolo nei primi teardown",
       "descrizione": "Sotto la scocca del primo pieghevole di Apple.",
@@ -84,90 +168,6 @@
       "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-24T10:25:00+00:00"
-    },
-    {
-      "titolo": "YouTuber escapes the modern AI tech market by recreating his 1996 PC",
-      "descrizione": "Exhaustion with tech market prompt Youtuber to remake their first PC — 1996 build fueled by nostalgia and AI weariness",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-24T10:00:00+00:00"
-    },
-    {
-      "titolo": "Missioni Artemis: la NASA rivoluziona i piani di SpaceX e Blue Origin",
-      "descrizione": "La NASA cambia Artemis: nuova strategia per Orion, Starship e Blue Moon in vista del 2028.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674776/nasa-artemis-nuovo-piano-luna-2028/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T09:40:00+00:00"
-    },
-    {
-      "titolo": "Peugeot E-T16, il concept da 816 CV pronto per la produzione in serie?",
-      "descrizione": "Dal Mondial de l'Auto la Peugeot E-T16 fa sognare: 816 CV, trazione integrale e sfida aperta alla Renault R5 Turbo 3E. Arriverà davvero in serie?",
-      "link": "https://www.hdmotori.it/peugeot-e-t16-concept-816-cv-rumors-produzion-serie/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T09:00:29+00:00"
-    },
-    {
-      "titolo": "I più venduti della settimana su HDshopping: è dominio Xiaomi",
-      "descrizione": "La Top 6 della settimana.",
-      "link": "https://www.hdblog.it/apple/articoli/n674679/hdshopping-top-acquisti-settimana-iphone-xiaomi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T08:55:00+00:00"
-    },
-    {
-      "titolo": "Stanotte torna l'ora solare: salute e risparmio a confronto",
-      "descrizione": "Stanotte torna l'ora solare: gli scienziati la preferiscono, ma l'ora legale fa risparmiare.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n674778/ora-solare-2026-cambio-ora-salute-risparmio-energe/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T07:55:00+00:00"
-    },
-    {
-      "titolo": "Ci sono già i primi iPhone Duo rotti: casi isolati o problema sistemico?",
-      "descrizione": "Un utente australiano si è trovato il display interno KO appena sei ore dopo averlo ritirato in negozio. E a quanto pare casi analoghi sono stati segnalati sui social cinesi.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674765/apple-iphone-duo-rotti-display-interno-difetto/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-24T07:40:00+00:00"
-    },
-    {
-      "titolo": "IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID",
-      "descrizione": "Il portafoglio digitale italiano apre ai privati: pubblicate le regole per accedere alla sperimentazione di IT-Wallet e testare soluzioni. The post IT-Wallet, fase 2: al via la sperimentazione con il regolamento AgID app",
-      "link": "https://www.punto-informatico.it/it-wallet-fase-2-sperimentazione-regolamento-agid/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-24T07:05:54+00:00"
-    },
-    {
-      "titolo": "SelfyConto con interessi al 4%, ultimi giorni per la promo di Banca Mediolanum",
-      "descrizione": "Restano pochi giorni per aprire SelfyConto e beneficiare di interessi al 4% per i primi 6 mesi, ecco la promo di Banca Mediolanum. The post SelfyConto con interessi al 4%, ultimi giorni per la promo di Banca Mediolanum a",
-      "link": "https://www.punto-informatico.it/fintech/conti/selfyconto-con-interessi-al-4-ultimi-giorni-per-la-promo-di-banca-mediolanum/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-24T06:00:44+00:00"
-    },
-    {
-      "titolo": "Caffè buono come al bar con le offerte eBay del weekend",
-      "descrizione": "Assicurati un caffè buono come al bar grazie alle offerte eBay del weekend su capsule e cialde originali e compatibili a prezzi unici. The post Caffè buono come al bar con le offerte eBay del weekend appeared first on Pu",
-      "link": "https://www.punto-informatico.it/caffe-buono-come-al-bar-con-le-offerte-ebay-del-weekend/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-24T05:00:18+00:00"
-    },
-    {
-      "titolo": "Addio all’ora legale: risparmiati 300 milioni di kWh",
-      "descrizione": "Terna conferma i vantaggi dell'ora legale in termini di riduzione dei consumi elettrici e delle emissione di CO2, ma il 25 ottobre torna l'ora solare. The post Addio all’ora legale: risparmiati 300 milioni di kWh appeare",
-      "link": "https://www.punto-informatico.it/addio-ora-legale-risparmiati-300-milioni-kwh/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T17:19:54+00:00"
-    },
-    {
-      "titolo": "Microsoft ha manipolato l’approvazione dello standard OOXML",
-      "descrizione": "The Document Foundation ha descritto la storia del formato OOXML e come Microsoft è riuscita ad ottenere la sua standardizzazione nel 2008. The post Microsoft ha manipolato l’approvazione dello standard OOXML appeared fi",
-      "link": "https://www.punto-informatico.it/microsoft-manipolato-approvazione-standard-ooxml/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T15:53:21+00:00"
-    },
-    {
-      "titolo": "Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora",
-      "descrizione": "7 plugin di ChatGPT che trasformano il chatbot in un assistente completo per chi gestisce un'attività secondaria, con prompt pronti all'uso. The post Lavoretto extra? 7 plugin di ChatGPT con i prompt per iniziare ora app",
-      "link": "https://www.punto-informatico.it/lavoretto-extra-7-plugin-chatgpt-prompt-iniziare-ora/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-23T15:30:09+00:00"
     }
   ]
 }
