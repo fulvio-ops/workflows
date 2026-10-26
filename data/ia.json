@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T13:09:16.916212+00:00",
+  "last_updated": "2026-10-26T22:42:07.174675+00:00",
   "items": [
     {
-      "titolo": "Fare benzina dove costa meno? Ora puoi chiederlo a ChatGPT e Claude",
-      "descrizione": "Il comparatore PienoFurbo rende consultabili dagli assistenti AI i prezzi dei distributori italiani, con dati ministeriali e informazioni sull'ultimo aggiornamento",
-      "link": "https://www.hdblog.it/mercato/articoli/n674886/benzina-prezzi-migliori-chatgpt/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T09:45:00+00:00",
+      "titolo": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+      "descrizione": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-25T11:30:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Fare benzina dove costa meno? Ora puoi chiederlo a ChatGPT e Claude",
-      "descrizione": "Il comparatore PienoFurbo rende consultabili dagli assistenti AI i prezzi dei distributori italiani, con dati ministeriali e informazioni sull'ultimo aggiornamento",
-      "link": "https://www.hdblog.it/mercato/articoli/n674886/benzina-prezzi-migliori-chatgpt/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T09:45:00+00:00",
+      "titolo": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "descrizione": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "fonte": "WIRED",
+      "data": "2026-10-26T21:27:15+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
-      "descrizione": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still — open-weight model is fit for agentic workloads and exceedingly cheap to run",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-23T12:00:00+00:00",
-      "modello": "altri"
     }
   ]
 }
