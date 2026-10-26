@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T04:52:04.941734+00:00",
+  "last_updated": "2026-10-26T13:09:16.916212+00:00",
   "items": [
     {
-      "titolo": "OpenAI: ricercatori licenziati per aver usato Signal?",
-      "descrizione": "OpenAI avrebbe licenziato i ricercatori per aver condiviso informazioni sensibili sui modelli tramite i messaggi effimeri di Signal. The post OpenAI: ricercatori licenziati per aver usato Signal? appeared first on Punto",
-      "link": "https://www.punto-informatico.it/openai-ricercatori-licenziati-uso-signal/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-25T15:23:51+00:00",
+      "titolo": "Fare benzina dove costa meno? Ora puoi chiederlo a ChatGPT e Claude",
+      "descrizione": "Il comparatore PienoFurbo rende consultabili dagli assistenti AI i prezzi dei distributori italiani, con dati ministeriali e informazioni sull'ultimo aggiornamento",
+      "link": "https://www.hdblog.it/mercato/articoli/n674886/benzina-prezzi-migliori-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-26T09:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
-      "descrizione": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-23T11:00:00+00:00",
+      "titolo": "Fare benzina dove costa meno? Ora puoi chiederlo a ChatGPT e Claude",
+      "descrizione": "Il comparatore PienoFurbo rende consultabili dagli assistenti AI i prezzi dei distributori italiani, con dati ministeriali e informazioni sull'ultimo aggiornamento",
+      "link": "https://www.hdblog.it/mercato/articoli/n674886/benzina-prezzi-migliori-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-26T09:45:00+00:00",
       "modello": "claude"
     },
     {
