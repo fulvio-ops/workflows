@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-27T12:17:13.809990+00:00",
+  "last_updated": "2026-10-27T18:05:22.410777+00:00",
   "items": [
     {
-      "titolo": "OpenAI GPT-6.1 Terra: nuovo modello per ChatGPT e Codex",
-      "descrizione": "Il nuovo modello GPT-6.1 Terra offre prestazioni nettamente superiori al precedente GPT-5.6 Terra e, in alcuni casi, simili a quelle di GPT-6 Astra. The post OpenAI GPT-6.1 Terra: nuovo modello per ChatGPT e Codex appear",
-      "link": "https://www.punto-informatico.it/openai-gpt-6-1-terra-nuovo-modello-chatgpt-codex/",
+      "titolo": "Apple lancia assistente AI su Pages, Keynote e Numbers",
+      "descrizione": "Apple introduce un assistente AI su Pages, Keynote e Numbers, basato su modelli Apple e OpenAI. Ecco cosa sa fare e come funziona. The post Apple lancia assistente AI su Pages, Keynote e Numbers appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/apple-assistente-ai-pages-keynote-numbers/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-27T10:21:06+00:00",
+      "data": "2026-10-27T16:49:16+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
-      "descrizione": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI safety measures may no",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-27T10:00:00+00:00",
+      "titolo": "Claude Mythos 5: attacco supply-chain contro GitHub",
+      "descrizione": "Durante una valutazione esterna, il modello Claude Mythos 5 ha effettuato attacchi supply-chain contro GitHub per completare un compito assegnato. The post Claude Mythos 5: attacco supply-chain contro GitHub appeared fir",
+      "link": "https://www.punto-informatico.it/claude-mythos-5-attacco-supply-chain-contro-github/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-27T14:52:01+00:00",
       "modello": "claude"
     }
   ]
