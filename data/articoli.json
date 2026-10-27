@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-10-27T05:10:06.457471+00:00",
+  "last_updated": "2026-10-27T12:17:10.260890+00:00",
   "items": [
     {
-      "titolo": "Oracle, una piattaforma di agenti aziendali per rendere l’AI redditizia",
-      "descrizione": "LAS VEGAS – C’è fame di risultati tangibili da parte delle aziende che implementano soluzioni di AI, c’è fame di ritorno da parte degli investitori , ci sono gli...",
-      "link": "https://www.ilsole24ore.com/art/oracle-piattaforma-agenti-aziendali-rendere-l-ai-redditizia-AJDBOEvB",
+      "titolo": "Internet casa: la FWA costa quanto la fibra e supera la FTTC in velocità",
+      "descrizione": "La connessione FWA si avvicina alla fibra nei prezzi e supera la FTTC per velocità dichiarata: 371 Mbps medi in download contro 200 Mbps. La FTTH resta nettamente avanti, con una media di circa 2,3...",
+      "link": "https://www.hdblog.it/mercato/articoli/n675024/fwa-prezzo-prestazioni-confronto-fibra/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T11:10:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi Smart Band 11 arriva in Europa: ecco i prezzi, ma l'Italia resta a secco",
+      "descrizione": "Xiaomi lancia ufficialmente in Europa la Smart Band 11, disponibile in due versioni: con o senza il modulo NFC.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n675007/xiaomi-smart-band-11-europa-italia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T11:05:00+00:00"
+    },
+    {
+      "titolo": "Conto deposito al 4% con SelfyConto: la promo scade il 30 ottobre",
+      "descrizione": "La promozione di Banca Mediolanum che consente di ottenere un conto deposito remunerato al [affiliate_link link_id=”388″]4% annuo lordo per sei mesi[/affiliate_link] terminerà il 30 ottobre, ultima data utile per aprire",
+      "link": "https://www.punto-informatico.it/fintech/conti/conto-deposito-4-percento-con-selfyconto-promo-scade-30-ottobre/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-27T11:04:52+00:00"
+    },
+    {
+      "titolo": "Porsche 911 Turbo Brundle Edition: capolavoro racing firmato Gunther Werks",
+      "descrizione": "Pensata per 5 eletti dal portafoglio pesantissimo, la nuova Porsche 911 Turbo special è un omaggio all’ex pilota di F1 Martin Brundle.",
+      "link": "https://www.hdmotori.it/porsche-911-turbo-brundle-edition-gunther-werks/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T11:00:45+00:00"
+    },
+    {
+      "titolo": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "descrizione": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-27T11:00:00+00:00"
+    },
+    {
+      "titolo": "AI Agents Are Media’s New Favorite Audience",
+      "descrizione": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "fonte": "WIRED",
+      "data": "2026-10-27T11:00:00+00:00"
+    },
+    {
+      "titolo": "Paesi Bassi, il governo vuole tagliare 25.000 posti di lavoro puntando sull'IA",
+      "descrizione": "L'esecutivo olandese punta a eliminare 25.000 impieghi a tempo pieno entro il 2035 e a risparmiare fino a 3,5 miliardi di euro",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675017/governo-olandese-taglio-posti-lavoro-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T10:45:00+00:00"
+    },
+    {
+      "titolo": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
+      "descrizione": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
+      "link": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
+      "fonte": "WIRED",
+      "data": "2026-10-27T10:45:00+00:00"
+    },
+    {
+      "titolo": "Microsoft Surface Laptop Ultra, prima patch con diversi bug fix importanti",
+      "descrizione": "Molti bug erano decisamente macroscopici, come tempi di riavvio lunghissimi e fenomeni di flickering del display.",
+      "link": "https://www.hdblog.it/portatili/articoli/n675022/microsoft-surface-laptop-ultra-patch-bug-fix/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T10:35:00+00:00"
+    },
+    {
+      "titolo": "Apple rivede le valutazioni del Trade In: aumenti fino a 245 euro per i Mac in Italia",
+      "descrizione": "Apple ha aumentato anche in Italia i valori di permuta di diversi Mac e dell’iPad base.",
+      "link": "https://www.hdblog.it/portatili/articoli/n675019/apple-rivede-valutazioni-trade-aumenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T10:10:00+00:00"
+    },
+    {
+      "titolo": "L'AI riscrive la fisica e la matematica: ora OpenAI chiede aiuto agli scienziati",
+      "descrizione": "Tre scoperte importanti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675011/openai-ai-risolve-problemi-scientifici/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T10:05:00+00:00"
+    },
+    {
+      "titolo": "Renault Trafic, evoluzione della specie: più tecnologia e più comfort",
+      "descrizione": "Per rimanere leader del segmento dei veicoli commerciali leggeri di medie dimensioni in Francia Renault ha rinnovato il Trafic.",
+      "link": "https://www.hdmotori.it/renault-trafic-evoluzione-tecnologia/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T10:00:16+00:00"
+    },
+    {
+      "titolo": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "descrizione": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI safety measures may no",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-27T10:00:00+00:00"
+    },
+    {
+      "titolo": "Black Friday 2026: Samsung annuncia un mese di promozioni su Galaxy e TV",
+      "descrizione": "Il Black Friday Samsung 2026 coinvolgerà Galaxy S26 Ultra, Galaxy S26, Galaxy Z Fold8 e numerosi altri dispositivi. Le offerte partiranno il 3 novembre, ma l'azienda non ha ancora comunicato le...",
+      "link": "https://www.hdblog.it/samsung/articoli/n675016/samsung-offerte-black-friday-smartphone-casa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T09:40:00+00:00"
+    },
+    {
+      "titolo": "OpenAI annuncia tre importanti scoperte scientifiche",
+      "descrizione": "OpenAI presenta 3 scoperte in matematica, informatica e fisica, tra cui la presunta falsità dell'ETH. Cosa afferma e chi verificherà i risultati. The post OpenAI annuncia tre importanti scoperte scientifiche appeared fir",
+      "link": "https://www.punto-informatico.it/openai-annuncia-tre-importanti-scoperte-scientifiche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-27T09:31:07+00:00"
+    },
+    {
+      "titolo": "Home Assistant vuole diventare più facile da installare sui computer",
+      "descrizione": "In test un wizard che in pochi click crea una chiavetta USB avviabile pronta all'uso.",
+      "link": "https://www.hdblog.it/windows/articoli/n675014/home-assistant-chiavetta-usb-pc-x86-installazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T09:25:00+00:00"
+    },
+    {
+      "titolo": "Quale iPhone acquistare adesso per qualità, prestazioni e prezzo",
+      "descrizione": "Con l'aumento dei prezzi anche nel mercato degli smartphone, soprattutto in Apple, scopri quale iPhone dovresti acquistare immediatamente. The post Quale iPhone acquistare adesso per qualità, prestazioni e prezzo appeare",
+      "link": "https://www.punto-informatico.it/quale-iphone-acquistare-adesso-per-qualita-prestazioni-e-prezzo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-27T09:01:34+00:00"
+    },
+    {
+      "titolo": "Strisce anti-velocità sulla strada delle moto: è disastro in Germania",
+      "descrizione": "Nate per ridurre gli incidenti tra Zella-Mehlis e Oberhof, le bande anti-velocità creano nuovi pericoli e danni meccanici. A novembre la decisione sul futuro.",
+      "link": "https://www.hdmotori.it/sicurezza-stradale-bande-plastica-fallimento-moto-germania/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T09:00:11+00:00"
+    },
+    {
+      "titolo": "Ora conosciamo il giorno in cui cadrà l'embargo sulle recensioni di GTA 6",
+      "descrizione": "Il giorno prima dell'uscita, mercoledì 18 novembre, vedremo arrivare le recensioni di GTA 6: la data dell'embargo stabilita da Rockstar.",
+      "link": "https://www.hdblog.it/games/articoli/n674993/giorno-embargo-recensioni-gta-6/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T08:55:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT ci conosce meglio di quanto pensiamo…",
+      "descrizione": "Uno studio presentato all'ACM Web Conference 2026 mostra che ChatGPT crea memorie e profili psicologici degli utenti. Ecco i dati. The post ChatGPT ci conosce meglio di quanto pensiamo… appeared first on Punto Informatic",
+      "link": "https://www.punto-informatico.it/chatgpt-ci-conosce-meglio-di-quanto-pensiamo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-27T08:49:39+00:00"
+    },
+    {
+      "titolo": "Marte forse non è «fratello» della Terra. Giappone lancia missione su Phobos",
+      "descrizione": "Uno studio dell’Università di Copenaghen fa discutere gli scienziati. Intanto parte la sonda nipponica MMX",
+      "link": "https://www.ilsole24ore.com/art/marte-forse-non-e-fratello-terra-giappone-lancia-missione-phobos-AJjk64tB",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-27T00:46:28+00:00"
+      "data": "2026-10-27T08:42:32+00:00"
     },
     {
-      "titolo": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "descrizione": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "fonte": "WIRED",
-      "data": "2026-10-26T21:27:15+00:00"
-    },
-    {
-      "titolo": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
-      "descrizione": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
-      "link": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
-      "fonte": "WIRED",
-      "data": "2026-10-26T19:40:31+00:00"
-    },
-    {
-      "titolo": "OnePlus Buds Clip ufficiali: quasi 10h di autonomia e speaker Dynaudio",
-      "descrizione": "Non saranno disponibili solo in Cina, ma per ora dettagli più precisi non se ne hanno. Rimane un mistero anche il prezzo.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n674959/oneplus-buds-clip-specifiche-immagini-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T18:05:00+00:00"
-    },
-    {
-      "titolo": "Smart TV di Samsung tracciano sempre l’utente?",
-      "descrizione": "Le smart TV con Tizen (Samsung), Roku OS e Vizio OS continuano a tracciare le preferenze di visione degli utenti anche dopo la disattivazione di ACR. The post Smart TV di Samsung tracciano sempre l’utente? appeared first",
-      "link": "https://www.punto-informatico.it/smart-tv-samsung-tracciano-sempre-utente/",
+      "titolo": "Gli scienziati spiegano come utilizzare i fondi di caffè",
+      "descrizione": "Ce lo chiediamo da tempo e le risposte erano spesso delle nonne, ora gli scienziati hanno spiegato come utilizzare i fondi di caffè. The post Gli scienziati spiegano come utilizzare i fondi di caffè appeared first on Pun",
+      "link": "https://www.punto-informatico.it/scienziati-spiegano-come-utilizzare-fondi-caffe/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-26T17:50:38+00:00"
+      "data": "2026-10-27T08:32:53+00:00"
     },
     {
-      "titolo": "iPhone Duo, prima dichiarazione di Apple sulla questione delle unità che si guastano",
-      "descrizione": "Per ora rimane molto sul generico: poche unità difettose, sostituzione immediata dall'assistenza ufficiale, per il resto grande successo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674954/iphone-duo-risposta-apple-schermo-guasto/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T17:45:00+00:00"
-    },
-    {
-      "titolo": "Microsoft: piano di incentivi all’esodo per un quarto dei dipendenti, fino a 60mila persone",
-      "descrizione": "Il piano riguarda lavoratori negli Stati Uniti, in Canada, in India e nel Regno Unito",
-      "link": "https://www.ilsole24ore.com/art/microsoft-piano-incentivi-all-esodo-un-quarto-dipendenti-fino-60mila-persone-AJzkw0uB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-26T17:43:38+00:00"
-    },
-    {
-      "titolo": "Claude scova crypto miner su un Mac e precisa: \"non ce l'ho messo io\"",
-      "descrizione": "Un ottimo lavoro dell'AI, certo, \"impacchettato\" con un pizzico di dichiarazione sinistra...",
-      "link": "https://www.hdblog.it/apple/articoli/n674948/malware-claude-code-mac-1175-crypto-miner/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T17:15:00+00:00"
-    },
-    {
-      "titolo": "Microsoft offre la buonuscita volontaria a 60.000 dipendenti",
-      "descrizione": "Non è un licenziamento di massa, ma ci somiglia. Microsoft offre a 60.000 persone la possibilità di lasciare l'azienda con il supporto economico. The post Microsoft offre la buonuscita volontaria a 60.000 dipendenti appe",
-      "link": "https://www.punto-informatico.it/microsoft-offre-buonuscita-volontaria-60-mila-dipendenti/",
+      "titolo": "Godeal24 Halloween Sale: Office 2024 a 22,99 € e Windows 11 Pro a 12,25 €",
+      "descrizione": "Godeal24 lancia la Halloween Crazy Sale: Office 2024 Pro Plus a 22,99 €, Windows 11 Pro a 12,25 €, bundle e software per PC con consegna via email. The post Godeal24 Halloween Sale: Office 2024 a 22,99 € e Windows 11 Pro",
+      "link": "https://www.punto-informatico.it/godeal24-halloween-sale-office-2024-a-22-99-euro-e-windows-11-pro-a-12-25-euro/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-26T17:08:32+00:00"
+      "data": "2026-10-27T08:31:07+00:00"
     },
     {
-      "titolo": "Instagram lancia Features, i video lunghi orizzontali per la TV",
-      "descrizione": "Instagram lancia Features, il nuovo formato di video lunghi in orizzontale pensato anche per la TV. Ecco cos'è e come funziona. The post Instagram lancia Features, i video lunghi orizzontali per la TV appeared first on P",
-      "link": "https://www.punto-informatico.it/instagram-features-video-lunghi-orizzontali-tv/",
+      "titolo": "Caldo killer: oltre 50.000 morti in Europa durante l’estate",
+      "descrizione": "Il caldo estremo dell'estate 2026 è associato a decine di migliaia di decessi in Europa: anziani i più esposti, ma non gli unici a rischio. The post Caldo killer: oltre 50.000 morti in Europa durante l’estate appeared fi",
+      "link": "https://www.punto-informatico.it/caldo-killer-oltre-50000-morti-europa-estate/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-26T16:47:09+00:00"
-    },
-    {
-      "titolo": "Silvio Berlusconi aveva una Twingo davvero speciale: ne esistono soltanto 18",
-      "descrizione": "Il quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, Silvio Berlusconi, non si è mai separato dalla sua mitica Spiaggina bianca",
-      "link": "https://www.hdmotori.it/silvio-berlusconi-spiaggina-francese/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T16:30:06+00:00"
-    },
-    {
-      "titolo": "Usare l’AI nella ricerca di lavoro: cosa fare e cosa evitare",
-      "descrizione": "Quasi la metà dei candidati usa l'AI per cercare lavoro, ma molti lo fanno nel modo sbagliato. Ecco le trappole da evitare. The post Usare l’AI nella ricerca di lavoro: cosa fare e cosa evitare appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/usare-ai-ricerca-lavoro-cosa-fare-cosa-evitare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-26T16:30:03+00:00"
-    },
-    {
-      "titolo": "Claude blocca le modifiche alla smart TV, il caso Opus 5.5",
-      "descrizione": "Diversi utenti hanno usato Claude per eliminare pubblicità e app inutili dalle smart TV. Ora però sembra che Anthropic abbia messo un freno. The post Claude blocca le modifiche alla smart TV, il caso Opus 5.5 appeared fi",
-      "link": "https://www.punto-informatico.it/claude-blocca-modifiche-smart-tv-caso-opus-5-5/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-26T16:26:07+00:00"
-    },
-    {
-      "titolo": "8BitDo Arcade Controller Pro ufficiale: novità, prezzo e uscita",
-      "descrizione": "8BitDo Arcade Controller Pro arriva con display, tasti programmabili e batteria da 3.000 mAh.",
-      "link": "https://www.hdblog.it/games/articoli/n674841/8bitdo-arcade-controller-pro-prezzo-uscita/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T16:25:00+00:00"
-    },
-    {
-      "titolo": "Anthropic annuncia lo sbarco al Nasdaq il 16 novembre",
-      "descrizione": "Anthropic ha presentato la documentazione necessaria per la quotazione in Borsa, elencando numerosi fattori di rischio per l'investimento. The post Anthropic annuncia lo sbarco al Nasdaq il 16 novembre appeared first on",
-      "link": "https://www.punto-informatico.it/anthropic-annuncia-sbarco-nasdaq-16-novembre/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-26T16:23:48+00:00"
-    },
-    {
-      "titolo": "Un mondo di tutti stranieri a Londra",
-      "descrizione": "Brexit è tornata in gioco: Andy Burnham, il nuovo premier britannico, ha rilanciato l’opzione di un ritorno del Regno Unito nell’Unione Europea. Non che si sia mai smesso di parlare...",
-      "link": "https://www.ilsole24ore.com/art/un-mondo-tutti-stranieri-londra-AJOxOYuB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-26T16:20:50+00:00"
-    },
-    {
-      "titolo": "Windows 11 e i problemi di Universal Print con le stampanti Konica Minolta",
-      "descrizione": "Le due società stanno lavorando a una soluzione ma non sappiamo quando uscirà.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n674942/windows-11-universal-print-konica-minolta-bug/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T16:15:00+00:00"
-    },
-    {
-      "titolo": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "descrizione": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "fonte": "WIRED",
-      "data": "2026-10-26T16:01:55+00:00"
-    },
-    {
-      "titolo": "Porsche come Ferrari, brevettato il cambio manuale simulato: simula resistenza ingranaggi",
-      "descrizione": "Dopo Ferrari, anche Porsche brevetta un cambio manuale simulato. Magneti e fluidi speciali per ricreare il feeling meccanico",
-      "link": "https://www.hdmotori.it/porsche-cambio-manuale-simulato-brevetto/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T16:00:06+00:00"
-    },
-    {
-      "titolo": "Moto BEV, arriva il cambio a due marce senza interruzione di coppia: debutto a EICMA 2026",
-      "descrizione": "E-Motiv presenta a EICMA 2026 un cambio a due rapporti per moto elettriche che mantiene la coppia durante le cambiate. Test su strada dal 2027",
-      "link": "https://www.hdmotori.it/e-motiv-cambio-due-marce-eicma-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T15:30:47+00:00"
-    },
-    {
-      "titolo": "Audi, fuga dall’Europa per conquistare gli USA: investimento da 4,2 miliardi",
-      "descrizione": "Volkswagen ha deciso di avviare un maxi progetto per la creazione di un impianto Audi negli Stati Uniti: previsti 4.500 posti di lavoro.",
-      "link": "https://www.hdmotori.it/audi-investimenti-risorse-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T15:00:46+00:00"
-    },
-    {
-      "titolo": "Samsung avrebbe tagliato la produzione dei Galaxy A per puntare sui flagship",
-      "descrizione": "I rincari di RAM e storage mettono sotto pressione la fascia entry level: Samsung avrebbe deciso di tagliare la produzione dei Galaxy A.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674923/samsung-tagliato-produzione-galaxy-a/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T14:55:00+00:00"
-    },
-    {
-      "titolo": "Anthropic ha usato le canzoni di Elvis Presley senza permesso",
-      "descrizione": "I titolari dei diritti sulle canzoni di Elvis Presley hanno denunciato Anthropic, in quanto 274 brani musicali sono stati usati per addestrare Claude. The post Anthropic ha usato le canzoni di Elvis Presley senza permess",
-      "link": "https://www.punto-informatico.it/anthropic-usato-canzoni-elvis-presley-senza-permesso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-26T14:54:57+00:00"
-    },
-    {
-      "titolo": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "descrizione": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "fonte": "WIRED",
-      "data": "2026-10-26T14:50:47+00:00"
+      "data": "2026-10-27T08:30:33+00:00"
     }
   ]
 }
