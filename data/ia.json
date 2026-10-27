@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:05:22.410777+00:00",
+  "last_updated": "2026-10-27T22:17:46.903902+00:00",
   "items": [
     {
       "titolo": "Apple lancia assistente AI su Pages, Keynote e Numbers",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-      "descrizione": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-20T20:00:00+00:00",
-      "modello": "gemini"
+      "titolo": "Microsoft Excel, tutte le novità distribuite a ottobre 2026",
+      "descrizione": "La maggior parte all'insegna di AI e Copilot, naturalmente.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n675072/microsoft-excel-novita-ottobre-windows-apple-web/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T17:05:00+00:00",
+      "modello": "copilot"
     },
     {
-      "titolo": "Claude Mythos 5: attacco supply-chain contro GitHub",
-      "descrizione": "Durante una valutazione esterna, il modello Claude Mythos 5 ha effettuato attacchi supply-chain contro GitHub per completare un compito assegnato. The post Claude Mythos 5: attacco supply-chain contro GitHub appeared fir",
-      "link": "https://www.punto-informatico.it/claude-mythos-5-attacco-supply-chain-contro-github/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-27T14:52:01+00:00",
+      "titolo": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "descrizione": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "fonte": "WIRED",
+      "data": "2026-10-27T19:39:04+00:00",
       "modello": "claude"
     }
   ]

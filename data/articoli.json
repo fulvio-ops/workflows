@@ -1,12 +1,54 @@
 {
-  "last_updated": "2026-10-27T18:05:19.033342+00:00",
+  "last_updated": "2026-10-27T22:17:43.756526+00:00",
   "items": [
+    {
+      "titolo": "Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating",
+      "descrizione": "Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI answers, so he now only uses in-person exams to see how well his students are doing in his classes.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-27T20:09:05+00:00"
+    },
+    {
+      "titolo": "La mia wishlist su HDshopping: 8 prodotti tech che tengo d'occhio | Adamo Genco",
+      "descrizione": "Ecco la mia wishlist su HDshopping",
+      "link": "https://www.hdblog.it/tecnologia/speciali/n674842/wishlist-hdshopping-prodotti-tech-adamo-genco/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T19:31:00+00:00"
+    },
+    {
+      "titolo": "Arriva in Italia vivo X500, lo smartphone cinematografico che cerca nuove distanze",
+      "descrizione": "TENERIFE – Ha scelto le bellezze naturali fuori stagione delle Canarie, vivo, per portare ufficialmente in Europa, dopo il recente lancio in Cina, la serie X500, punto più alto (al...",
+      "link": "https://www.ilsole24ore.com/art/arriva-italia-vivo-x500-smartphone-cinematografico-che-cerca-nuove-distanze-AJhGbzvB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-27T18:42:50+00:00"
+    },
+    {
+      "titolo": "Nintendo annuncia un Indie World, ed è vicinissimo: ecco data e ora",
+      "descrizione": "Al solito Nintendo svela tutto all'ultimo minuto.",
+      "link": "https://www.hdblog.it/nintendo/articoli/n675090/nintendo-indie-world-28-ottobre-switch-2-data-ora/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T18:20:00+00:00"
+    },
+    {
+      "titolo": "Anduril e Qualcomm annunciano BlueChip: obiettivo computer \"Made in USA\"",
+      "descrizione": "Quell'obiettivo è nel lungo termine, certo; per cominciare, nel più breve termine, si azzererà la dipendenza dalla Cina.",
+      "link": "https://www.hdblog.it/portatili/articoli/n675085/qualcomm-anduril-bluechip-notebook-made-in-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T18:05:00+00:00"
+    },
     {
       "titolo": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
       "descrizione": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identi",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-27T17:37:00+00:00"
+    },
+    {
+      "titolo": "Arriva su Kickstarter il \"Super Mouse\", con display touch da 3,1\" sul dorso",
+      "descrizione": "Volendo si può anche digitare via tastiera virtuale, stile smartphone. Con tanto di swipe ed Emoji!",
+      "link": "https://www.hdblog.it/hardware/articoli/n675077/super-mouse-touch-screen-tastiera-virtuale-macro/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T17:20:00+00:00"
     },
     {
       "titolo": "Libero Mail invia i tracking pixel: come disattivarli",
@@ -35,6 +77,13 @@
       "link": "https://www.hdblog.it/hardware/articoli/n675069/geforce-rtx-40-30-20-exploit-raddoppio-core-ai/",
       "fonte": "HDblog.it",
       "data": "2026-10-27T16:35:00+00:00"
+    },
+    {
+      "titolo": "Auto Europa 2027: vince la Renault Clio, premiate anche Lancia Gamma e Hyundai Ioniq 3",
+      "descrizione": "L'Unione Italiana Giornalisti Automotive incorona Auto Europa 2027 la compatta francese al termine di una selezione tra giornalisti, opinion leader e giuria popolare.",
+      "link": "https://www.hdmotori.it/auto-europa-2027-vince-renault-clio/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-27T16:30:23+00:00"
     },
     {
       "titolo": "A Bologna è già possibile accendere i termosifoni",
@@ -100,20 +149,6 @@
       "data": "2026-10-27T15:00:55+00:00"
     },
     {
-      "titolo": "Opera presenta WebAI: l'intelligenza artificiale gira sul PC",
-      "descrizione": "Opera introduce WebAI per eseguire modelli AI nel browser senza cloud e abbonamenti.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n675056/opera-webai-intelligenza-artificiale-locale-browse/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-27T14:50:00+00:00"
-    },
-    {
-      "titolo": "Auto elettriche: come cambia la ricarica con le nuove tariffe Electra",
-      "descrizione": "Electra lancia in Italia le tariffe dinamiche per la ricarica rapida delle auto elettriche. Prezzi a fasce orarie, sconti in app e penale per chi occupa le colonnine.",
-      "link": "https://www.hdmotori.it/electra-tariffe-dinamiche-ricarica-auto-elettriche/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-27T14:30:43+00:00"
-    },
-    {
       "titolo": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
       "descrizione": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly tak",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/apple-svela-nuovo-imac-chip-m6-siri-ai/",
       "fonte": "Punto Informatico",
       "data": "2026-10-27T14:03:33+00:00"
-    },
-    {
-      "titolo": "F1, Kimi Antonelli a un passo dalla gloria mondiale: in arrivo un incasso stellare",
-      "descrizione": "Il bolognese della Mercedes sta per ricevere una somma extra per la conquista del Mondiale. Scopriamo come funzionano i bonus in F1.",
-      "link": "https://www.hdmotori.it/f1-kimi-antonelli-mondiale-incasso/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-27T14:00:28+00:00"
-    },
-    {
-      "titolo": "Aspettando i MacBook Pro touch, arriva quello da 14 pollici con M6",
-      "descrizione": "Apple rinnova il modello base del MacBook Pro da 14 pollici con il chip M6: preordini al via domani, il lancio è previsto per novembre. The post Aspettando i MacBook Pro touch, arriva quello da 14 pollici con M6 appeared",
-      "link": "https://www.punto-informatico.it/macbook-pro-14-pollici-m6/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-27T13:38:45+00:00"
-    },
-    {
-      "titolo": "I Migliori Software Antivirus a Confronto: Classifica 2026",
-      "descrizione": "In questa guida andiamo alla scoperta dei migliori antivirus del 2026, scelti dalla nostra redazione tra quelli più affidabili. The post I Migliori Software Antivirus a Confronto: Classifica 2026 appeared first on Punto",
-      "link": "https://www.punto-informatico.it/classifica-migliori-antivirus-pagamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-27T13:36:26+00:00"
-    },
-    {
-      "titolo": "La mia wishlist su HDshopping: 8 prodotti tech che tengo d'occhio | Adamo Genco",
-      "descrizione": "Ecco la mia wishlist su HDshopping",
-      "link": "https://www.hdblog.it/tecnologia/speciali/n674842/wishlist-hdshopping-prodotti-tech-adamo-genco/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-27T13:31:00+00:00"
-    },
-    {
-      "titolo": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
-      "descrizione": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
-      "fonte": "WIRED",
-      "data": "2026-10-27T13:29:41+00:00"
     }
   ]
 }
