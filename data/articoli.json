@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-26T22:42:03.290911+00:00",
+  "last_updated": "2026-10-27T05:10:06.457471+00:00",
   "items": [
+    {
+      "titolo": "Oracle, una piattaforma di agenti aziendali per rendere l’AI redditizia",
+      "descrizione": "LAS VEGAS – C’è fame di risultati tangibili da parte delle aziende che implementano soluzioni di AI, c’è fame di ritorno da parte degli investitori , ci sono gli...",
+      "link": "https://www.ilsole24ore.com/art/oracle-piattaforma-agenti-aziendali-rendere-l-ai-redditizia-AJDBOEvB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-10-27T00:46:28+00:00"
+    },
     {
       "titolo": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "descrizione": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
@@ -161,13 +168,6 @@
       "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
       "fonte": "WIRED",
       "data": "2026-10-26T14:50:47+00:00"
-    },
-    {
-      "titolo": "Android Auto prepara nuove funzioni per chiamate e tastierino",
-      "descrizione": "Android Auto potrebbe ricordare il numero preferito e introdurre un nuovo design per le chiamate.",
-      "link": "https://www.hdblog.it/android/articoli/n674926/android-auto-numero-preferito-chiamate/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-26T14:45:00+00:00"
     }
   ]
 }
