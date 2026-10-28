@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-28T05:46:31.929513+00:00",
+  "last_updated": "2026-10-28T12:59:43.712310+00:00",
   "items": [
     {
-      "titolo": "Altman alle aziende: «Prima la sicurezza AI». Oracle porta in casa le TPU di Google",
-      "descrizione": "LAS VEGAS - Se dovesse dare un solo consiglio alle aziende sull’intelligenza artificiale, «nel brevissimo termine, ancora prima della produttività, raccomanderei di capire davvero il panorama delle minacce alla sicurezza",
-      "link": "https://www.ilsole24ore.com/art/altman-aziende-prima-sicurezza-ai-oracle-porta-casa-tpu-google-AJmyALwB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-10-28T00:04:00+00:00",
+      "titolo": "Sul Nokia 6300 del 2007 arrivano Claude, ChatGPT e non solo, grazie ad Aikon Chat",
+      "descrizione": "Un imprenditore turco ha realizzato il sistema tramite vibe coding. L'app sul telefono è in Java e si collega a un server Go esterno che fa da \"intermediario\".",
+      "link": "https://www.hdblog.it/nokia/articoli/n675158/nokia-6300-chatbot-ai-aikon-claude-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-28T09:35:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Excel, tutte le novità distribuite a ottobre 2026",
-      "descrizione": "La maggior parte all'insegna di AI e Copilot, naturalmente.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n675072/microsoft-excel-novita-ottobre-windows-apple-web/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-27T17:05:00+00:00",
+      "titolo": "Copilot nella barra laterale di Edge non funziona, perché?",
+      "descrizione": "Copilot nella barra laterale di Edge non risponde e cronologia e impostazioni risultano inaccessibili. Cosa sappiamo della migrazione. The post Copilot nella barra laterale di Edge non funziona, perché? appeared first on",
+      "link": "https://www.punto-informatico.it/copilot-barra-laterale-edge-non-funziona-perche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-28T09:39:42+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "descrizione": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "fonte": "WIRED",
-      "data": "2026-10-27T19:39:04+00:00",
+      "titolo": "Sul Nokia 6300 del 2007 arrivano Claude, ChatGPT e non solo, grazie ad Aikon Chat",
+      "descrizione": "Un imprenditore turco ha realizzato il sistema tramite vibe coding. L'app sul telefono è in Java e si collega a un server Go esterno che fa da \"intermediario\".",
+      "link": "https://www.hdblog.it/nokia/articoli/n675158/nokia-6300-chatbot-ai-aikon-claude-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-28T09:35:00+00:00",
       "modello": "claude"
     }
   ]
