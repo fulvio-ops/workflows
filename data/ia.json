@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-10-29T05:52:21.936004+00:00",
+  "last_updated": "2026-10-29T13:07:18.441921+00:00",
   "items": [
     {
-      "titolo": "EU KIDS Act: protezione minori senza sacrificare la privacy",
-      "descrizione": "Secondo il Presidente del Garante, la proposta EU KIDS Act è corretta, ma la protezione dei minori online non deve avvenire a discapito della privacy. The post EU KIDS Act: protezione minori senza sacrificare la privacy",
-      "link": "https://www.punto-informatico.it/eu-kids-act-protezione-minori-senza-sacrificare-privacy/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-28T17:08:49+00:00",
+      "titolo": "Via le auto: dopo Oxford Street, Londra pedonalizza un'altra iconica strada",
+      "descrizione": "Dopo la svolta storica in Oxford Street, la capitale britannica ufficializza la pedonalizzazione di Camden High Street e valuta l'estensione verso il Camden Lock Bridge.",
+      "link": "https://www.hdmotori.it/dopo-oxford-street-londra-pedonalizza-strada/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-29T12:00:58+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Addio a Copilot sulle Smart TV, non mancherà a nessuno",
-      "descrizione": "Un messaggio sulle piattaforme delle Smart TV annuncia lo stop a Copilot: Microsoft terminerà il supporto intorno alla fine dell'anno. The post Addio a Copilot sulle Smart TV, non mancherà a nessuno appeared first on Pun",
-      "link": "https://www.punto-informatico.it/addio-copilot-smart-tv/",
+      "titolo": "XREAL AURA: smart glass con Android XR e Google Gemini",
+      "descrizione": "Gli XREAL AURA hanno uno schermo Sony Micro-OLED, chip Snapdragon Reality Elite, 12/16 GB di RAM, 256/512 GB di storage, audio Bose e Android XR. The post XREAL AURA: smart glass con Android XR e Google Gemini appeared f",
+      "link": "https://www.punto-informatico.it/xreal-aura-smart-glass-android-xr-google-gemini/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-28T15:15:20+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Gemini 4 Carbon è il nuovo modello di Google con capacità cyber",
-      "descrizione": "Google ha annunciato Gemini 4 Carbon, un modello basato su Argon con maggiori capacità cyber (ricerca delle vulnerabilità e scrittura delle patch). The post Gemini 4 Carbon è il nuovo modello di Google con capacità cyber",
-      "link": "https://www.punto-informatico.it/gemini-4-carbon-nuovo-modello-google-capacita-cyber/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-28T17:49:54+00:00",
+      "data": "2026-10-29T08:48:57+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "These Claude Enterprise features let you track AI ROI – what’s new",
-      "descrizione": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
-      "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-28T18:00:00+00:00",
+      "titolo": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers",
+      "descrizione": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-29T11:30:00+00:00",
       "modello": "claude"
     }
   ]
