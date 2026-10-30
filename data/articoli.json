@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-10-30T12:59:57.987435+00:00",
+  "last_updated": "2026-10-30T22:24:12.076136+00:00",
   "items": [
+    {
+      "titolo": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP",
+      "descrizione": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketplace as prices explode to 2.2X MSRP on the retail market.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-30T20:13:10+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Fit 4, tante nuove anticipazioni dall'app ufficiale",
+      "descrizione": "Mancano ormai solo data di lancio e prezzo.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n675501/samsung-galaxy-fit-4-nuove-funzioni-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T17:50:00+00:00"
+    },
+    {
+      "titolo": "Nuove condizioni commerciali: indagine per Meta in UK",
+      "descrizione": "La CMA del Regno Unito valuterà se le nuove condizioni commerciali annunciate da Meta (successivamente sospese) violano la legge sulla concorrenza. The post Nuove condizioni commerciali: indagine per Meta in UK appeared",
+      "link": "https://www.punto-informatico.it/nuove-condizioni-commerciali-indagine-meta-uk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T17:47:21+00:00"
+    },
+    {
+      "titolo": "Samsung lavora a un tablet pieghevole con display flessibile",
+      "descrizione": "Da aperto potrebbe avere una diagonale di 17\", da chiuso scenderà a 8,3\".",
+      "link": "https://www.hdblog.it/tablet/articoli/n675496/samsung-galaxy-tablet-pieghevole-17-pollici/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T17:25:00+00:00"
+    },
+    {
+      "titolo": "I data center AI potrebbero produrre 750.000 litri d'acqua al giorno",
+      "descrizione": "Il calore dei server AI potrebbe alimentare impianti capaci di produrre acqua dolce.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675398/data-center-ai-produzione-acqua-calore/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T17:15:00+00:00"
+    },
+    {
+      "titolo": "Google Home, nuovo firmware in distribuzione per diversi smart speaker",
+      "descrizione": "Tutti i dettagli dal changelog ufficiale.",
+      "link": "https://www.hdblog.it/tv/articoli/n675491/google-home-nest-audio-mini-nuovo-firmware/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T17:05:00+00:00"
+    },
+    {
+      "titolo": "Voyager 1 verso un giorno-luce dalla Terra, ma la NASA ha rischiato di perderla",
+      "descrizione": "Voyager 1 torna a comunicare dopo 48 ore e si prepara a raggiungere una distanza storica.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675396/voyager-1-segnale-perso-48-ore-nasa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T16:45:00+00:00"
+    },
+    {
+      "titolo": "Google perde 500 miliardi di dollari per colpa di AI Mode",
+      "descrizione": "Dopo la pubblicazione dei risultati finanziari del terzo trimestre, Google ha perso circa 500 miliardi di dollari di capitalizzazione in un giorno. The post Google perde 500 miliardi di dollari per colpa di AI Mode appea",
+      "link": "https://www.punto-informatico.it/google-perde-500-miliardi-dollari-colpa-ai-mode/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T16:38:25+00:00"
+    },
+    {
+      "titolo": "ChatGPT mente? 3 tecniche per costringerlo a dire la verità",
+      "descrizione": "L'AI non mente per cattiveria. Ecco 3 tecniche con prompt pronti all'uso che trasformano le risposte di ChatGPT da plausibili a verificabili. The post ChatGPT mente? 3 tecniche per costringerlo a dire la verità appeared",
+      "link": "https://www.punto-informatico.it/chatpt-mente-3-tecniche-costringerlo-dire-verita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T16:30:06+00:00"
+    },
+    {
+      "titolo": "La Cina sfida USA e Giappone con un microscopio da 0,1 nm",
+      "descrizione": "La Cina avvia la produzione di un microscopio elettronico da 200 kV con precisione atomica.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675249/cina-microscopio-elettronico-tem-f200-01-nm/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T16:15:00+00:00"
+    },
+    {
+      "titolo": "NIU rinnova la gamma e lancia il nuovo FQiX 500: le novità a EICMA 2026",
+      "descrizione": "NIU svela a EICMA la gamma scooter 2027: debutta l'ammiraglia FQiX 500 da 115 km/h e autonomia fino a 130 km, insieme a 25 novità per i modelli NQi, NQiX e FQiX.",
+      "link": "https://www.hdmotori.it/niu-fqix-500-gamma-scooter-2027-eicma/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T16:00:19+00:00"
+    },
+    {
+      "titolo": "Threads Friends in Italia: come condividere post con gli amici stretti",
+      "descrizione": "Meta testa Threads Friends in Italia, Irlanda e Giappone, una lista di massimo 50 amici per condividere post privati. Ecco come funziona. The post Threads Friends in Italia: come condividere post con gli amici stretti ap",
+      "link": "https://www.punto-informatico.it/threads-friends-italia-come-condividere-post-amici-stretti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T15:56:21+00:00"
+    },
+    {
+      "titolo": "Dexter: Resurrection S2, da oggi su Paramount+ | Evento a Lucca",
+      "descrizione": "Iniziate a New York le riprese di Dexter Resurrection 2 con Michael C. Hall e Desmond Harrington.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n656024/dexter-resurrection-stagione-2-riprese/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:50:00+00:00"
+    },
+    {
+      "titolo": "Su DAZN Family arriva HBO Max senza costi extra, ecco come funziona",
+      "descrizione": "È il piano Base con pubblicità, e si potrà attivare dal mese prossimo.",
+      "link": "https://www.hdblog.it/android/articoli/n675483/hbo-max-base-pubblicita-gratis-dazn-family/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:45:00+00:00"
+    },
+    {
+      "titolo": "Donald Trump vieta anche i robot industriali stranieri?",
+      "descrizione": "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale. The post Donald Trump vieta anche i robot industriali stranieri? appeared f",
+      "link": "https://www.punto-informatico.it/donald-trump-vieta-anche-robot-industriali-stranieri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T15:35:30+00:00"
+    },
+    {
+      "titolo": "I MacBook Pro touch (PROLED) sono arrivati su Amazon",
+      "descrizione": "Amazon ha dato il via alle prenotazioni per i nuovi MacBook Pro touch di Apple, quelli con display PROLED: preordine al minimo garantito. The post I MacBook Pro touch (PROLED) sono arrivati su Amazon appeared first on Pu",
+      "link": "https://www.punto-informatico.it/macbook-pro-touch-proled-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T15:33:11+00:00"
+    },
+    {
+      "titolo": "Fiat Topolino, ora può circolare sulle strade USA e arriva l'esemplare Sanlorenzo",
+      "descrizione": "Fiat Topolino 2027 ottiene l'omologazione stradale negli USA come Low-Speed Vehicle. Arrivano nuovi colori, la Open Air e un esemplare speciale Sanlorenzo",
+      "link": "https://www.hdmotori.it/fiat-topolino-usa-sanlorenzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:30:46+00:00"
+    },
+    {
+      "titolo": "Android 17 QPR3, Google rilascia la terza Beta ai device compatibili",
+      "descrizione": "Tanti bug fix e qualche smussatura minore non documentata.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675477/android-17-qpr3-beta-3-novita-changelog/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:15:00+00:00"
+    },
+    {
+      "titolo": "Grigliata perfetta: ecco la mini sonda smart per carne e pesce",
+      "descrizione": "ThermoWorks presenta RFX Meat Mini.",
+      "link": "https://www.hdblog.it/home/articoli/n675466/thermoworks-rfx-meat-wireless-probe-mini-sonda/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:05:00+00:00"
+    },
+    {
+      "titolo": "Honor X8e ufficiale: gran batteria, ma niente OLED né 5G a prezzi da midrange?",
+      "descrizione": "OK i 7.700 mAh, ma... oltre 400 euro per un display LCD e un modem 4G?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675475/honor-x8e-prezzi-speciifiche-batteria-display/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T14:45:00+00:00"
+    },
+    {
+      "titolo": "Recensione Apple AirPods 5, ANC al top per chi odia i gommini! Video",
+      "descrizione": "Abbiamo provato per alcune settimane le nuove Airpods 5 con cancellazione del rumore e custodia wireless, ecco come si sono comportate",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n672887/apple-airpods-5-anc-test-prova-prezzo-ita-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T14:31:00+00:00"
+    },
+    {
+      "titolo": "Intelligence agency misplaced 'a very significant number' of removable drives",
+      "descrizione": "An investigation revealed that thousands of drives have been lost, with officials having no idea where they could be.",
+      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-30T13:35:48+00:00"
+    },
+    {
+      "titolo": "A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works",
+      "descrizione": "How do AI models work? This primer explains crucial concepts to understand how LLMs work, with definitions and explanations for all of AI's new nomenclature.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-30T13:30:00+00:00"
+    },
     {
       "titolo": "Microsoft pubblica i nuovi sfondi ufficiali di Surface: download gratis",
       "descrizione": "Dopo gli sfondi dedicati al programma Insider, Microsoft pubblica quelli della linea Surface: scaricali per personalizzare il desktop. The post Microsoft pubblica i nuovi sfondi ufficiali di Surface: download gratis appe",
       "link": "https://www.punto-informatico.it/microsoft-nuovi-sfondi-ufficiali-surface-download-gratis/",
       "fonte": "Punto Informatico",
       "data": "2026-10-30T12:55:34+00:00"
-    },
-    {
-      "titolo": "Google Home svela quali dispositivi consumano più energia",
-      "descrizione": "Google Home ora mostra potenza istantanea e consumo in kWh delle prese e dei contatori Matter compatibili. Ecco come funziona. The post Google Home svela quali dispositivi consumano più energia appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T12:29:04+00:00"
-    },
-    {
-      "titolo": "Binance: furto di criptovalute da 10 blockchain in 20 minuti",
-      "descrizione": "Secondo gli esperti di TRM Labs, il furto di 6,3 miliardi di dollari in criptovalute è stato eseguito in 20 minuti dal gruppo nordcoreano TraderTraitor. The post Binance: furto di criptovalute da 10 blockchain in 20 minu",
-      "link": "https://www.punto-informatico.it/fintech/criptovalute/binance-furto-criptovalute-10-blockchain-20-minuti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T12:10:20+00:00"
-    },
-    {
-      "titolo": "Torna iliad Giga 200: cosa offre e quanto costa",
-      "descrizione": "Iliad sostituisce la Top 230 con l'offerta Giga 200 a 9,99 euro.",
-      "link": "https://www.hdblog.it/iliad/articoli/n675418/iliad-giga-200-ottobre-quanto-costa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T11:45:00+00:00"
-    },
-    {
-      "titolo": "5 years’ worth of salary in bonuses given to 700 eligible Micron workers as company continues to battle union",
-      "descrizione": "Eligible employees get an annual performance bonus, a mass-production bonus, and a one-time appreciation bonus. A quarterly profit bonus has also been introduced starting January 2027.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/5-years-worth-of-salary-in-bonuses-given-to-700-eligible-micron-workers-as-company-continues-to-battle-union-more-than-4-300-production-line-staff-to-receive-three-bonuses-of-more-than-usd31-000-plus-quarterly-profit-bonuses-starting-next-year",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T11:44:03+00:00"
-    },
-    {
-      "titolo": "Stop al data center Google in Finlandia dopo l'abbattimento di un'intera foresta",
-      "descrizione": "Un'area grande come 460 campi da calcio.",
-      "link": "https://www.hdblog.it/google/articoli/n675438/google-data-center-finlandia-stop-perche/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T11:05:00+00:00"
-    },
-    {
-      "titolo": "Polestar 2, stop alla produzione: l'erede debutterà nel 2027",
-      "descrizione": "La prima elettrica del marchio svedese lascia le linee di montaggio in Cina per fare spazio ad un modello di nuova generazione con architettura a 800 Volt.",
-      "link": "https://www.hdmotori.it/polestar-2-stop-alla-produzione/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T11:00:45+00:00"
-    },
-    {
-      "titolo": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
-      "descrizione": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T11:00:00+00:00"
-    },
-    {
-      "titolo": "Google hit with criminal probe over unapproved AI data center deforestation",
-      "descrizione": "A criminal investigation into the environmental damage caused by Google’s Finnish subsidiary has been launched.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T10:40:00+00:00"
-    },
-    {
-      "titolo": "Social media: stop alle leggi nazionali sui divieti per i minori",
-      "descrizione": "La Commissione europea ha deciso di bloccare tutti i disegni di legge nazionali sul divieto di accesso ai social media per evitare la frammentazione. The post Social media: stop alle leggi nazionali sui divieti per i min",
-      "link": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T10:36:44+00:00"
-    },
-    {
-      "titolo": "Quando arriverà Android 17 sul tuo smartphone? Ecco cosa sappiamo a oggi",
-      "descrizione": "Un riassunto rapido dei principali produttori.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675442/android-17-quando-oneplus-samsung-oppo-xiaomi/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T10:25:00+00:00"
-    },
-    {
-      "titolo": "Problemi con Poste Italiane il 30 ottobre? Gli aggiornamenti (risolto)",
-      "descrizione": "Segnalati problemi con le app e i servizi online di Poste Italiane, difficoltà nell'autenticazione con PosteID: cosa sta succedendo? The post Problemi con Poste Italiane il 30 ottobre? Gli aggiornamenti (risolto) appeare",
-      "link": "https://www.punto-informatico.it/problemi-poste-italiane-30102026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T10:19:13+00:00"
-    },
-    {
-      "titolo": "WhatsApp, quattro novità per le chat di gruppo: cosa cambia",
-      "descrizione": "Dai filtri per trovare le risposte ai messaggi retroattivi per i nuovi membri: le novità introdotte da WhatsApp nelle chat di gruppo. The post WhatsApp, quattro novità per le chat di gruppo: cosa cambia appeared first on",
-      "link": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T10:11:33+00:00"
-    },
-    {
-      "titolo": "Peugeot e Rossignol: dalla partnership nasceranno diverse serie limitate dal 2027",
-      "descrizione": "Due storiche icone francesi si uniscono nel segno dell'innovazione e del design, annunciando l’arrivo di edizioni limitate dei modelli Peugeot.",
-      "link": "https://www.hdmotori.it/peugeot-rossignol-partnership/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T10:00:43+00:00"
-    },
-    {
-      "titolo": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
-      "descrizione": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
-      "link": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
-      "fonte": "WIRED",
-      "data": "2026-10-30T10:00:00+00:00"
-    },
-    {
-      "titolo": "Android, laptop e smartphone Samsung esclusi dal backup in locale?",
-      "descrizione": "A quanto pare Samsung non vuole far parte dell'iniziativa.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675435/android-backup-locale-windows-samsung-galaxy/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:55:00+00:00"
-    },
-    {
-      "titolo": "BBVA lancia le eSIM in Italia: connettività all'estero gestita direttamente dall'app",
-      "descrizione": "Il servizio è già attivo in Italia.",
-      "link": "https://www.hdblog.it/virtuali/articoli/n675432/bbva-esim-navigare-giga-estero-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:50:00+00:00"
-    },
-    {
-      "titolo": "Attacco hacker a Polymarket, rubati milioni di dollari e transazioni sospese",
-      "descrizione": "Come spesso accade a essere violato è stato apparentemente un partner terzo. La piattaforma promette rimborsi completi a tutti gli utenti coinvolti.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n675434/polymarket-attacco-hacker-servizio-sospeso/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:45:00+00:00"
-    },
-    {
-      "titolo": "WhatsApp sempre più social: arrivano le immagini di copertina, come su Facebook",
-      "descrizione": "Foto dalla galleria, nuovi scatti e immagini create con Meta AI: le opzioni previste da WhatsApp per caricare la copertina del profilo.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n675421/whatsapp-social-immagini-copertina/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:40:00+00:00"
-    },
-    {
-      "titolo": "2 giorni di autonomia e ricarica velocissima con il REDMI 17 5G a 239€",
-      "descrizione": "Con appena 239 euro circa puoi portarti a casa il REDMI 17 5G da 256 GB che ha una batteria da 7500 mAh e una ricarica rapida da 45 W. The post 2 giorni di autonomia e ricarica velocissima con il REDMI 17 5G a 239€ appea",
-      "link": "https://www.punto-informatico.it/2-giorni-autonomia-ricarica-velocissima-con-redmi-17-5g-239e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T09:39:35+00:00"
-    },
-    {
-      "titolo": "Quando l’AI sbaglia (e sbaglia), di chi è la colpa?",
-      "descrizione": "Perché i consigli medici dei chatbot AI possono diventare pericolosi, quanto contano le protezioni e cosa dovrebbe sapere chi li usa. The post Quando l’AI sbaglia (e sbaglia), di chi è la colpa? appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/quando-ai-sbaglia-di-chi-e-colpa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T09:33:18+00:00"
-    },
-    {
-      "titolo": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "descrizione": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "link": "https://www.wired.com/story/gifts-for-friends/",
-      "fonte": "WIRED",
-      "data": "2026-10-30T09:33:00+00:00"
-    },
-    {
-      "titolo": "iPad Mini OLED e nuova Apple TV 4K: arrivano le conferme sulla RAM equipaggiata",
-      "descrizione": "Nessuna sorpresa sotto questo fronte, e questo è un bene",
-      "link": "https://www.hdblog.it/apple/articoli/n675419/ipad-mini-oled-apple-tv-4k-conferma-taglio-ram/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:25:00+00:00"
-    },
-    {
-      "titolo": "TIM investe nella sovranità digitale con l'acquisizione del 70% di VoiSmart",
-      "descrizione": "Il Gruppo TIM è diventato socio di maggioranza di VoiSmart rilavando il 70% della società italiana",
-      "link": "https://www.hdblog.it/tim/articoli/n675429/tim-enterprise-acquisisce-voismart/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T09:20:00+00:00"
     }
   ]
 }

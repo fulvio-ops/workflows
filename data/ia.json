@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-30T13:00:01.449498+00:00",
+  "last_updated": "2026-10-30T22:24:16.931726+00:00",
   "items": [
     {
-      "titolo": "SMS promozionali, le aziende non possono ignorare le richieste di cancellazione",
-      "descrizione": "Le aziende devono gestire le richieste di cancellazione anche quando arrivano attraverso altri recapiti aziendali.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675449/sms-promozionali-richieste-cancellazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T11:25:00+00:00",
+      "titolo": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed",
+      "descrizione": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalization in a day, barely affects Apple.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-30T20:06:11+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini modifica i file direttamente in chat: PDF, Docs, Fogli e presentazioni",
-      "descrizione": "Gemini permette di generare, visualizzare in anteprima e modificare PDF, Google Docs, Fogli, Slide, Markdown e codice senza uscire dalla chat. The post Gemini modifica i file direttamente in chat: PDF, Docs, Fogli e pres",
-      "link": "https://www.punto-informatico.it/gemini-modifica-file-chat-pdf-docs-fogli-slide/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T07:33:47+00:00",
+      "titolo": "Strava integra Google Gemini: analisi e consigli personalizzati con AI",
+      "descrizione": "Google Gemini analizza gli allenamenti di Strava e risponde alle domande sui progressi sportivi.",
+      "link": "https://www.hdblog.it/google/articoli/n675471/strava-google-gemini-ai-allenamenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T15:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "descrizione": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "titolo": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "descrizione": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
       "fonte": "WIRED",
-      "data": "2026-10-29T18:39:43+00:00",
+      "data": "2026-10-30T21:19:26+00:00",
       "modello": "claude"
     },
     {
