@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-10-30T05:53:40.325500+00:00",
+  "last_updated": "2026-10-30T13:00:01.449498+00:00",
   "items": [
     {
-      "titolo": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
-      "descrizione": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-29T21:55:48+00:00",
+      "titolo": "SMS promozionali, le aziende non possono ignorare le richieste di cancellazione",
+      "descrizione": "Le aziende devono gestire le richieste di cancellazione anche quando arrivano attraverso altri recapiti aziendali.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675449/sms-promozionali-richieste-cancellazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-30T11:25:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Gemini modifica i file direttamente in chat: PDF, Docs, Fogli e presentazioni",
+      "descrizione": "Gemini permette di generare, visualizzare in anteprima e modificare PDF, Google Docs, Fogli, Slide, Markdown e codice senza uscire dalla chat. The post Gemini modifica i file direttamente in chat: PDF, Docs, Fogli e pres",
+      "link": "https://www.punto-informatico.it/gemini-modifica-file-chat-pdf-docs-fogli-slide/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T07:33:47+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
@@ -18,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "Mistral Large 4: migliore modello open con capacità cyber",
-      "descrizione": "È disponibile la versione finale di Mistral Large 4 (Le Chonk), un modello open-weight con capacità cyber superiori a quelle dei concorrenti cinesi. The post Mistral Large 4: migliore modello open con capacità cyber appe",
-      "link": "https://www.punto-informatico.it/mistral-large-4-migliore-modello-open-capacita-cyber/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-29T16:52:07+00:00",
+      "titolo": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
+      "descrizione": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
+      "link": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
+      "fonte": "news – ZDNET",
+      "data": "2026-10-29T14:00:31+00:00",
       "modello": "altri"
     }
   ]
