@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-10-30T22:24:12.076136+00:00",
+  "last_updated": "2026-10-31T05:48:56.289023+00:00",
   "items": [
     {
-      "titolo": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP",
+      "titolo": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
       "descrizione": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketplace as prices explode to 2.2X MSRP on the retail market.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-30T20:13:10+00:00"
+    },
+    {
+      "titolo": "Con il conto online HYPE si ottengono fino a 25€ di bonus d’ingresso",
+      "descrizione": "Per chi sta valutando la sottoscrizione di un nuovo conto online, segnaliamo che il conto tutto italiano HYPE consente di ottenere [affiliate_link link_id=”4580″]fino a 25 euro di bonus d’ingresso[/affiliate_link]. Per o",
+      "link": "https://www.punto-informatico.it/fintech/conti/conto-online-hype-fino-a-25-euro-di-bonus-ingresso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T18:16:52+00:00"
     },
     {
       "titolo": "Samsung Galaxy Fit 4, tante nuove anticipazioni dall'app ufficiale",
@@ -42,6 +49,13 @@
       "link": "https://www.hdblog.it/tv/articoli/n675491/google-home-nest-audio-mini-nuovo-firmware/",
       "fonte": "HDblog.it",
       "data": "2026-10-30T17:05:00+00:00"
+    },
+    {
+      "titolo": "Disney+ regala fino al 25% di sconto sui piani della durata di 6 mesi",
+      "descrizione": "In casa Disney+ prosegue l’offerta che consente di ottenere fino al 25% di sconto sui piani di sei mesi, con [affiliate_link link_id=”544″]prezzi a partire da 5,99 euro al mese[/affiliate_link]. Un’opportunità per tutti",
+      "link": "https://www.punto-informatico.it/disneyplus-regala-fino-al-25-percento-di-sconto-sui-piani-di-6-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-30T17:03:08+00:00"
     },
     {
       "titolo": "Voyager 1 verso un giorno-luce dalla Terra, ma la NASA ha rischiato di perderla",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-10-30T13:35:48+00:00"
-    },
-    {
-      "titolo": "A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works",
-      "descrizione": "How do AI models work? This primer explains crucial concepts to understand how LLMs work, with definitions and explanations for all of AI's new nomenclature.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T13:30:00+00:00"
-    },
-    {
-      "titolo": "Microsoft pubblica i nuovi sfondi ufficiali di Surface: download gratis",
-      "descrizione": "Dopo gli sfondi dedicati al programma Insider, Microsoft pubblica quelli della linea Surface: scaricali per personalizzare il desktop. The post Microsoft pubblica i nuovi sfondi ufficiali di Surface: download gratis appe",
-      "link": "https://www.punto-informatico.it/microsoft-nuovi-sfondi-ufficiali-surface-download-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T12:55:34+00:00"
     }
   ]
 }
