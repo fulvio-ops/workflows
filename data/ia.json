@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-10-31T05:49:00.511987+00:00",
+  "last_updated": "2026-10-31T12:38:17.721617+00:00",
   "items": [
     {
-      "titolo": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day",
-      "descrizione": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalization in a day, barely affects Apple.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T20:06:11+00:00",
+      "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
+      "descrizione": "OpenAI ha annunciato nuove protezioni per i minori, tra cui la limitazione delle informazioni sull'uso delle armi, anche se non ci sono intenti violenti. The post ChatGPT: OpenAI annuncia nuove protezioni per minori appe",
+      "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-31T12:09:05+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Strava integra Google Gemini: analisi e consigli personalizzati con AI",
-      "descrizione": "Google Gemini analizza gli allenamenti di Strava e risponde alle domande sui progressi sportivi.",
-      "link": "https://www.hdblog.it/google/articoli/n675471/strava-google-gemini-ai-allenamenti/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:10:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "descrizione": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "fonte": "WIRED",
-      "data": "2026-10-30T21:19:26+00:00",
+      "titolo": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "descrizione": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-31T12:20:00+00:00",
       "modello": "claude"
     },
     {

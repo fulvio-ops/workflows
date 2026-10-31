@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-31T05:48:56.289023+00:00",
+  "last_updated": "2026-10-31T12:38:14.155984+00:00",
   "items": [
+    {
+      "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
+      "descrizione": "OpenAI ha annunciato nuove protezioni per i minori, tra cui la limitazione delle informazioni sull'uso delle armi, anche se non ci sono intenti violenti. The post ChatGPT: OpenAI annuncia nuove protezioni per minori appe",
+      "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-31T12:09:05+00:00"
+    },
+    {
+      "titolo": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "descrizione": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "titolo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "descrizione": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "fonte": "WIRED",
+      "data": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 26H2: nuova funzione di ricerca con azioni inline",
+      "descrizione": "Nella build più recente di Windows 11 26H2 (canale Experimental) è presente la nuova interfaccia di Windows Search con azioni inline e su smartphone. The post Windows 11 26H2: nuova funzione di ricerca con azioni inline",
+      "link": "https://www.punto-informatico.it/windows-11-26h2-nuova-funzione-di-ricerca-azioni-inline/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-31T11:23:23+00:00"
+    },
+    {
+      "titolo": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
+      "descrizione": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-31T11:20:00+00:00"
+    },
+    {
+      "titolo": "Bambino sordo riceve un orecchio bionico: è la prima volta a Fano",
+      "descrizione": "Un meteorite marziano trovato nel Sahara rivela nuovi dettagli sull'acqua presente su Marte primordiale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675521/meteorite-marte-4-miliardi-anni-acqua/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T11:15:00+00:00"
+    },
+    {
+      "titolo": "3D-printed ghost guns may now have a way to be traced to their source",
+      "descrizione": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
+      "link": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "titolo": "Google accende il primo data center spaziale: l'AI va in orbita",
+      "descrizione": "Il satellite di Google esegue Gemma 4 nello spazio e invia sulla Terra la sua prima poesia.",
+      "link": "https://www.hdblog.it/google/articoli/n675519/google-suncatcher-primo-data-center-spaziale-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T10:15:00+00:00"
+    },
+    {
+      "titolo": "Tesla Cybercab: orari estesi fino alle 2 di notte e debutto della Calm Mode",
+      "descrizione": "La flotta di veicoli autonomi di Tesla porta l'operatività quotidiana a 20 ore consecutive, introducendo importanti novità software per il relax dei passeggeri,...",
+      "link": "https://www.hdmotori.it/tesla-cybercab-orari-estesi-2-notte-calm-mode/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T10:00:37+00:00"
+    },
+    {
+      "titolo": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
+      "descrizione": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
+      "link": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-10-31T10:00:00+00:00"
+    },
+    {
+      "titolo": "Beeftext, l'app per Windows che fa risparmiare tempo quando si scrive",
+      "descrizione": "Come rendere più veloce la scrittura su PC.",
+      "link": "https://www.hdblog.it/portatili/articoli/n675454/beeftext-app-automatizza-scrittura-windows/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T09:55:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 FE (256 GB) in sconto: è il mid-range Samsung su cui puntare",
+      "descrizione": "Il Samsung Galaxy S26 FE è in offerta con la variante da 256 GB che diventa una delle migliori opzioni per un mid-range Samsung.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n675537/samsung-galaxy-s26-fe-256-gb-offerta-psprott26/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T09:50:00+00:00"
+    },
+    {
+      "titolo": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "descrizione": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+      "link": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+      "fonte": "WIRED",
+      "data": "2026-10-31T09:30:00+00:00"
+    },
+    {
+      "titolo": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "descrizione": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+      "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "fonte": "WIRED",
+      "data": "2026-10-31T09:00:00+00:00"
+    },
+    {
+      "titolo": "Samsung, gli occhiali smart arriveranno a dicembre ma solo in due mercati?",
+      "descrizione": "Almeno all'inizio la distribuzione sarà limitata per i rumor.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n675517/samsung-intelligent-eyewear-lancio-dicembre-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T08:55:00+00:00"
+    },
+    {
+      "titolo": "Death Stranding Isolations, primo teaser dell'anime: arriverà su Disney+ nel 2027",
+      "descrizione": "Una nuova storia, con una nuova protagonista. Ma lo stesso mondo.",
+      "link": "https://www.hdblog.it/games/articoli/n675515/death-stranding-isolations-trailer-disney-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T08:35:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen ID. Golf, sviluppo sospeso: la crisi finanziaria mette a rischio il debutto",
+      "descrizione": "Volkswagen sospende lo sviluppo della ID. Golf per contenere i costi. Il progetto della Golf elettrica resta confermato, ma il debutto potrebbe slittare",
+      "link": "https://www.hdmotori.it/volkswagen-id-golf-sviluppo-sospeso-la-crisi-finanziaria-mette-a-rischio-il-debutto/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T08:00:19+00:00"
+    },
+    {
+      "titolo": "Threads Friends arriva in Italia: post privati per 50 amici",
+      "descrizione": "Threads Friends è in prova in Italia: post riservati a un massimo di 50 amici selezionati.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n675523/threads-friends-italia-post-privati/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T07:45:00+00:00"
+    },
+    {
+      "titolo": "Nothing OS 5.0 con Android 17 arriva su Phone (3a) e Phone (4a): le novità",
+      "descrizione": "Cambiamenti estetici e funzionali: scopriamoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675516/nothing-os-5-0-android-17-phone-3a-4a-pro-update/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T07:35:00+00:00"
+    },
+    {
+      "titolo": "SoundSwitch è l’app gratuita per gestire al meglio l’audio su Windows",
+      "descrizione": "Come cambiare facilmente dispositivo audio.",
+      "link": "https://www.hdblog.it/portatili/articoli/n675297/soundswitch-gestione-audio-windows/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T07:15:00+00:00"
+    },
+    {
+      "titolo": "Toyota e Waymo, dal 2027 le bZ4X a guida autonoma sulle strade",
+      "descrizione": "Toyota e Waymo ampliano la collaborazione sulla guida autonoma: dal 2027 partiranno in Giappone i test delle bZ4X senza conducente, poi l'espansione internazionale",
+      "link": "https://www.hdmotori.it/toyota-waymo-2027-bz4x-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T07:00:36+00:00"
+    },
+    {
+      "titolo": "SelfyConto: ecco come ottenere il canone gratuito fino al 31 dicembre 2027",
+      "descrizione": "I nuovi clienti di SelfyConto, il conto corrente online di Banca Mediolanum, possono beneficiare del [affiliate_link link_id=”388″]canone gratuito fino al 31 dicembre 2027[/affiliate_link]. Per riuscirci è sufficiente ac",
+      "link": "https://www.punto-informatico.it/fintech/conti/selfyconto-ecco-come-ottenere-il-canone-gratuito-fino-al-31-dicembre-2027/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-31T06:52:47+00:00"
+    },
     {
       "titolo": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
       "descrizione": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketplace as prices explode to 2.2X MSRP on the retail market.",
@@ -14,160 +168,6 @@
       "link": "https://www.punto-informatico.it/fintech/conti/conto-online-hype-fino-a-25-euro-di-bonus-ingresso/",
       "fonte": "Punto Informatico",
       "data": "2026-10-30T18:16:52+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy Fit 4, tante nuove anticipazioni dall'app ufficiale",
-      "descrizione": "Mancano ormai solo data di lancio e prezzo.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n675501/samsung-galaxy-fit-4-nuove-funzioni-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T17:50:00+00:00"
-    },
-    {
-      "titolo": "Nuove condizioni commerciali: indagine per Meta in UK",
-      "descrizione": "La CMA del Regno Unito valuterà se le nuove condizioni commerciali annunciate da Meta (successivamente sospese) violano la legge sulla concorrenza. The post Nuove condizioni commerciali: indagine per Meta in UK appeared",
-      "link": "https://www.punto-informatico.it/nuove-condizioni-commerciali-indagine-meta-uk/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T17:47:21+00:00"
-    },
-    {
-      "titolo": "Samsung lavora a un tablet pieghevole con display flessibile",
-      "descrizione": "Da aperto potrebbe avere una diagonale di 17\", da chiuso scenderà a 8,3\".",
-      "link": "https://www.hdblog.it/tablet/articoli/n675496/samsung-galaxy-tablet-pieghevole-17-pollici/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T17:25:00+00:00"
-    },
-    {
-      "titolo": "I data center AI potrebbero produrre 750.000 litri d'acqua al giorno",
-      "descrizione": "Il calore dei server AI potrebbe alimentare impianti capaci di produrre acqua dolce.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675398/data-center-ai-produzione-acqua-calore/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T17:15:00+00:00"
-    },
-    {
-      "titolo": "Google Home, nuovo firmware in distribuzione per diversi smart speaker",
-      "descrizione": "Tutti i dettagli dal changelog ufficiale.",
-      "link": "https://www.hdblog.it/tv/articoli/n675491/google-home-nest-audio-mini-nuovo-firmware/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T17:05:00+00:00"
-    },
-    {
-      "titolo": "Disney+ regala fino al 25% di sconto sui piani della durata di 6 mesi",
-      "descrizione": "In casa Disney+ prosegue l’offerta che consente di ottenere fino al 25% di sconto sui piani di sei mesi, con [affiliate_link link_id=”544″]prezzi a partire da 5,99 euro al mese[/affiliate_link]. Un’opportunità per tutti",
-      "link": "https://www.punto-informatico.it/disneyplus-regala-fino-al-25-percento-di-sconto-sui-piani-di-6-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T17:03:08+00:00"
-    },
-    {
-      "titolo": "Voyager 1 verso un giorno-luce dalla Terra, ma la NASA ha rischiato di perderla",
-      "descrizione": "Voyager 1 torna a comunicare dopo 48 ore e si prepara a raggiungere una distanza storica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675396/voyager-1-segnale-perso-48-ore-nasa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T16:45:00+00:00"
-    },
-    {
-      "titolo": "Google perde 500 miliardi di dollari per colpa di AI Mode",
-      "descrizione": "Dopo la pubblicazione dei risultati finanziari del terzo trimestre, Google ha perso circa 500 miliardi di dollari di capitalizzazione in un giorno. The post Google perde 500 miliardi di dollari per colpa di AI Mode appea",
-      "link": "https://www.punto-informatico.it/google-perde-500-miliardi-dollari-colpa-ai-mode/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T16:38:25+00:00"
-    },
-    {
-      "titolo": "ChatGPT mente? 3 tecniche per costringerlo a dire la verità",
-      "descrizione": "L'AI non mente per cattiveria. Ecco 3 tecniche con prompt pronti all'uso che trasformano le risposte di ChatGPT da plausibili a verificabili. The post ChatGPT mente? 3 tecniche per costringerlo a dire la verità appeared",
-      "link": "https://www.punto-informatico.it/chatpt-mente-3-tecniche-costringerlo-dire-verita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T16:30:06+00:00"
-    },
-    {
-      "titolo": "La Cina sfida USA e Giappone con un microscopio da 0,1 nm",
-      "descrizione": "La Cina avvia la produzione di un microscopio elettronico da 200 kV con precisione atomica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675249/cina-microscopio-elettronico-tem-f200-01-nm/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T16:15:00+00:00"
-    },
-    {
-      "titolo": "NIU rinnova la gamma e lancia il nuovo FQiX 500: le novità a EICMA 2026",
-      "descrizione": "NIU svela a EICMA la gamma scooter 2027: debutta l'ammiraglia FQiX 500 da 115 km/h e autonomia fino a 130 km, insieme a 25 novità per i modelli NQi, NQiX e FQiX.",
-      "link": "https://www.hdmotori.it/niu-fqix-500-gamma-scooter-2027-eicma/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T16:00:19+00:00"
-    },
-    {
-      "titolo": "Threads Friends in Italia: come condividere post con gli amici stretti",
-      "descrizione": "Meta testa Threads Friends in Italia, Irlanda e Giappone, una lista di massimo 50 amici per condividere post privati. Ecco come funziona. The post Threads Friends in Italia: come condividere post con gli amici stretti ap",
-      "link": "https://www.punto-informatico.it/threads-friends-italia-come-condividere-post-amici-stretti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T15:56:21+00:00"
-    },
-    {
-      "titolo": "Dexter: Resurrection S2, da oggi su Paramount+ | Evento a Lucca",
-      "descrizione": "Iniziate a New York le riprese di Dexter Resurrection 2 con Michael C. Hall e Desmond Harrington.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n656024/dexter-resurrection-stagione-2-riprese/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:50:00+00:00"
-    },
-    {
-      "titolo": "Su DAZN Family arriva HBO Max senza costi extra, ecco come funziona",
-      "descrizione": "È il piano Base con pubblicità, e si potrà attivare dal mese prossimo.",
-      "link": "https://www.hdblog.it/android/articoli/n675483/hbo-max-base-pubblicita-gratis-dazn-family/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:45:00+00:00"
-    },
-    {
-      "titolo": "Donald Trump vieta anche i robot industriali stranieri?",
-      "descrizione": "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale. The post Donald Trump vieta anche i robot industriali stranieri? appeared f",
-      "link": "https://www.punto-informatico.it/donald-trump-vieta-anche-robot-industriali-stranieri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T15:35:30+00:00"
-    },
-    {
-      "titolo": "I MacBook Pro touch (PROLED) sono arrivati su Amazon",
-      "descrizione": "Amazon ha dato il via alle prenotazioni per i nuovi MacBook Pro touch di Apple, quelli con display PROLED: preordine al minimo garantito. The post I MacBook Pro touch (PROLED) sono arrivati su Amazon appeared first on Pu",
-      "link": "https://www.punto-informatico.it/macbook-pro-touch-proled-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T15:33:11+00:00"
-    },
-    {
-      "titolo": "Fiat Topolino, ora può circolare sulle strade USA e arriva l'esemplare Sanlorenzo",
-      "descrizione": "Fiat Topolino 2027 ottiene l'omologazione stradale negli USA come Low-Speed Vehicle. Arrivano nuovi colori, la Open Air e un esemplare speciale Sanlorenzo",
-      "link": "https://www.hdmotori.it/fiat-topolino-usa-sanlorenzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:30:46+00:00"
-    },
-    {
-      "titolo": "Android 17 QPR3, Google rilascia la terza Beta ai device compatibili",
-      "descrizione": "Tanti bug fix e qualche smussatura minore non documentata.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675477/android-17-qpr3-beta-3-novita-changelog/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:15:00+00:00"
-    },
-    {
-      "titolo": "Grigliata perfetta: ecco la mini sonda smart per carne e pesce",
-      "descrizione": "ThermoWorks presenta RFX Meat Mini.",
-      "link": "https://www.hdblog.it/home/articoli/n675466/thermoworks-rfx-meat-wireless-probe-mini-sonda/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T15:05:00+00:00"
-    },
-    {
-      "titolo": "Honor X8e ufficiale: gran batteria, ma niente OLED né 5G a prezzi da midrange?",
-      "descrizione": "OK i 7.700 mAh, ma... oltre 400 euro per un display LCD e un modem 4G?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675475/honor-x8e-prezzi-speciifiche-batteria-display/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T14:45:00+00:00"
-    },
-    {
-      "titolo": "Recensione Apple AirPods 5, ANC al top per chi odia i gommini! Video",
-      "descrizione": "Abbiamo provato per alcune settimane le nuove Airpods 5 con cancellazione del rumore e custodia wireless, ecco come si sono comportate",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n672887/apple-airpods-5-anc-test-prova-prezzo-ita-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-30T14:31:00+00:00"
-    },
-    {
-      "titolo": "Intelligence agency misplaced 'a very significant number' of removable drives",
-      "descrizione": "An investigation revealed that thousands of drives have been lost, with officials having no idea where they could be.",
-      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T13:35:48+00:00"
     }
   ]
 }
