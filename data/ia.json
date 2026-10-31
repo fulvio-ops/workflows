@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-31T12:38:17.721617+00:00",
+  "last_updated": "2026-10-31T21:38:57.398342+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
-      "descrizione": "OpenAI ha annunciato nuove protezioni per i minori, tra cui la limitazione delle informazioni sull'uso delle armi, anche se non ci sono intenti violenti. The post ChatGPT: OpenAI annuncia nuove protezioni per minori appe",
-      "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+      "titolo": "Sam Altman: la DRAM serve per i data center, non per PC",
+      "descrizione": "Secondo Sam Altman (CEO di OpenAI) è uno spreco usare la DRAM nei PC per l'inferenza locale, quando potrebbe essere sfruttata meglio nei data center. The post Sam Altman: la DRAM serve per i data center, non per PC appea",
+      "link": "https://www.punto-informatico.it/sam-altman-dram-data-center-pc/",
       "fonte": "Punto Informatico",
-      "data": "2026-10-31T12:09:05+00:00",
+      "data": "2026-10-31T15:38:19+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "descrizione": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T12:20:00+00:00",
+      "titolo": "Proposto un nuovo standard per bloccare tutti i crawler AI",
+      "descrizione": "Un nuovo standard, proposto da Anthropic, permetterà agli editori di bloccare tutti i crawler AI tramite una singola istruzione nel file robots.txt. The post Proposto un nuovo standard per bloccare tutti i crawler AI app",
+      "link": "https://www.punto-informatico.it/proposto-nuovo-standard-bloccare-tutti-crawler-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-10-31T16:50:42+00:00",
       "modello": "claude"
     },
     {
