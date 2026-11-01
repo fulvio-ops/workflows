@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-11-01T06:12:05.033791+00:00",
+  "last_updated": "2026-11-01T13:29:44.446244+00:00",
   "items": [
+    {
+      "titolo": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
+      "descrizione": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T12:30:00+00:00"
+    },
+    {
+      "titolo": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "descrizione": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "fonte": "WIRED",
+      "data": "2026-11-01T12:00:00+00:00"
+    },
+    {
+      "titolo": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "descrizione": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "fonte": "WIRED",
+      "data": "2026-11-01T12:00:00+00:00"
+    },
+    {
+      "titolo": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
+      "descrizione": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
+      "link": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T11:30:00+00:00"
+    },
+    {
+      "titolo": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
+      "descrizione": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T11:00:00+00:00"
+    },
+    {
+      "titolo": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "descrizione": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "fonte": "WIRED",
+      "data": "2026-11-01T10:30:00+00:00"
+    },
+    {
+      "titolo": "Binance ripristina i prelievi, FBI conferma autori del furto",
+      "descrizione": "Binance ha coperto il 95% dei 6,3 miliardi di dollari rubati e avviato il ripristino dei prelievi per 15 reti, mentre l'FBI conferma gli autori del furto. The post Binance ripristina i prelievi, FBI conferma autori del f",
+      "link": "https://www.punto-informatico.it/fintech/criptovalute/binance-ripristina-prelievi-fbi-conferma-autori-furto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-01T10:20:24+00:00"
+    },
+    {
+      "titolo": "La NASA ti porta su Titano: ecco come inviare il tuo nome nello spazio",
+      "descrizione": "La NASA invita tutti a inviare il proprio nome su Titano con la missione Dragonfly del 2028.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675560/nasa-dragonfly-inviare-nome-titano/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T09:55:00+00:00"
+    },
+    {
+      "titolo": "Xbox usa già l'AI per creare videogiochi: scoppia la polemica",
+      "descrizione": "Un manager Xbox rivela l'uso dell'IA nei videogiochi e scatena un acceso dibattito.",
+      "link": "https://www.hdblog.it/games/articoli/n675561/xbox-intelligenza-artificiale-sviluppo-videogiochi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T09:25:00+00:00"
+    },
+    {
+      "titolo": "Modalità AI Auto sui climatizzatori Samsung: conviene davvero oppure no?",
+      "descrizione": "I problemi di AI Auto sui Samsung WindFree: esperienze, apprendimento e modalità consigliate.",
+      "link": "https://www.hdblog.it/domotica/speciali/n675531/samsung-windfree-ai-auto-problemi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T08:55:00+00:00"
+    },
+    {
+      "titolo": "Creare contenuti per i social con ChatGPT: 3 tecniche efficaci",
+      "descrizione": "Come usare ChatGPT per gestire i social. Tre tecniche per trasformare articoli in post, trovare nuove idee e migliorare i gan. The post Creare contenuti per i social con ChatGPT: 3 tecniche efficaci appeared first on Pun",
+      "link": "https://www.punto-informatico.it/creare-contenuti-social-chatgpt-3-tecniche-efficaci/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-01T08:30:17+00:00"
+    },
+    {
+      "titolo": "Sidewinder Mojave: il sidecar che trasforma le moto in camper",
+      "descrizione": "Sviluppato dall'azienda americana Sidewinder, il sidecar offre due posti letto, cucina posteriore, doccia esterna e pannelli solari per i lunghi viaggi.",
+      "link": "https://www.hdmotori.it/sidewinder-mojave-sidecar-moto-camper/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T08:00:31+00:00"
+    },
+    {
+      "titolo": "Come sfruttare un vecchio iPhone: dalla smart home alla videosorveglianza",
+      "descrizione": "Con l’app giusta è possibile ridare vita ad un iPhone di vecchia generazione.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675198/vecchio-iphone-cosa-fare-trucchi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T07:55:00+00:00"
+    },
+    {
+      "titolo": "BMW celebra Alex Zanardi: la speciale M3 Tribute per il suo 60° compleanno",
+      "descrizione": "Una vettura unica creata con BorromeoDeSilva rende omaggio all'eredità umana e sportiva del campione, brand ambassador del marchio bavarese.",
+      "link": "https://www.hdmotori.it/bmw-alex-zanardi-m3-tribute/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T07:30:13+00:00"
+    },
+    {
+      "titolo": "Quale Norton Antivirus scegliere: tutti in sconto fino al 68%",
+      "descrizione": "Scopri quale Norton Antivirus scegliere per i tuoi dispositivi e per la tua famiglia, tanto sono tutti in offerta fino al 68% di sconto. The post Quale Norton Antivirus scegliere: tutti in sconto fino al 68% appeared fir",
+      "link": "https://www.punto-informatico.it/quale-norton-antivirus-scegliere-tutti-in-sconto-fino-al-68-percento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-01T07:00:41+00:00"
+    },
+    {
+      "titolo": "Motorola Moto G67 in offerta a 190€ non ha rivali nella fascia economica",
+      "descrizione": "Il Motorola Moto G67, nel taglio di memoria da 256 GB, è in offerta a 190 euro su eBay, a fronte di un prezzo consigliato di 329,90 euro, per uno sconto complessivo del 42%. Spedizione a casa e reso...",
+      "link": "https://www.hdblog.it/smartphone/offerte/n675556/motorola-moto-g67-256gb-offerta-ebay/",
+      "fonte": "HDblog.it",
+      "data": "2026-10-31T20:18:00+00:00"
+    },
     {
       "titolo": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
       "descrizione": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
@@ -56,118 +168,6 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n675521/meteorite-marte-4-miliardi-anni-acqua/",
       "fonte": "HDblog.it",
       "data": "2026-10-31T11:15:00+00:00"
-    },
-    {
-      "titolo": "3D-printed ghost guns may now have a way to be traced to their source",
-      "descrizione": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T11:00:00+00:00"
-    },
-    {
-      "titolo": "Google accende il primo data center spaziale: l'AI va in orbita",
-      "descrizione": "Il satellite di Google esegue Gemma 4 nello spazio e invia sulla Terra la sua prima poesia.",
-      "link": "https://www.hdblog.it/google/articoli/n675519/google-suncatcher-primo-data-center-spaziale-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T10:15:00+00:00"
-    },
-    {
-      "titolo": "Tesla Cybercab: orari estesi fino alle 2 di notte e debutto della Calm Mode",
-      "descrizione": "La flotta di veicoli autonomi di Tesla porta l'operatività quotidiana a 20 ore consecutive, introducendo importanti novità software per il relax dei passeggeri,...",
-      "link": "https://www.hdmotori.it/tesla-cybercab-orari-estesi-2-notte-calm-mode/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T10:00:37+00:00"
-    },
-    {
-      "titolo": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
-      "descrizione": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
-      "link": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T10:00:00+00:00"
-    },
-    {
-      "titolo": "Beeftext, l'app per Windows che fa risparmiare tempo quando si scrive",
-      "descrizione": "Come rendere più veloce la scrittura su PC.",
-      "link": "https://www.hdblog.it/portatili/articoli/n675454/beeftext-app-automatizza-scrittura-windows/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T09:55:00+00:00"
-    },
-    {
-      "titolo": "Galaxy S26 FE (256 GB) in sconto: è il mid-range Samsung su cui puntare",
-      "descrizione": "Il Samsung Galaxy S26 FE è in offerta con la variante da 256 GB che diventa una delle migliori opzioni per un mid-range Samsung.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n675537/samsung-galaxy-s26-fe-256-gb-offerta-psprott26/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T09:50:00+00:00"
-    },
-    {
-      "titolo": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
-      "descrizione": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
-      "link": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
-      "fonte": "WIRED",
-      "data": "2026-10-31T09:30:00+00:00"
-    },
-    {
-      "titolo": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
-      "descrizione": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
-      "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
-      "fonte": "WIRED",
-      "data": "2026-10-31T09:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung, gli occhiali smart arriveranno a dicembre ma solo in due mercati?",
-      "descrizione": "Almeno all'inizio la distribuzione sarà limitata per i rumor.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n675517/samsung-intelligent-eyewear-lancio-dicembre-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T08:55:00+00:00"
-    },
-    {
-      "titolo": "Death Stranding Isolations, primo teaser dell'anime: arriverà su Disney+ nel 2027",
-      "descrizione": "Una nuova storia, con una nuova protagonista. Ma lo stesso mondo.",
-      "link": "https://www.hdblog.it/games/articoli/n675515/death-stranding-isolations-trailer-disney-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T08:35:00+00:00"
-    },
-    {
-      "titolo": "SelfyConto: ecco come ottenere il canone gratuito fino al 31 dicembre 2027",
-      "descrizione": "I nuovi clienti di SelfyConto, il conto corrente online di Banca Mediolanum, possono beneficiare del [affiliate_link link_id=”388″]canone gratuito fino al 31 dicembre 2027[/affiliate_link]. Per riuscirci è sufficiente ac",
-      "link": "https://www.punto-informatico.it/fintech/conti/selfyconto-ecco-come-ottenere-il-canone-gratuito-fino-al-31-dicembre-2027/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-31T06:52:47+00:00"
-    },
-    {
-      "titolo": "Smart TV LG in offerta nel negozio ufficiale su eBay",
-      "descrizione": "Trasforma il tuo salotto in un vero e proprio cinema grazie alle Smart TV LG in offerta speciale direttamente nel negozio ufficiale su eBay. The post Smart TV LG in offerta nel negozio ufficiale su eBay appeared first on",
-      "link": "https://www.punto-informatico.it/smart-tv-lg-in-offerta-nel-negozio-ufficiale-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-31T06:00:38+00:00"
-    },
-    {
-      "titolo": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
-      "descrizione": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketplace as prices explode to 2.2X MSRP on the retail market.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-30T20:13:10+00:00"
-    },
-    {
-      "titolo": "Con il conto online HYPE si ottengono fino a 25€ di bonus d’ingresso",
-      "descrizione": "Per chi sta valutando la sottoscrizione di un nuovo conto online, segnaliamo che il conto tutto italiano HYPE consente di ottenere [affiliate_link link_id=”4580″]fino a 25 euro di bonus d’ingresso[/affiliate_link]. Per o",
-      "link": "https://www.punto-informatico.it/fintech/conti/conto-online-hype-fino-a-25-euro-di-bonus-ingresso/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T18:16:52+00:00"
-    },
-    {
-      "titolo": "Nuove condizioni commerciali: indagine per Meta in UK",
-      "descrizione": "La CMA del Regno Unito valuterà se le nuove condizioni commerciali annunciate da Meta (successivamente sospese) violano la legge sulla concorrenza. The post Nuove condizioni commerciali: indagine per Meta in UK appeared",
-      "link": "https://www.punto-informatico.it/nuove-condizioni-commerciali-indagine-meta-uk/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T17:47:21+00:00"
-    },
-    {
-      "titolo": "Disney+ regala fino al 25% di sconto sui piani della durata di 6 mesi",
-      "descrizione": "In casa Disney+ prosegue l’offerta che consente di ottenere fino al 25% di sconto sui piani di sei mesi, con [affiliate_link link_id=”544″]prezzi a partire da 5,99 euro al mese[/affiliate_link]. Un’opportunità per tutti",
-      "link": "https://www.punto-informatico.it/disneyplus-regala-fino-al-25-percento-di-sconto-sui-piani-di-6-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-30T17:03:08+00:00"
     }
   ]
 }
