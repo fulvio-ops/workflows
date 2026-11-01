@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-11-01T13:29:44.446244+00:00",
+  "last_updated": "2026-11-01T22:04:54.542769+00:00",
   "items": [
+    {
+      "titolo": "The New York Times vs OpenAI: avvertimento di Wikimedia",
+      "descrizione": "Secondo la Wikimedia Foundation, una sentenza favorevole per il New York Times o OpenAI potrebbe avere conseguenze negative per il web aperto. The post The New York Times vs OpenAI: avvertimento di Wikimedia appeared fir",
+      "link": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-01T15:41:07+00:00"
+    },
+    {
+      "titolo": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "descrizione": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T15:05:00+00:00"
+    },
+    {
+      "titolo": "OPPO Reno 16 Pro in sconto su Amazon: un compatto completo con autonomia al top",
+      "descrizione": "OPPO Reno 16 Pro è la scelta giusta per un compatto di qualità: ora è in offerta su Amazon con un prezzo ottimo.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n675571/oppo-reno-16-pro-offerta-amazon-nov26/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T14:40:00+00:00"
+    },
+    {
+      "titolo": "AI, la sfida degli specialisti: oltre i generalisti c’è spazio anche per l’Italia",
+      "descrizione": "Dalle traduzioni alle immagini, dal video alla voce: i sistemi specializzati puntano su precisione, controllo e meno revisioni nel lavoro professionale. Un mercato in cui anche le imprese italiane possono competere, face",
+      "link": "https://www.ilsole24ore.com/art/ai-sfida-specialisti-oltre-generalisti-c-e-spazio-anche-l-italia-AJhQ9twB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-01T14:08:47+00:00"
+    },
+    {
+      "titolo": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+      "descrizione": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T14:00:00+00:00"
+    },
     {
       "titolo": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
       "descrizione": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
@@ -56,6 +91,13 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n675560/nasa-dragonfly-inviare-nome-titano/",
       "fonte": "HDblog.it",
       "data": "2026-11-01T09:55:00+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy A57 è in offerta: anche a novembre è un'ottima scelta per un nuovo mid-range",
+      "descrizione": "Il Samsung Galaxy A57 da 256 GB è in offerta e si conferma un vero e proprio best buy per la fascia media, anche nel corso del mese di novembre.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n675567/samsung-galaxy-a57-256-gb-offerta-novembre2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-01T09:50:00+00:00"
     },
     {
       "titolo": "Xbox usa già l'AI per creare videogiochi: scoppia la polemica",
@@ -126,48 +168,6 @@
       "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
       "fonte": "Punto Informatico",
       "data": "2026-10-31T12:09:05+00:00"
-    },
-    {
-      "titolo": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
-      "descrizione": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "titolo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "descrizione": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "fonte": "WIRED",
-      "data": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "titolo": "Rifiuti: ma quanti ne produciamo a testa?",
-      "descrizione": "In base agli ultimi dati",
-      "link": "https://www.hdblog.it/green/articoli/n675456/rifiuti-quanti-ne-produciamo-a-testa/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T11:55:00+00:00"
-    },
-    {
-      "titolo": "Windows 11 26H2: nuova funzione di ricerca con azioni inline",
-      "descrizione": "Nella build più recente di Windows 11 26H2 (canale Experimental) è presente la nuova interfaccia di Windows Search con azioni inline e su smartphone. The post Windows 11 26H2: nuova funzione di ricerca con azioni inline",
-      "link": "https://www.punto-informatico.it/windows-11-26h2-nuova-funzione-di-ricerca-azioni-inline/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-31T11:23:23+00:00"
-    },
-    {
-      "titolo": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
-      "descrizione": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T11:20:00+00:00"
-    },
-    {
-      "titolo": "Bambino sordo riceve un orecchio bionico: è la prima volta a Fano",
-      "descrizione": "Un meteorite marziano trovato nel Sahara rivela nuovi dettagli sull'acqua presente su Marte primordiale.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675521/meteorite-marte-4-miliardi-anni-acqua/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T11:15:00+00:00"
     }
   ]
 }

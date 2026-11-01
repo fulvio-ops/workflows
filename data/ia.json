@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-01T13:29:48.038909+00:00",
+  "last_updated": "2026-11-01T22:04:58.822679+00:00",
   "items": [
     {
-      "titolo": "Creare contenuti per i social con ChatGPT: 3 tecniche efficaci",
-      "descrizione": "Come usare ChatGPT per gestire i social. Tre tecniche per trasformare articoli in post, trovare nuove idee e migliorare i gan. The post Creare contenuti per i social con ChatGPT: 3 tecniche efficaci appeared first on Pun",
-      "link": "https://www.punto-informatico.it/creare-contenuti-social-chatgpt-3-tecniche-efficaci/",
+      "titolo": "The New York Times vs OpenAI: avvertimento di Wikimedia",
+      "descrizione": "Secondo la Wikimedia Foundation, una sentenza favorevole per il New York Times o OpenAI potrebbe avere conseguenze negative per il web aperto. The post The New York Times vs OpenAI: avvertimento di Wikimedia appeared fir",
+      "link": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-01T08:30:17+00:00",
+      "data": "2026-11-01T15:41:07+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Proposto un nuovo standard per bloccare tutti i crawler AI",
-      "descrizione": "Un nuovo standard, proposto da Anthropic, permetterà agli editori di bloccare tutti i crawler AI tramite una singola istruzione nel file robots.txt. The post Proposto un nuovo standard per bloccare tutti i crawler AI app",
-      "link": "https://www.punto-informatico.it/proposto-nuovo-standard-bloccare-tutti-crawler-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-31T16:50:42+00:00",
+      "titolo": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+      "descrizione": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-01T21:00:00+00:00",
       "modello": "claude"
     },
     {
