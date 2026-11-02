@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-11-02T06:12:21.879472+00:00",
+  "last_updated": "2026-11-02T16:01:15.168882+00:00",
   "items": [
     {
-      "titolo": "The New York Times vs OpenAI: avvertimento di Wikimedia",
-      "descrizione": "Secondo la Wikimedia Foundation, una sentenza favorevole per il New York Times o OpenAI potrebbe avere conseguenze negative per il web aperto. The post The New York Times vs OpenAI: avvertimento di Wikimedia appeared fir",
-      "link": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
+      "titolo": "Falsi allarmi per attacchi nucleari in Ucraina e Russia",
+      "descrizione": "Ignoti cybercriminali hanno compromesso i sistemi di allarme di Ucraina e Russia, inviando falsi messaggi su attacchi nucleari e chimici. The post Falsi allarmi per attacchi nucleari in Ucraina e Russia appeared first on",
+      "link": "https://www.punto-informatico.it/falsi-allarmi-attacchi-nucleari-ucraina-russia/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-01T15:41:07+00:00"
+      "data": "2026-11-02T15:22:24+00:00"
     },
     {
-      "titolo": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
-      "descrizione": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T15:05:00+00:00"
-    },
-    {
-      "titolo": "OPPO Reno 16 Pro in sconto su Amazon: un compatto completo con autonomia al top",
-      "descrizione": "OPPO Reno 16 Pro è la scelta giusta per un compatto di qualità: ora è in offerta su Amazon con un prezzo ottimo.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n675571/oppo-reno-16-pro-offerta-amazon-nov26/",
+      "titolo": "Pagani Huayra 70 Anima: svelata la mostruosa one-off di Horacio",
+      "descrizione": "A Las Vegas cala il sipario sulla trilogia celebrativa di Horacio Pagani: la Huayra 70 Anima unisce fibra di carbonio, polvere di diamante e cambio manuale.",
+      "link": "https://www.hdmotori.it/pagani-huayra-70-anima-one-off-horacio-pagani/",
       "fonte": "HDblog.it",
-      "data": "2026-11-01T14:40:00+00:00"
+      "data": "2026-11-02T15:00:54+00:00"
     },
     {
-      "titolo": "AI, la sfida degli specialisti: oltre i generalisti c’è spazio anche per l’Italia",
-      "descrizione": "Dalle traduzioni alle immagini, dal video alla voce: i sistemi specializzati puntano su precisione, controllo e meno revisioni nel lavoro professionale. Un mercato in cui anche le imprese italiane possono competere, face",
-      "link": "https://www.ilsole24ore.com/art/ai-sfida-specialisti-oltre-generalisti-c-e-spazio-anche-l-italia-AJhQ9twB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-01T14:08:47+00:00"
+      "titolo": "ChatGPT e Codex condivideranno i limiti di utilizzo: cosa cambia",
+      "descrizione": "Nuove regole per gli abbonati a ChatGPT: il consumo di token sarà condiviso con Codex, mentre le chat istantanee resteranno escluse. The post ChatGPT e Codex condivideranno i limiti di utilizzo: cosa cambia appeared firs",
+      "link": "https://www.punto-informatico.it/chatgpt-codex-condivideranno-limiti-utilizzo-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T14:45:17+00:00"
     },
     {
-      "titolo": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
-      "descrizione": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "titolo": "Gamer's ASUS TUF monitor blocks bullet fired through wall during Call of Duty session — says 280Hz monitor is 'the best $280 I ever spent'",
+      "descrizione": "A Redditor was playing Call of Duty when they heard gunfire outside their home. After hitting the deck, they discovered that their monitor had potentially saved their life.",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T14:00:00+00:00"
+      "data": "2026-11-02T14:34:50+00:00"
     },
     {
-      "titolo": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
-      "descrizione": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
-      "link": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+      "titolo": "SMS of Death, il messaggio che blocca gli smartphone Android",
+      "descrizione": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza. The post SMS of Death, il messaggio che blocca gli smartphone Android appeared firs",
+      "link": "https://www.punto-informatico.it/sms-of-death-messaggio-blocca-smartphone-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T14:07:26+00:00"
+    },
+    {
+      "titolo": "Raspberry Pi 5: aumenta il prezzo della variante con 16 GB di RAM",
+      "descrizione": "Il prezzo della variante del Raspberry Pi 5 con 16 GB di RAM è ora 385 dollari (fino a 480 euro in Italia), ovvero oltre il doppio dell'anno scorso. The post Raspberry Pi 5: aumenta il prezzo della variante con 16 GB di",
+      "link": "https://www.punto-informatico.it/raspberry-pi-5-aumenta-prezzo-variante-16-gb-ram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T14:02:19+00:00"
+    },
+    {
+      "titolo": "Kimi Antonelli vince il Mondiale, ma la mamma gli dà ancora la paghetta",
+      "descrizione": "Dai sacrifici in officina per pagare i debiti al simulatore a tre anni: la storia di Kimi Antonelli, il campione di F1 che vive ancora con la paghetta della mamma.",
+      "link": "https://www.hdmotori.it/kimi-antonelli-mondiale-paghetta/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T14:00:26+00:00"
+    },
+    {
+      "titolo": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
+      "descrizione": "NVIDIA is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access cust",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T12:30:00+00:00"
+      "data": "2026-11-02T14:00:00+00:00"
     },
     {
-      "titolo": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-      "descrizione": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "titolo": "Xiaomi vende 50.000 auto elettriche in un mese: nuovo record",
+      "descrizione": "Le auto elettriche di Xiaomi accelerano: record di consegne nel mese di ottobre, con la prospettiva di un'ulteriore crescita entro fine l'anno. The post Xiaomi vende 50.000 auto elettriche in un mese: nuovo record appear",
+      "link": "https://www.punto-informatico.it/xiaomi-vende-50000-auto-elettriche-un-mese-nuovo-record/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T13:32:03+00:00"
+    },
+    {
+      "titolo": "Halloween Days Unieuro: Sconto IVA del 18,04% su migliaia di prodotti per i clienti UE Club",
+      "descrizione": "Con gli Halloween Days Unieuro arriva lo Sconto IVA del 18,04% su migliaia di prodotti selezionati, per clienti UE Club con una spesa minima di 299€.",
+      "link": "https://www.hdblog.it/unieuro/offerte/n674881/unieuro-halloween-days-sconto-iva-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T13:00:00+00:00"
+    },
+    {
+      "titolo": "Nuovi attacchi ai freezer dei supermercati in tutta Europa",
+      "descrizione": "Freezer dei supermercati portati a 50 gradi in altri Paesi europei: indagini per chiarire come sia stato possibile violare i sistemi. The post Nuovi attacchi ai freezer dei supermercati in tutta Europa appeared first on",
+      "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T12:47:42+00:00"
+    },
+    {
+      "titolo": "Parte il Black Friday di NordVPN: il piano da 28 mesi è in forte sconto",
+      "descrizione": "La migliore VPN da attivare nel corso del mese di novembre è NordVPN, ora disponibile in sconto con la promo del Black Friday 2026. The post Parte il Black Friday di NordVPN: il piano da 28 mesi è in forte sconto appeare",
+      "link": "https://www.punto-informatico.it/parte-il-black-friday-di-nordvpn-il-piano-da-28-mesi-e-in-forte-sconto/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T12:45:34+00:00"
+    },
+    {
+      "titolo": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures",
+      "descrizione": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-02T12:41:54+00:00"
+    },
+    {
+      "titolo": "Kawasaki rompe gli schemi: 6 anni di garanzia su tutta la gamma",
+      "descrizione": "Da novembre 2026 la garanzia Kawasaki sulle moto stradali sale a 6 anni. Tutte le novità per i nuovi modelli 2027, le condizioni d'uso e la trasferibilità dell'usato.",
+      "link": "https://www.hdmotori.it/kawasaki-garanzia-6-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T12:00:32+00:00"
+    },
+    {
+      "titolo": "Danimarca: Collabora non era un’alternativa a Microsoft Office",
+      "descrizione": "Contrariamente a quarto riportato da diversi siti, Collabora Office non è stata bocciata dal governo danese perché i test non sono stati completati. The post Danimarca: Collabora non era un’alternativa a Microsoft Office",
+      "link": "https://www.punto-informatico.it/danimarca-collabora-non-alternativa-microsoft-office/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T11:55:26+00:00"
+    },
+    {
+      "titolo": "Raspberry Pi 5 16 GB, ancora aumenti: listino triplicato da inizio 2025",
+      "descrizione": "Il device era stato lanciato a gennaio 2025 a 120 dollari; ora ne servono 385.",
+      "link": "https://www.hdblog.it/hardware/articoli/n675651/raspberry-pi-5-aumento-prezzi-16-gb-triplicato/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T11:55:00+00:00"
+    },
+    {
+      "titolo": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+      "descrizione": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-02T11:52:11+00:00"
+    },
+    {
+      "titolo": "Samsung Display vende, Samsung Electronics compra: il caso TCL CSOT",
+      "descrizione": "Samsung Electronics rileva da Samsung Display il 10,16% del produttore cinese di pannelli per circa 1.272 miliardi di won, per rendere più sicure le forniture di LCD per TV e smartphone.",
+      "link": "https://www.hdblog.it/tv/articoli/n675626/samsung-electronics-quota-tcl-csot-samsung-display/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T11:45:00+00:00"
+    },
+    {
+      "titolo": "Ad Harvard il corso più desiderato è quello che vieta gli schermi e obbliga a leggere",
+      "descrizione": "Mentre l'intelligenza artificiale rende sempre più semplice riassumere i libri, 180 matricole si sono candidate per un corso da 90 posti che punta tutto sulla lettura e sulla discussione in aula",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675649/harvard-universita-corso-senza-computer-smartphone-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T11:40:00+00:00"
+    },
+    {
+      "titolo": "Falsi allarmi nucleari: hacker colpiscono le app di emergenza di Russia e Ucraina",
+      "descrizione": "Le notifiche sono state inviate proprio in corrispondenza della fine della tregua.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n675638/hacker-attacco-russia-ucraina-app-falso/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T11:20:00+00:00"
+    },
+    {
+      "titolo": "Non si consuma, non si spegne e la fiamma non è mai uguale: ecco la candela con l'AI",
+      "descrizione": "Un piccolo dispositivo con 144 LED utilizza una rete neurale per simulare il movimento di una vera fiamma, generando animazioni sempre diverse senza bisogno di internet",
+      "link": "https://www.hdblog.it/home/articoli/n675646/candela-ai-come-funziona-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-02T11:10:00+00:00"
+    },
+    {
+      "titolo": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata",
+      "descrizione": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome. The post Papa Leone XIV: l’intelligenza artificiale deve essere disarma",
+      "link": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-02T11:02:02+00:00"
+    },
+    {
+      "titolo": "Military explores commercial 5G networks for enemy drone defense",
+      "descrizione": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+      "link": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-02T11:00:00+00:00"
+    },
+    {
+      "titolo": "My Journey to the Center of America’s Political Spam Text Hell",
+      "descrizione": "I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.",
+      "link": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
       "fonte": "WIRED",
-      "data": "2026-11-01T12:00:00+00:00"
-    },
-    {
-      "titolo": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
-      "descrizione": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
-      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
-      "fonte": "WIRED",
-      "data": "2026-11-01T12:00:00+00:00"
-    },
-    {
-      "titolo": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
-      "descrizione": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
-      "link": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T11:30:00+00:00"
-    },
-    {
-      "titolo": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
-      "descrizione": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
-      "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T11:00:00+00:00"
-    },
-    {
-      "titolo": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "descrizione": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "fonte": "WIRED",
-      "data": "2026-11-01T10:30:00+00:00"
-    },
-    {
-      "titolo": "Binance ripristina i prelievi, FBI conferma autori del furto",
-      "descrizione": "Binance ha coperto il 95% dei 6,3 miliardi di dollari rubati e avviato il ripristino dei prelievi per 15 reti, mentre l'FBI conferma gli autori del furto. The post Binance ripristina i prelievi, FBI conferma autori del f",
-      "link": "https://www.punto-informatico.it/fintech/criptovalute/binance-ripristina-prelievi-fbi-conferma-autori-furto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-01T10:20:24+00:00"
-    },
-    {
-      "titolo": "La NASA ti porta su Titano: ecco come inviare il tuo nome nello spazio",
-      "descrizione": "La NASA invita tutti a inviare il proprio nome su Titano con la missione Dragonfly del 2028.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675560/nasa-dragonfly-inviare-nome-titano/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T09:55:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A57 è in offerta: anche a novembre è un'ottima scelta per un nuovo mid-range",
-      "descrizione": "Il Samsung Galaxy A57 da 256 GB è in offerta e si conferma un vero e proprio best buy per la fascia media, anche nel corso del mese di novembre.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n675567/samsung-galaxy-a57-256-gb-offerta-novembre2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T09:50:00+00:00"
-    },
-    {
-      "titolo": "Xbox usa già l'AI per creare videogiochi: scoppia la polemica",
-      "descrizione": "Un manager Xbox rivela l'uso dell'IA nei videogiochi e scatena un acceso dibattito.",
-      "link": "https://www.hdblog.it/games/articoli/n675561/xbox-intelligenza-artificiale-sviluppo-videogiochi/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T09:25:00+00:00"
-    },
-    {
-      "titolo": "Modalità AI Auto sui climatizzatori Samsung: conviene davvero oppure no?",
-      "descrizione": "I problemi di AI Auto sui Samsung WindFree: esperienze, apprendimento e modalità consigliate.",
-      "link": "https://www.hdblog.it/domotica/speciali/n675531/samsung-windfree-ai-auto-problemi/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T08:55:00+00:00"
-    },
-    {
-      "titolo": "Creare contenuti per i social con ChatGPT: 3 tecniche efficaci",
-      "descrizione": "Come usare ChatGPT per gestire i social. Tre tecniche per trasformare articoli in post, trovare nuove idee e migliorare i gan. The post Creare contenuti per i social con ChatGPT: 3 tecniche efficaci appeared first on Pun",
-      "link": "https://www.punto-informatico.it/creare-contenuti-social-chatgpt-3-tecniche-efficaci/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-01T08:30:17+00:00"
-    },
-    {
-      "titolo": "Sidewinder Mojave: il sidecar che trasforma le moto in camper",
-      "descrizione": "Sviluppato dall'azienda americana Sidewinder, il sidecar offre due posti letto, cucina posteriore, doccia esterna e pannelli solari per i lunghi viaggi.",
-      "link": "https://www.hdmotori.it/sidewinder-mojave-sidecar-moto-camper/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T08:00:31+00:00"
-    },
-    {
-      "titolo": "Come sfruttare un vecchio iPhone: dalla smart home alla videosorveglianza",
-      "descrizione": "Con l’app giusta è possibile ridare vita ad un iPhone di vecchia generazione.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675198/vecchio-iphone-cosa-fare-trucchi/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T07:55:00+00:00"
-    },
-    {
-      "titolo": "BMW celebra Alex Zanardi: la speciale M3 Tribute per il suo 60° compleanno",
-      "descrizione": "Una vettura unica creata con BorromeoDeSilva rende omaggio all'eredità umana e sportiva del campione, brand ambassador del marchio bavarese.",
-      "link": "https://www.hdmotori.it/bmw-alex-zanardi-m3-tribute/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-01T07:30:13+00:00"
-    },
-    {
-      "titolo": "Quale Norton Antivirus scegliere: tutti in sconto fino al 68%",
-      "descrizione": "Scopri quale Norton Antivirus scegliere per i tuoi dispositivi e per la tua famiglia, tanto sono tutti in offerta fino al 68% di sconto. The post Quale Norton Antivirus scegliere: tutti in sconto fino al 68% appeared fir",
-      "link": "https://www.punto-informatico.it/quale-norton-antivirus-scegliere-tutti-in-sconto-fino-al-68-percento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-01T07:00:41+00:00"
-    },
-    {
-      "titolo": "Motorola Moto G67 in offerta a 190€ non ha rivali nella fascia economica",
-      "descrizione": "Il Motorola Moto G67, nel taglio di memoria da 256 GB, è in offerta a 190 euro su eBay, a fronte di un prezzo consigliato di 329,90 euro, per uno sconto complessivo del 42%. Spedizione a casa e reso...",
-      "link": "https://www.hdblog.it/smartphone/offerte/n675556/motorola-moto-g67-256gb-offerta-ebay/",
-      "fonte": "HDblog.it",
-      "data": "2026-10-31T20:18:00+00:00"
-    },
-    {
-      "titolo": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
-      "descrizione": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
-      "descrizione": "OpenAI ha annunciato nuove protezioni per i minori, tra cui la limitazione delle informazioni sull'uso delle armi, anche se non ci sono intenti violenti. The post ChatGPT: OpenAI annuncia nuove protezioni per minori appe",
-      "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
-      "fonte": "Punto Informatico",
-      "data": "2026-10-31T12:09:05+00:00"
+      "data": "2026-11-02T11:00:00+00:00"
     }
   ]
 }

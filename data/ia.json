@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-02T06:12:26.068388+00:00",
+  "last_updated": "2026-11-02T16:01:18.546673+00:00",
   "items": [
     {
-      "titolo": "The New York Times vs OpenAI: avvertimento di Wikimedia",
-      "descrizione": "Secondo la Wikimedia Foundation, una sentenza favorevole per il New York Times o OpenAI potrebbe avere conseguenze negative per il web aperto. The post The New York Times vs OpenAI: avvertimento di Wikimedia appeared fir",
-      "link": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
+      "titolo": "ChatGPT e Codex condivideranno i limiti di utilizzo: cosa cambia",
+      "descrizione": "Nuove regole per gli abbonati a ChatGPT: il consumo di token sarà condiviso con Codex, mentre le chat istantanee resteranno escluse. The post ChatGPT e Codex condivideranno i limiti di utilizzo: cosa cambia appeared firs",
+      "link": "https://www.punto-informatico.it/chatgpt-codex-condivideranno-limiti-utilizzo-cosa-cambia/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-01T15:41:07+00:00",
+      "data": "2026-11-02T14:45:17+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
-      "descrizione": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "titolo": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+      "descrizione": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-01T21:00:00+00:00",
+      "data": "2026-11-02T12:30:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
-      "descrizione": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
-      "link": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
-      "fonte": "news – ZDNET",
-      "data": "2026-10-29T14:00:31+00:00",
+      "titolo": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
+      "descrizione": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-02T13:30:00+00:00",
       "modello": "altri"
     }
   ]
