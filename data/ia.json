@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T22:04:58.822679+00:00",
+  "last_updated": "2026-11-02T06:12:26.068388+00:00",
   "items": [
     {
       "titolo": "The New York Times vs OpenAI: avvertimento di Wikimedia",
@@ -10,7 +10,7 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+      "titolo": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
       "descrizione": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "fonte": "Latest from Tom's Hardware",
