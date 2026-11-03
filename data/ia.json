@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-11-03T14:20:58.331627+00:00",
+  "last_updated": "2026-11-03T23:25:59.935452+00:00",
   "items": [
     {
-      "titolo": "OpenAI aumenta i premi per la scoperta delle vulnerabilità",
-      "descrizione": "OpenAI ha aumentato i premi per i ricercatori che individuano eventuali vulnerabilità in ChatGPT e altri prodotti, fornendo un report dettagliato. The post OpenAI aumenta i premi per la scoperta delle vulnerabilità appea",
-      "link": "https://www.punto-informatico.it/openai-aumenta-premi-scoperta-vulnerabilita/",
+      "titolo": "OpenAI promette data center che consumano poco",
+      "descrizione": "OpenAI ha promesso che i suoi data center (chiamati campus di calcolo) consumeranno meno energia elettrica, evitando di trasferire i costi ai cittadini. The post OpenAI promette data center che consumano poco appeared fi",
+      "link": "https://www.punto-informatico.it/openai-promette-data-center-consumano-poco/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-03T14:10:25+00:00",
+      "data": "2026-11-03T16:27:54+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
+      "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
       "descrizione": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
       "fonte": "Latest from Tom's Hardware",
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
-      "descrizione": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-03T13:00:00+00:00",
+      "titolo": "Come creare un sito per la propria attività con Claude",
+      "descrizione": "Creare un sito con l'AI non richiede competenze tecniche, ma bisogna sapere cosa chiedere. Sette passaggi con prompt ad hoc per Claude. The post Come creare un sito per la propria attività con Claude appeared first on Pu",
+      "link": "https://www.punto-informatico.it/come-creare-sito-propria-attivita-claude/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-03T16:30:29+00:00",
       "modello": "claude"
     },
     {
