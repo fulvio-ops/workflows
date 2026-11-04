@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-04T06:29:37.546713+00:00",
+  "last_updated": "2026-11-04T19:48:14.205001+00:00",
   "items": [
     {
-      "titolo": "OpenAI promette data center che consumano poco",
-      "descrizione": "OpenAI ha promesso che i suoi data center (chiamati campus di calcolo) consumeranno meno energia elettrica, evitando di trasferire i costi ai cittadini. The post OpenAI promette data center che consumano poco appeared fi",
-      "link": "https://www.punto-informatico.it/openai-promette-data-center-consumano-poco/",
+      "titolo": "7 modi per usare ChatGPT nella vita di tutti i giorni",
+      "descrizione": "Cucinare, viaggiare, imparare qualcosa di nuovo, 7 ambiti della vita quotidiana in cui ChatGPT si rivela più utile di quanto si pensi. The post 7 modi per usare ChatGPT nella vita di tutti i giorni appeared first on Punt",
+      "link": "https://www.punto-informatico.it/7-modi-usare-chatgpt-vita-di-tutti-giorni/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-03T16:27:54+00:00",
+      "data": "2026-11-04T16:30:37+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
-      "descrizione": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-03T13:00:00+00:00",
+      "titolo": "Google blocca la Ricerca agli studenti se la scuola disattiva l’AI",
+      "descrizione": "Google considera Search e AI troppo integrate per separarle: chi blocca Gemini nelle scuole potrebbe perdere anche il motore di ricerca. The post Google blocca la Ricerca agli studenti se la scuola disattiva l’AI appeare",
+      "link": "https://www.punto-informatico.it/google-blocca-ricerca-studenti-scuola-disattiva-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-04T11:19:49+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Come creare un sito per la propria attività con Claude",
-      "descrizione": "Creare un sito con l'AI non richiede competenze tecniche, ma bisogna sapere cosa chiedere. Sette passaggi con prompt ad hoc per Claude. The post Come creare un sito per la propria attività con Claude appeared first on Pu",
-      "link": "https://www.punto-informatico.it/come-creare-sito-propria-attivita-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-03T16:30:29+00:00",
+      "titolo": "Here’s Why You Shouldn’t Use AI to Vote",
+      "descrizione": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "fonte": "WIRED",
+      "data": "2026-11-03T14:45:08+00:00",
       "modello": "claude"
     },
     {
