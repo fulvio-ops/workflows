@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T19:48:14.205001+00:00",
+  "last_updated": "2026-11-05T06:52:34.893012+00:00",
   "items": [
     {
-      "titolo": "7 modi per usare ChatGPT nella vita di tutti i giorni",
-      "descrizione": "Cucinare, viaggiare, imparare qualcosa di nuovo, 7 ambiti della vita quotidiana in cui ChatGPT si rivela più utile di quanto si pensi. The post 7 modi per usare ChatGPT nella vita di tutti i giorni appeared first on Punt",
-      "link": "https://www.punto-informatico.it/7-modi-usare-chatgpt-vita-di-tutti-giorni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-04T16:30:37+00:00",
+      "titolo": "ChatGPT Images 2.6 è arrivato: GIF animate e immagini più veloci",
+      "descrizione": "ChatGPT introduce GIF animate con Images 2.6, immagini più veloci del 50% e nuovi strumenti di modifica basati sull'AI.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675993/chatgpt-creare-gif-animate-images-2-6/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-05T05:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Here’s Why You Shouldn’t Use AI to Vote",
-      "descrizione": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "fonte": "WIRED",
-      "data": "2026-11-03T14:45:08+00:00",
+      "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
+      "descrizione": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-03T13:00:00+00:00",
       "modello": "claude"
     },
     {
