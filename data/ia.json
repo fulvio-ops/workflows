@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-11-05T06:52:34.893012+00:00",
+  "last_updated": "2026-11-05T19:59:18.454245+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Images 2.6 è arrivato: GIF animate e immagini più veloci",
-      "descrizione": "ChatGPT introduce GIF animate con Images 2.6, immagini più veloci del 50% e nuovi strumenti di modifica basati sull'AI.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675993/chatgpt-creare-gif-animate-images-2-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-05T05:45:00+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Google blocca la Ricerca agli studenti se la scuola disattiva l’AI",
-      "descrizione": "Google considera Search e AI troppo integrate per separarle: chi blocca Gemini nelle scuole potrebbe perdere anche il motore di ricerca. The post Google blocca la Ricerca agli studenti se la scuola disattiva l’AI appeare",
-      "link": "https://www.punto-informatico.it/google-blocca-ricerca-studenti-scuola-disattiva-ai/",
+      "titolo": "GPT-6 Cyber trova le vulnerabilità e non attacca nessuno",
+      "descrizione": "GPT-6 Cyber è il nuovo modello di OpenAI che può essere utilizzato per trovare vulnerabilità e scrivere exploit (accesso limitato ad alcuni partner). The post GPT-6 Cyber trova le vulnerabilità e non attacca nessuno appe",
+      "link": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-04T11:19:49+00:00",
-      "modello": "gemini"
+      "data": "2026-11-05T18:29:15+00:00",
+      "modello": "chatgpt"
     },
     {
       "titolo": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
@@ -23,15 +15,15 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-11-03T13:00:00+00:00",
-      "modello": "claude"
+      "modello": "gemini"
     },
     {
-      "titolo": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
-      "descrizione": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-02T13:30:00+00:00",
-      "modello": "altri"
+      "titolo": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+      "descrizione": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+      "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-05T18:00:00+00:00",
+      "modello": "claude"
     }
   ]
 }
