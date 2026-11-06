@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-05T19:59:18.454245+00:00",
+  "last_updated": "2026-11-06T06:52:31.295431+00:00",
   "items": [
     {
-      "titolo": "GPT-6 Cyber trova le vulnerabilità e non attacca nessuno",
-      "descrizione": "GPT-6 Cyber è il nuovo modello di OpenAI che può essere utilizzato per trovare vulnerabilità e scrivere exploit (accesso limitato ad alcuni partner). The post GPT-6 Cyber trova le vulnerabilità e non attacca nessuno appe",
-      "link": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-05T18:29:15+00:00",
+      "titolo": "OpenAI presenta GPT-6 Cyber, l'AI che trova falle dove altri modelli falliscono",
+      "descrizione": "GPT-6 Cyber scopre 81 falle in Firefox e sviluppa 948 exploit per Linux.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n676138/gpt-6-cyber-openai-vulnerabilita-firefox-linux/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-06T05:35:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
-      "descrizione": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
-      "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-05T18:00:00+00:00",
+      "titolo": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "descrizione": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "fonte": "WIRED",
+      "data": "2026-11-05T21:37:18+00:00",
       "modello": "claude"
     }
   ]
