@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-11-07T06:03:00.436985+00:00",
+  "last_updated": "2026-11-07T13:07:54.227514+00:00",
   "items": [
     {
-      "titolo": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "descrizione": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "titolo": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "descrizione": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "link": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
       "fonte": "WIRED",
-      "data": "2026-11-06T18:43:43+00:00",
+      "data": "2026-11-07T11:00:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Occhiali Android XR con Gemini: confermato il lancio a dicembre",
+      "descrizione": "Gentle Monster conferma l'arrivo dei primi occhiali Android XR a dicembre 2026.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n676263/occhiali-android-xr-google-dicembre-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-07T07:20:00+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
