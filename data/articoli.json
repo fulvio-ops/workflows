@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-11-07T13:07:50.228088+00:00",
+  "last_updated": "2026-11-07T21:54:20.769666+00:00",
   "items": [
+    {
+      "titolo": "Big Tech USA nel mirino dei democratici, possibili indagini",
+      "descrizione": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appear",
+      "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-07T17:23:26+00:00"
+    },
+    {
+      "titolo": "Il Black Friday di Surfshark è l’occasione giusta per una nuova VPN",
+      "descrizione": "Surfshark è possibile accedere a una VPN illimitata e ricca di vantaggi grazie alla promo Black Friday che taglia il prezzo del servizio dell'85%. The post Il Black Friday di Surfshark è l’occasione giusta per una nuova",
+      "link": "https://www.punto-informatico.it/il-black-friday-di-surfshark-e-loccasione-giusta-per-una-nuova-vpn/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-07T17:15:28+00:00"
+    },
+    {
+      "titolo": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+      "descrizione": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-07T14:47:37+00:00"
+    },
+    {
+      "titolo": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "descrizione": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "titolo": "BMW, il primo modello dell’era Alpina sfreccia a 300 km/h in Italia [VIDEO]",
+      "descrizione": "Sul tracciato di Nardò, in provincia di Lecce, la nuova BMW Alpina ha effettuato dei test ad alta velocità.",
+      "link": "https://www.hdmotori.it/bmw-alpina-test-italia-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-07T13:00:56+00:00"
+    },
     {
       "titolo": "TSMC denies exploring 3D DRAM at Nvidia's request",
       "descrizione": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
@@ -133,41 +168,6 @@
       "link": "https://www.hdmotori.it/vendita-batmobile-batman-returns/",
       "fonte": "HDblog.it",
       "data": "2026-11-07T07:00:48+00:00"
-    },
-    {
-      "titolo": "Google Search, le funzioni per rendere le ricerche più efficaci",
-      "descrizione": "Come affinare i risultati e risparmiare tempo.",
-      "link": "https://www.hdblog.it/google/articoli/n676211/google-search-guida-ricerca-risparmia-tempo/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T06:55:00+00:00"
-    },
-    {
-      "titolo": "Toyota fonda la divisione Robotics: la svolta che guarda oltre l'automobile",
-      "descrizione": "La Casa giapponese posiziona la robotica come pilastro strategico del futuro, istituendo una divisione dedicata nell’ambito di un più ampio riassetto aziendale.",
-      "link": "https://www.hdmotori.it/toyota-fonda-divisione-robotics/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T06:30:19+00:00"
-    },
-    {
-      "titolo": "Fuoritutto Caffè Borbone: cialde e capsule in offerta su eBay",
-      "descrizione": "Solo su eBay in questo momento è attivo il fuoritutto Caffè Borbone con tantissime cialde e capsule in offerta speciale: fai l'affare adesso. The post Fuoritutto Caffè Borbone: cialde e capsule in offerta su eBay appeare",
-      "link": "https://www.punto-informatico.it/fuoritutto-caffe-borbone-cialde-e-capsule-in-offerta-su-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-07T06:00:10+00:00"
-    },
-    {
-      "titolo": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
-      "descrizione": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
-      "link": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
-      "fonte": "WIRED",
-      "data": "2026-11-06T18:54:21+00:00"
-    },
-    {
-      "titolo": "TCL C8L SQD-Mini LED vs OLED: La sfida che cambia le regole | VIDEO",
-      "descrizione": "Abbiamo messo a confronto il TCL C8L con SQD-Mini LED contro un TV OLED di fascia media e non sono mancate le sorprese",
-      "link": "https://www.hdblog.it/tv/comparazioni/n675760/tcl-c8l-sqdminiled-oled-tv-sfida-confronto-hdr-4k/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-06T18:52:00+00:00"
     }
   ]
 }
