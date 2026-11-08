@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-11-08T06:07:09.331618+00:00",
+  "last_updated": "2026-11-08T13:29:26.905942+00:00",
   "items": [
+    {
+      "titolo": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+      "descrizione": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-08T13:00:00+00:00"
+    },
+    {
+      "titolo": "Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away",
+      "descrizione": "The D·Vision SDR can intercept signals from 500 MHz to 8.7 GHz, covering the 4.1-4.5 GHz spectrum that Russian Molniya strike drones use to communicate with their operators.",
+      "link": "https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "titolo": "Guerra ibrida: attacco al tunnel del Brennero e Smartbox",
+      "descrizione": "La società che gestisce il tunnel ferroviario del Brennero e Smartbox hanno confermato intrusioni ai propri sistemi e l'accesso ad alcuni dati. The post Guerra ibrida: attacco al tunnel del Brennero e Smartbox appeared f",
+      "link": "https://www.punto-informatico.it/guerra-ibrida-attacco-tunnel-brennero-smartbox/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-08T11:14:28+00:00"
+    },
+    {
+      "titolo": "Honda NSX di Ayrton Senna venduta a oltre un milione di euro: è record all'asta",
+      "descrizione": "Una Honda NSX del 1991 appartenuta ad Ayrton Senna è stata venduta a Londra per oltre un milione di euro. Un nuovo record per la sportiva giapponese",
+      "link": "https://www.hdmotori.it/honda-nsx-di-ayrton-senna-venduta-a-oltre-un-milione-di-euro-e-record-allasta/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-08T11:00:16+00:00"
+    },
+    {
+      "titolo": "Climatizzatore sempre acceso o programmato? Come risparmiare in inverno",
+      "descrizione": "Climatizzatore acceso o programmato? Ecco come gestirlo per risparmiare in inverno.",
+      "link": "https://www.hdblog.it/home/guide/n676273/climatizzatore-sempre-acceso-o-programmato/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-08T10:55:00+00:00"
+    },
+    {
+      "titolo": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "descrizione": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "link": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "fonte": "WIRED",
+      "data": "2026-11-08T10:30:00+00:00"
+    },
+    {
+      "titolo": "La rivoluzione dei richiami auto: la NHTSA punta sugli aggiornamenti Over-The-Air",
+      "descrizione": "L'agenzia americana riconosce l'efficacia dei correttivi software via Wi-Fi per superare la bassa percentuale di adempimento dei richiami nelle officine.",
+      "link": "https://www.hdmotori.it/richiami-auto-nhtsa-aggiornamenti-over-the-air/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-08T09:00:56+00:00"
+    },
+    {
+      "titolo": "Google Drive, cinque funzioni utili per semplificare la produttività e non solo",
+      "descrizione": "I suggerimenti per lavoro e vita domestica",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n675907/google-drive-cinque-funzioni-utili/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-08T07:55:00+00:00"
+    },
+    {
+      "titolo": "Passa a Lyca Mobile: 200GB e minuti illimitati a soli 7€",
+      "descrizione": "Cerchi un operatore telefonico trasparente ed economico senza rinunciare a nulla? Passa a Lyca Mobile: 200GB e minuti illimitati a soli 6,99€. The post Passa a Lyca Mobile: 200GB e minuti illimitati a soli 7€ appeared fi",
+      "link": "https://www.punto-informatico.it/lyca-mobile-200gb-minuti-illimitati-7-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-08T07:00:57+00:00"
+    },
     {
       "titolo": "Big Tech USA nel mirino dei democratici, possibili indagini",
       "descrizione": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appear",
@@ -105,69 +168,6 @@
       "link": "https://www.hdblog.it/hardware/offerte/n676276/mediaworld-sconti-singles-days-2026/",
       "fonte": "HDblog.it",
       "data": "2026-11-07T09:50:00+00:00"
-    },
-    {
-      "titolo": "OpenAI raccoglie altri 10 miliardi, ma gli investitori frenano",
-      "descrizione": "OpenAI ottiene altri 10 miliardi di euro, ma cresce la prudenza degli investitori.",
-      "link": "https://www.hdblog.it/mercato/articoli/n676264/openai-finanziamento-10-miliardi-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T09:25:00+00:00"
-    },
-    {
-      "titolo": "La Rolls-Royce Phantom di Shaquille O'Neal è in vendita: la sua storia è bizzarra",
-      "descrizione": "In tema di automobili Shaq ha avuto una visione quasi sempre lucida, tranne che per la Rolls-Royce che andrà all’asta su Bring a Trailer",
-      "link": "https://www.hdmotori.it/rolls-royce-phantom-shaquille-oneal/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T09:00:43+00:00"
-    },
-    {
-      "titolo": "Internet veloce ma videochiamate a scatti? Fai questo test",
-      "descrizione": "Uno speed test non basta: ecco come scoprire perché Internet rallenta durante le videochiamate.",
-      "link": "https://www.hdblog.it/internet/guide/n676265/internet-veloce-videochiamate-scatti-test/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T08:55:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA, nuovi driver 621.14: arriva DLSS 5 su Hogwarts Legacy",
-      "descrizione": "NVIDIA pubblica i driver 621.14: DLSS 5 arriva su Hogwarts Legacy e presto su War Thunder.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n676262/nvidia-geforce-driver-621-14-dlss-5/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T08:40:00+00:00"
-    },
-    {
-      "titolo": "Come usare ChatGPT per trasformare le foto in GIF animate gratis",
-      "descrizione": "ChatGPT ora consente di creare GIF animate da qualsiasi immagine caricata, con tanto di controllo sulla velocità e modifica dei fotogrammi. The post Come usare ChatGPT per trasformare le foto in GIF animate gratis appear",
-      "link": "https://www.punto-informatico.it/come-usare-chatgpt-trasformare-foto-gif-animate-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-07T08:30:23+00:00"
-    },
-    {
-      "titolo": "Infrarossi e smart home, la tecnologia anni '80 è ancora sorprendentemente attuale",
-      "descrizione": "La tecnologia anni '80 integrata nella smart home",
-      "link": "https://www.hdblog.it/domotica/articoli/n675659/infrarossi-smart-home-tecnologia/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T08:15:00+00:00"
-    },
-    {
-      "titolo": "JLR avrebbe risolto in segreto un grave difetto senza informare le autorità",
-      "descrizione": "L'indagine delle autorità americane accusa la Casa inglese di proprietà indiana di aver riprogettato in segreto un componente primario delle sospensioni senza informare i...",
-      "link": "https://www.hdmotori.it/jlr-risolto-difetto-senza-informare-autorita/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T07:30:50+00:00"
-    },
-    {
-      "titolo": "Occhiali Android XR con Gemini: confermato il lancio a dicembre",
-      "descrizione": "Gentle Monster conferma l'arrivo dei primi occhiali Android XR a dicembre 2026.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n676263/occhiali-android-xr-google-dicembre-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T07:20:00+00:00"
-    },
-    {
-      "titolo": "In vendita la vera Batmobile di “Batman Returns”: il motore V8 sputa fuoco",
-      "descrizione": "Julien's Auctions e Turner Classic Movies hanno annunciato l'asta della Batmobile della pellicola \"Batman Returns\" del 1992",
-      "link": "https://www.hdmotori.it/vendita-batmobile-batman-returns/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-07T07:00:48+00:00"
     }
   ]
 }
