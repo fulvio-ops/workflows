@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-11-09T06:40:17.224779+00:00",
+  "last_updated": "2026-11-09T22:25:16.374773+00:00",
   "items": [
     {
-      "titolo": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "descrizione": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "link": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-      "fonte": "WIRED",
-      "data": "2026-11-07T11:00:00+00:00",
+      "titolo": "Skoda Kodiaq PHEV 200 kW: prezzi da 61.550 euro per la versione più potente",
+      "descrizione": "La nuova motorizzazione ibrida plug-in da 272 CV garantisce oltre 100 km di autonomia a zero emissioni e ricarica rapida DC a 50 kW.",
+      "link": "https://www.hdmotori.it/skoda-kodiaq-phev-200-kw-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-09T17:00:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Un telefono vintage diventa un assistente AI grazie a Gemini",
-      "descrizione": "Si può parlare all’AI tramite la cornetta.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n676176/telefono-vintage-diventa-assistente-ai-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-08T09:55:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Come delegare metà del lavoro a Claude: 5 strategie concrete",
-      "descrizione": "Il segreto non è chiedere di più a Claude, ma smettere di fare quello che lui fa meglio. 5 metodi per delegare il lavoro ripetitivo. The post Come delegare metà del lavoro a Claude: 5 strategie concrete appeared first on",
-      "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
+      "titolo": "Chatbot in HomeView? Il codice di iOS 27.3 lascia un indizio",
+      "descrizione": "Nel codice della beta di iOS 27.3 compare la categoria Conversational Apps, Apple potrebbe portare chatbot come ChatGPT e Claude su HomeView. The post Chatbot in HomeView? Il codice di iOS 27.3 lascia un indizio appeared",
+      "link": "https://www.punto-informatico.it/chatbot-homeview-codice-ios-27-3-indizio/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-08T08:30:05+00:00",
+      "data": "2026-11-09T16:50:32+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "descrizione": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "fonte": "WIRED",
-      "data": "2026-11-06T18:43:43+00:00",
+      "titolo": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+      "descrizione": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-09T13:20:00+00:00",
       "modello": "altri"
     }
   ]
