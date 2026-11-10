@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T22:25:16.374773+00:00",
+  "last_updated": "2026-11-10T07:23:33.715986+00:00",
   "items": [
     {
       "titolo": "Skoda Kodiaq PHEV 200 kW: prezzi da 61.550 euro per la versione più potente",
@@ -10,11 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Chatbot in HomeView? Il codice di iOS 27.3 lascia un indizio",
-      "descrizione": "Nel codice della beta di iOS 27.3 compare la categoria Conversational Apps, Apple potrebbe portare chatbot come ChatGPT e Claude su HomeView. The post Chatbot in HomeView? Il codice di iOS 27.3 lascia un indizio appeared",
-      "link": "https://www.punto-informatico.it/chatbot-homeview-codice-ios-27-3-indizio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-09T16:50:32+00:00",
+      "titolo": "Cosa sa Gemini di te? Ora puoi controllarlo e cambiare i ricordi",
+      "descrizione": "Gemini introduce un riepilogo per vedere, correggere ed eliminare ciò che ricorda di noi.",
+      "link": "https://www.hdblog.it/google/articoli/n676469/gemini-memory-summary-riepilogo-memoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-10T06:15:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude Mythos e Fable 5.2 ufficiali: un sistema operativo costruito in otto giorni",
+      "descrizione": "Claude Fable 5.2 supera Astra in due test di coding e costruisce un sistema operativo sperimentale.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n676471/claude-fable-5-2-gpt-6-astra-benchmark/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-10T05:45:00+00:00",
       "modello": "claude"
     },
     {
