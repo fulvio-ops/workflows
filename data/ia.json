@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-11T06:30:22.337631+00:00",
+  "last_updated": "2026-11-11T19:38:47.284119+00:00",
   "items": [
     {
-      "titolo": "Ho creato un'app Android con un Agente AI: dal mockup al progetto",
-      "descrizione": "Da un'idea al primo APK: come ho iniziato a creare un'app Android con ChatGPT.",
-      "link": "https://www.hdblog.it/android/speciali/n676567/foldrive-app-android-intelligenza-artificiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-10T19:02:00+00:00",
+      "titolo": "Le 7 parole dell’AI che tutti usano e pochi sanno spiegare",
+      "descrizione": "Sette termini dell'AI spiegati con esempi pratici per chi vuole capire cosa succede dietro la finestra della conversazione. The post Le 7 parole dell’AI che tutti usano e pochi sanno spiegare appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/7-parole-ai-tutti-usano-pochi-sanno-spiegare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-11T16:30:50+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Gemini 4 Carbon disponibile per tutti",
-      "descrizione": "Dopo circa due settimane di accesso limitato, Gemini 4 Carbon è disponibile per sviluppatori, ricercatori, aziende, scienziati e consumatori. The post Google Gemini 4 Carbon disponibile per tutti appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-gemini-4-carbon-disponibile-tutti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-10T17:13:45+00:00",
+      "titolo": "Gemini sta arrivando su Apple CarPlay",
+      "descrizione": "Indovinate se noi europei rimaniamo a bocca asciutta anche questa volta?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n676736/google-gemini-apple-carplay-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-11T18:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude amplia la suite office AI: arrivano Meetings, Sheets e Whiteboards",
-      "descrizione": "In altre parole: appunti durante le riunioni, fogli di calcolo, e gestione progetti collaborativa.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n676598/claude-suite-produttivita-ai-sheets-meetings/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-10T18:05:00+00:00",
+      "titolo": "Claude can collaborate in your team meetings soon – like an intern",
+      "descrizione": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
+      "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-11T16:46:09+00:00",
       "modello": "claude"
     },
     {
