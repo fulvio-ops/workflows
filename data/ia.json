@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-10T19:46:28.515696+00:00",
+  "last_updated": "2026-11-11T06:30:22.337631+00:00",
   "items": [
     {
-      "titolo": "OpenAI presenta Control Room: blocca gli agenti AI in 35 secondi",
-      "descrizione": "Control Room può interrompere l'output dei modelli AI di ricerca in 35 secondi.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n676475/openai-control-room-stop-ai-35-secondi/",
+      "titolo": "Ho creato un'app Android con un Agente AI: dal mockup al progetto",
+      "descrizione": "Da un'idea al primo APK: come ho iniziato a creare un'app Android con ChatGPT.",
+      "link": "https://www.hdblog.it/android/speciali/n676567/foldrive-app-android-intelligenza-artificiale/",
       "fonte": "HDblog.it",
-      "data": "2026-11-10T16:55:00+00:00",
+      "data": "2026-11-10T19:02:00+00:00",
       "modello": "chatgpt"
     },
     {
