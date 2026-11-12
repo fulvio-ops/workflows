@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-11-12T07:15:42.195032+00:00",
+  "last_updated": "2026-11-12T19:57:54.415862+00:00",
   "items": [
     {
-      "titolo": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "descrizione": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "fonte": "WIRED",
-      "data": "2026-11-11T19:55:54+00:00",
+      "titolo": "Google apre le vendite degli smart glass con Gemini",
+      "descrizione": "Google e Samsung hanno annunciato l'avvio delle vendite degli smart glass con fotocamera da 12 megapixel, Gemini e Android XR in Corea e Stati Uniti. The post Google apre le vendite degli smart glass con Gemini appeared",
+      "link": "https://www.punto-informatico.it/google-apre-vendite-smart-glass-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-12T17:05:38+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini sta arrivando su Apple CarPlay",
-      "descrizione": "Indovinate se noi europei rimaniamo a bocca asciutta anche questa volta?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n676736/google-gemini-apple-carplay-come-funziona/",
+      "titolo": "Microsoft down: problemi a Outlook, 365, Copilot, Xbox e tanti altri servizi",
+      "descrizione": "Le segnalazioni stanno impennando per più o meno tutti i servizi del colosso di Redmond, ma ci sono picchi anche per aziende esterne, come Google / Gmail e Steam.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n676880/microsoft-down-disservizi-cosa-succede-outlook/",
       "fonte": "HDblog.it",
-      "data": "2026-11-11T18:05:00+00:00",
+      "data": "2026-11-12T17:35:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "You can force Gemini to forget about you now – how to edit its Memory",
+      "descrizione": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
+      "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-12T17:58:52+00:00",
       "modello": "gemini"
     },
     {
