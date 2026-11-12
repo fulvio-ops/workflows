@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-11T19:38:47.284119+00:00",
+  "last_updated": "2026-11-12T07:15:42.195032+00:00",
   "items": [
     {
-      "titolo": "Le 7 parole dell’AI che tutti usano e pochi sanno spiegare",
-      "descrizione": "Sette termini dell'AI spiegati con esempi pratici per chi vuole capire cosa succede dietro la finestra della conversazione. The post Le 7 parole dell’AI che tutti usano e pochi sanno spiegare appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/7-parole-ai-tutti-usano-pochi-sanno-spiegare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-11T16:30:50+00:00",
+      "titolo": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "descrizione": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "fonte": "WIRED",
+      "data": "2026-11-11T19:55:54+00:00",
       "modello": "chatgpt"
     },
     {
@@ -24,14 +24,6 @@
       "fonte": "news – ZDNET",
       "data": "2026-11-11T16:46:09+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
-      "descrizione": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-09T13:20:00+00:00",
-      "modello": "altri"
     }
   ]
 }
