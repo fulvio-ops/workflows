@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-11-13T06:50:09.871715+00:00",
+  "last_updated": "2026-11-13T19:45:30.012738+00:00",
   "items": [
     {
-      "titolo": "Google apre le vendite degli smart glass con Gemini",
-      "descrizione": "Google e Samsung hanno annunciato l'avvio delle vendite degli smart glass con fotocamera da 12 megapixel, Gemini e Android XR in Corea e Stati Uniti. The post Google apre le vendite degli smart glass con Gemini appeared",
-      "link": "https://www.punto-informatico.it/google-apre-vendite-smart-glass-gemini/",
+      "titolo": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
+      "descrizione": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first o",
+      "link": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-12T17:05:38+00:00",
+      "data": "2026-11-13T17:27:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft down: problemi a Outlook, 365, Copilot, Xbox e tanti altri servizi",
-      "descrizione": "Le segnalazioni stanno impennando per più o meno tutti i servizi del colosso di Redmond, ma ci sono picchi anche per aziende esterne, come Google / Gmail e Steam.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n676880/microsoft-down-disservizi-cosa-succede-outlook/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-13T05:41:00+00:00",
+      "titolo": "Microsoft, problemi a Outlook, Teams e Copilot. L’azienda: «Ci avviciniamo alla normalità»",
+      "descrizione": "Proseguono le attività di recupero delle piattaforme Microsoft, i cui disservizi sono partiti oltre 16 ore fa e si sono diffusi a livello mondiale. Tramite X, l’azienda ha fatto sapere...",
+      "link": "https://www.ilsole24ore.com/art/microsoft-problemi-i-servizi-diffusi-tutto-mondo-coinvolto-anche-outlook-AJWv0hEC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-12T18:57:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google presenta Gemini 4 Hydrogen: fino a 2,5 volte più veloce e meno errori nelle risposte",
-      "descrizione": "Google presenta Gemini 4 Hydrogen: più veloce, più affidabile e disponibile anche nella Ricerca.",
-      "link": "https://www.hdblog.it/google/articoli/n676900/google-gemini-4-hydrogen-velocita-prestazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-13T05:45:00+00:00",
+      "titolo": "You can force Gemini to forget about you now – how to edit its Memory",
+      "descrizione": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
+      "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-12T17:58:52+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude can collaborate in your team meetings soon – like an intern",
-      "descrizione": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
-      "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-11T16:46:09+00:00",
+      "titolo": "Come usare Claude Code per scoprire cosa rallenta il PC",
+      "descrizione": "Prima di comprare un portatile nuovo, vale la pena chiedere all'AI cosa sta succedendo dentro quello vecchio. Claude Code può dare una mano. The post Come usare Claude Code per scoprire cosa rallenta il PC appeared first",
+      "link": "https://www.punto-informatico.it/come-usare-claude-code-scoprire-cosa-rallenta-pc/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-13T16:30:28+00:00",
       "modello": "claude"
     }
   ]
