@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-14T06:29:28.654256+00:00",
+  "last_updated": "2026-11-14T18:08:41.965439+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
-      "descrizione": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first o",
-      "link": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-13T17:27:46+00:00",
+      "titolo": "ChatGPT ora può fare acquisti con la tua carta di credito",
+      "descrizione": "ChatGPT Wallet permette agli agenti AI di effettuare acquisti con carta e conferma biometrica.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n677033/chatgpt-wallet-acquisti-carta-credito/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-14T07:20:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,12 +26,20 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Come usare Claude Code per scoprire cosa rallenta il PC",
-      "descrizione": "Prima di comprare un portatile nuovo, vale la pena chiedere all'AI cosa sta succedendo dentro quello vecchio. Claude Code può dare una mano. The post Come usare Claude Code per scoprire cosa rallenta il PC appeared first",
-      "link": "https://www.punto-informatico.it/come-usare-claude-code-scoprire-cosa-rallenta-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-13T16:30:28+00:00",
+      "titolo": "Cherokee del '94 bocciata alla revisione: risolto il problema grazie all'AI",
+      "descrizione": "Bocciata al test antismog, una Jeep Cherokee del 1994 torna in regola grazie a Claude Code e Codex, collegati alla vecchia presa diagnostica tramite un Arduino da 3 dollari",
+      "link": "https://www.hdmotori.it/jeep-cherokee-1994-riparata-claude-code-codex-arduino/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-14T08:00:20+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+      "descrizione": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-14T14:50:00+00:00",
+      "modello": "altri"
     }
   ]
 }
