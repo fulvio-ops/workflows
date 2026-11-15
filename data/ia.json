@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-11-15T06:38:52.224248+00:00",
+  "last_updated": "2026-11-15T18:53:43.972646+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ora può fare acquisti con la tua carta di credito",
-      "descrizione": "ChatGPT Wallet permette agli agenti AI di effettuare acquisti con carta e conferma biometrica.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n677033/chatgpt-wallet-acquisti-carta-credito/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T07:20:00+00:00",
+      "titolo": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
+      "descrizione": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first o",
+      "link": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-13T17:27:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft, problemi a Outlook, Teams e Copilot. L’azienda: «Ci avviciniamo alla normalità»",
-      "descrizione": "Proseguono le attività di recupero delle piattaforme Microsoft, i cui disservizi sono partiti oltre 16 ore fa e si sono diffusi a livello mondiale. Tramite X, l’azienda ha fatto sapere...",
-      "link": "https://www.ilsole24ore.com/art/microsoft-problemi-i-servizi-diffusi-tutto-mondo-coinvolto-anche-outlook-AJWv0hEC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-12T18:57:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
-      "descrizione": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
-      "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-12T17:58:52+00:00",
+      "titolo": "Gemini accede a Google Wallet per l’analisi delle spese",
+      "descrizione": "Grazie al collegamento di Google Wallet a Gemini è possibile ricevere risposte personalizzate sulle abitudini di spesa (solo negli Stati Uniti). The post Gemini accede a Google Wallet per l’analisi delle spese appeared f",
+      "link": "https://www.punto-informatico.it/gemini-accede-google-wallet-analisi-spese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-15T15:51:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Cherokee del '94 bocciata alla revisione: risolto il problema grazie all'AI",
-      "descrizione": "Bocciata al test antismog, una Jeep Cherokee del 1994 torna in regola grazie a Claude Code e Codex, collegati alla vecchia presa diagnostica tramite un Arduino da 3 dollari",
-      "link": "https://www.hdmotori.it/jeep-cherokee-1994-riparata-claude-code-codex-arduino/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T08:00:20+00:00",
+      "titolo": "Come usare Claude Code per scoprire cosa rallenta il PC",
+      "descrizione": "Prima di comprare un portatile nuovo, vale la pena chiedere all'AI cosa sta succedendo dentro quello vecchio. Claude Code può dare una mano. The post Come usare Claude Code per scoprire cosa rallenta il PC appeared first",
+      "link": "https://www.punto-informatico.it/come-usare-claude-code-scoprire-cosa-rallenta-pc/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-13T16:30:28+00:00",
       "modello": "claude"
     },
     {

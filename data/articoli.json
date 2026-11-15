@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-11-15T06:38:48.490603+00:00",
+  "last_updated": "2026-11-15T18:53:40.026919+00:00",
   "items": [
     {
-      "titolo": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
-      "descrizione": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T15:35:48+00:00"
-    },
-    {
-      "titolo": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
-      "descrizione": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. But will it be able to do so?",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T15:10:00+00:00"
-    },
-    {
-      "titolo": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
-      "descrizione": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T14:50:00+00:00"
-    },
-    {
-      "titolo": "Il Garmin Instinct 3 Solar non si scarica mai: sconto di 100€ con il Black Friday in anticipo",
-      "descrizione": "Il Garmin Instinct 3 Solar da 45mm è in offerta su Amazon con il Black Friday in anticipo: display SOLAR, resistenza 10ATM, torcia LED, oltre 90 app sportive, Garmin Pay e autonomia potenzialmente...",
-      "link": "https://www.hdblog.it/indossabili/offerte/n677051/garmin-instinct-3-solar-sconto-black-friday-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T13:28:00+00:00"
-    },
-    {
-      "titolo": "Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
-      "descrizione": "A lawyer’s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash’s most-used experts at NVFP4 precision instead of 2-bit.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T12:50:00+00:00"
-    },
-    {
-      "titolo": "Microsoft 365: down causato da un intervento tecnico",
-      "descrizione": "Microsoft ha comunicato che il malfunzionamento dei servizi è stato causato da un intervento di potenziamento della capacità di rete. The post Microsoft 365: down causato da un intervento tecnico appeared first on Punto",
-      "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
+      "titolo": "Primi smart glass di Apple alla WWDC e lancio entro il 2027?",
+      "descrizione": "Apple dovrebbe annunciare i primi smart glass con fotocamera alla WWDC 2027, mentre il lancio sul mercato è previsto entro la fine dello stesso anno. The post Primi smart glass di Apple alla WWDC e lancio entro il 2027?",
+      "link": "https://www.punto-informatico.it/primi-smart-glass-apple-wwdc-lancio-entro-2027/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-14T12:39:51+00:00"
+      "data": "2026-11-15T18:07:44+00:00"
     },
     {
-      "titolo": "Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals",
-      "descrizione": "The San Jose, California, branch of Denny's once featured a plaque commemorating the booth where Jensen Huang and his two other co-founders worked to build Nvidia.",
-      "link": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
+      "titolo": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+      "descrizione": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
+      "link": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T12:00:00+00:00"
+      "data": "2026-11-15T17:56:15+00:00"
     },
     {
-      "titolo": "Uno dei migliori entry level, il Redmi Note 15 5G, in promo con il codice eBay",
-      "descrizione": "Applica il codice segreto su eBay e portati a casa lo Xiaomi Redmi Note 15 5G da 512 GB a circa 269 euro e con possibile pagamento a rate. The post Uno dei migliori entry level, il Redmi Note 15 5G, in promo con il codic",
-      "link": "https://www.punto-informatico.it/uno-dei-migliori-entry-level-redmi-note-15-5g-promo-con-codice-ebay/",
+      "titolo": "Cockpit-Simulator 737X CDU (v2) Review: An Essential Component for Flight Sim Enthusiasts",
+      "descrizione": "The CS 737X CDU (v2) by Cockpit-Simulator is a plug-and-play, 1:1 replica of a Boeing 737 Control Display Unit for home cockpit builds.",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T17:30:00+00:00"
+    },
+    {
+      "titolo": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
+      "descrizione": "After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel it is pleasing to see major U.S. eTailers like Newegg stuffed with cheaper stock today.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T17:00:00+00:00"
+    },
+    {
+      "titolo": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+      "descrizione": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T16:30:00+00:00"
+    },
+    {
+      "titolo": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+      "descrizione": "A CPU enthusiast has put together an eye-popping visual database containing crystal clear detailed die shots of 357 legendary, and some lesser-known, processors.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T16:00:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17T con teleobiettivo Leica 5x e batteria da 6500mAh in sconto su Amazon",
+      "descrizione": "Lo Xiaomi 17T da 512GB è in offerta a 559,90 euro su Amazon: teleobiettivo Leica 5x, display AMOLED da 6,59\" a 120Hz, batteria da 6500mAh, ricarica 67W HyperCharge e processore MediaTek Dimensity...",
+      "link": "https://www.hdblog.it/smartphone/offerte/n677081/xiaomi-17t-sconto-amazon-versione-512gb/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "titolo": "Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA",
+      "descrizione": "Elon Musk è uno dei firmatari della petizione con la quale viene chiesto al consiglio di amministrazione di reintegrare Jensen Huang come CEO. The post Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA appeared",
+      "link": "https://www.punto-informatico.it/musk-vuole-ritorno-jensen-huang-guida-nvidia/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-14T11:42:18+00:00"
+      "data": "2026-11-15T14:59:48+00:00"
     },
     {
-      "titolo": "Nissan Qashqai compie 20 anni: il crossover che ha cambiato le abitudini degli europei",
-      "descrizione": "Nissan Qashqai festeggia vent'anni: oltre 4,1 milioni di vendite europee, successo in Italia e nuova tecnologia e-POWER. Arriva anche una livrea speciale",
-      "link": "https://www.hdmotori.it/nissan-qashqai-compie-20-anni/",
+      "titolo": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+      "descrizione": "An app engineer has showcased his homemade breadboard 486DX2 PC running Doom, put together in just over two weeks.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T14:30:00+00:00"
+    },
+    {
+      "titolo": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal",
+      "descrizione": "Nvidia Board Director sold around 4.2 million shares beginning August 31 and ending September 18, with the sale making him somewhere around $947 million.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T14:00:00+00:00"
+    },
+    {
+      "titolo": "REDMI Note 17 5G: autonomia eccezionale a prezzo ridotto con il Black Friday anticipato",
+      "descrizione": "Sconto di 120€ su Amazon durante il Black Friday anticipato per lo Xiaomi REDMI Note 17 5G: batteria da 7700mah e ampio display AMOLED FHD+ da 6,99 pollici.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n677076/redmi-note-17-5g-black-friday-anticipato/",
       "fonte": "HDblog.it",
-      "data": "2026-11-14T11:00:11+00:00"
+      "data": "2026-11-15T13:56:00+00:00"
     },
     {
-      "titolo": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "descrizione": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "titolo": "BMW Alpina B6 2.8 ritrovata in fondo a un lago: il mistero di una delle 533 prodotte",
+      "descrizione": "Una rara BMW Alpina B6 2.8 è stata recuperata da un lago in Germania dopo decenni sott'acqua. La polizia cerca di risalire al proprietario",
+      "link": "https://www.hdmotori.it/bmw-alpina-b6-2-8-ritrovata-in-fondo-a-un-lago-il-mistero-di-una-delle-533-prodotte/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-15T13:30:14+00:00"
+    },
+    {
+      "titolo": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+      "descrizione": "Microbiologists at the University of Rochester have modified an Ender 3 FDM printer into a 3D bioprinter for $450 and outperforming 3D bioprinters costing more than $100,000.",
+      "link": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T13:00:00+00:00"
+    },
+    {
+      "titolo": "TV TCL QD-Mini LED: come funzionano e cosa cambia tra A400U, C6K Pro e P8L",
+      "descrizione": "Siamo stati da TCL a scoprire la nuova gamma QD-Mini LED 2026. Vi raccontiamo i modelli che abbiamo visto e le rispettive caratteristiche tecniche.",
+      "link": "https://www.hdblog.it/tv/speciali/n676399/tv-tcl-qd-mini-led-come-funzionano-e-cosa-cambia-tra-a400u-c6k-pro-e-p8l/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-15T12:31:00+00:00"
+    },
+    {
+      "titolo": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+      "descrizione": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+      "link": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T12:00:00+00:00"
+    },
+    {
+      "titolo": "AI DJs Completely Kill My Groove",
+      "descrizione": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
       "fonte": "WIRED",
-      "data": "2026-11-14T11:00:00+00:00"
+      "data": "2026-11-15T12:00:00+00:00"
     },
     {
-      "titolo": "Schede di memoria false: come individuarle prima di perdere i tuoi dati",
-      "descrizione": "Schede di memoria contraffatte, gli strumenti per individuarle",
-      "link": "https://www.hdblog.it/hardware/articoli/n676673/schede-memoria-false-come-individuare/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T10:55:00+00:00"
-    },
-    {
-      "titolo": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
-      "descrizione": "The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him.",
-      "link": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+      "titolo": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "descrizione": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+      "link": "https://www.wired.com/review/evercade-nexus/",
       "fonte": "WIRED",
-      "data": "2026-11-14T10:15:00+00:00"
+      "data": "2026-11-15T11:30:00+00:00"
     },
     {
-      "titolo": "Citroën 2 CV 007, 45 anni fa la piccola francese diventava l'auto di James Bond",
-      "descrizione": "La Citroën 2 CV 007 compie 45 anni: dalla spettacolare fuga di Roger Moore nel film Solo per i tuoi occhi alla rarissima serie speciale del 1981",
-      "link": "https://www.hdmotori.it/citroen-2-cv-007-45-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T10:00:54+00:00"
+      "titolo": "The original Xbox was released 25 years ago today",
+      "descrizione": "Microsoft’s first games console hit North America 25 years ago today powered by a Pentium III CPU and Nvidia GPU.",
+      "link": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-15T11:00:00+00:00"
     },
     {
-      "titolo": "Ho creato un'app Android con un Agente AI: l'APK prende forma | Parte 2",
-      "descrizione": "Foldrive cresce tra problemi e migliorie: le prove della mia app Android creata con l’AI.",
-      "link": "https://www.hdblog.it/android/speciali/n676699/foldrive-app-android-ai-seconda-parte/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T09:55:00+00:00"
-    },
-    {
-      "titolo": "Hacker, lo Stato taglia i fondi per la difesa",
-      "descrizione": "Saremo più vulnerabili alle minacce informatiche?",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n676976/hacker-stato-taglia-fondi-difesa/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T09:25:00+00:00"
-    },
-    {
-      "titolo": "Tennis, ATP Finals 2026: match gratis in diretta tv e streaming, dove vederli dal 15 al 22/11",
-      "descrizione": "I match delle ATP Finals visibili in chiaro in tv e streaming",
-      "link": "https://www.hdblog.it/eventi/articoli/n676700/atp-finals-2026-match-gratis-diretta-tv-streaming/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T09:05:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy, come risparmiare batteria senza troppe rinunce",
-      "descrizione": "Quali sono le modalità di risparmio energetico della One UI.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n676959/samsung-galaxy-come-risparmiare-batteria/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T08:55:00+00:00"
-    },
-    {
-      "titolo": "Gmail, arriva il restyling delle impostazioni in chiave Material 3 Expressive",
-      "descrizione": "Icone più colorate e sezioni che rendono più facile la navigazione.",
-      "link": "https://www.hdblog.it/google/articoli/n677024/gmail-material-3-expressive-restyling-impostazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T08:25:00+00:00"
-    },
-    {
-      "titolo": "Cherokee del '94 bocciata alla revisione: risolto il problema grazie all'AI",
-      "descrizione": "Bocciata al test antismog, una Jeep Cherokee del 1994 torna in regola grazie a Claude Code e Codex, collegati alla vecchia presa diagnostica tramite un Arduino da 3 dollari",
-      "link": "https://www.hdmotori.it/jeep-cherokee-1994-riparata-claude-code-codex-arduino/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T08:00:20+00:00"
-    },
-    {
-      "titolo": "HDshopping, i più venduti della settimana: robot lavapavimenti e una vecchia conoscenza",
-      "descrizione": "I bestseller della settimana su HDshopping.",
-      "link": "https://www.hdblog.it/android/articoli/n676934/hdshopping-top-settimana-roborock-pixel-11/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T07:55:00+00:00"
-    },
-    {
-      "titolo": "Galaxy A27 in offerta su Amazon: il Samsung giusto nella fascia bassa",
-      "descrizione": "Il Samsung Galaxy A27 è in offerta su Amazon e rappresenta la scelta ideale per un nuovo smartphone Samsung a prezzo contenuto.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n677040/samsung-galaxy-a27-offerta-amazon-nov26/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T07:45:00+00:00"
-    },
-    {
-      "titolo": "Amazon vuole catalogare tutti i prodotti del mondo con l'AI",
-      "descrizione": "Amazon studia World Product Graph, un catalogo AI anche per i prodotti venduti dai concorrenti.",
-      "link": "https://www.hdblog.it/amazon/articoli/n677032/amazon-world-product-graph-ai-prodotti/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-14T07:40:00+00:00"
-    },
-    {
-      "titolo": "Outlook Went Down? Microsoft May Owe You Money",
-      "descrizione": "If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.",
-      "link": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
-      "fonte": "WIRED",
-      "data": "2026-11-14T07:00:00+00:00"
-    },
-    {
-      "titolo": "Auricolari Samsung in offerta speciale su eBay",
-      "descrizione": "Tantissimi auricolari Samsung ti stanno aspettando su eBay in offerta speciale: approfitta subito di questi sconti impressionanti. The post Auricolari Samsung in offerta speciale su eBay appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/auricolari-samsung-in-offerta-speciale-su-ebay/",
+      "titolo": "Windows 11 26H2: ecco le prossime novità in arrivo",
+      "descrizione": "Microsoft ha rilasciato le versioni preliminari di Windows 11 26H2 e 25H2 con diverse novità che saranno disponibili per tutti entro fine novembre. The post Windows 11 26H2: ecco le prossime novità in arrivo appeared fir",
+      "link": "https://www.punto-informatico.it/windows-11-26h2-ecco-prossime-novita-arrivo/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-14T06:00:21+00:00"
+      "data": "2026-11-15T10:53:27+00:00"
+    },
+    {
+      "titolo": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "descrizione": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+      "fonte": "WIRED",
+      "data": "2026-11-15T10:00:00+00:00"
+    },
+    {
+      "titolo": "Data center, la frenata della corsa all’Ai brucia 4.200 miliardi in Borsa",
+      "descrizione": "La corsa alla costruzione dei data center per sostenere lo sviluppo dell’intelligenza artificiale presenta il conto ai mercati finanziari. Da giugno, le società manifatturiere, energetiche e minerarie maggiormente espost",
+      "link": "https://www.ilsole24ore.com/art/data-center-frenata-corsa-all-ai-brucia-4200-miliardi-borsa-AJZbOLHC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-15T09:44:21+00:00"
+    },
+    {
+      "titolo": "SpaceX recupera per la prima volta una Starship di ritorno dall’orbita",
+      "descrizione": "Il risultato, ottenuto per la prima volta nella storia dell’astronautica, ha concluso una missione inaugurata dal mancato recupero del booster Super Heavy, ma proseguita con il rilascio dei nuovi Starlink in orbita.",
+      "link": "https://www.ilsole24ore.com/art/spacex-recupera-la-prima-volta-starship-ritorno-dall-orbita-AJ19OKHC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-15T09:01:49+00:00"
+    },
+    {
+      "titolo": "Mac Mini in offerta su Amazon: fino a 230€ di sconto per le varianti con M6 e M5 Pro",
+      "descrizione": "Il Mac Mini, con le varianti con M6 e M5 Pro, è in offerta su Amazon e diventa sempre di più un best buy da prendere oggi.",
+      "link": "https://www.hdblog.it/hardware/offerte/n677071/mac-mini-m6-m5-pro-offerta-amazon-nov26/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-15T08:00:00+00:00"
+    },
+    {
+      "titolo": "NordVPN taglia il prezzo per il Black Friday: la VPN ora costa 2,88 €/mese",
+      "descrizione": "Con NordVPN è ora possibile attivare una nuova VPN illimitata con un prezzo davvero conveniente: ecco l'offerta del Black Friday 2026. The post NordVPN taglia il prezzo per il Black Friday: la VPN ora costa 2,88 €/mese a",
+      "link": "https://www.punto-informatico.it/nordvpn-taglia-il-prezzo-per-il-black-friday-la-vpn-ora-costa-288-e-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-15T07:15:22+00:00"
     }
   ]
 }
