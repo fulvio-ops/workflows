@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-11-15T18:53:43.972646+00:00",
+  "last_updated": "2026-11-16T06:36:19.117324+00:00",
   "items": [
-    {
-      "titolo": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
-      "descrizione": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first o",
-      "link": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-13T17:27:46+00:00",
-      "modello": "chatgpt"
-    },
     {
       "titolo": "Gemini accede a Google Wallet per l’analisi delle spese",
       "descrizione": "Grazie al collegamento di Google Wallet a Gemini è possibile ricevere risposte personalizzate sulle abitudini di spesa (solo negli Stati Uniti). The post Gemini accede a Google Wallet per l’analisi delle spese appeared f",
@@ -18,11 +10,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Come usare Claude Code per scoprire cosa rallenta il PC",
-      "descrizione": "Prima di comprare un portatile nuovo, vale la pena chiedere all'AI cosa sta succedendo dentro quello vecchio. Claude Code può dare una mano. The post Come usare Claude Code per scoprire cosa rallenta il PC appeared first",
-      "link": "https://www.punto-informatico.it/come-usare-claude-code-scoprire-cosa-rallenta-pc/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-13T16:30:28+00:00",
+      "titolo": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+      "descrizione": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-13T10:30:00+00:00",
       "modello": "claude"
     },
     {
