@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-11-16T06:36:19.117324+00:00",
+  "last_updated": "2026-11-16T22:08:58.060195+00:00",
   "items": [
     {
-      "titolo": "Gemini accede a Google Wallet per l’analisi delle spese",
-      "descrizione": "Grazie al collegamento di Google Wallet a Gemini è possibile ricevere risposte personalizzate sulle abitudini di spesa (solo negli Stati Uniti). The post Gemini accede a Google Wallet per l’analisi delle spese appeared f",
-      "link": "https://www.punto-informatico.it/gemini-accede-google-wallet-analisi-spese/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-15T15:51:28+00:00",
+      "titolo": "Leggere su smartphone ci fa capire di meno? Cosa dicono gli scienziati",
+      "descrizione": "Gli effetti sul cervello",
+      "link": "https://www.hdblog.it/smartphone/articoli/n677176/leggere-smartphone-effetti-scienziati/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-16T17:50:00+00:00",
+      "modello": "chatgpt"
+    },
+    {
+      "titolo": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw",
+      "descrizione": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.",
+      "link": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-16T17:35:43+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
-      "descrizione": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "titolo": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+      "descrizione": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-13T10:30:00+00:00",
+      "data": "2026-11-16T15:00:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
-      "descrizione": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+      "titolo": "Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second",
+      "descrizione": "Garlic LLM runs Alibaba’s Qwen3.5-9B on a jailbroken PlayStation 4’s GPU, fully offline, at 31 to 39 tokens per second.",
+      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-14T14:50:00+00:00",
+      "data": "2026-11-16T13:00:00+00:00",
       "modello": "altri"
     }
   ]
