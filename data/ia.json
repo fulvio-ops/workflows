@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-17T07:58:37.139763+00:00",
+  "last_updated": "2026-11-17T20:58:35.205682+00:00",
   "items": [
     {
-      "titolo": "OpenAI apre un blog scientifico: il fisico propone, l’AI dimostra",
-      "descrizione": "Il fisico Nathaniel Craig racconta come ha usato l’AI per formulare il Modello Standard su una griglia. I modelli generalisti iniziano a partecipare alla costruzione di argomenti scientifici?",
-      "link": "https://www.ilsole24ore.com/art/openai-apre-blog-scientifico-fisico-propone-l-ai-dimostra-AJiic7HC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-17T06:07:00+00:00",
+      "titolo": "GPT-6.2 Astra e Sol ufficiali: ecco le novità introdotte da OpenAI",
+      "descrizione": "OpenAI presenta GPT-6.2 Astra e Sol: novità, prestazioni, prezzi e disponibilità.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n677362/gpt-6-2-astra-sol-differenze-disponibilita/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-17T18:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gli occhiali smart Google di Gentle Monster sono già tutti esauriti",
-      "descrizione": "Esaurita la collezione Gentle Monster con Gemini, mentre Warby Parker accetta ancora preordini.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n677233/occhiali-google-gentle-monster-esauriti/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-17T05:45:00+00:00",
+      "titolo": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+      "descrizione": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
+      "link": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-17T19:54:04+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-      "descrizione": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-16T15:00:00+00:00",
+      "titolo": "7 modi per usare Claude Code nella propria attività",
+      "descrizione": "7 strumenti che Claude Code può costruire per chi gestisce una piccola attività, usando il linguaggio comune al posto del codice. Con i prompt pronti. The post 7 modi per usare Claude Code nella propria attività appeared",
+      "link": "https://www.punto-informatico.it/7-modi-usare-claude-code-propria-attivita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-17T16:30:11+00:00",
       "modello": "claude"
     },
     {
