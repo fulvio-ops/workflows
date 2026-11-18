@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-11-17T20:58:35.205682+00:00",
+  "last_updated": "2026-11-18T07:34:04.954994+00:00",
   "items": [
     {
-      "titolo": "GPT-6.2 Astra e Sol ufficiali: ecco le novità introdotte da OpenAI",
-      "descrizione": "OpenAI presenta GPT-6.2 Astra e Sol: novità, prestazioni, prezzi e disponibilità.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n677362/gpt-6-2-astra-sol-differenze-disponibilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-17T18:05:00+00:00",
+      "titolo": "GPT-6.2 Astra e Sol arrivano su ChatGPT Work e Codex",
+      "descrizione": "OpenAI lancia i suoi nuovi modelli, disponibili per gli abbonati su ChatGPT Work e Codex: le attività da gestire con GPT-6.2 Astra e Sol. The post GPT-6.2 Astra e Sol arrivano su ChatGPT Work e Codex appeared first on Pu",
+      "link": "https://www.punto-informatico.it/gpt-6-2-astra-sol/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-18T07:11:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
-      "descrizione": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
-      "link": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-17T19:54:04+00:00",
+      "titolo": "Microsoft Edge ora compila moduli e lavora tra più siti con Copilot",
+      "descrizione": "Edge for Business automatizza attività tra più siti e permette di personalizzare le pagine web.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n677370/microsoft-edge-for-business-copilot-cowork/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-18T06:10:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google Gemini ora mostra cosa ricorda di te e te lo fa modificare",
+      "descrizione": "Gemini mostra cosa ricorda dalle chat e permette di correggere o cancellare le singole voci.",
+      "link": "https://www.hdblog.it/google/articoli/n677371/google-gemini-come-modificare-memoria/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-18T05:45:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "7 modi per usare Claude Code nella propria attività",
-      "descrizione": "7 strumenti che Claude Code può costruire per chi gestisce una piccola attività, usando il linguaggio comune al posto del codice. Con i prompt pronti. The post 7 modi per usare Claude Code nella propria attività appeared",
-      "link": "https://www.punto-informatico.it/7-modi-usare-claude-code-propria-attivita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-17T16:30:11+00:00",
+      "titolo": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+      "descrizione": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
+      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-17T22:42:44+00:00",
       "modello": "claude"
     },
     {
