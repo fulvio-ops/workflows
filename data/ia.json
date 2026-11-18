@@ -1,45 +1,37 @@
 {
-  "last_updated": "2026-11-18T07:34:04.954994+00:00",
+  "last_updated": "2026-11-18T20:35:56.381978+00:00",
   "items": [
     {
-      "titolo": "GPT-6.2 Astra e Sol arrivano su ChatGPT Work e Codex",
-      "descrizione": "OpenAI lancia i suoi nuovi modelli, disponibili per gli abbonati su ChatGPT Work e Codex: le attività da gestire con GPT-6.2 Astra e Sol. The post GPT-6.2 Astra e Sol arrivano su ChatGPT Work e Codex appeared first on Pu",
-      "link": "https://www.punto-informatico.it/gpt-6-2-astra-sol/",
+      "titolo": "OpenAI annuncia un tool per rilevare i CSAM",
+      "descrizione": "OpenAI ha sviluppato un tool che rileva i contenuti pedopornografici e gli utenti che cercano di generarli rischiano la chiusura dell'account. The post OpenAI annuncia un tool per rilevare i CSAM appeared first on Punto",
+      "link": "https://www.punto-informatico.it/openai-annuncia-tool-rilevare-csam/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-18T07:11:47+00:00",
+      "data": "2026-11-18T17:48:24+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft Edge ora compila moduli e lavora tra più siti con Copilot",
-      "descrizione": "Edge for Business automatizza attività tra più siti e permette di personalizzare le pagine web.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n677370/microsoft-edge-for-business-copilot-cowork/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-18T06:10:00+00:00",
+      "titolo": "Copilot è il nuovo sistema operativo per lavoro",
+      "descrizione": "Microsoft ha annunciato la disponibilità del nuovo Copilot, l'integrazione delle applicazioni Office e altre novità durante la conferenza Ignite 2026. The post Copilot è il nuovo sistema operativo per lavoro appeared fir",
+      "link": "https://www.punto-informatico.it/copilot-nuovo-sistema-operativo-lavoro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-18T15:20:23+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google Gemini ora mostra cosa ricorda di te e te lo fa modificare",
-      "descrizione": "Gemini mostra cosa ricorda dalle chat e permette di correggere o cancellare le singole voci.",
-      "link": "https://www.hdblog.it/google/articoli/n677371/google-gemini-come-modificare-memoria/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-18T05:45:00+00:00",
+      "titolo": "Google Wallet comes to your iPhone – but without this feature",
+      "descrizione": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users – sorry, no tap-to-pay.",
+      "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-18T18:02:15+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-      "descrizione": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
-      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "titolo": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+      "descrizione": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
+      "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
       "fonte": "news – ZDNET",
-      "data": "2026-11-17T22:42:44+00:00",
+      "data": "2026-11-18T17:11:39+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second",
-      "descrizione": "Garlic LLM runs Alibaba’s Qwen3.5-9B on a jailbroken PlayStation 4’s GPU, fully offline, at 31 to 39 tokens per second.",
-      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-16T13:00:00+00:00",
-      "modello": "altri"
     }
   ]
 }
