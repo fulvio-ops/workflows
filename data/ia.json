@@ -1,37 +1,45 @@
 {
-  "last_updated": "2026-11-19T07:30:14.576716+00:00",
+  "last_updated": "2026-11-19T20:41:22.681222+00:00",
   "items": [
     {
-      "titolo": "OpenAI annuncia un tool per rilevare i CSAM",
-      "descrizione": "OpenAI ha sviluppato un tool che rileva i contenuti pedopornografici e gli utenti che cercano di generarli rischiano la chiusura dell'account. The post OpenAI annuncia un tool per rilevare i CSAM appeared first on Punto",
-      "link": "https://www.punto-informatico.it/openai-annuncia-tool-rilevare-csam/",
+      "titolo": "ChatGPT, arriva Live Dictation: la trascrizione vocale in tempo reale",
+      "descrizione": "ChatGPT lancia Live Dictation, il testo compare mentre si parla, e sparisce il limite di 10 minuti. Come funziona. The post ChatGPT, arriva Live Dictation: la trascrizione vocale in tempo reale appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/chatgpt-live-dictation-trascrizione-vocale-tempo-reale/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-18T17:48:24+00:00",
+      "data": "2026-11-19T17:08:19+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot è il nuovo sistema operativo per lavoro",
-      "descrizione": "Microsoft ha annunciato la disponibilità del nuovo Copilot, l'integrazione delle applicazioni Office e altre novità durante la conferenza Ignite 2026. The post Copilot è il nuovo sistema operativo per lavoro appeared fir",
-      "link": "https://www.punto-informatico.it/copilot-nuovo-sistema-operativo-lavoro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-18T15:20:23+00:00",
+      "titolo": "GitHub Copilot può usare Chrome ed Edge per testare i siti",
+      "descrizione": "Copilot può aprire pagine, premere pulsanti e compilare moduli tramite un’estensione.",
+      "link": "https://www.hdblog.it/google/articoli/n677514/github-copilot-browser-chrome-edge-test-web/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-19T16:50:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google AI Ultra è più ricco: ora include YouTube Premium Family",
-      "descrizione": "Google AI Ultra passa a YouTube Premium Family nei Paesi idonei, senza sovrapprezzo.",
-      "link": "https://www.hdblog.it/google/articoli/n677511/google-ai-ultra-youtube-premium-family/",
+      "titolo": "Gemini AI: ora si può bloccare l’addestramento e mantenere le chat",
+      "descrizione": "Gemini separa la cronologia delle chat dal consenso all’uso dei contenuti per addestrare l’AI.",
+      "link": "https://www.hdblog.it/google/articoli/n677542/google-gemini-cronologia-chat-addestramento-ai/",
       "fonte": "HDblog.it",
-      "data": "2026-11-19T06:25:00+00:00",
+      "data": "2026-11-19T17:30:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
-      "descrizione": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
-      "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-18T17:11:39+00:00",
+      "titolo": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "descrizione": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "fonte": "WIRED",
+      "data": "2026-11-19T12:00:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+      "descrizione": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-19T11:00:00+00:00",
+      "modello": "altri"
     }
   ]
 }
