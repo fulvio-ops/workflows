@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-11-19T20:41:18.539481+00:00",
+  "last_updated": "2026-11-20T07:21:15.429474+00:00",
   "items": [
+    {
+      "titolo": "Gemini su Mac: ora può usare le app e navigare sul web",
+      "descrizione": "L’assistente lavora in una finestra separata. Rilascio iniziale in inglese negli USA.",
+      "link": "https://www.hdblog.it/google/articoli/n677665/google-gemini-mac-computer-use-app-macos/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-20T06:05:00+00:00"
+    },
+    {
+      "titolo": "Digitale Terrestre: lo streaming rivoluziona l’intrattenimento",
+      "descrizione": "Che relazione c'è tra digitale terrestre e streaming? Scopri la formula che sta rivoluzionando l'intrattenimento gratuito in tutta Italia. The post Digitale Terrestre: lo streaming rivoluziona l’intrattenimento appeared",
+      "link": "https://www.punto-informatico.it/digitale-terrestre-streaming-rivoluziona-intrattenimento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-20T06:00:19+00:00"
+    },
+    {
+      "titolo": "Expedia Coupons: 50% Off",
+      "descrizione": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "fonte": "WIRED",
+      "data": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "titolo": "Ancestry Coupons│50% Off│November 2026",
+      "descrizione": "Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.",
+      "link": "https://www.wired.com/story/ancestry-coupon-codes/",
+      "fonte": "WIRED",
+      "data": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "titolo": "Driver NVIDIA, segnalate scritture anomale sugli SSD",
+      "descrizione": "Le segnalazioni riguardano i driver GeForce 621.14 e 621.24.",
+      "link": "https://www.hdblog.it/hardware/articoli/n677662/nvidia-driver-geforce-scritture-anomale-ssd/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-20T05:55:00+00:00"
+    },
+    {
+      "titolo": "Apple annuncia il Black Friday 2026: Gift Card fino a 240 euro e periodo di reso esteso",
+      "descrizione": "Per il Black Friday Apple ha deciso di puntare ancora una volta sulle Gift Card",
+      "link": "https://www.hdblog.it/smartphone/articoli/n677677/apple-annuncia-black-friday-2026-gift-card/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-20T05:50:00+00:00"
+    },
+    {
+      "titolo": "Canva ora permette di nascondere le funzioni di AI generativa",
+      "descrizione": "Due nuove opzioni, anche per chi usa il piano gratuito.",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n677653/canva-disattivare-ai-generativa-controlli/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-20T05:45:00+00:00"
+    },
+    {
+      "titolo": "One UI 9.5, il meteo Samsung potrebbe anticipare i viaggi",
+      "descrizione": "Nella beta per Galaxy S26 spunta una funzione che suggerisce il meteo della destinazione.",
+      "link": "https://www.hdblog.it/samsung/articoli/n677655/samsung-one-ui-9-5-meteo-destinazione-viaggio/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-20T05:35:00+00:00"
+    },
+    {
+      "titolo": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
+      "descrizione": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-19T21:30:00+00:00"
+    },
     {
       "titolo": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
       "descrizione": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
@@ -93,20 +156,6 @@
       "data": "2026-11-19T16:00:50+00:00"
     },
     {
-      "titolo": "Razr Flex si mostra dal vivo: il pieghevole Motorola sfida iPhone Duo e Galaxy Z Fold 8",
-      "descrizione": "Cosa sappiamo.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n677629/motorola-razr-flex-immagine-pieghevole-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-19T15:45:00+00:00"
-    },
-    {
-      "titolo": "Da USB a WiFi: vecchia stampante torna a nuova vita con Raspberry e pochi euro",
-      "descrizione": "+ CUPS. Risultato: niente più cavi",
-      "link": "https://www.hdblog.it/hardware/articoli/n677603/trasformare-stampante-usb-wi-fi-raspberry-pi-zero/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-19T15:40:00+00:00"
-    },
-    {
       "titolo": "Moige contro Meta e TikTok: rinvio a gennaio 2027",
       "descrizione": "Il Tribunale di Milano ha rinviato l'udienza al 21 gennaio, in attesa di valutare la norma che dovrebbe vietare l'uso dei social ai minori di 13 anni. The post Moige contro Meta e TikTok: rinvio a gennaio 2027 appeared f",
       "link": "https://www.punto-informatico.it/moige-contro-meta-tiktok-rinvio-gennaio-2027/",
@@ -114,60 +163,11 @@
       "data": "2026-11-19T15:36:07+00:00"
     },
     {
-      "titolo": "XPENG G9L, l'elettrica di lusso arriva in Europa: 591 km di autonomia e ricarica record",
-      "descrizione": "XPENG G9L debutta in Europa: SUV elettrico a sei o sette posti, fino a 591 km di autonomia, ricarica in 11,7 minuti e produzione prevista in Austria",
-      "link": "https://www.hdmotori.it/xpeng-g9l-autonomia-ricarica/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-19T15:00:04+00:00"
-    },
-    {
       "titolo": "Black Friday Amazon: la telecamera 2K di Tapo è a metà prezzo",
       "descrizione": "La telecamera Tapo C210 di TP-Link per la videosorveglianza degli ambienti indoor della casa è al prezzo minimo storico per il Black Friday. The post Black Friday Amazon: la telecamera 2K di Tapo è a metà prezzo appeared",
       "link": "https://www.punto-informatico.it/black-friday-amazon-telecamera-2k-tapo-meta-prezzo/",
       "fonte": "Punto Informatico",
       "data": "2026-11-19T14:59:41+00:00"
-    },
-    {
-      "titolo": "Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales",
-      "descrizione": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illicit sales.\"",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-19T14:00:00+00:00"
-    },
-    {
-      "titolo": "Black Friday: Xiaomi Smart Band 11, il più venduto è in sconto",
-      "descrizione": "Xiaomi Smart Band 11 con display AMOLED, monitoraggio della salute e autonomia fino a 21 giorni è in offerta per il Black Friday 2026. The post Black Friday: Xiaomi Smart Band 11, il più venduto è in sconto appeared firs",
-      "link": "https://www.punto-informatico.it/black-friday-xiaomi-smart-band-11-piu-venduto-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-19T13:10:55+00:00"
-    },
-    {
-      "titolo": "Pakistan undersea cable fault causes internet failure near Strait of Hormuz",
-      "descrizione": "Pakistan's telecommunications authority has confirmed that an undersea network cable fault is behind internet connectivity issues in the country, adding that Transworld Associates is looking into what caused the issue an",
-      "link": "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-19T12:30:00+00:00"
-    },
-    {
-      "titolo": "Agenti Ai alla sbarra: la California fa causa a OpenAI per gli incidenti",
-      "descrizione": "Per mettere alla prova un modello di intelligenza artificiale, OpenAI gli ha assegnato un test di cybersicurezza in un ambiente isolato. Nel luglio 2026 gli agenti hanno aggirato i controlli,...",
-      "link": "https://www.ilsole24ore.com/art/agenti-in-tribinale-california-fa-causa-openai-gli-incidenti-AJScBkJC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-19T12:01:00+00:00"
-    },
-    {
-      "titolo": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "descrizione": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "fonte": "WIRED",
-      "data": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "titolo": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
-      "descrizione": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-19T11:30:00+00:00"
     }
   ]
 }

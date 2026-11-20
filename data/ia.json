@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-19T20:41:22.681222+00:00",
+  "last_updated": "2026-11-20T07:21:19.377104+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, arriva Live Dictation: la trascrizione vocale in tempo reale",
-      "descrizione": "ChatGPT lancia Live Dictation, il testo compare mentre si parla, e sparisce il limite di 10 minuti. Come funziona. The post ChatGPT, arriva Live Dictation: la trascrizione vocale in tempo reale appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/chatgpt-live-dictation-trascrizione-vocale-tempo-reale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-19T17:08:19+00:00",
+      "titolo": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+      "descrizione": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-19T21:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini AI: ora si può bloccare l’addestramento e mantenere le chat",
-      "descrizione": "Gemini separa la cronologia delle chat dal consenso all’uso dei contenuti per addestrare l’AI.",
-      "link": "https://www.hdblog.it/google/articoli/n677542/google-gemini-cronologia-chat-addestramento-ai/",
+      "titolo": "Gemini su Mac: ora può usare le app e navigare sul web",
+      "descrizione": "L’assistente lavora in una finestra separata. Rilascio iniziale in inglese negli USA.",
+      "link": "https://www.hdblog.it/google/articoli/n677665/google-gemini-mac-computer-use-app-macos/",
       "fonte": "HDblog.it",
-      "data": "2026-11-19T17:30:00+00:00",
+      "data": "2026-11-20T06:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "descrizione": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "titolo": "What’s With All These Outages?",
+      "descrizione": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
       "fonte": "WIRED",
-      "data": "2026-11-19T12:00:00+00:00",
+      "data": "2026-11-19T21:57:01+00:00",
       "modello": "claude"
     },
     {
