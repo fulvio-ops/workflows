@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-21T07:14:40.727775+00:00",
+  "last_updated": "2026-11-21T19:20:08.276055+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Dots, parte il test per gli abbonati Plus",
-      "descrizione": "OpenAI testa Dots con alcuni utenti Plus e lo estende al piano Business Standard negli USA.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n677684/chatgpt-dots-plus-test-business-standard/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-20T15:40:00+00:00",
+      "titolo": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "descrizione": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-21T15:30:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Signal disattiva gli screenshot per bloccare Gemini e Siri AI",
-      "descrizione": "Signal ha sviluppato una funzionalità che impedisce a Gemini e Siri AI di leggere lo schermo, ma deve essere disattivata la cattura degli screenshot. The post Signal disattiva gli screenshot per bloccare Gemini e Siri AI",
-      "link": "https://www.punto-informatico.it/signal-disattiva-screenshot-boccare-gemini-siri-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-20T14:26:28+00:00",
+      "titolo": "Signal bloccherà gli screenshot per tenere Gemini e Siri AI fuori dalle chat",
+      "descrizione": "Signal limiterà la lettura delle chat da parte degli assistenti AI su Android e iOS 27.",
+      "link": "https://www.hdblog.it/google/articoli/n677785/signal-blocco-screenshot-gemini-siri-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-21T09:35:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
-      "descrizione": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-20T16:30:08+00:00",
+      "titolo": "Claude e l’ipotesi di Riemann, un matematico annuncia una prova da verificare",
+      "descrizione": "Levent Alpöge dice di aver trovato una dimostrazione con Claude. Mancano verifiche indipendenti.",
+      "link": "https://www.hdblog.it/scienza/articoli/n677799/claude-ipotesi-riemann-prova-levent-alpoge/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-21T10:25:00+00:00",
       "modello": "claude"
     },
     {
