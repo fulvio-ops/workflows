@@ -1,45 +1,37 @@
 {
-  "last_updated": "2026-11-22T06:55:13.147388+00:00",
+  "last_updated": "2026-11-22T19:44:23.571536+00:00",
   "items": [
     {
-      "titolo": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
-      "descrizione": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-21T15:30:00+00:00",
+      "titolo": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+      "descrizione": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene us",
+      "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-22T08:30:07+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-      "descrizione": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-17T23:14:05+00:00",
+      "titolo": "Copilot, da gennaio i link aziendali si apriranno dentro l’app",
+      "descrizione": "Da gennaio 2027 Edge si aprirà accanto alla chat anche per gli utenti aziendali.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n677797/microsoft-copilot-edge-browser-integrato-aziende-gennaio-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T07:35:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Signal bloccherà gli screenshot per tenere Gemini e Siri AI fuori dalle chat",
-      "descrizione": "Signal limiterà la lettura delle chat da parte degli assistenti AI su Android e iOS 27.",
-      "link": "https://www.hdblog.it/google/articoli/n677785/signal-blocco-screenshot-gemini-siri-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T09:35:00+00:00",
+      "titolo": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
+      "descrizione": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
+      "link": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-19T17:12:31+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude e l’ipotesi di Riemann, un matematico annuncia una prova da verificare",
-      "descrizione": "Levent Alpöge dice di aver trovato una dimostrazione con Claude. Mancano verifiche indipendenti.",
-      "link": "https://www.hdblog.it/scienza/articoli/n677799/claude-ipotesi-riemann-prova-levent-alpoge/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T10:25:00+00:00",
+      "titolo": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+      "descrizione": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene us",
+      "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-22T08:30:07+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
-      "descrizione": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-20T12:30:00+00:00",
-      "modello": "altri"
     }
   ]
 }

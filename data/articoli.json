@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-11-22T06:55:08.448136+00:00",
+  "last_updated": "2026-11-22T19:44:20.319638+00:00",
   "items": [
+    {
+      "titolo": "GTA 6, 3,79 miliardi di dollari al debutto, ma Rockstar vive una bufera interna",
+      "descrizione": "Take-Two stima 3,79 miliardi al debutto di GTA 6. In Rockstar North si vota sul sindacato.",
+      "link": "https://www.hdblog.it/games/articoli/n677858/gta-6-vendite-primo-giorno-rockstar-sindacato/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T15:35:00+00:00"
+    },
+    {
+      "titolo": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
+      "descrizione": "This is one of the most complicated games yet to be played using Neuralink, with the patient using imagined movements like tapping a finger or sliding a hand to simulate commands on the PS5 controller.",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-22T14:49:48+00:00"
+    },
+    {
+      "titolo": "POCO X8 in offerta per il Black Friday di Amazon: tanta autonomia e un ottimo prezzo",
+      "descrizione": "Il POCO X8 è in offerta su Amazon e diventa un best buy nella fascia media per chi è alla ricerca di un mid-range con super autonomia.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n677868/poco-x8-offerta-amazon-black-friday-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T13:55:00+00:00"
+    },
+    {
+      "titolo": "Crisi dell’auto, il presidente di Confindustria Orsini: «Ce la siamo cercata»",
+      "descrizione": "A Bologna il leader di Confindustria difende la Motor Valley e accusa l'Europa di aver frenato lo sviluppo con scelte ideologiche.",
+      "link": "https://www.hdmotori.it/crisi-auto-confindustria-orsini/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T12:00:26+00:00"
+    },
+    {
+      "titolo": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+      "descrizione": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-22T12:00:00+00:00"
+    },
+    {
+      "titolo": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "descrizione": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "fonte": "WIRED",
+      "data": "2026-11-22T12:00:00+00:00"
+    },
+    {
+      "titolo": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "descrizione": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "fonte": "WIRED",
+      "data": "2026-11-22T11:30:00+00:00"
+    },
+    {
+      "titolo": "Dev squeezes an AI language model onto a floppy for 486DX and Pentium PC stalwarts",
+      "descrizione": "An inspired developer has shoehorned a language model onto a floppy disk created especially for 486DX and Pentium PC users running DOS.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-squeezes-an-ai-language-model-onto-a-floppy-for-486dx-and-pentium-pc-stalwarts-tiny-2-1-needs-540kb-of-memory-and-speaks-via-pc-speaker-is-a-question-answering-transformer-with-367k-parameters",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-22T11:00:00+00:00"
+    },
+    {
+      "titolo": "Banks Have Had It Up to Here With Your AI Agent",
+      "descrizione": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "fonte": "WIRED",
+      "data": "2026-11-22T11:00:00+00:00"
+    },
+    {
+      "titolo": "Mercedes fa chiarezza sulla crisi interna e sulla chiusura degli stabilimenti",
+      "descrizione": "Il costruttore di Stoccarda conferma il congelamento degli investimenti in Germania, ma precisa che nessuna chiusura è stata ancora decisa.",
+      "link": "https://www.hdmotori.it/mercedes-chiarezza-crisi-stabilimenti/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T10:00:36+00:00"
+    },
+    {
+      "titolo": "Ferrari 296 Challenge Stradale e Challenge Evo: aerodinamica e prestazioni senza compromessi",
+      "descrizione": "Ferrari rafforza il legame tra strada e pista con due nuove vetture sviluppate attorno al V6 biturbo da 670 e 700 CV. La Stradale trasferisce su strada la filosofia delle competizioni, mentre la...",
+      "link": "https://www.hdmotori.it/ferrari-296-challenge-stradale-e-challenge-evo-aerodinamica-e-prestazioni-senza-compromessi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T08:30:10+00:00"
+    },
+    {
+      "titolo": "Wangiri, la truffa telefonica non dà tregua: nuova raffica di squilli, i prefissi da evitare",
+      "descrizione": "La truffa del Wangiri evolve con nuove chiamate dall'estero",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n677490/wangiri-truffa-telefonica-prefissi-da-evitare/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T07:55:00+00:00"
+    },
+    {
+      "titolo": "Milano AutoClassica, Alfa Romeo e Ferrari da leggenda: le rarità che hanno fatto la storia",
+      "descrizione": "Milano AutoClassica 2026 celebra i 100 anni di Touring Superleggera e i 75 della Scuderia Sant Ambroeus con Alfa Romeo, Ferrari e Maserati rarissime",
+      "link": "https://www.hdmotori.it/milano-autoclassica-alfa-romeo-ferrari/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-22T07:00:25+00:00"
+    },
     {
       "titolo": "Fino a 800€ in Buoni Regalo Amazon con Crédit Agricole: ecco come",
       "descrizione": "La nuova promozione di Crédit Agricole consente ai nuovi clienti di ottenere [affiliate_link link_id=”559″]fino a 800 euro in Buoni Regalo Amazon[/affiliate_link]. Al centro dell’iniziativa vi è il conto corrente online",
@@ -77,97 +168,6 @@
       "link": "https://www.hdblog.it/scienza/articoli/n677799/claude-ipotesi-riemann-prova-levent-alpoge/",
       "fonte": "HDblog.it",
       "data": "2026-11-21T10:25:00+00:00"
-    },
-    {
-      "titolo": "Ferrari F40 taglia la strada ad un autobus: il video di un disastro sfiorato",
-      "descrizione": "A Hong Kong il conducente di una Ferrari F40 si immette su Repulse Bay Road senza dare la precedenza a un bus. L'autista frena all'ultimo ed evita il peggio, feriti lievi.",
-      "link": "https://www.hdmotori.it/ferrari-f40-sfiora-incidente-autobus-hong-kong-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T10:00:31+00:00"
-    },
-    {
-      "titolo": "Telecamere di sicurezza e privacy: come scegliere per evitare di essere spiati",
-      "descrizione": "Da chi, come e quanto possiamo essere osservati",
-      "link": "https://www.hdblog.it/domotica/articoli/n673445/sicurezza-telecamera-cosa-sapere-guida/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T09:55:00+00:00"
-    },
-    {
-      "titolo": "HDshopping: i prodotti più venduti nella settimana del Black Friday",
-      "descrizione": "Pixel 10a, Xiaomi 17T e tanti altri prodotti tech.",
-      "link": "https://www.hdblog.it/lg/articoli/n677764/hdshopping-top-10-black-friday-xiaomi-google/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T08:55:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi Mijia, il nuovo spazzolino segnala dove non sei passato",
-      "descrizione": "Un anello LED indica le zone da ripassare. In Cina parte da 175 yuan.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n677796/xiaomi-mijia-sonic-sweep-2-spazzolino-led/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T08:40:00+00:00"
-    },
-    {
-      "titolo": "Matematico di Anthropic annuncia la dimostrazione dell’ipotesi di Riemann con l’IA",
-      "descrizione": "All’indomani dell’ esordio in Borsa , Anthropic potrebbe mettere a segno un altro importante risultato, questa volta sul fronte scientifico. Il matematico Levent Alpoge, che lavora per l’azienda di intelligenza...",
-      "link": "https://www.ilsole24ore.com/art/matematico-anthropic-annuncia-dimostrazione-dell-ipotesi-riemann-l-ia-AJi79GOC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-21T08:33:50+00:00"
-    },
-    {
-      "titolo": "Milano AutoClassica 2026, un viaggio tra le leggende: le meraviglie da non perdere",
-      "descrizione": "",
-      "link": "https://www.hdmotori.it/milano-autoclassica-2026-modelli-protagonisti/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T08:00:58+00:00"
-    },
-    {
-      "titolo": "Penpot, l'alternativa open source a Canva e Figma: come utilizzarla gratuitamente",
-      "descrizione": "Come utilizzare gratuitamente Penpot,la piattaforma per la grafica open source",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n677425/penpot-open-source-gratis-canva-figma/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T07:55:00+00:00"
-    },
-    {
-      "titolo": "iPhone 18 e iPhone Air 2, trapelano i modellini che anticipano il design: cosa cambia",
-      "descrizione": "iPhone 18 decisamente familiare, ma sull'Air c'è una novità importante.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n677803/iphone-18-air-2-dummy-modellini-design-novita-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T07:05:00+00:00"
-    },
-    {
-      "titolo": "Sembra un'auto, ma si guida pedalando: arriva il triciclo elettrico che sfida le citycar",
-      "descrizione": "Il nuovo velomobile a pedalata assistita firmato dalla startup francese Valbera unisce abitacolo chiuso, 170 litri di bagagliaio e spazio per il seggiolino bambini",
-      "link": "https://www.hdmotori.it/valbera-tripod-velomobile-elettrico-tre-ruote-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T07:00:49+00:00"
-    },
-    {
-      "titolo": "Tesla Assisted Driving approvato in Italia: via libera alla guida assistita avanzata",
-      "descrizione": "Il Mit concede l'omologazione provvisoria al sistema di Elon Musk: l'Italia è il dodicesimo Paese europeo ad autorizzare la tecnologia verso il voto Ue di dicembre.",
-      "link": "https://www.hdmotori.it/tesla-assisted-driving-approvato-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T06:30:24+00:00"
-    },
-    {
-      "titolo": "LG abbatte i prezzi dei suoi Smart TV su eBay",
-      "descrizione": "LG ha appena abbattuto i prezzi dei suoi smart tv all'interno del suo store ufficiale su eBay: approfittane prima che finiscano tutti. The post LG abbatte i prezzi dei suoi Smart TV su eBay appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/lg-abbatte-prezzi-smart-tv-ebay/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-21T06:00:21+00:00"
-    },
-    {
-      "titolo": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-      "descrizione": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-      "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "fonte": "WIRED",
-      "data": "2026-11-20T19:52:21+00:00"
-    },
-    {
-      "titolo": "Per una faccina 3D su Android servono 6 GB di RAM e 10 GB liberi",
-      "descrizione": "Google ha pubblicato i requisiti per le emoji 3D Noto su Android: Android 17, almeno 6 GB di RAM, 128 GB di memoria e 10 GB liberi. The post Per una faccina 3D su Android servono 6 GB di RAM e 10 GB liberi appeared first",
-      "link": "https://www.punto-informatico.it/per-una-faccina-3d-android-servono-6-gb-ram-10-gb-liberi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-20T18:29:03+00:00"
     }
   ]
 }
