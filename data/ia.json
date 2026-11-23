@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-23T07:44:22.840108+00:00",
+  "last_updated": "2026-11-23T23:56:59.592795+00:00",
   "items": [
     {
-      "titolo": "Black Friday, come capire se uno sconto è davvero un affare",
-      "descrizione": "Dalle cuffie wireless alla friggitrice ad aria, ChatGPT e Alexa per lo Shopping aiutano a scegliere i modelli e a confrontare le offerte. Per capire se lo sconto del Black Friday conviene davvero, servono anche lo storic",
-      "link": "https://www.ilsole24ore.com/art/black-friday-come-capire-se-sconto-e-davvero-affare-AJyT1BIC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-23T06:19:00+00:00",
+      "titolo": "Microsoft conferma: perse alcune email dopo il blackout di Outlook",
+      "descrizione": "Microsoft pubblica il rapporto sul blackout di novembre: email non recapitate su Outlook, problemi a Defender e Purview e un piano di interventi. The post Microsoft conferma: perse alcune email dopo il blackout di Outloo",
+      "link": "https://www.punto-informatico.it/microsoft-conferma-perse-alcune-email-dopo-blackout-outlook/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-23T16:52:56+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini ora crea GIF animate e cambia la fotocamera su Android",
-      "descrizione": "Gemini comincia a generare GIF animate e rinnova la fotocamera integrata su Android.",
-      "link": "https://www.hdblog.it/google/articoli/n677859/google-gemini-gif-fotocamera-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-23T05:55:00+00:00",
+      "titolo": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
+      "descrizione": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
+      "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-23T13:29:04+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
-      "descrizione": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene us",
-      "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-22T08:30:07+00:00",
+      "titolo": "Claude can ship code for you now – how to try it (if you dare)",
+      "descrizione": "Would you let a few Claude agents review and ship your code for you?",
+      "link": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-23T20:00:00+00:00",
       "modello": "claude"
     }
   ]
