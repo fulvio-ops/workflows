@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-11-22T19:44:20.319638+00:00",
+  "last_updated": "2026-11-23T07:44:19.262427+00:00",
   "items": [
+    {
+      "titolo": "App IO e malware Mirax: come riconoscere il falso aggiornamento",
+      "descrizione": "Attenzione al falso sito di Agenzia delle Entrate, propone un APK che installa il malware Mirax su Android: come riconoscerlo ed evitarlo. The post App IO e malware Mirax: come riconoscere il falso aggiornamento appeared",
+      "link": "https://www.punto-informatico.it/app-io-malware-mirax-come-riconoscere-falso-aggiornamento/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-23T07:32:11+00:00"
+    },
+    {
+      "titolo": "Digitale Terrestre: tantissime novità all’interno della numerazione canali",
+      "descrizione": "Per tutti coloro che sfruttano l'offerta di intrattenimento della piattaforma digitale terrestre, ecco tutte le novità all'interno della lista canali. The post Digitale Terrestre: tantissime novità all’interno della nume",
+      "link": "https://www.punto-informatico.it/digitale-terrestre-tantissime-novita-numerazione-canali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-23T07:27:54+00:00"
+    },
+    {
+      "titolo": "IXI, gli occhiali con lenti che si regolano da sole per vicino e lontano",
+      "descrizione": "IXI prova lenti che cambiano correzione da vicino a lontano con sensori a infrarossi.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n677877/ixi-occhiali-lenti-autofocus-cristalli-liquidi/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-23T06:35:00+00:00"
+    },
+    {
+      "titolo": "Black Friday, come capire se uno sconto è davvero un affare",
+      "descrizione": "Dalle cuffie wireless alla friggitrice ad aria, ChatGPT e Alexa per lo Shopping aiutano a scegliere i modelli e a confrontare le offerte. Per capire se lo sconto del Black Friday conviene davvero, servono anche lo storic",
+      "link": "https://www.ilsole24ore.com/art/black-friday-come-capire-se-sconto-e-davvero-affare-AJyT1BIC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-23T06:19:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi, il nuovo purificatore Mijia eroga fino a 23.750 litri d’aria al minuto",
+      "descrizione": "Il nuovo Xiaomi Mijia 2 Ultra eroga fino a 23.750 litri di aria pulita al minuto.",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n677856/xiaomi-mijia-air-purifier-2-ultra/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-23T06:10:00+00:00"
+    },
+    {
+      "titolo": "Gemini ora crea GIF animate e cambia la fotocamera su Android",
+      "descrizione": "Gemini comincia a generare GIF animate e rinnova la fotocamera integrata su Android.",
+      "link": "https://www.hdblog.it/google/articoli/n677859/google-gemini-gif-fotocamera-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-23T05:55:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA GeForce, un hotfix ferma le scritture anomale sugli SSD",
+      "descrizione": "Il GeForce Hotfix 621.35 corregge le scritture anomale sull’SSD su Windows 10 e 11.",
+      "link": "https://www.hdblog.it/hardware/articoli/n677854/nvidia-geforce-hotfix-62135-scritture-ssd/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-23T05:45:00+00:00"
+    },
+    {
+      "titolo": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+      "descrizione": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+      "link": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-22T20:03:52+00:00"
+    },
     {
       "titolo": "GTA 6, 3,79 miliardi di dollari al debutto, ma Rockstar vive una bufera interna",
       "descrizione": "Take-Two stima 3,79 miliardi al debutto di GTA 6. In Rockstar North si vota sul sindacato.",
@@ -72,27 +128,6 @@
       "data": "2026-11-22T10:00:36+00:00"
     },
     {
-      "titolo": "Ferrari 296 Challenge Stradale e Challenge Evo: aerodinamica e prestazioni senza compromessi",
-      "descrizione": "Ferrari rafforza il legame tra strada e pista con due nuove vetture sviluppate attorno al V6 biturbo da 670 e 700 CV. La Stradale trasferisce su strada la filosofia delle competizioni, mentre la...",
-      "link": "https://www.hdmotori.it/ferrari-296-challenge-stradale-e-challenge-evo-aerodinamica-e-prestazioni-senza-compromessi/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-22T08:30:10+00:00"
-    },
-    {
-      "titolo": "Wangiri, la truffa telefonica non dà tregua: nuova raffica di squilli, i prefissi da evitare",
-      "descrizione": "La truffa del Wangiri evolve con nuove chiamate dall'estero",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n677490/wangiri-truffa-telefonica-prefissi-da-evitare/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-22T07:55:00+00:00"
-    },
-    {
-      "titolo": "Milano AutoClassica, Alfa Romeo e Ferrari da leggenda: le rarità che hanno fatto la storia",
-      "descrizione": "Milano AutoClassica 2026 celebra i 100 anni di Touring Superleggera e i 75 della Scuderia Sant Ambroeus con Alfa Romeo, Ferrari e Maserati rarissime",
-      "link": "https://www.hdmotori.it/milano-autoclassica-alfa-romeo-ferrari/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-22T07:00:25+00:00"
-    },
-    {
       "titolo": "Fino a 800€ in Buoni Regalo Amazon con Crédit Agricole: ecco come",
       "descrizione": "La nuova promozione di Crédit Agricole consente ai nuovi clienti di ottenere [affiliate_link link_id=”559″]fino a 800 euro in Buoni Regalo Amazon[/affiliate_link]. Al centro dell’iniziativa vi è il conto corrente online",
       "link": "https://www.punto-informatico.it/fintech/conti/800-euro-buoni-regalo-amazon-credit-agricole-promozione/",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/tassa-aziende-usa-costruiscono-data-center-estero/",
       "fonte": "Punto Informatico",
       "data": "2026-11-21T15:15:00+00:00"
-    },
-    {
-      "titolo": "Batteria da 8340mAh e Snapdragon 6s: REDMI Note 17 Pro 5G",
-      "descrizione": "Oggi puoi acquistare su Amazon il REDMI Note 17 Pro 5G da 256 GB scontato del 22% e potrai goderti una batteria esagerata e ottime prestazioni. The post Batteria da 8340mAh e Snapdragon 6s: REDMI Note 17 Pro 5G appeared",
-      "link": "https://www.punto-informatico.it/batteria-da-8340mah-snapdragon-6s-redmi-note-17-pro-5g/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-21T14:53:17+00:00"
-    },
-    {
-      "titolo": "NVIDIA: nuove indagini della California e della SEC",
-      "descrizione": "Il Procuratore Generale della California e la SEC hanno avviato indagini per valutare se NVIDIA abbia ingannato gli investitori con pratiche illegali. The post NVIDIA: nuove indagini della California e della SEC appeared",
-      "link": "https://www.punto-informatico.it/nvidia-nuove-indagini-california-sec/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-21T12:20:44+00:00"
-    },
-    {
-      "titolo": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
-      "descrizione": "Tufa Labs’ tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-21T11:30:00+00:00"
-    },
-    {
-      "titolo": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "descrizione": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-      "link": "https://www.wired.com/review/sony-bravia-9-ii/",
-      "fonte": "WIRED",
-      "data": "2026-11-21T11:30:00+00:00"
-    },
-    {
-      "titolo": "Claude e l’ipotesi di Riemann, un matematico annuncia una prova da verificare",
-      "descrizione": "Levent Alpöge dice di aver trovato una dimostrazione con Claude. Mancano verifiche indipendenti.",
-      "link": "https://www.hdblog.it/scienza/articoli/n677799/claude-ipotesi-riemann-prova-levent-alpoge/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-21T10:25:00+00:00"
     }
   ]
 }

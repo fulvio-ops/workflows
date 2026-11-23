@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-22T19:44:23.571536+00:00",
+  "last_updated": "2026-11-23T07:44:22.840108+00:00",
   "items": [
     {
-      "titolo": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
-      "descrizione": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene us",
-      "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-22T08:30:07+00:00",
+      "titolo": "Black Friday, come capire se uno sconto è davvero un affare",
+      "descrizione": "Dalle cuffie wireless alla friggitrice ad aria, ChatGPT e Alexa per lo Shopping aiutano a scegliere i modelli e a confrontare le offerte. Per capire se lo sconto del Black Friday conviene davvero, servono anche lo storic",
+      "link": "https://www.ilsole24ore.com/art/black-friday-come-capire-se-sconto-e-davvero-affare-AJyT1BIC",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-11-23T06:19:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot, da gennaio i link aziendali si apriranno dentro l’app",
-      "descrizione": "Da gennaio 2027 Edge si aprirà accanto alla chat anche per gli utenti aziendali.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n677797/microsoft-copilot-edge-browser-integrato-aziende-gennaio-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-22T07:35:00+00:00",
+      "titolo": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+      "descrizione": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-17T23:14:05+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
-      "descrizione": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
-      "link": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-19T17:12:31+00:00",
+      "titolo": "Gemini ora crea GIF animate e cambia la fotocamera su Android",
+      "descrizione": "Gemini comincia a generare GIF animate e rinnova la fotocamera integrata su Android.",
+      "link": "https://www.hdblog.it/google/articoli/n677859/google-gemini-gif-fotocamera-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-23T05:55:00+00:00",
       "modello": "gemini"
     },
     {
