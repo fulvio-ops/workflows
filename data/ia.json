@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T09:58:08.718546+00:00",
+  "last_updated": "2026-11-24T22:29:47.246476+00:00",
   "items": [
     {
-      "titolo": "OpenAI annuncia Shirudo per Linux e GPT-6.2 Sol per Chat",
-      "descrizione": "Shirudo, sviluppato da OpenAI insieme a Cisco, permette di proteggere un sistema Linux durante l'applicazione delle patch, senza interrompere i servizi. The post OpenAI annuncia Shirudo per Linux e GPT-6.2 Sol per Chat a",
-      "link": "https://www.punto-informatico.it/openai-shirudo-linux-gpt-6-2-sol-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-24T08:20:22+00:00",
+      "titolo": "Saudi OpenAI eavesdropper who bugged company office had hundreds of private recordings",
+      "descrizione": "Prosecutors found dozens of recordings of OpenAI meetings and conversations recorded from a covert listening device inside one of the company's conference rooms.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-24T16:30:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "AI Mode in Search può accedere a Google Wallet e Drive",
-      "descrizione": "Gli utenti possono collegare Google Wallet, Drive e l'app Gemini ad AI Mode in Search per ottenere risposte più personalizzate (non ancora in Italia). The post AI Mode in Search può accedere a Google Wallet e Drive appea",
-      "link": "https://www.punto-informatico.it/ai-mode-search-google-wallet-drive/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-24T09:22:41+00:00",
+      "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+      "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+      "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-24T20:38:08+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude cambia faccia su Android con Material 3 Expressive",
-      "descrizione": "Claude per Android si aggiorna con una barra di navigazione in basso e un’interfaccia ispirata a Material 3 Expressive.",
-      "link": "https://www.hdblog.it/android/articoli/n678047/claude-android-material-3-expressive-nuova-interfaccia/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T08:35:00+00:00",
+      "titolo": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims",
+      "descrizione": "Researchers are still looking for ways to contain and control unreleased models, but one source said that these could trick human testers successfully.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-11-24T21:00:00+00:00",
       "modello": "claude"
     }
   ]
