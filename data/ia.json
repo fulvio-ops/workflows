@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-23T23:56:59.592795+00:00",
+  "last_updated": "2026-11-24T09:58:08.718546+00:00",
   "items": [
     {
-      "titolo": "Microsoft conferma: perse alcune email dopo il blackout di Outlook",
-      "descrizione": "Microsoft pubblica il rapporto sul blackout di novembre: email non recapitate su Outlook, problemi a Defender e Purview e un piano di interventi. The post Microsoft conferma: perse alcune email dopo il blackout di Outloo",
-      "link": "https://www.punto-informatico.it/microsoft-conferma-perse-alcune-email-dopo-blackout-outlook/",
+      "titolo": "OpenAI annuncia Shirudo per Linux e GPT-6.2 Sol per Chat",
+      "descrizione": "Shirudo, sviluppato da OpenAI insieme a Cisco, permette di proteggere un sistema Linux durante l'applicazione delle patch, senza interrompere i servizi. The post OpenAI annuncia Shirudo per Linux e GPT-6.2 Sol per Chat a",
+      "link": "https://www.punto-informatico.it/openai-shirudo-linux-gpt-6-2-sol-chat/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-23T16:52:56+00:00",
+      "data": "2026-11-24T08:20:22+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
-      "descrizione": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
-      "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-23T13:29:04+00:00",
+      "titolo": "AI Mode in Search può accedere a Google Wallet e Drive",
+      "descrizione": "Gli utenti possono collegare Google Wallet, Drive e l'app Gemini ad AI Mode in Search per ottenere risposte più personalizzate (non ancora in Italia). The post AI Mode in Search può accedere a Google Wallet e Drive appea",
+      "link": "https://www.punto-informatico.it/ai-mode-search-google-wallet-drive/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-24T09:22:41+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude can ship code for you now – how to try it (if you dare)",
-      "descrizione": "Would you let a few Claude agents review and ship your code for you?",
-      "link": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-23T20:00:00+00:00",
+      "titolo": "Claude cambia faccia su Android con Material 3 Expressive",
+      "descrizione": "Claude per Android si aggiorna con una barra di navigazione in basso e un’interfaccia ispirata a Material 3 Expressive.",
+      "link": "https://www.hdblog.it/android/articoli/n678047/claude-android-material-3-expressive-nuova-interfaccia/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-24T08:35:00+00:00",
       "modello": "claude"
     }
   ]
