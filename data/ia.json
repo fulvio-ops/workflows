@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-25T08:40:54.462775+00:00",
+  "last_updated": "2026-11-25T21:44:38.781346+00:00",
   "items": [
     {
-      "titolo": "Nvidia, Huang si scusa con i dipendenti: \"Sono in terapia, ho commesso errori terribili\"",
-      "descrizione": "Jensen Huang ha chiesto scusa ai dipendenti di Nvidi",
-      "link": "https://www.hdblog.it/nvidia/articoli/n678168/nvidia-jensen-huang-si-scusa-errori-terribili/",
+      "titolo": "OpenAI, nuove accuse sulle registrazioni delle riunioni interne",
+      "descrizione": "La procura USA riferisce di decine di conversazioni registrate. La difesa contesta le accuse.",
+      "link": "https://www.hdblog.it/internet/articoli/n678155/openai-accuse-registrazioni-riunioni-interne/",
       "fonte": "HDblog.it",
-      "data": "2026-11-25T06:10:00+00:00",
+      "data": "2026-11-25T16:40:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
-      "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
-      "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-24T20:38:08+00:00",
+      "titolo": "Flashcard di Gemini Notebook con immagini, cronometro e promemoria",
+      "descrizione": "Gemini Notebook lancia tre novità nelle flashcard: immagini dai documenti, cronometro per le sessioni di studio e promemoria sull'app mobile. The post Flashcard di Gemini Notebook con immagini, cronometro e promemoria ap",
+      "link": "https://www.punto-informatico.it/flashcard-gemini-notebook-immagini-timer-promemoria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-25T14:30:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Artifacts diventano app desktop per Windows e macOS",
-      "descrizione": "Gli Artifacts di Claude possono essere trasformati in applicazioni desktop installabili: la novità è già disponibile in beta per tutti. The post Claude Artifacts diventano app desktop per Windows e macOS appeared first o",
-      "link": "https://www.punto-informatico.it/claude-artifacts-app-desktop-windows-macos/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-25T07:05:22+00:00",
+      "titolo": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+      "descrizione": "Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.",
+      "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-25T18:54:05+00:00",
       "modello": "claude"
     }
   ]
