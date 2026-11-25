@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-11-24T22:29:44.992365+00:00",
+  "last_updated": "2026-11-25T08:40:49.243013+00:00",
   "items": [
+    {
+      "titolo": "Jensen Huang nega l’intervento in suo favore di Donald Trump",
+      "descrizione": "Jensen Huang ha negato che Donald Trump abbia influenzato la decisione del consiglio di amministrazione di reintegrarlo alla guida di NVIDIA. The post Jensen Huang nega l’intervento in suo favore di Donald Trump appeared",
+      "link": "https://www.punto-informatico.it/jensen-huang-nega-intervento-donald-trump/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-25T08:39:00+00:00"
+    },
+    {
+      "titolo": "Mega leak da 2 miliardi di credenziali: esposti account e password",
+      "descrizione": "Due miliardi di credenziali accessibili in un database pubblico: tra i dati anche username e password utili per attacchi mirati e phishing. The post Mega leak da 2 miliardi di credenziali: esposti account e password appe",
+      "link": "https://www.punto-informatico.it/mega-leak-2-miliardi-credenziali-esposti-account-password/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-25T08:15:42+00:00"
+    },
+    {
+      "titolo": "Ban totale per la musica AI su Tidal: stop dal 9 dicembre",
+      "descrizione": "Il 43% delle canzoni distribuite su Tidal è stato generato dall'AI, la piattaforma reagisce con una rimozione totale, senza eccezioni. The post Ban totale per la musica AI su Tidal: stop dal 9 dicembre appeared first on",
+      "link": "https://www.punto-informatico.it/ban-totale-musica-ai-tidal/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-25T07:40:45+00:00"
+    },
+    {
+      "titolo": "WhatsApp, su Android stanno arrivando gli sticker animati con audio: come funzionano",
+      "descrizione": "WhatsApp ha iniziato a distribuire su Android gli sticker sonori",
+      "link": "https://www.hdblog.it/smartphone/articoli/n678194/whatsapp-sticker-animati-audio-android/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T07:35:00+00:00"
+    },
+    {
+      "titolo": "Google Home, perché alcune funzioni delle videocamere Nest non sono disponibili",
+      "descrizione": "Google chiarisce i dubbi dei proprietari di videocamere e videocitofoni Nest in vista della chiusura dell'app. Gli utenti possono completare subito la migrazione oppure attendere il trasferimento...",
+      "link": "https://www.hdblog.it/google/articoli/n678189/google-nest-videocamere-problemi-home-funzioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T07:25:00+00:00"
+    },
+    {
+      "titolo": "I costruttori giapponesi si alleano contro la Cina: standard comuni per abbattere i costi",
+      "descrizione": "Le quattordici Case della JAMA unificano gli standard su acciaio, plastiche e cablaggi per tagliare i costi e accelerare su elettrico e software.",
+      "link": "https://www.hdmotori.it/costruttori-giapponesi-standard-comuni/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T07:00:34+00:00"
+    },
+    {
+      "titolo": "Black Friday, la VPN diventa un alleato per gli acquisti online: Bitdefender Ultimate Security a 59,99 euro",
+      "descrizione": "Con il Black Friday, Bitdefender Ultimate Security è in offerta speciale. Proteggi fino a 5 dispositivi con VPN illimitata, antivirus avanzato, Scam Protection Pro contro le truffe online e strumenti...",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n677319/black-friday-la-vpn-diventa-un-alleato-per-gli-acquisti-online-bitdefender-ultimate-security-a-5999-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T06:30:00+00:00"
+    },
+    {
+      "titolo": "Amazon compra la tecnologia di Decart per accelerare l’IA nel cloud",
+      "descrizione": "Amazon vuole acquisire la tecnologia Decart per velocizzare i modelli di IA nel cloud.",
+      "link": "https://www.hdblog.it/amazon/articoli/n678141/amazon-decart-aws-ottimizzazione-ia-trainium/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T06:25:00+00:00"
+    },
+    {
+      "titolo": "Migliori VPN per Android 2026: App VPN per Tablet e Smartphone",
+      "descrizione": "Usare una VPN Android è davvero semplice e porta grandi vantaggi durante la navigazione. Vediamo le caratteristiche e come installare le migliori. The post Migliori VPN per Android 2026: App VPN per Tablet e Smartphone a",
+      "link": "https://www.punto-informatico.it/vpn-android/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-25T06:18:26+00:00"
+    },
+    {
+      "titolo": "Nvidia, Huang si scusa con i dipendenti: \"Sono in terapia, ho commesso errori terribili\"",
+      "descrizione": "Jensen Huang ha chiesto scusa ai dipendenti di Nvidi",
+      "link": "https://www.hdblog.it/nvidia/articoli/n678168/nvidia-jensen-huang-si-scusa-errori-terribili/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T06:10:00+00:00"
+    },
+    {
+      "titolo": "Claude ora trasforma gli Artifacts in app per Mac e Windows",
+      "descrizione": "Gli Artifacts di Claude diventano app desktop con icona, finestra e permessi propri. La beta arriva su tutti i piani.",
+      "link": "https://www.hdblog.it/windows/articoli/n678178/claude-artifacts-app-desktop-mac-windows/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T06:05:00+00:00"
+    },
+    {
+      "titolo": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "descrizione": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "link": "https://www.wired.com/story/noom-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-11-25T06:00:00+00:00"
+    },
+    {
+      "titolo": "Google Maps prepara uno stile ad alta visibilità per navigare",
+      "descrizione": "Nell’app Android è emersa una mappa più contrastata, compatibile con i temi chiaro e scuro.",
+      "link": "https://www.hdblog.it/google/articoli/n678159/google-maps-alta-visibilita-navigare/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T05:55:00+00:00"
+    },
+    {
+      "titolo": "Huawei, verdetto USA: colpevole di frode e cospirazione per furto",
+      "descrizione": "La giuria di Brooklyn ha riconosciuto Huawei colpevole per 10 capi d’accusa su 12. Il gruppo annuncia appello.",
+      "link": "https://www.hdblog.it/huawei/articoli/n678176/huawei-verdetto-usa-colpevole-frode-cospirazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T05:45:00+00:00"
+    },
+    {
+      "titolo": "Meta Muse arriva nel Regno Unito. Quando tocca all’Italia?",
+      "descrizione": "Muse debutta nel Regno Unito su app, web e WhatsApp. Le ipotesi sul debutto in Italia.",
+      "link": "https://www.hdblog.it/android/articoli/n678115/meta-muse-regno-unito-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-25T05:35:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "descrizione": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "fonte": "WIRED",
+      "data": "2026-11-24T23:39:04+00:00"
+    },
     {
       "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
       "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
@@ -56,118 +168,6 @@
       "link": "https://www.hdblog.it/google/articoli/n678037/google-ai-mode-wallet-drive-gemini/",
       "fonte": "HDblog.it",
       "data": "2026-11-24T17:20:00+00:00"
-    },
-    {
-      "titolo": "Phishing InfoCamere: possibile furto delle credenziali",
-      "descrizione": "Il CERT-AgID ha individuato una campagna di phishing che sfrutta nome e logo di InfoCamere per rubare le credenziali di accesso all'area riservata. The post Phishing InfoCamere: possibile furto delle credenziali appeared",
-      "link": "https://www.punto-informatico.it/phishing-infocamere-possibile-furto-credenziali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-24T17:19:09+00:00"
-    },
-    {
-      "titolo": "Apple vs. Epic, i tempi del contenzioso si stanno allungando molto",
-      "descrizione": "Il procedimento avrebbe dovuto essersi concluso più di un mese fa, siamo ancora fermi al punto 2 su 5.",
-      "link": "https://www.hdblog.it/apple/articoli/n678143/apple-epic-games-documenti-diatriba-tempi/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:55:00+00:00"
-    },
-    {
-      "titolo": "Microreattori nucleari su camion, Radiant amplia la produzione USA",
-      "descrizione": "Radiant amplia lo stabilimento in California e punta alle prime consegne dal 2028.",
-      "link": "https://www.hdblog.it/green/articoli/n677970/radiant-kaleidos-microreattori-produzione-stati-uniti/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:50:00+00:00"
-    },
-    {
-      "titolo": "Quantum computing, la sovranità digitale europea si decide fuori dai laboratori",
-      "descrizione": "L’Europa eccelle nella ricerca ma fatica a finanziare la crescita delle proprie imprese. Domani verrà presentato il Quantum Act. Prende forma la strategia europea al computer quantistico",
-      "link": "https://www.ilsole24ore.com/art/quantum-computing-sovranita-digitale-europea-si-decide-fuori-laboratori-AJIe0JRC",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-11-24T16:32:00+00:00"
-    },
-    {
-      "titolo": "5 progetti da sviluppare con Claude Code anche senza esperienza",
-      "descrizione": "Chi pensa che Claude Code serva solo ai programmatori si sta perdendo uno degli strumenti AI più utili in circolazione. Ecco cosa si può fare. The post 5 progetti da sviluppare con Claude Code anche senza esperienza appe",
-      "link": "https://www.punto-informatico.it/5-progetti-sviluppare-claude-code-anche-senza-esperienza/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-24T16:30:11+00:00"
-    },
-    {
-      "titolo": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
-      "descrizione": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
-      "fonte": "WIRED",
-      "data": "2026-11-24T16:28:01+00:00"
-    },
-    {
-      "titolo": "Google Chrome consuma RAM anche se è stato chiuso? La colpa potrebbe essere di Gemini",
-      "descrizione": "Vi piace avere l'assistente AI sempre disponibile? C'è un prezzo da pagare...",
-      "link": "https://www.hdblog.it/google/articoli/n678137/google-chrome-consumo-ram-chiuso-windows/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:25:00+00:00"
-    },
-    {
-      "titolo": "Nothing farà le cose in grande nel 2027: novità soprattutto per gli smartphone",
-      "descrizione": "Nothing pianifica il lancio di sei nuovi smartphone ed un investimento notevole sul mercato statunitense.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n678095/nithing-smartphone-novita-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:15:00+00:00"
-    },
-    {
-      "titolo": "MobLand 3, iniziate le riprese con Tom Hardy, Pierce Brosnan e Helen Mirren",
-      "descrizione": "Paramount+ conferma le riprese di MobLand 3 e il ritorno dei tre protagonisti.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n677857/mobland-3-inizio-riprese-cast-paramount-plus/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:10:00+00:00"
-    },
-    {
-      "titolo": "Koenigsegg risponde a BYD: caccia al record dei 532 km/h con la Jesko",
-      "descrizione": "Dopo i 503,17 km/h toccati dalla BYD Yangwang U9 Xtreme ad Abu Dhabi, Christian von Koenigsegg conferma l'assalto ai 532 km/h con la Jesko Absolut. Manca solo la gomma giusta.",
-      "link": "https://www.hdmotori.it/koenigsegg-jesko-absolut-record-velocita-532-kmh-byd/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T16:00:16+00:00"
-    },
-    {
-      "titolo": "Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees",
-      "descrizione": "The Nvidia CEO will face the Select Committee on China December 1 and then the Senate Banking Committee on December 3.",
-      "link": "https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "titolo": "Microsoft, il 2026 segna la morte del Bluetooth su Windows 11",
-      "descrizione": "Questo metodo di trasferimento dei file sta per essere dichiarato obsoleto",
-      "link": "https://www.hdblog.it/microsoft/articoli/n678096/microsoft-obsoleto-trasferimento-file-blueetooth/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T15:55:00+00:00"
-    },
-    {
-      "titolo": "Come potrebbero lavorare insieme agenti AI e robot",
-      "descrizione": "Come cambiano autonomia e controllo quando l’AI passa dal software ai robot.",
-      "link": "https://www.hdblog.it/robotica/articoli/n677875/agenti-ai-ai-fisica-differenze-robot/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T15:50:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA GeForce 621.40, nuovo tentativo di frenare le scritture sugli SSD",
-      "descrizione": "Il driver GeForce 621.40 torna a correggere le scritture anomale sugli SSD.",
-      "link": "https://www.hdblog.it/hardware/articoli/n678125/nvidia-geforce-62140-driver-scritture-ssd/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T15:40:00+00:00"
-    },
-    {
-      "titolo": "Moto Morini Rumble: la nuova bobber italiana costa 4.390 euro",
-      "descrizione": "La nuova Moto Morini Rumble debutta in Italia a 4.390 euro con ordini aperti e consegne da novembre: motore V-Twin da 349 cc per patente A2, cinghia e display TFT.",
-      "link": "https://www.hdmotori.it/moto-morini-rumble-prezzo-caratteristiche-uscita-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-24T15:30:57+00:00"
-    },
-    {
-      "titolo": "Amazon Leo: Ariane 6 porta in orbita altri 36 satelliti",
-      "descrizione": "Con un giorno di ritardo è stato lanciato il razzo Ariane 6 di Arianespace che ha portato in orbita altri 36 satelliti della costellazione Amazon Leo. The post Amazon Leo: Ariane 6 porta in orbita altri 36 satelliti appe",
-      "link": "https://www.punto-informatico.it/amazon-leo-ariane-6-porta-orbita-altri-36-satelliti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-24T15:27:19+00:00"
     }
   ]
 }
