@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-11-26T08:25:48.636783+00:00",
+  "last_updated": "2026-11-26T21:37:37.205752+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ha iniziato a unire Chat e Work, nonostante i feedback",
-      "descrizione": "Chat e Work si fondono in ChatGPT, ma la novità solleva critiche: per qualcuno l'integrazione può ridurre l'accesso ai modelli avanzati. The post ChatGPT ha iniziato a unire Chat e Work, nonostante i feedback appeared fi",
-      "link": "https://www.punto-informatico.it/chatgpt-iniziato-unire-chat-work-nonostante-feedback/",
+      "titolo": "ChatGPT, aggiornamento a GPT-6.2: 5 cose da provare subito",
+      "descrizione": "OpenAI ha portato una versione di GPT-6.2 Sol nella scheda di conversazione normale di ChatGPT. 5 prompt per testarlo nella vita quotidiana. The post ChatGPT, aggiornamento a GPT-6.2: 5 cose da provare subito appeared fi",
+      "link": "https://www.punto-informatico.it/chatgpt-aggiornamento-gpt-6-2-5-cose-provare-subito/",
       "fonte": "Punto Informatico",
-      "data": "2026-11-26T07:04:49+00:00",
+      "data": "2026-11-26T16:30:19+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-      "descrizione": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-17T23:14:05+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
-      "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
-      "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-24T20:38:08+00:00",
+      "titolo": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "descrizione": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "fonte": "WIRED",
+      "data": "2026-11-26T12:00:00+00:00",
       "modello": "gemini"
     },
     {
