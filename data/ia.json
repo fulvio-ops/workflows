@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-25T21:44:38.781346+00:00",
+  "last_updated": "2026-11-26T08:25:48.636783+00:00",
   "items": [
     {
-      "titolo": "OpenAI, nuove accuse sulle registrazioni delle riunioni interne",
-      "descrizione": "La procura USA riferisce di decine di conversazioni registrate. La difesa contesta le accuse.",
-      "link": "https://www.hdblog.it/internet/articoli/n678155/openai-accuse-registrazioni-riunioni-interne/",
-      "fonte": "HDblog.it",
-      "data": "2026-11-25T16:40:00+00:00",
+      "titolo": "ChatGPT ha iniziato a unire Chat e Work, nonostante i feedback",
+      "descrizione": "Chat e Work si fondono in ChatGPT, ma la novità solleva critiche: per qualcuno l'integrazione può ridurre l'accesso ai modelli avanzati. The post ChatGPT ha iniziato a unire Chat e Work, nonostante i feedback appeared fi",
+      "link": "https://www.punto-informatico.it/chatgpt-iniziato-unire-chat-work-nonostante-feedback/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-26T07:04:49+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Flashcard di Gemini Notebook con immagini, cronometro e promemoria",
-      "descrizione": "Gemini Notebook lancia tre novità nelle flashcard: immagini dai documenti, cronometro per le sessioni di studio e promemoria sull'app mobile. The post Flashcard di Gemini Notebook con immagini, cronometro e promemoria ap",
-      "link": "https://www.punto-informatico.it/flashcard-gemini-notebook-immagini-timer-promemoria/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-25T14:30:00+00:00",
+      "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+      "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+      "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-24T20:38:08+00:00",
       "modello": "gemini"
     },
     {
