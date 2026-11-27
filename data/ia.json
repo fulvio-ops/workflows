@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-27T08:40:24.750615+00:00",
+  "last_updated": "2026-11-27T21:21:05.796931+00:00",
   "items": [
     {
-      "titolo": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
-      "descrizione": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
-      "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-23T13:29:04+00:00",
+      "titolo": "ChatGPT per Android diventerà molto più versatile: telefonate, SMS e molto altro",
+      "descrizione": "Invierà / leggerà SMS, avvierà chiamate, potrà perfino analizzare gli screenshot su richiesta dell'utente.",
+      "link": "https://www.hdblog.it/android/articoli/n678611/chatgpt-android-sms-telefonate-multimedia/",
+      "fonte": "HDblog.it",
+      "data": "2026-11-27T16:45:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "ASUS Chromebook CM14 a -43%: minimo storico nel Black Friday",
-      "descrizione": "ASUS Chromebook CM14 tocca il minimo storico per il Black Friday: -43%, ChromeOS, display Full HD da 14 pollici e tre mesi di Google AI. The post ASUS Chromebook CM14 a -43%: minimo storico nel Black Friday appeared firs",
-      "link": "https://www.punto-informatico.it/asus-chromebook-cm14-minimo-storico-black-friday/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-27T07:32:17+00:00",
+      "titolo": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "descrizione": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "fonte": "WIRED",
+      "data": "2026-11-26T12:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
-      "descrizione": "Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.",
-      "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
-      "fonte": "news – ZDNET",
-      "data": "2026-11-25T18:54:05+00:00",
+      "titolo": "Claude costruisce applicazioni per il computer: 5 idee da provare",
+      "descrizione": "Si chiede a Claude di creare un timer per le sessioni di lavoro concentrato e il chatbot realizza uno strumento perfettamente funzionante. È possibile personalizzare i colori, usare i pulsanti e persino ascoltare un suon",
+      "link": "https://www.punto-informatico.it/claude-costruisce-applicazioni-computer-5-idee-provare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-27T16:30:58+00:00",
       "modello": "claude"
     }
   ]
