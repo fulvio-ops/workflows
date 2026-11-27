@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-11-26T21:37:37.205752+00:00",
+  "last_updated": "2026-11-27T08:40:24.750615+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, aggiornamento a GPT-6.2: 5 cose da provare subito",
-      "descrizione": "OpenAI ha portato una versione di GPT-6.2 Sol nella scheda di conversazione normale di ChatGPT. 5 prompt per testarlo nella vita quotidiana. The post ChatGPT, aggiornamento a GPT-6.2: 5 cose da provare subito appeared fi",
-      "link": "https://www.punto-informatico.it/chatgpt-aggiornamento-gpt-6-2-5-cose-provare-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-11-26T16:30:19+00:00",
+      "titolo": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
+      "descrizione": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
+      "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-23T13:29:04+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
-      "descrizione": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
-      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-      "fonte": "WIRED",
-      "data": "2026-11-26T12:00:00+00:00",
+      "titolo": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+      "descrizione": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "fonte": "news – ZDNET",
+      "data": "2026-11-17T23:14:05+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "ASUS Chromebook CM14 a -43%: minimo storico nel Black Friday",
+      "descrizione": "ASUS Chromebook CM14 tocca il minimo storico per il Black Friday: -43%, ChromeOS, display Full HD da 14 pollici e tre mesi di Google AI. The post ASUS Chromebook CM14 a -43%: minimo storico nel Black Friday appeared firs",
+      "link": "https://www.punto-informatico.it/asus-chromebook-cm14-minimo-storico-black-friday/",
+      "fonte": "Punto Informatico",
+      "data": "2026-11-27T07:32:17+00:00",
       "modello": "gemini"
     },
     {
