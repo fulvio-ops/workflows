@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T21:21:05.796931+00:00",
+  "last_updated": "2026-11-28T07:54:28.631163+00:00",
   "items": [
     {
       "titolo": "ChatGPT per Android diventerà molto più versatile: telefonate, SMS e molto altro",
@@ -10,19 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-      "descrizione": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "titolo": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+      "descrizione": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+      "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
       "fonte": "news – ZDNET",
-      "data": "2026-11-17T23:14:05+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
-      "descrizione": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
-      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-      "fonte": "WIRED",
-      "data": "2026-11-26T12:00:00+00:00",
+      "data": "2026-11-24T20:38:08+00:00",
       "modello": "gemini"
     },
     {
